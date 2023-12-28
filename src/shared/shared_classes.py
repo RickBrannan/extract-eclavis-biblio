@@ -28,7 +28,7 @@ class ApocryphalWriting:
     alt_titles: list = field(default_factory=list)
     clavis_number: int = 0
     category: str = ""
-    compiler: str = "Tony Burke, York University"
+    compiler: str = "[not available]"
     bibliography_entries: list = field(default_factory=list) # these use the `BibliographicEntry` dataclass
     # date?
 
