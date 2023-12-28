@@ -1,0 +1,32 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-thomas-by-nicetas-of-paphlagonia/",
+  "nasscal_title": "Encomium on Thomas, by Nicetas of Paphlagonia",
+  "filename": "encomium-on-thomas-by-nicetas-of-paphlagonia",
+  "latin_title": "Laudatio Thomae, auctore Niceta Paphlagone",
+  "abbrev": "Encom. Thom.",
+  "alt_titles": [
+    "Encomium on Thomas"
+  ],
+  "clavis_number": 294,
+  "category": "Apocryphal Acts",
+  "compiler": "[not available]",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>PG 105, 127–146</p>",
+      "line_text": "PG 105, 127–146",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

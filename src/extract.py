@@ -11,7 +11,7 @@ from dataclasses import dataclass
 
 
 # ok, do we use saved data or scrape new data?
-use_local_data = True
+use_local_data = False
 
 primary_url = "https://www.nasscal.com/"
 folder_url = "e-clavis-christian-apocrypha/"
