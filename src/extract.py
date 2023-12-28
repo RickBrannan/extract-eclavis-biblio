@@ -11,11 +11,11 @@ from dataclasses import dataclass
 
 
 # ok, do we use saved data or scrape new data?
-use_local_data = False
+use_local_data = True
 
-base_url = "https://www.nasscal.com/e-clavis-christian-apocrypha/"
 primary_url = "https://www.nasscal.com/"
 folder_url = "e-clavis-christian-apocrypha/"
+base_url = f"{primary_url}{folder_url}"
 response = requests.get(base_url, headers={"User-Agent": "biblio-extract"})
 htmlparser = etree.HTMLParser(remove_pis=True, remove_comments=True, remove_blank_text=True)
 tree = etree.fromstring(response.text, htmlparser)
@@ -59,10 +59,10 @@ for link_url in links:
     article = tree.xpath(".//article")[0]
     # get the title from the doc
     article_title = article.xpath(".//header/h1")[0].text
-    if apoc.nasscal_toc_title != article_title:
+    if apoc.nasscal_title != article_title:
         apoc.alt_titles = []
-        apoc.alt_titles.append(copy.copy(apoc.nasscal_toc_title))
-        apoc.nasscal_toc_title = article_title
+        apoc.alt_titles.append(copy.copy(apoc.nasscal_title))
+        apoc.nasscal_title = article_title
     # get latin title from the doc
     latin_title = article.xpath(".//div/p/strong")[0].text
     apoc.latin_title = latin_title

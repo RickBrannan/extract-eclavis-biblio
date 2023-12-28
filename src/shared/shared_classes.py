@@ -21,7 +21,7 @@ class BibliographyEntry:
 @dataclass
 class ApocryphalWriting:
     nasscal_url: str
-    nasscal_toc_title: str
+    nasscal_title: str
     filename: str
     latin_title: str = ""
     abbrev: str = ""
