@@ -15,19 +15,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 111, 5</p>",
       "line_text": "Cairo, Coptic Museum, 111, 5",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 457 (17th/18th cent.), fols. 11<sup>v</sup>–24<sup>r</sup></p>",
       "line_text": "Cairo 457 (17th/18th cent.), fols. 11v–24r",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 467, fols. 152<sup>r</sup>–159<sup>r</sup> (18th cent.)</p>",
       "line_text": "Cairo 467, fols. 152r–159r (18th cent.)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n505/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1:464).</p>",
@@ -42,7 +42,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7029/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 7029, fols. 67<sup>v</sup>–75<sup>v</sup> (992) (=MERC.AM)</p>",
       "line_text": "London, British Library, Or. 7029, fols. 67v–75v (992) (=MERC.AM)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7029/"
       ]
@@ -51,7 +51,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m607/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M607, fols. 2<sup>r</sup>–23<sup>r</sup> (974) (=MICH.BB)</p>",
       "line_text": "New York, Morgan Library and Museum, M607, fols. 2r–23r (974) (=MICH.BB)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m607/"
       ]
@@ -75,37 +75,37 @@
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of St. Michael, EMML 569, fols. 5<sup>r</sup>–13<sup>r</sup> (ca. 1770)</p>",
       "line_text": "Addis Ababa, Church of St. Michael, EMML 569, fols. 5r–13r (ca. 1770)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of St. Michael, EMML 570, fols. 8<sup>r</sup>–20<sup>r</sup> (20th cent.)</p>",
       "line_text": "Addis Ababa, Church of St. Michael, EMML 570, fols. 8r–20r (20th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Pariarchate Library, EMML 646, fols. 15<sup>r</sup>–28<sup>r</sup> (1916/1922)</p>",
       "line_text": "Addis Ababa, Pariarchate Library, EMML 646, fols. 15r–28r (1916/1922)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Gubālāfto, Library of Qēs Haddis, EMML 1433, fols.  5<sup>r</sup>–12<sup>v</sup> (18th cent.)</p>",
       "line_text": "Gubālāfto, Library of Qēs Haddis, EMML 1433, fols.  5r–12v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 608, fols. 1<sup>v</sup>–9<sup>r</sup> (ca. 1716–1721)</p>",
       "line_text": "London, British Library, Or. 608, fols. 1v–9r (ca. 1716–1721)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-609/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 609, fols. 5<sup>r</sup>–15<sup>v</sup> (17th/18th cent.)</p>",
       "line_text": "London, British Library, Or. 609, fols. 5r–15v (17th/18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-609/"
       ]
@@ -114,7 +114,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. et. 82, fols. 5<sup>v</sup>–12<sup>v</sup> (1896)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. et. 82, fols. 5v–12v (1896)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/miscellaneouscop00budguoft/page/1020\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. W. <em>Miscellaneous Coptic Texts in the Dialect of Upper Egypt.</em> London: British Museum, 1915 (text of BL Or. 7039, pp. 513–25, English translation, pp. 1022–33).</p>",

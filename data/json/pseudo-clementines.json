@@ -17,7 +17,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Galata, Armenian Patriarchate of Istanbul, 54, pp. 32–34 (14th cent.)</p>",
       "line_text": "Galata, Armenian Patriarchate of Istanbul, 54, pp. 32–34 (14th cent.)",
       "language": "Armenian",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Calzolari, Valentina. “La tradition arménienne des <em>Pseudo-Clémentines</em>: État de la question.” <em>Apocrypha</em> 4 (1993): 263–93 (Armenian text and French translation, pp. 266–77).</p>",
@@ -38,7 +38,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Beirut, Université Saint-Joseph, Bib. or. 626, fols. 58<sup>v</sup>–61<sup>v</sup> (19th cent.) ~ unverified (described as “Life of Clement”; <a href=\"https://w3id.org/vhmml/readingRoom/view/505016\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Beirut, Université Saint-Joseph, Bib. or. 626, fols. 58v–61v (19th cent.) ~ unverified (described as “Life of Clement”; IMAGES",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/505016"
       ]
@@ -47,13 +47,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fols. 188<sup>r</sup>–195<sup>v</sup> (1659)</p>",
       "line_text": "London, British Library, Add. 9965, fols. 188r–195v (1659)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 311, fols. 126<sup>r</sup>–129<sup>v</sup> (undated) ~ <em>Epistle of Peter to Clemen</em>t only (<a href=\"https://w3id.org/vhmml/readingRoom/view/503661\" target=\"_blank\" rel=\"noopener\">IMAGES</a>)</p>",
       "line_text": "Mardin, Church of the Forty Martyrs, 311, fols. 126r–129v (undated) ~ Epistle of Peter to Clement only (IMAGES)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/503661"
       ]
@@ -62,7 +62,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mosul, Dominican Friars of Mosul, 404, fols. 33<sup>r</sup>–111<sup>r</sup> (18th cent.) ~ unevaluated (“theological discourses”) <a href=\"https://w3id.org/vhmml/readingRoom/view/134578\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Mosul, Dominican Friars of Mosul, 404, fols. 33r–111r (18th cent.) ~ unevaluated (“theological discourses”) IMAGES",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/134578"
       ]
@@ -71,13 +71,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, pp. 1–35 (10th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, pp. 1–35 (10th cent.)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-150/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, arabe 150, fols. 290<sup>r</sup>–299<sup>v</sup> (1606) ~ <em>Epistle of Peter to Clemen</em>t only</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe 150, fols. 290r–299v (1606) ~ Epistle of Peter to Clement only",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-150/"
       ]
@@ -104,13 +104,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum (F. 80370), Uspenskij 988, fols. 1157ff. (16th cent.) (=Otero 4)</p>",
       "line_text": "Moscow, State Historical Museum (F. 80370), Uspenskij 988, fols. 1157ff. (16th cent.) (=Otero 4)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, slav. 145 (9), fols. 371v–374v (17th cent.) (=Otero 9)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, slav. 145 (9), fols. 371v–374v (17th cent.) (=Otero 9)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>De Santos Otero, Aurelio. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978 and 1981 (manuscripts listed vol. 1, pp. 140–46; see nos. 4, 6, 9, 13–14, 16, 18).</p>",
@@ -143,7 +143,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 80<sup>r</sup>–90<sup>v</sup> (17th cent.) ~ <span class=\"\">Story of Faustus and his Son Clement</span></p>",
       "line_text": "Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 80r–90v (17th cent.) ~ Story of Faustus and his Son Clement",
       "language": "Garšūnī",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/"
       ]
@@ -158,13 +158,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Meteōra, Monē Barlaam, 16, fols. 326<sup>r</sup>–71<sup>r</sup> (16th cent.) ~ <em>Epistle of Clement to James</em> only; unevaluated</p>",
       "line_text": "Meteōra, Monē Barlaam, 16, fols. 326r–71r (16th cent.) ~ Epistle of Clement to James only; unevaluated",
       "language": ".1 Homilies",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-930/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 930, fols. 4<sup>v</sup>–283<sup>v </sup> (10th cent.) ~ ending lost</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 930, fols. 4v–283v  (10th cent.) ~ ending lost",
       "language": ".1 Homilies",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-930/"
       ]
@@ -173,37 +173,37 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1379, fols. 138<sup>v</sup> (10th cent.) ~ portion of <em>Epistle of Clement to James</em> only</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1379, fols. 138v (10th cent.) ~ portion of Epistle of Clement to James only",
       "language": ".1 Homilies",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Casanatense, 1357, fol. 10r–10<sup>v</sup> (16th/17th cent.) ~ <em>Epistle of Peter</em> only</p>",
       "line_text": "Rome, Biblioteca Casanatense, 1357, fol. 10r–10v (16th/17th cent.) ~ Epistle of Peter only",
       "language": ".1 Homilies",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 443, fols. 2–160 (1562–1564 CE)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 443, fols. 2–160 (1562–1564 CE)",
       "language": ".1 Homilies",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 7, fol. 13<sup>v</sup> (ca. 1200) ~ portion of <em>Epistle of Clement to James</em> only</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 7, fol. 13v (ca. 1200) ~ portion of Epistle of Clement to James only",
       "language": ".1 Homilies",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 73, fols. 1<sup>r</sup>–1<sup>v </sup> (10th cent.) ~ <em>Epistle of Clement to James</em> only</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 73, fols. 1r–1v  (10th cent.) ~ Epistle of Clement to James only",
       "language": ".1 Homilies",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/messina-biblioteca-universitaria-san-salvatoris-30/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Messina, Biblioteca Universitaria, San Salvatoris 30, fols. 144<sup>r</sup>–148<sup>v </sup>(1307)</p>",
       "line_text": "Messina, Biblioteca Universitaria, San Salvatoris 30, fols. 144r–148v (1307)",
       "language": ".2 Pre-Metaphrastic Epitome",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/messina-biblioteca-universitaria-san-salvatoris-30/"
       ]
@@ -212,7 +212,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-808/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 808, fols. <span lang=\"EN-US\">342<sup>r</sup>–409<sup>r</sup></span>(11th cent.)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 808, fols. 342r–409r(11th cent.)",
       "language": ".2 Pre-Metaphrastic Epitome",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-808/"
       ]
@@ -221,7 +221,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-trinity-college-o-8-33/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Trinity College, O.8.3, fols. 387<sup>v</sup>–429<sup>v</sup> (16th cent.)</p>",
       "line_text": "Cambridge, Trinity College, O.8.3, fols. 387v–429v (16th cent.)",
       "language": ".3 Metaphrastic Epitome",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-trinity-college-o-8-33/"
       ]
@@ -230,13 +230,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 443, fols.  161–234 (1562–1564 CE)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 443, fols.  161–234 (1562–1564 CE)",
       "language": ".3 Metaphrastic Epitome",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 664<sup>v</sup>–669<sup>r </sup>(1542)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 664v–669r (1542)",
       "language": ".3 Metaphrastic Epitome",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
       ]
@@ -329,7 +329,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-13707/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 13707, fols. 1<sup>r</sup>–70<sup>v</sup> (1472) (<em>Recognition</em> and <em>Epistle of Peter to James</em>)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 13707, fols. 1r–70v (1472) (Recognition and Epistle of Peter to James)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-13707/"
       ]
@@ -377,13 +377,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Add. 2023, fols. 60<sup>v</sup>–61<sup>r</sup> (13th cent.) ~ excerpt <em>Hom.</em> 12.6.4–8.3 and <em>Rec.</em> 1.25.2, 26.1–2</p>",
       "line_text": "Cambridge, University Library, Add. 2023, fols. 60v–61r (13th cent.) ~ excerpt Hom. 12.6.4–8.3 and Rec. 1.25.2, 26.1–2",
       "language": ".1 Homilies and Recognitions",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-12150/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 12150, fols. 1<sup>v</sup>–72<sup>v</sup> (411 CE) ~ <em>Hom.</em> 10–12.24 and 13–14.12 and <em>Rec.</em> 1–4.1.4 and 7</p>",
       "line_text": "London, British Library, Add. 12150, fols. 1v–72v (411 CE) ~ Hom. 10–12.24 and 13–14.12 and Rec. 1–4.1.4 and 7",
       "language": ".1 Homilies and Recognitions",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-12150/"
       ]
@@ -392,25 +392,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14609, fols. 123<sup>r</sup>–187<sup>v</sup> (587 CE) ~ <em>Rec.</em> 1–4.1.4</p>",
       "line_text": "London, British Library, Add. 14609, fols. 123r–187v (587 CE) ~ Rec. 1–4.1.4",
       "language": ".1 Homilies and Recognitions",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 12155, fols. 83<sup>r</sup> (8th cent.) ~ <em>Rec.</em> 1.30.5</p>",
       "line_text": "London, British Library, Add. 12155, fols. 83r (8th cent.) ~ Rec. 1.30.5",
       "language": ".1 Homilies and Recognitions",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 17194, fols. 16<sup>r</sup>–16<sup>v</sup> (885–886 CE) ~ <em>Rec.</em> 1.30.4–5</p>",
       "line_text": "London, British Library, Add. 17194, fols. 16r–16v (885–886 CE) ~ Rec. 1.30.4–5",
       "language": ".1 Homilies and Recognitions",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14536, fols. 8<sup>v</sup>–9<sup>r</sup> (8th cent.) ~ <em>Rec.</em> 3.18.1–6</p>",
       "line_text": "London, British Library, Add. 14536, fols. 8v–9r (8th cent.) ~ Rec. 3.18.1–6",
       "language": ".1 Homilies and Recognitions",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Frankenberg, Wilhelm. <em>Die syrischen Clementinen mit griechischem Paralleltext: Eine Vorarbeit zu dem literargeschichtlichen Problem der Sammlung</em>. TUGAL 48.3. Leipzig: J. C. Hinrichs, 1937 (first critical edition of the Syriac text with Greek retro-translation).</p>",
@@ -431,25 +431,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">Damascus, Syriac Orthodox Patriarchate, 12/17 (olim Dayr al-Zafaran 18), fols. 212<sup>v</sup>–214<sup>v </sup>(12th cent.)</p>",
       "line_text": "Damascus, Syriac Orthodox Patriarchate, 12/17 (olim Dayr al-Zafaran 18), fols. 212v–214v (12th cent.)",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 12174, fols. 280<sup>r</sup>–283<sup>r</sup> (1197)</p>",
       "line_text": "London, British Library, Add. 12174, fols. 280r–283r (1197)",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Manchester, John Rylands Library, Syr. 45 A, pp. 1–8 ~ copied from an 11th cent. manuscript in Dayr al-Zafaran</p>",
       "line_text": "Manchester, John Rylands Library, Syr. 45 A, pp. 1–8 ~ copied from an 11th cent. manuscript in Dayr al-Zafaran",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 253 (olim <span class=\"\">Dayr al-Za‘farān 121/7</span>), pp. 9–18 (13th/14th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/502143\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Mardin, Church of the Forty Martyrs, 253 (olim Dayr al-Za‘farān 121/7), pp. 9–18 (13th/14th cent.) ~ IMAGES",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/502143"
       ]
@@ -458,7 +458,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 256, pp. 19–26 (17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/502144\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Mardin, Church of the Forty Martyrs, 256, pp. 19–26 (17th cent.) ~ IMAGES",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/502144"
       ]
@@ -467,7 +467,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 257, pp. 462–490 (15th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/124725\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Mardin, Church of the Forty Martyrs, 257, pp. 462–490 (15th cent.) ~ IMAGES",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/124725"
       ]
@@ -476,7 +476,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mosul, Dominican Friars of Mosul, 641, fols. 85<sup>v</sup>–94<sup>v</sup> (20th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/134815\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Mosul, Dominican Friars of Mosul, 641, fols. 85v–94v (20th cent.) ~ IMAGES",
       "language": ".2 Story of Clement",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/134815"
       ]

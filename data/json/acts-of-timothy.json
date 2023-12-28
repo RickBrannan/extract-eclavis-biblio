@@ -90,7 +90,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Glasgow, University Library, MS Gen 1112 (BE 8.x.5), fols. 238<sup>r</sup>–238<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17299/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Glasgow, University Library, MS Gen 1112 (BE 8.x.5), fols. 238r–238v (10th cent.) ~ Pinakes",
       "language": ".2 BHG 1847g",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/17299/"
       ]
@@ -111,7 +111,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 341 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1613\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 341 (10th cent.) ~ Pinakes; BAV",
       "language": ".3 Menologion of Basil II",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68244/",
         "https://digi.vatlib.it/view/MSS_Vat.gr.1613"
@@ -139,7 +139,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Paris, Bibliothèque nationale de France, lat. 17625, fols. 202<sup>v</sup>–204<sup>r</sup> (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10547742w\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "C  Paris, Bibliothèque nationale de France, lat. 17625, fols. 202v–204r (10th cent.) ~ Gallica",
       "language": ".1 BHL 8294",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10547742w"
       ]
@@ -148,7 +148,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Paris, Bibliothèque nationale de France, lat. 5300, fols. 46<sup>v</sup>–47<sup>v</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10037464s\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "F  Paris, Bibliothèque nationale de France, lat. 5300, fols. 46v–47v (13th cent.) ~ Gallica",
       "language": ".1 BHL 8294",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10037464s"
       ]

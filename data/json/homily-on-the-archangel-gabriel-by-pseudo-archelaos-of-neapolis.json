@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe  145, fols. 280<sup>v</sup>–311<sup>r</sup> (<a href=\"https://gallica.bnf.fr/ark:/12148/btv1b11004628z\" target=\"_blank\" rel=\"noopener noreferrer\">GALLICA</a>)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe  145, fols. 280v–311r (GALLICA)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b11004628z"
       ]
@@ -24,13 +24,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe  147, fols. 34<sup>r</sup>–57<sup>r</sup></p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe  147, fols. 34r–57r",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-148/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, arabe 148, fols. 34<sup>r</sup>–56<sup>v</sup> (1654–1655)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe 148, fols. 34r–56v (1654–1655)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-148/"
       ]
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe  4879 (<a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10031784p\" target=\"_blank\" rel=\"noopener noreferrer\">GALLICA</a>)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe  4879 (GALLICA)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10031784p"
       ]
@@ -48,7 +48,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe  6985 (<a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10030262q\" target=\"_blank\" rel=\"noopener noreferrer\">GALLICA</a>)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe  6985 (GALLICA)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10030262q"
       ]
@@ -57,7 +57,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 24, fols. 39<sup>r</sup>–41<sup>v</sup> (1360) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n327/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 11-2</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 24, fols. 39r–41v (1360) (CMB 11-2)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n327/mode/2up"
       ]
@@ -66,7 +66,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 32, fols. 39<sup>r</sup>–60<sup>v</sup> (17th/18th cent.) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n361/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 11-11d</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 32, fols. 39r–60v (17th/18th cent.) (CMB 11-11d)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n361/mode/2up"
       ]
@@ -75,7 +75,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 190(A), fols. 42<sup>v</sup>–68<sup>v</sup> (16th/17th cent.) ~ (<a href=\"https://archive.org/details/MacomberCopticMuseum.I.BYURollsA120/page/n299/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMA 10-2</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 190(A), fols. 42v–68v (16th/17th cent.) ~ (CMA 10-2)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.I.BYURollsA120/page/n299/mode/2up"
       ]
@@ -84,7 +84,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 6437(I), fols. 36<sup>r</sup>–40<sup>v</sup> (18th/19th cent.) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n211/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 8-20I</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 6437(I), fols. 36r–40v (18th/19th cent.) (CMB 8-20I)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n211/mode/2up"
       ]
@@ -93,7 +93,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 6438B, fols. 60<sup>r</sup>–70<sup>r</sup> (14th cent.) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n129/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 7-34</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 6438B, fols. 60r–70r (14th cent.) (CMB 7-34)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n129/mode/2up"
       ]
@@ -102,7 +102,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 6417, fols. 2<sup>r</sup>–14<sup>v</sup> (16th cent.) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n131/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 8-1A</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 6417, fols. 2r–14v (16th cent.) (CMB 8-1A)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n131/mode/2up"
       ]
@@ -111,7 +111,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 6427(B), fols. 9<sup>r</sup>–16<sup>v</sup> (19th cent.) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n179/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 8-10B</a>)</p>",
       "line_text": "Cairo, Coptic Museum, 6427(B), fols. 9r–16v (19th cent.) (CMB 8-10B)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n179/mode/2up"
       ]
@@ -120,31 +120,31 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 445, fols. 255<sup>r</sup>–266<sup>v </sup>(1691–1693)</p>",
       "line_text": "Cairo 445, fols. 255r–266v (1691–1693)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 447, 6</p>",
       "line_text": "Cairo 447, 6",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 467, fols. 240<sup>r</sup>–257<sup>v</sup> (18th cent.)</p>",
       "line_text": "Cairo 467, fols. 240r–257v (18th cent.)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 719, fols. 52<sup>r</sup>–53<sup>v</sup> (1380)</p>",
       "line_text": "Cairo 719, fols. 52r–53v (1380)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo 728, fols. 157<sup>r</sup>–177<sup>r</sup> (17th cent.)</p>",
       "line_text": "Cairo 728, fols. 157r–177r (17th cent.)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n585/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Studi e testi 118, 133, 146–147, 172. Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (Arabic witnesses listed in vol 1:544).</p>",
@@ -165,7 +165,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. Copt. 59, fols. 30<sup>r</sup>–49<sup>v</sup> (884; =MACA.AR; <a href=\"http://paths.uniroma1.it/atlas/manuscripts/85\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) – see Hyvernat Album pl. 22; colophon fol. 29<sup>v</sup> gives date ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.copt.59\" target=\"_blank\" rel=\"noopener noreferrer\">DIGIVATLIB</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. Copt. 59, fols. 30r–49v (884; =MACA.AR; PAThs entry) – see Hyvernat Album pl. 22; colophon fol. 29v gives date ~ DIGIVATLIB",
       "language": ".1 Bohairic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://paths.uniroma1.it/atlas/manuscripts/85",
         "https://digi.vatlib.it/view/MSS_Vat.copt.59"
@@ -175,7 +175,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek, 1089 (Tischendorf XXVII), fol. 2 + Cairo, Coptic Museum, Abu Maqar 39 (<a href=\"http://paths.uniroma1.it/atlas/manuscripts/1648\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) ~ corresponds to 35<sup>r</sup>–37<sup>r</sup> of Vat. Copt. 59</p>",
       "line_text": "Leipzig, Universitätsbibliothek, 1089 (Tischendorf XXVII), fol. 2 + Cairo, Coptic Museum, Abu Maqar 39 (PAThs entry) ~ corresponds to 35r–37r of Vat. Copt. 59",
       "language": ".1 Bohairic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://paths.uniroma1.it/atlas/manuscripts/1648"
       ]
@@ -220,7 +220,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m583/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M583 (=MICH.BP), fols. 1<sup>r</sup>–16<sup>v</sup> (848)</p>",
       "line_text": "New York, Morgan Library and Museum, M583 (=MICH.BP), fols. 1r–16v (848)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m583/"
       ]
@@ -229,7 +229,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">MONB.CU (<a href=\"https://atlas.paths-erc.eu/manuscripts/328\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry):</p>",
       "line_text": "MONB.CU (PAThs entry):",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/328"
       ]
@@ -271,7 +271,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Leuven, Katholieke Universiteit Leuven, 38 (7th/8th cent.; <a href=\"http://paths.uniroma1.it/atlas/manuscripts/757\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) ~ destroyed in fire</p>",
       "line_text": "Leuven, Katholieke Universiteit Leuven, 38 (7th/8th cent.; PAThs entry) ~ destroyed in fire",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://paths.uniroma1.it/atlas/manuscripts/757"
       ]
@@ -292,7 +292,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-preusischer-kulturbesitz-or-fol-117/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, or. fol. 117, pp. 197–206 (14th cent.)</p>",
       "line_text": "Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, or. fol. 117, pp. 197–206 (14th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-preusischer-kulturbesitz-or-fol-117/"
       ]
@@ -301,127 +301,127 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. et. 82 (II, p. 309 in Grebaut-Tisserant)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. et. 82 (II, p. 309 in Grebaut-Tisserant)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Institute of Ethiopian Studies, 37 (EMML 1311), fols. 1031<sup>v</sup>–1051<sup>v</sup>, 1431<sup>r</sup>–1451<sup>r</sup> (19th cent.)</p>",
       "line_text": "Addis Ababa, Institute of Ethiopian Studies, 37 (EMML 1311), fols. 1031v–1051v, 1431r–1451r (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ambassal, Monastery of Ḥayq Esṭifānos, EMML 1835, fols. 76<sup>v</sup>–106<sup>v</sup> (15th cent.)</p>",
       "line_text": "Ambassal, Monastery of Ḥayq Esṭifānos, EMML 1835, fols. 76v–106v (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ambassal, Monastery of Ḥayq Esṭifānos, EMML 1837, fols. 160<sup>r</sup>–165<sup>r</sup> (no date provided)</p>",
       "line_text": "Ambassal, Monastery of Ḥayq Esṭifānos, EMML 1837, fols. 160r–165r (no date provided)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ambassal, Monastery of Ḥayq Esṭifānos, EMML 1841, fols. 62<sup>v</sup>–89<sup>r</sup> (17th cent.)</p>",
       "line_text": "Ambassal, Monastery of Ḥayq Esṭifānos, EMML 1841, fols. 62v–89r (17th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ankobarr, Church of G<sup>w</sup>eguf Mikā’ēl, EMML 3527, fol. 51<sup>v</sup>–53<sup>r</sup> (19th cent.)</p>",
       "line_text": "Ankobarr, Church of Gweguf Mikā’ēl, EMML 3527, fol. 51v–53r (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ankobarr, Church of Masčā (Gadām) Māryām, EMML 3986, fol. 30<sup>r</sup>–32<sup>v</sup> (19th cent.)</p>",
       "line_text": "Ankobarr, Church of Masčā (Gadām) Māryām, EMML 3986, fol. 30r–32v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ankobarr, Church of Sinā Mikā’ēl, EMML 2229, fols. 119<sup>r</sup>–123<sup>r</sup> (18th cent.)</p>",
       "line_text": "Ankobarr, Church of Sinā Mikā’ēl, EMML 2229, fols. 119r–123r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ankobarr, Church of Tarater Gabre’ēl, EMML 3142, fols. 79<sup>r</sup>–83<sup>v</sup> (19th cent.)</p>",
       "line_text": "Ankobarr, Church of Tarater Gabre’ēl, EMML 3142, fols. 79r–83v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ankobarr, Church of Tarater Gabre’ēl, EMML 3142, fols. 79<sup>r</sup>–83<sup>v</sup> (19th cent.)</p>",
       "line_text": "Ankobarr, Church of Tarater Gabre’ēl, EMML 3142, fols. 79r–83v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dabra Berhān, Church of Tabot Wāššā Giyorgis, EMML 4533, fols. 3<sup>r</sup>–4<sup>v</sup> (19th cent.)</p>",
       "line_text": "Dabra Berhān, Church of Tabot Wāššā Giyorgis, EMML 4533, fols. 3r–4v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dannaba, Church of Terater Abbo, EMML 4489, fols. 5<sup>r</sup>–6<sup>v</sup> (19th cent.)</p>",
       "line_text": "Dannaba, Church of Terater Abbo, EMML 4489, fols. 5r–6v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dannaba, Church of Terater Abbo, EMML 4505, fols. 47<sup>v</sup>–82<sup>r</sup> (19th/20th cent.)</p>",
       "line_text": "Dannaba, Church of Terater Abbo, EMML 4505, fols. 47v–82r (19th/20th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dannabā, Church of Dermā Gabre’ēl, EMML 4545, fols. 66<sup>r</sup>–68<sup>v</sup> (1953/1854)</p>",
       "line_text": "Dannabā, Church of Dermā Gabre’ēl, EMML 4545, fols. 66r–68v (1953/1854)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dasē, Church of Dasē Madhānē ‘Ālam, EMML 4800, fols. 56<sup>r</sup>–57<sup>r</sup> (18th cent.)</p>",
       "line_text": "Dasē, Church of Dasē Madhānē ‘Ālam, EMML 4800, fols. 56r–57r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dasē, Church of Dasē Madhānē ‘Ālam, EMML 4811, fols. 107<sup>r</sup>–109<sup>r</sup>, 158<sup>v</sup>–160<sup>v</sup> (20th cent.)</p>",
       "line_text": "Dasē, Church of Dasē Madhānē ‘Ālam, EMML 4811, fols. 107r–109r, 158v–160v (20th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dasē, Private library of Abbā Hezān Mehratu, EMML 4864, fols. 72<sup>r</sup>–94<sup>v</sup>(17th/18th cent.)</p>",
       "line_text": "Dasē, Private library of Abbā Hezān Mehratu, EMML 4864, fols. 72r–94v(17th/18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mogā and Wadarrā, Church of Megel Wāššā Gabre’ēl, EMML 4510, fols. 6<sup>r</sup>–22<sup>v</sup> (18th cent.)</p>",
       "line_text": "Mogā and Wadarrā, Church of Megel Wāššā Gabre’ēl, EMML 4510, fols. 6r–22v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mogā and Wadarrā, Church of Megel Wāššā Gabre’ēl, EMML 4541, fols. 7<sup>r</sup>–14<sup>r</sup> (18th cent.)</p>",
       "line_text": "Mogā and Wadarrā, Church of Megel Wāššā Gabre’ēl, EMML 4541, fols. 7r–14r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Tahulladarē, Church of Hayq Yohannes, EMML 4979, fols. 72<sup>r</sup>–94<sup>v</sup> (17th/18th cent.)</p>",
       "line_text": "Tahulladarē, Church of Hayq Yohannes, EMML 4979, fols. 72r–94v (17th/18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Yaggu, Church of Waldeyā Gabre’ēl, Gubalafto, EMML 3442, fol. 3<sup>r</sup>–8<sup>v</sup> (18th cent.)</p>",
       "line_text": "Yaggu, Church of Waldeyā Gabre’ēl, Gubalafto, EMML 3442, fol. 3r–8v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://www.coptica.ch/Devis-Homelies2.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vis, Henri de. <em>Homélies coptes de la Vaticane</em>. Vol. 2. Cahiers de Bibliothèque Copte 5. Copenhagen: Gyldendalske Roghandel-Nordisk Forlag, 1929 (text and French translation of Vat. Copt. 59, pp. 242–91; with readings from White’s text in notes, pp. 259–60; and Munier’s Cairo text in parallel, pp. 273–79).</p>",

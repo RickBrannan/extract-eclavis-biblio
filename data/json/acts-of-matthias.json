@@ -24,7 +24,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 76<sup>v</sup>–77<sup>v </sup>(12th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 76v–77v (12th cent.)",
       "language": "Sermo in natale S. Matthiae apostoli",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
       ]
@@ -33,7 +33,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12602, fols. 58<sup>v</sup>–60<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100391093\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 12602, fols. 58v–60r (12th cent.) ~ IMAGES",
       "language": "Sermo in natale S. Matthiae apostoli",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b100391093"
       ]
@@ -42,7 +42,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 9737, fols. 68<sup>r</sup>–70<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100364630.r=latin%209737?rk=42918;4\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 9737, fols. 68r–70r (12th cent.) ~ IMAGES",
       "language": "Sermo in natale S. Matthiae apostoli",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b100364630.r=latin%209737?rk=42918;4"
       ]
@@ -51,19 +51,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Angers, Bibliothèque municipale, 807, fols. 113<sup>v</sup>–115<sup>v</sup> (12th cent.)</p>",
       "line_text": "Angers, Bibliothèque municipale, 807, fols. 113v–115v (12th cent.)",
       "language": "BHL 5718",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Leiden, Rijksuniversiteit Bibliotheek, Voss. Lat. F 113</p>",
       "line_text": "Leiden, Rijksuniversiteit Bibliotheek, Voss. Lat. F 113",
       "language": "BHL 5718",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, C 125 inf., fols. 212<sup>v</sup>–215<sup>r</sup> (13th cent.)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, C 125 inf., fols. 212v–215r (13th cent.)",
       "language": "BHL 5718",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Uncertain text:</p>",
@@ -75,7 +75,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 149<sup>r</sup>–168<sup>v</sup> (1175)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 149r–168v (1175)",
       "language": "BHL 5718",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
       ]
@@ -93,7 +93,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Luxembourg, Bibliothèque Nationale, 264, fol. 377 (11th cent.)</p>",
       "line_text": "Luxembourg, Bibliothèque Nationale, 264, fol. 377 (11th cent.)",
       "language": "Passio",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Preliminary translation: on the ninth day (of August), the contest of St. Matthias the apostle. Matthias, the apostle of Christ, was indeed at first one of the seventy apostles, excelling among them in all virtue and honesty. But after Judas Iscariot, who was one of the twelve disciples, betrayed our Lord Jesus Christ to the Jews because of his greed, and having been beaten with scourges until he yielded, he brought death upon himself through a noose, the twelfth position was diminished. Then Peter, together with the ten disciples who were with him, continuing to pray, cast lots, and the lot fell on Matthias, and he was numbered with the eleven apostles instead of Judas Iscariot. After this, preaching the Gospel in further Ethiopia, and enlightening many, he was detained by the unbelievers, and having suffered greatly, he gave up his spirit to God.</p>",

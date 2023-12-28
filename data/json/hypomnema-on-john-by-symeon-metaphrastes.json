@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/chicago-university-of-chicago-joseph-regenstein-library-938/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Chicago, University of Chicago, Joseph Regenstein Library, 938, fols. 181<sup>v</sup>–191<sup>v</sup> (11th/12th cent.)</p>",
       "line_text": "Chicago, University of Chicago, Joseph Regenstein Library, 938, fols. 181v–191v (11th/12th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/chicago-university-of-chicago-joseph-regenstein-library-938/"
       ]
@@ -24,7 +24,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-11870/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>London, British Library, Add. 11870, fols. 197<sup>v</sup>–218<sup>v</sup> (11th cent.)</p>",
       "line_text": "London, British Library, Add. 11870, fols. 197v–218v (11th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-11870/"
       ]
@@ -33,7 +33,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1489/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1489, fols. 188<sup>v</sup>–200<sup>r</sup> (11th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1489, fols. 188v–200r (11th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1489/"
       ]
@@ -75,7 +75,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchē bibliothēkē, Hagiou Saba 30, fols. 29–38 (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34287/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279393739-jo\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Jerusalem, Patriarchē bibliothēkē, Hagiou Saba 30, fols. 29–38 (10th/11th cent.) ~ Pinakes; IMAGES",
       "language": "Compilation",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/34287/",
         "https://www.loc.gov/item/00279393739-jo"

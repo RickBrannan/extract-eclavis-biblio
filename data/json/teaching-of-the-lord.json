@@ -16,7 +16,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>D</strong> Paris, Bibliothèque nationale de France,  gr. 929, pp. 480–501 (15th cent.) ~ chaps 1–13, 21–34 (=Nau siglum A)</p>",
       "line_text": "D Paris, Bibliothèque nationale de France,  gr. 929, pp. 480–501 (15th cent.) ~ chaps 1–13, 21–34 (=Nau siglum A)",
       "language": "Diataxis",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/"
       ]
@@ -25,7 +25,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-390/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>E</strong>  Paris, Bibliothèque nationale de France,  gr. 390, fols. 37<sup>v</sup>–46<sup>r</sup> (16th cent.)</p>",
       "line_text": "E  Paris, Bibliothèque nationale de France,  gr. 390, fols. 37v–46r (16th cent.)",
       "language": "Diataxis",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-390/"
       ]
@@ -34,7 +34,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Milan, Biblioteca Ambrosiana, M 15 sup., fols. 212<sup>r</sup>–216<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42980/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; chaps 1–18</p>",
       "line_text": "C  Milan, Biblioteca Ambrosiana, M 15 sup., fols. 212r–216r (15th cent.) ~ Pinakes; chaps 1–18",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/42980/"
       ]
@@ -43,7 +43,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1021/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikê Bibliothêkê tês Hellados, gr. 1021, fols. 145<sup>v</sup>–155<sup>v</sup> (1518)</p>",
       "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, gr. 1021, fols. 145v–155v (1518)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1021/"
       ]
@@ -52,7 +52,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, G 63 sup., fols. 174<sup>v</sup>–176<sup>v</sup> (1000 CE) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42823/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; chaps 1–22 (BHG 812a)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, G 63 sup., fols. 174v–176v (1000 CE) ~ Pinakes; chaps 1–22 (BHG 812a)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/42823/"
       ]
@@ -61,7 +61,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Koutloumousiou, 176 (Lambros 3249), fols. 126<sup>v</sup>–132<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26205/\" target=\"_blank\" rel=\"noopener\">Pinakes</a> (BHG 812e)</p>",
       "line_text": "Mount Athos, Monē Koutloumousiou, 176 (Lambros 3249), fols. 126v–132r (15th cent.) ~ Pinakes (BHG 812e)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/26205/"
       ]
@@ -70,13 +70,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Skētē Hagiou Andreou 96, fols. 16–20 (16th cent.) ~ destroyed</p>",
       "line_text": "Mount Athos, Skētē Hagiou Andreou 96, fols. 16–20 (16th cent.) ~ destroyed",
       "language": "Didaskalia",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Rawlinson G. 4 (misc. 142), fols. 123<sup>v</sup>–132<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48342/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8574\" target=\"_blank\" rel=\"noopener\">catalog</a> (=BHG 812d)</p>",
       "line_text": "Oxford, Bodleian Library, Rawlinson G. 4 (misc. 142), fols. 123v–132v (16th cent.) ~ Pinakes; catalog (=BHG 812d)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/48342/",
         "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8574"
@@ -86,7 +86,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, 379 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54623/\" target=\"_blank\" rel=\"noopener\">Pinakes</a> (BHG 812e)</p>",
       "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, 379 (16th cent.) ~ Pinakes (BHG 812e)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/54623/"
       ]
@@ -95,7 +95,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2013, fols.  188–191 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68642/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2013\" target=\"_blank\" rel=\"noopener\">BAV</a> (BHG 812b)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2013, fols.  188–191 (10th cent.) ~ Pinakes; BAV (BHG 812b)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68642/",
         "http://digi.vatlib.it/view/MSS_Vat.gr.2013"
@@ -105,7 +105,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fols.  178<sup>v</sup>–182<sup>v </sup>(11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68702/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2072\" target=\"_blank\" rel=\"noopener\">BAV</a> (=Nau siglum B; BHG 812b)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fols.  178v–182v (11th cent.) ~ Pinakes; BAV (=Nau siglum B; BHG 812b)",
       "language": "Didaskalia",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68702/",
         "http://digi.vatlib.it/view/MSS_Vat.gr.2072"

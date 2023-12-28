@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Mone Karakallou, 81 (Lambros 1594), Mon. 45,  fols. 1<sup>r</sup>–14<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25650/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Mount Athos, Mone Karakallou, 81 (Lambros 1594), Mon. 45,  fols. 1r–14v (15th/16th cent.) ~ Pinakes",
       "language": ".1 Passio",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/25650/"
       ]
@@ -21,7 +21,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Andros, Mone Hagias (Zoodochou Peges), 46 (65), fols. 219<sup>r</sup>–220<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/290/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Andros, Mone Hagias (Zoodochou Peges), 46 (65), fols. 219r–220v (15th cent.) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/290/"
       ]
@@ -30,7 +30,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1032 (1551) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3328/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3162\" target=\"_blank\" rel=\"noopener\">Athens</a></p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1032 (1551) ~ Pinakes; Athens",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/3328/",
         "https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3162"
@@ -40,7 +40,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1033 (1602) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3329/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1033 (1602) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/3329/"
       ]
@@ -49,7 +49,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1037 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3333/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1037 (15th cent.) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/3333/"
       ]
@@ -58,7 +58,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Museio Benaki, ΓΕ 34722 (olim T. A. 1), fols. 8–10 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8122/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Athens, Museio Benaki, ΓΕ 34722 (olim T. A. 1), fols. 8–10 (14th cent.) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/8122/"
       ]
@@ -67,7 +67,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Museio Benaki, ΓΕ 34972 (olim T. A. 255), fols. 176<sup>v</sup>–178<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8365/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Athens, Museio Benaki, ΓΕ 34972 (olim T. A. 255), fols. 176v–178r (14th cent.) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/8365/"
       ]
@@ -76,7 +76,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 67, fols. 4<sup>v</sup>–6<sup>r</sup> (1508) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33565/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 67, fols. 4v–6r (1508) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/33565/"
       ]
@@ -85,7 +85,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 69, fols. 2<sup>r</sup>–3<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33567/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 69, fols. 2r–3v (14th cent.) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/33567/"
       ]
@@ -94,7 +94,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 70, fols. 5<sup>r</sup>–6<sup>v</sup> (1367) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33568/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 70, fols. 5r–6v (1367) ~ Pinakes",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/33568/"
       ]
@@ -103,7 +103,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 10073, fols. 319<sup>v</sup>–323<sup>r</sup> (16th cent.)</p>",
       "line_text": "London, British Library, Add. 10073, fols. 319v–323r (16th cent.)",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/"
       ]
@@ -112,7 +112,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, gr. 1578 (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51198/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107236405\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Biblothèque nationale de France, gr. 1578 (15th/16th cent.) ~ Pinakes; GALLICA",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/51198/",
         "http://gallica.bnf.fr/ark:/12148/btv1b107236405"
@@ -122,7 +122,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, gr. 1582, fols. 7<sup>v</sup>–9<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51202/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107217508\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Biblothèque nationale de France, gr. 1582, fols. 7v–9r (14th cent.) ~ Pinakes; GALLICA",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/51202/",
         "http://gallica.bnf.fr/ark:/12148/btv1b107217508"
@@ -132,7 +132,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, supp. gr. 54, fols. 5<sup>v</sup>–6<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/52825/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b110050514\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Biblothèque nationale de France, supp. gr. 54, fols. 5v–6v (15th cent.) ~ Pinakes; GALLICA",
       "language": ".2 Menaea",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/52825/",
         "http://gallica.bnf.fr/ark:/12148/btv1b110050514"
@@ -175,7 +175,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 12 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1613\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 12 (10th cent.) ~ Pinakes; BAV",
       "language": ".4 Menologion of Basil II",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68244/",
         "https://digi.vatlib.it/view/MSS_Vat.gr.1613"

@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Chatsworth (Derbyshire), Book of Lismore (<em>Leabhar Leasa Móir</em>), fols. 88<sup>r</sup>–94<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Chatsworth_(Derbyshire),_Book_of_Lismore\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "L  Chatsworth (Derbyshire), Book of Lismore (Leabhar Leasa Móir), fols. 88r–94v (15th/16th cent.) ~ Codecs",
       "language": ".1 Recension 1",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Chatsworth_(Derbyshire),_Book_of_Lismore"
       ]
@@ -21,19 +21,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 C 6 (261) (1844–1845) ~ copy of L</p>",
       "line_text": "Dublin, Royal Irish Academy, 24 C 6 (261) (1844–1845) ~ copy of L",
       "language": ".1 Recension 1",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 H (478) (1868) ~ copy of L</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 H (478) (1868) ~ copy of L",
       "language": ".1 Recension 1",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Rennes, Bibliothèque de Rennes Métropole, 598 (15489), fols. 70<sup>r</sup>–74<sup>r</sup> (16th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Rennes,_Biblioth%C3%A8que_de_Rennes_M%C3%A9tropole,_MS_598\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "M  Rennes, Bibliothèque de Rennes Métropole, 598 (15489), fols. 70r–74r (16th cent.) ~ Codecs",
       "language": ".2 Recension 2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Rennes,_Biblioth%C3%A8que_de_Rennes_M%C3%A9tropole,_MS_598"
       ]
@@ -42,7 +42,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Dublin, Royal Irish Academy, 23 O 48a–b (<em>Liber Flavus Fergusiorum</em>), fols. 35<sup>r</sup>–37<sup>r</sup> (ca. 1435–1440) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_23_O_48a\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "O  Dublin, Royal Irish Academy, 23 O 48a–b (Liber Flavus Fergusiorum), fols. 35r–37r (ca. 1435–1440) ~ Codecs",
       "language": ".2 Recension 2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_23_O_48a"
       ]
@@ -51,7 +51,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque nationale de France, Celtique et Basque, fols. 24<sup>r</sup>–27<sup>v</sup> (ca. 1473) ~ <a href=\"https://codecs.vanhamel.nl/Paris,_Biblioth%C3%A8que_nationale_de_France,_MS_celtique_1/I,_IV_(ff._1-8,_22-29)\" target=\"_blank\" rel=\"noopener\">Codecs</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100378503\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Q  Paris, Bibliothèque nationale de France, Celtique et Basque, fols. 24r–27v (ca. 1473) ~ Codecs; Gallica",
       "language": ".2 Recension 2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Paris,_Biblioth%C3%A8que_nationale_de_France,_MS_celtique_1/I,_IV_(ff._1-8,_22-29)",
         "https://gallica.bnf.fr/ark:/12148/btv1b100378503"
@@ -61,7 +61,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Y </strong> Dublin, Trinity College, H.2.16 (1318) (<em>Yellow Book of Lecan</em>), pp. 81<sup>r</sup>–86<sup>v</sup> (14th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Trinity_College,_MS_1318/16_(cols_573-958)\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "Y  Dublin, Trinity College, H.2.16 (1318) (Yellow Book of Lecan), pp. 81r–86v (14th cent.) ~ Codecs",
       "language": ".2 Recension 2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Dublin,_Trinity_College,_MS_1318/16_(cols_573-958)"
       ]
@@ -70,7 +70,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 9, fols. 7<sup>r</sup>–8<sup>r</sup> (15th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_National_Library_of_Ireland,_MS_G_9\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "Dublin, National Library of Ireland, G 9, fols. 7r–8r (15th cent.) ~ Codecs",
       "language": ".3 Short Recension",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Dublin,_National_Library_of_Ireland,_MS_G_9"
       ]
@@ -79,13 +79,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 36, pp. 113 ff. (19th cent.) ~ copy of G 9</p>",
       "line_text": "Dublin, National Library of Ireland, G 36, pp. 113 ff. (19th cent.) ~ copy of G 9",
       "language": ".3 Short Recension",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 P 25 (475) (<em><span id=\"Dublin.2C_Royal_Irish_Academy.2C_MS_24_P_25_Leabhar_Chlainne_Suibhne\" class=\"mw-headline\"><span class=\"descriptor\">Leabhar Chlainne Suibhne</span></span></em>), fols. 65<sup>r</sup>–65<sup>v</sup> (1513–1514) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_24_P_25\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "Dublin, Royal Irish Academy, 24 P 25 (475) (Leabhar Chlainne Suibhne), fols. 65r–65v (1513–1514) ~ Codecs",
       "language": ".3 Short Recension",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_24_P_25"
       ]
@@ -94,7 +94,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 136, fols. 53–56 (1630) ~ <a href=\"https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&amp;ms=London,%20British%20Library,%20MS%20Egerton%20136&amp;search-phrase=London,%20British%20Library,%20MS%20Egerton%20136\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "London, British Library, Egerton 136, fols. 53–56 (1630) ~ Codecs",
       "language": ".3 Short Recension",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&ms=London,%20British%20Library,%20MS%20Egerton%20136&search-phrase=London,%20British%20Library,%20MS%20Egerton%20136"
       ]
@@ -103,7 +103,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, 73, pp. 213 ff. (18th cent.) ~ <a href=\"https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&amp;ms=Maynooth,%20Russell%20Library,%20MS%20R%2073&amp;search-phrase=R\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "Maynooth, Russell Library, 73, pp. 213 ff. (18th cent.) ~ Codecs",
       "language": ".3 Short Recension",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&ms=Maynooth,%20Russell%20Library,%20MS%20R%2073&search-phrase=R"
       ]
@@ -112,7 +112,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, MS G 36, pp. 113–121 ~ <a href=\"https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&amp;ms=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036&amp;search-phrase=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "Dublin, National Library of Ireland, MS G 36, pp. 113–121 ~ Codecs",
       "language": ".3 Short Recension",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&ms=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036&search-phrase=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036"
       ]
@@ -166,175 +166,175 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cork, University College, Murphy 26 (19th cent.)</p>",
       "line_text": "Cork, University College, Murphy 26 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 32 (18th cent.)</p>",
       "line_text": "Dublin, National Library of Ireland, G 32 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 365 (19th cent.)</p>",
       "line_text": "Dublin, National Library of Ireland, G 365 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 432 (19th cent.)</p>",
       "line_text": "Dublin, National Library of Ireland, G 432 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 501 (18th cent.)</p>",
       "line_text": "Dublin, National Library of Ireland, G 501 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 656 (19th cent.)</p>",
       "line_text": "Dublin, National Library of Ireland, G 656 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 3 C 15 (1021) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 3 C 15 (1021) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 12 F 7 (235) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 12 F 7 (235) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 B 1 (225) (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 B 1 (225) (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 B 2 (1002) (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 B 2 (1002) (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 D 8 (503) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 D 8 (503) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 I 25 (412) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 I 25 (412) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 I 44 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 I 44 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 6 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 L 6 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 24 (29) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 L 24 (29) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 29 (109) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 L 29 (109) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 35 (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 L 35 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 M 1 (329) (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 M 1 (329) (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 N 18 (981) (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 N 18 (981) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 N 23 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 N 23 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 A 20 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 24 A 20 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 A 22 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 24 A 22 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 B 29 (18th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 24 B 29 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 C 16 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 24 C 16 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 L 20 (19th cent.)</p>",
       "line_text": "Dublin, Royal Irish Academy, 24 L 20 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 1287 (H 1. 13) (18th cent.)</p>",
       "line_text": "Dublin, Trinity College, 1287 (H 1. 13) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 1413 (H 6. 9) (1777–1781)</p>",
       "line_text": "Dublin, Trinity College, 1413 (H 6. 9) (1777–1781)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 1414 (H 6. 10) (18th cent.)</p>",
       "line_text": "Dublin, Trinity College, 1414 (H 6. 10) (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Edinburgh, National Library of Scotland, Adv. 72.1.47 (15th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Edinburgh,_National_Library_of_Scotland,_Adv._MS_72.1.47\" target=\"_blank\" rel=\"noopener\">Codecs</a>; two leaves, mostly illegible</p>",
       "line_text": "Edinburgh, National Library of Scotland, Adv. 72.1.47 (15th cent.) ~ Codecs; two leaves, mostly illegible",
       "language": ".4 Recension 3",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Edinburgh,_National_Library_of_Scotland,_Adv._MS_72.1.47"
       ]
@@ -343,55 +343,55 @@
       "line_html": "<p style=\"padding-left: 40px;\">Edinburgh, National Library of Scotland, Adv. 72.2.5 (18th cent.)</p>",
       "line_text": "Edinburgh, National Library of Scotland, Adv. 72.2.5 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 18945 (19th cent.)</p>",
       "line_text": "London, British Library, Add. 18945 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 171 (18th cent.)</p>",
       "line_text": "London, British Library, Egerton 171 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 174 (18th cent.)</p>",
       "line_text": "London, British Library, Egerton 174 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, B 2 (19th cent.)</p>",
       "line_text": "Maynooth, Russell Library, B 2 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 39 (19th cent.)</p>",
       "line_text": "Maynooth, Russell Library, M 39 (19th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 52 (18th cent.)</p>",
       "line_text": "Maynooth, Russell Library, M 52 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 73 (1824)</p>",
       "line_text": "Maynooth, Russell Library, M 73 (1824)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 95 (18th cent.)</p>",
       "line_text": "Maynooth, Russell Library, M 95 (18th cent.)",
       "language": ".4 Recension 3",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/revueceltiqu28pari/page/276/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dottin, Georges, ed. and trans. “Une rédaction moderne du Teanga Bithnua.” <em>Revue Celtique</em> 28 (1907): 277–307 (text and parallel French translation from an unidentified manuscript, pp. 380–307).</p>",

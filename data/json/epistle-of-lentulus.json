@@ -33,7 +33,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-jean-de-vernon-icp-ifeb-19/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque Jean de Vernon, ICP, IFEB 19, pp. 727–730 (18th cent.)</p>",
       "line_text": "Paris, Bibliothèque Jean de Vernon, ICP, IFEB 19, pp. 727–730 (18th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-jean-de-vernon-icp-ifeb-19/"
       ]
@@ -654,13 +654,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Alqoš, Notre-Dame des Semences, Scher 326, fol. 97 (ca. 1900)</p>",
       "line_text": "Alqoš, Notre-Dame des Semences, Scher 326, fol. 97 (ca. 1900)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patrarchate-of-baghdad-377/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Chaldean Patriarchate of Baghdad, 377, <span class=\"\">fols. 20<sup>r</sup>–21<sup>r</sup></span> (1894)</p>",
       "line_text": "Baghdad, Chaldean Patriarchate of Baghdad, 377, fols. 20r–21r (1894)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patrarchate-of-baghdad-377/"
       ]
@@ -669,7 +669,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45 (1907)</p>",
       "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45 (1907)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Brock, Sebastian. P. “A Syriac Version of the Letters of Lentulus and Pilate.” <em>OCP</em> 35 (1969): 45–62 (edition and translation of Mingana Syr. 47, pp. 48–50).</p>",

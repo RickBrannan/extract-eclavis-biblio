@@ -18,7 +18,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-20/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong> Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 20, fols. 77<sup>r</sup>–88<sup>v</sup> (15/16th cent.)</p>",
       "line_text": "A Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 20, fols. 77r–88v (15/16th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-20/"
       ]
@@ -27,13 +27,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong> Oxford, Bodleian Library, Holkham gr. 9, fols. 105<sup>v</sup>–118<sup>v</sup> (16th cent.)</p>",
       "line_text": "B Oxford, Bodleian Library, Holkham gr. 9, fols. 105v–118v (16th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-1716/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 1716, fols. 55<sup>r</sup>–63<sup>r</sup> (17th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 1716, fols. 55r–63r (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-1716/"
       ]
@@ -48,7 +48,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-ms-251/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 1324–1334 (16th cent.)</p>",
       "line_text": "New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 1324–1334 (16th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-ms-251/"
       ]
@@ -63,13 +63,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Dionusiou, 166 (Lambros 3700), item 27 (1616)</p>",
       "line_text": "Mount Athos, Monē Dionusiou, 166 (Lambros 3700), item 27 (1616)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"#_ftn1\" name=\"_ftnref1\"/>Mount Athos, Monē Dionusiou, 263 (Lambros 3797), item 38 (17th cent.)</p>",
       "line_text": "Mount Athos, Monē Dionusiou, 263 (Lambros 3797), item 38 (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "#_ftn1"
       ]
@@ -78,37 +78,37 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Docheiariou, 105 (Lambros 2779), item 6 (17th cent.)</p>",
       "line_text": "Mount Athos, Monē Docheiariou, 105 (Lambros 2779), item 6 (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Ibērōn, 1339 (Lambros 5459), item 7 (17th cent.)</p>",
       "line_text": "Mount Athos, Monē Ibērōn, 1339 (Lambros 5459), item 7 (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Ω154 (Eustratiades 1966), fols. 291–297 (1668)</p>",
       "line_text": "Mount Athos, Monē Megistēs Lauras, Ω154 (Eustratiades 1966), fols. 291–297 (1668)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Panteleēmos, 862 (Lambros 6369), pp. 103–117 (19th cent.)</p>",
       "line_text": "Mount Athos, Monē Panteleēmos, 862 (Lambros 6369), pp. 103–117 (19th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Pantokrotoros, 190 (Lambros 5697), pp. 130–143 (17th cent.)</p>",
       "line_text": "Mount Athos, Monē Pantokrotoros, 190 (Lambros 5697), pp. 130–143 (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-xenophontos-358/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Athos, Monē Xenophōntos, 358, pp. 47–70 (19th cent.)</p>",
       "line_text": "Mount Athos, Monē Xenophōntos, 358, pp. 47–70 (19th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-xenophontos-358/"
       ]
@@ -117,7 +117,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Xēropotamou, 242 (Lambros 2575), fols. 245–254 (17th cent.)</p>",
       "line_text": "Mount Athos, Monē Xēropotamou, 242 (Lambros 2575), fols. 245–254 (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Halkin, François. “Une Vie grecque de sainte Marie-Madeleine <em>BHG</em> 1161x.” <em>AnBoll </em>105 (1987): 5–23 (<em>editio princeps</em> of B with French translation).</p>",

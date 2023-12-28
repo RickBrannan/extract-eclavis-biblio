@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. Z. 362, fols. 117<sup>r</sup>–125<sup>r</sup> (1279) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69833/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Venice, Biblioteca Nazionale Marciana, gr. Z. 362, fols. 117r–125r (1279) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/69833/"
       ]
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 175b–177a (1408–1411)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 175b–177a (1408–1411)",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
       ]
@@ -63,19 +63,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Bamberg, Staatsbibliothek Bamberg, Q IV 59 (11th cent.)</p>",
       "line_text": "B  Bamberg, Staatsbibliothek Bamberg, Q IV 59 (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Brussels, Staatsbibliothek Royale, 104, fols. 285<sup>v</sup>–288<sup>v</sup> (12th cent.)</p>",
       "line_text": "C  Brussels, Staatsbibliothek Royale, 104, fols. 285v–288v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>M</strong>  Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 21<sup>v</sup>–25<sup>v </sup>(ca. 800)</p>",
       "line_text": "M  Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 21v–25v (ca. 800)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
       ]
@@ -84,13 +84,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, lat. 18298, fols. 67<sup>v</sup>–75<sup>v</sup> (9th cent.)</p>",
       "line_text": "P  Paris, Bibliothèque nationale de France, lat. 18298, fols. 67v–75v (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>Q</strong>  Paris, Bibliothèque nationale de France, lat. 12604, fols. 60<sup>r</sup>–64<sup>r</sup> (12th cent.)</p>",
       "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 12604, fols. 60r–64r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
       ]
@@ -99,19 +99,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque nationale de France, lat. 17002, fols. 55<sup>v</sup>–57<sup>v</sup> (10th cent.)</p>",
       "line_text": "R  Paris, Bibliothèque nationale de France, lat. 17002, fols. 55v–57v (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Paris, Bibliothèque nationale de France, lat. 5273, fols. 28<sup>v</sup>–33<sup>r</sup> (12th cent.)</p>",
       "line_text": "S  Paris, Bibliothèque nationale de France, lat. 5273, fols. 28v–33r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 101<span class=\"s1\"><sup>v</sup></span>–107<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
       "line_text": "W  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 101v–107v (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
       ]
@@ -126,7 +126,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Angers, Bibliothèque municipale de Angers, 281, fols. 139<sup>r</sup>–144<sup>v</sup> (11th cent.)</p>",
       "line_text": "Angers, Bibliothèque municipale de Angers, 281, fols. 139r–144v (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/"
       ]
@@ -135,13 +135,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 737, fols. 99<sup>v</sup>–106<sup>v</sup> (9th and 12th/13th cent.)</p>",
       "line_text": "Dublin, Trinity College, 737, fols. 99v–106v (9th and 12th/13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Engelberg, Stiftsbibliothek, 2, fols. 45<sup>r</sup>–48<sup>r</sup> (12th cent.)</p>",
       "line_text": "Engelberg, Stiftsbibliothek, 2, fols. 45r–48r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/"
       ]
@@ -150,7 +150,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 4554, fols. 31<sup>r</sup>–34<sup>v </sup>(8th/9th cent.)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 4554, fols. 31r–34v (8th/9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/"
       ]
@@ -159,7 +159,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 83<sup>v</sup>–89<sup>v</sup>; illustrations fol. 82<sup>v</sup>, 83<sup>r</sup> (1175)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 83v–89v; illustrations fol. 82v, 83r (1175)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
       ]
@@ -168,7 +168,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 22020, fols. 41<sup>v</sup>–45<sup>v</sup> (12th cent.)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 22020, fols. 41v–45v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/"
       ]
@@ -177,7 +177,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-455/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 455, fols. 113<sup>v</sup>–121<sup>r</sup> (9th cent.)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 455, fols. 113v–121r (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-455/"
       ]
@@ -186,7 +186,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-534/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 534, fols. 172<sup>v</sup>–186<sup>v</sup> (9th cent.)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 534, fols. 172v–186v (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-534/"
       ]
@@ -195,7 +195,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Würzburg, Universitätsbibliothek, M.p.th.f. 78, fols. <span class=\"s1\">15<sup>v</sup>–20<sup>v</sup></span> (8th cent.)</p>",
       "line_text": "Würzburg, Universitätsbibliothek, M.p.th.f. 78, fols. 15v–20v (8th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
       ]

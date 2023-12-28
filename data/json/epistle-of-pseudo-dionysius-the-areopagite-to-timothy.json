@@ -1,0 +1,1556 @@
+{
+  "nasscal_url": "https://www.nasscal.com/epistle-of-pseudo-dionysius-the-areopagite-to-timothy/",
+  "nasscal_toc_title": "Epistle of Pseudo-Dionysius the Areopagite to Timothy",
+  "filename": "epistle-of-pseudo-dionysius-the-areopagite-to-timothy",
+  "latin_title": "Epistula Ps.-Dionysii Areopagitae ad Timotheum de passione Petri et Pauli",
+  "abbrev": "Ep. Tim. Dion.",
+  "clavis_number": 908,
+  "category": "Epistles, Apocryphal Acts.",
+  "compiler": "David L. Eastman, The McCallie School",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Behind all of these versions (in Ethiopic, Latin, etc.) there appears to lie a Greek original. Johann Albert Fabricius, citing Peter Lambeck, reports the presence of Greek manuscripts in Florence and Vienna (<em>Bibliothecae graecae</em> [14 vols.; Hamburg: C. Liebezeit, 1705–1728], 5:6–7) but no shelf numbers are provided and the libraries have no evidence of their existence.</p>",
+      "line_text": "Behind all of these versions (in Ethiopic, Latin, etc.) there appears to lie a Greek original. Johann Albert Fabricius, citing Peter Lambeck, reports the presence of Greek manuscripts in Florence and Vienna (Bibliothecae graecae [14 vols.; Hamburg: C. Liebezeit, 1705–1728], 5:6–7) but no shelf numbers are provided and the libraries have no evidence of their existence.",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Aleppo, Fondation Salem – Sbath, 86 (16th cent.)</p>",
+      "line_text": "Aleppo, Fondation Salem – Sbath, 86 (16th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Aleppo, Fondation Salem – Sbath, 523, fols. 174<sup>v</sup>–178<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Aleppo, Fondation Salem – Sbath, 523, fols. 174v–178v (17th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Aleppo, Fondation Salem – Sbath, 1008, fols. 79<sup>v</sup>–87<sup>v</sup> (1310)</p>",
+      "line_text": "Aleppo, Fondation Salem – Sbath, 1008, fols. 79v–87v (1310)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale)<em>,</em> 510, fols. 232<sup>r</sup>–234<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 510, fols. 232r–234v (18th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale)<em>,</em> 511, fols. 334<sup>v</sup>–341<sup>r</sup> (1867)</p>",
+      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 511, fols. 334v–341r (1867)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale), 512, fols. 152<sup>r</sup>–156<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 512, fols. 152r–156r (16th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, American University, 1194 (18th cent.)</p>",
+      "line_text": "Beirut, American University, 1194 (18th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 81 (1742)</p>",
+      "line_text": "Cairo, Coptic Museum, 81 (1742)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 202 (Graf 311), fols. 128<sup>r</sup>–130<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, 202 (Graf 311), fols. 128r–130v (13th/14th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 255 (Graf 296), fols. 290<sup>r</sup>–295<sup>v</sup> (undated)</p>",
+      "line_text": "Cairo, Coptic Museum, 255 (Graf 296), fols. 290r–295v (undated)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 474 (undated)</p>",
+      "line_text": "Cairo, Coptic Museum, 474 (undated)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 501 (1839)</p>",
+      "line_text": "Cairo, Coptic Museum, 501 (1839)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 635 (Graf 474), fols. 168<sup>v</sup>–175<sup>r</sup> (1679)</p>",
+      "line_text": "Cairo, Coptic Museum, 635 (Graf 474), fols. 168v–175r (1679)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Museum, 799 (undated)</p>",
+      "line_text": "Cairo, Coptic Museum, 799 (undated)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Library of the Church of St. Sergius and Bacchus, 110, fols. 42<sup>r</sup>–52<sup>r</sup> (1716)</p>",
+      "line_text": "Cairo, Library of the Church of St. Sergius and Bacchus, 110, fols. 42r–52r (1716)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Charfet, Syrian-Catholic Patriarchate, ar. 2/4 (14th cent.)</p>",
+      "line_text": "Charfet, Syrian-Catholic Patriarchate, ar. 2/4 (14th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Dair al-Kreim (Lebanon), Library of the Lebanese Mission of Dair al-Kreim, 26 (17th cent.)</p>",
+      "line_text": "Dair al-Kreim (Lebanon), Library of the Lebanese Mission of Dair al-Kreim, 26 (17th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Diyarbakir, Meryem Anna Kilisesi, 322, fols. 192<sup>v</sup>–199<sup>r</sup> (18th cent.) ~ <a href=\"https://www.vhmml.org/readingRoom/view/125033\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Diyarbakir, Meryem Anna Kilisesi, 322, fols. 192v–199r (18th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.vhmml.org/readingRoom/view/125033"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Edgbaston, University of Birmingham, Mingana ar. Christ. 92 [87b], fols. 198<sup>r</sup>–208<sup>r</sup> (17th cent.)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana ar. Christ. 92 [87b], fols. 198r–208r (17th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Edgbaston, University of Birmingham, Mingana Syr. 461 (in Garšūnī), fols. 59<sup>v</sup>–67<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 461 (in Garšūnī), fols. 59v–67v (19th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Faitroun (Lebanon), Mar Doumit Monastery, 10 (1694 and 1710)</p>",
+      "line_text": "Faitroun (Lebanon), Mar Doumit Monastery, 10 (1694 and 1710)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Göttingen, Universitätsbibliothek, ar. 104, fols. 317<sup>v</sup>–322<sup>v</sup> (17th/18th cent.)</p>",
+      "line_text": "Göttingen, Universitätsbibliothek, ar. 104, fols. 317v–322v (17th/18th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Göttingen, Universitätsbibliothek, ar. 105, fols. 242<sup>v</sup>–247<sup>r</sup> (1268)</p>",
+      "line_text": "Göttingen, Universitätsbibliothek, ar. 105, fols. 242v–247r (1268)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Harissa, Missionary Society of St. Paul, 37, fols. 172<sup>v</sup>–176<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Harissa, Missionary Society of St. Paul, 37, fols. 172v–176v (17th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Istanbul, collection of Petrus Fehim (1757)</p>",
+      "line_text": "Istanbul, collection of Petrus Fehim (1757)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Church of St. Anna, 38, fols. 104<sup>r</sup>–107<sup>r</sup> (1874)</p>",
+      "line_text": "Jerusalem, Church of St. Anna, 38, fols. 104r–107r (1874)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Church of St. Anna, 85 (1900) ~ copy of MS 38</p>",
+      "line_text": "Jerusalem, Church of St. Anna, 85 (1900) ~ copy of MS 38",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Church of St. Mark, 53 (in Garšūnī), fols. 415<sup>v</sup>–417<sup>v</sup> (1732/1733)</p>",
+      "line_text": "Jerusalem, Church of St. Mark, 53 (in Garšūnī), fols. 415v–417v (1732/1733)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Church of St. Mark, 263, fols. 179<sup>v</sup>–184<sup>v</sup> (16th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/135917\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Jerusalem, Church of St. Mark, 263, fols. 179v–184v (16th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/135917"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Holy Sepulcher, ar. 46, fols. 1<sup>r</sup>–7<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Jerusalem, Holy Sepulcher, ar. 46, fols. 1r–7v (13th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Lebanon, Dair as-Suwair, 335 (18th/19th cent.)</p>",
+      "line_text": "Lebanon, Dair as-Suwair, 335 (18th/19th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Lebanon, private collection of E. Karam, 430 (1624)</p>",
+      "line_text": "Lebanon, private collection of E. Karam, 430 (1624)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Leiden, Universiteit Leiden, Or. 129 (14th/15th cent.)</p>",
+      "line_text": "Leiden, Universiteit Leiden, Or. 129 (14th/15th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, St. Catherine’s Monastery, ar. 268 (1225) ~ <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1qj95sq\" target=\"_blank\" rel=\"noopener\">Sinai Digital Library</a>; <a href=\"https://www.loc.gov/item/00279384611-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, ar. 268 (1225) ~ Sinai Digital Library; LOC",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1qj95sq",
+        "https://www.loc.gov/item/00279384611-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-405/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 227<sup>r</sup>–231<sup>v</sup> (1334/1335)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 227r–231v (1334/1335)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-405/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, St. Catherine’s Monastery, ar. 448, fols. 24<sup>r</sup>–28<sup>r</sup> (13th cent.) ~ <a href=\"https://www.loc.gov/item/00279391056-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, ar. 448, fols. 24r–28r (13th cent.) ~ LOC",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279391056-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, St. Catherine’s Monastery, ar. 475, fols. 157<sup>r</sup>–164<sup>v</sup> (13th cent.) ~ <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz10s1703\" target=\"_blank\" rel=\"noopener\">Sinai Digital Library</a>; <a href=\"https://www.loc.gov/item/00279391196-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, ar. 475, fols. 157r–164v (13th cent.) ~ Sinai Digital Library; LOC",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz10s1703",
+        "https://www.loc.gov/item/00279391196-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, St. Catherine’s Monastery, ar. 482, fols. 269<sup>v</sup>–271<sup>r</sup> (13th cent.) ~ <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1x07rnj\" target=\"_blank\" rel=\"noopener\">Sinai Digital Library</a>; <a href=\"https://www.loc.gov/item/00279391263-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, ar. 482, fols. 269v–271r (13th cent.) ~ Sinai Digital Library; LOC",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1x07rnj",
+        "https://www.loc.gov/item/00279391263-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, St. Catherine’s Monastery, ar. 502 (date undetermined)</p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, ar. 502 (date undetermined)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 57<sup>v</sup>–63<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 57v–63r (12th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Ar. Christ. Uri 104, 2, fols. 75<sup>r</sup>–87<sup>r</sup> (date undetermined)</p>",
+      "line_text": "Oxford, Bodleian Library, Ar. Christ. Uri 104, 2, fols. 75r–87r (date undetermined)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Huntington 383 (date undetermined)</p>",
+      "line_text": "Oxford, Bodleian Library, Huntington 383 (date undetermined)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4771/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Paris, Bibliothèque nationale de France, Arabe 4771, fols. 225<sup>r</sup>–234<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 4771, fols. 225r–234r (19th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4771/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, Syr. 398 (in Garšūnī), fols. 172<sup>r</sup>–181<sup>r</sup> (1757) ~ <a href=\"https://archivesetmanuscrits.bnf.fr/ark:/12148/cc100669d/ca59818301347484\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Syr. 398 (in Garšūnī), fols. 172r–181r (1757) ~ Gallica",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc100669d/ca59818301347484"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 357, pp. 68–76 (17th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506773\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 357, pp. 68–76 (17th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506773"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 360, pp. 283–290 (19th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506775\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 360, pp. 283–290 (19th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506775"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 362, pp. 456–464 (17th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506759\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 362, pp. 456–464 (17th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506759"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 363, pp. 278–287 (17th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506707\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 363, pp. 278–287 (17th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506707"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 364, fols. 102<sup>v</sup>–105<sup>v</sup> (17th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506692\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 364, fols. 102v–105v (17th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506692"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 365, pp. 122–128 (19th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506693\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 365, pp. 122–128 (19th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506693"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 366, pp. 229–235 (19th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506694\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 366, pp. 229–235 (19th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506694"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 367, pp. 368–377 (19th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506695\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 367, pp. 368–377 (19th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506695"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 368, pp. 587–601 (19th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506706\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 368, pp. 587–601 (19th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506706"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 671, pp. 589–604 (18th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506850\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 671, pp. 589–604 (18th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506850"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 1150, pp. 329–339 (20th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506758\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 1150, pp. 329–339 (20th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506758"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sarba-Jounieh (Basilian Order of Aleppo), 1180, fols. 109<sup>v</sup>–111<sup>v</sup> (19th cent.?) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/506756\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Sarba-Jounieh (Basilian Order of Aleppo), 1180, fols. 109v–111v (19th cent.?) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/506756"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tripoli (Lebanon), Dair Sayyidat al-Balmand, 119, fols. 44<sup>v</sup>–51<sup>v</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/137690\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Tripoli (Lebanon), Dair Sayyidat al-Balmand, 119, fols. 44v–51v (18th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/137690"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 200, fols. 199<sup>r</sup>–201<sup>r</sup> (1670)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 200, fols. 199r–201r (1670)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 43, fols. 13<sup>v</sup>–14<sup>v</sup> (1313)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 43, fols. 13v–14v (1313)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 523 (17th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 523 (17th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 196 (in Garšūnī; also listed as 77), fols. 429<sup>r</sup>–436<sup>v</sup> (1551)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 196 (in Garšūnī; also listed as 77), fols. 429r–436v (1551)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi el-Natrun (Egypt), St. Macarius Monastery, 434, fols. 325<sup>r</sup>–328<sup>v</sup> (17th cent.) ~ <a href=\"https://www.vhmml.org/readingRoom/view/133027\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Wadi el-Natrun (Egypt), St. Macarius Monastery, 434, fols. 325r–328v (17th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.vhmml.org/readingRoom/view/133027"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi el-Natrun (Egypt), St. Macarius Monastery, Cod. Bibl. 38, fols. 232<sup>v</sup>–236<sup>v</sup> (ante 1785)</p>",
+      "line_text": "Wadi el-Natrun (Egypt), St. Macarius Monastery, Cod. Bibl. 38, fols. 232v–236v (ante 1785)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi el-Natrun (Egypt), St. Macarius Monastery, Cod. Bibl. 41 (19th cent.)</p>",
+      "line_text": "Wadi el-Natrun (Egypt), St. Macarius Monastery, Cod. Bibl. 41 (19th cent.)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Watson, Syria (17th cent.) (personal copy)</p>",
+      "line_text": "Watson, Syria (17th cent.) (personal copy)",
+      "language": ". Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Muthreich, Michael. “Die arabische Überlieferung,” p<span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">ages 55–94, and “Synoptische Edition and Übersetzung der syrischen and arabischen Fassungen,” pages 277–336 in</span> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Ekkehard Mühlenberg</span>, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Michael Muthreich,</span> and <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Christine Wulf</span>. Corpus Dionysiacum III/1. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Arabic text).</p>",
+      "line_text": "Muthreich, Michael. “Die arabische Überlieferung,” pages 55–94, and “Synoptische Edition and Übersetzung der syrischen and arabischen Fassungen,” pages 277–336 in Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. Corpus Dionysiacum III/1. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Arabic text).",
+      "language": ". Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/jstor-527622\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Watson, W. Scott. “An Arabic Version of the Epistle of Dionysius the Areopagite to Timothy.” <em>AJSL </em>16.4 (1900): 225–41 (text and translation from a personal copy).</p>",
+      "line_text": "Watson, W. Scott. “An Arabic Version of the Epistle of Dionysius the Areopagite to Timothy.” AJSL 16.4 (1900): 225–41 (text and translation from a personal copy).",
+      "language": ". Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/jstor-527622"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Antelias, Armenian Catholicate of Cilicia, 85, fols. 97<sup>v</sup>–105<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Antelias, Armenian Catholicate of Cilicia, 85, fols. 97v–105v (14th/15th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Antelias, Armenian Catholicate of Cilicia, 183, fols. 16<sup>v</sup>–23<sup>v</sup> (18th/19th cent.)</p>",
+      "line_text": "Antelias, Armenian Catholicate of Cilicia, 183, fols. 16v–23v (18th/19th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Antelias, Armenian Catholicate of Cilicia, 48, fols. 145<sup>r</sup>–148<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Antelias, Armenian Catholicate of Cilicia, 48, fols. 145r–148r (19th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, St. James’ Monastery, 71, fols. 211<sup>r</sup>–216<sup>v</sup> (1321)</p>",
+      "line_text": "Jerusalem, St. James’ Monastery, 71, fols. 211r–216v (1321)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, St. James’ Monastery, 74, pp. 167–180 (1318)</p>",
+      "line_text": "Jerusalem, St. James’ Monastery, 74, pp. 167–180 (1318)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, St. James’ Monastery, 652, pp. 473–481 (18th cent.)</p>",
+      "line_text": "Jerusalem, St. James’ Monastery, 652, pp. 473–481 (18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, St. James’ Monastery, 2807, fols. 344<sup>r</sup>–347<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Jerusalem, St. James’ Monastery, 2807, fols. 344r–347r (18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, St. James’ Monastery, 2818, pp. 277–295 (1808)</p>",
+      "line_text": "Jerusalem, St. James’ Monastery, 2818, pp. 277–295 (1808)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Muş (Mush), Surb Karapet, 333 (date undetermined; now lost or destroyed)</p>",
+      "line_text": "Muş (Mush), Surb Karapet, 333 (date undetermined; now lost or destroyed)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 118, fols. 302<sup>r</sup>–303<sup>r</sup> (1307)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 118, fols. 302r–303r (1307)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 120, fols. 448<sup>r</sup>–450<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 120, fols. 448r–450r (14th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 186, fols. 131<sup>v</sup>–136<sup>v</sup> (1618)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 186, fols. 131v–136v (1618)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 17, fols. 404<sup>r</sup>–405<sup>v</sup> (1224)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 17, fols. 404r–405v (1224)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 200 (date undetermined)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 200 (date undetermined)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 201 (date undetermined)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 201 (date undetermined)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 204 (date undetermined)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 204 (date undetermined)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 228 (1847)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 228 (1847)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 301 (date undetermined)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 301 (date undetermined)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 693, fols. 271<sup>r</sup>–279<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 693, fols. 271r–279v (13th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 1014, fols. 51<sup>r</sup>–53<sup>r</sup> (12th/13th cent.)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 1014, fols. 51r–53r (12th/13th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 1252 (1695)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 1252 (1695)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 1553, fols. 265<sup>v</sup>–271<sup>v</sup> (1215)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 1553, fols. 265v–271v (1215)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 2154, fols. 121<sup>v</sup>–131<sup>v</sup> (17th/18th cent.)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 2154, fols. 121v–131v (17th/18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni, 2724, fols. 16<sup>v</sup>–23<sup>v</sup> (olim 301) (18th cent.)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni, 2724, fols. 16v–23v (olim 301) (18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 131, fols. 5<sup>r</sup>–10<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 131, fols. 5r–10v (18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 505, fols. 125<sup>r</sup>–127<sup>r</sup> (1780)</p>",
+      "line_text": "Yerevan, Matenadaran, 505, fols. 125r–127r (1780)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 603, fols. 199<sup>r</sup>–206<sup>r</sup> (1709)</p>",
+      "line_text": "Yerevan, Matenadaran, 603, fols. 199r–206r (1709)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 640, fols. 306<sup>r</sup>–314<sup>r</sup> (1297)</p>",
+      "line_text": "Yerevan, Matenadaran, 640, fols. 306r–314r (1297)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 771, fols. 167<sup>r</sup>–173<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 771, fols. 167r–173r (18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993, fols. 706<sup>v</sup>–708<sup>r</sup> (1456)</p>",
+      "line_text": "Yerevan, Matenadaran, 993, fols. 706v–708r (1456)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 995, fols. 139<sup>v</sup>–147<sup>v</sup> (1278)</p>",
+      "line_text": "Yerevan, Matenadaran, 995, fols. 139v–147v (1278)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 1721, fols. 95<sup>r</sup>–102<sup>r</sup> (1696)</p>",
+      "line_text": "Yerevan, Matenadaran, 1721, fols. 95r–102r (1696)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 1791, fols. 52<sup>v</sup>–63<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 1791, fols. 52v–63r (14th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 2046, fols. 32<sup>v</sup>–33<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 2046, fols. 32v–33v (18th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 2682, fols. 41<sup>v</sup>–44<sup>r</sup> (1823–1825)</p>",
+      "line_text": "Yerevan, Matenadaran, 2682, fols. 41v–44r (1823–1825)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3306 (1692)</p>",
+      "line_text": "Yerevan, Matenadaran, 3306 (1692)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3372, fols. 127<sup>r</sup>–129<sup>v</sup> (1761)</p>",
+      "line_text": "Yerevan, Matenadaran, 3372, fols. 127r–129v (1761)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4539 (19th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4539 (19th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4618 (16th/17th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4618 (16th/17th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4744, fol. 1<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4744, fol. 1v (13th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 6706 (19th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 6706 (19th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 6196, fols. 472<sup>v</sup>–475<sup>r</sup> (1227)</p>",
+      "line_text": "Yerevan, Matenadaran, 6196, fols. 472v–475r (1227)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7729, fols. 581<sup>v</sup>–583<sup>v</sup> (1200–1202)</p>",
+      "line_text": "Yerevan, Matenadaran, 7729, fols. 581v–583v (1200–1202)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 8029, fols. 109<sup>r</sup>–115<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 8029, fols. 109r–115v (14th cent.)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 8808 (1746)</p>",
+      "line_text": "Yerevan, Matenadaran, 8808 (1746)",
+      "language": ". Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\"><a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></span>Macé, Caroline. “Die armenische Überlieferung,” p<span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">ages 109–54, and “Edition and Übersetzung der armenische Fassungen,” pages 337–83 in <em>Corpus Dionysiacum III/1:</em> </span> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Ekkehard Mühlenberg</span>, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Michael Muthreich,</span> and <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Christine Wulf</span>. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Armenian text).</p>",
+      "line_text": "Macé, Caroline. “Die armenische Überlieferung,” pages 109–54, and “Edition and Übersetzung der armenische Fassungen,” pages 337–83 in Corpus Dionysiacum III/1:  Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Armenian text).",
+      "language": ". Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/analectasacrasp03pitrgoog/page/240/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pitra, Johanne B., and Paulin Martin. <em>Analecta sacra spicilegio solesmensi</em> 4: <em>Patres antenicaeni. </em>Paris: Roger and Chernoviz, 1883 (edition based on BNF Arm. 120 and BNF Arm. 118, pp. 249–54, with Latin translation, pp. 272–76).</p>",
+      "line_text": "Pitra, Johanne B., and Paulin Martin. Analecta sacra spicilegio solesmensi 4: Patres antenicaeni. Paris: Roger and Chernoviz, 1883 (edition based on BNF Arm. 120 and BNF Arm. 118, pp. 249–54, with Latin translation, pp. 272–76).",
+      "language": ". Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/analectasacrasp03pitrgoog/page/240/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n133/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904. (Edition based primarily on Venice, San Lazzaro degli Armeni, 1014, pp. 101–22).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904. (Edition based primarily on Venice, San Lazzaro degli Armeni, 1014, pp. 101–22).",
+      "language": ". Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n133/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>The Copto-Arabic Synaxarion includes some details of the story for June 29 (5 Epep).</p>",
+      "line_text": "The Copto-Arabic Synaxarion includes some details of the story for June 29 (5 Epep).",
+      "language": "Copto-Arabic Synaxarion",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient17pariuoft/patrologiaorient17pariuoft/page/622/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Basset, René. “Le Synaxaire arabe jacobite (rédaction copte) V: les mois de Baounah, Abib, Mésoré et jours complémentaires.” <em>Patrologia orientalis</em> 17 (1923): 525–782 (edition and translation of excerpt, pp. 624–25).</p>",
+      "line_text": "Basset, René. “Le Synaxaire arabe jacobite (rédaction copte) V: les mois de Baounah, Abib, Mésoré et jours complémentaires.” Patrologia orientalis 17 (1923): 525–782 (edition and translation of excerpt, pp. 624–25).",
+      "language": "Copto-Arabic Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient17pariuoft/patrologiaorient17pariuoft/page/622/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 677, fols. 82<sup>v</sup>–88<sup>v</sup> (18th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_683_fs001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 677, fols. 82v–88v (18th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_683_fs001r"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 678, fols. 18<sup>r</sup>–26<sup>r</sup> (15th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&amp;ref=Or_678\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 678, fols. 18r–26r (15th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Or_678"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 679, fols. 75<sup>v</sup>–80<sup>r</sup> (18th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_679_f001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 679, fols. 75v–80r (18th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_679_f001r"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 680, fols. 70<sup>r</sup>–76<sup>r</sup> (18th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_680_f001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 680, fols. 70r–76r (18th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_680_f001r"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 681, fols. 75<sup>r</sup>–82<sup>r</sup> (18th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_681_f001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 681, fols. 75r–82r (18th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_681_f001r"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 682, fols. 87<sup>r</sup>–92<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 682, fols. 87r–92v (18th cent.)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 683, fols. 103<sup>r</sup>–113<sup>r</sup> (17th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/FullDisplay.aspx?index=1&amp;ref=Or_683\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 683, fols. 103r–113r (17th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/FullDisplay.aspx?index=1&ref=Or_683"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 684, fols. 82<sup>r</sup>–86<sup>v</sup> (18th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/FullDisplay.aspx?index=1&amp;ref=Or_684\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "London, British Library, Or. 684, fols. 82r–86v (18th cent.) ~ IMAGES",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/FullDisplay.aspx?index=1&ref=Or_684"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-685/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>London, British Library, Or. 685, fols. 19<sup>v</sup>–27<sup>r</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 685, fols. 19v–27r (18th cent.)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-685/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-university-library-eth-6/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Manchester, John Rylands University Library, Eth. 6, fols. 10<sup>v</sup>–22<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Manchester, John Rylands University Library, Eth. 6, fols. 10v–22v (19th cent.)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-university-library-eth-6/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oslo, Kulturhistorisk Museum, UEM35900, fols. 1<sup>r</sup>–25<sup>r</sup> (15th/16th cent.)</p>",
+      "line_text": "Oslo, Kulturhistorisk Museum, UEM35900, fols. 1r–25r (15th/16th cent.)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, Abbadie 64, fols. 163<sup>r</sup>–172<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Abbadie 64, fols. 163r–172r (16th cent.)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. eth. 234, fols. 83<sup>r</sup>–91<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. eth. 234, fols. 83r–91v (20th cent.)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. eth. 296, fols. 17<sup>v</sup>–25<sup>v</sup> and 162<sup>r</sup>–170<sup>r</sup> (1763)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. eth. 296, fols. 17v–25v and 162r–170r (1763)",
+      "language": ".1 Full Text",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo00budg\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>The Contendings of the Apostles, being the Histories of the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 1: <em>The Ethiopic Text.</em> London: Henry Frowde, 1899 (pp. 1:50–65).</p>",
+      "line_text": "Budge, Ernest A. W. The Contendings of the Apostles, being the Histories of the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 1: The Ethiopic Text. London: Henry Frowde, 1899 (pp. 1:50–65).",
+      "language": ".1 Full Text",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo00budg"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\"><a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></span>Muthreich, Michael. “Die altäthiopische (Ge’ez) Überlieferung.” <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Pages 95–108 in</span> <em>Corpus Dionysiacum III/1:</em> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Ekkehard Mühlenberg</span>, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Michael Muthreich,</span> and <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Christine Wulf</span>. PTS 79. Berlin: Degruyter, 2021 (discussion of the Ethiopic text).</p>",
+      "line_text": "Muthreich, Michael. “Die altäthiopische (Ge’ez) Überlieferung.” Pages 95–108 in Corpus Dionysiacum III/1: Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (discussion of the Ethiopic text).",
+      "language": ".1 Full Text",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bookofsaintsofet00yait/page/n435/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>The Book of the Saints of the Ethiopian Church: A Translation of the Ethiopic Synaxarium: Made from the Manuscripts Oriental 660 and 661 in the British Museum</em>. 4 vols. Cambridge: Cambridge University Press, 1928 (English translation from the entry for 5 Hamle, vol. 2, pp. 1074–75).</p>",
+      "line_text": "Budge, Ernest A. W. The Book of the Saints of the Ethiopian Church: A Translation of the Ethiopic Synaxarium: Made from the Manuscripts Oriental 660 and 661 in the British Museum. 4 vols. Cambridge: Cambridge University Press, 1928 (English translation from the entry for 5 Hamle, vol. 2, pp. 1074–75).",
+      "language": ".2 The Ethiopian Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bookofsaintsofet00yait/page/n435/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Iviron, 7 (Tsagerli 63), fols. 230<sup>r</sup>–235<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, 7 (Tsagerli 63), fols. 230r–235r (12th cent.)",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Iviron, 8 (Tsagerli 57), fols. 57<sup>v</sup>–64<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, 8 (Tsagerli 57), fols. 57v–64r (10th cent.)",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Iviron, 25 (Tsagerli 59), fols. 211<sup>v</sup>–218<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, 25 (Tsagerli 59), fols. 211v–218r (10th cent.)",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Georg. b1, fols. 206<sup>r</sup>–211<sup>v</sup> (1038–1040) ~ <a href=\"https://digital.bodleian.ox.ac.uk/objects/e4c98007-81c8-4670-ad42-777faa2987e5/\" target=\"_blank\" rel=\"noopener\">Digital Bodleian</a></p>",
+      "line_text": "Oxford, Bodleian Library, Georg. b1, fols. 206r–211v (1038–1040) ~ Digital Bodleian",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digital.bodleian.ox.ac.uk/objects/e4c98007-81c8-4670-ad42-777faa2987e5/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Centre of Manuscripts, A-19, fols. 93<sup>v</sup>–94<sup>v</sup> (10th cent.) ~ fragmentary</p>",
+      "line_text": "Tbilisi, National Centre of Manuscripts, A-19, fols. 93v–94v (10th cent.) ~ fragmentary",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Centre of Manuscripts, A-95, fols. 646<sup>r</sup>–651<sup>v</sup> (10th cent.) ~ fragmentary</p>",
+      "line_text": "Tbilisi, National Centre of Manuscripts, A-95, fols. 646r–651v (10th cent.) ~ fragmentary",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tiblisi, National Centre of Manuscripts, A-382, fols. 21<sup>v</sup>–24<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Tiblisi, National Centre of Manuscripts, A-382, fols. 21v–24v (15th cent.)",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tiblisi, National Centre of Manuscripts, H-169, fols. 27<sup>v</sup>–38<sup>r</sup> (1833)</p>",
+      "line_text": "Tiblisi, National Centre of Manuscripts, H-169, fols. 27v–38r (1833)",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tiblisi, National Centre of Manuscripts, H-1708, fols. 10<sup>v</sup>–24<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Tiblisi, National Centre of Manuscripts, H-1708, fols. 10v–24r (12th cent.)",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\"><a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></span>Macé, Caroline. “Die georgische Überlieferung,” p<span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">ages 155–88 in</span> <em>Corpus Dionysiacum III/1:</em> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Ekkehard Mühlenberg</span>, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Michael Muthreich,</span> and <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Christine Wulf</span>. PTS 79. Berlin: Degruyter, 2021 (edition of the Georgian text).</p>",
+      "line_text": "Macé, Caroline. “Die georgische Überlieferung,” pages 155–88 in Corpus Dionysiacum III/1: Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (edition of the Georgian text).",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Macé, Caroline. “La lettre de Denys l’Aréopagite à Timothée sur la mort des apôtres Pierre et Paul: l’apport de la version géorgienne.” <em>Apocrypha </em>31 (2020): 61–104 (manuscripts discussed, pp. 67–69, French translation, pp. 98–104).</p>",
+      "line_text": "Macé, Caroline. “La lettre de Denys l’Aréopagite à Timothée sur la mort des apôtres Pierre et Paul: l’apport de la version géorgienne.” Apocrypha 31 (2020): 61–104 (manuscripts discussed, pp. 67–69, French translation, pp. 98–104).",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\"><a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Macé, Caroline, and Ekkehard Mühlenberg. “Synoptische Edition and Übersetzung der georgischen und lateinischen Fassungen.” Pages 383–445 in <em>Corpus Dionysiacum III/1:</em> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Georgian and Latin texts).</span></p>",
+      "line_text": "Macé, Caroline, and Ekkehard Mühlenberg. “Synoptische Edition and Übersetzung der georgischen und lateinischen Fassungen.” Pages 383–445 in Corpus Dionysiacum III/1: Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Georgian and Latin texts).",
+      "language": ". Georgian; manuscripts listed in Macé 2021, pp. 158–63",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Admont, Stift Admont, 383, fols. 104<sup>r</sup>–141<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Admont, Stift Admont, 383, fols. 104r–141v (13th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Bamberg, Staatliche Bibliothek, Q. III. 33 [Msc. Theol. 93] (15th cent.)</p>",
+      "line_text": "Bamberg, Staatliche Bibliothek, Q. III. 33 [Msc. Theol. 93] (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Brussels, Bibliothèque royale, 1900-05 [Van den Gehn 1063] (15th cent.)</p>",
+      "line_text": "Brussels, Bibliothèque royale, 1900-05 [Van den Gehn 1063] (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Brussels, Bibliothèque royale, 2415-18 [Van den Gehn 1423] (14th cent.)</p>",
+      "line_text": "Brussels, Bibliothèque royale, 2415-18 [Van den Gehn 1423] (14th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cesena, Istituzione Biblioteca Malatestiana, D.XI.7 (15th cent.)</p>",
+      "line_text": "Cesena, Istituzione Biblioteca Malatestiana, D.XI.7 (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Dijon, Bibliothèque Municipale, Ancien Fonds 640, fols. 183<sup>r</sup>–184<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Dijon, Bibliothèque Municipale, Ancien Fonds 640, fols. 183r–184r (13th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Klosterneuburg, Stift Klosterneuburg, 1112a, fols. 311<sup>r</sup>–314<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Klosterneuburg, Stift Klosterneuburg, 1112a, fols. 311r–314v (14th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Liège, Université, 57 (15th cent.)</p>",
+      "line_text": "Liège, Université, 57 (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Liège, Université, 134 (15th cent.)</p>",
+      "line_text": "Liège, Université, 134 (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Lilienfeld, Stift Lilienfeld, 96 (1263)</p>",
+      "line_text": "Lilienfeld, Stift Lilienfeld, 96 (1263)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Melk, Stift Melk, 896 (363), fols. 101<sup>r</sup>–108<sup>r</sup> (1455/1456)</p>",
+      "line_text": "Melk, Stift Melk, 896 (363), fols. 101r–108r (1455/1456)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Melk, Stift Melk, 722 (15th cent.)</p>",
+      "line_text": "Melk, Stift Melk, 722 (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, O 3 sup., fols. 250<sup>r</sup>–253<sup>v</sup> (13th cent.) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:80721\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, O 3 sup., fols. 250r–253v (13th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:80721"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, P 25 sup. (1231–1285) ~ <a href=\"http://213.21.172.25/0b02da82800c49d2\">IMAGES</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, P 25 sup. (1231–1285) ~ IMAGES",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://213.21.172.25/0b02da82800c49d2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, 139 sup. (date undetermined)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, 139 sup. (date undetermined)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, P 202 sup., fols. 48v–51v (16th cent.) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:86810\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, P 202 sup., fols. 48v–51v (16th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:86810"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, O 216 sup., fols. 144<sup>r</sup>–146<sup>v</sup> (1426–1475) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:83323\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, O 216 sup., fols. 144r–146v (1426–1475) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:83323"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, I 251 inf. (1376–1425) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:62994\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, I 251 inf. (1376–1425) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:62994"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Munich, Bayerische Staatsbibliothek, Clm. 18535, fols. 207<sup>r</sup>–209<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm. 18535, fols. 207r–209r (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, N-044 (1478)</p>",
+      "line_text": "Oxford, Bodleian Library, N-044 (1478)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, latin 3711, fols. 154<sup>r</sup>–157<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, latin 3711, fols. 154r–157v (14th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Prague, Státní Knihovan, 2335, fols. 250<sup>v</sup>–257<sup>r </sup>(1303)</p>",
+      "line_text": "Prague, Státní Knihovan, 2335, fols. 250v–257r (1303)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Rostock, Kloster zum Heiligen-Kreuz, 56 (14th cent.)</p>",
+      "line_text": "Rostock, Kloster zum Heiligen-Kreuz, 56 (14th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Stams, Stift Stams, 5 (14th/15th cent.)</p>",
+      "line_text": "Stams, Stift Stams, 5 (14th/15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Dominikanerkirche, 78, fols. 155<sup>v</sup>–157<sup>v</sup> (1455)</p>",
+      "line_text": "Vienna, Dominikanerkirche, 78, fols. 155v–157v (1455)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 3662, fols. 120<sup>r</sup>–121<sup>v</sup> (15th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC13961562\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 3662, fols. 120r–121v (15th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC13961562"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 3926 (14th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC13959008\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 3926 (14th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC13959008"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 4067, fols. 187<sup>r</sup>–192<sup>r</sup> (15th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC13983163\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 4067, fols. 187r–192r (15th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC13983163"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 4248, fols. 169<sup>r</sup>–170<sup>v</sup> (1378) ~ <a href=\"http://data.onb.ac.at/rec/AC13986555\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 4248, fols. 169r–170v (1378) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC13986555"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 4576, fols. 108<sup>r</sup>–109<sup>v</sup> (15th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC1398737\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 4576, fols. 108r–109v (15th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC1398737"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 4936, fols. 73<sup>r</sup>–75<sup>r</sup> (15th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC1398307\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 4936, fols. 73r–75r (15th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC1398307"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, 4940, fols. 222<sup>v</sup>–225<sup>v</sup> (15th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC13991595\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 4940, fols. 222v–225v (15th cent.) ~ catalog",
+      "language": ". Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC13991595"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Schottenstift, 29, fols. 1<sup>r</sup>–2<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vienna, Schottenstift, 29, fols. 1r–2v (15th cent.)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Würzburg, Universitätsbibliothek, M.ch.q. 156, fols. 14<sup>r</sup>–19<sup>r</sup> (1480)</p>",
+      "line_text": "Würzburg, Universitätsbibliothek, M.ch.q. 156, fols. 14r–19r (1480)",
+      "language": ". Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Eastman, David L. “Pseudo-Dionysius, Epistle to Timothy on the Death of the Apostles Peter and Paul.” Pages 343–65 in <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on edition of Brunet and Quentin).</p>",
+      "line_text": "Eastman, David L. “Pseudo-Dionysius, Epistle to Timothy on the Death of the Apostles Peter and Paul.” Pages 343–65 in The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on edition of Brunet and Quentin).",
+      "language": ". Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\"><a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Macé, Caroline, and Ekkehard Mühlenberg. “Synoptische Edition and Übersetzung der georgischen und lateinischen Fassungen.” Pages 383–445 in <em>Corpus Dionysiacum III/1: Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Georgian and Latin texts).</span></p>",
+      "line_text": "Macé, Caroline, and Ekkehard Mühlenberg. “Synoptische Edition and Übersetzung der georgischen und lateinischen Fassungen.” Pages 383–445 in Corpus Dionysiacum III/1: Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. PTS 79. Berlin: Degruyter, 2021 (edition and translation of the Georgian and Latin texts).",
+      "language": ". Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/analectasacrasp03pitrgoog/page/240/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pitra, Johanne B., and Paulin Martin. <em>Analecta sacra spicilegio solesmensi</em>. Tome 4: <em>Patres antenicaeni. </em>Paris: Roger and Chernoviz, 1883 (edition based on Paris, BNF latin 3711 and Milan 139 sup., and O216 sup., pp. 261–71).</p>",
+      "line_text": "Pitra, Johanne B., and Paulin Martin. Analecta sacra spicilegio solesmensi. Tome 4: Patres antenicaeni. Paris: Roger and Chernoviz, 1883 (edition based on Paris, BNF latin 3711 and Milan 139 sup., and O216 sup., pp. 261–71).",
+      "language": ". Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/analectasacrasp03pitrgoog/page/240/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sanctuariumseuvi02momb\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mombrizio, Bonino. “Epistola beati Dionisii ariopagite de morte apostolorum Petri et Pauli ad Timotheum.” Pages 354–57, 709–10 in volume 2 of <em>Sanctuarium seu Vitae sanctorum</em>. New edition by Albin Brunet and Henri Quentin. Paris: Fontemoing, 1909.</p>",
+      "line_text": "Mombrizio, Bonino. “Epistola beati Dionisii ariopagite de morte apostolorum Petri et Pauli ad Timotheum.” Pages 354–57, 709–10 in volume 2 of Sanctuarium seu Vitae sanctorum. New edition by Albin Brunet and Henri Quentin. Paris: Fontemoing, 1909.",
+      "language": ". Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sanctuariumseuvi02momb"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\"> <a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mühlenberg, Ekkehard</span>. “Die lateinische Überlieferung.” <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Pages 189–266 in</span> <em>Corpus Dionysiacum III/1:</em> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Ekkehard Mühlenberg</span>, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Michael Muthreich,</span> and <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Christine Wulf</span>.  PTS 79. Berlin: Degruyter, 2021 (discussion of the Latin text).</p>",
+      "line_text": " Mühlenberg, Ekkehard. “Die lateinische Überlieferung.” Pages 189–266 in Corpus Dionysiacum III/1: Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf.  PTS 79. Berlin: Degruyter, 2021 (discussion of the Latin text).",
+      "language": ". Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-99/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge (Mass.), Harvard Houghton Library, Syr. 99, fols. 107<sup>r</sup>–111<sup>v</sup> (1899)</p>",
+      "line_text": "Cambridge (Mass.), Harvard Houghton Library, Syr. 99, fols. 107r–111v (1899)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-99/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Charfeh, Syrian-Catholic Patriarchate, 79 (20th cent.)</p>",
+      "line_text": "Charfeh, Syrian-Catholic Patriarchate, 79 (20th cent.)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Edgbaston, University of Birmingham, Mingana Syr. 4, fols. 58<sup>v</sup>–61<sup>r </sup>(1895)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 4, fols. 58v–61r (1895)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-4/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mardin-dayr-al-zafaran-203/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mardin, Dayr al-Zaʿfarān, 203, fols. 91<sup>r</sup>–94<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Mardin, Dayr al-Zaʿfarān, 203, fols. 91r–94v (20th cent.)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mardin-dayr-al-zafaran-203/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mardin, Church of the Forty Martyrs, 63, fols. 128<sup>v</sup>–136<sup>r</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/123233\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 63, fols. 128v–136r (18th cent.) ~ HMML",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/123233"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mardin, Church of the Forty Martyrs, 269, fols. 8<sup>v</sup>–15<sup>r</sup> (20th cent.)</p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 269, fols. 8v–15r (20th cent.)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-253/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mardin, Church of the Forty Martyrs, 253 (olim <span class=\"\">Dayr al-Za‘farān 121/7</span>), pp. 163–170 (13th/14th cent.)</p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 253 (olim Dayr al-Za‘farān 121/7), pp. 163–170 (13th/14th cent.)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-253/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/midyat-dayro-d-mor-gabriel-21/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Midyat, Dayro d-Mor Gabriel, 21, pp. 92–99 (1971)</p>",
+      "line_text": "Midyat, Dayro d-Mor Gabriel, 21, pp. 92–99 (1971)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/midyat-dayro-d-mor-gabriel-21/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/midyat-mar-bar%e1%b9%a3awmo-library-16/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Midyat, Mar Barṣawmo Library, 16, pp. 158–165 (1972)</p>",
+      "line_text": "Midyat, Mar Barṣawmo Library, 16, pp. 158–165 (1972)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/midyat-mar-bar%e1%b9%a3awmo-library-16/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Montserrat, Biblioteca de Montserrat, Or. 31, fols. 98<sup>r</sup>–102<sup>r</sup> (1915)</p>",
+      "line_text": "Montserrat, Biblioteca de Montserrat, Or. 31, fols. 98r–102r (1915)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mardin, Mor Hananyo Monastery, 18 (12th cent.)</p>",
+      "line_text": "Mardin, Mor Hananyo Monastery, 18 (12th cent.)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-234/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Syr. 234, fols. 130<sup>v</sup>–135<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Syr. 234, fols. 130v–135v (13th cent.)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-234/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-235/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Syr. 235, fols. 51<sup>v</sup>–55<sup>v </sup>(1292)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Syr. 235, fols. 51v–55v (1292)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-235/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 123 [19], fols. 198<sup>v</sup>–205<sup>r</sup> (9th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.sir.123\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 123 [19], fols. 198v–205r (9th cent.) ~ DigiVatLib",
+      "language": ". Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.sir.123"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, syr. Ebedjesu 18 (14th cent. or earlier)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, syr. Ebedjesu 18 (14th cent. or earlier)",
+      "language": ". Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/analectasacrasp03pitrgoog/page/240/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pitra, Johannes B., and Paulin Martin. <em>Analecta sacra spicilegio solesmensi</em> 4: <em>Patres antenicaeni. </em>Paris: Roger and Chernoviz, 1883 (Syriac edition based on Paris, BNF Syr. 234 and 235, pp. 241–49, Latin translation, pp. 261–71).</p>",
+      "line_text": "Pitra, Johannes B., and Paulin Martin. Analecta sacra spicilegio solesmensi 4: Patres antenicaeni. Paris: Roger and Chernoviz, 1883 (Syriac edition based on Paris, BNF Syr. 234 and 235, pp. 241–49, Latin translation, pp. 261–71).",
+      "language": ". Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/analectasacrasp03pitrgoog/page/240/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=M5Y9EAAAQBAJ&amp;pg=PA5&amp;source=gbs_toc_r&amp;cad=2#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Muthreich, Michael. “Die syrische Überlieferung,” p<span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">ages 19–54, and “Synoptische Edition and Übersetzung der syrischen and arabischen Fassungen,” pages 277–336 in</span> <em>Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac).</em> Edited by Caroline Macé, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Ekkehard Mühlenberg</span>, <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Michael Muthreich,</span> and <span class=\"contributor\" title=\"\" data-toggle=\"tooltip\" data-placement=\"bottom\">Christine Wulf</span>. Corpus Dionysiacum III/1. PTS 79. Berlin: Degruyter, 2021 (edition of and translation of the Syriac text).</p>",
+      "line_text": "Muthreich, Michael. “Die syrische Überlieferung,” pages 19–54, and “Synoptische Edition and Übersetzung der syrischen and arabischen Fassungen,” pages 277–336 in Letter to Timothy on the Death of the Apostles Peter and Paul (Armenian, Georgian, Latin, Syriac). Edited by Caroline Macé, Ekkehard Mühlenberg, Michael Muthreich, and Christine Wulf. Corpus Dionysiacum III/1. PTS 79. Berlin: Degruyter, 2021 (edition of and translation of the Syriac text).",
+      "language": ". Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=M5Y9EAAAQBAJ&pg=PA5&source=gbs_toc_r&cad=2#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo02budguoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>The Contendings of the Apostles, being the Histories of the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 2: <em>The English Translation.</em> London: Henry Frowde, 1901 (pp. 2:51–69).</p>",
+      "line_text": "Budge, Ernest A. W. The Contendings of the Apostles, being the Histories of the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 2: The English Translation. London: Henry Frowde, 1901 (pp. 2:51–69).",
+      "language": "English",
+      "entry_type": ". Modern Translations",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo02budguoft"
+      ]
+    },
+    {
+      "line_html": "<p>Eastman, David L. Pages 349–65 in <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015.</p>",
+      "line_text": "Eastman, David L. Pages 349–65 in The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015.",
+      "language": "English",
+      "entry_type": ". Modern Translations"
+    },
+    {
+      "line_html": "<p>Eastman, David L. Pages 464–80 in vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016. (Translation based on Latin edition of Brunet and Quentin).</p>",
+      "line_text": "Eastman, David L. Pages 464–80 in vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016. (Translation based on Latin edition of Brunet and Quentin).",
+      "language": "English",
+      "entry_type": ". Modern Translations"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=nnc1.cr59928590;view=1up;seq=11\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Malan, Solomon C. <em>The Conflicts of the Apostles: An Apocryphal Book of the Early Eastern Church</em>. London: Nutt, 1871 (Translation from Ethiopic, pp. 240–43).</p>",
+      "line_text": "Malan, Solomon C. The Conflicts of the Apostles: An Apocryphal Book of the Early Eastern Church. London: Nutt, 1871 (Translation from Ethiopic, pp. 240–43).",
+      "language": "English",
+      "entry_type": ". Modern Translations",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=nnc1.cr59928590;view=1up;seq=11"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/jstor-527622\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Watson, W. Scott. “An Arabic Version of the Epistle of Dionysius the Areopagite to Timothy.” <em>AJSL </em>16.4 (1900): 225–41. (translation from Arabic).</p>",
+      "line_text": "Watson, W. Scott. “An Arabic Version of the Epistle of Dionysius the Areopagite to Timothy.” AJSL 16.4 (1900): 225–41. (translation from Arabic).",
+      "language": "English",
+      "entry_type": ". Modern Translations",
+      "other_urls": [
+        "https://archive.org/details/jstor-527622"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits apocryphes sur les apôtres. </em><em>Traduction de l’édition arménienne de Venise.</em> CCSA 3. Turnhout: Brepols, 1986 (translation of <a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n133/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian’s Armenian edition, pp. 173–88).</p>",
+      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres. Traduction de l’édition arménienne de Venise. CCSA 3. Turnhout: Brepols, 1986 (translation of Tchérakian’s Armenian edition, pp. 173–88).",
+      "language": "French",
+      "entry_type": ". Modern Translations",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n133/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Macé, Caroline. “La lettre de Denys l’Aréopagite à Timothée sur la mort des apôtres Pierre et Paul: l’apport de la version géorgienne.” <em>Apocrypha </em>31 (2020): 61–104 (manuscripts discussed, pp. 67–69, French translation, pp. 103–104).</p>",
+      "line_text": "Macé, Caroline. “La lettre de Denys l’Aréopagite à Timothée sur la mort des apôtres Pierre et Paul: l’apport de la version géorgienne.” Apocrypha 31 (2020): 61–104 (manuscripts discussed, pp. 67–69, French translation, pp. 103–104).",
+      "language": "French",
+      "entry_type": ". Modern Translations"
+    },
+    {
+      "line_html": "<p>Peradze, Grzegorz. <em>List apokryficzny Dionizego Areopagity do Biskupa Efeskiego Tymoteusza o meczenskiej smierci Apostolów Piotra i Pawla</em>. Warsaw: Wydanictwo, “ΕΛΠΙΣ,” Drukarnia Synodalna, 1937. Reprinted in idem, <em>Dziela zebrane</em>, Tom. II: <em>O</em> <em>patrologii. O historii Kosciola</em>. Warszawa: Studium Europy Wschodniej Uniwersytet Warszawski, 2011, pp. 225–34 (translation of the Georgian text based on Bodleian Library, Georg. b1).</p>",
+      "line_text": "Peradze, Grzegorz. List apokryficzny Dionizego Areopagity do Biskupa Efeskiego Tymoteusza o meczenskiej smierci Apostolów Piotra i Pawla. Warsaw: Wydanictwo, “ΕΛΠΙΣ,” Drukarnia Synodalna, 1937. Reprinted in idem, Dziela zebrane, Tom. II: O patrologii. O historii Kosciola. Warszawa: Studium Europy Wschodniej Uniwersytet Warszawski, 2011, pp. 225–34 (translation of the Georgian text based on Bodleian Library, Georg. b1).",
+      "language": "Polish",
+      "entry_type": ". Modern Translations"
+    },
+    {
+      "line_html": "<p>Doole, J. Andrew. “The Final Acts of Paul: The Miracle of the Apostle’s Re-attaching Head.” <em>Apocrypha</em> 30 (2019): 87–106 (esp. 89–93).</p>",
+      "line_text": "Doole, J. Andrew. “The Final Acts of Paul: The Miracle of the Apostle’s Re-attaching Head.” Apocrypha 30 (2019): 87–106 (esp. 89–93).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap05lipsgoog/page/n240/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard Adelbert. <em>Die apokryphen Apostelgeschichten und Apostellegenden: Ein Beitrag zur altchristlichen Literaturgeschichte.</em> 2 vols. Braunschweig: Schwetschke, 1883–1890; reprinted Amsterdam: APA-philo, 1976 (vol. 2.1, pp. 227–31, and <em>Ergänzungshaft</em>, 42–44 and 99–100).</p>",
+      "line_text": "Lipsius, Richard Adelbert. Die apokryphen Apostelgeschichten und Apostellegenden: Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1890; reprinted Amsterdam: APA-philo, 1976 (vol. 2.1, pp. 227–31, and Ergänzungshaft, 42–44 and 99–100).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap05lipsgoog/page/n240/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=B_HJDwAAQBAJ&amp;pg=PA19&amp;lpg=PA19&amp;dq=paris+syr.+234&amp;source=bl&amp;ots=aX3Q4SNQQU&amp;sig=ACfU3U3X8guU11aILrZyhyyAcAmUXBHuZA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiwzPm95MPtAhXbWc0KHTgKB1Q4ChDoATAHegQIChAC#v=onepage&amp;q=paris%20syr.%20234&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Macé, Caroline, and Michael Muthreich. “Latin and Oriental Translations of the Epistola ad Timotheum de morte apostolorum Attributed to Dionysius the Areopagite.” Pages 9–34 in <em>Caught in Translation: Studies on Versions of Late-Antique Literature.</em> Edited by Madalina Toca and Dan Batovici. Leiden and Boston: Brill, 2020.</p>",
+      "line_text": "Macé, Caroline, and Michael Muthreich. “Latin and Oriental Translations of the Epistola ad Timotheum de morte apostolorum Attributed to Dionysius the Areopagite.” Pages 9–34 in Caught in Translation: Studies on Versions of Late-Antique Literature. Edited by Madalina Toca and Dan Batovici. Leiden and Boston: Brill, 2020.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=B_HJDwAAQBAJ&pg=PA19&lpg=PA19&dq=paris+syr.+234&source=bl&ots=aX3Q4SNQQU&sig=ACfU3U3X8guU11aILrZyhyyAcAmUXBHuZA&hl=en&sa=X&ved=2ahUKEwiwzPm95MPtAhXbWc0KHTgKB1Q4ChDoATAHegQIChAC#v=onepage&q=paris%20syr.%20234&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Muthreich, Michael. “Bemerkungen zur arabischen und äthiopischen Fassung der <em>Epistola de morte apostolorum Petri et Pauli</em> (zugeschrieben dem Dionysius Areopagita).” <em>Philotheos</em> 13 (2013): 166–75.</p>",
+      "line_text": "Muthreich, Michael. “Bemerkungen zur arabischen und äthiopischen Fassung der Epistola de morte apostolorum Petri et Pauli (zugeschrieben dem Dionysius Areopagita).” Philotheos 13 (2013): 166–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Théry, Gabriel. “Catalogue des manuscrits dionysiens des bibliothèques d’Autriche.” <em>Archives d’histoire doctrinale et littéraire du Moyen Age </em>10 (1935): 174–76.</p>",
+      "line_text": "Théry, Gabriel. “Catalogue des manuscrits dionysiens des bibliothèques d’Autriche.” Archives d’histoire doctrinale et littéraire du Moyen Age 10 (1935): 174–76.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

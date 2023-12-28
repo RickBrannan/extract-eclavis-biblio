@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fols. 195<sup>v</sup>–199<sup>v</sup> (1659)</p>",
       "line_text": "London, British Library, Add. 9965, fols. 195v–199v (1659)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphasinait01gibsgoog/page/n120/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gibson, Margaret Dunlop. <em>Apocrypha Sinaitica. </em>Studia Sinaitica 5. London: C. J. Clay and Sons, 1896 (text from BL Add. 9965, pp. 56–65 [Arabic numbering], translation, pp. 44–51).</p>",
@@ -27,7 +27,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1510/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1510, fols. 230–239<sup>v</sup> (10th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1510, fols. 230–239v (10th cent.)",
       "language": ".1 Martyrium et miraculum",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1510/"
       ]
@@ -36,7 +36,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek Leipzig, B Rep. II 26 (Nauman 187), fols. 2–6 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/38424/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digital.ub.uni-leipzig.de/mirador/index.php\" target=\"_blank\" rel=\"noopener\">UL</a></p>",
       "line_text": "Leipzig, Universitätsbibliothek Leipzig, B Rep. II 26 (Nauman 187), fols. 2–6 (10th cent.) ~ Pinakes; UL",
       "language": ".2 Martyrium",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/38424/",
         "https://digital.ub.uni-leipzig.de/mirador/index.php"
@@ -46,7 +46,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, G 63 sup. (Martini-Bassi 405), fols. 32–38 (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/64861/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Milan, Biblioteca Ambrosiana, G 63 sup. (Martini-Bassi 405), fols. 32–38 (11th/12th cent.) ~ Pinakes",
       "language": ".2 Martyrium",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/64861/"
       ]
@@ -55,7 +55,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1614, fols. 1–9<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51236/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1614, fols. 1–9v (16th cent.) ~ Pinakes",
       "language": ".2 Martyrium",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/51236/"
       ]
@@ -64,7 +64,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolic Vaticana, Barb. gr. 318, fol. 203<sup>v</sup>–214<sup>r</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/64861/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Vatican, Biblioteca Apostolic Vaticana, Barb. gr. 318, fol. 203v–214r (12th/13th cent.) ~ Pinakes",
       "language": ".2 Martyrium",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/64861/"
       ]
@@ -73,7 +73,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolic Vaticana, Vat. gr. 1673, fols. 222<sup>v</sup>–225<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68304/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Vatican, Biblioteca Apostolic Vaticana, Vat. gr. 1673, fols. 222v–225r (11th cent.) ~ Pinakes",
       "language": ".2 Martyrium",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68304/"
       ]
@@ -158,7 +158,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm. 4554, fols. 42<sup>r</sup>–45<sup>v</sup> (8th/9th cent.)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm. 4554, fols. 42r–45v (8th/9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/"
       ]
@@ -167,7 +167,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 160<span class=\"s1\"><sup>v</sup></span>–161<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
       "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 160v–161v (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
       ]

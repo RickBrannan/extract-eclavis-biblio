@@ -16,7 +16,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. arab. 170, fols. 317<sup>v</sup>–340<sup>r</sup> (1719)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. arab. 170, fols. 317v–340r (1719)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/"
       ]
@@ -34,7 +34,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 604, fols. 104<sup>r</sup>–112<sup>r</sup> (1716) ~ <a href=\"http://www.bl.uk/manuscripts/FullDisplay.aspx?index=6&amp;ref=Or_604\" target=\"_blank\" rel=\"noopener noreferrer\">BL</a></p>",
       "line_text": "London, British Library, Or. 604, fols. 104r–112r (1716) ~ BL",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.bl.uk/manuscripts/FullDisplay.aspx?index=6&ref=Or_604"
       ]
@@ -43,13 +43,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 606, fols. 127<sup>v</sup>–138<sup>v</sup> (18th cent.)</p>",
       "line_text": "London, British Library, Or. 606, fols. 127v–138v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 158, fols. 155<sup>r</sup>–164<sup>r</sup> (18th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10087929t.r=%C3%89thiopien%20158?rk=21459;2\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 158, fols. 155r–164r (18th cent.) ~ Gallica",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10087929t.r=%C3%89thiopien%20158?rk=21459;2"
       ]
@@ -58,7 +58,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Däbrä Tabor, Bethlehem Church, no shelf number, pp. 322–336 (1398–1408)</p>",
       "line_text": "Däbrä Tabor, Bethlehem Church, no shelf number, pp. 322–336 (1398–1408)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/"
       ]

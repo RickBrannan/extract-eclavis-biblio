@@ -90,37 +90,37 @@
       "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia, Siriyskaya novaya seria 1 (462) ~ book 3 fols. 40<sup>v</sup>–62<sup>r</sup></p>",
       "line_text": "St. Petersburg, National Library of Russia, Siriyskaya novaya seria 1 (462) ~ book 3 fols. 40v–62r",
       "language": ".1 Eusebius, Hist. eccl. 3.23.6–11",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14639 (6th cent.) ~ books 1–5 only; book 3 fols. 40<sup>v</sup>–70<sup>r</sup></p>",
       "line_text": "London, British Library, Add. 14639 (6th cent.) ~ books 1–5 only; book 3 fols. 40v–70r",
       "language": ".1 Eusebius, Hist. eccl. 3.23.6–11",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14650 (6th/7th cent.) ~ four excerpts from Eusebius with <em>John and the Robber</em> on fols. 71<sup>r</sup>–72<sup>v</sup></p>",
       "line_text": "London, British Library, Add. 14650 (6th/7th cent.) ~ four excerpts from Eusebius with John and the Robber on fols. 71r–72v",
       "language": ".1 Eusebius, Hist. eccl. 3.23.6–11",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Baghdad, Library of the Chaldean Monastery, 636, item 6  (19th cent.) ~ uncertain identification</p>",
       "line_text": "Baghdad, Library of the Chaldean Monastery, 636, item 6  (19th cent.) ~ uncertain identification",
       "language": ".2 Independently circulating story",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14641, fols. 144<sup>r</sup>–145<sup>v</sup> (10th/11th cent.) ~ includes additional portions of Eusebius, <em>Hist. eccl.</em> 3.23</p>",
       "line_text": "London, British Library, Add. 14641, fols. 144r–145v (10th/11th cent.) ~ includes additional portions of Eusebius, Hist. eccl. 3.23",
       "language": ".2 Independently circulating story",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-236/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Syr. 236, fols. 142<sup>r</sup>–144<sup>r</sup> (1193/1194) ~ manuscript of the <em>History of John</em> incorporating John and the Robber</p>",
       "line_text": "Paris, Bibliothèque nationale de France, Syr. 236, fols. 142r–144r (1193/1194) ~ manuscript of the History of John incorporating John and the Robber",
       "language": ".2 Independently circulating story",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-236/"
       ]
@@ -129,7 +129,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-26-edgbaston-university-of-birmingham-mingana-syr-643-milan-biblioteca-ambrosiana-a-296-inf-fol-20/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 26 + Edgbaston, University of Birmingham, Mingana Syr. 643 + Milan, Biblioteca Ambrosiana, A 296 inf., fol. 20 (Chabot 50), fols. 155<sup>r</sup>–156<sup>v</sup>  (9th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 26 + Edgbaston, University of Birmingham, Mingana Syr. 643 + Milan, Biblioteca Ambrosiana, A 296 inf., fol. 20 (Chabot 50), fols. 155r–156v  (9th cent.)",
       "language": ".2 Independently circulating story",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-26-edgbaston-university-of-birmingham-mingana-syr-643-milan-biblioteca-ambrosiana-a-296-inf-fol-20/"
       ]

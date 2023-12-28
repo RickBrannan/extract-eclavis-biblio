@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11867/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Paris, Bibliothéque nationale de France, lat. 11867, fols. 177<sup>v</sup>–179<sup>r</sup> (13th cent.)</p>",
       "line_text": "Paris, Bibliothéque nationale de France, lat. 11867, fols. 177v–179r (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11867/"
       ]
@@ -21,7 +21,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Harley 2277 (ca. 1300) ~ <a href=\"https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7679&amp;CollID=8&amp;NStart=2277\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
       "line_text": "London, British Library, Harley 2277 (ca. 1300) ~ CATALOG",
       "language": "Middle English",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7679&CollID=8&NStart=2277"
       ]

@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 118 (ancien fonds 46/3), fols. 309<sup>v</sup>–310<sup>v </sup>(14th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10088220g\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Arm. 118 (ancien fonds 46/3), fols. 309v–310v (14th cent.) ~ IMAGES",
       "language": "Armenian",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10088220g"
       ]
@@ -21,13 +21,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 223 (olim 1447), item 159 (15th cent.)</p>",
       "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 223 (olim 1447), item 159 (15th cent.)",
       "language": "Armenian",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 234 (olim 569), item 37 (1518)</p>",
       "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 234 (olim 569), item 37 (1518)",
       "language": "Armenian",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n317/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition based on Venice 223 with readings from Venice 234, pp. 293–99).</p>",

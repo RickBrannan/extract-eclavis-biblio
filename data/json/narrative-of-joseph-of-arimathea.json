@@ -15,19 +15,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"tojvnm2t a6sixzi8 abs2jz4q a8s20v7p t1p8iaqh k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y iyyx5f41\">Bucharest, Romanian Academy Library, Collection of the Agapia Monastery, Ms. 28, fols. 56–66 (16th cent.)</span></p>",
       "line_text": "Bucharest, Romanian Academy Library, Collection of the Agapia Monastery, Ms. 28, fols. 56–66 (16th cent.)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"tojvnm2t a6sixzi8 abs2jz4q a8s20v7p t1p8iaqh k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y iyyx5f41\">Sremski Karlovci, Library of the Patriarchate Court, Codex Inv. Nr. 3473 (16th cent.) </span></p>",
       "line_text": "Sremski Karlovci, Library of the Patriarchate Court, Codex Inv. Nr. 3473 (16th cent.) ",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"tojvnm2t a6sixzi8 abs2jz4q a8s20v7p t1p8iaqh k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y iyyx5f41\">Mostar, Library of the Žitomislić Monastery, Ms. 140 (the entire library was destroyed and plundered in 1992) </span></p>",
       "line_text": "Mostar, Library of the Žitomislić Monastery, Ms. 140 (the entire library was destroyed and plundered in 1992) ",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Daničić, G. “Dva apokrifina jevangjelja.” <em>Starine</em> 4 (1872): 130–54 (edition of Sremski Karlovci 3473, pp. 149–54).</p>",
@@ -51,13 +51,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Milan, Ambrosian Library, E 100 sup., fols. 1<sup>r</sup>–4<sup>v</sup> (12th cent.)</p>",
       "line_text": "A  Milan, Ambrosian Library, E 100 sup., fols. 1r–4v (12th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a><strong>B</strong>  Paris, Bibliothèque nationale de France, gr. 929, pp. 49–63 (1497)</p>",
       "line_text": "B  Paris, Bibliothèque nationale de France, gr. 929, pp. 49–63 (1497)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/"
       ]
@@ -66,7 +66,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-770/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>C</strong>  Paris, Bibliothèque nationale de France, gr. 770, fols. 20<sup>v</sup>–25<sup>r</sup> (1315)</p>",
       "line_text": "C  Paris, Bibliothèque nationale de France, gr. 770, fols. 20v–25r (1315)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-770/"
       ]
@@ -75,7 +75,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-5636/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  London, British Library, Harley 5636, fols. 33<sup>r</sup>–41<sup>v</sup> (14th cent.)</p>",
       "line_text": "D  London, British Library, Harley 5636, fols. 33r–41v (14th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-5636/"
       ]
@@ -90,7 +90,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-nazionale-centrale-vittorio-emanuele-ii-gr-20/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>Z</strong>  Rome,  Biblioteca Nazionale Centrale Vittorio Emanuele II, Gr. 20, fols. 109<sup>v</sup>–113<sup>v </sup>(15th cent.)</p>",
       "line_text": "Z  Rome,  Biblioteca Nazionale Centrale Vittorio Emanuele II, Gr. 20, fols. 109v–113v (15th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-nazionale-centrale-vittorio-emanuele-ii-gr-20/"
       ]
@@ -105,25 +105,25 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Athens, Ethnikē bibliothēkē tēs hellados, 352, fols. 150–172 (17th cent.)</p>",
       "line_text": "H  Athens, Ethnikē bibliothēkē tēs hellados, 352, fols. 150–172 (17th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong>  Istanbul, Patriarchikē bibliothēkē, Theologikē scholē, gr. 100 (92), fols. 202<sup>r</sup>–222<sup>v</sup> (16th cent.)</p>",
       "line_text": "I  Istanbul, Patriarchikē bibliothēkē, Theologikē scholē, gr. 100 (92), fols. 202r–222v (16th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>J</strong>  Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba, 422, fols. 3–10 (16th cent.)</p>",
       "line_text": "J  Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba, 422, fols. 3–10 (16th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-947/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P1 </strong> Paris, Bibliothèque nationale de France, gr. 947 (olim 1574), fols. 115<sup>v</sup>–133<sup>r</sup> (1574)<em><br/></em></p>",
       "line_text": "P1  Paris, Bibliothèque nationale de France, gr. 947 (olim 1574), fols. 115v–133r (1574)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-947/"
       ]
@@ -132,7 +132,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1021/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P2</strong>  Paris, Bibliothèque nationale de France, gr. 1021, fols. 347<sup>r</sup>–367<sup>r</sup> (15th/16th cent.)</p>",
       "line_text": "P2  Paris, Bibliothèque nationale de France, gr. 1021, fols. 347r–367r (15th/16th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1021/"
       ]

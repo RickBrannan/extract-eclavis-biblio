@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, arabe 152, fols. 3<sup>r</sup>–49<sup>r</sup> (16th cent.)</p>",
       "line_text": "P  Paris, Bibliothèque nationale de France, arabe 152, fols. 3r–49r (16th cent.)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Additional manuscripts:</p>",
@@ -24,13 +24,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 441</p>",
       "line_text": "Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 441",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-25/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 25 (Graf 720), fols. 175<sup>r</sup>–196<sup>r</sup> (1687)</p>",
       "line_text": "Cairo, Coptic Museum, 25 (Graf 720), fols. 175r–196r (1687)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-25/"
       ]
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-64a/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 64(A), fols. 2<sup>r</sup>–3<sup>v</sup> (18th cent.) ~ fragmentary</p>",
       "line_text": "Cairo, Coptic Museum, 64(A), fols. 2r–3v (18th cent.) ~ fragmentary",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-64a/"
       ]
@@ -48,31 +48,31 @@
       "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Chr. Arab. Add. 145, fol. 2 (upper writing ca. 1000) ~ fragmentary</p>",
       "line_text": "Edgbaston, University of Birmingham, Mingana Chr. Arab. Add. 145, fol. 2 (upper writing ca. 1000) ~ fragmentary",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 300, fols. 411–438 (14th cent.) ~ unconfirmed</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe 300, fols. 411–438 (14th cent.) ~ unconfirmed",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Bibloteca Apostolica Vaticana, Vat. ar. 498, fols. 57<sup>r</sup>–92<sup>r</sup> (17th cent.)</p>",
       "line_text": "Vatican, Bibloteca Apostolica Vaticana, Vat. ar. 498, fols. 57r–92r (17th cent.)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Bibloteca Apostolica Vaticana, Vat. ar. 55 ~ unconfirmed</p>",
       "line_text": "Vatican, Bibloteca Apostolica Vaticana, Vat. ar. 55 ~ unconfirmed",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wadi-el-natrun-dayr-qiddis-anba-maqqar-406/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 406, pp. 272–328 (16th cent.)</p>",
       "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 406, pp. 272–328 (16th cent.)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/wadi-el-natrun-dayr-qiddis-anba-maqqar-406/"
       ]
@@ -81,7 +81,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wadi-el-natrun-dayr-qiddis-anba-maqqar-410/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 410, pp. 416–465 (1735)</p>",
       "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 410, pp. 416–465 (1735)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/wadi-el-natrun-dayr-qiddis-anba-maqqar-410/"
       ]
@@ -90,19 +90,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Franciscan Centre of Christian Oriental Studies, 109</p>",
       "line_text": "Cairo, Franciscan Centre of Christian Oriental Studies, 109",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Cloister of St. Mena, 48, fols. 124<sup>v</sup>–150<sup>r</sup> (18th cent.)</p>",
       "line_text": "Cairo, Cloister of St. Mena, 48, fols. 124v–150r (18th cent.)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Khasrîat ar-Rihân, 112, fols. 118<sup>r</sup>–154<sup>r</sup> (18th cent.)</p>",
       "line_text": "Cairo, Khasrîat ar-Rihân, 112, fols. 118r–154r (18th cent.)",
       "language": ".1 Arabic Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/MPMIFAOC27/page/n45\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Galtier, Émile. <em><span class=\"breaker-breaker\">Mémoires et fragments inédits réunis et publiés par. M. Émile Chassinat. </span></em>Mémoires publiés par les membres de l’Institut français d’archéologie orientale 27. Cairo: Impreimerie de l’IFAO, 1912 (introduction pp. 31–41; text of Paris arabe 152, pp. 42–73; translation, pp. 75–103).</p>",
@@ -126,7 +126,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syrian Catholic Archdiocese of Aleppo, 52 K, fols. 44<sup>v</sup>–68<sup>v</sup> (17th cent.)</p>",
       "line_text": "Aleppo, Syrian Catholic Archdiocese of Aleppo, 52 K, fols. 44v–68v (17th cent.)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/"
       ]
@@ -135,7 +135,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Syrian Catholic Archdiocese of Aleppo, 127 M, fols. 75<sup>r</sup>–109<sup>r</sup> (16th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/508537\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a></p>",
       "line_text": "Aleppo, Syrian Catholic Archdiocese of Aleppo, 127 M, fols. 75r–109r (16th cent.) ~ HMML",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/508537"
       ]
@@ -144,25 +144,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 127, fols. 136<sup>v</sup>–181<sup>v</sup> (1683)</p>",
       "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 127, fols. 136v–181v (1683)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 355, fols. 58<sup>v</sup>–93<sup>v</sup> (ca. 1800)</p>",
       "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 355, fols. 58v–93v (ca. 1800)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 369, fols. 117<sup>r</sup>–130<sup>r</sup> (1481)</p>",
       "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 369, fols. 117r–130r (1481)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-273/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 273, fols. 22<sup>r</sup>–47<sup>r</sup> (16th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, syr. 273, fols. 22r–47r (16th cent.)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-273/"
       ]
@@ -171,19 +171,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Montserrat, Biblioteca de Montserrat, Or. 8, fols. 1<sup>r</sup>–31<sup>v</sup> (18th cent.)</p>",
       "line_text": "Montserrat, Biblioteca de Montserrat, Or. 8, fols. 1r–31v (18th cent.)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Montserrat, Biblioteca de Montserrat, Or. 36, fols. 1<sup>r</sup>–34<sup>r</sup> (18th cent.)</p>",
       "line_text": "Montserrat, Biblioteca de Montserrat, Or. 36, fols. 1r–34r (18th cent.)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 1<sup>r</sup>–7<sup>r</sup> (1440)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 1r–7r (1440)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/"
       ]
@@ -192,7 +192,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-199/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 199, fols. 345<sup>v</sup>–375<sup>r</sup> (1545)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 199, fols. 345v–375r (1545)",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-199/"
       ]
@@ -201,7 +201,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://archive.org/details/woodbrookestudie02theouoft/page/240\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “Martyrdom of Pilate.” Pages 241–333 in <em>Woodbrooke Studies. V</em>ol. 2. Cambridge: W. Heffer &amp; Sons, 1928 (edition based on Mingana Syr. 127, 355 and the Arabic Paris arabe 152; translation pp. 243–82, text pp. 283–333).</p>",
       "line_text": "Mingana, Alphonse. “Martyrdom of Pilate.” Pages 241–333 in Woodbrooke Studies. Vol. 2. Cambridge: W. Heffer &amp; Sons, 1928 (edition based on Mingana Syr. 127, 355 and the Arabic Paris arabe 152; translation pp. 243–82, text pp. 283–333).",
       "language": ".1 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/woodbrookestudie02theouoft/page/240"
       ]
@@ -216,37 +216,37 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  London, British Library, Or. 690, fols. 97<sup>v</sup>–108<sup>v </sup>(15th cent.) ~ terminates just prior to Pilate’s death</p>",
       "line_text": "Z  London, British Library, Or. 690, fols. 97v–108v (15th cent.) ~ terminates just prior to Pilate’s death",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1826, fols. 149<sup>v</sup>–164<sup>r</sup> (14th/15th cent.)</p>",
       "line_text": "B  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1826, fols. 149v–164r (14th/15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1827, fols. 150<sup>v</sup>–169<sup>r</sup> (15th cent.)</p>",
       "line_text": "A  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1827, fols. 150v–169r (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Bibloteca Apostolica Vaticana, Vat. et. 264, fols. 24<sup>r</sup>–33<sup>v</sup> (1362–1363)</p>",
       "line_text": "V  Vatican, Bibloteca Apostolica Vaticana, Vat. et. 264, fols. 24r–33v (1362–1363)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Tānāsee 122, fols. 80<sup>r</sup>–92<sup>v </sup>(15th cent.)</p>",
       "line_text": "Berlin, Staatsbibliothek zu Berlin, Tānāsee 122, fols. 80r–92v (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">EMML 6834, fols. 123<sup>v</sup>–135<sup>r</sup> (14th cent.)</p>",
       "line_text": "EMML 6834, fols. 123v–135r (14th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Recension B (the final two episodes, though not Pilate’s martyrdom, are incorporated in several manuscripts of the <em>Miracles of Mary</em>):</p>",
@@ -258,31 +258,31 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong> Berlin, Staatsbibliothek, Petermann II Nachtrag 45 (=Dillman 68), fols. 48<sup>v</sup>–50<sup>v</sup>, 133<sup>v</sup>–134<sup>r</sup> (18th cent.)</p>",
       "line_text": "B Berlin, Staatsbibliothek, Petermann II Nachtrag 45 (=Dillman 68), fols. 48v–50v, 133v–134r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong> Paris, Bibliothèque nationale de France, Éth. 62 (16/17th cent.)</p>",
       "line_text": "Z Paris, Bibliothèque nationale de France, Éth. 62 (16/17th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>D’A</strong>  Paris, Bibliothèque nationale de France, D’Abaddie 165 (18th cent.)</p>",
       "line_text": "D’A  Paris, Bibliothèque nationale de France, D’Abaddie 165 (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Veroli, Biblioteca Giovardiana, Etiopico (15th cent.)</p>",
       "line_text": "G  Veroli, Biblioteca Giovardiana, Etiopico (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong>  Upsala, Universitet-Bibliothek, Et. XI (17th cent.)</p>",
       "line_text": "U  Upsala, Universitet-Bibliothek, Et. XI (17th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Cerulli, Enrico. “L’Oriente Cristiano nell’unità delle sue tradizioni.” Pages 9–43 in <em>Atti del Convegno Internazionale sul tema: L’Oriente Cristiano nella storia della civiltà (Roma 31 marzo – 3 aprile 1963) – (Firenze 4 aprile 1963). </em>Quaderno no. 62, Problemi Attuali di Scienza e di Cultura. Rome: Accademia Nazionale dei Lincei, 1964 (edition based on Recension B, manuscript B, pp. 14–25, Italian translation, pp. 25–29).</p>",

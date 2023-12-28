@@ -21,7 +21,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Institut Français d’Archéologie Orientale, P. 416 (=CMCL.BB), fols. 1–16 (4th/5th cent.) (<a href=\"https://atlas.paths-erc.eu/manuscripts/25\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a>; <a href=\"http://papyri.info/dclp/107969\" target=\"_blank\" rel=\"noopener noreferrer\">Papyri.info</a>)<strong> </strong></p>",
       "line_text": "Cairo, Institut Français d’Archéologie Orientale, P. 416 (=CMCL.BB), fols. 1–16 (4th/5th cent.) (PAThs; Papyri.info) ",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/25",
         "http://papyri.info/dclp/107969"
@@ -64,7 +64,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-ethiopien-dabbadie-51/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 51, fols. 113<sup>v</sup>–130<sup>v</sup> (15th/16th cent.)</p>",
       "line_text": "A  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 51, fols. 113v–130v (15th/16th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-ethiopien-dabbadie-51/"
       ]
@@ -73,7 +73,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 90, pp. 100–101 (16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10087737k.r=abbadie%2090?rk=64378;0\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
       "line_text": "B  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 90, pp. 100–101 (16th cent.) ~ Gallica",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10087737k.r=abbadie%2090?rk=64378;0"
       ]
@@ -82,7 +82,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 199, pp. 199–201 (17/18th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10087118x.r=abbadie%20199?rk=42918;4\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
       "line_text": "C  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 199, pp. 199–201 (17/18th cent.) ~ Gallica",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10087118x.r=abbadie%20199?rk=42918;4"
       ]
@@ -91,13 +91,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  London, British Library, Or. 362/Wright no. 362, pp. 275–277 (18th cent.)</p>",
       "line_text": "K  London, British Library, Or. 362/Wright no. 362, pp. 275–277 (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1945, fols. 38r–54r (18th cent.); ~ <a href=\"http://18.235.151.129/detail.php?msid=105759\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; <a href=\"https://archive.org/details/EMMLCatalog05/page/n469/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">Macomber</a></p>",
       "line_text": "N  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1945, fols. 38r–54r (18th cent.); ~ HMML; Macomber",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://18.235.151.129/detail.php?msid=105759",
         "https://archive.org/details/EMMLCatalog05/page/n469/mode/2up"
@@ -107,7 +107,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Genner Agar, Monastery of Dabra Bagge, EMML 2358 (16th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=106171\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; <a href=\"https://archive.org/details/EMMLCatalog06/page/n433/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">Macomber</a></p>",
       "line_text": "O  Genner Agar, Monastery of Dabra Bagge, EMML 2358 (16th cent.) ~ HMML; Macomber",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://18.235.151.129/detail.php?msid=106171",
         "https://archive.org/details/EMMLCatalog06/page/n433/mode/2up"
@@ -117,7 +117,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>T</strong>  Tānāsee, Kebran Gabriel Monastery, 35, fols. 35<sup>r</sup>–46<sup>r </sup>(18th cent.)</p>",
       "line_text": "T  Tānāsee, Kebran Gabriel Monastery, 35, fols. 35r–46r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/"
       ]
@@ -132,13 +132,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  London, British Library, Or. 793/Wright no. 361, pp. 270–275 (18th cent.)</p>",
       "line_text": "L  London, British Library, Or. 793/Wright no. 361, pp. 270–275 (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Addis Ababa, Church of St. Gabriel, EMML 370 , fols. 119<sup>r</sup>–127<sup>v</sup> (19th/20th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=104089\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; <a href=\"https://archive.org/details/EMMLCatalog02/page/n89/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">Macomber</a></p>",
       "line_text": "M  Addis Ababa, Church of St. Gabriel, EMML 370 , fols. 119r–127v (19th/20th cent.) ~ HMML; Macomber",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://18.235.151.129/detail.php?msid=104089",
         "https://archive.org/details/EMMLCatalog02/page/n89/mode/2up"
@@ -148,7 +148,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  EMML 6925 (Hills says 6925) (17/18th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=135989\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; uncataloged</p>",
       "line_text": "P  EMML 6925 (Hills says 6925) (17/18th cent.) ~ HMML; uncataloged",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://18.235.151.129/detail.php?msid=135989"
       ]
@@ -157,25 +157,25 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  EMML 7021 (19th cent.) ~ uncataloged</p>",
       "line_text": "Q  EMML 7021 (19th cent.) ~ uncataloged",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  EMML 7204 (18th cent.) ~ uncataloged</p>",
       "line_text": "R  EMML 7204 (18th cent.) ~ uncataloged",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Stuttgart, Landesbibliothek, Or. fol. 49 (15/16th cent.)</p>",
       "line_text": "S  Stuttgart, Landesbibliothek, Or. fol. 49 (15/16th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Cerulli et. 151, p. 108 (20th cent.)</p>",
       "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Cerulli et. 151, p. 108 (20th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Unassigned:</p>",
@@ -187,7 +187,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tigray-gunda-gunde-monastery-gg-072/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Tigray, Gunda Gunde Monastery, GG-072, fols. 27<sup>r</sup>–41<sup>r</sup> (15th cent.)</p>",
       "line_text": "Tigray, Gunda Gunde Monastery, GG-072, fols. 27r–41r (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/tigray-gunda-gunde-monastery-gg-072/"
       ]
@@ -205,7 +205,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, Cod. Palat. Vindobonensis 16 (olim Bobbiensis), fol. 67 (underwriting: 5th cent.)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. Palat. Vindobonensis 16 (olim Bobbiensis), fol. 67 (underwriting: 5th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/sitzungsbericht363klasgoog/page/n413/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bick, Josef. “Wiener Palimpseste, I. Teil. Codex Palat. Vindobodensis 16, olim Bobbiensis.” <em>Sitzungsberichte der Akademie der Wissenschaften in Wien, philosophisch-historische Klasse</em> 159/7. Vienna: Hölder, 1908 (edition, pp. 90–99, pl. IV).</p>",

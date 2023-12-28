@@ -24,7 +24,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Angers, Bibliothèque municipale, 281, fols. 84<sup>v</sup>–99<sup>r</sup> (11th cent.)</p>",
       "line_text": "A  Angers, Bibliothèque municipale, 281, fols. 84v–99r (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/"
       ]
@@ -33,7 +33,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  Dublin, Trinity College, 737 (olim G.04.16), fols. 79<sup>v</sup>–99<sup>v</sup> (9th and 12th/13th cent.)</p>",
       "line_text": "D  Dublin, Trinity College, 737 (olim G.04.16), fols. 79v–99v (9th and 12th/13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/"
       ]
@@ -42,19 +42,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>F </strong> Orleans, Bibliothèque municipale, 197 (174), pp. 95–117 (10th cent.)</p>",
       "line_text": "F  Orleans, Bibliothèque municipale, 197 (174), pp. 95–117 (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Brussels, Bibliothèque Royale, 975, fols. 48<sup>r</sup>–51<sup>v</sup> (938?)</p>",
       "line_text": "G  Brussels, Bibliothèque Royale, 975, fols. 48r–51v (938?)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, lat. 5301, fols. 279<sup>v</sup>–293<sup>r</sup> (10th cent.) ~ Bonnet P; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b105419950\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
       "line_text": "P  Paris, Bibliothèque nationale de France, lat. 5301, fols. 279v–293r (10th cent.) ~ Bonnet P; IMAGES",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b105419950"
       ]
@@ -63,19 +63,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Vienna, Österreichische Nationalbibliothek, 534 (Hist. eccl. 121), fols. 151<sup>r</sup>–171<sup>v</sup></p>",
       "line_text": "S  Vienna, Österreichische Nationalbibliothek, 534 (Hist. eccl. 121), fols. 151r–171v",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vienna, Österreichische Nationalbibliothek, 455 (Hist. eccl. 71), fols. 91<sup>r</sup>–113<sup>r</sup> (9th cent.)</p>",
       "line_text": "V  Vienna, Österreichische Nationalbibliothek, 455 (Hist. eccl. 71), fols. 91r–113r (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 84<sup>r</sup>–101<sup>v</sup> (9th cent.) ~ Bonnet W</p>",
       "line_text": "W  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 84r–101v (9th cent.) ~ Bonnet W",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
       ]
@@ -90,7 +90,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 4554, fols. 22<sup>v</sup>–31<sup>r</sup> (8th/9th cent.)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 4554, fols. 22v–31r (8th/9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/"
       ]
@@ -99,7 +99,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 11624 (11th cent.) ~ Bonnet Q; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10546765q\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 11624 (11th cent.) ~ Bonnet Q; IMAGES",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10546765q"
       ]
@@ -108,7 +108,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a> Paris, Bibliothèque nationale de France, lat. 12604, fols. 49<sup>v</sup>–60<sup>r</sup> (12th cent.) ~ Bonnet R</p>",
       "line_text": " Paris, Bibliothèque nationale de France, lat. 12604, fols. 49v–60r (12th cent.) ~ Bonnet R",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
       ]
@@ -123,7 +123,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 5327, fol. 188<sup>v</sup> (10th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 5327, fol. 188v (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/"
       ]

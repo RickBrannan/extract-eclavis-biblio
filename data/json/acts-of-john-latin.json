@@ -17,13 +17,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong> Vienna, Österreichische Nationalbibliothek, lat. 534, fols. 107<sup>v</sup>–151<sup>r</sup> (9th cent.)</p>",
       "line_text": "S Vienna, Österreichische Nationalbibliothek, lat. 534, fols. 107v–151r (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  Dublin, Trinity College, 737 (olim G.04.16), fols. 59<sup>r</sup>–79<sup>r</sup> (9th and 12th/13th cent.)</p>",
       "line_text": "D  Dublin, Trinity College, 737 (olim G.04.16), fols. 59r–79r (9th and 12th/13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/"
       ]
@@ -32,7 +32,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64<span class=\"s1\"><sup>v</sup></span>–84<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
       "line_text": "W  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64v–84r (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
       ]
@@ -41,31 +41,31 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vienna, Österreichische Nationalbibliothek, lat. 455, fols. 65<sup>r</sup>–91<sup>r</sup> (9th cent.)</p>",
       "line_text": "V  Vienna, Österreichische Nationalbibliothek, lat. 455, fols. 65r–91r (9th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong> Paris, Bibliothèque nationale de France, lat. 5563, fols. 56<sup>r</sup>–76<sup>v</sup> (10th cent.)</p>",
       "line_text": "N Paris, Bibliothèque nationale de France, lat. 5563, fols. 56r–76v (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Wolfenbüttel, Helmstedt, 536, fols. 57<sup>r</sup>–75<sup>r</sup> (11th cent.)</p>",
       "line_text": "X  Wolfenbüttel, Helmstedt, 536, fols. 57r–75r (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Bamberg, Historische Manuscripte, 139 (olim Q.VI.59), fols. 22<sup>v</sup>–33<sup>r</sup> (12th cent.)</p>",
       "line_text": "B  Bamberg, Historische Manuscripte, 139 (olim Q.VI.59), fols. 22v–33r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q</strong> Paris, Bibliothèque nationale de France, 12604, fols. 38<sup>r</sup>–49<sup>v</sup> (12th cent.)</p>",
       "line_text": "Q Paris, Bibliothèque nationale de France, 12604, fols. 38r–49v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
       ]
@@ -74,19 +74,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong> Vienna, Österreichische Nationalbibliothek, lat. 497, fols. 50<sup>v</sup>–60<sup>v</sup> (13th cent.)</p>",
       "line_text": "K Vienna, Österreichische Nationalbibliothek, lat. 497, fols. 50v–60v (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong> Vienna, Österreichische Nationalbibliothek, lat. 560, fols. 61<sup>v</sup>–85<sup>v</sup> (13th cent.)</p>",
       "line_text": "L Vienna, Österreichische Nationalbibliothek, lat. 560, fols. 61v–85v (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99<sup>v</sup>–115<sup>v</sup> (11th cent.)</p>",
       "line_text": "A  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99v–115v (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/"
       ]
@@ -95,7 +95,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong> Paris, Bibliothèque nationale de France, 18298, fols. 33<sup>r</sup>–43<sup>v</sup> (9th/10th cent.)  <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10721285v\">IMAGES</a></p>",
       "line_text": "Q Paris, Bibliothèque nationale de France, 18298, fols. 33r–43v (9th/10th cent.)  IMAGES",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10721285v"
       ]
@@ -104,7 +104,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Paris, Bibliothèque nationale de France, lat. 3779, fols. 35<sup>r</sup>–47<sup>v</sup> (10th/11th cent.) <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b84559285\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
       "line_text": "M  Paris, Bibliothèque nationale de France, lat. 3779, fols. 35r–47v (10th/11th cent.) IMAGES",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b84559285"
       ]
@@ -113,13 +113,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque nationale de France, lat. 3308, fols. 391<sup>v</sup>–395<sup>r</sup> (12th cent.)</p>",
       "line_text": "R  Paris, Bibliothèque nationale de France, lat. 3308, fols. 391v–395r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Trèves, cath. 133, fols. 84<sup>r</sup>–91<sup>r</sup> (12th cent.)</p>",
       "line_text": "T  Trèves, cath. 133, fols. 84r–91r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=645\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Lazius’s edition via Lefèvre in vol. 2, pp. 531–90).</p>",

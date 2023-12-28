@@ -182,7 +182,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Trinity College, 737 (olim G.04.16), fols. 126<sup>v</sup> (9th and 12th/13th cent.)</p>",
       "line_text": "Dublin, Trinity College, 737 (olim G.04.16), fols. 126v (9th and 12th/13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/"
       ]
@@ -191,7 +191,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 98<sup>r</sup>–102<sup>r</sup> (12th cent.) </span></span></p>",
       "line_text": "Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 98r–102r (12th cent.) ",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/"
       ]
@@ -200,13 +200,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Montecassino, Archivio di Montecassino, 145, pp. 500–504 (11th cent.)</p>",
       "line_text": "Montecassino, Archivio di Montecassino, 145, pp. 500–504 (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 131<sup>v</sup>–139<sup>r</sup>; illustrations fol. 139<sup>v</sup>, 140<sup>r</sup> (1175)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 131v–139r; illustrations fol. 139v, 140r (1175)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
       ]
@@ -215,7 +215,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 89<sup>r</sup>–89<sup>v</sup> (12th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 89r–89v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
       ]
@@ -251,7 +251,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Bucharest, Biblioteca Academiei R. P. R, 164, fols. 281<span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span></span>–286<span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><sup>r</sup></span></span> (15th cent.)</p>",
       "line_text": "Bucharest, Biblioteca Academiei R. P. R, 164, fols. 281v–286r (15th cent.)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Santos Otero, Aurelio. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (description of text and sources, vol. 1, pp. 136–37).</p>",

@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1457, fols. 59<sup>r</sup>–64<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51074/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107222193\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1457, fols. 59r–64r (11th cent.) ~ Pinakes; Gallica",
       "language": ".1 BHG 1848; see Pinakes for a list of additional manuscripts",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/51074/",
         "https://gallica.bnf.fr/ark:/12148/btv1b107222193"
@@ -58,7 +58,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Baltimore, Walters Art Museum, W.521, fol. 203<sup>v</sup>–207<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8843/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W521/description.html\" target=\"_blank\" rel=\"noopener\">Walters</a>; <a href=\"https://www.loc.gov/item/2021667947/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Baltimore, Walters Art Museum, W.521, fol. 203v–207r (11th cent.) ~ Pinakes; Walters; LOC",
       "language": ".2 BHG 1848b; CANT 297",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/8843/",
         "https://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W521/description.html",

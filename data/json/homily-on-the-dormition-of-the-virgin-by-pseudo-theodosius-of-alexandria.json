@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-698/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolic Vaticana,Var. ar. 698, fols.  85<sup>r</sup>–102<sup>r</sup> (1371)</p>",
       "line_text": "Vatican, Biblioteca Apostolic Vaticana,Var. ar. 698, fols.  85r–102r (1371)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-698/"
       ]
@@ -24,7 +24,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Franciscan Center of Christian Oriental Studies, call no. not known (mentioned in William F. Macomber. <em>Catalogue of the Christian Arabic Manuscripts of the Franciscan Center of Christian Oriental Studies, Muski, Cairo</em> [Studia Orientalia Christiana; Jerusalem: Franciscan Printing Press, 1984], 45).</p>",
       "line_text": "Cairo, Franciscan Center of Christian Oriental Studies, call no. not known (mentioned in William F. Macomber. Catalogue of the Christian Arabic Manuscripts of the Franciscan Center of Christian Oriental Studies, Muski, Cairo [Studia Orientalia Christiana; Jerusalem: Franciscan Printing Press, 1984], 45).",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://eprints.ucm.es/20438/1/T24828.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>González Casado, Pilar, ed. “Las relaciones linguisticas entre el siriaco y el arabe en textos religiosos arabes cristianos.” Dissertation. Universidad Complutense de Madrid, 2013 (text of Vat. ar. 698, pp. 243–65; Spanish trans., pp. 477–94).</p>",
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolic Vaticana, Vat. copt. 61, fols. 122r–147v (=MACA.BH; <a href=\"https://atlas.paths-erc.eu/manuscripts/99\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) (9th–11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.copt.61\" target=\"_blank\" rel=\"noopener noreferrer\">DigiVatLib</a></p>",
       "line_text": "Vatican, Biblioteca Apostolic Vaticana, Vat. copt. 61, fols. 122r–147v (=MACA.BH; PAThs entry) (9th–11th cent.) ~ DigiVatLib",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/99",
         "https://digi.vatlib.it/view/MSS_Vat.copt.61"
@@ -58,25 +58,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">pp. [1]–2, [39]–40, [43]–44, [45]–46, [49]–50: Cairo, Coptic Museum, Abu Maqar 9, 9<sup>Add </sup>i–iii</p>",
       "line_text": "pp. [1]–2, [39]–40, [43]–44, [45]–46, [49]–50: Cairo, Coptic Museum, Abu Maqar 9, 9Add i–iii",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. [51]–52, [57]–58: Manchester, John Rylands Library, Copt. 441</p>",
       "line_text": "pp. [51]–52, [57]–58: Manchester, John Rylands Library, Copt. 441",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">p. [71]–72: Leipzig, Universitätsbibliothek, 1088 (Tischendorf XXVI), fol. 1</p>",
       "line_text": "p. [71]–72: Leipzig, Universitätsbibliothek, 1088 (Tischendorf XXVI), fol. 1",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. [9]–10: Leipzig, Universitätsbibliothek, 1089 (Tischendorf XXVII), fol. 9</p>",
       "line_text": "pp. [9]–10: Leipzig, Universitätsbibliothek, 1089 (Tischendorf XXVII), fol. 9",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch2919331934pari/page/272/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Chaîne, Marius. “Sermon de Théodose patriarche d’Alexandrie sur la dormition et l’assomption de la Vierge.” <em>ROC </em>29 (1933/1934): 272–314 (complete text and French translation of Vat. copt. 61).</p>",

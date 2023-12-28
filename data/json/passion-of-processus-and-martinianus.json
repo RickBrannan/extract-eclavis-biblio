@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Vatican, Vatican Archives, Arch. Cap. S. Pietro A.4, fols. 65<span class=\"Brrgq\"><sup>v</sup></span>–67<span class=\"Brrgq\"><sup>v</sup></span> (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.4\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "A  Vatican, Vatican Archives, Arch. Cap. S. Pietro A.4, fols. 65v–67v (11th cent.) ~ IMAGES",
       "language": ".1 Longer Version",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.4"
       ]
@@ -21,13 +21,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Montecassino, Archivio di Montecassino, 142 (11th cent.)</p>",
       "line_text": "C  Montecassino, Archivio di Montecassino, 142 (11th cent.)",
       "language": ".1 Longer Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. Pal. lat. 846, fols. <span class=\"Brrgq\">106<sup>v</sup>–107<sup>v</sup></span> (10th cent.) ~ <a href=\"https://digi.vatlib.it/view/bav_pal_lat_846\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "P  Vatican, Biblioteca Apostolica Vaticana, Vat. Pal. lat. 846, fols. 106v–107v (10th cent.) ~ IMAGES",
       "language": ".1 Longer Version",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/bav_pal_lat_846"
       ]
@@ -36,7 +36,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  <span class=\"Brrgq\">Paris, </span>Bibliothèque nationale de France<span class=\"Brrgq\">, lat. 5299, fols. 26<sup>v</sup>–29<sup>v</sup> (9th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10724077m\" target=\"_blank\" rel=\"noopener\">GALLICA</a><br/></span></p>",
       "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 5299, fols. 26v–29v (9th cent.) ~ GALLICA",
       "language": ".1 Longer Version",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10724077m"
       ]
@@ -45,7 +45,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 523, fols. 214<span class=\"Brrgq\"><sup>v</sup>–216<sup>v</sup></span> (ca. 1000) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.523\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "R  Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 523, fols. 214v–216v (ca. 1000) ~ IMAGES",
       "language": ".1 Longer Version",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Reg.lat.523"
       ]
@@ -54,7 +54,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S </strong> Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 539, fols. <span class=\"Brrgq\">132<sup>v</sup>–134<sup>r</sup></span> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.539\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "S  Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 539, fols. 132v–134r (12th cent.) ~ IMAGES",
       "language": ".1 Longer Version",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Reg.lat.539"
       ]
@@ -63,7 +63,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1191, fols. <span class=\"Brrgq\">71<sup>v</sup>–73<sup>r</sup></span> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1191\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1191, fols. 71v–73r (12th cent.) ~ IMAGES",
       "language": ".1 Longer Version",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Vat.lat.1191"
       ]
@@ -78,31 +78,31 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Brussels, Bibliothèque des Bollandistes, 14, fols. 62<sup>r</sup>–63<sup>r</sup> (9th/10th cent.)</span></p>",
       "line_text": "Brussels, Bibliothèque des Bollandistes, 14, fols. 62r–63r (9th/10th cent.)",
       "language": ".1 Longer Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Graz, Universitätsbibliothek, 412, fols. 157<sup>v</sup>–160<sup>r</sup> (9th cent.)</span></p>",
       "line_text": "Graz, Universitätsbibliothek, 412, fols. 157v–160r (9th cent.)",
       "language": ".1 Longer Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Karlsruhe, Badische Landesbibliothek, Aug. 32, fols. 1<sup>r</sup>–1<sup>v</sup> (9th cent.)</span></p>",
       "line_text": "Karlsruhe, Badische Landesbibliothek, Aug. 32, fols. 1r–1v (9th cent.)",
       "language": ".1 Longer Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Montpellier, Bibliothèque Interuniversitaire, Section de Médecine, H 154, fols. 1<sup>r</sup>–1<sup>v</sup> (9th cent.)</span></p>",
       "line_text": "Montpellier, Bibliothèque Interuniversitaire, Section de Médecine, H 154, fols. 1r–1v (9th cent.)",
       "language": ".1 Longer Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Vienna, </span>Österreichische Nationalbibliothek<span class=\"Brrgq\">, lat. 357, fols. 150–152 (9th/10th cent.).</span></p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, lat. 357, fols. 150–152 (9th/10th cent.).",
       "language": ".1 Longer Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/actasanctorum28unse/page/n361\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean, et al., eds. <em>Acta Sanctorum, Julii.</em> Vol. 1. Antwerp: P. Jacobs, 1680 (edition from unidentified manuscript, pp. 303–304). 3rd ed. Paris: V. Palmé, 1867 (cols. 270–71).</p>",
@@ -132,13 +132,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Montpellier, <span class=\"Brrgq\">Bibliothèque Interuniversitaire, Section de Médecine,</span> 1 t. 4, fols. 12<span class=\"Brrgq\"><sup>v</sup></span>–13<span class=\"Brrgq\"><sup>r</sup></span> (12th cent.)</p>",
       "line_text": "Montpellier, Bibliothèque Interuniversitaire, Section de Médecine, 1 t. 4, fols. 12v–13r (12th cent.)",
       "language": ".2 Shorter Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, 7, fol. 173<span class=\"Brrgq\"><sup>v</sup></span> (13th cent.)</p>",
       "line_text": "Rome, Biblioteca Vallicelliana, 7, fol. 173v (13th cent.)",
       "language": ".2 Shorter Version",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/tudesurlesgestam00dufo/page/n351/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Dufourcq, Albert. <em>Étude sur les ‘Gesta martyrum’ romains.</em> 5 vols. Paris: Albert Fontemoing, 1900–1907. 2nd ed. Paris: De Boccard, 1988 (edition of the shorter version based on Vallicelliana 7, vol. 1, 328–29).</p>",

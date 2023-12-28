@@ -10,7 +10,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 4714 sup. (10th–12th cent.) ~ CLM 1316; <a href=\"https://atlas.paths-erc.eu/manuscripts/1316\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry)</p>",
       "line_text": "London, British Library, Or. 4714 sup. (10th–12th cent.) ~ CLM 1316; PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1316"
       ]
@@ -19,49 +19,49 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. et. 42 (15th cent.)</p>",
       "line_text": "A  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 42 (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 50 (14th cent.)</p>",
       "line_text": "B  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 50 (14th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 60 (16th cent.)</p>",
       "line_text": "C  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 60 (16th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Paris, Bibliothèque nationale de France, Eth. 56 (16th cent.)</p>",
       "line_text": "D  Paris, Bibliothèque nationale de France, Eth. 56 (16th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Paris, Bibliothèque nationale de France, Eth. 57 (15th cent.)</p>",
       "line_text": "E  Paris, Bibliothèque nationale de France, Eth. 57 (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>F </strong> fragments edited by Ludolfi</p>",
       "line_text": "F  fragments edited by Ludolfi",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Schiaparelli, private collection (18th cent.)</p>",
       "line_text": "G  Schiaparelli, private collection (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, or. oct. 59, fols. 15–55 (14th cent.) ~ <a href=\"https://archive.org/details/diehandschriften03preu/page/66/mode/2up\" target=\"_blank\" rel=\"noopener\">Catalog</a></p>",
       "line_text": "Berlin, Staatsbibliothek zu Berlin, or. oct. 59, fols. 15–55 (14th cent.) ~ Catalog",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/diehandschriften03preu/page/66/mode/2up"
       ]
@@ -70,7 +70,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Peterm. II Nachtr. 28, fols. 1–44 (17th cent.) ~ <a href=\"https://archive.org/details/diehandschriften03preu/page/66/mode/2up\" target=\"_blank\" rel=\"noopener\">Catalog</a></p>",
       "line_text": "Berlin, Staatsbibliothek zu Berlin, Peterm. II Nachtr. 28, fols. 1–44 (17th cent.) ~ Catalog",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/diehandschriften03preu/page/66/mode/2up"
       ]
@@ -79,7 +79,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 564, fols. 15r–45r (18th cent.) ~ <a href=\"https://archive.org/details/catalogueofethio00brituoft/page/112/mode/2up\" target=\"_blank\" rel=\"noopener\">Catalog</a></p>",
       "line_text": "London, British Library, Or. 564, fols. 15r–45r (18th cent.) ~ Catalog",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/catalogueofethio00brituoft/page/112/mode/2up"
       ]
@@ -88,19 +88,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 16245</p>",
       "line_text": "London, British Library, Add. 16245",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Eth. 95 (15th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, Eth. 95 (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Abbadie 153 (18th cent.) ~ <a href=\"https://archive.org/details/cataloguedesmanu00bibluoft/page/92/mode/2up\" target=\"_blank\" rel=\"noopener\">Catalog</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Abbadie 153 (18th cent.) ~ Catalog",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/cataloguedesmanu00bibluoft/page/92/mode/2up"
       ]

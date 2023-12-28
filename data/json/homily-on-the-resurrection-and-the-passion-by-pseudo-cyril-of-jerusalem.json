@@ -24,7 +24,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m594/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M594 + New York, Columbia University Library, Plimpton 1 (9th cent.) (=MICH.BQ)</p>",
       "line_text": "New York, Morgan Library and Museum, M594 + New York, Columbia University Library, Plimpton 1 (9th cent.) (=MICH.BQ)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m594/"
       ]
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m595/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M595, fols. 1<sup>r</sup>–27<sup>v</sup> (855) (=MICH.BR)</p>",
       "line_text": "New York, Morgan Library and Museum, M595, fols. 1r–27v (855) (=MICH.BR)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m595/"
       ]
@@ -54,7 +54,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-amh-copt-pap-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, Amh. Copt. Pap. 4.3–4 (7th cent.)</p>",
       "line_text": "New York, Morgan Library and Museum, Amh. Copt. Pap. 4.3–4 (7th cent.)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-amh-copt-pap-4/"
       ]
@@ -81,127 +81,127 @@
       "line_html": "<p style=\"padding-left: 40px;\">pp. 15–16: Vienna, Österreichische Nationalbibliothek, K 9475</p>",
       "line_text": "pp. 15–16: Vienna, Österreichische Nationalbibliothek, K 9475",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 17–18: Oxford, Bodleian Library, Copt. E 177</p>",
       "line_text": "pp. 17–18: Oxford, Bodleian Library, Copt. E 177",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 19–20: Paris, Bibliothèque nationale de France, Copt 131<sup>5</sup>, fol. 117</p>",
       "line_text": "pp. 19–20: Paris, Bibliothèque nationale de France, Copt 1315, fol. 117",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 35–38: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.14–15</p>",
       "line_text": "pp. 35–38: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.14–15",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 39–42: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.41–42</p>",
       "line_text": "pp. 39–42: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.41–42",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 43–46: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.16–17</p>",
       "line_text": "pp. 43–46: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.16–17",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 47–48: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.43</p>",
       "line_text": "pp. 47–48: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.43",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 81–82: Paris, Musée du Louvre, E 10084</p>",
       "line_text": "pp. 81–82: Paris, Musée du Louvre, E 10084",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 97–98: Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>, fol. 18</p>",
       "line_text": "pp. 97–98: Paris, Bibliothèque nationale de France, Copt 1317, fol. 18",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 101–106: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.44–46</p>",
       "line_text": "pp. 101–106: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.44–46",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 121–122: Cairo, Coptic Museum, 9227</p>",
       "line_text": "pp. 121–122: Cairo, Coptic Museum, 9227",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 129–130: Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>, fol. 64</p>",
       "line_text": "pp. 129–130: Paris, Bibliothèque nationale de France, Copt 1317, fol. 64",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 131–132: Paris, Bibliothèque nationale de France, Copt 129<sup>17</sup>, fol. 68</p>",
       "line_text": "pp. 131–132: Paris, Bibliothèque nationale de France, Copt 12917, fol. 68",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 133–134: Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>, fol. 60</p>",
       "line_text": "pp. 133–134: Paris, Bibliothèque nationale de France, Copt 1317, fol. 60",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 137–138: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 14.36</p>",
       "line_text": "pp. 137–138: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 14.36",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>,  fol. 60</p>",
       "line_text": "Paris, Bibliothèque nationale de France, Copt 1317,  fol. 60",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 139–140: Paris, Bibliothèque nationale de France, Copt 131<sup>6</sup>, fol. 54</p>",
       "line_text": "pp. 139–140: Paris, Bibliothèque nationale de France, Copt 1316, fol. 54",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 159–160: Paris, Bibliothèque nationale de France, Copt 129<sup>17</sup>, fol. 64</p>",
       "line_text": "pp. 159–160: Paris, Bibliothèque nationale de France, Copt 12917, fol. 64",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">p. 161: Vienna, Österreichische Nationalbibliothek, K2644</p>",
       "line_text": "p. 161: Vienna, Österreichische Nationalbibliothek, K2644",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">p. 163: London, British Library, Or. 3571A, fol. 147</p>",
       "line_text": "p. 163: London, British Library, Or. 3571A, fol. 147",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Sotheby’s 03</p>",
       "line_text": "Sotheby’s 03",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/04/suciu-borgia-mss-in-naples.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “The Borgian Coptic Manuscripts in Naples: Supplementary Identifications and Notes to a Recently Published Catalogue.” <em>OCP</em> 77 (2011): 299–325 (details on MONB.GD, pp. 314–15).</p>",
@@ -222,7 +222,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-oi/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.OI, pp. 1–56 (10th cent.)</p>",
       "line_text": "MONB.OI, pp. 1–56 (10th cent.)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/monb-oi/"
       ]
@@ -231,7 +231,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">MONB.MI (<a href=\"https://atlas.paths-erc.eu/manuscripts/521\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "MONB.MI (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/521"
       ]
@@ -240,7 +240,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">MONB.MJ (<a href=\"https://atlas.paths-erc.eu/manuscripts/522\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "MONB.MJ (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/522"
       ]
@@ -249,7 +249,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">MONB.ML (<a href=\"https://atlas.paths-erc.eu/manuscripts/524\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "MONB.ML (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/524"
       ]
@@ -258,7 +258,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Ann Arbor, University of Michigan Library, 592 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1682\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "Ann Arbor, University of Michigan Library, 592 (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1682"
       ]
@@ -267,7 +267,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte  129<sup>13</sup>, fol. 67 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1683\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, Copte  12913, fol. 67 (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1683"
       ]
@@ -276,7 +276,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte  131<sup>4</sup>, fol. 166 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1684\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs </a>entry)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, Copte  1314, fol. 166 (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1684"
       ]
@@ -285,7 +285,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte 131<sup>5</sup>, fol. 139 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1685\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs </a>entry)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, Copte 1315, fol. 139 (PAThs entry)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1685"
       ]
@@ -294,7 +294,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, National Archives and Library of Ethiopia, NL MS 28, fols. 1<sup>r</sup>–8<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/533988\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
       "line_text": "Addis Ababa, National Archives and Library of Ethiopia, NL MS 28, fols. 1r–8v (13th/14th cent.) ~ HMML",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/533988"
       ]
@@ -303,7 +303,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Tānāsee, Kebran Gabriel Monastery, 35, fols. 102<sup>v</sup>–105<sup>r</sup> (18th cent.)</p>",
       "line_text": "Tānāsee, Kebran Gabriel Monastery, 35, fols. 102v–105r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/"
       ]

@@ -114,7 +114,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>I </strong> Arras, Bibliothèque municipale, 600 (512) fols. 124<sup>r</sup>–127<sup>r</sup> (13th cent.) ~ <a href=\"https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/24837/manifest\" target=\"_blank\" rel=\"noopener\">BVMM</a></p>",
       "line_text": "I  Arras, Bibliothèque municipale, 600 (512) fols. 124r–127r (13th cent.) ~ BVMM",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/24837/manifest"
       ]
@@ -123,7 +123,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>J </strong> Arras, Bibliothèque municipale, 344 (961) fols. 61<sup>v</sup>–62<sup>v</sup> (14th cent.) ~ <a href=\"https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/24412/manifest\" target=\"_blank\" rel=\"noopener\">BVMM</a></p>",
       "line_text": "J  Arras, Bibliothèque municipale, 344 (961) fols. 61v–62v (14th cent.) ~ BVMM",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/24412/manifest"
       ]
@@ -132,61 +132,61 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Arras, Bibliothèque municipale, 813 (24) fols. 115<sup>r</sup>–118<sup>v</sup> (12th cent.)</p>",
       "line_text": "K  Arras, Bibliothèque municipale, 813 (24) fols. 115r–118v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>O </strong> Avranches, Bibliothèque municipale, 231, fols. 67–74 (13th cent.)</p>",
       "line_text": "O  Avranches, Bibliothèque municipale, 231, fols. 67–74 (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Cambrai, Bibliothèque municipale, 809 (717), fols. 9v–15v (12th cent.)</p>",
       "line_text": "Q  Cambrai, Bibliothèque municipale, 809 (717), fols. 9v–15v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Cambrai, Bibliothèque municipale, 854 (758), fols. 2v–4v (10th cent.)</p>",
       "line_text": "S  Cambrai, Bibliothèque municipale, 854 (758), fols. 2v–4v (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Douai, Bibliothèque municipale, 836, fols. 151<sup>v</sup>–154<sup>v</sup> (12th cent.)</p>",
       "line_text": "V  Douai, Bibliothèque municipale, 836, fols. 151v–154v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong>  Douai, Bibliothèque municipale, 837, fols. 5<sup>r</sup>–7<sup>v</sup> (12th cent.)</p>",
       "line_text": "W  Douai, Bibliothèque municipale, 837, fols. 5r–7v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Douai, Bibliothèque municipale, 853, fols. 58<sup>v</sup>–67<sup>v</sup> (12th cent.) ~ a copy of W</p>",
       "line_text": "Douai, Bibliothèque municipale, 853, fols. 58v–67v (12th cent.) ~ a copy of W",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Douai, Bibliothèque municipale, 857, fols. 56<sup>r</sup>–62<sup>r</sup> (10th cent.)</p>",
       "line_text": "X  Douai, Bibliothèque municipale, 857, fols. 56r–62r (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Reims, Bibliothèque municipale, 1408, fols. 26<sup>r</sup>–30<sup>r</sup> (12th cent.)</p>",
       "line_text": "Y  Reims, Bibliothèque municipale, 1408, fols. 26r–30r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  Cambrai, Bibliothèque municipale, 855 (759), fols. 1v–4v (12th cent.)</p>",
       "line_text": "Z  Cambrai, Bibliothèque municipale, 855 (759), fols. 1v–4v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Poupon also knew an additional six MSS that he did not consult:</p>",
@@ -198,37 +198,37 @@
       "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale de Belgique, 5, fols. 3<sup>v</sup>–6<sup>r</sup> (12th cent.)</p>",
       "line_text": "Brussels, Bibliothèque Royale de Belgique, 5, fols. 3v–6r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Châlons-sur-Marne, Bibliothèque municipale, 73 (81), fols. 63<sup>v</sup>–70<sup>r</sup> (11th cent.)</p>",
       "line_text": "Châlons-sur-Marne, Bibliothèque municipale, 73 (81), fols. 63v–70r (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Cologne, Historisches Archiv der Stadt Köln, W.320, fols. 18<sup>r</sup>–23<sup>v</sup> (12th cent.)</p>",
       "line_text": "Cologne, Historisches Archiv der Stadt Köln, W.320, fols. 18r–23v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Lincoln, Lincoln Cathedral Chapter Library, MS 150 (B.1.16) (12th cent.)</p>",
       "line_text": "Lincoln, Lincoln Cathedral Chapter Library, MS 150 (B.1.16) (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Gray’s Inn 3, fols. 153–156 (12th cent.)</p>",
       "line_text": "London, British Library, Gray’s Inn 3, fols. 153–156 (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Saint-Omer, Bibliothèque municipale, 715, fols. 1<sup>r</sup>–5<sup>v</sup> (12th cent.) ~ <a href=\"https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/19816/manifest\" target=\"_blank\" rel=\"noopener\">BVMM</a></p>",
       "line_text": "Saint-Omer, Bibliothèque municipale, 715, fols. 1r–5v (12th cent.) ~ BVMM",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/19816/manifest"
       ]
@@ -237,7 +237,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Saint-Omer, Bibliothèque municipale, 716, vol. 4, fols. 5<sup>r</sup>–8<sup>r</sup> (13th cent.)</p>",
       "line_text": "Saint-Omer, Bibliothèque municipale, 716, vol. 4, fols. 5r–8r (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>The following MSS have not been mentioned in previous scholarship:</p>",
@@ -249,55 +249,55 @@
       "line_html": "<p style=\"padding-left: 40px;\">Bamberg, Staatsbibliothek Bamberg, Msc. Hist.139</p>",
       "line_text": "Bamberg, Staatsbibliothek Bamberg, Msc. Hist.139",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale de Belgique, 64 (3129), fols. 109<sup>v</sup>–117<sup>v</sup> (11th cent.)</p>",
       "line_text": "Brussels, Bibliothèque Royale de Belgique, 64 (3129), fols. 109v–117v (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Charleville-Mézières, Bibliothèque municipale, 254 II, fols. 2<sup>r</sup>–5<sup>v</sup> (1151)</p>",
       "line_text": "Charleville-Mézières, Bibliothèque municipale, 254 II, fols. 2r–5v (1151)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Lincoln, Lincoln Cathedral Chapter Library, MS 7 (A.1.20), fols. 63<sup>r</sup>–64<sup>v</sup> (12th cent.)</p>",
       "line_text": "Lincoln, Lincoln Cathedral Chapter Library, MS 7 (A.1.20), fols. 63r–64v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Add. D. 106 (SC 29645), fols. 120<sup>v</sup>–126<sup>r</sup> (12th cent.)</p>",
       "line_text": "Oxford, Bodleian Library, Add. D. 106 (SC 29645), fols. 120v–126r (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3799, fols. 212<sup>v</sup>–220<sup>r</sup> (10th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 3799, fols. 212v–220r (10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5306, fols. 138<sup>v</sup>–141<sup>v</sup> (14th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 5306, fols. 138v–141v (14th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5343, fols. 39<sup>r</sup>–46<sup>v</sup> (11th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 5343, fols. 39r–46v (11th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 11552, fols. 147<sup>v</sup>–151<sup>v</sup> (13th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 11552, fols. 147v–151v (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11059254_00001.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lefevre d’Étaples, Jacques. <em>S. Pauli Epistolae xiv. ex vulgata editione, adjecta intelligentia ex Graeco cum commentariis</em>. Paris: Ex officina Henrici Stephani, 1512 (<em>Editio princeps</em> in the appendix from an unidentified manuscript from the Benedictine Abbey of Marmoutier near Tours, pp. 263–66).</p>",

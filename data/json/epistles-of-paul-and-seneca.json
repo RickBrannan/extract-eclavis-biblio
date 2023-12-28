@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, l’Arsenal 1086 (12th cent.) ~ <a href=\"http://archivesetmanuscrits.bnf.fr/ark:/12148/cc79101h\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, l’Arsenal 1086 (12th cent.) ~ IMAGES",
       "language": "Old French",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://archivesetmanuscrits.bnf.fr/ark:/12148/cc79101h"
       ]
@@ -324,7 +324,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek Leipzig, Rep. I 30B (15th cent.)</p>",
       "line_text": "Leipzig, Universitätsbibliothek Leipzig, Rep. I 30B (15th cent.)",
       "language": "Spanish",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Romero, Tomàs Martínez. “Una versión medieval del epistolario Séneca-San Pablo (con acompañamiento de Tácito).” <em>Zeitschrift für romanische Philologie </em>138.1 (2022): 65–86.</p>",

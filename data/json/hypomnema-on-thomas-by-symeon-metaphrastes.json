@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum (F. 80370), Sinodal Coll. 235 (384), fols. 343–354 (16th cent.) (= de Santos Otero 31)</p>",
       "line_text": "Moscow, State Historical Museum (F. 80370), Sinodal Coll. 235 (384), fols. 343–354 (16th cent.) (= de Santos Otero 31)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (vol. 1, p. 91).</p>",
@@ -33,7 +33,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 180 (Vlád. 360)~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43805/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "A  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 180 (Vlád. 360)~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43805/"
       ]
@@ -42,7 +42,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 175 (Vlád. 358), fols. 31<sup>r</sup>–37<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43800/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "B  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 175 (Vlád. 358), fols. 31r–37v (11th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43800/"
       ]
@@ -51,7 +51,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 131 (Vlád. 359), fols. 170<sup>v</sup>–174<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43756/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "C  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 131 (Vlád. 359), fols. 170v–174r (11th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43756/"
       ]
@@ -60,7 +60,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 140 (Vlád. 368), fols. 115<sup>v</sup>–121<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43765/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "D  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 140 (Vlád. 368), fols. 115v–121r (11th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43765/"
       ]
@@ -69,7 +69,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-36654/\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 36654, fols. 32<sup>v</sup>–39<sup>r</sup> (12th cent.)</p>",
       "line_text": "London, British Library, Add. 36654, fols. 32v–39r (12th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-36654/"
       ]

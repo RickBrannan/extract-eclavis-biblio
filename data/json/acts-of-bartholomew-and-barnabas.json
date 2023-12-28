@@ -12,13 +12,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>At</strong>  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1046, fols. 22<sup>r</sup><strong>–</strong>25<sup>v</sup> (14th cent.)</p>",
       "line_text": "At  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1046, fols. 22r–25v (14th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Cr</strong>  Jerusalem, Patriarchikē bibliothēkē, Timiou Staurou 16, fols. 12<sup>v</sup><strong>–</strong>20<sup>r</sup> (16th cent.) ~ <a href=\"https://www.loc.gov/item/00279395372-jo\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Cr  Jerusalem, Patriarchikē bibliothēkē, Timiou Staurou 16, fols. 12v–20r (16th cent.) ~ IMAGES",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00279395372-jo"
       ]
@@ -27,13 +27,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Di</strong>  Mount Athos, Monē Dionusiou, 83 (Lambros 3617), fols. 28<sup>r</sup><strong>–</strong>32<sup>v</sup> (12th cent.)</p>",
       "line_text": "Di  Mount Athos, Monē Dionusiou, 83 (Lambros 3617), fols. 28r–32v (12th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Hi </strong> Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos gr. 17, fols. 22<sup>v</sup><strong>–</strong>26<sup>v</sup> (12th cent.) ~ <a href=\"https://www.loc.gov/item/00279389372-jo\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Hi  Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos gr. 17, fols. 22v–26v (12th cent.) ~ IMAGES",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00279389372-jo"
       ]
@@ -42,7 +42,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Va</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1991, fols. 141<sup>v</sup><strong>–</strong>148<sup>v</sup> (13th cent.) ~ lacks ending (<a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1991\" target=\"_blank\" rel=\"noopener\">IMAGES</a>)</p>",
       "line_text": "Va  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1991, fols. 141v–148v (13th cent.) ~ lacks ending (IMAGES)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Vat.gr.1991"
       ]

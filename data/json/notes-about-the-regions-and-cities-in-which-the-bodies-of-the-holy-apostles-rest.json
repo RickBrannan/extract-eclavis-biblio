@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/durham-cathedral-library-a-iv-19/\" target=\"_blank\" rel=\"noopener\"><strong><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></strong></a>Durham, Cathedral Library, A.IV.19, fol. 88<sup>r</sup> (9th/10th cent.)</p>",
       "line_text": "Durham, Cathedral Library, A.IV.19, fol. 88r (9th/10th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/durham-cathedral-library-a-iv-19/"
       ]
@@ -21,7 +21,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/fulda-hochschul-und-landesbibliothek-bonifatianus-2/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Fulda, Hessische Hochschul- und Landesbibliothek, Bonifatianus 2, fols. 96<sup>r</sup>–97<sup>r</sup> (8th cent.)</p>",
       "line_text": "Fulda, Hessische Hochschul- und Landesbibliothek, Bonifatianus 2, fols. 96r–97r (8th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/fulda-hochschul-und-landesbibliothek-bonifatianus-2/"
       ]
@@ -30,7 +30,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-nazionale-centrale-sessoriano-77/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Rome, Biblioteca Nazionale Centrale, Sessoriano 77 (2107) (8th cent.)</p>",
       "line_text": "Rome, Biblioteca Nazionale Centrale, Sessoriano 77 (2107) (8th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-nazionale-centrale-sessoriano-77/"
       ]
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-1328/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1328, fol. 140<sup>r</sup> (15th cent.)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1328, fol. 140r (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-1328/"
       ]
@@ -78,7 +78,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><em>Durham Ritual</em> gloss in Durham, Cathedral Library, A.IV.19, fol. 88<sup>r</sup> (9th/10th cent.)</p>",
       "line_text": "Durham Ritual gloss in Durham, Cathedral Library, A.IV.19, fol. 88r (9th/10th cent.)",
       "language": "Old English",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Jolly, Karen Louise. <em>The Community of St. Cuthbert in the Late Tenth Century: The Chester-le-Street Additions to Durham Cathedral Library A.IV.19</em>. Columbus: The Ohio State University Press, 2012 (edition of gloss in Durham A.IV.19, pp. 352–55)</p>",

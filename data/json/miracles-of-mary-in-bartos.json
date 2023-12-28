@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 69, fols. 98<sup>v</sup>–162<sup>r</sup> (1343) ~ <em>Miracles of Mary</em> with the Miracle at Bartus as no. 108; <a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f50.item\" target=\"_blank\" rel=\"noopener\">Catalog</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b11000397w\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Arabe 69, fols. 98v–162r (1343) ~ Miracles of Mary with the Miracle at Bartus as no. 108; Catalog; GALLICA",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f50.item",
         "https://gallica.bnf.fr/ark:/12148/btv1b11000397w"
@@ -22,7 +22,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 141, fols. 12<sup>r</sup>–30<sup>v</sup> (16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f104.item\" target=\"_blank\" rel=\"noopener\">Catalog</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b110049929\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Arabe 141, fols. 12r–30v (16th cent.) ~ Catalog; GALLICA",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f104.item",
         "https://gallica.bnf.fr/ark:/12148/btv1b110049929"
@@ -32,7 +32,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 154, fols. 145<sup>r</sup>–164<sup>r</sup> (1604 and 1607) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f129.item\" target=\"_blank\" rel=\"noopener\">Catalog</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b53218207\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Arabe 154, fols. 145r–164r (1604 and 1607) ~ Catalog; GALLICA",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f129.item",
         "https://gallica.bnf.fr/ark:/12148/btv1b53218207"
@@ -42,7 +42,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 155, fols. 55<sup>r</sup>–63<sup>v</sup> (1486) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f131.item\" target=\"_blank\" rel=\"noopener\">Catalog</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b110047379\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, Arabe 155, fols. 55r–63v (1486) ~ Catalog; GALLICA",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/bpt6k229964q/f131.item",
         "https://gallica.bnf.fr/ark:/12148/btv1b110047379"
@@ -67,7 +67,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek, 1089, fols. 3, 22, 8 (Tischendorf XXVI,22 and XXVII,3 and 8) (9th–12th cent.) (CLM 3456; <a href=\"https://atlas.paths-erc.eu/manuscripts/3456\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry)</p>",
       "line_text": "Leipzig, Universitätsbibliothek, 1089, fols. 3, 22, 8 (Tischendorf XXVI,22 and XXVII,3 and 8) (9th–12th cent.) (CLM 3456; PAThs entry)",
       "language": ".1 Bohairic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/3456"
       ]
@@ -82,7 +82,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-of/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.OF (ca. 10–11th cent.)</p>",
       "line_text": "MONB.OF (ca. 10–11th cent.)",
       "language": ".2 Sahidic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/monb-of/"
       ]

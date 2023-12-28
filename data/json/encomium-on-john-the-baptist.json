@@ -14,13 +14,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, Graf 634 (1696)</p>",
       "line_text": "Cairo, Coptic Patriarchate, Graf 634 (1696)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 264, fols. 55<sup>r</sup>–63<sup>r</sup> (1594) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b110046764\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe 264, fols. 55r–63r (1594) ~ Gallica",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b110046764"
       ]
@@ -29,7 +29,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 379 (Hag. 13) (1550)</p>",
       "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 379 (Hag. 13) (1550)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.2#page/n521/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (list of manuscripts, vol. 2, p. 492).</p>",
@@ -77,13 +77,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1960, fols. 82<sup>v</sup>–101<sup>v </sup>(18th cent.)</p>",
       "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1960, fols. 82v–101v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 687, fols. 1<sup>r</sup>–4<sup>r</sup> (18th cent.)</p>",
       "line_text": "London, British Library, Or. 687, fols. 1r–4r (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"http://www.archive.org/details/cu31924026887780\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. Wallis. <em>Coptic Apocrypha in the Dialect of Upper Egypt</em>. London: Oxford University Press, 1913 (translation of the London manuscript, pp. 335–51).</p>",

@@ -18,19 +18,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Milan, Bibliotheca Ambrosiana, gr. A 63 inf. (798), fols. 202<sup>r</sup>–220<sup>v</sup> (11th cent.)</p>",
       "line_text": "A  Milan, Bibliotheca Ambrosiana, gr. A 63 inf. (798), fols. 202r–220v (11th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Istanbul, Library of the Holy Trinity at Chalki, 102, fols. 154<sup>bis</sup> and 157 (11th cent.) ~ a disordered palimpsest with 15th cent. overwriting</p>",
       "line_text": "H  Istanbul, Library of the Holy Trinity at Chalki, 102, fols. 154bis and 157 (11th cent.) ~ a disordered palimpsest with 15th cent. overwriting",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ohrid, Naroden Muzej, 4, pp. 47–57 (10th cent.)</p>",
       "line_text": "O  Ohrid, Naroden Muzej, 4, pp. 47–57 (10th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/"
       ]
@@ -39,7 +39,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-520/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P </strong> Paris, Bibliothèque nationale de France, gr. 520, pp. 50–59 (10th/11th cent.)</p>",
       "line_text": "P  Paris, Bibliothèque nationale de France, gr. 520, pp. 50–59 (10th/11th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-520/"
       ]
@@ -48,7 +48,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 34<sup>v</sup>, 25, 8, 35, 80, 17, 112 (10th cent.) ~ palimpsest with overwriting dated 1143</p>",
       "line_text": "T  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 34v, 25, 8, 35, 80, 17, 112 (10th cent.) ~ palimpsest with overwriting dated 1143",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/"
       ]
@@ -57,7 +57,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong>  Vienna, Österreichische Nationalbibliothek, hist. gr. 126, fols. 18<sup>r</sup>–21<sup>r </sup>(14th cent.)</p>",
       "line_text": "W  Vienna, Österreichische Nationalbibliothek, hist. gr. 126, fols. 18r–21r (14th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Note: HOPTW combine <em>Acts John Rome</em> with the Metastasis (that is, the early <em>Acts John</em> 106–15, narrating John’s death). In manuscript A, <em>Acts John Rome</em> is presented in a complicated blending of the Metastasis and the final parts of <em>Acts John Proch.</em></p>",
@@ -75,7 +75,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-432/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>E</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 432, fols. 245<sup>v</sup>–248<sup>v</sup> (1334)</p>",
       "line_text": "E  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 432, fols. 245v–248v (1334)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-432/"
       ]
@@ -84,19 +84,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>J</strong>  Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos 442, fols. 32<sup>r</sup>–34<sup>v </sup>(1593–1617)</p>",
       "line_text": "J  Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos 442, fols. 32r–34v (1593–1617)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 654, fols. 110<sup>r</sup>–112<sup>r </sup>(12th cent.)</p>",
       "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 654, fols. 110r–112r (12th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 516, fols. 90<sup>v</sup>–92<sup>v</sup> (14th/15th cent.)</p>",
       "line_text": "Y  Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 516, fols. 90v–92v (14th/15th cent.)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/actaapostolorvm00tiscgoog/page/n201\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Acta Ioannis.” Pages xxvi–xxxii, 151–216 vol. 2.1 of <em>Acta Apostolorum Apocrypha</em>. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (edition of <em>Acts John Rome</em> based on AOPTW and VY presented as chaps. 1–14 of <em>Acts John</em>).</p>",

@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 929, pp. 63–71 (15th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 929, pp. 63–71 (15th cent.)",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/"
       ]
@@ -36,25 +36,25 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong> Charfeh, Syrian-Catholic Patriarchate, Fonds. Patr. 79 (Sony 256), fols. 9<sup>v</sup>–11<sup>r</sup> (1901 from a 14th cent. manuscript)</p>",
       "line_text": "A Charfeh, Syrian-Catholic Patriarchate, Fonds. Patr. 79 (Sony 256), fols. 9v–11r (1901 from a 14th cent. manuscript)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B </strong> Charfeh, Syrian-Catholic Patriarchate, Fonds. Patr. 87 (Sony 261), fols. 84<sup>v</sup>–87<sup>r</sup> (1907 from an 8th cent. manuscript)</p>",
       "line_text": "B  Charfeh, Syrian-Catholic Patriarchate, Fonds. Patr. 87 (Sony 261), fols. 84v–87r (1907 from an 8th cent. manuscript)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Charfeh, Syrian-Catholic Patriarchate, Fonds. Patr. 86 (Sony 224), pp. 148 (ca. 1908 from a manuscript dated 1609) ~ <em>Epistle of Herod to Pilate</em> only</p>",
       "line_text": "C  Charfeh, Syrian-Catholic Patriarchate, Fonds. Patr. 86 (Sony 224), pp. 148 (ca. 1908 from a manuscript dated 1609) ~ Epistle of Herod to Pilate only",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-99/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>H</strong>  Cambridge (Mass.), Harvard Houghton Library, Syr. 99, fols. 93<sup>v</sup>–96<sup>v </sup>(1899)</p>",
       "line_text": "H  Cambridge (Mass.), Harvard Houghton Library, Syr. 99, fols. 93v–96v (1899)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-99/"
       ]
@@ -63,13 +63,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  London, British Library, Add. 14609, fols. 120<sup>r</sup>–122<sup>r</sup> (6th/7th cent.)</p>",
       "line_text": "L  London, British Library, Add. 14609, fols. 120r–122r (6th/7th cent.)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>M</strong>  Edgbaston, University of Birmingham, Mingana Syr. 4, fols. 52<sup>r</sup>–53<sup>v </sup>(1895)</p>",
       "line_text": "M  Edgbaston, University of Birmingham, Mingana Syr. 4, fols. 52r–53v (1895)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-4/"
       ]
@@ -78,7 +78,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-82/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>S</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 82, fols. 15<sup>v</sup>–17<sup>r </sup>(1088/1089 cent.)</p>",
       "line_text": "S  Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 82, fols. 15v–17r (1088/1089 cent.)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-82/"
       ]
@@ -87,7 +87,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mardin-dayr-al-zafaran-203/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mardin, Dayr al-Zaʿfarān, 203 fols. 80<sup>r</sup>–82<sup>v </sup>(20th cent.)</p>",
       "line_text": "Mardin, Dayr al-Zaʿfarān, 203 fols. 80r–82v (20th cent.)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mardin-dayr-al-zafaran-203/"
       ]
@@ -96,7 +96,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/midyat-dayro-d-mor-gabriel-21/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Midyat, Dayro d-Mor Gabriel, 21, pp. 77–80 (1971)</p>",
       "line_text": "Midyat, Dayro d-Mor Gabriel, 21, pp. 77–80 (1971)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/midyat-dayro-d-mor-gabriel-21/"
       ]
@@ -105,7 +105,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/midyat-mar-bar%e1%b9%a3awmo-library-16/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Midyat, Mar Barṣawmo Library, 16, pp. 138–142 (1972)</p>",
       "line_text": "Midyat, Mar Barṣawmo Library, 16, pp. 138–142 (1972)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/midyat-mar-bar%e1%b9%a3awmo-library-16/"
       ]

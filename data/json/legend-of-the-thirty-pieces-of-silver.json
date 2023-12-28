@@ -27,19 +27,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>R  </strong>Cambridge, University Library, Syriac Add. 2881, fol. 136<sup>v</sup>–139<sup>r </sup>(1484)</p>",
       "line_text": "R  Cambridge, University Library, Syriac Add. 2881, fol. 136v–139r (1484)",
       "language": ".2 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S  </strong>Edgbaston, University of Birmingham, Mingana Syr. 22, fol. 134<sup>v</sup>–136<sup>v</sup> (1527)</p>",
       "line_text": "S  Edgbaston, University of Birmingham, Mingana Syr. 22, fol. 134v–136v (1527)",
       "language": ".2 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-48/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>T  </strong>Edgbaston, University of Birmingham, Mingana Syr 48, fol. 144<sup>r</sup>–145<sup>r</sup> (1906, but based in part on a MS from 1757)</p>",
       "line_text": "T  Edgbaston, University of Birmingham, Mingana Syr 48, fol. 144r–145r (1906, but based in part on a MS from 1757)",
       "language": ".2 Garšūnī Script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-48/"
       ]
@@ -48,19 +48,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>U  </strong>Edgbaston, University of Birmingham, Mingana Syr. 479, fol. 123<sup>v</sup>–125<sup>r</sup> (1819)</p>",
       "line_text": "U  Edgbaston, University of Birmingham, Mingana Syr. 479, fol. 123v–125r (1819)",
       "language": ".2 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V  </strong>Edgbaston, University of Birmingham, Mingana Syr. 514, fol. 140<sup>r</sup>–142<sup>r</sup> (1729 or 1750)</p>",
       "line_text": "V  Edgbaston, University of Birmingham, Mingana Syr. 514, fol. 140r–142r (1729 or 1750)",
       "language": ".2 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Y  </strong>Mardin, Za‘faran Monastery, 240, fol. 95<sup>r</sup>–97<sup>v</sup> (19th/20th cent.)</p>",
       "line_text": "Y  Mardin, Za‘faran Monastery, 240, fol. 95r–97v (19th/20th cent.)",
       "language": ".2 Garšūnī Script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” <em>Hugoye</em> 19.1 (2016): 35–121 (editions [pp. 96–109] and translations [pp. 110–21] of the Garšūnī manuscripts, divided into two recensions [A: RSTUY, and B: V]).</p>",
@@ -99,31 +99,31 @@
       "line_html": "<p style=\"padding-left: 40px;\">Halle, Universitäts- und Landesbibliothek, Stolb.-Wernig. Za 69m, fol. 23<sup>v</sup>–24<sup>v </sup>(15th cent.)</p>",
       "line_text": "Halle, Universitäts- und Landesbibliothek, Stolb.-Wernig. Za 69m, fol. 23v–24v (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 34276, fol. 33<sup>v</sup> (15th cent.) ~ related to John of Hildesheim, <em>Historia trium Regum</em></p>",
       "line_text": "London, British Library, Add. 34276, fol. 33v (15th cent.) ~ related to John of Hildesheim, Historia trium Regum",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 34139, fol. 87<sup>r</sup> (1492 or early 16th cent.)</p>",
       "line_text": "London, British Library, Add. 34139, fol. 87r (1492 or early 16th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, 22553 fol. 144<sup>v</sup> (15th cent.)</p>",
       "line_text": "London, British Library, 22553 fol. 144v (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, NAL 543, fol. 112<sup>v</sup>–113<sup>r</sup> (14th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, NAL 543, fol. 112v–113r (14th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>And contained in the following works:</p>",

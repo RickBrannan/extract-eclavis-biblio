@@ -21,7 +21,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-l-58-sup/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, L 58 Sup, pp. 135–42 (14th cent.) ~ illustrated</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, L 58 Sup, pp. 135–42 (14th cent.) ~ illustrated",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-l-58-sup/"
       ]
@@ -30,13 +30,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Metz, Bibliothèque municipale, 479, fols. 109<sup>r</sup>–112<sup>r</sup> (14th cent.) ~ a combination of <em>Vengeance of the Savior</em> and <em>Death of Pilate</em></p>",
       "line_text": "Metz, Bibliothèque municipale, 479, fols. 109r–112r (14th cent.) ~ a combination of Vengeance of the Savior and Death of Pilate",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, n.a. lat. 1154 (15th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, n.a. lat. 1154 (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/bub_gb_Ni_gs1vFkK0C/page/432/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Tischendorf, Constantin von, ed. <em>Evangelia Apocrypha</em>. Leipzig: Vaenarius et Mendelssohn, 1853 (edition of the Milan manuscript, pp. 432–35; introduction, pp. lxxix–lxxx).</p>",
@@ -57,7 +57,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Rawlinson B 513, fol. 13<sup>v</sup> (15th cent.) ~ <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8073\" target=\"_blank\" rel=\"noopener\">Bodleian</a></p>",
       "line_text": "Oxford, Bodleian Library, Rawlinson B 513, fol. 13v (15th cent.) ~ Bodleian",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8073"
       ]
@@ -66,7 +66,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Royal Irish Academy, 24.P.25, fol. 64<sup>v</sup> (16th cent.)~ <a href=\"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/RIA/english/index.html?ref=https://www.google.com/\" target=\"_blank\" rel=\"noopener\">RIA</a></p>",
       "line_text": "Royal Irish Academy, 24.P.25, fol. 64v (16th cent.)~ RIA",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/RIA/english/index.html?ref=https://www.google.com/"
       ]
@@ -75,7 +75,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 137, fol. 101 (17th cent.) ~ <a href=\"http://searcharchives.bl.uk/IAMS_VU2:LSCOP_BL:IAMS032-003797395\" target=\"_blank\" rel=\"noopener\">BL Catalog</a></p>",
       "line_text": "London, British Library, Egerton 137, fol. 101 (17th cent.) ~ BL Catalog",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://searcharchives.bl.uk/IAMS_VU2:LSCOP_BL:IAMS032-003797395"
       ]
@@ -84,7 +84,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 161 (1778–1788) ~ <a href=\"http://searcharchives.bl.uk/IAMS_VU2:LSCOP_BL:IAMS032-003797656\" target=\"_blank\" rel=\"noopener\">BL Catalog</a></p>",
       "line_text": "London, British Library, Egerton 161 (1778–1788) ~ BL Catalog",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://searcharchives.bl.uk/IAMS_VU2:LSCOP_BL:IAMS032-003797656"
       ]
@@ -105,7 +105,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 5, fols. 10<sup>r</sup>–11<sup>r</sup> (ca. 1350)</p>",
       "line_text": "Aberystwyth, National Library of Wales, Peniarth 5, fols. 10r–11r (ca. 1350)",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/"
       ]
@@ -114,13 +114,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Aberystwyth, National Library of Wales, Peniarth 7, fols. 62<sup>v</sup>–64<sup>r</sup> (13th/14th cent.)</p>",
       "line_text": "Aberystwyth, National Library of Wales, Peniarth 7, fols. 62v–64r (13th/14th cent.)",
       "language": "Middle Irish",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Aberystwyth, National Library of Wales, Llanstephan 27 (The Red Book of Talgarth) fol. 129<sup>v</sup>–130<sup>v</sup> (ca. 1400) ~ <a href=\"https://codecs.vanhamel.nl/Aberystwyth,_National_Library_of_Wales,_Llanstephan_MS_27\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
       "line_text": "Aberystwyth, National Library of Wales, Llanstephan 27 (The Red Book of Talgarth) fol. 129v–130v (ca. 1400) ~ Codecs",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://codecs.vanhamel.nl/Aberystwyth,_National_Library_of_Wales,_Llanstephan_MS_27"
       ]

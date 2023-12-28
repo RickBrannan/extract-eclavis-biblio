@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 683, fols. 10<sup>r</sup><strong>–</strong>32<sup>v</sup> (17th cent.) ~ <a href=\"http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_683_fs001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "London, British Library, Or. 683, fols. 10r–32v (17th cent.) ~ IMAGES",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_683_fs001r"
       ]
@@ -21,13 +21,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 677, fols. 1<sup>r</sup><strong>–</strong>29<sup>r</sup> (1764/1765)</p>",
       "line_text": "London, British Library, Or. 677, fols. 1r–29r (1764/1765)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 679, fols. 4<sup>r</sup><strong>–</strong>28<sup>v</sup> (1785/1786) ~ <a href=\"http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_679_f001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "London, British Library, Or. 679, fols. 4r–28v (1785/1786) ~ IMAGES",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_679_f001r"
       ]
@@ -36,7 +36,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 680, fols. 1<sup>r</sup><strong>–</strong>16<sup>v</sup> ( (1711/1712) ~ <a href=\"http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_680_f001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "London, British Library, Or. 680, fols. 1r–16v ( (1711/1712) ~ IMAGES",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_680_f001r"
       ]
@@ -45,7 +45,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 681, fols. 3<sup>r</sup><strong>–</strong>27<sup>v</sup> (1705/1706) ~ <a href=\"http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_681_f001r\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "London, British Library, Or. 681, fols. 3r–27v (1705/1706) ~ IMAGES",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_681_f001r"
       ]
@@ -54,13 +54,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 682, fols. 2<sup>r</sup><strong>–</strong>30<sup>v</sup> (18th cent.)</p>",
       "line_text": "London, British Library, Or. 682, fols. 2r–30v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Patriarchate Library, EMML 676, fols. 1<sup>r</sup><strong>–</strong>44<sup>r</sup> (20th cent.) ~ <a href=\"https://archive.org/details/EMMLCatalog02/page/n437/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
       "line_text": "Addis Ababa, Patriarchate Library, EMML 676, fols. 1r–44r (20th cent.) ~ CATALOG",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/EMMLCatalog02/page/n437/mode/2up"
       ]
@@ -69,7 +69,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa (Takla Hāymānot), Church of the Apostles, EMML 813, fols. 1<sup>v</sup><strong>–</strong>34<sup>v</sup> (1944/1945) ~ <a href=\"https://archive.org/details/EMMLCatalog03/page/n135/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
       "line_text": "Addis Ababa (Takla Hāymānot), Church of the Apostles, EMML 813, fols. 1v–34v (1944/1945) ~ CATALOG",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/EMMLCatalog03/page/n135/mode/2up"
       ]

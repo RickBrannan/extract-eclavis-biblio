@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Franciscan Center of Christian Oriental Studies, 213</p>",
       "line_text": "Cairo, Franciscan Center of Christian Oriental Studies, 213",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Macomber, William F. <em>Catalogue of the Christian Arabic Manuscripts of the Franciscan Center of Christian Oriental Studies, Muski, Cairo.</em> Studia Orientalia Christiana. Jerusalem: Franciscan Printing Press, 1984 (see p. 45).</p>",
@@ -27,7 +27,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, M596 (872)  (=MICH.BI; <a href=\"https://atlas.paths-erc.eu/manuscripts/234\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)<a href=\"#_ftn1\" name=\"_ftnref1\"/></p>",
       "line_text": "New York, Morgan Library and Museum, M596 (872)  (=MICH.BI; PAThs entry)",
       "language": ".1 Sahidic A",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/234",
         "#_ftn1"
@@ -37,7 +37,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, M 598 (9th cent.) (=MICH.BJ; <a href=\"https://atlas.paths-erc.eu/manuscripts/234\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "New York, Morgan Library and Museum, M 598 (9th cent.) (=MICH.BJ; PAThs entry)",
       "language": ".1 Sahidic A",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/234"
       ]
@@ -46,7 +46,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Strasbourg, Biblioithèque nationale et universitaire, Copte 413–414 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1718\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
       "line_text": "Strasbourg, Biblioithèque nationale et universitaire, Copte 413–414 (PAThs entry)",
       "language": ".1 Sahidic A",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1718"
       ]
@@ -82,13 +82,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Clarend. B 3, fols. 5–8b (10th cent.) ~ Robinson calls this B 3 15</p>",
       "line_text": "Oxford, Bodleian Library, Clarend. B 3, fols. 5–8b (10th cent.) ~ Robinson calls this B 3 15",
       "language": ".2 Sahidic B",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 3581 B(16)</p>",
       "line_text": "London, British Library, Or. 3581 B(16)",
       "language": ".2 Sahidic B",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/catalogueofcopti00brituoft/page/134/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Crum, Walter E. <em>Catalogue of the Coptic Manuscripts in the British Museum</em>. London: British Museum, 1905 (description of BL Or. 3581 B(16), pp. 133).</p>",
@@ -121,13 +121,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">pp. 27–30: Ann Arbor, University of Michigan Library, 158.35, a–d</p>",
       "line_text": "pp. 27–30: Ann Arbor, University of Michigan Library, 158.35, a–d",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 35–36: Vienna, Österreichische Nationalbibliothek, 9400 ~ <a href=\"https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21241787370003338&amp;context=L&amp;vid=ONB&amp;lang=de_DE&amp;search_scope=ONB_gesamtbestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,K%2009400&amp;offset=0\" target=\"_blank\" rel=\"noopener noreferrer\">ONB</a></p>",
       "line_text": "pp. 35–36: Vienna, Österreichische Nationalbibliothek, 9400 ~ ONB",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21241787370003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,K%2009400&offset=0"
       ]
@@ -151,55 +151,55 @@
       "line_html": "<p style=\"padding-left: 40px;\">pp. 9–10: Vienna, Österreichische Nationalbibliothek, 9783</p>",
       "line_text": "pp. 9–10: Vienna, Österreichische Nationalbibliothek, 9783",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 21–22: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 13, fol. 60</p>",
       "line_text": "pp. 21–22: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 13, fol. 60",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 31–32: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 18 = Borg 258</p>",
       "line_text": "pp. 31–32: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 18 = Borg 258",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 41–42: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 19</p>",
       "line_text": "pp. 41–42: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 19",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 43–44: Paris, Bibliothèque nationale de France, Copte 131<sup>6</sup>, fol. 52</p>",
       "line_text": "pp. 43–44: Paris, Bibliothèque nationale de France, Copte 1316, fol. 52",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 63–74: Paris, Bibliothèque nationale de France, Copte 131<sup>1</sup>, fols. 59–64</p>",
       "line_text": "pp. 63–74: Paris, Bibliothèque nationale de France, Copte 1311, fols. 59–64",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. [81]–[88]: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fols. 21–24</p>",
       "line_text": "pp. [81]–[88]: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fols. 21–24",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 103–104: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 20</p>",
       "line_text": "pp. 103–104: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 20",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 107–108: Paris, Bibliothèque nationale de France, Copte 131<sup>1</sup>, fol. 65</p>",
       "line_text": "pp. 107–108: Paris, Bibliothèque nationale de France, Copte 1311, fol. 65",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Kosack, Wolfgang. <em>Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. </em>Berlin: Christoph Brunner, 2014.</p>",
@@ -235,7 +235,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-nt/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.NT, p. 117 (10/11th cent.)</p>",
       "line_text": "MONB.NT, p. 117 (10/11th cent.)",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/monb-nt/"
       ]
@@ -250,7 +250,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">pp. [41]–[44]: Paris, Bibliothèque nationale de France, Copte 129<sup>17</sup>, fol. 28–29</p>",
       "line_text": "pp. [41]–[44]: Paris, Bibliothèque nationale de France, Copte 12917, fol. 28–29",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Förster, Hans.<em> Transitus Mariae. Beiträge zur koptischen Überlieferung. Mit einen Edition von P. Vindob. K 7589, Cambridge Add 1876 8 und Paris BN Copte 129<sup>17</sup> ff. 28 und 29</em>. GCS, 14. Neutestamentliche Apockryphen 2. Berlin – New York: Walter de Gruyter, 2006 (edition and German translation of the Paris fragments).</p>",
@@ -286,25 +286,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">pp. 19–20: Paris, Bibliothèque nationale de France, Copte 131<sup>7</sup>, fol. 37</p>",
       "line_text": "pp. 19–20: Paris, Bibliothèque nationale de France, Copte 1317, fol. 37",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 39–42: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109, cass. xxv, fasc. 119</p>",
       "line_text": "pp. 39–42: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109, cass. xxv, fasc. 119",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 73–74: Cambridge, Cambridge University Library, Or. 1699U</p>",
       "line_text": "pp. 73–74: Cambridge, Cambridge University Library, Or. 1699U",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">pp. 85–86: Naples, Biblioteca Nazionale Vittotio Emanuele III, IB 12, fol. 25</p>",
       "line_text": "pp. 85–86: Naples, Biblioteca Nazionale Vittotio Emanuele III, IB 12, fol. 25",
       "language": ".3 Additional Sahidic Manuscripts",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Revillout, Eugène. A<em>pocryphes coptes du Nouveau Testament.</em> Vol. 1: <em>Textes.</em> Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Vat. Borg. 119, pp. 12–14).</p>",
@@ -328,7 +328,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, Abu Maaqar 31, 31<sup>Add </sup>i (<a href=\"https://atlas.paths-erc.eu/manuscripts/1715\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) and ii (<a href=\"https://atlas.paths-erc.eu/manuscripts/1716\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) (9th–11th cent.)</p>",
       "line_text": "Cairo, Coptic Museum, Abu Maaqar 31, 31Add i (PAThs entry) and ii (PAThs entry) (9th–11th cent.)",
       "language": ".3 Bohairic A",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1715",
         "https://atlas.paths-erc.eu/manuscripts/1716"
@@ -338,7 +338,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. copt. 62.5, fols. 90–119 (950) (=MACA.BR;<a href=\"https://atlas.paths-erc.eu/manuscripts/108\" target=\"_blank\" rel=\"noopener noreferrer\"> PAThs</a> entry)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. copt. 62.5, fols. 90–119 (950) (=MACA.BR; PAThs entry)",
       "language": ".3 Bohairic A",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/108"
       ]

@@ -12,7 +12,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fol. 33 (1658)</p>",
       "line_text": "London, British Library, Add. 9965, fol. 33 (1658)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/ancientsyriacdo00wriggoog/page/n174/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a> Cureton, William. <em>Ancient Syriac Documents: Relative to the Earliest Establishment of Christianity in Edessa and the Neighboring Countries</em>. London: Williams and Norgate, 1864 (mentions British Library, Add. 9965, p. 153).</p>",
@@ -27,19 +27,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>sl1 </strong> Great Menaion Reader of Makarius in Moscow, State Historical Museum, Synodal Coll. 795 (997), fols. 219–226 (16th cent.)<br/><strong>sl2</strong>  Menaion Reader of the Moscow Theological Academy (no further details provided)<br/><strong>sl3</strong>  Menaion Reader of the Trinity Lavra of St. Sergius, fol. 681<sup>r</sup> (1627)</p>",
       "line_text": "sl1  Great Menaion Reader of Makarius in Moscow, State Historical Museum, Synodal Coll. 795 (997), fols. 219–226 (16th cent.)sl2  Menaion Reader of the Moscow Theological Academy (no further details provided)sl3  Menaion Reader of the Trinity Lavra of St. Sergius, fol. 681r (1627)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">EMML 6953, fols. 138<sup>v</sup>–141<sup>r</sup> (1450–1451)</p>",
       "line_text": "EMML 6953, fols. 138v–141r (1450–1451)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, D’Abbadie 214, fols. 81<sup>r</sup>–86<sup>v</sup> (19th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, D’Abbadie 214, fols. 81r–86v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/orientalistische0102hommuoft/page/244/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Haffner, August. “Eine äthiopische Darstellung der Abgar-Legende.” Pages 245–51 in vol. 2 of <em>Orientalische Studien Fritz Hommel zum sechzigsten Geburtstag am 31. Juli 1941 gewidmet von Freunden, Kollegen und Schüler</em>n. 2 vols. Leipzig: Hinrichs, 1917–1918 (edition based on BNF D’Abbadie 214).</p>",
@@ -63,7 +63,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1611/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1611, fols. 290<sup>v</sup>–297<sup>v</sup> (1553)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1611, fols. 290v–297v (1553)",
       "language": ".1 Text A: “Menaion Reading for the Feast of the Translation",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1611/"
       ]
@@ -102,7 +102,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  <strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 45, fols. 194<sup>v</sup>–208<sup>r</sup> (11th cent.)</p>",
       "line_text": "V  Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 45, fols. 194v–208r (11th cent.)",
       "language": ".2.1 Text B1",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/"
       ]
@@ -111,7 +111,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Paris, Bibliothèque nationale de France, gr. 1474, fols. 212<sup>r</sup>–227<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107234965\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "X  Paris, Bibliothèque nationale de France, gr. 1474, fols. 212r–227v (11th cent.) ~ Gallica",
       "language": ".2.1 Text B1",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b107234965"
       ]
@@ -120,13 +120,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Σ group</p>",
       "line_text": "Σ group",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">A: Paris, Bibliothèque nationale de France, gr. 1475, fols, 122<sup>v</sup>–136<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107235434\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "A: Paris, Bibliothèque nationale de France, gr. 1475, fols, 122v–136v (11th cent.) ~ Gallica",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b107235434"
       ]
@@ -135,19 +135,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">B: Vatican, Biblioteca Apostolica Vaticana, gr. 2043, fols. 200<sup>r</sup>–220<sup>v</sup> (11th/12th cent.)</p>",
       "line_text": "B: Vatican, Biblioteca Apostolica Vaticana, gr. 2043, fols. 200r–220v (11th/12th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">C: Moscow, State Historical Museum, Synod. gr. 9, fols, 192<sup>v</sup>–209<sup>v</sup> (11th cent.)</p>",
       "line_text": "C: Moscow, State Historical Museum, Synod. gr. 9, fols, 192v–209v (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">D: Vatican, Biblioteca Apostolica Vaticana, gr. 822, fols. 208<sup>r</sup>–225<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.822\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
       "line_text": "D: Vatican, Biblioteca Apostolica Vaticana, gr. 822, fols. 208r–225r (12th cent.) ~ DigiVatLib",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Vat.gr.822"
       ]
@@ -156,13 +156,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">E: Paris, Bibliothèque nationale de France, gr. 1548, fols. 134<sup>v</sup>–146<sup>v</sup> (12th cent.)</p>",
       "line_text": "E: Paris, Bibliothèque nationale de France, gr. 1548, fols. 134v–146v (12th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-vallicelliana-b-14/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>F:  Rome, Biblioteca Vallicelliana, B 14, fols. 235<sup>v</sup>–245<sup>r</sup> (11th cent.)</p>",
       "line_text": "F:  Rome, Biblioteca Vallicelliana, B 14, fols. 235v–245r (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-vallicelliana-b-14/"
       ]
@@ -171,7 +171,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">G: Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 87, fols. 147<sup>v</sup>–152<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Ott.gr.87\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
       "line_text": "G: Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 87, fols. 147v–152v (13th/14th cent.) ~ DigiVatLib",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Ott.gr.87"
       ]
@@ -180,25 +180,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">Ξ group</p>",
       "line_text": "Ξ group",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">H: Napoli, Biblioteca Nazionale Centrale Vittorio Emanuele III, II C 25, fols. 100<sup>v</sup>–107<sup>v</sup> (14th cent.)</p>",
       "line_text": "H: Napoli, Biblioteca Nazionale Centrale Vittorio Emanuele III, II C 25, fols. 100v–107v (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">I: Florence, Biblioteca Medicea Laurenziana, gr. IX.33, fols, 384<sup>r</sup>–397<sup>v</sup> (14th cent.)</p>",
       "line_text": "I: Florence, Biblioteca Medicea Laurenziana, gr. IX.33, fols, 384r–397v (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">K: Paris, Bibliothèque nationale de France, Coislin 307, fols. 525<sup>r</sup>–535<sup>r</sup> (16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10037935w\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "K: Paris, Bibliothèque nationale de France, Coislin 307, fols. 525r–535r (16th cent.) ~ Gallica",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10037935w"
       ]
@@ -207,37 +207,37 @@
       "line_html": "<p style=\"padding-left: 40px;\">Q: Moscow, State Historical Museum, Synod. gr. 160, fols. 171<sup>r</sup>–188<sup>r</sup> (11th cent.)</p>",
       "line_text": "Q: Moscow, State Historical Museum, Synod. gr. 160, fols. 171r–188r (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">R: Vatican, Biblioteca Apostolica Vaticana, Chig. R VII 50 (gr. 41), fols. 162<sup>r</sup>–176<sup>r</sup> (11th cent.)</p>",
       "line_text": "R: Vatican, Biblioteca Apostolica Vaticana, Chig. R VII 50 (gr. 41), fols. 162r–176r (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">S: Turin, Biblioteca Nazionale Universitaria, B II 24 (Passini 104), fols. 154<sup>r</sup>–166<sup>r</sup> (11th cent.)</p>",
       "line_text": "S: Turin, Biblioteca Nazionale Universitaria, B II 24 (Passini 104), fols. 154r–166r (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">T: Turin, Biblioteca Nazionale Universitaria, B IV 8 (Passini 209), fols. 115<sup>r</sup>–129<sup>r</sup> (11th cent.)</p>",
       "line_text": "T: Turin, Biblioteca Nazionale Universitaria, B IV 8 (Passini 209), fols. 115r–129r (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">U: Paris, Bibliothèque nationale de France, gr. 1527, fols. 165<sup>r</sup>–179<sup>v</sup> (12th cent.)</p>",
       "line_text": "U: Paris, Bibliothèque nationale de France, gr. 1527, fols. 165r–179v (12th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">W: <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-wp-editing=\"1\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1528, fols. 182<sup>r</sup>–197<sup>r </sup>(12th cent.)</p>",
       "line_text": "W: Paris, Bibliothèque nationale de France, gr. 1528, fols. 182r–197r (12th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/"
       ]
@@ -246,7 +246,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Y: Paris, Bibliothèque nationale de France, gr. 1176, fols. 252<sup>v</sup>–262<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10722833h\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Y: Paris, Bibliothèque nationale de France, gr. 1176, fols. 252v–262r (12th cent.) ~ Gallica",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b10722833h"
       ]
@@ -255,13 +255,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><em>Ath</em><sup>1</sup>: Mount Athos, Monē Dionysiou, 54, fols. 197<sup>r</sup>–214<sup>r</sup> (12th–13th cent.)</p>",
       "line_text": "Ath1: Mount Athos, Monē Dionysiou, 54, fols. 197r–214r (12th–13th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><em>Ath</em><sup>2</sup>: Mount Athos, Monē Karyes (Protaton), 36, fols. 222<sup>r</sup>–238<sup>r</sup> (12th cent.) ~ <a href=\"https://repository.mountathos.org/jspui/handle/20.500.11957/164550\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Ath2: Mount Athos, Monē Karyes (Protaton), 36, fols. 222r–238r (12th cent.) ~ IMAGES",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://repository.mountathos.org/jspui/handle/20.500.11957/164550"
       ]
@@ -270,7 +270,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><em>Patm.</em>: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 258, fols. 108<sup>v</sup>–123<sup>v</sup> (11th cent.)</p>",
       "line_text": "Patm.: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 258, fols. 108v–123v (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Additions and changes made to von Dobschütz’s list by Mark Guscin in 2009 and then in 2015 (<a href=\"#_ftn4\" name=\"_ftnref4\"/>note, the manuscripts have not been assigned to families):</p>",
@@ -285,31 +285,31 @@
       "line_html": "<p style=\"padding-left: 40px;\">Be: Athens, Benaki Museum, 141, fols. 128<sup>r</sup>–138<sup>r</sup> (12th cent.)</p>",
       "line_text": "Be: Athens, Benaki Museum, 141, fols. 128r–138r (12th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Di1= von Dobschütz <em>Ath</em><sup>1</sup></p>",
       "line_text": "Di1= von Dobschütz Ath1",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Di2: Mount Athos, Monē Dionysiou, 145, fols. 524<sup>r</sup>–538<sup>r</sup> (16th cent.)</p>",
       "line_text": "Di2: Mount Athos, Monē Dionysiou, 145, fols. 524r–538r (16th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Iv: Mount Athos, Monē Ibērōn, 595 (Lambros 4715), 3 (16th cent.) ~ includes Liturgical Tractate</p>",
       "line_text": "Iv: Mount Athos, Monē Ibērōn, 595 (Lambros 4715), 3 (16th cent.) ~ includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ka: Kalymnos, Kalymnos Municipal Library, 3, fols. 252<sup>r</sup>–304<sup>v</sup>, missing 259<sup>r</sup>–300<sup>v</sup> (13th cent.)<a href=\"#_ftn5\" name=\"_ftnref5\"/></p>",
       "line_text": "Ka: Kalymnos, Kalymnos Municipal Library, 3, fols. 252r–304v, missing 259r–300v (13th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "#_ftn5"
       ]
@@ -318,97 +318,97 @@
       "line_html": "<p style=\"padding-left: 40px;\">L1: Mount Athos, Monē Megistēs Lauras, Δ 53 (Eustastriades 429), fols. 240<sup>r</sup>–255<sup>r</sup> (11th cent.) (=Guscin, 2009 ML1)</p>",
       "line_text": "L1: Mount Athos, Monē Megistēs Lauras, Δ 53 (Eustastriades 429), fols. 240r–255r (11th cent.) (=Guscin, 2009 ML1)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">L2: Mount Athos, Monē Megistēs Lauras, Ε 182 (Eustastriades 644), fols. 287<sup>r</sup>–308<sup>r</sup> (12th cent.) (=Guscin, 2009 ML2) ~ includes Liturgical Tractate</p>",
       "line_text": "L2: Mount Athos, Monē Megistēs Lauras, Ε 182 (Eustastriades 644), fols. 287r–308r (12th cent.) (=Guscin, 2009 ML2) ~ includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">L3: Mount Athos, Monē Megistēs Lauras, Ω 154 (Eustastriades 1966), fols. 39<sup>v</sup>–55<sup>r</sup> (17th cent., 1668) (=Guscin, 2009 ML3) ~ includes Liturgical Tractate</p>",
       "line_text": "L3: Mount Athos, Monē Megistēs Lauras, Ω 154 (Eustastriades 1966), fols. 39v–55r (17th cent., 1668) (=Guscin, 2009 ML3) ~ includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">La= von Dobschütz I</p>",
       "line_text": "La= von Dobschütz I",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Me: Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 49, fols. 225<sup>r</sup>–244<sup>v</sup> (12th. cent.)</p>",
       "line_text": "Me: Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 49, fols. 225r–244v (12th. cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mi1: Milan, Biblioteca Ambrosiana, C 186 inf. (Martini-Bassi 878), fols. 143<sup>v</sup>–158<sup>v</sup> (11th cent.)</p>",
       "line_text": "Mi1: Milan, Biblioteca Ambrosiana, C 186 inf. (Martini-Bassi 878), fols. 143v–158v (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mi2: Milan, Biblioteca Ambrosiana, D 52 sup. (Martini-Bassi 236), fols. 81<sup>v</sup>–103<sup>v</sup> (11th cent.) ~ includes Liturgical Tractate</p>",
       "line_text": "Mi2: Milan, Biblioteca Ambrosiana, D 52 sup. (Martini-Bassi 236), fols. 81v–103v (11th cent.) ~ includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mi3: Milan Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 208<sup>v</sup>–223<sup>v</sup> (14th cent.)</p>",
       "line_text": "Mi3: Milan Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 208v–223v (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">P1= von Dobschütz <em>Patm.</em></p>",
       "line_text": "P1= von Dobschütz Patm.",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">P2: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 252, fols. 201<sup>v</sup>–214<sup>v</sup> (12th cent.) ~ von Dobschütz reports that this text belongs to the Σ group</p>",
       "line_text": "P2: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 252, fols. 201v–214v (12th cent.) ~ von Dobschütz reports that this text belongs to the Σ group",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Pa: Mount Athos, Monē Pantokratoros, 99, fols. 193<sup>v</sup>–223<sup>v</sup> (16th cent.)</p>",
       "line_text": "Pa: Mount Athos, Monē Pantokratoros, 99, fols. 193v–223v (16th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ph: Mount Athos, Monē Philotheou, 80, fols. 22<sup>v</sup>–39<sup>r</sup> (14th cent.)</p>",
       "line_text": "Ph: Mount Athos, Monē Philotheou, 80, fols. 22v–39r (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Pr= von Dobschütz <em>Ath</em><sup>2</sup></p>",
       "line_text": "Pr= von Dobschütz Ath2",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Sc: El Escorial, Real Biblioteca Biblioteca del Real Monasterio de San Lorenzo, y-II-11 (Andrés 319), fols. 123<sup>r</sup>–134<sup>v</sup> (13th cent.) (=Guscin 2009 Es)</p>",
       "line_text": "Sc: El Escorial, Real Biblioteca Biblioteca del Real Monasterio de San Lorenzo, y-II-11 (Andrés 319), fols. 123r–134v (13th cent.) (=Guscin 2009 Es)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">St: Mount Athos, Monē Stauronikēta 18 (Lambros 883), fols. 328<sup>r</sup>–340<sup>r</sup> (11th cent.)</p>",
       "line_text": "St: Mount Athos, Monē Stauronikēta 18 (Lambros 883), fols. 328r–340r (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Va: Mount Athos, Monē Batopediou, 635, fols. 455<sup>r</sup>–476<sup>r</sup> (1422)</p>",
       "line_text": "Va: Mount Athos, Monē Batopediou, 635, fols. 455r–476r (1422)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>An additional 20 manuscripts are listed on Pinakes, the online manuscript database of the IRHT (Institut de recherce et d’histoire des textes):</p>",
@@ -420,31 +420,31 @@
       "line_html": "<p style=\"padding-left: 40px;\">Alexandria, Bibliothēkē tou Patriarcheiou, 35, fols. 286–? (11th cent.)</p>",
       "line_text": "Alexandria, Bibliothēkē tou Patriarcheiou, 35, fols. 286–? (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 998, fols. 178<sup>r</sup>–193<sup>r</sup> (16th cent.)</p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 998, fols. 178r–193r (16th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Bruxelles, Bibliothèque des Bollandistes, 192 (284), fols. 150<sup>r</sup>–156<sup>v</sup> (17th/18th cent.)</p>",
       "line_text": "Bruxelles, Bibliothèque des Bollandistes, 192 (284), fols. 150r–156v (17th/18th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē, 40, fols. unlisted (16th? cent.) ~ includes Liturgical Tractate</p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē, 40, fols. unlisted (16th? cent.) ~ includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 134, fols, 284<sup>v</sup>–303<sup>v</sup> (16th cent., 1582) ~ <a href=\"https://www.loc.gov/item/00279391469-jo/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 134, fols, 284v–303v (16th cent., 1582) ~ LOC",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00279391469-jo/"
       ]
@@ -453,67 +453,67 @@
       "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Metamorphōseōs, 552, fols. 173<sup>v</sup>–188<sup>v</sup> (11th cent.)</p>",
       "line_text": "Meteora, Monē Metamorphōseōs, 552, fols. 173v–188v (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, A 218 inf. (Martini-Bassi 824), fols. 40<sup>v</sup>–50<sup>v</sup> (15th cent.)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, A 218 inf. (Martini-Bassi 824), fols. 40v–50v (15th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 1 inf. (Martini-Bassi 834), fols. 40<sup>v</sup>–50<sup>v</sup> (“with lacuna”) (1239–1240)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, B 1 inf. (Martini-Bassi 834), fols. 40v–50v (“with lacuna”) (1239–1240)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, F 130 sup. (Martini-Bassi 371), fols. unlisted (13th cent.)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, F 130 sup. (Martini-Bassi 371), fols. unlisted (13th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Ibērōn, 16 (Lambros 4136), fols. 238<sup>r</sup>–259<sup>r</sup> (1042)</p>",
       "line_text": "Mount Athos, Monē Ibērōn, 16 (Lambros 4136), fols. 238r–259r (1042)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Koutloumousiou, 206 (Lambros 3279), fols. 276<sup>r</sup>–279<sup>v</sup> (16th cent.) ~ Liturgical Tractate only</p>",
       "line_text": "Mount Athos, Monē Koutloumousiou, 206 (Lambros 3279), fols. 276r–279v (16th cent.) ~ Liturgical Tractate only",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Κ 068 (Eustratiades 1355), fols. 255<sup>r</sup>–271<sup>r</sup> (14th cent.)</p>",
       "line_text": "Mount Athos, Monē Megistēs Lauras, Κ 068 (Eustratiades 1355), fols. 255r–271r (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Κ 069 (Eustratiades 1356), fols. unlisted (14th cent.)</p>",
       "line_text": "Mount Athos, Monē Megistēs Lauras, Κ 069 (Eustratiades 1356), fols. unlisted (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Philotheou, 87 (Lambros 1851), fols. 386<sup>v</sup>–403<sup>v</sup> (1340)</p>",
       "line_text": "Mount Athos, Monē Philotheou, 87 (Lambros 1851), fols. 386v–403v (1340)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 179, fols. 3<sup>r</sup>–3<sup>v</sup> (12th/13th cent.)</p>",
       "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 179, fols. 3r–3v (12th/13th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 376, fols. 175<sup>r</sup>–189<sup>r</sup> (10th/11th cent.) ~ includes Liturgical Tractate (<a href=\"https://www.loc.gov/item/00279380228-ms\" target=\"_blank\" rel=\"noopener\">LOC</a>)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 376, fols. 175r–189r (10th/11th cent.) ~ includes Liturgical Tractate (LOC)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00279380228-ms"
       ]
@@ -522,7 +522,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 517, fols. 113<sup>v</sup>–123<sup>v</sup> (12th cent.) ~ <a href=\"https://www.loc.gov/item/00279380551-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 517, fols. 113v–123v (12th cent.) ~ LOC",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00279380551-ms"
       ]
@@ -531,19 +531,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Sofia, Centăr za slavjano-vizantijski proučvanija “Ivan Dujčev,” D gr. 209, fols. unlisted (11th cent.)</p>",
       "line_text": "Sofia, Centăr za slavjano-vizantijski proučvanija “Ivan Dujčev,” D gr. 209, fols. unlisted (11th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Turin, Biblioteca Nazionale Universitaria, C IV.19 (Pasini 138), fols. unlisted (12th/13th, 16th cent.)</p>",
       "line_text": "Turin, Biblioteca Nazionale Universitaria, C IV.19 (Pasini 138), fols. unlisted (12th/13th, 16th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 820, fols. 260<sup>r</sup>–270<sup>v</sup> (14th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.820\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 820, fols. 260r–270v (14th cent.) ~ DigiVatLib",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Vat.gr.820"
       ]
@@ -552,7 +552,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Zaborda, Monē tou hagiou Nikanoros, 117, fols. 200<sup>r</sup>–200<sup>v</sup> (14th cent.)<a href=\"#_ftnref1\" name=\"_ftn1\"/></p>",
       "line_text": "Zaborda, Monē tou hagiou Nikanoros, 117, fols. 200r–200v (14th cent.)",
       "language": ".2.2 Text B2",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "#_ftnref1"
       ]

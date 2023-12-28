@@ -14,20 +14,29 @@ from dataclasses import dataclass
 use_local_data = False
 
 base_url = "https://www.nasscal.com/e-clavis-christian-apocrypha/"
+primary_url = "https://www.nasscal.com/"
+folder_url = "e-clavis-christian-apocrypha/"
 response = requests.get(base_url, headers={"User-Agent": "biblio-extract"})
 htmlparser = etree.HTMLParser(remove_pis=True, remove_comments=True, remove_blank_text=True)
 tree = etree.fromstring(response.text, htmlparser)
 
 links = {}
 for link in tree.xpath("//article/div[@class='entry-content']/p/a"):
+    # hm, how to handle 1 Apocr. Apoc. Jn which is in
     if link.attrib['href'].startswith(base_url):
         print(f"link: {link.attrib['href']}; text: {link.text}")
         links[link.attrib['href']] = link.text
+    elif link.attrib['href'].startswith(primary_url):
+        if not re.search("manuscripta", link.attrib['href']):
+            print(f"link: {link.attrib['href']}; text: {link.text}")
+            links[link.attrib['href']] = link.text
 
 # ok, now cycle links that include the baseurl and extract bibliography data
 for link_url in links:
     link_toc_title = links[link_url]
     filename = re.sub(base_url, "", link_url)
+    if filename.startswith(primary_url):
+        filename = re.sub(primary_url, "", filename)
     filename = re.sub(r"/$", "", filename) # trim trailing '/' if it's there
     # load into the ApocryphalWriting dataclass
     apoc = ApocryphalWriting(link_url, link_toc_title, filename)
@@ -119,12 +128,13 @@ for link_url in links:
             biblio = BibliographyEntry(para_xml, para_text, bibliography_language, bibliography_entry_type, [], [])
 
             # there's no way this is consistent; what other options are witnessed?
-            if re.search(r"<p[^>]*padding-left: 30px;", para_xml):
+            if re.search(r"<p[^>]*padding-left: [43]0px;", para_xml):
                 biblio.entry_type = "Manuscript"
 
             for link in para.xpath(".//a"):
                 if re.search("manuscripta-apocryphorum", link.attrib['href']):
                     biblio.manuscripta_apocryphorum_urls.append(link.attrib['href'])
+                    biblio_entry_type = "Manuscript"
                 else:
                     biblio.other_urls.append(link.attrib['href'])
             apoc.bibliography_entries.append(biblio)

@@ -11,7 +11,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 335–364 (10th cent.) ~ <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1667\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 335–364 (10th cent.) ~ IMAGES",
       "language": ".1 Life",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://digi.vatlib.it/view/MSS_Vat.gr.1667"
       ]
@@ -20,13 +20,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 26 (Vlad. 384), fols. 1–64 (11th cent.)</p>",
       "line_text": "M  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 26 (Vlad. 384), fols. 1–64 (11th cent.)",
       "language": ".1 Life",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2095, fols. 152v–227v (12th cent.) <a href=\"https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3376\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "A  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2095, fols. 152v–227v (12th cent.) IMAGES",
       "language": ".1 Life",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3376"
       ]
@@ -35,7 +35,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1853/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>U</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1853, fols. 94, 96, 5, 38, 45, 39, 44 (10th cent.) ~ fragments only (palimpsest)</p>",
       "line_text": "U  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1853, fols. 94, 96, 5, 38, 45, 39, 44 (10th cent.) ~ fragments only (palimpsest)",
       "language": ".1 Life",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1853/"
       ]
@@ -50,7 +50,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Philipps 1446 (42), fols. 1–62v (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9349/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Philipps 1446 (42), fols. 1–62v (17th cent.) ~ Pinakes",
       "language": ".1 Life",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/9349/"
       ]
@@ -59,7 +59,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 655, fols. 178v–239r (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67286/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 655, fols. 178v–239r (16th cent.) ~ Pinakes",
       "language": ".1 Life",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/67286/"
       ]
@@ -74,7 +74,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 796, fols. 250–304 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67427/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "S  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 796, fols. 250–304 (16th cent.) ~ Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/67427/"
       ]
@@ -83,7 +83,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque de nationale de France, Supp gr. 240, fols. 7–9, 151–152, 164–175, 177, 179–180 (11th cent.) ~ palimpsest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/53004/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "R  Paris, Bibliothèque de nationale de France, Supp gr. 240, fols. 7–9, 151–152, 164–175, 177, 179–180 (11th cent.) ~ palimpsest; Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/53004/"
       ]
@@ -92,7 +92,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque de nationale de France, gr. 1521, fols. 219r–259v (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51139/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721723c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Q  Paris, Bibliothèque de nationale de France, gr. 1521, fols. 219r–259v (12th/13th cent.) ~ Pinakes; Gallica",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/51139/",
         "http://gallica.bnf.fr/ark:/12148/btv1b10721723c"
@@ -102,7 +102,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Venice, Biblioteca Nazionale Marciana, gr. Z 586, fols. 200–242 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70057/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "C  Venice, Biblioteca Nazionale Marciana, gr. Z 586, fols. 200–242 (12th cent.) ~ Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/70057/"
       ]
@@ -117,7 +117,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Mount Athos, Monē Philotheou, 9 , fols. 219r–235v, 244–261v (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29373/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "B  Mount Athos, Monē Philotheou, 9 , fols. 219r–235v, 244–261v (11th cent.) ~ Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/29373/"
       ]
@@ -126,7 +126,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Milan, Biblioteca Ambrosiana, A 63 inf., fols. 86r–148r (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42187/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "D  Milan, Biblioteca Ambrosiana, A 63 inf., fols. 86r–148r (13th cent.) ~ Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/42187/"
       ]
@@ -135,7 +135,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque de nationale de France, gr. 521, pp. 7–139 (12th cent.) ~ Pinakes; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723204s\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "P  Paris, Bibliothèque de nationale de France, gr. 521, pp. 7–139 (12th cent.) ~ Pinakes; Gallica",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://gallica.bnf.fr/ark:/12148/btv1b10723204s"
       ]
@@ -144,7 +144,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1643, fols. 131v–161v (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68274/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "T  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1643, fols. 131v–161v (11th cent.) ~ Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68274/"
       ]
@@ -159,7 +159,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, Q 6 sup., fols. 93r–93v (13th cent.) ~ palimpest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43139/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Milan, Biblioteca Ambrosiana, Q 6 sup., fols. 93r–93v (13th cent.) ~ palimpest; Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43139/"
       ]
@@ -168,7 +168,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 179 (Vlad. 357), fols. 182–224 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43804/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 179 (Vlad. 357), fols. 182–224 (11th cent.) ~ Pinakes",
       "language": ".2 Life only",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43804/"
       ]

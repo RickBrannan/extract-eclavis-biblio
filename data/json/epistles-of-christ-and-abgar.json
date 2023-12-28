@@ -12,19 +12,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Chicago, Columbia College Library (no further information provided)</p>",
       "line_text": "Chicago, Columbia College Library (no further information provided)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fol. 33v</p>",
       "line_text": "London, British Library, Add. 9965, fol. 33v",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-445/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 150<sup>r</sup>–162<sup>r</sup> (1233)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 150r–162r (1233)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-445/"
       ]
@@ -33,7 +33,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-485/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 485, fols. 53<sup>v</sup><strong>–</strong>69<sup>r</sup> (13th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 485, fols. 53v–69r (13th cent.)",
       "language": "Arabic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-485/"
       ]
@@ -42,13 +42,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57<sup>r</sup>–58<sup>v</sup> (mentioned in Cureton p. 154)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57r–58v (mentioned in Cureton p. 154)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24–31 (1550–1556)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24–31 (1550–1556)",
       "language": "Arabic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://www.jstor.org/stable/527236\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gottheil, R. J. H. “An Arabic Version of the Abgar-Legend.” <em>Hebraica</em> 7.4 (1891): 268–77 (text and English translation of the Columbia College Library manuscript).</p>",
@@ -81,7 +81,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3854, fols. 80<sup>v</sup>–88<sup>v</sup> (1471) ~ combination of traditions about the Epistles, Addai, and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-thirty-pieces-of-silver/\" target=\"_blank\" rel=\"noopener\"><em>Legend of the Thirty Pieces of Silver</em></a></p>",
       "line_text": "Yerevan, Matenadaran, 3854, fols. 80v–88v (1471) ~ combination of traditions about the Epistles, Addai, and the Legend of the Thirty Pieces of Silver",
       "language": "Armenian",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-thirty-pieces-of-silver/"
       ]
@@ -90,7 +90,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7993, fols. 152<sup>v</sup>–153<sup>v</sup> (1692) ~ as above</p>",
       "line_text": "Yerevan, Matenadaran, 7993, fols. 152v–153v (1692) ~ as above",
       "language": "Armenian",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Outtier, Bernard, ed. and trans. “Une forme enrichie de la Légende d’Abgar en arménien.” In <em>Apocryphes arménians: transmission–traduction–creation–iconographie; Acts du colloque international sur la littérature apocryphe en langue arménienne (Genève, 18–20 septembre 1997</em><em>)</em>, edited by Valentina Calzolari Bouvier, Jean-Daniel Kaestli, and Bernard Outtier, 129–45. Lausanne: Éditions du Zébre, 1999 (edition and translation of the two Yerevan manuscripts).</p>",
@@ -132,13 +132,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  EMML 2180, fols. 13<sup>r</sup>–15<sup>v</sup> (18th cent.)</p>",
       "line_text": "A  EMML 2180, fols. 13r–15v (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong> EMML 2050, fols. 86<sup>v</sup>–87<sup>v</sup> (19th cent.)</p>",
       "line_text": "B EMML 2050, fols. 86v–87v (19th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/ocp-55-1989/OCP-55-%281989%29/page/n381/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Haile, Getatchew, ed. and trans. “The Legend of Abgar in Ethiopic Tradition.” <em>OCP</em> 55 (1989): 375–410 (edition of the shorter version based on A and B, and the older version).</p>",
@@ -168,7 +168,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Gothenburg, Universitetsbibliotek 21 <a href=\"https://papyri.info/dclp/58907\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Gothenburg, Universitetsbibliotek 21 IMAGES",
       "language": ".1 Papyri",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://papyri.info/dclp/58907"
       ]
@@ -177,7 +177,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">P. Cair. 10736 + P. Oxf. Bodl. MS gr. th. b 1 (P) ~ <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5916\" target=\"_blank\" rel=\"noopener\">CATALOG</a>; <a href=\"https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/manuscript/kyp-m1119/\" target=\"_blank\" rel=\"noopener\">Kyprianos</a></p>",
       "line_text": "P. Cair. 10736 + P. Oxf. Bodl. MS gr. th. b 1 (P) ~ CATALOG; Kyprianos",
       "language": ".1 Papyri",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5916",
         "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/manuscript/kyp-m1119/"
@@ -187,13 +187,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Nessana Papyrus</p>",
       "line_text": "Nessana Papyrus",
       "language": ".1 Papyri",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, P. Colt. 7 ~ <a href=\"https://www.themorgan.org/manuscript/351518\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "New York, Morgan Library and Museum, P. Colt. 7 ~ IMAGES",
       "language": ".1 Papyri",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.themorgan.org/manuscript/351518"
       ]
@@ -214,7 +214,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-16-sup/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, E 16 sup. (Martini-Bassi 273), fols. 60<sup>r</sup>–61<sup>v</sup> (13th cent.)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, E 16 sup. (Martini-Bassi 273), fols. 60r–61v (13th cent.)",
       "language": ".2 Epistula Abgari",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-16-sup/"
       ]
@@ -223,7 +223,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m499-chicago-university-of-chicago-joseph-regenstein-library-125/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M499 + Chicago, University of Chicago Joseph Regenstein Library, 125 (14th cent.)</p>",
       "line_text": "New York, Morgan Library and Museum, M499 + Chicago, University of Chicago Joseph Regenstein Library, 125 (14th cent.)",
       "language": ".2 Epistula Abgari",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m499-chicago-university-of-chicago-joseph-regenstein-library-125/"
       ]
@@ -241,7 +241,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-2688/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 2688, fols. 65<sup>r</sup>–93<sup>v</sup> (15th cent.) ~ followed by the <em>Historia de sudario domini</em> (fols. 94<sup>r</sup>–97<sup>r</sup>); lavishly illuminated</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 2688, fols. 65r–93v (15th cent.) ~ followed by the Historia de sudario domini (fols. 94r–97r); lavishly illuminated",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-2688/"
       ]
@@ -250,7 +250,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), p. 147a (1408–1411)</p>",
       "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), p. 147a (1408–1411)",
       "language": "Middle Irish",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
       ]

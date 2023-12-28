@@ -22,7 +22,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/alencon-bibliotheque-municipale-17/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Alençon, Bibliothèque municipale, 17, <span lang=\"EN-US\">fols. 175<sup>v</sup> (</span>13th cent.)</p>",
       "line_text": "Alençon, Bibliothèque municipale, 17, fols. 175v (13th cent.)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/alencon-bibliotheque-municipale-17/"
       ]
@@ -31,7 +31,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-royal-ms-1-e-ix/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Royal 1 E. IX, fols. 286<sup>r</sup>–286<sup>v</sup> (15th cent.) = Izydorczyk, <em>Census</em> no. 157</p>",
       "line_text": "London, British Library, Royal 1 E. IX, fols. 286r–286v (15th cent.) = Izydorczyk, Census no. 157",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-royal-ms-1-e-ix/"
       ]
@@ -40,7 +40,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 17730, fol. 8<sup>r</sup> (15th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b90672210.r=17730?rk=21459;2\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a> (as <em>Ep. Tiberius</em>)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 17730, fol. 8r (15th cent.) ~ Gallica (as Ep. Tiberius)",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/btv1b90672210.r=17730?rk=21459;2"
       ]
@@ -55,73 +55,73 @@
       "line_html": "<p style=\"padding-left: 40px;\">Jena, Bibliotheca Electoralis, F. 76 (15th cent.)</p>",
       "line_text": "Jena, Bibliotheca Electoralis, F. 76 (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, lat. 6722 (15th cent.)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, lat. 6722 (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, lat. 19608 (1482)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, lat. 19608 (1482)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3158 (16th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 3158 (16th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3282 (16th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 3282 (16th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 18089 (1467)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 18089 (1467)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4576 (15th cent.)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 4576 (15th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 557(3) ca. 1447)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 557(3) ca. 1447)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 1354 (16th cent.)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 1354 (16th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4453 (1437/1462)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 4453 (1437/1462)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Alqoš, Notre-Dame des Semences, Scher 326, fol. 98<sup>r</sup>–100<sup>r </sup>(ca. 1900)</p>",
       "line_text": "Alqoš, Notre-Dame des Semences, Scher 326, fol. 98r–100r (ca. 1900)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-377/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Chaldean Patriarchate of Baghdad, 377, <span class=\"\">fols. 21<sup>r</sup>–22<sup>r</sup></span> (1894)</p>",
       "line_text": "Baghdad, Chaldean Patriarchate of Baghdad, 377, fols. 21r–22r (1894)",
       "language": "Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-377/"
       ]
@@ -130,7 +130,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45<sup>v</sup>–46<sup>r</sup> (1907)</p>",
       "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45v–46r (1907)",
       "language": "Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Brock, Sebastian. P. “A Syriac Version of the Letters of Lentulus and Pilate.” <em>OCP</em> 35 (1969): 45–62 (edition and translation of Mingana Syr. 47, with readings from the Greek and Latin editions for comparison, pp. 57–61).</p>",

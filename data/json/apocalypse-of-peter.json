@@ -1,0 +1,717 @@
+{
+  "nasscal_url": "https://www.nasscal.com/apocalypse-of-peter/",
+  "nasscal_toc_title": "Apocalypse of Peter",
+  "filename": "apocalypse-of-peter",
+  "latin_title": "Apocalypsis Petri",
+  "abbrev": "Apoc. Pet.",
+  "alt_titles": [
+    "Apocalypse of Peter (Greek/Ethiopic)",
+    "Revelation of Peter"
+  ],
+  "clavis_number": 723,
+  "category": "Apocalypses",
+  "compiler": "Cambry Pardee, Pepperdine University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Charlesworth, James H., and James R. Mueller. <em>The New Testament Apocrypha and Pseudepigrapha: A Guide to Publications, with excurses on Apocalypses. </em>ATLA Bibliography Series 17.  Metuchen, NJ: American Theological Library Association and Scarecrow Press, 1987, 317–21.</p>",
+      "line_text": "Charlesworth, James H., and James R. Mueller. The New Testament Apocrypha and Pseudepigrapha: A Guide to Publications, with excurses on Apocalypses. ATLA Bibliography Series 17.  Metuchen, NJ: American Theological Library Association and Scarecrow Press, 1987, 317–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Chiappelli, Alessandro. “Il nuovo frammento dell’Apocalisse di Pietro.” <em>Nuova antologia </em>3:47 (1893): 112–122.</p>",
+      "line_text": "Chiappelli, Alessandro. “Il nuovo frammento dell’Apocalisse di Pietro.” Nuova antologia 3:47 (1893): 112–122.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “I frammenti ora scoperti d’un evangelio e d’un’apocalisse di Pietro.” <em>Nuova antologia </em>3:46 (1893): 212–38.</p>",
+      "line_text": "———. “I frammenti ora scoperti d’un evangelio e d’un’apocalisse di Pietro.” Nuova antologia 3:46 (1893): 212–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Collins, Adela Yarbro. “The Early Christian Apocalypses.” <em>Semeia </em>14 (1979): 61–121, esp. 72–73.</p>",
+      "line_text": "Collins, Adela Yarbro. “The Early Christian Apocalypses.” Semeia 14 (1979): 61–121, esp. 72–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Copeland, Kirsti B. “Sinners and Post-Mortem ‘Baptism’ in the Acherusian Lake.” Pages 91–107 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Copeland, Kirsti B. “Sinners and Post-Mortem ‘Baptism’ in the Acherusian Lake.” Pages 91–107 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cowley, Roger W. “The Ethiopic Work Which Is Believed to Contain the Material of the Ancient Greek Apocalypse of Peter.” <em>JTS </em>36 (1985): 151–53.</p>",
+      "line_text": "Cowley, Roger W. “The Ethiopic Work Which Is Believed to Contain the Material of the Ancient Greek Apocalypse of Peter.” JTS 36 (1985): 151–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Identification of the Ethiopian Octateuch of Clement and Its Relationship to the Other Christian Literature.” <em>Ostkirchliche Studien </em>27 (1978): 37–45.</p>",
+      "line_text": "———. “The Identification of the Ethiopian Octateuch of Clement and Its Relationship to the Other Christian Literature.” Ostkirchliche Studien 27 (1978): 37–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Czachesz, István. “The Grotesque Body in the Apocalypse of Peter.” Pages 108–26 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Czachesz, István. “The Grotesque Body in the Apocalypse of Peter.” Pages 108–26 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davies, John Gordon. <em>He Ascended into Heaven: A Study in the History of Doctrine. </em>London: Lutterworth, 1958.</p>",
+      "line_text": "Davies, John Gordon. He Ascended into Heaven: A Study in the History of Doctrine. London: Lutterworth, 1958.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dods, Marcus. <em>Forerunners of Dante: An Account of Some of the More Important Visions of the Unseen World, From the Earliest Times. </em>Edinburgh: T&amp;T Clark, 1903.</p>",
+      "line_text": "Dods, Marcus. Forerunners of Dante: An Account of Some of the More Important Visions of the Unseen World, From the Earliest Times. Edinburgh: T&amp;T Clark, 1903.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Edsman, Carl-Martin. <em>Le Baptême de Feu. </em>Uppsala: Almqvist &amp; Wiksell, 1940, esp. 53–63.</p>",
+      "line_text": "Edsman, Carl-Martin. Le Baptême de Feu. Uppsala: Almqvist &amp; Wiksell, 1940, esp. 53–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. <em>Forged: Writing in the Name of God–Why the Bible’s Authors Are Not Who We Think They Are. </em>New York: HarperOne, 2011, 63–65, 274.</p>",
+      "line_text": "Ehrman, Bart D. Forged: Writing in the Name of God–Why the Bible’s Authors Are Not Who We Think They Are. New York: HarperOne, 2011, 63–65, 274.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Forgeries Involving Debates over the Flesh.” Pages 407–54 (esp. 445–51) in <em>Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics</em>. Oxford: Oxford University Press, 2013.</p>",
+      "line_text": "———. “Forgeries Involving Debates over the Flesh.” Pages 407–54 (esp. 445–51) in Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics. Oxford: Oxford University Press, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Lost Christianities: The Battles for Scripture and the Faiths We Never Knew</em>. Oxford: Oxford University Press, 2003, 24–27.</p>",
+      "line_text": "———. Lost Christianities: The Battles for Scripture and the Faiths We Never Knew. Oxford: Oxford University Press, 2003, 24–27.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb11116194_01056.html\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricio, Johanne Alberto. “Apocalypsis S. Pietri.” Pages 940–942 in <em>Codex Apocryphus Novi Testamenti </em>2. Hamburg: Schiller, 1703.</p>",
+      "line_text": "Fabricio, Johanne Alberto. “Apocalypsis S. Pietri.” Pages 940–942 in Codex Apocryphus Novi Testamenti 2. Hamburg: Schiller, 1703.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb11116194_01056.html"
+      ]
+    },
+    {
+      "line_html": "<p>Fiensy, David. “Early Christian Apocalyptic: A Comparison between the New Testament book of Revelation and the Apocryphal Apocalypse of Peter.” Pages 151–70 in <em>Christ’s Victorious Church: Essays on Biblical Ecclesiology and Eschatology in Honor of Tom Friskney. </em>Edited by John Weatherly. Eugene, OR: Wipf &amp; Stock, 2001.</p>",
+      "line_text": "Fiensy, David. “Early Christian Apocalyptic: A Comparison between the New Testament book of Revelation and the Apocryphal Apocalypse of Peter.” Pages 151–70 in Christ’s Victorious Church: Essays on Biblical Ecclesiology and Eschatology in Honor of Tom Friskney. Edited by John Weatherly. Eugene, OR: Wipf &amp; Stock, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fiensy, David. “Lex Talionis in the Apocalypse of Peter.” <em>HTR </em>76 (1983): 255–58.</p>",
+      "line_text": "Fiensy, David. “Lex Talionis in the Apocalypse of Peter.” HTR 76 (1983): 255–58.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Foster, Paul. “The Open Hell: A Study of the Apocalypse of Peter.” Pages 80–104 in <em>The Open Mind: Essays in Honour of Christopher Rowland.</em> Edited by Jonathan Knight and Kevin Sullivan. LNTS 522. London: Bloomsbury, 2015.</p>",
+      "line_text": "Foster, Paul. “The Open Hell: A Study of the Apocalypse of Peter.” Pages 80–104 in The Open Mind: Essays in Honour of Christopher Rowland. Edited by Jonathan Knight and Kevin Sullivan. LNTS 522. London: Bloomsbury, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frey, Jörg, Matthijs den Dulk, and Jan van der Watt, eds. <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective</em>. BibInt 174. Boston, MA: Brill, 2019.</p>",
+      "line_text": "Frey, Jörg, Matthijs den Dulk, and Jan van der Watt, eds. 2 Peter and the Apocalypse of Peter: Towards a New Perspective. BibInt 174. Boston, MA: Brill, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Fire and Water? Apocalyptic Imagination and Hellenistic Worldview in 2 Peter.” Pages 451–71 in vol. 1 of Sibyls, Scriptures, and Scrolls. John Collins at Seventy. Edited by Joel Baden, Hindy Najman, and Eibert Tigchelaar.  2 vols. Leiden-Boston: Brill 2016 (esp. pp. 457–63).</p>",
+      "line_text": "———. “Fire and Water? Apocalyptic Imagination and Hellenistic Worldview in 2 Peter.” Pages 451–71 in vol. 1 of Sibyls, Scriptures, and Scrolls. John Collins at Seventy. Edited by Joel Baden, Hindy Najman, and Eibert Tigchelaar.  2 vols. Leiden-Boston: Brill 2016 (esp. pp. 457–63).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Der Brief des Judas und der zweite Brief des Petrus</em>. THKNT  15/II. Leipzig: Evangelische Verlagsanstalt 2015 (esp. pp. 170–73).</p>",
+      "line_text": "———. Der Brief des Judas und der zweite Brief des Petrus. THKNT  15/II. Leipzig: Evangelische Verlagsanstalt 2015 (esp. pp. 170–73).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Funk, F. X. “Fragmente des Evangeliums und der Apokalypse des Petrus<em>.</em>” <em>TQ </em>75 (1893): 255–63.</p>",
+      "line_text": "Funk, F. X. “Fragmente des Evangeliums und der Apokalypse des Petrus.” TQ 75 (1893): 255–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gaster, M. “Hebrew Visions of Hell and Paradise.” <em>JRAS </em>25 (1893): 571–611. Repr. in pages 124–64 in <em>Studies and Texts in Folklore, Magic, Medieval Romance, Hebrew Apocrypha and Samaritan Archeology </em>1<em>.</em> London: Maggs, 1925.</p>",
+      "line_text": "Gaster, M. “Hebrew Visions of Hell and Paradise.” JRAS 25 (1893): 571–611. Repr. in pages 124–64 in Studies and Texts in Folklore, Magic, Medieval Romance, Hebrew Apocrypha and Samaritan Archeology 1. London: Maggs, 1925.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gilmour, Michael J. “Delighting in the Sufferings of Others: Early Christian Schadenfreude and the Function of the Apocalypse of Peter.” <em>BBR </em>16 (2006): 129–39.</p>",
+      "line_text": "Gilmour, Michael J. “Delighting in the Sufferings of Others: Early Christian Schadenfreude and the Function of the Apocalypse of Peter.” BBR 16 (2006): 129–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Goguel, M. “A propos du texte nouveau de l’Apocalypse de Pierre.” <em>RHR</em> 89 (1924): 191–209.</p>",
+      "line_text": "Goguel, M. “A propos du texte nouveau de l’Apocalypse de Pierre.” RHR 89 (1924): 191–209.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gray, Patrick. “Abortion, Infanticide, and the Social Rhetoric of the Apocalypse of Peter.” <em>JECS</em> 9 (2001): 313–37.</p>",
+      "line_text": "Gray, Patrick. “Abortion, Infanticide, and the Social Rhetoric of the Apocalypse of Peter.” JECS 9 (2001): 313–37.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wolfgang Grünstäudl. <em>Petrus Alexandrinus. Studien zum historischen und theologischen Ort des zweiten Petrusbriefes</em>. WUNT II/353. Tübingen: Mohr Siebeck, 2013 (on the relationship between 2 Peter and <em>Apoc. Pet.</em>, see pp. 97–144).</p>",
+      "line_text": "Wolfgang Grünstäudl. Petrus Alexandrinus. Studien zum historischen und theologischen Ort des zweiten Petrusbriefes. WUNT II/353. Tübingen: Mohr Siebeck, 2013 (on the relationship between 2 Peter and Apoc. Pet., see pp. 97–144).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hammerschmidt, Ernst. “Das Pseudo-Apostolische Schrifttum in Äthiopischer Überlieferung.” <em>JSS </em>9 (1964): 114–21.</p>",
+      "line_text": "Hammerschmidt, Ernst. “Das Pseudo-Apostolische Schrifttum in Äthiopischer Überlieferung.” JSS 9 (1964): 114–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf von. “Bruchstücke des Evangeliums und der Apokalypse des Petrus.” <em>SPAW </em>44 (1892): 895–903, 949–65. Repr. as pages 83–108 in <em>Kleine Schriften zur alten Kirche: Berliner Akademieschriften 1890–1907. </em>Leipzig: Hinrichs, 1980.</p>",
+      "line_text": "Harnack, Adolf von. “Bruchstücke des Evangeliums und der Apokalypse des Petrus.” SPAW 44 (1892): 895–903, 949–65. Repr. as pages 83–108 in Kleine Schriften zur alten Kirche: Berliner Akademieschriften 1890–1907. Leipzig: Hinrichs, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/02603345.1303.emory.edu\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. “Petrus, Apokalypse.” Pages 30–33 in <em>Geschichte der Altchristliche Literatur bis Eusebius 1: Die Überlieferung und der Bestand und der altchristlichen Literatur bis Eusebius. </em>Leipzig: Hinrichs, 1893.</p>",
+      "line_text": "———. “Petrus, Apokalypse.” Pages 30–33 in Geschichte der Altchristliche Literatur bis Eusebius 1: Die Überlieferung und der Bestand und der altchristlichen Literatur bis Eusebius. Leipzig: Hinrichs, 1893.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/02603345.1303.emory.edu"
+      ]
+    },
+    {
+      "line_html": "<p>———. <em>Geschichte der Altchristliche Literatur bis Eusebius 2: Die Chronologie der altchristlichen Literatur bis Eusebius. </em>Leipzig: Hinrichs, 1897.</p>",
+      "line_text": "———. Geschichte der Altchristliche Literatur bis Eusebius 2: Die Chronologie der altchristlichen Literatur bis Eusebius. Leipzig: Hinrichs, 1897.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Die Petrusapokalypse in der abendländischen Kirche<em>.</em>” Pages 71–73 in <em>Eine bisher nicht erkannte Schrift des Papstes Sixtus II. vom Jahre 257/8. Zur Petrusapokalypse Patristisches zu Luc. 16, 19. </em>TUGAL 13. Leipzig: Hinrichs, 1895.</p>",
+      "line_text": "———. “Die Petrusapokalypse in der abendländischen Kirche.” Pages 71–73 in Eine bisher nicht erkannte Schrift des Papstes Sixtus II. vom Jahre 257/8. Zur Petrusapokalypse Patristisches zu Luc. 16, 19. TUGAL 13. Leipzig: Hinrichs, 1895.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://journals.sagepub.com/doi/pdf/10.1177/001452463004200105\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harris, J. R. “The Odes of Solomon and the Apocalypse of Peter.” <em>ExpT </em>42 (1930): 21–23.</p>",
+      "line_text": "Harris, J. R. “The Odes of Solomon and the Apocalypse of Peter.” ExpT 42 (1930): 21–23.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://journals.sagepub.com/doi/pdf/10.1177/001452463004200105"
+      ]
+    },
+    {
+      "line_html": "<p>Headlam, Arthur C. “The Akhmîm Fragments.” <em>The Classical Revue </em>7 (1893): 458–63.</p>",
+      "line_text": "Headlam, Arthur C. “The Akhmîm Fragments.” The Classical Revue 7 (1893): 458–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Helmer, Robert C. “Art Imitating Life: Suffering and Redemption in an Early Christian Apocalypse.” Pages 316–23 in <em>Common Life in the Early Church: Essays Honoring Graydon F. Snyder. </em>Edited by Julian Victor Hills and Richard B. Gardner. Harrisburg, PA: Trinity, 1998.</p>",
+      "line_text": "Helmer, Robert C. “Art Imitating Life: Suffering and Redemption in an Early Christian Apocalypse.” Pages 316–23 in Common Life in the Early Church: Essays Honoring Graydon F. Snyder. Edited by Julian Victor Hills and Richard B. Gardner. Harrisburg, PA: Trinity, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “‘That We May Know and Understand’: Gospel Tradition in the Apocalypse of Peter.” PhD diss., Marquette University, 1998.</p>",
+      "line_text": "———. “‘That We May Know and Understand’: Gospel Tradition in the Apocalypse of Peter.” PhD diss., Marquette University, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Henning, Meghan R. “Eternal Punishment as Paideia: The Ekphrasis of Hell in the Apocalypse of Peter and the Apocalypse of Paul.” <em>BR</em> 58 (2013): 29–48.</p>",
+      "line_text": "Henning, Meghan R. “Eternal Punishment as Paideia: The Ekphrasis of Hell in the Apocalypse of Peter and the Apocalypse of Paul.” BR 58 (2013): 29–48.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://catalog.hathitrust.org/Record/008413902\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hilgenfeld, Adolphus. <em>Evangeliorum secundum Hebraeos, secundum Petrum, secundum Aegyptios, Matthiae traditionum, Petri et Pauli praedicationis et actuum, Petri apocalypseos, didascaliae apostolorum antiquioris quae supersunt. </em>Second edition. Leipzig: Weigel, 1884, esp. 71–74.</p>",
+      "line_text": "Hilgenfeld, Adolphus. Evangeliorum secundum Hebraeos, secundum Petrum, secundum Aegyptios, Matthiae traditionum, Petri et Pauli praedicationis et actuum, Petri apocalypseos, didascaliae apostolorum antiquioris quae supersunt. Second edition. Leipzig: Weigel, 1884, esp. 71–74.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://catalog.hathitrust.org/Record/008413902"
+      ]
+    },
+    {
+      "line_html": "<p>Hills, Julian Victor. “Parables, Pretenders and Prophecies: Translation and Interpretation in the Apocalypse of Peter 2.” <em>RB </em>98 (1991): 560–73.</p>",
+      "line_text": "Hills, Julian Victor. “Parables, Pretenders and Prophecies: Translation and Interpretation in the Apocalypse of Peter 2.” RB 98 (1991): 560–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Himmelfarb, Martha. <em>Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature. </em>Philadelphia: Fortress, 1983.</p>",
+      "line_text": "Himmelfarb, Martha. Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature. Philadelphia: Fortress, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jakab, Attila. “The Reception of the Apocalypse of Peter in Ancient Christianity.” Pages 174–86 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Jakab, Attila. “The Reception of the Apocalypse of Peter in Ancient Christianity.” Pages 174–86 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>James, M. R. “Additional Notes on the Apocalypse of Peter.” <em>JTS </em>12 (1910): 157.</p>",
+      "line_text": "James, M. R. “Additional Notes on the Apocalypse of Peter.” JTS 12 (1910): 157.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Recovery of the Apocalypse of Peter.” <em>CQR </em>80 (1915): 1–36.</p>",
+      "line_text": "———. “The Recovery of the Apocalypse of Peter.” CQR 80 (1915): 1–36.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaufmann, K. M. “Die Paradiesvision der Sog. Petrusapocalypse von Achmim-Panopolis und die urchristlichen Monumente.” Pages 100–12 in <em>Congrès Scientifique des Catholiques </em>10. Fribourg, 1898.</p>",
+      "line_text": "Kaufmann, K. M. “Die Paradiesvision der Sog. Petrusapocalypse von Achmim-Panopolis und die urchristlichen Monumente.” Pages 100–12 in Congrès Scientifique des Catholiques 10. Fribourg, 1898.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraus, T. J. “Acheron und Elysion: Anmerkungen im Hinblick auf deren Verwendung auch im christlichen Kontext.” <em>Mnemosyne </em>46 (2003): 145–64.</p>",
+      "line_text": "Kraus, T. J. “Acheron und Elysion: Anmerkungen im Hinblick auf deren Verwendung auch im christlichen Kontext.” Mnemosyne 46 (2003): 145–64.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Die Griechische Petrus-Apokalypse und ihre Relation zu ausgewählten Überlieferungsträgern apokalyptischer Stoffe.” <em>Apocrypha </em>14 (2003): 73–98.</p>",
+      "line_text": "———. “Die Griechische Petrus-Apokalypse und ihre Relation zu ausgewählten Überlieferungsträgern apokalyptischer Stoffe.” Apocrypha 14 (2003): 73–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://quod.lib.umich.edu/b/basp/0599796.0040.001/47:6?rgn=main;view=image\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. “P.Vindob.G 39756 + Bodl. MS Gr. th. f 4 [P]: Fragmente eines Codex der griechischen Pterus-Apokalypse.” <em>BASP</em> 40 (2003): 45–61.</p>",
+      "line_text": "———. “P.Vindob.G 39756 + Bodl. MS Gr. th. f 4 [P]: Fragmente eines Codex der griechischen Pterus-Apokalypse.” BASP 40 (2003): 45–61.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://quod.lib.umich.edu/b/basp/0599796.0040.001/47:6?rgn=main;view=image"
+      ]
+    },
+    {
+      "line_html": "<p>———. “Zur näheren Bedeutung der ‘Götzen(bilder)’ in der Apokalypse des Petrus.” ASE 24 (2007): 147–76.</p>",
+      "line_text": "———. “Zur näheren Bedeutung der ‘Götzen(bilder)’ in der Apokalypse des Petrus.” ASE 24 (2007): 147–76.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kretzenbacher, Leopold. “Richterengel am Feuerstrom: Östliche Apokryphen und Gegenwartslegenden um Jenseitsgeleite und Höllenstrafen.” <em>Zeitschrift für Volkskunde </em>59 (1963) 205–20.</p>",
+      "line_text": "Kretzenbacher, Leopold. “Richterengel am Feuerstrom: Östliche Apokryphen und Gegenwartslegenden um Jenseitsgeleite und Höllenstrafen.” Zeitschrift für Volkskunde 59 (1963) 205–20.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kyrtatas, Dimitris J. “Early Christian Visions of Paradise: Considerations on Their Jewish and Greek Background.” Pages 337–50 in <em>Hellenic and Jewish Arts: Interaction, Tradition and Renewal. </em>Edited by Asher Ovadiah. Tel Aviv: Tel Aviv University, 1998.</p>",
+      "line_text": "Kyrtatas, Dimitris J. “Early Christian Visions of Paradise: Considerations on Their Jewish and Greek Background.” Pages 337–50 in Hellenic and Jewish Arts: Interaction, Tradition and Renewal. Edited by Asher Ovadiah. Tel Aviv: Tel Aviv University, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Origins of Christian Hell.” <em>Numen </em>56 (2009): 282–97.</p>",
+      "line_text": "———. “The Origins of Christian Hell.” Numen 56 (2009): 282–97.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lapham, Fred. “The Apocalypse of Peter.” Pages 99–104 in <em>An Introduction to the New Testament Apocrypha</em>. London: T&amp;T Clark International, 2003.</p>",
+      "line_text": "Lapham, Fred. “The Apocalypse of Peter.” Pages 99–104 in An Introduction to the New Testament Apocrypha. London: T&amp;T Clark International, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Apocalypse of Peter.” Pages 237–53 in <em>Peter: The Myth, the Man and the Writings. A Study of Early Petrine Text and Tradition. </em>JSNTSup 239. London: Sheffield Academic, 2003.</p>",
+      "line_text": "———. “The Apocalypse of Peter.” Pages 237–53 in Peter: The Myth, the Man and the Writings. A Study of Early Petrine Text and Tradition. JSNTSup 239. London: Sheffield Academic, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leite, Francisco Benedito, and Ricardo Boone Wotckoski. “Perspectivas para estudos sobre o Apocalipse de Pedro.” <em>Oracula </em>10 (2014): 89–104.</p>",
+      "line_text": "Leite, Francisco Benedito, and Ricardo Boone Wotckoski. “Perspectivas para estudos sobre o Apocalipse de Pedro.” Oracula 10 (2014): 89–104.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lieberman, Saul. <em>On Sins and Their Punishments</em>. Pages 29–56 in <em>Texts and Studies</em>. New York: Ktav, 1974.</p>",
+      "line_text": "Lieberman, Saul. On Sins and Their Punishments. Pages 29–56 in Texts and Studies. New York: Ktav, 1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=uc1.b2922921;view=1up;seq=5\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lüdemann, H. [Critical Comments on publications on the Gospel of Peter and the Apocalypse of Peter]. <em>Theologischer Jahresbericht </em>12 (1892): 171–73.</p>",
+      "line_text": "Lüdemann, H. [Critical Comments on publications on the Gospel of Peter and the Apocalypse of Peter]. Theologischer Jahresbericht 12 (1892): 171–73.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=uc1.b2922921;view=1up;seq=5"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=uc1.b2922922;view=1up;seq=5\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. [Critical Comments on publications on the Gospel of Peter and the Apocalypse of Peter]. <em>Theologischer Jahresbericht </em>13 (1893): 171–83.</p>",
+      "line_text": "———. [Critical Comments on publications on the Gospel of Peter and the Apocalypse of Peter]. Theologischer Jahresbericht 13 (1893): 171–83.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=uc1.b2922922;view=1up;seq=5"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=uc1.b2922923;view=1up;seq=5\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. [Critical Comments on publications on the Gospel of Peter and the Apocalypse of Peter]. <em>Theologischer Jahresbericht </em>14 (1894): 185–91.</p>",
+      "line_text": "———. [Critical Comments on publications on the Gospel of Peter and the Apocalypse of Peter]. Theologischer Jahresbericht 14 (1894): 185–91.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=uc1.b2922923;view=1up;seq=5"
+      ]
+    },
+    {
+      "line_html": "<p>Markley, John R. <em>Peter – Apocalyptic Seer: The Influence of the Apocalypse Genre on Matthew’s Portrayal of Peter</em>. WUNT 1/348. Tübingen: Mohr Siebeck, 2013, 15–17.</p>",
+      "line_text": "Markley, John R. Peter – Apocalyptic Seer: The Influence of the Apocalypse Genre on Matthew’s Portrayal of Peter. WUNT 1/348. Tübingen: Mohr Siebeck, 2013, 15–17.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marmorstein, A. “Jüdische Parallelen zur Petrusapokalypse.” <em>ZNW </em>10 (1909): 297–300.</p>",
+      "line_text": "Marmorstein, A. “Jüdische Parallelen zur Petrusapokalypse.” ZNW 10 (1909): 297–300.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Möllendorff, Peter von. “Christliche Apokalypsen und ihr mimetisches Potential in der paganen Bildungskultur: Ein Beitrag zu Lukians Wahren Geschichten.” Pages 179–94 in <em>Die Bibel im Dialog der Schriften: Konzepte intertextueller Bibellektüre. </em>Edited by Stefan Alkier and Richard B. Hayes. Tübingen: Francke, 2005.</p>",
+      "line_text": "Möllendorff, Peter von. “Christliche Apokalypsen und ihr mimetisches Potential in der paganen Bildungskultur: Ein Beitrag zu Lukians Wahren Geschichten.” Pages 179–94 in Die Bibel im Dialog der Schriften: Konzepte intertextueller Bibellektüre. Edited by Stefan Alkier and Richard B. Hayes. Tübingen: Francke, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Auf der Suche nach der verlorenen Wahrheit: Lukians Wahre Geschichten</em>. Classica Monacensia 21. Tübingen: Narr, 2000 (esp. 427–30).</p>",
+      "line_text": "———. Auf der Suche nach der verlorenen Wahrheit: Lukians Wahre Geschichten. Classica Monacensia 21. Tübingen: Narr, 2000 (esp. 427–30).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Müller, Jac J. “Die Openbaring van Petrus.” Pages 128–31 in <em>Nuwe-Testamentiese Apokriewe. </em>Kaapstad: Nasionale Boekh, 1959.</p>",
+      "line_text": "Müller, Jac J. “Die Openbaring van Petrus.” Pages 128–31 in Nuwe-Testamentiese Apokriewe. Kaapstad: Nasionale Boekh, 1959.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nau, F. “Note sur ‘Un nouveau texte de l’Apocalypse de Saint Pierre.” <em>ROC </em>15 (1910): 441–42.</p>",
+      "line_text": "Nau, F. “Note sur ‘Un nouveau texte de l’Apocalypse de Saint Pierre.” ROC 15 (1910): 441–42.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Närhi, Jani. “Counterintuitiveness of Hell and Paradise in the Apocalypses of Paul and Peter.” <em>Literature and Theology </em>28 (2014): 270–83.</p>",
+      "line_text": "Närhi, Jani. “Counterintuitiveness of Hell and Paradise in the Apocalypses of Paul and Peter.” Literature and Theology 28 (2014): 270–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicholson, E. W. B. “The Revelation of Peter.” <em>The Academy</em> 43 (1893): 14.</p>",
+      "line_text": "Nicholson, E. W. B. “The Revelation of Peter.” The Academy 43 (1893): 14.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nickelsburg, George W. E. “Enoch, Levi, and Peter: Recipients of Revelation in Upper Galilee.” <em>JBL </em>100 (1981): 575–600.</p>",
+      "line_text": "Nickelsburg, George W. E. “Enoch, Levi, and Peter: Recipients of Revelation in Upper Galilee.” JBL 100 (1981): 575–600.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Christliche Apokryphen als Spiegel der Vielfalt frühchristlichen Lebens: Schlaglichter, Beispiele und methodische Probleme.” <em>ASE</em> 23 (2006): 27–44.</p>",
+      "line_text": "Nicklas, Tobias. “Christliche Apokryphen als Spiegel der Vielfalt frühchristlichen Lebens: Schlaglichter, Beispiele und methodische Probleme.” ASE 23 (2006): 27–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “‘Insider’ and ‘Outsider’: Überlegungen zum historischen Kontext der Darstellung ‘jenseitiger Orte’ in der Offenbarung des Petrus.” Pages 35–48 in <em>Topographie des Jenseits: </em><em>Studien zur Geschichte des Todes in Kaiserzeit und Spätantike. </em>Edited by Walter Ameling. Alertumswissenschaftliches Kolloquium 21. Stuttgart: Steiner, 2011.</p>",
+      "line_text": "———. “‘Insider’ and ‘Outsider’: Überlegungen zum historischen Kontext der Darstellung ‘jenseitiger Orte’ in der Offenbarung des Petrus.” Pages 35–48 in Topographie des Jenseits: Studien zur Geschichte des Todes in Kaiserzeit und Spätantike. Edited by Walter Ameling. Alertumswissenschaftliches Kolloquium 21. Stuttgart: Steiner, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Jewish, Christian, Greek? The <em>Apocalypse of Peter</em> as a Witness of Early 2nd-Cent. Christianity in Alexandria.” Pages 27–46 in <em>Beyond Conflicts: Cultural and Religious Cohabitations in Alexandria and Egypt between the 1st and 6th Century CE.</em> Edited by Luca Arcari. STAC 103. Tübingen: Mohr Siebeck, 2017.</p>",
+      "line_text": "———. “Jewish, Christian, Greek? The Apocalypse of Peter as a Witness of Early 2nd-Cent. Christianity in Alexandria.” Pages 27–46 in Beyond Conflicts: Cultural and Religious Cohabitations in Alexandria and Egypt between the 1st and 6th Century CE. Edited by Luca Arcari. STAC 103. Tübingen: Mohr Siebeck, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “‘Our Righteous Brethren’: Reflections on the Description of the Righteous Ones according to the Greek Revelation of Peter (Akhm. 2).” Pages 329–46 in <em>Empsychoi Logoi—Religious Innovations in Antiquity: Studies in Honour of Pieter Willem van der Horst. </em>Edited by Alberdina Houtman, Albert de Jong, and Magdo Misset-van de Weg. Ancient Judaism and Early Christianity 73. Leiden: Brill, 2008.</p>",
+      "line_text": "———. “‘Our Righteous Brethren’: Reflections on the Description of the Righteous Ones according to the Greek Revelation of Peter (Akhm. 2).” Pages 329–46 in Empsychoi Logoi—Religious Innovations in Antiquity: Studies in Honour of Pieter Willem van der Horst. Edited by Alberdina Houtman, Albert de Jong, and Magdo Misset-van de Weg. Ancient Judaism and Early Christianity 73. Leiden: Brill, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “‘Trink den Kelch, den ich dir verheißen habe!’ (Offenbarung des Petrus 14,4). Der Tod des Petrus und das Ende der Zeiten.” In <em>Bringing the Underground to the Foreground. New Perspectives on Jewish and Christian Apocryphal Texts and Traditions. </em>Edited by Pierluigi Piovanelli. Turnhout: Brepols, 2010.</p>",
+      "line_text": "———. “‘Trink den Kelch, den ich dir verheißen habe!’ (Offenbarung des Petrus 14,4). Der Tod des Petrus und das Ende der Zeiten.” In Bringing the Underground to the Foreground. New Perspectives on Jewish and Christian Apocryphal Texts and Traditions. Edited by Pierluigi Piovanelli. Turnhout: Brepols, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Zwei petrinische Apokryphen im Akhmîm-Codex oder Eines? Kritische Anmerkungen und Gedanken.” <em>Apocrypha </em>16 (2005): 75–96.</p>",
+      "line_text": "———. “Zwei petrinische Apokryphen im Akhmîm-Codex oder Eines? Kritische Anmerkungen und Gedanken.” Apocrypha 16 (2005): 75–96.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Norden, Eduard. “Die Petrusapokalypse und ihre antiken Vorbilder.” Pages 218–33 in <em>Kleine Schriften zum klassischen Alertum</em>. Edited by B. Kytzler. Berlin: de Gruyter, 1966. Repr. from <em>Beiblatt zur Allgemeinen Zeitung</em> 89 (1893).</p>",
+      "line_text": "Norden, Eduard. “Die Petrusapokalypse und ihre antiken Vorbilder.” Pages 218–33 in Kleine Schriften zum klassischen Alertum. Edited by B. Kytzler. Berlin: de Gruyter, 1966. Repr. from Beiblatt zur Allgemeinen Zeitung 89 (1893).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Norelli, Enrico. “Pertinence théologique et canonicité: les premières apocalypses chrétiennes.” <em>Apocrypha </em>8 (1997): 147–64.</p>",
+      "line_text": "Norelli, Enrico. “Pertinence théologique et canonicité: les premières apocalypses chrétiennes.” Apocrypha 8 (1997): 147–64.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Pierre, le visionnaire: la réception de l’épisode de la transfiguration en 2 Pierre et dans l’apocalypse de Pierre.” <em>FoiVie </em>106 (2007): 19–43.</p>",
+      "line_text": "———. “Pierre, le visionnaire: la réception de l’épisode de la transfiguration en 2 Pierre et dans l’apocalypse de Pierre.” FoiVie 106 (2007): 19–43.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Situation des apocryphes pétriniens.” <em>Apocrypha </em>2 (1991): 31–83.</p>",
+      "line_text": "———. “Situation des apocryphes pétriniens.” Apocrypha 2 (1991): 31–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ottermann, Monica. “Viagens extáticas entre o sétimo céu e os quintos do inferno: a Ascensão de Isaías e o Apocalipse de Pedro.” Pages 337–40 in <em>Religião de visionários: apocalíptica e misticismo no cristianismo primitivo. </em>Edited by Paulo A. S. Nogueira. São Paulo: Edições Loyola, 2005.</p>",
+      "line_text": "Ottermann, Monica. “Viagens extáticas entre o sétimo céu e os quintos do inferno: a Ascensão de Isaías e o Apocalipse de Pedro.” Pages 337–40 in Religião de visionários: apocalíptica e misticismo no cristianismo primitivo. Edited by Paulo A. S. Nogueira. São Paulo: Edições Loyola, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pearson, Birger A. “The Apocalypse of Peter and Canonical 2 Peter.” Pages 67–74 in <em>Gnosticism and the Early Christian World: Essays in Honor of James M. Robinson. </em>Sonoma, CA: Polebridge, 1990.</p>",
+      "line_text": "Pearson, Birger A. “The Apocalypse of Peter and Canonical 2 Peter.” Pages 67–74 in Gnosticism and the Early Christian World: Essays in Honor of James M. Robinson. Sonoma, CA: Polebridge, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pesthy, Monika. “‘Thy Mercy, O Lord, Is In the Heavens; and Thy Righteousness Reacheth unto the Clouds.’” Pages 40–51 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Pesthy, Monika. “‘Thy Mercy, O Lord, Is In the Heavens; and Thy Righteousness Reacheth unto the Clouds.’” Pages 40–51 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peterson, Erik. “Das Martyrium des Hl-Petrus nach der Petrus-Apokalypse.” Pages 88–91 in <em>Frühkirche, Judentum und Gnosis: Studien und Untersuchungen. </em>Freiburg: Herder, 1959. Repr. from <em>Miscellanea Giulio Belvederi</em>. Vatican City: Società “Amici delle catacomb”, 1954.</p>",
+      "line_text": "Peterson, Erik. “Das Martyrium des Hl-Petrus nach der Petrus-Apokalypse.” Pages 88–91 in Frühkirche, Judentum und Gnosis: Studien und Untersuchungen. Freiburg: Herder, 1959. Repr. from Miscellanea Giulio Belvederi. Vatican City: Società “Amici delle catacomb”, 1954.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Die Taufe im Acherusischen See.” <em>VC </em>9 (1955): 1–20. Repr. in pages 310–32 in <em>Frühkirche, Judentum und Gnosis: Studien und Untersuchungen. </em>Freiburg: Herder, 1959.</p>",
+      "line_text": "———. “Die Taufe im Acherusischen See.” VC 9 (1955): 1–20. Repr. in pages 310–32 in Frühkirche, Judentum und Gnosis: Studien und Untersuchungen. Freiburg: Herder, 1959.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Piccolomini, E. “Sul testo dei frammenti dell’ Evangelio e dell’ Apocalisse del Pseudo Pietro.” Pages 389–404 in <em>Rendiconti della Reale Accademia dei Lincei. Classe di scienze morali, storiche e filologiche </em>5:8. 1899.</p>",
+      "line_text": "Piccolomini, E. “Sul testo dei frammenti dell’ Evangelio e dell’ Apocalisse del Pseudo Pietro.” Pages 389–404 in Rendiconti della Reale Accademia dei Lincei. Classe di scienze morali, storiche e filologiche 5:8. 1899.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Porter, Stanley E. “Early Apocryphal Non-gospel Literature and the New Testament Text.” <em>JGRChJ </em>8 (2011): 192–98.</p>",
+      "line_text": "Porter, Stanley E. “Early Apocryphal Non-gospel Literature and the New Testament Text.” JGRChJ 8 (2011): 192–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quasten, Johannes. <em>Patrology 1. The Beginnings of Patristic Literature</em>. Utrecht: Spectrum, 1950, esp. 144–46.</p>",
+      "line_text": "Quasten, Johannes. Patrology 1. The Beginnings of Patristic Literature. Utrecht: Spectrum, 1950, esp. 144–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quispel G., and R. M. Grant. “A Note on the Petrine Apocrypha.” <em>VC </em>6 (1952): 31–32. Repr. in <em>Christian Beginnings: Apocalypse to History. </em>London: Variorum Reprints, 1983.</p>",
+      "line_text": "Quispel G., and R. M. Grant. “A Note on the Petrine Apocrypha.” VC 6 (1952): 31–32. Repr. in Christian Beginnings: Apocalypse to History. London: Variorum Reprints, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reinach, S. <em>L’Apocalypse de St. Pierre</em>. Paris: Alcan-Lévy, 1893.</p>",
+      "line_text": "Reinach, S. L’Apocalypse de St. Pierre. Paris: Alcan-Lévy, 1893.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rodríguez, M. “Tres apócrifos non gnósticos sobre Pedro (el Apocalipsis de Pedro, el Evangelio de Pedro u los Hechos de Pedro.” Pages 141–84 in <em>Pedro en la Iglesia primitiva</em>. Edited by R. Aguirre Monasterio. Estella, 1991.</p>",
+      "line_text": "Rodríguez, M. “Tres apócrifos non gnósticos sobre Pedro (el Apocalipsis de Pedro, el Evangelio de Pedro u los Hechos de Pedro.” Pages 141–84 in Pedro en la Iglesia primitiva. Edited by R. Aguirre Monasterio. Estella, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Roig Lanzillotta, Lautaro. “Does Punishment Reward the Righteous? The Justice Pattern Underlying the Apocalypse of Peter.” Pages 127–57 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Roig Lanzillotta, Lautaro. “Does Punishment Reward the Righteous? The Justice Pattern Underlying the Apocalypse of Peter.” Pages 127–57 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ruiten, Jacques van. “The Old Testament Quotations in the Apocalypse of Peter.” Pages 158–73 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Ruiten, Jacques van. “The Old Testament Quotations in the Apocalypse of Peter.” Pages 158–73 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, D. H. “The Peter Writings: Their Redactors and Their Relationships.” PhD diss., Northwestern University, 1972.</p>",
+      "line_text": "Schmidt, D. H. “The Peter Writings: Their Redactors and Their Relationships.” PhD diss., Northwestern University, 1972.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shanzer, Danuta. “Voices and Bodies: The Afterlife of the Unborn.” <em>Numen </em>56 (2009): 326–65.</p>",
+      "line_text": "Shanzer, Danuta. “Voices and Bodies: The Afterlife of the Unborn.” Numen 56 (2009): 326–65.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Simms, A. E. “Second Peter and the Apocalypse of Peter.” <em>The Expositor </em>5 (1898): 460–71.</p>",
+      "line_text": "Simms, A. E. “Second Peter and the Apocalypse of Peter.” The Expositor 5 (1898): 460–71.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Smith, Terence V. <em>Petrine Controversies in Early Christianity: Attitudes towards Peter in Christian Writings of the Frist Two Centuries. </em>WUNT 15. Tübingen: Mohr Siebeck, 1985, esp. 43–45.</p>",
+      "line_text": "Smith, Terence V. Petrine Controversies in Early Christianity: Attitudes towards Peter in Christian Writings of the Frist Two Centuries. WUNT 15. Tübingen: Mohr Siebeck, 1985, esp. 43–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Spitta, F. “Die Petrusapokalypse und der zweite Petrusbrief.” <em>ZNW </em>12 (1911): 237–42.</p>",
+      "line_text": "Spitta, F. “Die Petrusapokalypse und der zweite Petrusbrief.” ZNW 12 (1911): 237–42.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stegmüller, Friedrich. <em>Repertorium Biblicum</em> 1. Matriti: Consejo Superior de Investicaciones Cientificas, 1950, esp. 245–247.</p>",
+      "line_text": "Stegmüller, Friedrich. Repertorium Biblicum 1. Matriti: Consejo Superior de Investicaciones Cientificas, 1950, esp. 245–247.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Repertorium Biblicum</em> 8. Matriti: Consejo Superior de Investicaciones Cientificas, 1976, esp. 212.</p>",
+      "line_text": "———. Repertorium Biblicum 8. Matriti: Consejo Superior de Investicaciones Cientificas, 1976, esp. 212.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sundberg, Albert C., Jr. “Canon Muratori: A fourth-Century List.” <em>HTR </em>66 (1973): 1–41, esp. 26–34.</p>",
+      "line_text": "Sundberg, Albert C., Jr. “Canon Muratori: A fourth-Century List.” HTR 66 (1973): 1–41, esp. 26–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tardieu, M. “Hérésiographie de l’Apocalypse de Pierre. Histoire et conscience historique dans les civilisations du Proche Orient ancien.” <em>Cahiers du Centre d’ Études du Proche-Orient Ancien </em>5 (1991): 33–39.</p>",
+      "line_text": "Tardieu, M. “Hérésiographie de l’Apocalypse de Pierre. Histoire et conscience historique dans les civilisations du Proche Orient ancien.” Cahiers du Centre d’ Études du Proche-Orient Ancien 5 (1991): 33–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tigchelaar, Eibert. “Is the Liar Bar Kokhba? Considering the Date and Provenance of the Greek (Ethiopic) Apocalypse of Peter.” Pages 63–77 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
+      "line_text": "Tigchelaar, Eibert. “Is the Liar Bar Kokhba? Considering the Date and Provenance of the Greek (Ethiopic) Apocalypse of Peter.” Pages 63–77 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Touati, Charlotte. “A ‘Kerygma of Peter’ behind the Apocalypse of Peter, The Pseudo-Clementine Romance and the Eclogae Propheticae of Clement of Alexandria.” Pages 277–92 in StPatr 65. Edited by Markus Vinzent. Leuven: Peeters, 2013.</p>",
+      "line_text": "Touati, Charlotte. “A ‘Kerygma of Peter’ behind the Apocalypse of Peter, The Pseudo-Clementine Romance and the Eclogae Propheticae of Clement of Alexandria.” Pages 277–92 in StPatr 65. Edited by Markus Vinzent. Leuven: Peeters, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Trumbower, Jeffrey A. “Apocalypse of Peter 14,1–4 in Relation to Confessors’ Intercessions for the Non-Christian Dead.” Pages 307–12 in <em>StPatr </em>36. Edited by M. F. Wiles and E. J. Yarnold. Leuven: Peeters, 2001.</p>",
+      "line_text": "Trumbower, Jeffrey A. “Apocalypse of Peter 14,1–4 in Relation to Confessors’ Intercessions for the Non-Christian Dead.” Pages 307–12 in StPatr 36. Edited by M. F. Wiles and E. J. Yarnold. Leuven: Peeters, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vaganay, L. <em>L’Évangile de Pierre. </em>EBib 23. 2nd ed. Paris: Gabalda, 1930.</p>",
+      "line_text": "Vaganay, L. L’Évangile de Pierre. EBib 23. 2nd ed. Paris: Gabalda, 1930.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vielhauer, Philipp. “Die Petrus-Apokalypse.” Pages 507–13 in <em>Geschichte der urchristlichen Literatur: Einleitung in das Neue Testament, die Apokryphen und die Apostolischen Väter. </em>Berlin: de Gruyter, 1975.</p>",
+      "line_text": "Vielhauer, Philipp. “Die Petrus-Apokalypse.” Pages 507–13 in Geschichte der urchristlichen Literatur: Einleitung in das Neue Testament, die Apokryphen und die Apostolischen Väter. Berlin: de Gruyter, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Villamar, J. G. <em>El Apocalipsis de Pedro</em>. Thesis, Studii Biblici Franciscani, 1973–1974.</p>",
+      "line_text": "Villamar, J. G. El Apocalipsis de Pedro. Thesis, Studii Biblici Franciscani, 1973–1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wabnitz, A. “Les fragments de l’évangile et de l’apocalypse de Pierre.” <em>RTQR </em>2 (1983): 280–94, 353–70, 474–87.</p>",
+      "line_text": "Wabnitz, A. “Les fragments de l’évangile et de l’apocalypse de Pierre.” RTQR 2 (1983): 280–94, 353–70, 474–87.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zahn, Theodor. <em>Geschichte des Neutestamentlichen Kanons, 2/1</em>. Leipzig: Deichert, 1890.</p>",
+      "line_text": "Zahn, Theodor. Geschichte des Neutestamentlichen Kanons, 2/1. Leipzig: Deichert, 1890.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/p2geschichtedesn02zahnuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. “Die Apokalypse des Petrus.” Pages 810–20 in <em>Geschichte des Neutestamentlichen Kanons, 2/2</em>. Leipzig: Deichert, 1892.</p>",
+      "line_text": "———. “Die Apokalypse des Petrus.” Pages 810–20 in Geschichte des Neutestamentlichen Kanons, 2/2. Leipzig: Deichert, 1892.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/p2geschichtedesn02zahnuoft"
+      ]
+    },
+    {
+      "line_html": "<p>———. <em>Forschung zur Geschichte des neutestamentlichen Kanons und der altkirchlichen Literatur, 5/1. Parlaipomena. </em>Leipzig: Deichert, 1893.</p>",
+      "line_text": "———. Forschung zur Geschichte des neutestamentlichen Kanons und der altkirchlichen Literatur, 5/1. Parlaipomena. Leipzig: Deichert, 1893.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/grundrissderges00zahngoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. <em>Grundriss der Geschichte des neutestamentlichen Kanons. </em>Leipzig: Deichet, 1901.</p>",
+      "line_text": "———. Grundriss der Geschichte des neutestamentlichen Kanons. Leipzig: Deichet, 1901.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/grundrissderges00zahngoog"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "nasscal_url": "https://www.nasscal.com/2-apocryphal-apocalypse-of-john/",
+  "nasscal_toc_title": "2 Apocryphal Apocalypse of John",
+  "filename": "2-apocryphal-apocalypse-of-john",
+  "latin_title": "2 Apocalypsis Iohannis apocrypha",
+  "abbrev": " Apocr. Apoc. John",
+  "alt_titles": [
+    "Apocalypse of John Chrysostom"
+  ],
+  "clavis_number": 107,
+  "category": "Apocalypses",
+  "compiler": ": Janet E. Spittler, University of Virginia",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Recension A</p>",
+      "line_text": "Recension A",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Skētē Hagiou Andreou, 96, fols. 78<sup>r</sup>–81<sup>v</sup> (16th cent.) ~ destroyed in fire</p>",
+      "line_text": "Mount Athos, Skētē Hagiou Andreou, 96, fols. 78r–81v (16th cent.) ~ destroyed in fire",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Recension B</p>",
+      "line_text": "Recension B",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-947/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 947, fols. 276<sup>v</sup>–280<sup>v</sup> (1574)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 947, fols. 276v–280v (1574)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-947/"
+      ]
+    },
+    {
+      "line_html": "<p>Unassigned</p>",
+      "line_text": "Unassigned",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, MΓ 66 and MΓ 69 (8th/9th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, MΓ 66 and MΓ 69 (8th/9th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. II, 106 (col. 1169), fols. 22<sup>v</sup>–225<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. II, 106 (col. 1169), fols. 22v–225v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. III, 12 (col. 1267), fols. 412–413<sup>v</sup> (1467)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. III, 12 (col. 1267), fols. 412–413v (1467)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Zaborda, Mone tou hagiou Nikanoros, 127, fols. 186<sup>v</sup>–189</p>",
+      "line_text": "Zaborda, Mone tou hagiou Nikanoros, 127, fols. 186v–189",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Court, John M. <em>The Book of Revelation and the Johannine Apocalyptic Tradition</em>. JSNTS 190. Sheffield: Sheffield Academic Press, 2000 (reprinting of Nau’s text with English translation, pp. 67–103).</p>",
+      "line_text": "Court, John M. The Book of Revelation and the Johannine Apocalyptic Tradition. JSNTS 190. Sheffield: Sheffield Academic Press, 2000 (reprinting of Nau’s text with English translation, pp. 67–103).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Krasnoseltsev, Nikolai F. <em>Addenda “Anecdota Graeco-Byzantina”</em> (in Russian). Odessa: Economicheskaa Tipografia, 1898 (<em>editio princeps</em> of A, pp. 98–101).</p>",
+      "line_text": "Krasnoseltsev, Nikolai F. Addenda “Anecdota Graeco-Byzantina” (in Russian). Odessa: Economicheskaa Tipografia, 1898 (editio princeps of A, pp. 98–101).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Nau, François. “Une deuxième Apocalypse apocryphe grecque de S. Jean.” <em>RB</em> NS 11.2 (1914): 209–21 (<em>editio princeps</em> of B based on Paris, gr. 947).</p>",
+      "line_text": "Nau, François. “Une deuxième Apocalypse apocryphe grecque de S. Jean.” RB NS 11.2 (1914): 209–21 (editio princeps of B based on Paris, gr. 947).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Court, John M. <em>The Book of Revelation and the Johannine Apocalyptic Tradition</em>. JSNTS 190. Sheffield: Sheffield Academic Press, 2000 (pp. 67–103).</p>",
+      "line_text": "Court, John M. The Book of Revelation and the Johannine Apocalyptic Tradition. JSNTS 190. Sheffield: Sheffield Academic Press, 2000 (pp. 67–103).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Draughon, Rebecca, Jeannie Sellick, and Janet E. Spittler. “2 Apocryphal Apocalypse of John: A New Translation and Introduction.” Pages  399–422 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures.</em> Edited by Tony Burke. Grand Rapids: Eerdmans, 2020.</p>",
+      "line_text": "Draughon, Rebecca, Jeannie Sellick, and Janet E. Spittler. “2 Apocryphal Apocalypse of John: A New Translation and Introduction.” Pages  399–422 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke. Grand Rapids: Eerdmans, 2020.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in English Translation</em>. Oxford: Clarendon, 1993 (p. 684).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in English Translation. Oxford: Clarendon, 1993 (p. 684).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (description, vol. 3, p. 415).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (description, vol. 3, p. 415).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaestli, J.-D., and J.-C. Picard. “Première Apocalypse Apocryphe de Jean.” Pages 983–90 in volume 2 of <em>Écrits Apocryphes Chrétiens</em>. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (discussion pp. 988–89).</p>",
+      "line_text": "Kaestli, J.-D., and J.-C. Picard. “Première Apocalypse Apocryphe de Jean.” Pages 983–90 in volume 2 of Écrits Apocryphes Chrétiens. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (discussion pp. 988–89).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in <em>Dialogues and Debates from Late Antiquity to Late Byzantium</em>. Edited by Averil Cameron and Niels Gaul. New York: Routledge, 2017.</p>",
+      "line_text": "Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in Dialogues and Debates from Late Antiquity to Late Byzantium. Edited by Averil Cameron and Niels Gaul. New York: Routledge, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

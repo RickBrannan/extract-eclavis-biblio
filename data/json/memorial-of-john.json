@@ -12,13 +12,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Chicago, University of Chicago, 727 (e 2266), 2 fols. between fols. 195 and 196 (<em>olim</em> Andover-Harvard Theological Library) (14th cent.; =GA 2266)</p>",
       "line_text": "A  Chicago, University of Chicago, 727 (e 2266), 2 fols. between fols. 195 and 196 (olim Andover-Harvard Theological Library) (14th cent.; =GA 2266)",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Mount Athos, Monē Batopediou, 901, fols. 198<sup>v</sup>–200<sup>r</sup> (1339; =GA 1547) ~ <a href=\"https://www.loc.gov/item/00271052212-ma/\" target=\"_blank\" rel=\"noopener noreferrer\">LOC</a></p>",
       "line_text": "B  Mount Athos, Monē Batopediou, 901, fols. 198v–200r (1339; =GA 1547) ~ LOC",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00271052212-ma/"
       ]
@@ -27,19 +27,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Mount Athos, Monē Batopediou, 905, fols. 285<sup>v</sup>–287<sup>v </sup>(13th/14th cent.; =GA 1549)</p>",
       "line_text": "C  Mount Athos, Monē Batopediou, 905, fols. 285v–287v (13th/14th cent.; =GA 1549)",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Venice, Biblioteca Nazionale Marciana, gr. I. 20, fols. 194<sup>v</sup>–196<sup>r</sup> (1302; GA 413)</p>",
       "line_text": "D  Venice, Biblioteca Nazionale Marciana, gr. I. 20, fols. 194v–196r (1302; GA 413)",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 267, fols. 81<sup>v</sup>–82<sup>v</sup> (14th cent.; GA 1248) ~ <a href=\"https://www.loc.gov/item/00271079357-ms\" target=\"_blank\" rel=\"noopener noreferrer\">LOC</a></p>",
       "line_text": "S  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 267, fols. 81v–82v (14th cent.; GA 1248) ~ LOC",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00271079357-ms"
       ]
@@ -60,7 +60,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Gennadeios Bibliothekē, 001.5, fols. 131<sup>r</sup>–131<sup>v</sup> (1226; GA 1797) ~ <a href=\"http://www.csntm.org/Manuscript/View/GA_1797\" target=\"_blank\" rel=\"noopener noreferrer\">CSNTM</a></p>",
       "line_text": "Athens, Gennadeios Bibliothekē, 001.5, fols. 131r–131v (1226; GA 1797) ~ CSNTM",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.csntm.org/Manuscript/View/GA_1797"
       ]
@@ -69,7 +69,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Mouseio Benaki, Μπ. 69, fols. 209–210 (13th cent.; GA 1305) ~ <a href=\"http://www.csntm.org/Manuscript/View/GA_1305\" target=\"_blank\" rel=\"noopener noreferrer\">CSNTM</a></p>",
       "line_text": "Athens, Mouseio Benaki, Μπ. 69, fols. 209–210 (13th cent.; GA 1305) ~ CSNTM",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.csntm.org/Manuscript/View/GA_1305"
       ]
@@ -78,13 +78,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Chester Beatty Library, CBL W 139, fols. 277<sup>v</sup>–278<sup>r</sup> (12th cent.; GA 2604)</p>",
       "line_text": "Dublin, Chester Beatty Library, CBL W 139, fols. 277v–278r (12th cent.; GA 2604)",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Durham, Duke University, David M. Rubenstein Rare Book and Manuscript Library, K. W. Clark collection MS. 025, fols. 180<sup>r</sup>–181<sup>v</sup> (14th cent.; GA 1813) ~ <a href=\"https://repository.duke.edu/dc/earlymss/emsgk01018\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
       "line_text": "Durham, Duke University, David M. Rubenstein Rare Book and Manuscript Library, K. W. Clark collection MS. 025, fols. 180r–181v (14th cent.; GA 1813) ~ IMAGES",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://repository.duke.edu/dc/earlymss/emsgk01018"
       ]
@@ -93,7 +93,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 19387, fols. 176–177<sup>v</sup> (13th cent.; GA 502) ~<a href=\"http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_19387_f176r\" target=\"_blank\" rel=\"noopener noreferrer\">BL</a></p>",
       "line_text": "London, British Library, Add. 19387, fols. 176–177v (13th cent.; GA 502) ~BL",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_19387_f176r"
       ]
@@ -102,7 +102,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Batopediou, 939, fols. 162<sup>v</sup>—163<sup>r </sup>(15th/16th cent.; GA 1573) ~ <a href=\"https://www.loc.gov/item/00271052431-ma/\" target=\"_blank\" rel=\"noopener noreferrer\">LOC</a></p>",
       "line_text": "Mount Athos, Monē Batopediou, 939, fols. 162v—163r (15th/16th cent.; GA 1573) ~ LOC",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00271052431-ma/"
       ]
@@ -111,13 +111,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">Sofia, Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev», D. gr. 059, fols. 99<sup>r</sup>–99<sup>v</sup> (11th/12th cent.; GA 1787)</p>",
       "line_text": "Sofia, Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev», D. gr. 059, fols. 99r–99v (11th/12th cent.; GA 1787)",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, Filial Instituta Rossijskoj Istorii Rossijskoj Akademii Nauk, 10.667 (Granstre, 359), pp. 361–363 (12th cent.; GA 2749)</p>",
       "line_text": "St. Petersburg, Filial Instituta Rossijskoj Istorii Rossijskoj Akademii Nauk, 10.667 (Granstre, 359), pp. 361–363 (12th cent.; GA 2749)",
       "language": ".1 Memorial of John",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Known manuscripts of the shorter edition of <em>Comm. Jn. Ev.</em> include (listed in the order of their Gregory-Aland designation):</p>",
@@ -129,25 +129,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 24: Paris, Bibliothèque nationale de France, gr. 178, fol. 187<sup>r</sup> (10th cent.)</p>",
       "line_text": "GA 24: Paris, Bibliothèque nationale de France, gr. 178, fol. 187r (10th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 37: Paris, Bibliothèque nationale de France, Cois. 21, fol. 277<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 37: Paris, Bibliothèque nationale de France, Cois. 21, fol. 277r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 40: Paris, Bibliothèque nationale de France, Cois. 22, fol. 250<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 40: Paris, Bibliothèque nationale de France, Cois. 22, fol. 250r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 63: Dublin, Trinity College, 31, fol. 360 (10th cent.) ~ <a href=\"https://www.tcd.ie/library/digitalcollections/home/#folder_id=106&amp;pidtopage=MS31_001&amp;entry_point=373\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
       "line_text": "GA 63: Dublin, Trinity College, 31, fol. 360 (10th cent.) ~ IMAGES",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.tcd.ie/library/digitalcollections/home/#folder_id=106&pidtopage=MS31_001&entry_point=373"
       ]
@@ -156,13 +156,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 95: Oxford, Bodleian Library, Lincoln College Gr. 16, fol. 45<sup>v</sup> (12th cent.)</p>",
       "line_text": "GA 95: Oxford, Bodleian Library, Lincoln College Gr. 16, fol. 45v (12th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 100: Budapest, Eötvös Loránd Tudomány Egyetem Könyvtára, Graec. 1, fol. 271 (10th/11th cent.) ~ <a href=\"http://images.konyvtar.elte.hu/ECodGraec1/\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
       "line_text": "GA 100: Budapest, Eötvös Loránd Tudomány Egyetem Könyvtára, Graec. 1, fol. 271 (10th/11th cent.) ~ IMAGES",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://images.konyvtar.elte.hu/ECodGraec1/"
       ]
@@ -171,13 +171,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 108: Naples, Biblioteca Nazionale, Cod. Neapol. ex Vind. 3, fol. 317<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 108: Naples, Biblioteca Nazionale, Cod. Neapol. ex Vind. 3, fol. 317r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 129: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 358, fol. 276 (11th cent.) ~ <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.358\" target=\"_blank\" rel=\"noopener noreferrer\">BAV</a></p>",
       "line_text": "GA 129: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 358, fol. 276 (11th cent.) ~ BAV",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://digi.vatlib.it/view/MSS_Vat.gr.358"
       ]
@@ -186,7 +186,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 137: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 756, fol. 238<sup>r</sup> (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.756\" target=\"_blank\" rel=\"noopener noreferrer\">BAV</a></p>",
       "line_text": "GA 137: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 756, fol. 238r (11th cent.) ~ BAV",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Vat.gr.756"
       ]
@@ -195,13 +195,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 138: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 757, fol. 268<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 138: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 757, fol. 268r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 157: Vatican, Biblioteca Apostolica Vaticana, Urb. gr. 2, fols. 325<sup>r</sup>–325<sup>v</sup> (1122–1142) ~ <a href=\"https://digi.vatlib.it/view/MSS_Urb.gr.2\" target=\"_blank\" rel=\"noopener noreferrer\">BAV</a></p>",
       "line_text": "GA 157: Vatican, Biblioteca Apostolica Vaticana, Urb. gr. 2, fols. 325r–325v (1122–1142) ~ BAV",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Urb.gr.2"
       ]
@@ -210,7 +210,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 186: Florence, Biblioteca Medicea Laurenziana, Plut. 06. 18, fol. 213 (10th cent.) ~ <a href=\"http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.6.18\" target=\"_blank\" rel=\"noopener noreferrer\">BML</a></p>",
       "line_text": "GA 186: Florence, Biblioteca Medicea Laurenziana, Plut. 06. 18, fol. 213 (10th cent.) ~ BML",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.6.18"
       ]
@@ -219,61 +219,61 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 195: Florence, Biblioteca Medicea Laurenziana, Plut. 06. 34, fol. 205<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 195: Florence, Biblioteca Medicea Laurenziana, Plut. 06. 34, fol. 205r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 222: Vienna, Österreichische Nationalbibliothek, Theol. Gr. 180, fol. 275<sup>r</sup> (14th cent.)</p>",
       "line_text": "GA 222: Vienna, Österreichische Nationalbibliothek, Theol. Gr. 180, fol. 275r (14th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 233: Escorial, Real Biblioteca del Monasterio de El Escorial, Y. II. 8, fol. 218<sup>r</sup> (13th cent.)</p>",
       "line_text": "GA 233: Escorial, Real Biblioteca del Monasterio de El Escorial, Y. II. 8, fol. 218r (13th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 237: Moscow, Staatliches Historisches Museum, syn. 41, fol. 207<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 237: Moscow, Staatliches Historisches Museum, syn. 41, fol. 207r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 259: Moscow, Staatliches Historisches Museum, syn. 44, fol. 205<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 259: Moscow, Staatliches Historisches Museum, syn. 44, fol. 205r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 299: Paris, Bibliothèque nationale de France, gr. 177, fol. 251<sup>r</sup> (10th cent.)</p>",
       "line_text": "GA 299: Paris, Bibliothèque nationale de France, gr. 177, fol. 251r (10th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 353: Milan, Biblioteca Ambrosiana, M. 93 sup., fol. 142<sup>r</sup> (12th cent.)</p>",
       "line_text": "GA 353: Milan, Biblioteca Ambrosiana, M. 93 sup., fol. 142r (12th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 374: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1455, fol. 136<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 374: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1455, fol. 136r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 391: Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 432, fol. 177<sup>v</sup> (1055)</p>",
       "line_text": "GA 391: Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 432, fol. 177v (1055)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 443: Cambridge, University Library, Fonds ancien Nn. II. 36 (2598), fol. 178<sup>v</sup> (11th cent.) ~ <a href=\"https://cudl.lib.cam.ac.uk/view/MS-NN-00002-00036/1\" target=\"_blank\" rel=\"noopener noreferrer\">Cambridge</a></p>",
       "line_text": "GA 443: Cambridge, University Library, Fonds ancien Nn. II. 36 (2598), fol. 178v (11th cent.) ~ Cambridge",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://cudl.lib.cam.ac.uk/view/MS-NN-00002-00036/1"
       ]
@@ -282,61 +282,61 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 549: London, British Library, Add. 39592, fol. 171<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 549: London, British Library, Add. 39592, fol. 171r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 569: Saint Petersburg, National Library of Russia, Φ. No. 906 / Gr. 72, fol. 271<sup>v</sup> (1061)</p>",
       "line_text": "GA 569: Saint Petersburg, National Library of Russia, Φ. No. 906 / Gr. 72, fol. 271v (1061)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 746: Paris, Bibliothèque nationale de France, Suppl. Gr. 611, fol. 277<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 746: Paris, Bibliothèque nationale de France, Suppl. Gr. 611, fol. 277r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 754: Paris, Bibliothèque nationale de France, Suppl. Gr. 1076, fol. 341<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 754: Paris, Bibliothèque nationale de France, Suppl. Gr. 1076, fol. 341r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 800: Athens, Ethnikē Bib­liothēkētēs Hellados, 65, fol. 176<sup>v</sup> (12th cent.)</p>",
       "line_text": "GA 800: Athens, Ethnikē Bib­liothēkētēs Hellados, 65, fol. 176v (12th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 989: Mount Athos, Monē Ibērōn, 17 (2), fol. 20<sup>v</sup> (11th/12th cent.)</p>",
       "line_text": "GA 989: Mount Athos, Monē Ibērōn, 17 (2), fol. 20v (11th/12th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 994: Mount Athos, Monē Ibērōn, 170 (19), fol. 119<sup>r</sup> (10th/11th cent.)</p>",
       "line_text": "GA 994: Mount Athos, Monē Ibērōn, 170 (19), fol. 119r (10th/11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1164: Patmos, St. John the Theologian Monastery, 80, fol. 193<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 1164: Patmos, St. John the Theologian Monastery, 80, fol. 193r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1230: Mount Sinai, Monē tēs Hagias Aikaterinēs, Gr. 193, fol. 243<sup>r</sup> (1124)</p>",
       "line_text": "GA 1230: Mount Sinai, Monē tēs Hagias Aikaterinēs, Gr. 193, fol. 243r (1124)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1312: Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 25, fol. 204 (11th cent.) ~ <a href=\"https://www.loc.gov/item/00279389505-jo\" target=\"_blank\" rel=\"noopener noreferrer\">LOC</a></p>",
       "line_text": "GA 1312: Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 25, fol. 204 (11th cent.) ~ LOC",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/00279389505-jo"
       ]
@@ -345,25 +345,25 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 1392: Mount Athos, Pantokratoros Monastery, 39, fol. 249<sup>r</sup> (10th cent.)</p>",
       "line_text": "GA 1392: Mount Athos, Pantokratoros Monastery, 39, fol. 249r (10th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1422: Prague, Národní Knihovna České republiky, XXV B 07, fol. 301 (10th/11th cent.)</p>",
       "line_text": "GA 1422: Prague, Národní Knihovna České republiky, XXV B 07, fol. 301 (10th/11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1423: Durham, NC, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University, Greek MS 60, fol. 269<sup>v</sup> (11th cent.)</p>",
       "line_text": "GA 1423: Durham, NC, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University, Greek MS 60, fol. 269v (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1521: Washington, Dumbarton Oaks, 3, fol. 213<sup>v</sup> (ca. 1084) ~ <a href=\"http://pds.lib.harvard.edu/pds/view/44659780\" target=\"_blank\" rel=\"noopener noreferrer\">HARVARD</a></p>",
       "line_text": "GA 1521: Washington, Dumbarton Oaks, 3, fol. 213v (ca. 1084) ~ HARVARD",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://pds.lib.harvard.edu/pds/view/44659780"
       ]
@@ -372,49 +372,49 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 1570: Mount Athos, Monē Batopediou, 936, fol. 233<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 1570: Mount Athos, Monē Batopediou, 936, fol. 233r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1814: Milan, Biblioteca Nazionale Braidense, AF XIV 15, fol. 365<sup>r</sup> (15th cent.)</p>",
       "line_text": "GA 1814: Milan, Biblioteca Nazionale Braidense, AF XIV 15, fol. 365r (15th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2414: Zagora, Public Historical Library, 1, fol. 172<sup>r</sup> (10th cent.)</p>",
       "line_text": "GA 2414: Zagora, Public Historical Library, 1, fol. 172r (10th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2480: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2348, fol. 1<sup>r</sup> (16th cent.)</p>",
       "line_text": "GA 2480: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2348, fol. 1r (16th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2482: Bologna, Biblioteca Comunale dell’Archiginnasio, A. 3, fol. 130<sup>r</sup> (14th cent.)</p>",
       "line_text": "GA 2482: Bologna, Biblioteca Comunale dell’Archiginnasio, A. 3, fol. 130r (14th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2539: Saint Petersburg, National Library of Russia, Φ. No. 906 / Gr. 667, fol. 165<sup>r</sup> (11th cent.)</p>",
       "line_text": "GA 2539: Saint Petersburg, National Library of Russia, Φ. No. 906 / Gr. 667, fol. 165r (11th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2575: Milan, Biblioteca Ambrosiana, A. 184 sup., fol. 1<sup>r</sup> (16th cent.)</p>",
       "line_text": "GA 2575: Milan, Biblioteca Ambrosiana, A. 184 sup., fol. 1r (16th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2812: Madrid, Biblioteca Nacional de España, Res. 235, fol. 455<sup>r</sup> (10th cent.)</p>",
       "line_text": "GA 2812: Madrid, Biblioteca Nacional de España, Res. 235, fol. 455r (10th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Known manuscripts of the longer edition of <em>Comm. Jn. Ev.</em> include:</p>",
@@ -426,7 +426,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 127: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 349, fol. 293 (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.349\" target=\"_blank\" rel=\"noopener noreferrer\">BAV</a></p>",
       "line_text": "GA 127: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 349, fol. 293 (12th cent.) ~ BAV",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://digi.vatlib.it/view/MSS_Vat.gr.349"
       ]
@@ -435,31 +435,31 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 132: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 361, fols. 228<sup>v</sup>–229<sup>r</sup> (13th/14th cent.)</p>",
       "line_text": "GA 132: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 361, fols. 228v–229r (13th/14th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 147: Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 89, fol. 276 (13th cent.)</p>",
       "line_text": "GA 147: Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 89, fol. 276 (13th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 170: Rome, Biblioteca Vallicelliana, C. 61, fol. 178<sup>v</sup>–179<sup>r</sup> (13th cent.)</p>",
       "line_text": "GA 170: Rome, Biblioteca Vallicelliana, C. 61, fol. 178v–179r (13th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1401: Mount Athos, Monē Pantokratos, 59 (Lambros 1093), fol. 175 (12th cent.)</p>",
       "line_text": "GA 1401: Mount Athos, Monē Pantokratos, 59 (Lambros 1093), fol. 175 (12th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 1448: Mount Athos, Monē Megistēs Lauras, A 13 (Eustratiades 13), fol. 63<sup>v</sup> (12th cent.) ~ <a href=\"https://www.loc.gov/item/0027105077A-ma/\" target=\"_blank\" rel=\"noopener noreferrer\">LOC</a></p>",
       "line_text": "GA 1448: Mount Athos, Monē Megistēs Lauras, A 13 (Eustratiades 13), fol. 63v (12th cent.) ~ LOC",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://www.loc.gov/item/0027105077A-ma/"
       ]
@@ -468,7 +468,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 1490: Mount Athos, Monē Megistēs Lauras, A 065 (Eustratiades 0065), fol. 135 (12th cent.).  ~ <a href=\"http://ntvmr.uni-muenster.de/community/modules/papyri/?site=VMR&amp;image=31490/2780/10\" target=\"_blank\" rel=\"noopener noreferrer\">NTVMR</a></p>",
       "line_text": "GA 1490: Mount Athos, Monē Megistēs Lauras, A 065 (Eustratiades 0065), fol. 135 (12th cent.).  ~ NTVMR",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://ntvmr.uni-muenster.de/community/modules/papyri/?site=VMR&image=31490/2780/10"
       ]
@@ -477,13 +477,13 @@
       "line_html": "<p style=\"padding-left: 40px;\">GA 2367: Princeton, University Library, Garrett MS. 4, fols. 139<sup>v</sup>–140<sup>r</sup> (12th cent.)</p>",
       "line_text": "GA 2367: Princeton, University Library, Garrett MS. 4, fols. 139v–140r (12th cent.)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">GA 2530: Moscow, Russian State Library, Gr. 15, fol. 222 (1321)</p>",
       "line_text": "GA 2530: Moscow, Russian State Library, Gr. 15, fol. 222 (1321)",
       "language": ".2 Short Note on John’s Gospel",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Treu, Kurt. <em>Die griechischen Handschriften des neuen testament in der UdSSR</em>. Texte und Unterschungen 91. Berlin: Akademie-Verlag, 1966 (transcription of <em>Comm. Jn. Ev. </em>from Moscow, Russian State Library, Gr. 15).</p>",

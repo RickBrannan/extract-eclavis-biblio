@@ -15,7 +15,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>A</strong> </span> <span dir=\"ltr\" role=\"presentation\">Paris, Bibliothèque nationale de France, gr. 1115, fols. 233<sup>v</sup>–235<sup>r</sup> (1276) ~ (= BHG 150m) <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50711/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723555f\" target=\"_blank\" rel=\"noopener\">Gallica</a><br/></span></p>",
       "line_text": "A  Paris, Bibliothèque nationale de France, gr. 1115, fols. 233v–235r (1276) ~ (= BHG 150m) Pinakes; Gallica",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/50711/",
         "http://gallica.bnf.fr/ark:/12148/btv1b10723555f"
@@ -25,7 +25,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><span dir=\"ltr\" role=\"presentation\">B</span></strong>   <span dir=\"ltr\" role=\"presentation\">Vienna, Österreichische Nationalbibliothek, theol. gr. 40 (olim 77), fols. 259<sup>v</sup>–261<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/71707/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></span></p>",
       "line_text": "B   Vienna, Österreichische Nationalbibliothek, theol. gr. 40 (olim 77), fols. 259v–261r (13th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/71707/"
       ]
@@ -34,7 +34,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><span dir=\"ltr\" role=\"presentation\">C</span></strong>  <span dir=\"ltr\" role=\"presentation\">Vatican, Biblioteca Apostolica Vaticana, Reg. gr. Pio II 47, fols. 151<sup>v</sup>–153<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/66406/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></span></p>",
       "line_text": "C  Vatican, Biblioteca Apostolica Vaticana, Reg. gr. Pio II 47, fols. 151v–153r (11th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/66406/"
       ]
@@ -43,7 +43,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>D</strong> </span> <span dir=\"ltr\" role=\"presentation\">Oxford, Bodleian Library, Barocci 142, fols. 284<sup>r</sup>–288<sup>r</sup> (14th cent.) ~ apostolic list with Ps.-Dorotheus on disciples (BHG 152k); <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47429/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digital.bodleian.ox.ac.uk/objects/59cc63e5-9b0f-487c-9145-086fbc0005f4/\" target=\"_blank\" rel=\"noopener\">images</a><br/></span></p>",
       "line_text": "D  Oxford, Bodleian Library, Barocci 142, fols. 284r–288r (14th cent.) ~ apostolic list with Ps.-Dorotheus on disciples (BHG 152k); Pinakes; images",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/47429/",
         "https://digital.bodleian.ox.ac.uk/objects/59cc63e5-9b0f-487c-9145-086fbc0005f4/"
@@ -53,7 +53,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>F</strong> </span> <span dir=\"ltr\" role=\"presentation\">Madrid, Biblioteca nacional de España,</span> <span dir=\"ltr\" role=\"presentation\">4644 (olim N. 105), fols. 37<sup>r</sup>–37<sup>v</sup> (ca. 1490) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40124/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://bdh-rd.bne.es/viewer.vm?id=0000243137&amp;page=1\" target=\"_blank\" rel=\"noopener\">images</a><br/></span></p>",
       "line_text": "F  Madrid, Biblioteca nacional de España, 4644 (olim N. 105), fols. 37r–37v (ca. 1490) ~ Pinakes; images",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/40124/",
         "http://bdh-rd.bne.es/viewer.vm?id=0000243137&page=1"
@@ -69,7 +69,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Milan, Biblioteca Ambrosiana, L 49 sup. (Martini-Bassi 484), fols. 116<sup>v</sup>–117<sup>v</sup> (13th cent.) </span><span dir=\"ltr\" role=\"presentation\">~ apostolic list with Ps.-Dorotheus on disciples (BHG 152k); <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42956/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></span></p>",
       "line_text": "Milan, Biblioteca Ambrosiana, L 49 sup. (Martini-Bassi 484), fols. 116v–117v (13th cent.) ~ apostolic list with Ps.-Dorotheus on disciples (BHG 152k); Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/42956/"
       ]
@@ -78,7 +78,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 266 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58641/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271079291-ms\" target=\"_blank\" rel=\"noopener\">LOC</a><br/></span></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 266 (15th cent.) ~ Pinakes; LOC",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/58641/",
         "https://www.loc.gov/item/00271079291-ms"
@@ -94,7 +94,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>O</strong>  Oxford, Bodleian Library, Auct. E. 4. 11, fols. 17<sup>v</sup>–21<sup>v</sup> (15th cent.) ~ copy of Paris, BnF gr. 1115; =BHG150m; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47043/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></span></p>",
       "line_text": "O  Oxford, Bodleian Library, Auct. E. 4. 11, fols. 17v–21v (15th cent.) ~ copy of Paris, BnF gr. 1115; =BHG150m; Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/47043/"
       ]
@@ -103,7 +103,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>S</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr</span>. 976, <span dir=\"ltr\" role=\"presentation\">fols. 56<sup>r</sup>–60<sup>v</sup></span> (16th/17th cent.) ~ BHG 152k; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/59351/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271074992-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "S  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 976, fols. 56r–60v (16th/17th cent.) ~ BHG 152k; Pinakes; LOC",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/59351/",
         "https://www.loc.gov/item/00271074992-ms"
@@ -119,7 +119,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 209 (1364 and 1463) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2505/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3511\" target=\"_blank\" rel=\"noopener\">images</a></span></p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 209 (1364 and 1463) ~ Pinakes; images",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/2505/",
         "http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3511"
@@ -129,7 +129,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Athens, </span>Ethnikē Bibliothēkē tēs Hellados<span dir=\"ltr\" role=\"presentation\">, Metochion tou Panagiou Taphou 190, fols. 45<sup>r</sup>–46<sup>v </sup></span><span dir=\"ltr\" role=\"presentation\">(17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/6587/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></span></p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, Metochion tou Panagiou Taphou 190, fols. 45r–46v (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/6587/"
       ]
@@ -138,7 +138,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 534 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58909/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279380630-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></span></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 534 (17th cent.) ~ Pinakes; LOC",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/58909/",
         "https://www.loc.gov/item/00279380630-ms"
@@ -148,7 +148,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs<span dir=\"ltr\" role=\"presentation\">, gr. 976, fols. 56<sup>r</sup>–60<sup>v</sup> (16th cent.) ~ copy of Paris, BnF gr. 1115; apostolic list with Ps.-Dorotheus on disciples (BHG 152k); <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/59351/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271074992-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></span></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 976, fols. 56r–60v (16th cent.) ~ copy of Paris, BnF gr. 1115; apostolic list with Ps.-Dorotheus on disciples (BHG 152k); Pinakes; LOC",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/59351/",
         "https://www.loc.gov/item/00271074992-ms"
@@ -158,13 +158,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Oxford, Christ Church College, 38 (1312)</span></p>",
       "line_text": "Oxford, Christ Church College, 38 (1312)",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">P<span dir=\"ltr\" role=\"presentation\">aris, Bibliothèque nationale de France, fr. 9467, fols. 14<sup>r</sup>–17<sup>r</sup> (15th–17th cent.) ~ copy of Paris, BnF gr. 1115; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49558/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></span></p>",
       "line_text": "Paris, Bibliothèque nationale de France, fr. 9467, fols. 14r–17r (15th–17th cent.) ~ copy of Paris, BnF gr. 1115; Pinakes",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/49558/"
       ]
@@ -173,7 +173,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 433, fols. 260<sup>r</sup>–262<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67064/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.433\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></span></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 433, fols. 260r–262r (15th cent.) ~ Pinakes; DigiVatLib",
       "language": "Greek",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/67064/",
         "http://digi.vatlib.it/view/MSS_Vat.gr.433"
@@ -219,7 +219,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Nîmes, Bibliothèque Carré d’art de Nîmes, 52, fols. 141<span dir=\"ltr\" role=\"presentation\"><sup>r</sup>–</span>142<span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span> (12th/13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/bd6t5267225z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Nîmes, Bibliothèque Carré d’art de Nîmes, 52, fols. 141r–142v (12th/13th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://gallica.bnf.fr/ark:/12148/bd6t5267225z"
       ]
@@ -237,7 +237,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  <span dir=\"ltr\" role=\"presentation\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. </span>1974, fols. 7<span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span> and 70<span dir=\"ltr\" role=\"presentation\"><sup>r</sup></span>–70<span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68603/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "A  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1974, fols. 7v and 70r–70v (12th cent.) ~ Pinakes",
       "language": ".1 BHG 154e/156n",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68603/"
       ]
@@ -246,7 +246,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>B</strong>  Vatican, Biblioteca Apostolica Vaticana, Reg. gr. Pio II, 47</span>, fols. 151<span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span> –153r<span dir=\"ltr\" role=\"presentation\"><sup>r</sup></span> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/66406/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "B  Vatican, Biblioteca Apostolica Vaticana, Reg. gr. Pio II, 47, fols. 151v –153rr (11th cent.) ~ Pinakes",
       "language": ".1 BHG 154e/156n",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/66406/"
       ]
@@ -255,7 +255,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span dir=\"ltr\" role=\"presentation\"><strong>C</strong>  Paris, Bibliothèque nationale de France,</span> gr. 68, fol. 55<span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49629/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107236674\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "C  Paris, Bibliothèque nationale de France, gr. 68, fol. 55v (12th cent.) ~ Pinakes; Gallica",
       "language": ".1 BHG 154e/156n",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/49629/",
         "http://gallica.bnf.fr/ark:/12148/btv1b107236674"

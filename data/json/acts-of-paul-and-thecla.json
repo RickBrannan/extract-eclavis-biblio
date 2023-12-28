@@ -12,13 +12,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\">Jerusalem, <span class=\"l7\">Holy <span class=\"l6\">Sepulchre, Arabic 200, fols. 76<span class=\"l10\"><sup>r</sup>–</span>77<span class=\"l10\"><sup>v</sup></span> (19</span></span></span><span class=\"a\">th</span><span class=\"a\"> cent. CE) ~ incomplete </span></p>",
       "line_text": "Jerusalem, Holy Sepulchre, Arabic 200, fols. 76r–77v (19th cent. CE) ~ incomplete ",
       "language": "Arabic script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\">Los Angeles, <span class=\"l6\">St. Shenouda <span class=\"l8\">the Archimandrite Coptic <span class=\"l7\">Society, </span></span></span></span><span class=\"a\">ML.MS. 21, fols. 151<span class=\"l6\"><span class=\"l10\"><sup>v</sup>–</span></span>171<span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> (1755 CE) ~ <a href=\"http://www.copticmanuscripts.org/ML_MS_21.htm\" target=\"_blank\" rel=\"noopener\">CATALOG</a></span></p>",
       "line_text": "Los Angeles, St. Shenouda the Archimandrite Coptic Society, ML.MS. 21, fols. 151v–171r (1755 CE) ~ CATALOG",
       "language": "Arabic script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "http://www.copticmanuscripts.org/ML_MS_21.htm"
       ]
@@ -27,7 +27,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 395, item 1 (10th cent.) (1329?) ~ <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz13n36rv\" target=\"_blank\" rel=\"noopener\">Sinai</a>; <a href=\"https://www.loc.gov/item/00279389918-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 395, item 1 (10th cent.) (1329?) ~ Sinai; LOC",
       "language": "Arabic script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz13n36rv",
         "https://www.loc.gov/item/00279389918-ms/"
@@ -37,7 +37,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 457, item 7 (10th cent.) ~ <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz12j7g7m\" target=\"_blank\" rel=\"noopener\">Sinai</a>; <a href=\"https://www.loc.gov/item/00279391160-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 457, item 7 (10th cent.) ~ Sinai; LOC",
       "language": "Arabic script",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz12j7g7m",
         "https://www.loc.gov/item/00279391160-ms/"
@@ -47,19 +47,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, <span class=\"a\">Vat. a<span class=\"l12\">r. 171, fols. 136<span class=\"l6\"><span class=\"l10\"><sup>r</sup>–</span></span>146<span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span> <span class=\"l11\">(17</span></span></span><span class=\"a\">th</span><span class=\"a\"> cent.)</span><span class=\"a\"><br/></span></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 171, fols. 136r–146v (17th cent.)",
       "language": "Arabic script",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\">Charfeh, <span class=\"l8\">Syriac 11/6, <span class=\"l6\">15 (17</span></span></span><span class=\"a\">th</span><span class=\"a\"> cent.)</span></p>",
       "line_text": "Charfeh, Syriac 11/6, 15 (17th cent.)",
       "language": "Garšūnī",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-monastery-of-saint-mark-38/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, <span class=\"l6\">Monastery of <span class=\"l10\">St. Mark, 38, fols. 708<sup>v</sup>–713<sup>v</sup> (1734)</span></span></span></p>",
       "line_text": "Jerusalem, Monastery of St. Mark, 38, fols. 708v–713v (1734)",
       "language": "Garšūnī",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-monastery-of-saint-mark-38/"
       ]
@@ -68,7 +68,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-202/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. <span class=\"l11\">202, <span class=\"l9\"><span class=\"l8\"><span class=\"l10\">fols. 253<span class=\"l6\"><sup>v</sup>–</span></span></span></span>259<span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> <span class=\"l9\">(1672–1676<span class=\"l8\">) </span></span></span></span></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 202, fols. 253v–259r (1672–1676) ",
       "language": "Garšūnī",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-202/"
       ]
@@ -125,55 +125,55 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Ghent, Universitätsbibliothek, Ms. 408, Bdinski sbornik, fols. 39–58 (1360) (=de Santos Otero 2)</p>",
       "line_text": "G  Ghent, Universitätsbibliothek, Ms. 408, Bdinski sbornik, fols. 39–58 (1360) (=de Santos Otero 2)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Lviv, Scientific Library of Ivan Franko National University of Lviv, 203.III, pp. 180–198 (16th cent.) (=de Santos Otero 17)</p>",
       "line_text": "F  Lviv, Scientific Library of Ivan Franko National University of Lviv, 203.III, pp. 180–198 (16th cent.) (=de Santos Otero 17)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  St. Petersburg, National Library of Russia, Pogodin 63, 2 fols. (11th cent.) (=de Santos Otero 1)</p>",
       "line_text": "S  St. Petersburg, National Library of Russia, Pogodin 63, 2 fols. (11th cent.) (=de Santos Otero 1)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>Z </strong> Zagreb, Croatian Academy of Science and Arts,  Fragm. glagoliticum 4, fols. 1–2 (13th cent.) (=de Santos Otero 35)</p>",
       "line_text": "Z  Zagreb, Croatian Academy of Science and Arts,  Fragm. glagoliticum 4, fols. 1–2 (13th cent.) (=de Santos Otero 35)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Lviv, Vasyl Stefanyk National Scientific Library of Ukraine in Lviv, Oss. 38 fols. 301<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span>–308<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span> (16th cent.) (=de Santos Otero 41)</p>",
       "line_text": "Lviv, Vasyl Stefanyk National Scientific Library of Ukraine in Lviv, Oss. 38 fols. 301v–308v (16th cent.) (=de Santos Otero 41)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 351), Kirillo-Belozersky Monastery 47 (124), fols. 56–73 (15th cent.) (=de Santos Otero 42)</p>",
       "line_text": "St. Petersburg, National Library of Russia (F. 351), Kirillo-Belozersky Monastery 47 (124), fols. 56–73 (15th cent.) (=de Santos Otero 42)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, Joseph-Volokolamsk Monastery 366 (559), fols. 457–461 (16th cent.) (=de Santos Otero 43)</p>",
       "line_text": "Moscow, State Historical Museum, Joseph-Volokolamsk Monastery 366 (559), fols. 457–461 (16th cent.) (=de Santos Otero 43)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vilnius, Wroblewski Library of the Lithuanian Academy of Sciences, F19-79, fols. 167<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span></span></span>–173<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span></span></span> (16th cent.) (=de Santos Otero 33)</p>",
       "line_text": "Vilnius, Wroblewski Library of the Lithuanian Academy of Sciences, F19-79, fols. 167r–173r (16th cent.) (=de Santos Otero 33)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vilnius, Wroblewski Library of the Lithuanian Academy of Sciences, F19-103, fols. 167<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span></span></span>–172<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span></span></span> (16th cent.) (=de Santos Otero 34)</p>",
       "line_text": "Vilnius, Wroblewski Library of the Lithuanian Academy of Sciences, F19-103, fols. 167r–172r (16th cent.) (=de Santos Otero 34)",
       "language": "Church Slavic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><em>Bdinski Zbornik: Ghent Slavonic Ms. 408, A.D. 1360.</em> Facsimile edition. London: Variorum, 1972.</p>",
@@ -281,7 +281,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301-london-british-library-or-694319/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Heidelberg, Universität Heidelberg, inv. Kopt. 300+301 + London, British Library, Or. 6943(19) (6th cent.)</p>",
       "line_text": "Heidelberg, Universität Heidelberg, inv. Kopt. 300+301 + London, British Library, Or. 6943(19) (6th cent.)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301-london-british-library-or-694319/"
       ]
@@ -299,19 +299,19 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 689, fols. 31<sup>r</sup>–34<sup>r</sup> (15th cent.)</p>",
       "line_text": "London, British Library, Or. 689, fols. 31r–34r (15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 687–688, fols. 49<sup>r</sup>–51<sup>v</sup>– (18th cent.)</p>",
       "line_text": "London, British Library, Or. 687–688, fols. 49r–51v– (18th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 57<sup>r</sup>–63<sup>v</sup> (14th/15th cent.)</p>",
       "line_text": "Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 57r–63v (14th/15th cent.)",
       "language": "Ethiopic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/"
       ]
@@ -326,7 +326,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Add. 4028 (=P. Oxy. I 6) (5th cent.) ~ <a href=\"https://archive.org/details/oxyrhynchuspapyr01gren/page/8/mode/2up\" target=\"_blank\" rel=\"noopener\">Wikipedia</a></p>",
       "line_text": "Cambridge, University Library, Add. 4028 (=P. Oxy. I 6) (5th cent.) ~ Wikipedia",
       "language": ".1 Papyri",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://archive.org/details/oxyrhynchuspapyr01gren/page/8/mode/2up"
       ]
@@ -335,7 +335,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-sackler-library-papyrology-rooms-p-antinoopolis-13/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Oxford, Sackler Library, Papyrology Rooms, P. Antinoopolis 13 (4th cent.)</p>",
       "line_text": "Oxford, Sackler Library, Papyrology Rooms, P. Antinoopolis 13 (4th cent.)",
       "language": ".1 Papyri",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/oxford-sackler-library-papyrology-rooms-p-antinoopolis-13/"
       ]
@@ -344,7 +344,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munster-bibelmuseum-p-schoyen-ms-2634-1/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Münster, Bibelmuseum, P. Schøyen MS 2634.1 (Fackelmann 3) (3rd cent.)</p>",
       "line_text": "Münster, Bibelmuseum, P. Schøyen MS 2634.1 (Fackelmann 3) (3rd cent.)",
       "language": ".1 Papyri",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/munster-bibelmuseum-p-schoyen-ms-2634-1/"
       ]
@@ -449,7 +449,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1506, fols. 64r–75v (10th cent.) (V-VI) (=Lipsius-Bonnet I) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51124/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10722114g\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1506, fols. 64r–75v (10th cent.) (V-VI) (=Lipsius-Bonnet I) ~ Pinakes; Gallica",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/51124/",
         "http://gallica.bnf.fr/ark:/12148/btv1b10722114g"
@@ -459,7 +459,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Koutloumousiou, 56 (Lambros 3125), fols. 156r–169r (13th cent.) (IV-V-VI, VIII)~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26081/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Mount Athos, Monē Koutloumousiou, 56 (Lambros 3125), fols. 156r–169r (13th cent.) (IV-V-VI, VIII)~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/26081/"
       ]
@@ -468,7 +468,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-185/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Dublin, Trinity College, 185 (olim E. 3.35), fols. 30<sup>r</sup>–39<sup>v</sup> (11th cent.) (VI)</p>",
       "line_text": "Dublin, Trinity College, 185 (olim E. 3.35), fols. 30r–39v (11th cent.) (VI)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-185/"
       ]
@@ -477,7 +477,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Karakallou 8 (Lambros 1521), Mon. 48, fols. 26<sup>r</sup>–32<sup>v</sup> (10th/11th cent.) (VIII) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25577/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://hdl.handle.net/20.500.11957/110349\" target=\"_blank\" rel=\"noopener\">Athos</a></p>",
       "line_text": "Mount Athos, Monē Karakallou 8 (Lambros 1521), Mon. 48, fols. 26r–32v (10th/11th cent.) (VIII) ~ Pinakes; Athos",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/25577/",
         "http://hdl.handle.net/20.500.11957/110349"
@@ -487,7 +487,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Edinburgh, University Library, 225 (Laing 123), pp. 1–16 (11th cent.) (IV-V-VI) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/13738/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Edinburgh, University Library, 225 (Laing 123), pp. 1–16 (11th cent.) (IV-V-VI) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/13738/"
       ]
@@ -496,7 +496,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Clarke 50, fols. 216<sup>r</sup>–227<sup>v</sup> (12th cent.) VII+IV-V-VI~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47787/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Oxford, Bodleian Library, Clarke 50, fols. 216r–227v (12th cent.) VII+IV-V-VI~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/47787/"
       ]
@@ -505,7 +505,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Trias 102, palimpsest; (palimpsest) fols. 196<sup>v</sup>+201<sup>r</sup>, 81<sup>v</sup>+86<sup>r</sup>, 81<sup>r</sup>+86<sup>v</sup>, 144<sup>v</sup>+145<sup>r</sup>, 154<sup>v</sup>+158<sup>r</sup>, 154<sup>r</sup>–158<sup>v</sup>, 157 (11th cent.) (V-VI) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33600/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Trias 102, palimpsest; (palimpsest) fols. 196v+201r, 81v+86r, 81r+86v, 144v+145r, 154v+158r, 154r–158v, 157 (11th cent.) (V-VI) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/33600/"
       ]
@@ -520,7 +520,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-866/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 866, fols. <span lang=\"EN-US\">27<sup>r</sup>–32<sup>r</sup></span> (11th/12th cent.) (V-VI) (=Lipsius-Bonnet F)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 866, fols. 27r–32r (11th/12th cent.) (V-VI) (=Lipsius-Bonnet F)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-866/"
       ]
@@ -529,7 +529,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Auct. E.5.12 (olim Misc. gr. 77), fols. 414<sup>r</sup>–423<sup>v</sup> (12th cent.) (I-II) (=Lipsius-Bonnet H) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47064/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Oxford, Bodleian Library, Auct. E.5.12 (olim Misc. gr. 77), fols. 414r–423v (12th cent.) (I-II) (=Lipsius-Bonnet H) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/47064/"
       ]
@@ -538,7 +538,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, D 92 sup. (gr. 259), fols. 222<sup>r</sup>–228<sup>r</sup> (11th cent.) (VI) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42573/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Milan, Biblioteca Ambrosiana, D 92 sup. (gr. 259), fols. 222r–228r (11th cent.) (VI) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/42573/"
       ]
@@ -547,7 +547,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 22<sup>v</sup>–29<sup>v</sup> (11th/12th cent.) (VI)</p>",
       "line_text": "Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 22v–29v (11th/12th cent.) (VI)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
       ]
@@ -556,7 +556,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Chig. R. VI. 39 (gr. 31), fols. 50<sup>r</sup>–53<sup>r</sup> (12th cent.) (V-VI) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65218/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Chig.R.VI.39\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Chig. R. VI. 39 (gr. 31), fols. 50r–53r (12th cent.) (V-VI) ~ Pinakes; DVL",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/65218/",
         "http://digi.vatlib.it/view/MSS_Chig.R.VI.39"
@@ -566,7 +566,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 526, fols. 33<sup>v</sup>–39<sup>v</sup> (10th cent.) (V-VI) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58901/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279380617-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 526, fols. 33v–39v (10th cent.) (V-VI) ~ Pinakes; LOC",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/58901/",
         "https://www.loc.gov/item/00279380617-ms"
@@ -582,7 +582,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-520/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 520, pp. 39<sup>v</sup>–50<sup>v</sup> (10th/11th cent.) (VII) (=Lipsius-Bonnet A)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 520, pp. 39v–50v (10th/11th cent.) (VII) (=Lipsius-Bonnet A)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-520/"
       ]
@@ -591,7 +591,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1454/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 1454, fols. 72<sup>r</sup>–77<sup>v</sup> (10th cent.) (VII) (=Lipsius-Bonnet B)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1454, fols. 72r–77v (10th cent.) (VII) (=Lipsius-Bonnet B)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1454/"
       ]
@@ -600,7 +600,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ohrid, Naroden Muzej, 4, pp. 17v–35v (10th cent.) (VII, IV-V-VI)</p>",
       "line_text": "Ohrid, Naroden Muzej, 4, pp. 17v–35v (10th cent.) (VII, IV-V-VI)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/"
       ]
@@ -609,7 +609,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Pantokratos, 40 (Lambros 1074), fols. 13<sup>v</sup>–21<sup>v</sup> (11th cent.) (VIII)~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29059/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Mount Athos, Monē Pantokratos, 40 (Lambros 1074), fols. 13v–21v (11th cent.) (VIII)~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/29059/"
       ]
@@ -618,7 +618,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 1468, fols. 38<sup>v</sup>–44<sup>v</sup> (11th cent.) (VII) (=Lipsius C)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 1468, fols. 38v–44v (11th cent.) (VII) (=Lipsius C)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/"
       ]
@@ -627,7 +627,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothekē, Hagiou Saba 30, fols. 24<sup>r</sup>–29<sup>r</sup> (10th/11th cent.) (VII) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34287/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279393739-jo\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Jerusalem, Patriarchikē bibliothekē, Hagiou Saba 30, fols. 24r–29r (10th/11th cent.) (VII) ~ Pinakes; LOC",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/34287/",
         "https://www.loc.gov/item/00279393739-jo"
@@ -637,7 +637,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1238 (palimpsest), fols. 141, 171, 181, 27, 186, 168, 176 (11th cent.) (VII) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67869/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>, <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1238.pt.1\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1238 (palimpsest), fols. 141, 171, 181, 27, 186, 168, 176 (11th cent.) (VII) ~ Pinakes, DVL",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/67869/",
         "http://digi.vatlib.it/view/MSS_Vat.gr.1238.pt.1"
@@ -647,7 +647,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Clarke 43, fols. 16<sup>r</sup>–17<sup>v</sup> (12th cent.) VII~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47780/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Oxford, Bodleian Library, Clarke 43, fols. 16r–17v (12th cent.) VII~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/47780/"
       ]
@@ -662,7 +662,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-barocci-180/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Oxford, Bodleian Library, Barocci 180, fols. 34<sup>r</sup>–42<sup>v</sup> (12th cent.) (III) (=Lipsius-Bonnet G)</p>",
       "line_text": "Oxford, Bodleian Library, Barocci 180, fols. 34r–42v (12th cent.) (III) (=Lipsius-Bonnet G)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-barocci-180/"
       ]
@@ -671,7 +671,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, Rossijskaja Nacional’naja biblioteka, Φ. No. 906 (Gr.) 213, fols. 75<sup>r</sup>–86<sup>r</sup> (12th cent.) (V-VI) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57285/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "St. Petersburg, Rossijskaja Nacional’naja biblioteka, Φ. No. 906 (Gr.) 213, fols. 75r–86r (12th cent.) (V-VI) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/57285/"
       ]
@@ -680,7 +680,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, gr. 1190, fols. 1215<sup>r</sup>–1228<sup>r</sup> (1542) (V-VI) (=Lipsius-Bonnet M)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, gr. 1190, fols. 1215r–1228r (1542) (V-VI) (=Lipsius-Bonnet M)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
       ]
@@ -689,7 +689,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-144-sup/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 20<sup>r</sup>–25<sup>r</sup> (10th/11th cent.) (III)</p>",
       "line_text": "Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 20r–25r (10th/11th cent.) (III)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-144-sup/"
       ]
@@ -698,7 +698,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 32<sup>r</sup>–39<sup>v</sup> (12th cent.) (XII) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68262/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 32r–39v (12th cent.) (XII) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68262/"
       ]
@@ -707,7 +707,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, Rossijskaja Nacional’naja biblioteka, Φ. No. 906 (Gr.) 94, fols. 75<sup>r</sup>–86<sup>r</sup> (12th cent.) (I-II) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57164/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "St. Petersburg, Rossijskaja Nacional’naja biblioteka, Φ. No. 906 (Gr.) 94, fols. 75r–86r (12th cent.) (I-II) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/57164/"
       ]
@@ -722,7 +722,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 36<sup>v</sup>–43<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3323/\">Pinakes</a></p>",
       "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 36v–43r (12th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/3323/"
       ]
@@ -731,7 +731,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Athens, Mouseio Benaki, T.A. 247, fols. 1<sup>r</sup>–3<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3323/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Athens, Mouseio Benaki, T.A. 247, fols. 1r–3v (12th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/3323/"
       ]
@@ -740,7 +740,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Göteborg, Universitetsbibliotek, gr. 1 (palimpsest), fols. 71, 74, 141<sup>r</sup>–143<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17332/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.manuscripta.se/ms/100079#\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Göteborg, Universitetsbibliotek, gr. 1 (palimpsest), fols. 71, 74, 141r–143v (10th/11th cent.) ~ Pinakes; IMAGES",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/17332/",
         "https://www.manuscripta.se/ms/100079#"
@@ -750,7 +750,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Trias 101, fols. 32<sup>v</sup>–38<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33600/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Trias 101, fols. 32v–38v (12th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/33600/"
       ]
@@ -759,7 +759,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-hagios-saba-259/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Jerusalem, Patriarchikē bibliothēkē, Hagios Saba 259, fols. 247<sup>r</sup>–256<sup>v</sup> (11th cent.)</p>",
       "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagios Saba 259, fols. 247r–256v (11th cent.)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-hagios-saba-259/"
       ]
@@ -768,7 +768,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Krakow, Uniwersytet Jagielloński, Biblioteka Jagiellońska Berlin, graec. 1°.43.I (279), fols. 9<sup>r</sup>–11<sup>v </sup>(11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9114/\">Pinakes</a></p>",
       "line_text": "Krakow, Uniwersytet Jagielloński, Biblioteka Jagiellońska Berlin, graec. 1°.43.I (279), fols. 9r–11v (11th/12th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/9114/"
       ]
@@ -777,7 +777,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 28816, fol. 124<sup>v</sup> (12th cent.) ~ excerpt of description of Paul from <em>Acts of Paul</em> 3:2; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/39067/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_28816\" target=\"_blank\" rel=\"noopener\">BL</a></p>",
       "line_text": "London, British Library, Add. 28816, fol. 124v (12th cent.) ~ excerpt of description of Paul from Acts of Paul 3:2; Pinakes; BL",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/39067/",
         "http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_28816"
@@ -787,7 +787,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 30<sup>r</sup>–38<sup>v</sup> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42455/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 30r–38v (11th/12th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/42455/"
       ]
@@ -796,7 +796,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 178 (Vlad 367), fols. 64<sup>r</sup>–75<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43803/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 178 (Vlad 367), fols. 64r–75v (11th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/43803/"
       ]
@@ -805,7 +805,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 86<sup>v</sup>–93<sup>v</sup> (1039)</p>",
       "line_text": "Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 86v–93v (1039)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/"
       ]
@@ -814,7 +814,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Philotheou, 91 (Lambros 1855) (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29456/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Mount Athos, Monē Philotheou, 91 (Lambros 1855) (13th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/29456/"
       ]
@@ -823,7 +823,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 497, fols. 80<sup>v</sup>–87<sup>v</sup> (10th/11th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 497, fols. 80v–87v (10th/11th cent.)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/"
       ]
@@ -832,7 +832,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-519/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 519, fols. 28<sup>v</sup>–33<sup>r</sup> (10th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 519, fols. 28v–33r (10th cent.)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-519/"
       ]
@@ -841,7 +841,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 769, fols. 141<sup>v</sup>–153<sup>r</sup> (11th cent.) (=Lipsius K) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50353/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723790m\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 769, fols. 141v–153r (11th cent.) (=Lipsius K) ~ Pinakes; Gallica",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/50353/",
         "http://gallica.bnf.fr/ark:/12148/btv1b10723790m"
@@ -851,7 +851,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 2988 (palimpsest), fols. 21, 20 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/52630/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723689v\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
       "line_text": "Paris, Bibliothèque nationale de France, gr. 2988 (palimpsest), fols. 21, 20 (10th cent.) ~ Pinakes; Gallica",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/52630/",
         "http://gallica.bnf.fr/ark:/12148/btv1b10723689v"
@@ -861,7 +861,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Chig. R. VI. 39, fols. 42<sup>v</sup>–50<sup>r</sup> (12th cent.)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Chig. R. VI. 39, fols. 42v–50r (12th cent.)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/"
       ]
@@ -870,7 +870,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 68, fols. 81<sup>r</sup>–87<sup>v</sup> (13th cent.) (=Lipsius-Bonnet L) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65801/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Pal.gr.68\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 68, fols. 81r–87v (13th cent.) (=Lipsius-Bonnet L) ~ Pinakes; DVL",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/65801/",
         "http://digi.vatlib.it/view/MSS_Pal.gr.68"
@@ -880,7 +880,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 97, 194, 1, 32, 39, 46, 43, 34 (11th cent.) ~ palimpsest</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 97, 194, 1, 32, 39, 46, 43, 34 (11th cent.) ~ palimpsest",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/"
       ]
@@ -889,7 +889,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 797, fols. 94<sup>v</sup>–105<sup>r</sup> (11th cent.) (=Lipsius-Bonnet E) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67428/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 797, fols. 94v–105r (11th cent.) (=Lipsius-Bonnet E) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/67428/"
       ]
@@ -898,7 +898,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1853/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1853, fols. 99 and 96<sup>v</sup> (10th cent.) ~ fragments only (palimpsest)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1853, fols. 99 and 96v (10th cent.) ~ fragments only (palimpsest)",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1853/"
       ]
@@ -907,7 +907,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1876, fols. 9r–10v, 15r–16v (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68505/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1876\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1876, fols. 9r–10v, 15r–16v (12th/13th cent.) ~ Pinakes; DVL",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/68505/",
         "http://digi.vatlib.it/view/MSS_Vat.gr.1876"
@@ -917,7 +917,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Osterreichische Nationalbibliothek, hist. gr. 96, fol. 79 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70044/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Vienna, Osterreichische Nationalbibliothek, hist. gr. 96, fol. 79 (14th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/70044/"
       ]
@@ -926,7 +926,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Zagora, Dēmosia Istorikē Bibliothēkē, 15, fols. 41<sup>v</sup>–54<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72501/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Zagora, Dēmosia Istorikē Bibliothēkē, 15, fols. 41v–54r (16th cent.) ~ Pinakes",
       "language": ".2 Medieval/Byzantine Manuscripts; a total of 45 manuscripts, with 28 of them containing additional endings",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/72501/"
       ]
@@ -1007,7 +1007,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 252<sup>v</sup>–257<sup>r</sup> (12th cent.) </span></span></p>",
       "line_text": "Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 252v–257r (12th cent.) ",
       "language": "Latin",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/"
       ]
@@ -1016,7 +1016,7 @@
       "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Digby 39, fols. 1v–11v (12th cent.)</p>",
       "line_text": "Oxford, Bodleian Library, Digby 39, fols. 1v–11v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://books.google.ca/books?id=CFc9AAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gebhardt, Oskar von. <em>Passio sanctae Theclae virginis: Die lateinischen Übersetzungen der Acta Pauli et Theclae</em>. TU n.F. 7/2. Leipzig: Hinrichs, 1902 (list of 47 manuscripts, pp. vii–xxxiv; editions of three recensions, pp. 1–184).</p>",
@@ -1049,19 +1049,19 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Wadi El Natrun, Monastery of the Syrians (Dayr al-Suryān), 6 (Murad Kamil, XXVIII) (6th cent.)</p>",
       "line_text": "A  Wadi El Natrun, Monastery of the Syrians (Dayr al-Suryān), 6 (Murad Kamil, XXVIII) (6th cent.)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  London, British Library, Add. 14652, fols. 61<sup>v</sup>–83<sup>r</sup> (6th cent.) (=Wright A)</p>",
       "line_text": "B  London, British Library, Add. 14652, fols. 61v–83r (6th cent.) (=Wright A)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-30/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>C</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 30, upper text fols. 1<sup>r</sup>–21<sup>r</sup> (upper writing dated 698; lower writing 5th/6th cent.)</p>",
       "line_text": "C  Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 30, upper text fols. 1r–21r (upper writing dated 698; lower writing 5th/6th cent.)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-30/"
       ]
@@ -1070,25 +1070,25 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Wadi El Natrun, Monastery of the Syrians (Dayr al-Suryān), 9 (Murad Kamil, XXVII) (8th cent.)</p>",
       "line_text": "D  Wadi El Natrun, Monastery of the Syrians (Dayr al-Suryān), 9 (Murad Kamil, XXVII) (8th cent.)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  London, British Library, Add. 14447, fol. 32<sup>v</sup> (10th cent.) (=Wright B)</p>",
       "line_text": "E  London, British Library, Add. 14447, fol. 32v (10th cent.) (=Wright B)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  London, British Library, Add. 14641, fols. 132<sup>r</sup>–139<sup>r</sup> (10th/11th cent.) (=Wright C)</p>",
       "line_text": "F  London, British Library, Add. 14641, fols. 132r–139r (10th/11th cent.) (=Wright C)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  London, British Library, Add. 12174, fols. 445<sup>r</sup>–448<sup>v</sup> (1197) (=Wright D)</p>",
       "line_text": "G  London, British Library, Add. 12174, fols. 445r–448v (1197) (=Wright D)",
       "language": ".1 West Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Unassigned:</p>",
@@ -1100,7 +1100,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-253/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mardin, Church of the Forty Martyrs, 253 (olim <span class=\"\">Dayr al-Za‘farān 121/7</span>), p. 170 (13th/14th cent.) ~ excerpt of the beatitudes</p>",
       "line_text": "Mardin, Church of the Forty Martyrs, 253 (olim Dayr al-Za‘farān 121/7), p. 170 (13th/14th cent.) ~ excerpt of the beatitudes",
       "language": ".1 West Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-253/"
       ]
@@ -1136,7 +1136,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-597/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>H</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 597, <span class=\"\"><span class=\"Syriac\">fols. 203<sup>r</sup>–225<sup>v</sup></span> </span>(17th cent.)</p>",
       "line_text": "H  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 597, fols. 203r–225v (17th cent.)",
       "language": ".2 East Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-597/"
       ]
@@ -1145,7 +1145,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-75/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>I</strong>  Berlin, Staatsbibliothek zu Berlin, Syr. 75 (Sachau 222), fols. <span class=\"\">559<span class=\"Syriac\"><sup>v</sup>–570</span><span class=\"Syriac\"><sup>r</sup></span></span> (1881) ~ by same scribe as Erbil, OAOC 628</p>",
       "line_text": "I  Berlin, Staatsbibliothek zu Berlin, Syr. 75 (Sachau 222), fols. 559v–570r (1881) ~ by same scribe as Erbil, OAOC 628",
       "language": ".2 East Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-75/"
       ]
@@ -1154,7 +1154,7 @@
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/erbil-chaldean-antonian-order-of-st-hormizd-oaoc-628/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>J </strong> Erbil, Chaldean Antonian Order of St. Hormizd (OAOC), 628 (olim Baghdad, Library of the Chaldean Monastery, 628; olim Alqoš, Notre-Dame des Semences, Scher 112/Vosté 214), <span class=\"\"><span class=\"Syriac\">fols. 321<sup>v</sup>–333</span></span><span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span> (1885)</p>",
       "line_text": "J  Erbil, Chaldean Antonian Order of St. Hormizd (OAOC), 628 (olim Baghdad, Library of the Chaldean Monastery, 628; olim Alqoš, Notre-Dame des Semences, Scher 112/Vosté 214), fols. 321v–333r (1885)",
       "language": ".2 East Syriac",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/erbil-chaldean-antonian-order-of-st-hormizd-oaoc-628/"
       ]
@@ -1163,13 +1163,13 @@
       "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Erbil, Chaldean Antonian Order of St. Hormizd (OAOC), 621 (olim Urmia, Oroomia Mission Library, 212), <span class=\"\"><span class=\"Syriac\">fols. 63<sup>v</sup>–74</span></span><span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span> (19th cent.)</p>",
       "line_text": "K  Erbil, Chaldean Antonian Order of St. Hormizd (OAOC), 621 (olim Urmia, Oroomia Mission Library, 212), fols. 63v–74r (19th cent.)",
       "language": ".2 East Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Edgbaston, University of Birmingham, Mingana syr. 598, <span class=\"\"><span class=\"Syriac\">fols. 70<sup>v</sup>–81<sup>v</sup></span></span> (1932) ~ copy of Erbil, OAOC 621</p>",
       "line_text": "L  Edgbaston, University of Birmingham, Mingana syr. 598, fols. 70v–81v (1932) ~ copy of Erbil, OAOC 621",
       "language": ".2 East Syriac",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 364–74).</p>",
