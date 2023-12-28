@@ -1,0 +1,56 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-stephen-greek/",
+  "nasscal_toc_title": "Martyrdom of Stephen (Greek)",
+  "filename": "martyrdom-of-stephen-greek",
+  "latin_title": "Passio Stephani (graeca)",
+  "abbrev": " Mart. Steph. (Grk.)",
+  "clavis_number": 735,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Paris, Bibliothèque nationale de France, gr. 881, fols. 313<sup>r</sup>–222<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 881, fols. 313r–222r (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 1176, fols. 278<sup>r</sup>–285<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1176, fols. 278r–285r (13th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 261<sup>r</sup>–264<sup>v</sup> (11/12th cent.)</p>",
+      "line_text": "Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 261r–264v (11/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
+      ]
+    },
+    {
+      "line_html": "<p>Bovon, François, and B. Bouvier. “Étienne le premier martyr: du livre canonique au récit apocryphe.” Pages 309–31 in <em>Die Apostelgeschichte und die hellenistische Geschichtsschreibung. Festschrift E. Plümacher. </em>Edited by C. Breytenbach et al. Leiden: Brill, 2004. (=BHG 1649c).</p>",
+      "line_text": "Bovon, François, and B. Bouvier. “Étienne le premier martyr: du livre canonique au récit apocryphe.” Pages 309–31 in Die Apostelgeschichte und die hellenistische Geschichtsschreibung. Festschrift E. Plümacher. Edited by C. Breytenbach et al. Leiden: Brill, 2004. (=BHG 1649c).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

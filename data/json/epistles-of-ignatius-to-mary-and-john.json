@@ -1,0 +1,790 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-ignatius-to-mary-and-john/",
+  "nasscal_toc_title": "Epistles of Ignatius to Mary and John",
+  "filename": "epistles-of-ignatius-to-mary-and-john",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Ep. Ign. John Mary",
+  "clavis_number": 691,
+  "category": "Epistles",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Chaldean Cathedral 12, fols. 170<sup>v</sup>–171<sup>r</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/132214\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Mardin, Chaldean Cathedral 12, fols. 170v–171r (18th cent.) ~ HMML",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/132214"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, Μetochion tou Panagiou Taphou 476, fols. 110–111 (18th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, Μetochion tou Panagiou Taphou 476, fols. 110–111 (18th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>List adapted from Thompson (<em>Writings of Robert Grosseteste</em>) with supplementation. The contents and order of the epistles are indicated (where such information is available) using the following sigla:</p>",
+      "line_text": "List adapted from Thompson (Writings of Robert Grosseteste) with supplementation. The contents and order of the epistles are indicated (where such information is available) using the following sigla:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>1: Ignatius and the brothers who are with him to John<br/>\n2: Ignatius to John<br/>\n3: Ignatius to Mary<br/>\n4: Mary to Ignatius</p>",
+      "line_text": "1: Ignatius and the brothers who are with him to John 2: Ignatius to John 3: Ignatius to Mary 4: Mary to Ignatius",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Admont, Benediktinerstift, Cod. 614, fol. 33 (14th cent.)</p>",
+      "line_text": "Admont, Benediktinerstift, Cod. 614, fol. 33 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aschaffenburg, Hofbibliothek, Ms. 17, fol. 636<sup>v</sup></p>",
+      "line_text": "Aschaffenburg, Hofbibliothek, Ms. 17, fol. 636v",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bologna, Biblioteca comunale dell’Archiginnasio, A. 24, fol. 116<sup>r</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Bologna, Biblioteca comunale dell’Archiginnasio, A. 24, fol. 116r (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Braunschweig, Stadtbibliothek, 157, fols. 56<sup>v</sup>–57<sup>r</sup> (15th cent.). Order: 12.</p>",
+      "line_text": "Braunschweig, Stadtbibliothek, 157, fols. 56v–57r (15th cent.). Order: 12.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek, MS 20132 (VDG 905), fols. 25<sup>v</sup>–26<sup>r</sup> (16th cent.). Order: 1234.</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek, MS 20132 (VDG 905), fols. 25v–26r (16th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek, MS 12014-41 (VDG 1387), fol. 289<sup>v</sup> (14th cent.). Order: 34.</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek, MS 12014-41 (VDG 1387), fol. 289v (14th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek, MS 20026-27 (VDG 1312), fol. 107<sup>r</sup>–107<sup>v</sup> (13th cent.). Order: 1234.</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek, MS 20026-27 (VDG 1312), fol. 107r–107v (13th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, Gonville and Caius College, MS 395, fols. 180<sup>v</sup>–181<sup>r</sup> (England, 1441). Order: 1234.</p>",
+      "line_text": "Cambridge, Gonville and Caius College, MS 395, fols. 180v–181r (England, 1441). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, Gonville and Caius College, MS 445 (copy of MS 395; England, 1631). Order: 1234.</p>",
+      "line_text": "Cambridge, Gonville and Caius College, MS 445 (copy of MS 395; England, 1631). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cesana, Biblioteca Malatestiana, MS Piana 3.161, fol. 96<sup>v</sup> (14th cent.). Order: 4312</p>",
+      "line_text": "Cesana, Biblioteca Malatestiana, MS Piana 3.161, fol. 96v (14th cent.). Order: 4312",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Darmstadt, Universitäts- und Landesbibliothek, Hs 768, fols. 129<sup>v</sup>–130<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Darmstadt, Universitäts- und Landesbibliothek, Hs 768, fols. 129v–130r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, D. 3. 11 (copy of Gonville and Caius 395; 17th cent.). Order: 1234.</p>",
+      "line_text": "Dublin, Trinity College, D. 3. 11 (copy of Gonville and Caius 395; 17th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Düsseldorf, Universitäts- und Landesbibliothek, Ms. B 25, fol. 1<sup>r</sup>. Order: 134.</p>",
+      "line_text": "Düsseldorf, Universitäts- und Landesbibliothek, Ms. B 25, fol. 1r. Order: 134.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Fiecht, Benediktinerabtei Sankt Georgenberg-Fiecht, Cod. 132, fols. 2<sup>v</sup>–3<sup>r</sup> (15th cent.). Order: 3412.</p>",
+      "line_text": "Fiecht, Benediktinerabtei Sankt Georgenberg-Fiecht, Cod. 132, fols. 2v–3r (15th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Plut. 15 dex. 12, fol. 8<sup>r</sup>–8<sup>v</sup> (13th/14th cent.). Order: 3412.</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Plut. 15 dex. 12, fol. 8r–8v (13th/14th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Plut. 23.20, fols. 192<sup>r</sup>–193<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Plut. 23.20, fols. 192r–193r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Strozzi 4, fols. 27<sup>v</sup>–28<sup>r</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Strozzi 4, fols. 27v–28r (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Strozzi 18, fols. 140<sup>v</sup>–141<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Strozzi 18, fols. 140v–141r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Riccardiana, Ricc. 385, fols. 85<sup>v</sup>–87<sup>r</sup> (1473). Order: 1234.</p>",
+      "line_text": "Florence, Biblioteca Riccardiana, Ricc. 385, fols. 85v–87r (1473). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Riccardiana, Ricc. 414, fols. 33<sup>v</sup>–34<sup>r</sup> (15th cent.). Order: 234.</p>",
+      "line_text": "Florence, Biblioteca Riccardiana, Ricc. 414, fols. 33v–34r (15th cent.). Order: 234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Graz, Universitätsbibliothek, Ms. 457, fol. 19<sup>v</sup> (14th cent.).</p>",
+      "line_text": "Graz, Universitätsbibliothek, Ms. 457, fol. 19v (14th cent.).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Heiligenkreuz, Zisterzienserstift, Cod. 41, fols. 192<sup>r</sup>–193<sup>v</sup> (1391). Order: 1234.</p>",
+      "line_text": "Heiligenkreuz, Zisterzienserstift, Cod. 41, fols. 192r–193v (1391). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jena, Thüringer Universitäts- und Landesbibliothek, Ms. El. f. 20, fol. 144<sup>r</sup>–144<sup>v</sup> (13th cent.) Order: 1234.</p>",
+      "line_text": "Jena, Thüringer Universitäts- und Landesbibliothek, Ms. El. f. 20, fol. 144r–144v (13th cent.) Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Klosterneuburg, Augustiner-Chorherrenstift, 205, fol. 1<sup>r</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Klosterneuburg, Augustiner-Chorherrenstift, 205, fol. 1r (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Koblenz, Landeshauptarchiv, Best. 701 Nr. 124, fols. 233<sup>v</sup>–234<sup>r</sup> (14th cent.). Order: 1234.</p>",
+      "line_text": "Koblenz, Landeshauptarchiv, Best. 701 Nr. 124, fols. 233v–234r (14th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Koblenz, Landeshauptarchiv, Best. 701 Nr. 151, fols. 172<sup>v</sup>–173<sup>r</sup> (1470). Order: 3412.</p>",
+      "line_text": "Koblenz, Landeshauptarchiv, Best. 701 Nr. 151, fols. 172v–173r (1470). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Koblenz, Landeshauptarchiv, Best. 701 Nr. 185, fol. 164<sup>v</sup> (1436). Order: 3412.</p>",
+      "line_text": "Koblenz, Landeshauptarchiv, Best. 701 Nr. 185, fol. 164v (1436). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lambach, Benediktinerstift, Cod. 45 (15th cent.). Order: 3412.</p>",
+      "line_text": "Lambach, Benediktinerstift, Cod. 45 (15th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek, Ms 379, fol. 154<sup>v</sup> (13th cent.). Order: 1234.</p>",
+      "line_text": "Leipzig, Universitätsbibliothek, Ms 379, fol. 154v (13th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek, Ms 1541, fol. 20<sup>v</sup> (15th/16th cent.). Order: 4.</p>",
+      "line_text": "Leipzig, Universitätsbibliothek, Ms 1541, fol. 20v (15th/16th cent.). Order: 4.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 21065, fol. 78<sup>r</sup>–78<sup>v</sup> (Italy, 1444). Order: 1234.</p>",
+      "line_text": "London, British Library, Add. 21065, fol. 78r–78v (Italy, 1444). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 22767, fol. 75<sup>r</sup>–75<sup>v</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "London, British Library, Add. 22767, fol. 75r–75v (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 29984, fol. 161<sup>r</sup> (Germany, 15th/16th cent.). Order: 234.</p>",
+      "line_text": "London, British Library, Add. 29984, fol. 161r (Germany, 15th/16th cent.). Order: 234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Harley 232, fol. 7<sup>v</sup> (14th cent.). Order: 1234.</p>",
+      "line_text": "London, British Library, Harley 232, fol. 7v (14th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mainz, Martinus-Bibliothek, Hs. 166 (15th cent.). Order: 1234.</p>",
+      "line_text": "Mainz, Martinus-Bibliothek, Hs. 166 (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mainz, Wissenschaftliche Stadtbibliothek, Hs I 232, fol. 41<sup>r</sup>.</p>",
+      "line_text": "Mainz, Wissenschaftliche Stadtbibliothek, Hs I 232, fol. 41r.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mantova, Biblioteca comunale Teresiana, MS 413 (D.II.7), fols. 85<sup>r</sup>–86<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Mantova, Biblioteca comunale Teresiana, MS 413 (D.II.7), fols. 85r–86r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, 163, pp. 28–29 (15th cent.). Order 3412.</p>",
+      "line_text": "Melk, Stiftsbibliothek, 163, pp. 28–29 (15th cent.). Order 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, 406, pp. 360 (15th cent.). Order: 34.</p>",
+      "line_text": "Melk, Stiftsbibliothek, 406, pp. 360 (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, Cod. 791 (731, N 7 [1]), fols. 126<sup>v</sup>–127<sup>r</sup> (15th cent.). Order: 3412.</p>",
+      "line_text": "Melk, Stiftsbibliothek, Cod. 791 (731, N 7 [1]), fols. 126v–127r (15th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, Cod. 1092 (241, E 31), fol. 135<sup>r</sup>–135<sup>v</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Melk, Stiftsbibliothek, Cod. 1092 (241, E 31), fol. 135r–135v (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, Cod. 1577 (77, B 44), pp. 85–86 (15th cent.). Order: 34.</p>",
+      "line_text": "Melk, Stiftsbibliothek, Cod. 1577 (77, B 44), pp. 85–86 (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, Cod. 1647 (658, L 88), 81<sup>r</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Melk, Stiftsbibliothek, Cod. 1647 (658, L 88), 81r (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, Cod. 1835 (416, H 32), p. 393 (15th cent.). Order: 34.</p>",
+      "line_text": "Melk, Stiftsbibliothek, Cod. 1835 (416, H 32), p. 393 (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, E 69 sup., fols. 108<sup>v</sup>–110<sup>r</sup> (14th cent.). Order: 234.</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, E 69 sup., fols. 108v–110r (14th cent.). Order: 234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, Fonds 183, Nr. 1629, fol. 224<sup>v</sup> (after 1429). Order: 34.</p>",
+      "line_text": "Moscow, Russian State Library, Fonds 183, Nr. 1629, fol. 224v (after 1429). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 468B, fol. 96<sup>v</sup> (15th cent.). Order: 341.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 468B, fol. 96v (15th cent.). Order: 341.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 616, fols. 267<sup>r</sup>–268<sup>r</sup> (1560). Order: 3412.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 616, fols. 267r–268r (1560). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 9556, fol. 62 (13th cent.). Order: 1234.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 9556, fol. 62 (13th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 7547, fol. 67 (15th cent.). Order: 3412.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 7547, fol. 67 (15th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 7666, fol. 229<sup>r</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 7666, fol. 229r (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 7981, fol. 159 (15th cent.). Order: 3412</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 7981, fol. 159 (15th cent.). Order: 3412",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 14081, fol. 199<sup>r</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 14081, fol. 199r (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 14089, fol. 286<sup>v</sup> (1502). Order: 34.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 14089, fol. 286v (1502). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 21237, fol. 195 (14th/15th cent.). Order: 1234.</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 21237, fol. 195 (14th/15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Canon. lat. class. 93, fol. 3<sup>v</sup> (15th/16th cent.). Order: 234.</p>",
+      "line_text": "Oxford, Bodleian Library, Canon. lat. class. 93, fol. 3v (15th/16th cent.). Order: 234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Canon. Misc. 32, fol. 69<sup>v</sup>–70<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Oxford, Bodleian Library, Canon. Misc. 32, fol. 69v–70r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Laud Misc. 171, fol. 140 (13th cent.). Order: 3412.</p>",
+      "line_text": "Oxford, Bodleian Library, Laud Misc. 171, fol. 140 (13th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Lincoln College, MS 101, fols. 48<sup>v</sup>–49<sup>r</sup> (15th cent.). Order: 3412.</p>",
+      "line_text": "Oxford, Lincoln College, MS 101, fols. 48v–49r (15th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Magdalen College, MS 76, fol. 213<sup>r</sup>–213<sup>v</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Oxford, Magdalen College, MS 76, fol. 213r–213v (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Padua, Biblioteca Universitaria, 1108, fols. 190<sup>v</sup>–191<sup>r</sup> (1572). Order: 34.</p>",
+      "line_text": "Padua, Biblioteca Universitaria, 1108, fols. 190v–191r (1572). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Padua, Biblioteca Universitaria, 1305, fols. 89<sup>v</sup>–90<sup>r</sup> (14th cent.). Order: 3412.</p>",
+      "line_text": "Padua, Biblioteca Universitaria, 1305, fols. 89v–90r (14th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Padua, Biblioteca Universitaria, 1473, fols. 140<sup>v</sup>–141<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Padua, Biblioteca Universitaria, 1473, fols. 140v–141r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 1150, fol. 45<sup>v</sup> (15th cent.). Order: 34.</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 1150, fol. 45v (15th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 2049, fol. 226 (14th cent.). Order: 34.</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 2049, fol. 226 (14th cent.). Order: 34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3159, fol. 6 (15th cent.). Order: 4.</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 3159, fol. 6 (15th cent.). Order: 4.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3522A, fols. 90<sup>v</sup>–91<sup>v</sup> (13th/14th cent.). Order: 342.</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 3522A, fols. 90v–91v (13th/14th cent.). Order: 342.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 4154, fol. 214. (15th cent.). Order: 1234.</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 4154, fol. 214. (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5030, fol. 425 (15th cent.). Order: 1234.</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5030, fol. 425 (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Pisa, Biblioteca Catharianiana 136, fol. 89<sup>r</sup>–89<sup>v</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Pisa, Biblioteca Catharianiana 136, fol. 89r–89v (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Prague, Národní knihovna České republiky, IV.B.11, fols. 336<sup>v</sup>–337<sup>r</sup> (15th cent.). Order: 2134.</p>",
+      "line_text": "Prague, Národní knihovna České republiky, IV.B.11, fols. 336v–337r (15th cent.). Order: 2134.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Prague, Národní knihovna České republiky, IX.E.2, fols. 101b<sup>v</sup>–101c<sup>r</sup> (15th cent.). Order: 2134.</p>",
+      "line_text": "Prague, Národní knihovna České republiky, IX.E.2, fols. 101bv–101cr (15th cent.). Order: 2134.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Prague, Národní knihovna České republiky, X.H.12, fol. 73<sup>r</sup>–73<sup>v</sup> (1472). Order: 2134.</p>",
+      "line_text": "Prague, Národní knihovna České republiky, X.H.12, fol. 73r–73v (1472). Order: 2134.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Prague, Knihovna metropolitní kapituli, 1054 fols. 23<sup>v</sup>–24<sup>r</sup> (15th cent.). Order: 1234; fols. 69<sup>v</sup>–70<sup>r</sup> (15th cent.). Order: 1234.</p>",
+      "line_text": "Prague, Knihovna metropolitní kapituli, 1054 fols. 23v–24r (15th cent.). Order: 1234; fols. 69v–70r (15th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, MS D 21, fol. 246<sup>r</sup>–246<sup>v</sup> (15th cent.). Order: 234.</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, MS D 21, fol. 246r–246v (15th cent.). Order: 234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Salzburg, Stiftsbibliothek Sankt Peter, a. VI. 34, fol. 58<sup>r</sup>–58<sup>v</sup> (13th/14th cent.). Order: 1234.</p>",
+      "line_text": "Salzburg, Stiftsbibliothek Sankt Peter, a. VI. 34, fol. 58r–58v (13th/14th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">San Gimignano, Biblioteca e Archivio Comunale, 41, fol. 150v (1459). Order: 1234.</p>",
+      "line_text": "San Gimignano, Biblioteca e Archivio Comunale, 41, fol. 150v (1459). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sankt Florian, Augustiner-Chorherrenstift, 126, fol. 6<sup>r</sup>–6<sup>v</sup> (14th cent) Order: 1234.</p>",
+      "line_text": "Sankt Florian, Augustiner-Chorherrenstift, 126, fol. 6r–6v (14th cent) Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sankt Gallen, Stiftsbibliothek, 454, p. 368 (13th cent.). Excerpts.</p>",
+      "line_text": "Sankt Gallen, Stiftsbibliothek, 454, p. 368 (13th cent.). Excerpts.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Siena, Biblioteca Comunale degli Intronati, E.IV.16, fol. 3<sup>r</sup>–? (15th cent.)</p>",
+      "line_text": "Siena, Biblioteca Comunale degli Intronati, E.IV.16, fol. 3r–? (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Todi, Biblioteca Comunale «Lorenzo Leonii», 136 (Menestò: 86), fol. 98<sup>v</sup> (13th cent.). Order: 1234.</p>",
+      "line_text": "Todi, Biblioteca Comunale «Lorenzo Leonii», 136 (Menestò: 86), fol. 98v (13th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Todi, Biblioteca Comunale «Lorenzo Leonii», 195 bis (Menestò: 94), fol. 180<sup>v</sup> (16th cent.).</p>",
+      "line_text": "Todi, Biblioteca Comunale «Lorenzo Leonii», 195 bis (Menestò: 94), fol. 180v (16th cent.).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tours, Bibliothèque municipale, MS 247, fol. 483<sup>r</sup>–483<sup>v</sup> (13th cent.). Order: 1234.</p>",
+      "line_text": "Tours, Bibliothèque municipale, MS 247, fol. 483r–483v (13th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 524, fols. 155<sup>r</sup>–156<sup>r</sup> (15th/16th cent.). Order: 1234.</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 524, fols. 155r–156r (15th/16th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 672, fol. 50<sup>r</sup> (13th cent.). Order: 1234.</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 672, fol. 50r (13th cent.). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 1262, fol. 213<sup>r</sup>–213<sup>v</sup> (15th cent). Order: 12.</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 1262, fol. 213r–213v (15th cent). Order: 12.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, Cod. 695, fol. 87 (1344). Order: 3412.</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 695, fol. 87 (1344). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, Cod. 812, fols. 103–104 (13th cent.). Order 1234.</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 812, fols. 103–104 (13th cent.). Order 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-930/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 930, fols. 216<sup>r</sup>–217<sup>v </sup>(1488). Order: 3421.</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 930, fols. 216r–217v (1488). Order: 3421.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-930/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Schottenkloster, Cod. 286 (Hübl no. 290), fol. 12v (1464). Order: 1234.</p>",
+      "line_text": "Vienna, Schottenkloster, Cod. 286 (Hübl no. 290), fol. 12v (1464). Order: 1234.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Würzburg, Universitätsbibliothek<strong>,</strong> M. ch. q. 156, fols. 270<sup>r</sup>–271<sup>r</sup> (15th cent.). Order: 3412.</p>",
+      "line_text": "Würzburg, Universitätsbibliothek, M. ch. q. 156, fols. 270r–271r (15th cent.). Order: 3412.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Becket, Thomas. <em>Vita et processus sancti Thome Cantuariensis martyris super ecclesiastica libertate</em>. Paris: Johannes Philippi, 1495 (Latin text to the life and correspondence of Thomas Becket).</p>",
+      "line_text": "Becket, Thomas. Vita et processus sancti Thome Cantuariensis martyris super ecclesiastica libertate. Paris: Johannes Philippi, 1495 (Latin text to the life and correspondence of Thomas Becket).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Cotelier, Jean-Baptiste. <em>SS. Patrum qui temporibus apostolicis floruerunt; Barnabae, Clementis, Hermae, Ignatii, Polycarpi; Opera edita et inedita, vera et suppositicia. Una cum Clementis, Ignatii, Polycarpi Actis atque Martyriis. </em>2 vols. Antwerp, 1698.</p>",
+      "line_text": "Cotelier, Jean-Baptiste. SS. Patrum qui temporibus apostolicis floruerunt; Barnabae, Clementis, Hermae, Ignatii, Polycarpi; Opera edita et inedita, vera et suppositicia. Una cum Clementis, Ignatii, Polycarpi Actis atque Martyriis. 2 vols. Antwerp, 1698.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/corpusignatianu00ignagoog/page/n274/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cureton, William. <em>Corpus Ignatianum: A Complete Collection of the Ignatian Epistles, Genuine, Interpolated, and Spurious; Together with Numerous Extracts from Them, as Quoted by Ecclesiastical Writers Down to the Tenth Century; in Syriac, Greek, and Latin: An English Translation of the Syriac Text, Copious Notes, and Introduction. </em>London: Rivington, 1849 (Latin text, pp. 156–57).</p>",
+      "line_text": "Cureton, William. Corpus Ignatianum: A Complete Collection of the Ignatian Epistles, Genuine, Interpolated, and Spurious; Together with Numerous Extracts from Them, as Quoted by Ecclesiastical Writers Down to the Tenth Century; in Syriac, Greek, and Latin: An English Translation of the Syriac Text, Copious Notes, and Introduction. London: Rivington, 1849 (Latin text, pp. 156–57).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/corpusignatianu00ignagoog/page/n274/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Diekamp, Franz, and Franz Xavier Funk. <em>Patres Apostolici</em>. 3rd ed. 2 vols. Tübingen: H. Laupp, 1913.</p>",
+      "line_text": "Diekamp, Franz, and Franz Xavier Funk. Patres Apostolici. 3rd ed. 2 vols. Tübingen: H. Laupp, 1913.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrumapostolic00polygoog/page/n410/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dressel, Albert Rudolph Maximilian, and Constantin von Tischendorf, eds. <em>Patrum Apostolicorum opera. Textum ad fidem codicum et Graecorum et Latinorum, ineditorum copia insignium, adhibitis praestantissimis editionibus, notis illustravit, versione Latina passim correcta, prolegomenis, indicibus instruxit Albertus Rud. Max. Dressel. Accedit Hermae Pastor ex fragmentis Graecis Lipsiensibus, instituta quaestione de vero eius textus fonte, auctore Constantino Tischendorf</em>. Leipzig: Hinrichs, 1857. (Latin text, pp. 348–49, Mary’s letter to Ignatius excluded.)</p>",
+      "line_text": "Dressel, Albert Rudolph Maximilian, and Constantin von Tischendorf, eds. Patrum Apostolicorum opera. Textum ad fidem codicum et Graecorum et Latinorum, ineditorum copia insignium, adhibitis praestantissimis editionibus, notis illustravit, versione Latina passim correcta, prolegomenis, indicibus instruxit Albertus Rud. Max. Dressel. Accedit Hermae Pastor ex fragmentis Graecis Lipsiensibus, instituta quaestione de vero eius textus fonte, auctore Constantino Tischendorf. Leipzig: Hinrichs, 1857. (Latin text, pp. 348–49, Mary’s letter to Ignatius excluded.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrumapostolic00polygoog/page/n410/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/CodexApocryphusNoviTestamenti1.2/page/n947/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 3 vols. Hamburg: Schiller, 1703–1719 (discussion, vol. 1, pp. 834–41; edition of the Latin correspondence of Ignatius and Mary, vol. 1, pp. 841–44).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 3 vols. Hamburg: Schiller, 1703–1719 (discussion, vol. 1, pp. 834–41; edition of the Latin correspondence of Ignatius and Mary, vol. 1, pp. 841–44).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/CodexApocryphusNoviTestamenti1.2/page/n947/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Funk, Franz Xavier. <em>Opera patrum apostolicorum: textum recensuit, adnotationibus criticis exegeticis historicis illustravit, versionem latinam, prolegomena indicies addidit</em>. 2 vols. Tübingen: Laupp, 1878–1881.</p>",
+      "line_text": "Funk, Franz Xavier. Opera patrum apostolicorum: textum recensuit, adnotationibus criticis exegeticis historicis illustravit, versionem latinam, prolegomena indicies addidit. 2 vols. Tübingen: Laupp, 1878–1881.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus01gilegoog/page/n70/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, John A. <em>Codex apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings, referring to the First Ages of Christianity; in the Original Languages: Collected Together from the Editions of Fabricius, Thilo, and Others. </em>2 vols. London: Nutt, 1852 (Latin text, vol. 2, pp. 516–18).</p>",
+      "line_text": "Giles, John A. Codex apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings, referring to the First Ages of Christianity; in the Original Languages: Collected Together from the Editions of Fabricius, Thilo, and Others. 2 vols. London: Nutt, 1852 (Latin text, vol. 2, pp. 516–18).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus01gilegoog/page/n70/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Legarde, Paul de, ed. <em>Die lateinischen übersetzungen des Ignatius. </em>Göttingen: Dieterich, 1882 (Latin text with critical apparatus, pp. 155–56)..</p>",
+      "line_text": "Legarde, Paul de, ed. Die lateinischen übersetzungen des Ignatius. Göttingen: Dieterich, 1882 (Latin text with critical apparatus, pp. 155–56)..",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/p2apostolicfathe01clemuoft/page/76/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lightfoot, Joseph Barber, ed. <em>The Apostolic Fathers, Part II. S. Ignatius. S. Polycarp. Revised Texts with Introductions, Notes, Dissertations, and Translations</em>. 2nd ed. 3 vols. London: Macmillan, 1889 (discussion at vol. 1, pp. 76–79; <a href=\"https://archive.org/details/p2apostolicfathe01clemuoft/page/232/mode/2up\" target=\"_blank\" rel=\"noopener\">233–37</a>; edition of the Latin, vol. 3, pp. <a href=\"https://archive.org/details/apostolicfathep2v3clemuoft/page/68/mode/2up\" target=\"_blank\" rel=\"noopener\">69–72</a>).</p>",
+      "line_text": "Lightfoot, Joseph Barber, ed. The Apostolic Fathers, Part II. S. Ignatius. S. Polycarp. Revised Texts with Introductions, Notes, Dissertations, and Translations. 2nd ed. 3 vols. London: Macmillan, 1889 (discussion at vol. 1, pp. 76–79; 233–37; edition of the Latin, vol. 3, pp. 69–72).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/p2apostolicfathe01clemuoft/page/76/mode/2up",
+        "https://archive.org/details/p2apostolicfathe01clemuoft/page/232/mode/2up",
+        "https://archive.org/details/apostolicfathep2v3clemuoft/page/68/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus93migngoog/page/n480/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 5. Paris: Cerf, 1857 (Latin text with critical apparatus, pp. 941–46).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 5. Paris: Cerf, 1857 (Latin text with critical apparatus, pp. 941–46).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus93migngoog/page/n480/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/en/view/bsb00041897?page=1\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nicolaus of Gora. <em>Postilla super epistulas sancti Pauli. </em>Cologne: Johann Koelhoff der Ältere, 1478 (Latin text added at the end of the edition of Nicolaus’s commentary).</p>",
+      "line_text": "Nicolaus of Gora. Postilla super epistulas sancti Pauli. Cologne: Johann Koelhoff der Ältere, 1478 (Latin text added at the end of the edition of Nicolaus’s commentary).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb00041897?page=1"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/signatiipatrisap00igna/page/436/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Petermann, Julius Heinrich. <em>S. Ignatii Patris apostolici quae feruntur epistolae una cum ejusdem martyrio: collatis edd. Graecis versionibusque Syriaca, Armeniaca, Latinis. </em>Leipzig: Vogel, 1849 (Latin text, pp. 437–41).</p>",
+      "line_text": "Petermann, Julius Heinrich. S. Ignatii Patris apostolici quae feruntur epistolae una cum ejusdem martyrio: collatis edd. Graecis versionibusque Syriaca, Armeniaca, Latinis. Leipzig: Vogel, 1849 (Latin text, pp. 437–41).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/signatiipatrisap00igna/page/436/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Plummer, Alfred. <em>The Epistles of S. John, with Notes, Introduction and Appendices</em>. Cambridge Greek Testament for Schools and Colleges. Cambridge: Cambridge University Press, 1886 (pp. 191–93).</p>",
+      "line_text": "Plummer, Alfred. The Epistles of S. John, with Notes, Introduction and Appendices. Cambridge Greek Testament for Schools and Colleges. Cambridge: Cambridge University Press, 1886 (pp. 191–93).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Russel, Richard. <em>SS. Patrum Apostolicorum. Barnabae, Hermae, Clementis, Ignatii, Polycarpi, opera genuina; una cum Ignatii &amp; Polycarpi Martyriis, versionibus antiquis ac recentioribus, variantibus lectionibus, selectisque variorum notis illustrate. Accesserunt S. Ignatii Epistolae, tum interpolatae, tum supposititiae</em>. 2 vols. London: Gulielmum Russel, 1746.</p>",
+      "line_text": "Russel, Richard. SS. Patrum Apostolicorum. Barnabae, Hermae, Clementis, Ignatii, Polycarpi, opera genuina; una cum Ignatii &amp; Polycarpi Martyriis, versionibus antiquis ac recentioribus, variantibus lectionibus, selectisque variorum notis illustrate. Accesserunt S. Ignatii Epistolae, tum interpolatae, tum supposititiae. 2 vols. London: Gulielmum Russel, 1746.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ussher, James. <em>Polycarpi et Ignatii Epistolae. Quibus praefixa est, non de Ignatii solum et Polycarpi scriptis, sed etiam de apostolicis constitionibus et canonibus Clementi Romano tributis, Iacobi Usserii dissertation. </em>Oxford: Licfield, 1644.</p>",
+      "line_text": "Ussher, James. Polycarpi et Ignatii Epistolae. Quibus praefixa est, non de Ignatii solum et Polycarpi scriptis, sed etiam de apostolicis constitionibus et canonibus Clementi Romano tributis, Iacobi Usserii dissertation. Oxford: Licfield, 1644.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ned-kbn-all-00001635-001/page/n132/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Voss, Isaac. <em>Epistolae Genuinae S. Ignatii Martyris; quae nunc primum lucem vident ex bibliotheca Florentina. Adduntur S. Ignatii Epistolae quales vulgo circumferunter. Adhaec S. Barnabae Epistola Accessit universis translation vetus.</em> Amsterdam: Blaeu, 1646 (Latin text, pp. 113–14).</p>",
+      "line_text": "Voss, Isaac. Epistolae Genuinae S. Ignatii Martyris; quae nunc primum lucem vident ex bibliotheca Florentina. Adduntur S. Ignatii Epistolae quales vulgo circumferunter. Adhaec S. Barnabae Epistola Accessit universis translation vetus. Amsterdam: Blaeu, 1646 (Latin text, pp. 113–14).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ned-kbn-all-00001635-001/page/n132/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Zahn, Theodor. <em>Ignatii et Polycarpi. Epistulae martyria fragmenta. </em>Vol. 2 of <em>Patrum Apostolicorum Opera. </em>Edited by Oscar van Gebhardt, Adolf von Harnack, and Theodor Zahn. Leipzig: Hinrichs, 1876 (Latin text, pp. 297–300).</p>",
+      "line_text": "Zahn, Theodor. Ignatii et Polycarpi. Epistulae martyria fragmenta. Vol. 2 of Patrum Apostolicorum Opera. Edited by Oscar van Gebhardt, Adolf von Harnack, and Theodor Zahn. Leipzig: Hinrichs, 1876 (Latin text, pp. 297–300).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span id=\"srctrans\"><span id=\"srced\"><a href=\"https://archive.org/details/antenicenefathers01robe/page/122/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Roberts, Alexander, James Donaldson, and A. Cleveland Coxe, eds. </span></span><span id=\"srcwork\"><em>Ante-Nicene Fathers</em>.</span> <span id=\"srcvolume\">Vol. 1.</span> Buffalo<span id=\"srcpublisher\">, NY: Christian Literature Publishing Co.,</span> <span id=\"srcyear\">1885 (pp. 122–26).</span></p>",
+      "line_text": "Roberts, Alexander, James Donaldson, and A. Cleveland Coxe, eds. Ante-Nicene Fathers. Vol. 1. Buffalo, NY: Christian Literature Publishing Co., 1885 (pp. 122–26).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/antenicenefathers01robe/page/122/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Given, J. Gregory, trans. “Correspondence of Ignatius with John the Evangelist and the Virgin Mary.” Pages 509–24 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke with Brent Landau. 3 vols. Grand Rapids: Eerdmans, 2016–2023 (translation based on the edition of Lightfoot).</p>",
+      "line_text": "Given, J. Gregory, trans. “Correspondence of Ignatius with John the Evangelist and the Virgin Mary.” Pages 509–24 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke with Brent Landau. 3 vols. Grand Rapids: Eerdmans, 2016–2023 (translation based on the edition of Lightfoot).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Stewart, Alistair. <em>Ignatius of Antioch: The Letters</em>. Popular Patristics 49<em>. </em>Yonkers, NY: St. Vladimir’s Seminary Press, 2013 (translation based on the edition of Lightfoot, pp. 255–57).</p>",
+      "line_text": "Stewart, Alistair. Ignatius of Antioch: The Letters. Popular Patristics 49. Yonkers, NY: St. Vladimir’s Seminary Press, 2013 (translation based on the edition of Lightfoot, pp. 255–57).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Gibbings, Richard. <em>Roman Forgeries and Falsifications: Or, an Examination of Counterfeit and Corrupted Records; With Especial Reference to Popery</em>. <em>Part 1. </em>Dublin: Grant and Bolton, 1842 (see pp. 16–24).</p>",
+      "line_text": "Gibbings, Richard. Roman Forgeries and Falsifications: Or, an Examination of Counterfeit and Corrupted Records; With Especial Reference to Popery. Part 1. Dublin: Grant and Bolton, 1842 (see pp. 16–24).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lookadoo, Jonathan. “Expanding the Narrative: The Reception of Ignatius of Antioch in Britain, ca. 1200–1700.” <em>Church History</em> 89 (2020): 1–23 (see pp. 11–13).</p>",
+      "line_text": "Lookadoo, Jonathan. “Expanding the Narrative: The Reception of Ignatius of Antioch in Britain, ca. 1200–1700.” Church History 89 (2020): 1–23 (see pp. 11–13).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Thomson, S. Harrison. <em>The Writings of Robert Grosseteste, Bishop of Lincoln: 1235–1253</em>. Cambridge: Cambridge University Press, 1940 (see pp. 58–62).</p>",
+      "line_text": "Thomson, S. Harrison. The Writings of Robert Grosseteste, Bishop of Lincoln: 1235–1253. Cambridge: Cambridge University Press, 1940 (see pp. 58–62).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vinzent, Markus. <em>Writing the History of Early Christianity: From Reception to Retrospection. </em>Cambridge: Cambridge University Press, 2019 (see pp. 402–409).</p>",
+      "line_text": "Vinzent, Markus. Writing the History of Early Christianity: From Reception to Retrospection. Cambridge: Cambridge University Press, 2019 (see pp. 402–409).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ignatiusvonanti01zahngoog/page/n102/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Zahn, Theodor. <em>Ignatius von Antiochien</em>. Göttingen: Perthes, 1873 (see pp. 81–82).</p>",
+      "line_text": "Zahn, Theodor. Ignatius von Antiochien. Göttingen: Perthes, 1873 (see pp. 81–82).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/ignatiusvonanti01zahngoog/page/n102/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

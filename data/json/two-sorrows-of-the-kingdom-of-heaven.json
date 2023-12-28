@@ -1,0 +1,179 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/two-sorrows-of-the-kingdom-of-heaven/",
+  "nasscal_toc_title": "Two Sorrows of the Kingdom of Heaven",
+  "filename": "two-sorrows-of-the-kingdom-of-heaven",
+  "latin_title": "Dá Brón Flatha Nime",
+  "abbrev": "Two Sorrows",
+  "clavis_number": 575,
+  "category": "Apocalypses",
+  "compiler": "Stephen C. E. Hopkins, University of Central Florida",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Redaction 1</p>",
+      "line_text": "Redaction 1",
+      "language": "Middle Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong>  Dublin, Royal Irish Academy, 23 E 25 (1229) (<em>Lebor na hUidre</em>), pp. 17<sup>r</sup>–18<sup>r </sup>(11th/12th cent.) ~ <a href=\"https://www.isos.dias.ie/RIA/RIA_MS_23_E_25.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "U  Dublin, Royal Irish Academy, 23 E 25 (1229) (Lebor na hUidre), pp. 17r–18r (11th/12th cent.) ~ IMAGES",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.isos.dias.ie/RIA/RIA_MS_23_E_25.html"
+      ]
+    },
+    {
+      "line_html": "<p>Redaction 2</p>",
+      "line_text": "Redaction 2",
+      "language": "Middle Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong> Dublin, Trinity College, 1339 (H.2.18) (<em>Book of Leinster / Lebar na Núachongbála</em>), fols. 280<sup>r</sup>–281<sup>r </sup>(12th cent.) ~ <a href=\"https://www.isos.dias.ie/TCD/TCD_MS_1339.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "L Dublin, Trinity College, 1339 (H.2.18) (Book of Leinster / Lebar na Núachongbála), fols. 280r–281r (12th cent.) ~ IMAGES",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.isos.dias.ie/TCD/TCD_MS_1339.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Dublin, Trinity College, 1318 (H.2.16) (<em>Yellow Book of Lecan</em>), cols. 771–772 (14th/15th cent.) ~ <a href=\"https://www.isos.dias.ie/TCD/TCD_MS_1318.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Y  Dublin, Trinity College, 1318 (H.2.16) (Yellow Book of Lecan), cols. 771–772 (14th/15th cent.) ~ IMAGES",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.isos.dias.ie/TCD/TCD_MS_1318.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Royal Irish Academy, 23 O 48 a-b (476) (<em>Liber Flavius Fergusiorum</em>), vol. 1, fols. 15<sup>r</sup>–15<sup>v </sup>(1437) ~ <a href=\"https://www.isos.dias.ie/RIA/RIA_MS_23_O_48_a.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "O  Royal Irish Academy, 23 O 48 a-b (476) (Liber Flavius Fergusiorum), vol. 1, fols. 15r–15v (1437) ~ IMAGES",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.isos.dias.ie/RIA/RIA_MS_23_O_48_a.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Dublin, Royal Irish Academy, 23 E 29 (1134) (<em>Book of Fermoy</em>), pp. 114<sup>r</sup>–115<sup>v </sup>(14th–16th cent.) ~ <a href=\"https://www.isos.dias.ie/RIA/RIA_MS_23_E_29.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "F  Dublin, Royal Irish Academy, 23 E 29 (1134) (Book of Fermoy), pp. 114r–115v (14th–16th cent.) ~ IMAGES",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.isos.dias.ie/RIA/RIA_MS_23_E_29.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque nationale de France, Fonds celtique 1, fols. 27<sup>v</sup>–28<sup>r </sup>(15th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100378503\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, Fonds celtique 1, fols. 27v–28r (15th cent.) ~ GALLICA",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100378503"
+      ]
+    },
+    {
+      "line_html": "<p>Best, Richard I., and Osborn J. Bergin. <em>Lebor na hUidre.</em> Dublin, 1929 (pp. 47–49).</p>",
+      "line_text": "Best, Richard I., and Osborn J. Bergin. Lebor na hUidre. Dublin, 1929 (pp. 47–49).",
+      "language": "Middle Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Best, Richard I., Osborn J. Bergin, M. A. O’Brien, and Anne O’Sullivan. <em>The Book of Leinster</em>. 6 vols. Dublin, 1954-1983 (vol. 5, pp. 1227–28).</p>",
+      "line_text": "Best, Richard I., Osborn J. Bergin, M. A. O’Brien, and Anne O’Sullivan. The Book of Leinster. 6 vols. Dublin, 1954-1983 (vol. 5, pp. 1227–28).",
+      "language": "Middle Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Carey, John. “Dá Brón Flatha Nime: The Two Sorrows of the Kingdom of Heaven.” Pages 173–221 in <em>Apocrypha Hiberniae II, Apocalyptica 2</em>. CCSA 21. Turnhout: Brepols 2019.</p>",
+      "line_text": "Carey, John. “Dá Brón Flatha Nime: The Two Sorrows of the Kingdom of Heaven.” Pages 173–221 in Apocrypha Hiberniae II, Apocalyptica 2. CCSA 21. Turnhout: Brepols 2019.",
+      "language": "Middle Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Herbert, Máire, trans. “The Two Sorrows of the Kingdom of Heaven.” Pages 19–21 in <em>Irish Biblical Apocrypha: Selected Texts in Translation</em>. Edited by Máire Herbert and Martin McNamara. Edinburgh: T&amp;T Clark, 1989.</p>",
+      "line_text": "Herbert, Máire, trans. “The Two Sorrows of the Kingdom of Heaven.” Pages 19–21 in Irish Biblical Apocrypha: Selected Texts in Translation. Edited by Máire Herbert and Martin McNamara. Edinburgh: T&amp;T Clark, 1989.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Volmering, Nicole. “<em>Dá brón flatha nime</em>: A Semi-diplomatic Edition, Translation and Verbal Analysis of Version LL fol. 280a–281a.” M. Phil. diss., Trinity College, Dublin, 2009</p>",
+      "line_text": "Volmering, Nicole. “Dá brón flatha nime: A Semi-diplomatic Edition, Translation and Verbal Analysis of Version LL fol. 280a–281a.” M. Phil. diss., Trinity College, Dublin, 2009",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Dottin, Georges, ed. and trans. “Les deux chagrins du royaume du ciel.” <em>Revue Celtique</em> 21 (1900): 349–87.</p>",
+      "line_text": "Dottin, Georges, ed. and trans. “Les deux chagrins du royaume du ciel.” Revue Celtique 21 (1900): 349–87.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bauckham, Richard. “The Martyrdom of Enoch and Elijah: Jewish or Christian?” <em>JBL </em>95 (1976): 447–58.</p>",
+      "line_text": "Bauckham, Richard. “The Martyrdom of Enoch and Elijah: Jewish or Christian?” JBL 95 (1976): 447–58.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Carey, John. “<em>Dá Brón</em><em> Flatha Nime </em>and <em>The Testament of Abraham</em>.” Pages 63–71 in <em>La littérature apocryphe chrétienne et les Écritures juives</em>. Edited by Rémi Gounelle and Mounier Benoit. Lausanne: Editions du Zèbre, 2015.</p>",
+      "line_text": "Carey, John. “Dá Brón Flatha Nime and The Testament of Abraham.” Pages 63–71 in La littérature apocryphe chrétienne et les Écritures juives. Edited by Rémi Gounelle and Mounier Benoit. Lausanne: Editions du Zèbre, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Carey, John, ed. and trans. “The Three Cries of the World.” Pages 683–84 in vol. 2 of <em>The End and Beyond: Medieval Irish Eschatology</em>. Edited by John Carey, Emma Nic Cárthaigh and Caitríona Ó Dochartaigh. 2 vols. Aberystwyth: Celtic Studies Publications, 2014.</p>",
+      "line_text": "Carey, John, ed. and trans. “The Three Cries of the World.” Pages 683–84 in vol. 2 of The End and Beyond: Medieval Irish Eschatology. Edited by John Carey, Emma Nic Cárthaigh and Caitríona Ó Dochartaigh. 2 vols. Aberystwyth: Celtic Studies Publications, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Carozzi, Claude. <em>Visiones apocalípticas en la Edad Media: el fin del mundo y la salvación del alma</em>. Madrid: Siglo XXI de España Editores, 2000 (pp. 13–16).</p>",
+      "line_text": "Carozzi, Claude. Visiones apocalípticas en la Edad Media: el fin del mundo y la salvación del alma. Madrid: Siglo XXI de España Editores, 2000 (pp. 13–16).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hyde, Douglas, ed. and trans. “Mediaeval account of Anti-christ.” Pages 391–98 in <em>Medieval Studies in Memory of Gertrude Schoepperle Loomis</em>. Edited by Roger Sherman Loomis. Paris: Champion, 1927. Repr. Geneva: Slatkine Reprints, 1974.</p>",
+      "line_text": "Hyde, Douglas, ed. and trans. “Mediaeval account of Anti-christ.” Pages 391–98 in Medieval Studies in Memory of Gertrude Schoepperle Loomis. Edited by Roger Sherman Loomis. Paris: Champion, 1927. Repr. Geneva: Slatkine Reprints, 1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kenney, James F. “Chapter VII: Religious literature and ecclesiastical culture.” Pages 622–744 in <em>The Sources for the Early History of Ireland: An Introduction and Guide. </em>Vol. 1:<em> Ecclesiastical</em>. Rev. ed. New York: Octagon, 1966.</p>",
+      "line_text": "Kenney, James F. “Chapter VII: Religious literature and ecclesiastical culture.” Pages 622–744 in The Sources for the Early History of Ireland: An Introduction and Guide. Vol. 1: Ecclesiastical. Rev. ed. New York: Octagon, 1966.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McGinn, Bernard. <em>Antichrist: Two Thousand Years of Human Fascination with Evil. </em>New York: Columbia University Press, 2000 (pp. 97–98).</p>",
+      "line_text": "McGinn, Bernard. Antichrist: Two Thousand Years of Human Fascination with Evil. New York: Columbia University Press, 2000 (pp. 97–98).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Visions of the End: Apocalyptic Traditions in the Middle Ages</em>. New York: Columbia University Press, 1979.</p>",
+      "line_text": "__________. Visions of the End: Apocalyptic Traditions in the Middle Ages. New York: Columbia University Press, 1979.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Verhelst, Daniel. “La préhistoire des conceptions d’Adson concernant l’Antichrist.” <em>Recherches de théologie ancienne et médiévale</em> 40 (1973): 52–103.</p>",
+      "line_text": "Verhelst, Daniel. “La préhistoire des conceptions d’Adson concernant l’Antichrist.” Recherches de théologie ancienne et médiévale 40 (1973): 52–103.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

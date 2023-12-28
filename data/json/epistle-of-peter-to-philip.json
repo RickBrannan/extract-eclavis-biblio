@@ -1,0 +1,437 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-peter-to-philip/",
+  "nasscal_toc_title": "Letter of Peter to Philip",
+  "filename": "epistle-of-peter-to-philip",
+  "latin_title": "Epistula Petri ad Philippum",
+  "abbrev": "Ep. Pet. Phil.",
+  "clavis_number": 612,
+  "category": "Revelatory Dialogues",
+  "compiler": ": Pamela Mullins Reaves, Colorado College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10550-nag-hammadi-codex-viii/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, Inv. 10550 (Nag Hammadi Codex VIII), pp. 132,10–140,27 (4th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Inv. 10550 (Nag Hammadi Codex VIII), pp. 132,10–140,27 (4th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10550-nag-hammadi-codex-viii/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Basel, <span class=\"clearfix\">Maecenas Foundation for Ancient Art, </span>Codex Tchacos, pp. 1,1–9,17 (4th cent.) ~ <a href=\"https://www.uni-augsburg.de/de/fakultaet/kthf/lehrstuhle-professuren/alte-kirchengeschichte/forschung/codex-tchacos/\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
+      "line_text": "Basel, Maecenas Foundation for Ancient Art, Codex Tchacos, pp. 1,1–9,17 (4th cent.) ~ IMAGES",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.uni-augsburg.de/de/fakultaet/kthf/lehrstuhle-professuren/alte-kirchengeschichte/forschung/codex-tchacos/"
+      ]
+    },
+    {
+      "line_html": "<p>Brankaer, Johanna, and Hans-Gebhard Bethge. “Der Brief des Petrus an Philipus.” Pages 7–80 in <em>Codex Tchacos: Texte und Analysen</em>. TU 161. Berlin: Walter de Gruyter, 2007.</p>",
+      "line_text": "Brankaer, Johanna, and Hans-Gebhard Bethge. “Der Brief des Petrus an Philipus.” Pages 7–80 in Codex Tchacos: Texte und Analysen. TU 161. Berlin: Walter de Gruyter, 2007.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe and Gregor Wurst, eds. “The Letter of Peter to Philip.” Pages 92–109 in <em>The Gospel of Judas Together with the Letter of Peter to Philip, James, and a Book of Allogenes from Codex Tchacos. Critical Edition</em>. Washington, DC: National Geographic Society, 2007.</p>",
+      "line_text": "Kasser, Rodolphe and Gregor Wurst, eds. “The Letter of Peter to Philip.” Pages 92–109 in The Gospel of Judas Together with the Letter of Peter to Philip, James, and a Book of Allogenes from Codex Tchacos. Critical Edition. Washington, DC: National Geographic Society, 2007.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques É. <em>La letter de Pierre à Philippe: Texte établi et présenté</em>. Bibliothèque copte de Nag Hammadi, Section “Textes,” 1. Québec: Les Presses de l’Université Laval, 1977.</p>",
+      "line_text": "Ménard, Jacques É. La letter de Pierre à Philippe: Texte établi et présenté. Bibliothèque copte de Nag Hammadi, Section “Textes,” 1. Québec: Les Presses de l’Université Laval, 1977.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. <em>The Letter of Peter to Philip: Text, Translation, and Commentary</em>. SBLDS 53. Chico, CA: Scholars Press, 1981.</p>",
+      "line_text": "Meyer, Marvin W. The Letter of Peter to Philip: Text, Translation, and Commentary. SBLDS 53. Chico, CA: Scholars Press, 1981.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wisse, Frederick. “NHC VIII,<em>2</em>: <em>The Letter of Peter to Philip.</em>” Introduction and Commentary by Marvin W. Meyer. Pages 227–51 in <em>Nag Hammadi Codex VIII</em>. Edited by John H. Sieber. The Coptic Gnostic Library. NHMS 31. Leiden: Brill, 1991.</p>",
+      "line_text": "Wisse, Frederick. “NHC VIII,2: The Letter of Peter to Philip.” Introduction and Commentary by Marvin W. Meyer. Pages 227–51 in Nag Hammadi Codex VIII. Edited by John H. Sieber. The Coptic Gnostic Library. NHMS 31. Leiden: Brill, 1991.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bethge, Hans–Gebhard. “The Letter of Peter to Philip.” Pages 342–53 in <em>New Testament Apocrypha. </em>Vol. 1: <em>Gospels and Related Writings</em>. Revised Edition. Edited by Wilhelm Schneemelcher. English translation by R. McL. Wilson. Cambridge: James Clarke; Louisville: Westminster/John Knox Press, 1992.</p>",
+      "line_text": "Bethge, Hans–Gebhard. “The Letter of Peter to Philip.” Pages 342–53 in New Testament Apocrypha. Vol. 1: Gospels and Related Writings. Revised Edition. Edited by Wilhelm Schneemelcher. English translation by R. McL. Wilson. Cambridge: James Clarke; Louisville: Westminster/John Knox Press, 1992.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe and Gregor Wurst, eds. “The Letter of Peter to Philip.” Pages 92–109 in <em>The Gospel of Judas Together with the Letter of Peter to Philip, James, and a Book of Allogenes from Codex Tchacos. Critical Edition</em>. Washington, DC: National Geographic Society, 2007.</p>",
+      "line_text": "Kasser, Rodolphe and Gregor Wurst, eds. “The Letter of Peter to Philip.” Pages 92–109 in The Gospel of Judas Together with the Letter of Peter to Philip, James, and a Book of Allogenes from Codex Tchacos. Critical Edition. Washington, DC: National Geographic Society, 2007.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. <em>The Letter of Peter to Philip: Text, Translation, and Commentary</em>. SBLDS 53. Chico, CA: Scholars Press, 1981.</p>",
+      "line_text": "Meyer, Marvin W. The Letter of Peter to Philip: Text, Translation, and Commentary. SBLDS 53. Chico, CA: Scholars Press, 1981.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>_________. “The Letter of Peter to Philip.” Pages 233–38, Chapter 13 in <em>The Gnostic Bible</em>. Edited by Willis Barnstone and Marvin Meyer. Boston: Shambala, 2003.</p>",
+      "line_text": "_________. “The Letter of Peter to Philip.” Pages 233–38, Chapter 13 in The Gnostic Bible. Edited by Willis Barnstone and Marvin Meyer. Boston: Shambala, 2003.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>_________. “The Letter of Peter to Philip.” Pages 585–93 in <em>The Nag Hammadi Scriptures: The International Edition</em>. Edited by Marvin Meyer, et al. New York: HarperOne, 2007.</p>",
+      "line_text": "_________. “The Letter of Peter to Philip.” Pages 585–93 in The Nag Hammadi Scriptures: The International Edition. Edited by Marvin Meyer, et al. New York: HarperOne, 2007.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Wisse, Frederick. “The Letter of Peter to Philip (VIII, <em>2</em>).” Pages 431–37 in <em>The Nag Hammadi Library in English</em>. Introduction by Marvin W. Meyer. Edited by James M. Robinson and Richard Smith. Third Revised Edition. San Francisco: HarperSanFrancisco, 1988.</p>",
+      "line_text": "Wisse, Frederick. “The Letter of Peter to Philip (VIII, 2).” Pages 431–37 in The Nag Hammadi Library in English. Introduction by Marvin W. Meyer. Edited by James M. Robinson and Richard Smith. Third Revised Edition. San Francisco: HarperSanFrancisco, 1988.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>_________. “NHC VIII,<em>2</em>: <em>The Letter of Peter to Philip</em>: Text, Translation, and Notes.” Introduction and Commentary by Marvin W. Meyer. Pages 227–51 in <em>Nag Hammadi Codex VIII</em>. Edited by John H. Sieber. The Coptic Gnostic Library. NHMS 31. Leiden: Brill, 1991.</p>",
+      "line_text": "_________. “NHC VIII,2: The Letter of Peter to Philip: Text, Translation, and Notes.” Introduction and Commentary by Marvin W. Meyer. Pages 227–51 in Nag Hammadi Codex VIII. Edited by John H. Sieber. The Coptic Gnostic Library. NHMS 31. Leiden: Brill, 1991.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe. “The Letter of Peter to Philip.” Pages 111–14 in <em>The Gospel of Judas Together with the Letter of Peter to Philip, James, and a Book of Allogenes from Codex Tchacos. Critical Edition</em>. Edited by Rodolphe Kasser and Gregor Wurst. Washington, D.C.: National Geographic Society, 2007.</p>",
+      "line_text": "Kasser, Rodolphe. “The Letter of Peter to Philip.” Pages 111–14 in The Gospel of Judas Together with the Letter of Peter to Philip, James, and a Book of Allogenes from Codex Tchacos. Critical Edition. Edited by Rodolphe Kasser and Gregor Wurst. Washington, D.C.: National Geographic Society, 2007.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques É. “La Lettre de Pierre à Philippe.” Pages 457–63 in <em>Gnosis: Festschrift für Hans Jonas</em>. Edited by B. Aland. Göttingen: Vandenhoeck &amp; Ruprecht, 1978.</p>",
+      "line_text": "Ménard, Jacques É. “La Lettre de Pierre à Philippe.” Pages 457–63 in Gnosis: Festschrift für Hans Jonas. Edited by B. Aland. Göttingen: Vandenhoeck &amp; Ruprecht, 1978.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Mahé,Jean-Pierre. “Évangile selon Philippe (NH II, 3).” Pages 1323–43 in <em>Écrits gnostiques: La Bibliothèque de Nag Hammadi</em>. Edited by Jean-Pierre Mahé and Paul-Hubert Poirier. Paris: NRF, 2007.</p>",
+      "line_text": "Mahé,Jean-Pierre. “Évangile selon Philippe (NH II, 3).” Pages 1323–43 in Écrits gnostiques: La Bibliothèque de Nag Hammadi. Edited by Jean-Pierre Mahé and Paul-Hubert Poirier. Paris: NRF, 2007.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Brankaer, Johanna, and Hans–Gebhard Bethge. “Der Brief des Petrus an Philippus.” Pages 7–80 in <em>Codex Tchacos: Texte und Analysen</em>. TU 161. Berlin: Walter de Gruyter, 2007.</p>",
+      "line_text": "Brankaer, Johanna, and Hans–Gebhard Bethge. “Der Brief des Petrus an Philippus.” Pages 7–80 in Codex Tchacos: Texte und Analysen. TU 161. Berlin: Walter de Gruyter, 2007.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bethge, Hans-Gebhard. “Der Brief des Petrus an Philippus,” Pages 275–84, VIII,8 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, I. Band: Evangelien. Sixth Edition. Edited by Wilhelm Schneemelcher and Edgar Hennecke. Tübingen: Mohr Siebeck, 1990.</p>",
+      "line_text": "Bethge, Hans-Gebhard. “Der Brief des Petrus an Philippus,” Pages 275–84, VIII,8 in Neutestamentliche Apokryphen in deutscher Übersetzung, I. Band: Evangelien. Sixth Edition. Edited by Wilhelm Schneemelcher and Edgar Hennecke. Tübingen: Mohr Siebeck, 1990.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>_________. <em>Der Brief des Petrus an Philippus: Ein neutestamentliches Apokryphon aus dem Fund von Nag Hammadi (NHC VIII,2): Herausgegeben, übersetzt und kommentiert</em>. TU 141. Berlin: Akademie Verlag, 1997.</p>",
+      "line_text": "_________. Der Brief des Petrus an Philippus: Ein neutestamentliches Apokryphon aus dem Fund von Nag Hammadi (NHC VIII,2): Herausgegeben, übersetzt und kommentiert. TU 141. Berlin: Akademie Verlag, 1997.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>_________. “Der Brief des Petrus an Philippus (NHC VIII,2).” Pages 466–73 in <em>Nag Hammadi Deutsch. NHC I-XIII, Codex Berolinensis 1 und 4, Codex Tchacos 3 und 4</em>. Edited by Hans–Martin Schenke, Ursala Ulrike Kaiser, and Hans–Gebhard Bethge. Berlin: Walter de Gruyter, 2013.</p>",
+      "line_text": "_________. “Der Brief des Petrus an Philippus (NHC VIII,2).” Pages 466–73 in Nag Hammadi Deutsch. NHC I-XIII, Codex Berolinensis 1 und 4, Codex Tchacos 3 und 4. Edited by Hans–Martin Schenke, Ursala Ulrike Kaiser, and Hans–Gebhard Bethge. Berlin: Walter de Gruyter, 2013.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Myszor, Wincenty. “<em>List Piotra do Filipa</em> (<em>Epistula Petri ad Philippum</em>, Nag Hammadi Codex VIII,2).” <em>Vox Patrum</em> 17 (1997): 419–23.</p>",
+      "line_text": "Myszor, Wincenty. “List Piotra do Filipa (Epistula Petri ad Philippum, Nag Hammadi Codex VIII,2).” Vox Patrum 17 (1997): 419–23.",
+      "language": "Polish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Piñero, Antonio. “Carta de Pedro a Felipe (NHC VIII,2, 132,10–140,27).” Pages 47–70 in <em>Textos gnósticos, Biblioteca de Nag Hammadi II: Evangelios, hechos, cartas</em>. Colección Paradigmas 23. Edited by Antonio Piñero, et al. Madrid: Trotta, 1999.</p>",
+      "line_text": "Piñero, Antonio. “Carta de Pedro a Felipe (NHC VIII,2, 132,10–140,27).” Pages 47–70 in Textos gnósticos, Biblioteca de Nag Hammadi II: Evangelios, hechos, cartas. Colección Paradigmas 23. Edited by Antonio Piñero, et al. Madrid: Trotta, 1999.",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Aranda Pérez, Gonzalo. “El Apóstel Pedro en la literature gnóstica.” <em>EstBib</em> 47 (1989): 65–92.</p>",
+      "line_text": "Aranda Pérez, Gonzalo. “El Apóstel Pedro en la literature gnóstica.” EstBib 47 (1989): 65–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Berger, Klaus. “Unfehlbare Offenbarung. Petrus in der gnosticischen und apocalyptischen Offenbarungsliteratur.” Pages 261–326 in <em>Kontinuität und Einheit. Festschrift für F. Mussner</em>. Edited by Paul–Gerhard Müller and Werner Stenger. Freiburg: Basel; Wein: Herder, 1981.</p>",
+      "line_text": "Berger, Klaus. “Unfehlbare Offenbarung. Petrus in der gnosticischen und apocalyptischen Offenbarungsliteratur.” Pages 261–326 in Kontinuität und Einheit. Festschrift für F. Mussner. Edited by Paul–Gerhard Müller and Werner Stenger. Freiburg: Basel; Wein: Herder, 1981.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bethge, Hans–Gebhard. “Der sogenannte ‘Brief des Petrus an Philippus’: Die zweite ‘Schrift’ aus Nag-Hammadi-Codex VIII eingeleitet und übersetzt vom Berliner Arbeitskreis für koptisch-gnostische Schriften.” <em>TLZ </em>103 (1978): 161–70.</p>",
+      "line_text": "Bethge, Hans–Gebhard. “Der sogenannte ‘Brief des Petrus an Philippus’: Die zweite ‘Schrift’ aus Nag-Hammadi-Codex VIII eingeleitet und übersetzt vom Berliner Arbeitskreis für koptisch-gnostische Schriften.” TLZ 103 (1978): 161–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “‘Der Brief des Petrus an Philippus’: Ein neutestamentliches Apokryphon aus dem Funde von Nag Hammadi (NHC VIII,2), herausgegeben, übersetzt und kommentiert, Diss. (B), Berlin, 1985.” <em>TLZ</em> 114 (1989): 396–98.</p>",
+      "line_text": "_________. “‘Der Brief des Petrus an Philippus’: Ein neutestamentliches Apokryphon aus dem Funde von Nag Hammadi (NHC VIII,2), herausgegeben, übersetzt und kommentiert, Diss. (B), Berlin, 1985.” TLZ 114 (1989): 396–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Zu einigen literarischen, exegetischen und inhaltlichen Problemen der ‘Epistula Petri ad Philippum’ (NHC VIII,2).” Pages 65–69 in <em>Coptic Studies: Acts of the Third International Congress of Coptic Studies, Warsaw, 20</em>–<em>25 August, 1984</em>. Edited by Wlodzimierz Godlewski. Centre d’archéologie mediterranéenne de l’academie polonaise des sciences. Warsaw: PWN–Éditions Scientifiques de Pologne, 1990.</p>",
+      "line_text": "_________. “Zu einigen literarischen, exegetischen und inhaltlichen Problemen der ‘Epistula Petri ad Philippum’ (NHC VIII,2).” Pages 65–69 in Coptic Studies: Acts of the Third International Congress of Coptic Studies, Warsaw, 20–25 August, 1984. Edited by Wlodzimierz Godlewski. Centre d’archéologie mediterranéenne de l’academie polonaise des sciences. Warsaw: PWN–Éditions Scientifiques de Pologne, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Foster, Paul. “Peter in Noncanonical Traditions.” Pages 222–62 in <em>Peter in Early Christianity</em>. Edited by Helen K. Bond and Larry W. Hurtado. Grand Rapids: Eerdmans, 2015.</p>",
+      "line_text": "Foster, Paul. “Peter in Noncanonical Traditions.” Pages 222–62 in Peter in Early Christianity. Edited by Helen K. Bond and Larry W. Hurtado. Grand Rapids: Eerdmans, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Franzmann, Majella. <em>Jesus in the Nag Hammadi Writings</em>. Edinburgh: T &amp; T Clark, 1996.</p>",
+      "line_text": "Franzmann, Majella. Jesus in the Nag Hammadi Writings. Edinburgh: T &amp; T Clark, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Funk, Wolf–Peter. Concordance des textes de Nag Hammadi: Les Codices VIII et IX. Bibliothèque copte de Nag Hammadi, Section “Concordances” 5. Sainte Foy: Les Presses de l’Université Laval; Louvain-Paris: Peeters, 1997.</p>",
+      "line_text": "Funk, Wolf–Peter. Concordance des textes de Nag Hammadi: Les Codices VIII et IX. Bibliothèque copte de Nag Hammadi, Section “Concordances” 5. Sainte Foy: Les Presses de l’Université Laval; Louvain-Paris: Peeters, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hartenstein, Judith. “Gedanken zur Kohärenz und Absicht des ‘Brief des Petrus an Philippus’ (NHC VIII,2).” Pages 475–82 in <em>Ägypten und Nubien in spätantiker und christlicher Zeit: Akten des 6. Internationalen Koptologenkongresses, Münster, 20.–26. Juli 1996</em>. Band 2: Schrifttum, Sprache und Gedankenwelt. Edited by Stephen Emmel, et al. Sprachen und Kulturen des christlichen Orients 6, 2. Wiesbaden: Reichert, 1999.</p>",
+      "line_text": "Hartenstein, Judith. “Gedanken zur Kohärenz und Absicht des ‘Brief des Petrus an Philippus’ (NHC VIII,2).” Pages 475–82 in Ägypten und Nubien in spätantiker und christlicher Zeit: Akten des 6. Internationalen Koptologenkongresses, Münster, 20.–26. Juli 1996. Band 2: Schrifttum, Sprache und Gedankenwelt. Edited by Stephen Emmel, et al. Sprachen und Kulturen des christlichen Orients 6, 2. Wiesbaden: Reichert, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. <em>Die Zweite Lehre: Erscheinungen des Auferstandenen als Rahmenzählungen frühchristlicher Dialoge</em>. TU 146. Berlin: Akademie Verlag, 2000.</p>",
+      "line_text": "_________. Die Zweite Lehre: Erscheinungen des Auferstandenen als Rahmenzählungen frühchristlicher Dialoge. TU 146. Berlin: Akademie Verlag, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Spekulationen über ein altes Philippusevangelium.” <em>ZAC</em> 13 (2009): 62–75.</p>",
+      "line_text": "_________. “Spekulationen über ein altes Philippusevangelium.” ZAC 13 (2009): 62–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Geschichten von der Erscheinung des Auferstandenen in nichtkanonischen Schriften und die Entwicklung der Ostertradition.” Pages 123–42 in <em>Gelitten—Gestorben—Auferstanden: Passions- und Ostertraditionen im antiken Christentum</em>. Edited by Tobias Nicklas, Andreas Merkt, and Joseph Verheyden. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "_________. “Geschichten von der Erscheinung des Auferstandenen in nichtkanonischen Schriften und die Entwicklung der Ostertradition.” Pages 123–42 in Gelitten—Gestorben—Auferstanden: Passions- und Ostertraditionen im antiken Christentum. Edited by Tobias Nicklas, Andreas Merkt, and Joseph Verheyden. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaler, Michael. “The Letter of Peter to Philip and Its Message of Gnostic Revelation and Christian Unity.” <em>VC</em> 63 (2009): 264–95.</p>",
+      "line_text": "Kaler, Michael. “The Letter of Peter to Philip and Its Message of Gnostic Revelation and Christian Unity.” VC 63 (2009): 264–95.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>King, Karen L. “Martyrdom and Its Discontents in the Tchacos Codex.” Pages 23–42 in <em>Codex Judas Papers: Proceedings of the International Congress on the Tchacos Codex Held at Rice University, Houston, Texas, March 13–16, 2008</em>. Edited by April D. De Conick. NHMS 71. Leiden: Brill, 2009.</p>",
+      "line_text": "King, Karen L. “Martyrdom and Its Discontents in the Tchacos Codex.” Pages 23–42 in Codex Judas Papers: Proceedings of the International Congress on the Tchacos Codex Held at Rice University, Houston, Texas, March 13–16, 2008. Edited by April D. De Conick. NHMS 71. Leiden: Brill, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Toward a Discussion of the Category ‘Gnosis/Gnosticism’: The Case of the Epistle of Peter to Philip.” Pages 445–65 in <em>Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu ausserkanonischen Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen</em>. Edited by Jörg Frey, Jens Schröter, and Jakob Spaeth. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "_________. “Toward a Discussion of the Category ‘Gnosis/Gnosticism’: The Case of the Epistle of Peter to Philip.” Pages 445–65 in Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu ausserkanonischen Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen. Edited by Jörg Frey, Jens Schröter, and Jakob Spaeth. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Theologies and Mission Practices among the So-Called ‘Heretics.’” Pages 441–55 in <em>The Rise and Expansion of Christianity in the First Three Centuries of the Common Era</em>. Edited by Clare K. Rothschild and Jens Schröter. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "_________. “Theologies and Mission Practices among the So-Called ‘Heretics.’” Pages 441–55 in The Rise and Expansion of Christianity in the First Three Centuries of the Common Era. Edited by Clare K. Rothschild and Jens Schröter. Tübingen: Mohr Siebeck, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Engaging Diverse Early Christian Responses to Violence in Persecution.” <em>PRSt</em> 42 (2015): 307–17.</p>",
+      "line_text": "_________. “Engaging Diverse Early Christian Responses to Violence in Persecution.” PRSt 42 (2015): 307–17.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Koschorke, Klaus. “Eine gnostische Pfingstpredigt: Zur Auseinandersetzung zwischen gnostischem und kirchlichem christentum am Beispiel der ‘Epistula ad Philippum’ (NHC VIII,2).” <em>ZTK</em> 74 (1977): 323–43.</p>",
+      "line_text": "Koschorke, Klaus. “Eine gnostische Pfingstpredigt: Zur Auseinandersetzung zwischen gnostischem und kirchlichem christentum am Beispiel der ‘Epistula ad Philippum’ (NHC VIII,2).” ZTK 74 (1977): 323–43.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Eine gnostische Paraphrase des johanneischen Prologs: Zur Interpretation von ‘Epistula Petri ad Philippum’ (NHC VIII,2) 136, 16–137, 14.” <em>VC</em> 33 (1979): 383–92.</p>",
+      "line_text": "_________. “Eine gnostische Paraphrase des johanneischen Prologs: Zur Interpretation von ‘Epistula Petri ad Philippum’ (NHC VIII,2) 136, 16–137, 14.” VC 33 (1979): 383–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Krause, Martin. “Die Petrusakten in Codex VI von Nag Hammadi.” Pages 36–58 in <em>Essays on the Nag Hammadi Texts in Honour of Alexander Böhlig</em>. Edited by Martin Krause. NHS 3. Leiden: Brill, 1972.</p>",
+      "line_text": "Krause, Martin. “Die Petrusakten in Codex VI von Nag Hammadi.” Pages 36–58 in Essays on the Nag Hammadi Texts in Honour of Alexander Böhlig. Edited by Martin Krause. NHS 3. Leiden: Brill, 1972.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lapham, Fred. “The <em>Epistle of Peter to Philip</em>.” Pages 172–92 in <em>Peter: The Myth, the Man and the Writings: A Study of Early Petrine Text and Tradition</em>. JSNTSup 239. London: Sheffield Academic Press, 2003.</p>",
+      "line_text": "Lapham, Fred. “The Epistle of Peter to Philip.” Pages 172–92 in Peter: The Myth, the Man and the Writings: A Study of Early Petrine Text and Tradition. JSNTSup 239. London: Sheffield Academic Press, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lewis, Nicola Denzey. “Apostolic Traditions in Conflict: <em>Letter of Peter to Philip</em>, <em>Acts of Peter and the Twelve Disciples</em>, and the <em>Apocalypse of Peter</em>.” Pages 218–29 in <em>Introduction to “Gnosticism”: Ancient Voices, Christian Worlds</em>. New York: Oxford University Press, 2013.</p>",
+      "line_text": "Lewis, Nicola Denzey. “Apostolic Traditions in Conflict: Letter of Peter to Philip, Acts of Peter and the Twelve Disciples, and the Apocalypse of Peter.” Pages 218–29 in Introduction to “Gnosticism”: Ancient Voices, Christian Worlds. New York: Oxford University Press, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Luttikhuizen, Gerard P. “The Letter of Peter to Philip and the New Testament.” Pages 96–102 in <em>Nag Hammadi and Gnosis: Papers read at the First International Congress of Coptology (Cairo, December 1976)</em>. NHS 14. Edited by R. McL. Wilson. Leiden: Brill, 1978.</p>",
+      "line_text": "Luttikhuizen, Gerard P. “The Letter of Peter to Philip and the New Testament.” Pages 96–102 in Nag Hammadi and Gnosis: Papers read at the First International Congress of Coptology (Cairo, December 1976). NHS 14. Edited by R. McL. Wilson. Leiden: Brill, 1978.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “The Evaluation of the Teaching of Jesus in Christian Gnostic Revelation Dialogues.” <em>NovT </em>30 (1988): 158–68.</p>",
+      "line_text": "_________. “The Evaluation of the Teaching of Jesus in Christian Gnostic Revelation Dialogues.” NovT 30 (1988): 158–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “The Thought Pattern of Gnostic Mythologies and Their Use of Biblical Traditions.” Pages 89–101 in <em>The Nag Hammadi Library after Fifty Years: Proceedings of the 1997 Society of Biblical Literature Commemoration</em>. Edited by John D. Turner and Anne M. McGuire. NHMS 44. Leiden: Brill, 1997.</p>",
+      "line_text": "_________. “The Thought Pattern of Gnostic Mythologies and Their Use of Biblical Traditions.” Pages 89–101 in The Nag Hammadi Library after Fifty Years: Proceedings of the 1997 Society of Biblical Literature Commemoration. Edited by John D. Turner and Anne M. McGuire. NHMS 44. Leiden: Brill, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Witnesses and Mediators of Christ’s Gnostic Teachings.” Pages 104–14 in <em>The Apostolic Age in Patristic Thought</em>. Edited by Anthony Hilhorst. VCSup 70. Leiden: Brill, 2004.</p>",
+      "line_text": "_________. “Witnesses and Mediators of Christ’s Gnostic Teachings.” Pages 104–14 in The Apostolic Age in Patristic Thought. Edited by Anthony Hilhorst. VCSup 70. Leiden: Brill, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marjanen, Antti. “The Suffering of One Who is a Stranger to Suffering: The Crucifixion of Jesus in the Letter of Peter to Philip.” Pages 487–98 in <em>Fair Play: Diversity and Conflicts in Early Christianity: Essays in Honour of Heikki Raisenen</em>. Edited by Ismo Dunderberg, et al. NovTSup 103. Leiden: Brill, 2001.</p>",
+      "line_text": "Marjanen, Antti. “The Suffering of One Who is a Stranger to Suffering: The Crucifixion of Jesus in the Letter of Peter to Philip.” Pages 487–98 in Fair Play: Diversity and Conflicts in Early Christianity: Essays in Honour of Heikki Raisenen. Edited by Ismo Dunderberg, et al. NovTSup 103. Leiden: Brill, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “The Figure of Authades in the Nag Hammadi and Related Documents.” Pages 567–81 in <em>Coptic—Gnostica—Manichaica: Mélanges offerts à Wolf-Peter Funk</em>. Edited by Louis Painchaud, Paul–Hubert Poirier, and Marc Pelchat. Quebec: Les Presses de l’Université Laval Éditions; Peeters, 2006.</p>",
+      "line_text": "_________. “The Figure of Authades in the Nag Hammadi and Related Documents.” Pages 567–81 in Coptic—Gnostica—Manichaica: Mélanges offerts à Wolf-Peter Funk. Edited by Louis Painchaud, Paul–Hubert Poirier, and Marc Pelchat. Quebec: Les Presses de l’Université Laval Éditions; Peeters, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Markschies, Christoph. “Was wissen wir über den Sitz im Leben der apokryphen Evangelien?” Pages 61–90 in <em>Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu ausserkanonischen Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen</em>. Edited by Jörg Frey, Jens Schröter, and Jakob Spaeth. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "Markschies, Christoph. “Was wissen wir über den Sitz im Leben der apokryphen Evangelien?” Pages 61–90 in Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu ausserkanonischen Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen. Edited by Jörg Frey, Jens Schröter, and Jakob Spaeth. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Matthews, Christopher. <em>Philip: Apostle and Evangelist. Configurations of a Tradition</em>. NovTSup 105. Leiden: Brill, 2002.</p>",
+      "line_text": "Matthews, Christopher. Philip: Apostle and Evangelist. Configurations of a Tradition. NovTSup 105. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques É. “La Lettre de Pierre à Philippe.” Pages 449–63 in <em>Gnosis: Festschrift für Hans Jonas</em>. Edited by B. Aland. Göttingen: Vandenhoeck &amp; Ruprecht, 1978.</p>",
+      "line_text": "Ménard, Jacques É. “La Lettre de Pierre à Philippe.” Pages 449–63 in Gnosis: Festschrift für Hans Jonas. Edited by B. Aland. Göttingen: Vandenhoeck &amp; Ruprecht, 1978.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________.  “La Lettre de Pierre à Philippe: sa structure.” Pages 103–107 in <em>Nag Hammadi and Gnosis: Papers read at the First International Congress of Coptology (Cairo, December 1976)</em>. NHS 14. Edited by R. McL. Wilson. Leiden: Brill, 1978.</p>",
+      "line_text": "_________.  “La Lettre de Pierre à Philippe: sa structure.” Pages 103–107 in Nag Hammadi and Gnosis: Papers read at the First International Congress of Coptology (Cairo, December 1976). NHS 14. Edited by R. McL. Wilson. Leiden: Brill, 1978.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. “Jesus in the Nag Hammadi Library: New Light on Early Christian Belief.” <em>Reformed Journal</em> 29 (1979): 14–18.</p>",
+      "line_text": "Meyer, Marvin W. “Jesus in the Nag Hammadi Library: New Light on Early Christian Belief.” Reformed Journal 29 (1979): 14–18.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Molinari, Andrea Lorenzo. “Petrine Traditions in the <em>Acts of Philip: Letter of Peter to Philip</em>, a Variant of a Q Saying Found in Matthew 18:21–22, <em>Act of Peter</em> and the <em>Acts of Peter and the Twelve Apostles</em>.” Pages 1–23 in <em>SBL Seminar Papers</em> 39. Atlanta: Society of Biblical Literature, 2000.</p>",
+      "line_text": "Molinari, Andrea Lorenzo. “Petrine Traditions in the Acts of Philip: Letter of Peter to Philip, a Variant of a Q Saying Found in Matthew 18:21–22, Act of Peter and the Acts of Peter and the Twelve Apostles.” Pages 1–23 in SBL Seminar Papers 39. Atlanta: Society of Biblical Literature, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “‘Gnostic’ Perspectives on Peter.” Pages 196–221 in <em>Peter in Early Christianity</em>. Edited by Helen K. Bond and Larry W. Hurtado. Grand Rapids, MI: Eerdmans, 2015.</p>",
+      "line_text": "Nicklas, Tobias. “‘Gnostic’ Perspectives on Peter.” Pages 196–221 in Peter in Early Christianity. Edited by Helen K. Bond and Larry W. Hurtado. Grand Rapids, MI: Eerdmans, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Os, Bas van. “The Role of the Apostles in the <em>Letter of Peter to Philip</em>.” <em>Annali di storia dell’esegesi</em> 29 (2012): 155–60.</p>",
+      "line_text": "Os, Bas van. “The Role of the Apostles in the Letter of Peter to Philip.” Annali di storia dell’esegesi 29 (2012): 155–60.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perkins, Pheme. <em>The Gnostic Dialogue: The Early Church and the Crisis of Gnosticism</em>. New York: Paulist Press, 1980.</p>",
+      "line_text": "Perkins, Pheme. The Gnostic Dialogue: The Early Church and the Crisis of Gnosticism. New York: Paulist Press, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. <em>Peter: Apostle for the Whole Church</em>. Studies on Personalities of the New Testament. Minneapolis: Fortress Press, 2000.</p>",
+      "line_text": "_________. Peter: Apostle for the Whole Church. Studies on Personalities of the New Testament. Minneapolis: Fortress Press, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pratscher, Wilhelm. “Die Bedeutung des Petrus in gnostischen Texten.” <em>SNTU</em> 37 (2012): 111–50.</p>",
+      "line_text": "Pratscher, Wilhelm. “Die Bedeutung des Petrus in gnostischen Texten.” SNTU 37 (2012): 111–50.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reaves, Pamela Mullins. “Pseudo-Peter and Persecution: (Counter-)Evaluations of Suffering in the <em>Coptic Apocalypse of Peter </em>(NHC VII,3) and the <em>Letter of Peter to Philip</em> (NHC VIII,2). Pages 129–51 in <em>Fakes, Forgeries and Fictions: Writing Ancient and Modern Christian Apocrypha</em>. <em>Proceedings from the 2015 York University Christian Apocrypha Symposium.</em> Edited by Tony Burke. Eugene: Cascade Books, 2017.</p>",
+      "line_text": "Reaves, Pamela Mullins. “Pseudo-Peter and Persecution: (Counter-)Evaluations of Suffering in the Coptic Apocalypse of Peter (NHC VII,3) and the Letter of Peter to Philip (NHC VIII,2). Pages 129–51 in Fakes, Forgeries and Fictions: Writing Ancient and Modern Christian Apocrypha. Proceedings from the 2015 York University Christian Apocrypha Symposium. Edited by Tony Burke. Eugene: Cascade Books, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Roukema, Riemer. “De visie op offers in de vroege gnostiek.” <em>NTT</em> 67 (2013): 209–24.</p>",
+      "line_text": "Roukema, Riemer. “De visie op offers in de vroege gnostiek.” NTT 67 (2013): 209–24.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Scopello, Madeleine. “Secrets et revelation dans la codex Tchacos.” Pages 145–59 in <em>Mystery and Secrecy in the Nag Hammadi Collection and Other Ancient Literature, Ideas, and Practices: Studies for Einar Thomassen at Sixty</em>. Edited by Christian H. Bull, Liv Ingeborg Lied, and John D. Turner. Leiden: Brill, 2012.</p>",
+      "line_text": "Scopello, Madeleine. “Secrets et revelation dans la codex Tchacos.” Pages 145–59 in Mystery and Secrecy in the Nag Hammadi Collection and Other Ancient Literature, Ideas, and Practices: Studies for Einar Thomassen at Sixty. Edited by Christian H. Bull, Liv Ingeborg Lied, and John D. Turner. Leiden: Brill, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Smith, Terence V. <em>Petrine Controversies in Early Christianity: Attitudes towards Peter in Christian Writings for the First Two Centuries</em>. WUNT 2.15. Tübingen: J. C. B. Mohr (Paul Siebeck), 1985.</p>",
+      "line_text": "Smith, Terence V. Petrine Controversies in Early Christianity: Attitudes towards Peter in Christian Writings for the First Two Centuries. WUNT 2.15. Tübingen: J. C. B. Mohr (Paul Siebeck), 1985.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tite, Philip L. “Voluntary Martyrdom and Gnosticism.” <em>JECS</em> 23 (2015): 27–54.</p>",
+      "line_text": "Tite, Philip L. “Voluntary Martyrdom and Gnosticism.” JECS 23 (2015): 27–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tröger, Karl–Wolfgang. “Doketistische Christologie in Nag-Hammadi-Texten.” <em>Kairos</em> 19 (1977): 45–52.</p>",
+      "line_text": "Tröger, Karl–Wolfgang. “Doketistische Christologie in Nag-Hammadi-Texten.” Kairos 19 (1977): 45–52.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

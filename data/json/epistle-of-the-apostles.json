@@ -1,0 +1,741 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-the-apostles/",
+  "nasscal_toc_title": "Epistle of the Apostles",
+  "filename": "epistle-of-the-apostles",
+  "latin_title": "Epistula Apostolorum",
+  "abbrev": "Ep. Apos.",
+  "alt_titles": [
+    "Mäṣḥafä Kidan/The Book of the Testament",
+    "Testament of Our Lord in Galilee",
+    " Letter/Epistle of the Apostles ",
+    "Testamentum Domini Nostri Jesu Christi ",
+    "Mäṣḥafä Kidan",
+    "Testament of Our Lord and Savior in Galilee",
+    "Ep. Apos. "
+  ],
+  "clavis_number": 265,
+  "category": "Revelatory Dialogues; Epistles",
+  "compiler": "Warren C. Campbell, University of Notre Dame",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Institut Français d’Archéologie Orientale, P. 416 (=CMCL.BB), fols. 1–16 (4th/5th cent.) (<a href=\"https://atlas.paths-erc.eu/manuscripts/25\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a>; <a href=\"http://papyri.info/dclp/107969\" target=\"_blank\" rel=\"noopener noreferrer\">Papyri.info</a>)<strong> </strong></p>",
+      "line_text": "Cairo, Institut Français d’Archéologie Orientale, P. 416 (=CMCL.BB), fols. 1–16 (4th/5th cent.) (PAThs; Papyri.info) ",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/25",
+        "http://papyri.info/dclp/107969"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/gesprchejesumi00schmuoft/page/n6\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl (with Isaak Wajnberg). <em>Gespräche Jesu mit seinen Jüngren nach der Auferstehung: Ein katholisch-apostolisches Sendschreiben des 2. Jahrhunderts</em>. TU (III, 13). Leipzig: Hinrichs, 1919. Repr. Hildesheim: Georg Olms, 1967 (re-edition in 1967 includes translation of the Ethiopic text by Wajnberg).</p>",
+      "line_text": "Schmidt, Carl (with Isaak Wajnberg). Gespräche Jesu mit seinen Jüngren nach der Auferstehung: Ein katholisch-apostolisches Sendschreiben des 2. Jahrhunderts. TU (III, 13). Leipzig: Hinrichs, 1919. Repr. Hildesheim: Georg Olms, 1967 (re-edition in 1967 includes translation of the Ethiopic text by Wajnberg).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/gesprchejesumi00schmuoft/page/n6"
+      ]
+    },
+    {
+      "line_html": "<p>———. “Eine bisher unbekkante altchristliche Schift in koptisher Sprache.” <em>SPAW</em> (1895): 705– 11.</p>",
+      "line_text": "———. “Eine bisher unbekkante altchristliche Schift in koptisher Sprache.” SPAW (1895): 705– 11.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. “Eine Epistola apostolorum in koptischer und lateinischer Überlieferung.” <em>SPAW</em>  (1895): 1047–56.</p>",
+      "line_text": "———. “Eine Epistola apostolorum in koptischer und lateinischer Überlieferung.” SPAW  (1895): 1047–56.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Listed according to the sigla in Hills (2009):</p>",
+      "line_text": "Listed according to the sigla in Hills (2009):",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Family 1:</p>",
+      "line_text": "Family 1:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-ethiopien-dabbadie-51/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 51, fols. 113<sup>v</sup>–130<sup>v</sup> (15th/16th cent.)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 51, fols. 113v–130v (15th/16th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-ethiopien-dabbadie-51/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 90, pp. 100–101 (16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10087737k.r=abbadie%2090?rk=64378;0\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 90, pp. 100–101 (16th cent.) ~ Gallica",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10087737k.r=abbadie%2090?rk=64378;0"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 199, pp. 199–201 (17/18th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10087118x.r=abbadie%20199?rk=42918;4\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 199, pp. 199–201 (17/18th cent.) ~ Gallica",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10087118x.r=abbadie%20199?rk=42918;4"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  London, British Library, Or. 362/Wright no. 362, pp. 275–277 (18th cent.)</p>",
+      "line_text": "K  London, British Library, Or. 362/Wright no. 362, pp. 275–277 (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1945, fols. 38r–54r (18th cent.); ~ <a href=\"http://18.235.151.129/detail.php?msid=105759\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; <a href=\"https://archive.org/details/EMMLCatalog05/page/n469/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">Macomber</a></p>",
+      "line_text": "N  Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1945, fols. 38r–54r (18th cent.); ~ HMML; Macomber",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://18.235.151.129/detail.php?msid=105759",
+        "https://archive.org/details/EMMLCatalog05/page/n469/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Genner Agar, Monastery of Dabra Bagge, EMML 2358 (16th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=106171\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; <a href=\"https://archive.org/details/EMMLCatalog06/page/n433/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">Macomber</a></p>",
+      "line_text": "O  Genner Agar, Monastery of Dabra Bagge, EMML 2358 (16th cent.) ~ HMML; Macomber",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://18.235.151.129/detail.php?msid=106171",
+        "https://archive.org/details/EMMLCatalog06/page/n433/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>T</strong>  Tānāsee, Kebran Gabriel Monastery, 35, fols. 35<sup>r</sup>–46<sup>r </sup>(18th cent.)</p>",
+      "line_text": "T  Tānāsee, Kebran Gabriel Monastery, 35, fols. 35r–46r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/"
+      ]
+    },
+    {
+      "line_html": "<p>Family 2:</p>",
+      "line_text": "Family 2:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  London, British Library, Or. 793/Wright no. 361, pp. 270–275 (18th cent.)</p>",
+      "line_text": "L  London, British Library, Or. 793/Wright no. 361, pp. 270–275 (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Addis Ababa, Church of St. Gabriel, EMML 370 , fols. 119<sup>r</sup>–127<sup>v</sup> (19th/20th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=104089\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; <a href=\"https://archive.org/details/EMMLCatalog02/page/n89/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">Macomber</a></p>",
+      "line_text": "M  Addis Ababa, Church of St. Gabriel, EMML 370 , fols. 119r–127v (19th/20th cent.) ~ HMML; Macomber",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://18.235.151.129/detail.php?msid=104089",
+        "https://archive.org/details/EMMLCatalog02/page/n89/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  EMML 6925 (Hills says 6925) (17/18th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=135989\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a>; uncataloged</p>",
+      "line_text": "P  EMML 6925 (Hills says 6925) (17/18th cent.) ~ HMML; uncataloged",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://18.235.151.129/detail.php?msid=135989"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  EMML 7021 (19th cent.) ~ uncataloged</p>",
+      "line_text": "Q  EMML 7021 (19th cent.) ~ uncataloged",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  EMML 7204 (18th cent.) ~ uncataloged</p>",
+      "line_text": "R  EMML 7204 (18th cent.) ~ uncataloged",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Stuttgart, Landesbibliothek, Or. fol. 49 (15/16th cent.)</p>",
+      "line_text": "S  Stuttgart, Landesbibliothek, Or. fol. 49 (15/16th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Cerulli et. 151, p. 108 (20th cent.)</p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Cerulli et. 151, p. 108 (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Unassigned:</p>",
+      "line_text": "Unassigned:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tigray-gunda-gunde-monastery-gg-072/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Tigray, Gunda Gunde Monastery, GG-072, fols. 27<sup>r</sup>–41<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Tigray, Gunda Gunde Monastery, GG-072, fols. 27r–41r (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/tigray-gunda-gunde-monastery-gg-072/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient09pariuoft/page/140/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guerrier, Louis, (with Sylvain Grébaut). “Le Testament en Galilée de Notre-Seigneur Jésus-Christ.” PO 9 (1913): 177–232. Repr. Turnhout: Brepols, 1982 (<em>editio princeps</em> with French translation based on K with readings noted for A, B, C, and L).</p>",
+      "line_text": "Guerrier, Louis, (with Sylvain Grébaut). “Le Testament en Galilée de Notre-Seigneur Jésus-Christ.” PO 9 (1913): 177–232. Repr. Turnhout: Brepols, 1982 (editio princeps with French translation based on K with readings noted for A, B, C, and L).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient09pariuoft/page/140/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, Cod. Palat. Vindobonensis 16 (olim Bobbiensis), fol. 67 (underwriting: 5th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. Palat. Vindobonensis 16 (olim Bobbiensis), fol. 67 (underwriting: 5th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sitzungsbericht363klasgoog/page/n413/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bick, Josef. “Wiener Palimpseste, I. Teil. Codex Palat. Vindobodensis 16, olim Bobbiensis.” <em>Sitzungsberichte der Akademie der Wissenschaften in Wien, philosophisch-historische Klasse</em> 159/7. Vienna: Hölder, 1908 (edition, pp. 90–99, pl. IV).</p>",
+      "line_text": "Bick, Josef. “Wiener Palimpseste, I. Teil. Codex Palat. Vindobodensis 16, olim Bobbiensis.” Sitzungsberichte der Akademie der Wissenschaften in Wien, philosophisch-historische Klasse 159/7. Vienna: Hölder, 1908 (edition, pp. 90–99, pl. IV).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sitzungsbericht363klasgoog/page/n413/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Baumstark, Anton. “Alte und neue Spuren eines außerkanonishcen Evangeliums (vielleicht des Ägypterevangeliums).” <em>ZNW </em>14 (1913): 232–47.</p>",
+      "line_text": "Baumstark, Anton. “Alte und neue Spuren eines außerkanonishcen Evangeliums (vielleicht des Ägypterevangeliums).” ZNW 14 (1913): 232–47.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.roger-pearse.com/weblog/wp-content/uploads/2013/01/epistula-apostolorum_alcock_2012.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Anthony Alcock. “Epistula Apostolorum: English Translation of the Coptic Text.” <em>Roger Pearse: Thoughts on Antiquity, Patristics, Information Access, and More.</em> Online:  https://www.roger-pearse.com/weblog/wp-content/uploads/2013/01/epistula-apostolorum_alcock_2012.pdf.</p>",
+      "line_text": "Anthony Alcock. “Epistula Apostolorum: English Translation of the Coptic Text.” Roger Pearse: Thoughts on Antiquity, Patristics, Information Access, and More. Online:  https://www.roger-pearse.com/weblog/wp-content/uploads/2013/01/epistula-apostolorum_alcock_2012.pdf.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.roger-pearse.com/weblog/wp-content/uploads/2013/01/epistula-apostolorum_alcock_2012.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Cameron, Ron. ed. <em>The Other Gospels: Non-Canonical Gospel Texts. </em>Philadelphia: Westminster, 1982 (pp. 133–62).</p>",
+      "line_text": "Cameron, Ron. ed. The Other Gospels: Non-Canonical Gospel Texts. Philadelphia: Westminster, 1982 (pp. 133–62).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 555–88).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 555–88).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Hills, Julian W. <em>The Epistle of the Apostles</em>. Early Christian Apocrypha 2. Santa Rosa: Polebridge Press, 2009.</p>",
+      "line_text": "Hills, Julian W. The Epistle of the Apostles. Early Christian Apocrypha 2. Santa Rosa: Polebridge Press, 2009.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, M. R.  <em>The Apocryphal New Testament. </em>1924. Repr., Oxford: Clarendon Press, 1953 (pp. 485–503).</p>",
+      "line_text": "James, M. R.  The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 485–503).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amiot, François, trans. “La Lettre des Apôtres.” Pages 275–85 in <em>La bible apocryphe: Évangiles apocryphes</em>. Textes pour l’histoire sacrée. Paris: Fayard, 1954.</p>",
+      "line_text": "Amiot, François, trans. “La Lettre des Apôtres.” Pages 275–85 in La bible apocryphe: Évangiles apocryphes. Textes pour l’histoire sacrée. Paris: Fayard, 1954.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Pérès, Jacques-Noël, ed. and trans. <em>L’Épître des Apôtres</em>. Apocryphes: Collection de poche de l’AELAC 5. Turnhout, Belgium: Brepols, 1994.</p>",
+      "line_text": "Pérès, Jacques-Noël, ed. and trans. L’Épître des Apôtres. Apocryphes: Collection de poche de l’AELAC 5. Turnhout, Belgium: Brepols, 1994.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “Épître des apôtres.” Pages 357–92 in vol. 1 of <em>Écrits apocryphes chr</em>étiens.  Edited by François Bovon and Pierre Geoltrain. Bibliothèque de la Pléiade 442. Paris: Gallimard, 1997.</p>",
+      "line_text": "———. “Épître des apôtres.” Pages 357–92 in vol. 1 of Écrits apocryphes chrétiens.  Edited by François Bovon and Pierre Geoltrain. Bibliothèque de la Pléiade 442. Paris: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/MN41963ucmf_5/page/n3\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Duensing, Hugo, ed. and trans. <em>Epistula Apostolorum</em> <em>nach dem Äthiopischen und Koptischen Texte herausgegeben.</em> Bonn: Marcus &amp; Weber, 1925.</p>",
+      "line_text": "Duensing, Hugo, ed. and trans. Epistula Apostolorum nach dem Äthiopischen und Koptischen Texte herausgegeben. Bonn: Marcus &amp; Weber, 1925.",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/MN41963ucmf_5/page/n3"
+      ]
+    },
+    {
+      "line_html": "<p>———. “Epistula Apostolorum.” Pages 126–55 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung, </em>Bd. 1: <em>Evangelien und Verwandtes. </em>3rd ed. Edited by Wilhelm Schneemelcher and Edgar Hennecke. Tübingen: Mohr Siebeck, 1959.</p>",
+      "line_text": "———. “Epistula Apostolorum.” Pages 126–55 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1: Evangelien und Verwandtes. 3rd ed. Edited by Wilhelm Schneemelcher and Edgar Hennecke. Tübingen: Mohr Siebeck, 1959.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Müller, C. Detlef G. trans. “Epistula Apostolorum.” Pages 205–33 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung, </em>Bd. 1: <em>Evangelien und Verwandtes. </em>Edited by W. Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “Epistula Apostolorum.” Pages 249–84 in <em>New Testament Apocrypha</em>, Vol. 1,<em> Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, Ky.: Westminster John Knox, 1991.</p>",
+      "line_text": "Müller, C. Detlef G. trans. “Epistula Apostolorum.” Pages 205–33 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1: Evangelien und Verwandtes. Edited by W. Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “Epistula Apostolorum.” Pages 249–84 in New Testament Apocrypha, Vol. 1, Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, Ky.: Westminster John Knox, 1991.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “Die <em>Epistula Apostolorum</em>.” Pages 1062–92 in vol. 1 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. 2 vols. AcA I/1–2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012</p>",
+      "line_text": "———. “Die Epistula Apostolorum.” Pages 1062–92 in vol. 1 of Antike christliche Apokryphen in deutscher Übersetzung. 2 vols. AcA I/1–2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 37–62).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 37–62).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1669–1702).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1669–1702).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Abraha, Tedros and Daniel Assefa. “Apocryphal Gospels in the Ethiopic Tradition.” Pages 639–43 in <em>Jesus in apokryphen Evangelienüberlieferungen. </em>Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "Abraha, Tedros and Daniel Assefa. “Apocryphal Gospels in the Ethiopic Tradition.” Pages 639–43 in Jesus in apokryphen Evangelienüberlieferungen. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Amann<em>, </em>Émile. “La lettre des apôtres.” Pages 523–25 in vol. 1 of <em>Dictionnaire de la Bible: Supplément.  </em>10 vols. Edited by Louis Pirot and André Robert. Paris: Letouzey et Ané, 1929.</p>",
+      "line_text": "Amann, Émile. “La lettre des apôtres.” Pages 523–25 in vol. 1 of Dictionnaire de la Bible: Supplément.  10 vols. Edited by Louis Pirot and André Robert. Paris: Letouzey et Ané, 1929.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/geschichtederalt01bard/page/n611\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bardenhewer, Otto. “Eine ‘Epistola apostolorum’.” Pages 589–98 in <em>Geschichte der altkirchlichen literatur. </em>Bd. 1: <em>Vom Ausgang des apostolischen Zeitalters bis zum Ende des zweiten Jahrhunderts. 2., umgearb. Aufl. </em>5 vols. Freiburgh im Breisgau: Herder, 1913–1932.</p>",
+      "line_text": "Bardenhewer, Otto. “Eine ‘Epistola apostolorum’.” Pages 589–98 in Geschichte der altkirchlichen literatur. Bd. 1: Vom Ausgang des apostolischen Zeitalters bis zum Ende des zweiten Jahrhunderts. 2., umgearb. Aufl. 5 vols. Freiburgh im Breisgau: Herder, 1913–1932.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/geschichtederalt01bard/page/n611"
+      ]
+    },
+    {
+      "line_html": "<p>Bardy, G. “Rezension von C. Schmidt. (s. o.).” <em>RB</em> 50 (1921): 110–34.</p>",
+      "line_text": "Bardy, G. “Rezension von C. Schmidt. (s. o.).” RB 50 (1921): 110–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bauer, Johannes Baptist. <em>Die neutestamentlichen Apokryphen. </em>Die Welt der Bibel 21. Düsseldorf; Patmos, 1968 (pp. 87–88).</p>",
+      "line_text": "Bauer, Johannes Baptist. Die neutestamentlichen Apokryphen. Die Welt der Bibel 21. Düsseldorf; Patmos, 1968 (pp. 87–88).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Baumstark, Anton. “Hippolytos und die außerkanonische Evangelienquelle des äthiopischen Galiläa-Testaments.” <em>ZNW</em> 15 (1914): 332–35.</p>",
+      "line_text": "Baumstark, Anton. “Hippolytos und die außerkanonische Evangelienquelle des äthiopischen Galiläa-Testaments.” ZNW 15 (1914): 332–35.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bockmuehl, Markus. <em>Ancient Apocryphal Gospels</em>. Louisville: Westminster John Knox Press, 2017 (pp. 215–20).</p>",
+      "line_text": "Bockmuehl, Markus. Ancient Apocryphal Gospels. Louisville: Westminster John Knox Press, 2017 (pp. 215–20).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Choi, Michael J. “Cerinthus for Gnostic Survival According to Irenaeus and Epistula Apostolorum.” 한국교회사학회지 36 (2013): 11–46.</p>",
+      "line_text": "Choi, Michael J. “Cerinthus for Gnostic Survival According to Irenaeus and Epistula Apostolorum.” 한국교회사학회지 36 (2013): 11–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cladder, H. J. “Zur neuen ‘Epistola Apostolorum’.” <em>ThR</em> 18 (1919): 452–53.</p>",
+      "line_text": "Cladder, H. J. “Zur neuen ‘Epistola Apostolorum’.” ThR 18 (1919): 452–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Daniélou, Jean. “Les traditions secrètes des apôtres.” <em>Eranos-Jahrbuch </em>31 (1962): 199–215.</p>",
+      "line_text": "Daniélou, Jean. “Les traditions secrètes des apôtres.” Eranos-Jahrbuch 31 (1962): 199–215.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Delazer, Jakob. “De tempore compositionis Epistolae Apostolorum.” <em>Anton</em> (1929): 257–92, 387–430.</p>",
+      "line_text": "Delazer, Jakob. “De tempore compositionis Epistolae Apostolorum.” Anton (1929): 257–92, 387–430.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Disquisitio in argumentum Epistolae apostolorum.” <em>Anton </em>3 (1928): 369–406.</p>",
+      "line_text": "———. “Disquisitio in argumentum Epistolae apostolorum.” Anton 3 (1928): 369–406.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehrhardt, Arnold A. T. “Judaeo-Christians in Egypt, the Epistula Apostolorum, and the Gospel to the Hebrews.” Pages 360–82 in <em>Studia Evangelica III: Papers Presented to the Second  International Congress on New Testament Studies Held at Christ Church, Oxford, 1961</em><em>. </em>Edited by F. L. Cross. TU 88. Berlin: Akademie Verlag, 1964.</p>",
+      "line_text": "Ehrhardt, Arnold A. T. “Judaeo-Christians in Egypt, the Epistula Apostolorum, and the Gospel to the Hebrews.” Pages 360–82 in Studia Evangelica III: Papers Presented to the Second  International Congress on New Testament Studies Held at Christ Church, Oxford, 1961. Edited by F. L. Cross. TU 88. Berlin: Akademie Verlag, 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Eijk, A. H. C. van. “Only That Can Rise Which Has Previously Fallen.” <em>JTS </em>22 (1972): 517–29.</p>",
+      "line_text": "Eijk, A. H. C. van. “Only That Can Rise Which Has Previously Fallen.” JTS 22 (1972): 517–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frank, I. “Epistula Apostolorum.” Pages 110–11 in <em>Der Sinn der Kanonbildung</em>: <em>Eine historisch-theologische Untersuchung der Zeit vom 1. Clemensbrief bis Irenäus von Lyon</em>. Freiburger theologische Studien 90. Freiburg: Herder, 1971.</p>",
+      "line_text": "Frank, I. “Epistula Apostolorum.” Pages 110–11 in Der Sinn der Kanonbildung: Eine historisch-theologische Untersuchung der Zeit vom 1. Clemensbrief bis Irenäus von Lyon. Freiburger theologische Studien 90. Freiburg: Herder, 1971.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gantenbein, Florence. “‘Guides to Those Who Believe’ (EpAp 43:7): A Re-consideration of the Wise Virgins as Role Models of Ministry in the <em>Epistula Apostolorum</em>.” <em>Early Christianity</em> 13.2 (2022): 145–62.</p>",
+      "line_text": "Gantenbein, Florence. “‘Guides to Those Who Believe’ (EpAp 43:7): A Re-consideration of the Wise Virgins as Role Models of Ministry in the Epistula Apostolorum.” Early Christianity 13.2 (2022): 145–62.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gerlach, Karl. <em>The Antenicene Pascha: A Rhetorical History. </em>Liturgia condenda 7. Leuven: Peeters, 1998 (pp. 95–103).</p>",
+      "line_text": "Gerlach, Karl. The Antenicene Pascha: A Rhetorical History. Liturgia condenda 7. Leuven: Peeters, 1998 (pp. 95–103).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gry, Léon. “La date de la parousie d’après l’Epistula Apostolorum.” <em>RB</em> 49 (1940): 86–97.</p>",
+      "line_text": "Gry, Léon. “La date de la parousie d’après l’Epistula Apostolorum.” RB 49 (1940): 86–97.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch121907pari/page/n11\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guerrier, Louis. “Un ‘Testament de Notre-Seigneur et Sauveur Jésus-Christ’ en Galilée.” <em>Revue de l’Orient Chrétien</em> 12 (1907): 1–8.</p>",
+      "line_text": "Guerrier, Louis. “Un ‘Testament de Notre-Seigneur et Sauveur Jésus-Christ’ en Galilée.” Revue de l’Orient Chrétien 12 (1907): 1–8.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch121907pari/page/n11"
+      ]
+    },
+    {
+      "line_html": "<p>Gunther, J. J. “Syrian Christian Dualism.” <em>VC </em>25 (1971): 81–93 (esp. 82–83).</p>",
+      "line_text": "Gunther, J. J. “Syrian Christian Dualism.” VC 25 (1971): 81–93 (esp. 82–83).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hammerschmidt, Ernst. “Das pseudo-apostolische Schrifttum in äthiopischer Überlieferung.” <em>JSJ</em> 9 (1964): 114–21.</p>",
+      "line_text": "Hammerschmidt, Ernst. “Das pseudo-apostolische Schrifttum in äthiopischer Überlieferung.” JSJ 9 (1964): 114–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hannah, Darrell D. “The Four-fold ‘Canon’ in the <em>Epistula Apostolorum</em>.” <em>JTS</em> 59 (2008): 598–633.</p>",
+      "line_text": "Hannah, Darrell D. “The Four-fold ‘Canon’ in the Epistula Apostolorum.” JTS 59 (2008): 598–633.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf von. “Ein jüngst entdeckter Auferstuhungsbericht.” Pages 1–8 in <em>Theologische Studien: Festschrift B. Weiss.</em> Göttingen: [n.p.], 1897.</p>",
+      "line_text": "Harnack, Adolf von. “Ein jüngst entdeckter Auferstuhungsbericht.” Pages 1–8 in Theologische Studien: Festschrift B. Weiss. Göttingen: [n.p.], 1897.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hartenstein, Judith. <em>Die Zweite Lehre Erscheinungen des Auferstandenen als Rahmenerzählungen frühchristlicher Dialoge.</em> TU 146. Berlin: de Gruyter, 2015 (pp. 97–126).</p>",
+      "line_text": "Hartenstein, Judith. Die Zweite Lehre Erscheinungen des Auferstandenen als Rahmenerzählungen frühchristlicher Dialoge. TU 146. Berlin: de Gruyter, 2015 (pp. 97–126).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Geschichten von der Erscheinung des Auferstandenen in nichtkanonischen Schriften und die Entwicklung der Ostertradition.” Pages 123–42 in <em>Gelitten – Gestorben – Auferstanden: Passions- und Ostertraditionen im antiken Christentum</em>. Edited by Tobias Nicklas, Andreas Merkt, and Joseph Verheyden. Tübingen: Mohr Siebeck, 2010 (esp. pp. 129–32).</p>",
+      "line_text": "———. “Geschichten von der Erscheinung des Auferstandenen in nichtkanonischen Schriften und die Entwicklung der Ostertradition.” Pages 123–42 in Gelitten – Gestorben – Auferstanden: Passions- und Ostertraditionen im antiken Christentum. Edited by Tobias Nicklas, Andreas Merkt, and Joseph Verheyden. Tübingen: Mohr Siebeck, 2010 (esp. pp. 129–32).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hennecke, Edgar. “Ein neuer fund auf dem Gebiet der altchristlichen Literature.” <em>NKZ</em> 32 (1921): 244–57.</p>",
+      "line_text": "Hennecke, Edgar. “Ein neuer fund auf dem Gebiet der altchristlichen Literature.” NKZ 32 (1921): 244–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hill, Charles. E. “The <em>Epistula Apostolorum</em>: An Asian Tract from the Time of Polycarp.” <em>JECS</em> 7 (1999): 1–53.</p>",
+      "line_text": "Hill, Charles. E. “The Epistula Apostolorum: An Asian Tract from the Time of Polycarp.” JECS 7 (1999): 1–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “‘The Orthodox Gospel’: The Reception of John in the Great Church Prior to Irenaeus.” Pages 233–300 in <em>The Legacy of John: Second-Century Reception of the Fourth Gospel.</em> Leiden: Brill, 2010.</p>",
+      "line_text": "———. “‘The Orthodox Gospel’: The Reception of John in the Great Church Prior to Irenaeus.” Pages 233–300 in The Legacy of John: Second-Century Reception of the Fourth Gospel. Leiden: Brill, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hills, Julian V. <em>Tradition and Composition in the Epistula Apostolorum</em>. Harvard Dissertations in Religion 24. Minneapolis: Fortress, 1990. Rev. ed., Harvard Theological Studies 57. Cambridge: Harvard University Press, 2008.</p>",
+      "line_text": "Hills, Julian V. Tradition and Composition in the Epistula Apostolorum. Harvard Dissertations in Religion 24. Minneapolis: Fortress, 1990. Rev. ed., Harvard Theological Studies 57. Cambridge: Harvard University Press, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Proverbs as Sayings of Jesus in the <em>Epistula Apostolorum</em>.” Pages 7–34 in <em>The Apocryphal Jesus and Christian Origins</em>. Edited by R. Cameron. Decatur: Society of Biblical Literature Press, 1990 (= <em>Semeia</em> 49).</p>",
+      "line_text": "———. “Proverbs as Sayings of Jesus in the Epistula Apostolorum.” Pages 7–34 in The Apocryphal Jesus and Christian Origins. Edited by R. Cameron. Decatur: Society of Biblical Literature Press, 1990 (= Semeia 49).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———.  “The <em>Epistula Apostolorum </em>and the Genre ‘Apocalypse’.” <em>SBLASP</em> 25 (1986): 581–95.</p>",
+      "line_text": "———.  “The Epistula Apostolorum and the Genre ‘Apocalypse’.” SBLASP 25 (1986): 581–95.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Apostles, Epistle of.” Pages 311–12 in vol. 1 of <em>Anchor Bible Dictionary. </em>Edited by David Noel Friedman. 6 vols. New York: Doubleday, 1992.</p>",
+      "line_text": "———. “Apostles, Epistle of.” Pages 311–12 in vol. 1 of Anchor Bible Dictionary. Edited by David Noel Friedman. 6 vols. New York: Doubleday, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hornschuh, Manfred. <em>Studien zur Epistula Apostolorum</em>. PTS 5. Berlin: de Gruyter, 1965.</p>",
+      "line_text": "Hornschuh, Manfred. Studien zur Epistula Apostolorum. PTS 5. Berlin: de Gruyter, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Das Gleichnis von den zehn Jungfrauen in der Epistula Apostolorum.” <em>ZKG </em>73 (1962): 1–8.</p>",
+      "line_text": "———. “Das Gleichnis von den zehn Jungfrauen in der Epistula Apostolorum.” ZKG 73 (1962): 1–8.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>James, M. R. “Epistola Apostolorum: a Possible Quotation?” <em>JTS</em> 23 (1922): 56.</p>",
+      "line_text": "James, M. R. “Epistola Apostolorum: a Possible Quotation?” JTS 23 (1922): 56.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong> </strong>———. “The ‘Epistula Apostolorum’ in a New Text.” <em>JTS </em>12 (1911): 55–56.</p>",
+      "line_text": " ———. “The ‘Epistula Apostolorum’ in a New Text.” JTS 12 (1911): 55–56.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kiel, Nikolai. “Auferstehung des Fleiches in der Epistula Apostolorum.” <em>Vigiliae Christianae</em> 74.2 (2020): 165–98.</p>",
+      "line_text": "Kiel, Nikolai. “Auferstehung des Fleiches in der Epistula Apostolorum.” Vigiliae Christianae 74.2 (2020): 165–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lake, Kirsopp. “The Epistola Apostolorum.” <em>HTR</em> 14 (1921): 15–29.</p>",
+      "line_text": "Lake, Kirsopp. “The Epistola Apostolorum.” HTR 14 (1921): 15–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lietzmann, H. “Die Epistula Apostolorum.” <em>ZNW</em> 20 (1921): 173–76.</p>",
+      "line_text": "Lietzmann, H. “Die Epistula Apostolorum.” ZNW 20 (1921): 173–76.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span id=\"page23R_mcid6\" class=\"markedContent\"><span class=\"\" dir=\"ltr\" role=\"presentation\"><span class=\"highlight selected appended\">Lindenlau</span>b, Julia D. “The Gospel</span> <span dir=\"ltr\" role=\"presentation\">of John</span> <span dir=\"ltr\" role=\"presentation\">as</span> <span dir=\"ltr\" role=\"presentation\">Model for Literature Authors and their Texts in Epistula Apostolorum and Apocryphon of James (NHC I,2).</span><em><span dir=\"ltr\" role=\"presentation\">” Journal </span></em><em><span dir=\"ltr\" role=\"presentation\">for the Study</span> <span dir=\"ltr\" role=\"presentation\">of the New Testament</span> </em><span dir=\"ltr\" role=\"presentation\">43 (2020): 3</span><span dir=\"ltr\" role=\"presentation\">–</span><span dir=\"ltr\" role=\"presentation\">27.</span></span></p>",
+      "line_text": "Lindenlaub, Julia D. “The Gospel of John as Model for Literature Authors and their Texts in Epistula Apostolorum and Apocryphon of James (NHC I,2).” Journal for the Study of the New Testament 43 (2020): 3–27.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lona, E. Horacio. <em>Über die Auferstehung des Fleisches: Über die Auferstehung des Fleisches Studien zur frühchristlichen Eschatologie.</em> BZNW 66. Berlin: de Gruyter, 1993 (pp 79–90).</p>",
+      "line_text": "Lona, E. Horacio. Über die Auferstehung des Fleisches: Über die Auferstehung des Fleisches Studien zur frühchristlichen Eschatologie. BZNW 66. Berlin: de Gruyter, 1993 (pp 79–90).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McNeil, Brian. “Jesus and the Alphabet.” <em>JTS</em> 27 (1976): 126–28.</p>",
+      "line_text": "McNeil, Brian. “Jesus and the Alphabet.” JTS 27 (1976): 126–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Molinari, Andrea Lorenzo. “The existence of a unique, non-canonical Petrine resurrection appearance: evidence from the Gospel of Luke, Ignatius of Antioch, the Epistula Apostolorum and Nag Hammadi.” <em>Proceedings, Eastern Great Lakes and Midwest Biblical Societies</em> 18 (1998): 123–36.</p>",
+      "line_text": "Molinari, Andrea Lorenzo. “The existence of a unique, non-canonical Petrine resurrection appearance: evidence from the Gospel of Luke, Ignatius of Antioch, the Epistula Apostolorum and Nag Hammadi.” Proceedings, Eastern Great Lakes and Midwest Biblical Societies 18 (1998): 123–36.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Norelli, Enrico. “La filiación en la Epistula Apostolorum.” Pages 207–34 in <em>Filiación IV. Cultura pagana, religión de Israel, orígenes el cristianismo.</em> Edited by P. de Navascués Benlloch, M. Crespo Losada, and A. Sáez Gutiérrez. Madrid: Editorial Trotta, 2012.</p>",
+      "line_text": "Norelli, Enrico. “La filiación en la Epistula Apostolorum.” Pages 207–34 in Filiación IV. Cultura pagana, religión de Israel, orígenes el cristianismo. Edited by P. de Navascués Benlloch, M. Crespo Losada, and A. Sáez Gutiérrez. Madrid: Editorial Trotta, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Overmeire, P. van. “Livre que Jésus révéle à ses disciples: Etude sur l’apocryphe connu sous le nom d’ ‘Epistula Apostolorum’.” Institut Catholique Dissertation. Paris, 1962.</p>",
+      "line_text": "Overmeire, P. van. “Livre que Jésus révéle à ses disciples: Etude sur l’apocryphe connu sous le nom d’ ‘Epistula Apostolorum’.” Institut Catholique Dissertation. Paris, 1962.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pérès, Jacques-Noël. “L‘interprétation de la parabole des dix vierges dans l’Ép<em>î</em>tre des apôtres.” Pages 183–90 in <em>Apocryphité. Histoire d’un concept transversal aux religions du Livre: En hommage à Pierre Geoltrain</em>. Edited by Simon Mimouni. BEHE 113. Turnhout: Brepols, 2002.</p>",
+      "line_text": "Pérès, Jacques-Noël. “L‘interprétation de la parabole des dix vierges dans l’Épître des apôtres.” Pages 183–90 in Apocryphité. Histoire d’un concept transversal aux religions du Livre: En hommage à Pierre Geoltrain. Edited by Simon Mimouni. BEHE 113. Turnhout: Brepols, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Un élément de christologie quartodécimane dans l’Épître des Apôtres: l’agape pascale   comme occurrence de solidarité.” <em>Apocrypha</em> 13 (2002): 113–21.</p>",
+      "line_text": "———. “Un élément de christologie quartodécimane dans l’Épître des Apôtres: l’agape pascale   comme occurrence de solidarité.” Apocrypha 13 (2002): 113–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quasten, Johannes. <em>Patrology.</em> Vol. 1: <em>The Beginnings of Patristic Literature. </em>Utrecht: Spectrum, 1950 (pp. 150–53).</p>",
+      "line_text": "Quasten, Johannes. Patrology. Vol. 1: The Beginnings of Patristic Literature. Utrecht: Spectrum, 1950 (pp. 150–53).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Richardson, Cyril Charles. “New Solution to the Quartodeciman Riddle.” <em>JTS </em>24 (1973): 74–85.</p>",
+      "line_text": "Richardson, Cyril Charles. “New Solution to the Quartodeciman Riddle.” JTS 24 (1973): 74–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. “Eine bisher unbekkante altchristliche Schift in koptisher Sprache.” <em>SPAW</em> (1895): 705–11.</p>",
+      "line_text": "Schmidt, Carl. “Eine bisher unbekkante altchristliche Schift in koptisher Sprache.” SPAW (1895): 705–11.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Eine Epistola apostolorum in koptischer und lateinischer Überlieferung.” <em>SPAW</em> (1895): 1047–56.</p>",
+      "line_text": "———. “Eine Epistola apostolorum in koptischer und lateinischer Überlieferung.” SPAW (1895): 1047–56.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schneider, T. “Das prophetische ‘Agraphon’ der Epistola Apostolorum.” <em>ZNW </em>24 (1925): 151–54.</p>",
+      "line_text": "Schneider, T. “Das prophetische ‘Agraphon’ der Epistola Apostolorum.” ZNW 24 (1925): 151–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schumacher, H., “The Discovery of the ‘Epistola Apostolorum’.” <em>Homiletical and Pastoral Review </em>22 (1921/1922): 856–65.</p>",
+      "line_text": "Schumacher, H., “The Discovery of the ‘Epistola Apostolorum’.” Homiletical and Pastoral Review 22 (1921/1922): 856–65.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———.  “The ‘Epistola Apostolorum’ and the New Testament.” <em>Homiletical and Pastoral Review </em>22 (1921/1922): 967–75.</p>",
+      "line_text": "———.  “The ‘Epistola Apostolorum’ and the New Testament.” Homiletical and Pastoral Review 22 (1921/1922): 967–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Christology of the ‘Epistola Apostolorum’.” <em>Homiletical and Pastoral Review </em>22 (1921/1922): 1080–87, 1303–12.</p>",
+      "line_text": "———. “The Christology of the ‘Epistola Apostolorum’.” Homiletical and Pastoral Review 22 (1921/1922): 1080–87, 1303–12.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The ‘Epistola Apostolorum’ and the ‘Descensus ad Inferos’.” <em>Homiletical and Pastoral Review </em>23 (1922/1923): 13–21, 121–28.</p>",
+      "line_text": "———. “The ‘Epistola Apostolorum’ and the ‘Descensus ad Inferos’.” Homiletical and Pastoral Review 23 (1922/1923): 13–21, 121–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Staats, Reinhart. “Ogdoas als ein Symbol für die Auferstehung.” <em>VC </em>26 (1972): 29–52.</p>",
+      "line_text": "Staats, Reinhart. “Ogdoas als ein Symbol für die Auferstehung.” VC 26 (1972): 29–52.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Die torichten Jungfrauen von Mt 25 in gnosticher und antignosticher Literatur.” Pages 98–115 in <em>Christentum und Gnosis</em>. Edited by W. Eltester. BZNW 37. Berlin: Verlag, 1969.</p>",
+      "line_text": "———. “Die torichten Jungfrauen von Mt 25 in gnosticher und antignosticher Literatur.” Pages 98–115 in Christentum und Gnosis. Edited by W. Eltester. BZNW 37. Berlin: Verlag, 1969.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stewart-Sykes, Alistair. “The Asian Context of the New Prophecy and of Epistula Apostolorum.” <em>VC</em> 51 (1997): 416–38.</p>",
+      "line_text": "Stewart-Sykes, Alistair. “The Asian Context of the New Prophecy and of Epistula Apostolorum.” VC 51 (1997): 416–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vanovermeire, Pedro. “Livre que Jésus-Christ a révélé à ses disciples: étude sur l’apocryphe, connu sous le nom d’Epistula Apostolorum: premier témoin de l’influence littéraire du quatrième Evangile sur la littérature chrétienne de la première moité du second siècle.” Dr. Théol. Diss., Institute catholique de Paris, 1962.</p>",
+      "line_text": "Vanovermeire, Pedro. “Livre que Jésus-Christ a révélé à ses disciples: étude sur l’apocryphe, connu sous le nom d’Epistula Apostolorum: premier témoin de l’influence littéraire du quatrième Evangile sur la littérature chrétienne de la première moité du second siècle.” Dr. Théol. Diss., Institute catholique de Paris, 1962.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Veken, B. J. van der. “De Sensu Paschatis in Sácenlo Secundo et Epistula Apostolorum.” <em>Sams Erudin 14 </em>(1963): 5–33.</p>",
+      "line_text": "Veken, B. J. van der. “De Sensu Paschatis in Sácenlo Secundo et Epistula Apostolorum.” Sams Erudin 14 (1963): 5–33.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vinzent, M. “Give and Take amongst Second Century Authors: The Ascension of Isaiah, the Epistle of the Apostles and Marcion of Sinope.” <em>StPatr</em> 50 (2011): 126–29.</p>",
+      "line_text": "Vinzent, M. “Give and Take amongst Second Century Authors: The Ascension of Isaiah, the Epistle of the Apostles and Marcion of Sinope.” StPatr 50 (2011): 126–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vitti, Alfredo M. “De ‘Epistula Apostolorum’ apocrypha.” <em>VD </em>3 (1923): 367–73.</p>",
+      "line_text": "Vitti, Alfredo M. “De ‘Epistula Apostolorum’ apocrypha.” VD 3 (1923): 367–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Watson, Francis. <em>An Apostolic Gospel: The Epistula Apostolorum in Literary Context</em>. Cambridge: Cambridge University Press, 2020.</p>",
+      "line_text": "Watson, Francis. An Apostolic Gospel: The Epistula Apostolorum in Literary Context. Cambridge: Cambridge University Press, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Conversion of Paul: A New Perspective (<em>Epistula Apostolorum </em>31–33).” Pages 195–212 in <em>Receptions of Paul in Early Christianity The Person of Paul and His Writings Through the Eyes of His Early Interpreters</em>. Edited by Jens Schröter, Simon Butticaz, Andreas Dettwiler. BZNW 234. Berlin: de Gruyter, 2018.</p>",
+      "line_text": "———. “The Conversion of Paul: A New Perspective (Epistula Apostolorum 31–33).” Pages 195–212 in Receptions of Paul in Early Christianity The Person of Paul and His Writings Through the Eyes of His Early Interpreters. Edited by Jens Schröter, Simon Butticaz, Andreas Dettwiler. BZNW 234. Berlin: de Gruyter, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “A Gospel of the Eleven: The <em>Epistula Apostolorum</em> and the Johannine Tradition.” Pages 189–215 in <em>Connecting Gospels: Beyond the Canonical/Non-Canonical Divide.</em> Edited by Francis Watson and Sarah Parkhouse. Oxford: Oxford University Press, 2018.</p>",
+      "line_text": "———. “A Gospel of the Eleven: The Epistula Apostolorum and the Johannine Tradition.” Pages 189–215 in Connecting Gospels: Beyond the Canonical/Non-Canonical Divide. Edited by Francis Watson and Sarah Parkhouse. Oxford: Oxford University Press, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “On the Miracle Catena in <em>Epistula Apostolorum</em> 4–5.” Pages 107–28 in <em>Gospels and    Gospel Traditions in the Second Century: Experiments in Reception</em><em>. </em>Edited by Jens Schröter, Tobias Nicklas, and Joseph Verheyden. BZNW 235. Berlin: de Gruyter, 2018.</p>",
+      "line_text": "———. “On the Miracle Catena in Epistula Apostolorum 4–5.” Pages 107–28 in Gospels and    Gospel Traditions in the Second Century: Experiments in Reception. Edited by Jens Schröter, Tobias Nicklas, and Joseph Verheyden. BZNW 235. Berlin: de Gruyter, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zwaan, J. de “Date and Origin of the Epistle of the Eleven Apostles.” Pages 344–55 in <em>Amicitiae Corolla:</em><em> A Volume of Essays Presented to James Rendel Harris.</em> Edited by H. G. Wood. London: University of London Press, 1922.</p>",
+      "line_text": "Zwaan, J. de “Date and Origin of the Epistle of the Eleven Apostles.” Pages 344–55 in Amicitiae Corolla: A Volume of Essays Presented to James Rendel Harris. Edited by H. G. Wood. London: University of London Press, 1922.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

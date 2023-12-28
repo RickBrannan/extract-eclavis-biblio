@@ -1,0 +1,398 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-barnabas-by-alexander-monachus/",
+  "nasscal_toc_title": "Encomium on Barnabas, by Alexander Monachus",
+  "filename": "encomium-on-barnabas-by-alexander-monachus",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Encom. Barn.",
+  "alt_titles": [
+    "Encomium on Barnabas, by Alexander Monachus "
+  ],
+  "clavis_number": 693,
+  "category": "Apocryphal Acts",
+  "compiler": "Kelly Holob, University of Chicago Divinity School",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 821, fols. 84<sup>v</sup>–99<sup>r</sup> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67452/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 821, fols. 84v–99r (11th/12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67452/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Mount Athos, Monē Batopediou, 634, fols. 149<sup>r</sup>–172<sup>v</sup> (1422) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18778/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "B  Mount Athos, Monē Batopediou, 634, fols. 149r–172v (1422) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18778/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Istanbul, Patriarchikē Bibliothêkē, 41, fols. 38<sup>v</sup>–55<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33885/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "C  Istanbul, Patriarchikē Bibliothêkē, 41, fols. 38v–55r (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33885/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Mount Athos, Monē Dionusiou, 148, fols. 248<sup>v</sup>–266<sup>v</sup> (1540) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20116/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271050227-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "D  Mount Athos, Monē Dionusiou, 148, fols. 248v–266v (1540) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20116/",
+        "https://www.loc.gov/item/00271050227-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1179a/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>G</strong>  Paris, Bibliothèque nationale de France, gr. 1179A, fols. 2<sup>r</sup>–9<sup>v</sup> (11th cent.)</p>",
+      "line_text": "G  Paris, Bibliothèque nationale de France, gr. 1179A, fols. 2r–9v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1179a/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>H</strong>  Paris, Bibliothèque nationale de France, gr. 1219, fols. 11<sup>r</sup>–31<sup>v </sup>(11th cent.)</p>",
+      "line_text": "H  Paris, Bibliothèque nationale de France, gr. 1219, fols. 11r–31v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K </strong> Mount Athos, Monē Karakallou, 52, pp. 213–261 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25621/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "K  Mount Athos, Monē Karakallou, 52, pp. 213–261 (14th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25621/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Mount Athos, Monē Megistēs Lauras, Δ 79, fols. 61<sup>v</sup>–74<sup>r</sup> (13th/14th cent.) ~ <a href=\"https://www.loc.gov/item/00271051785-ma/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271051785-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "L  Mount Athos, Monē Megistēs Lauras, Δ 79, fols. 61v–74r (13th/14th cent.) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.loc.gov/item/00271051785-ma/",
+        "https://www.loc.gov/item/00271051785-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong> Mount Athos, Monē Koutloumousiou, 626, pp. 376–414 (1548–1549) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26654/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "M Mount Athos, Monē Koutloumousiou, 626, pp. 376–414 (1548–1549) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26654/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 29, fols. 83<sup>r</sup>–89<sup>v</sup> (1307-1308) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40690/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bibliome.it/ms-gr-029/\" target=\"_blank\" rel=\"noopener\">Messina</a></p>",
+      "line_text": "N  Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 29, fols. 83r–89v (1307-1308) ~ Pinakes; Messina",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40690/",
+        "http://www.bibliome.it/ms-gr-029/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Mount Athos, Monē Philotheou, 66, fols. 358<sup>v</sup>–381<sup>r</sup> (1340–1341) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29431/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "O  Mount Athos, Monē Philotheou, 66, fols. 358v–381r (1340–1341) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29431/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 325, fols. 82<sup>v</sup>–96<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/66057/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_325\" target=\"_blank\" rel=\"noopener\">Heidelberg</a></p>",
+      "line_text": "P  Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 325, fols. 82v–96v (10th cent.) ~ Pinakes; Heidelberg",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/66057/",
+        "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_325"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Mytilene, Monē tou Leimōnos, 43, fols. 205–218 (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/45365/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Q  Mytilene, Monē tou Leimōnos, 43, fols. 205–218 (12th/13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/45365/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Mount Athos, Monē Grēgoriou, 7, pp. 305–338 (16th/17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/21957/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "R  Mount Athos, Monē Grēgoriou, 7, pp. 305–338 (16th/17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/21957/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Mount Athos, Monē Megistēs Lauras, Ε 190, fols. 105<sup>v</sup>–119<sup>v</sup> (1645–1646) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27590/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271051505-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "S  Mount Athos, Monē Megistēs Lauras, Ε 190, fols. 105v–119v (1645–1646) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27590/",
+        "https://www.loc.gov/item/00271051505-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 655, fols. 149<sup>v</sup>–166<sup>r</sup> (1561) ~ copy of manuscript V; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67286/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1667\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "T  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 655, fols. 149v–166r (1561) ~ copy of manuscript V; Pinakes; DigiVatLib",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67286/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.1667"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong>  Mount Athos, Monē Dionusiou, 169, fols. 200–216 and 432<sup>v</sup> (1599) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20137/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271050306-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "U  Mount Athos, Monē Dionusiou, 169, fols. 200–216 and 432v (1599) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20137/",
+        "https://www.loc.gov/item/00271050306-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 110<sup>r</sup>–127<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68298/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 110r–127v (10th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68298/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong> Mount Athos, Monē Ibērōn, 594, fols. 430<sup>v</sup> and 118<sup>r</sup>–139<sup>v</sup> (1581–1591) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/24191/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "W Mount Athos, Monē Ibērōn, 594, fols. 430v and 118r–139v (1581–1591) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/24191/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Mount Athos, Monē Xēropotamou, 242, fols. 49–69 (1635) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/30795/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "X  Mount Athos, Monē Xēropotamou, 242, fols. 49–69 (1635) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/30795/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Heidelberg, Universitätsbibliothek, Pal. gr. 365, fols. 128–129 (13th cent) ~ excerpt about Peter the Fuller; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/32476/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.ub.uni-heidelberg.de/diglit/cpgraec356\" target=\"_blank\" rel=\"noopener\">Heidelberg</a></p>",
+      "line_text": "Heidelberg, Universitätsbibliothek, Pal. gr. 365, fols. 128–129 (13th cent) ~ excerpt about Peter the Fuller; Pinakes; Heidelberg",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/32476/",
+        "http://digi.ub.uni-heidelberg.de/diglit/cpgraec356"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Barlaam, 138, fols. 495<sup>v</sup>–508<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41033/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Barlaam, 138, fols. 495v–508r (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41033/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Hagiou Panteleēmonos, 205, fols. 27<sup>v</sup>–32<sup>r</sup> (18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/22344/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Hagiou Panteleēmonos, 205, fols. 27v–32r (18th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/22344/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Ibērōn, 1450, pp. 298–321 (18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25045/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Ibērōn, 1450, pp. 298–321 (18th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25045/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-ms-251/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 387–426 (1584–1585)</p>",
+      "line_text": "New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 387–426 (1584–1585)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-ms-251/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 246 (18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57318/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 246 (18th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/57318/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, gr. 1890, fol. 104 (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68519/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1890.pt.1\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a>; excerpt</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, gr. 1890, fol. 104 (15th/16th cent.) ~ Pinakes; DigiVatLib; excerpt",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68519/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1890.pt.1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII.26, fol. i (17th cent.?) ~ fragment; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70543/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII.26, fol. i (17th cent.?) ~ fragment; Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70543/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum22unse/page/n513/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Iunii</em>. Vol. 2. Antwerp: P. Jacobs 1698; 3rd ed. Paris: V. Palmé, 1867 (<em>editio princeps</em> of T by Daniel Papebroch with facing Latin translation by Guglielmo Sirleto, pp. 431–47; first ed. pp. 436–52).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Iunii. Vol. 2. Antwerp: P. Jacobs 1698; 3rd ed. Paris: V. Palmé, 1867 (editio princeps of T by Daniel Papebroch with facing Latin translation by Guglielmo Sirleto, pp. 431–47; first ed. pp. 436–52).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum22unse/page/n513/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Deun, Peter van, and Jacques Noret, eds. <em>Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho.</em> CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993 (introduction, pp. 15–79, and edition based on A, G, H, L, N, P, Q, and V, pp. 82–122, by Peter van Deun).</p>",
+      "line_text": "Deun, Peter van, and Jacques Noret, eds. Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993 (introduction, pp. 15–79, and edition based on A, G, H, L, N, P, Q, and V, pp. 82–122, by Peter van Deun).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kollmann, Bernd, and Werner Deuse. <em>Laudatio Barnabae. Lobrede auf Barnabas</em>. Turnhout: Brepols, 2007 (reprint of van Deun’s edition with facing German translation, pp. 62–129).</p>",
+      "line_text": "Kollmann, Bernd, and Werner Deuse. Laudatio Barnabae. Lobrede auf Barnabas. Turnhout: Brepols, 2007 (reprint of van Deun’s edition with facing German translation, pp. 62–129).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kollmann, Bernd, and Werner Deuse. <em>Laudatio Barnabae. Lobrede auf Barnabas</em>. Turnhout: Brepols, 2007 (reprint of van Deun’s edition with facing German translation, pp. 62–129).</p>",
+      "line_text": "Kollmann, Bernd, and Werner Deuse. Laudatio Barnabae. Lobrede auf Barnabas. Turnhout: Brepols, 2007 (reprint of van Deun’s edition with facing German translation, pp. 62–129).",
+      "language": "German",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=-pdKv5xcyegC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Braunsberger, Otto. <em>Der Apostel Barnabas. Sein Leben u. der ihm Beigelegte Brief.</em> Mainz: Kupferberg, 1876 (pp. 7–13).</p>",
+      "line_text": "Braunsberger, Otto. Der Apostel Barnabas. Sein Leben u. der ihm Beigelegte Brief. Mainz: Kupferberg, 1876 (pp. 7–13).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=-pdKv5xcyegC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Delahaye, Hippolyte. “Sants de Chypre.” <em>AnBoll</em> 26 (1907): 161–301.</p>",
+      "line_text": "Delahaye, Hippolyte. “Sants de Chypre.” AnBoll 26 (1907): 161–301.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Huffman, Joseph P. “The Donation of Zeno: St. Barnabas and the Origins of the Cypriot Archbishop’s Regalia Privileges.” <em>JEH</em> 66.2 (2015): 235–06 (esp. 238–39, 246–47).</p>",
+      "line_text": "Huffman, Joseph P. “The Donation of Zeno: St. Barnabas and the Origins of the Cypriot Archbishop’s Regalia Privileges.” JEH 66.2 (2015): 235–06 (esp. 238–39, 246–47).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kyriacou, Chrysovalantis. “Martyrdom, Memory and Sacred Topography in Early Christian Salamis.” Pages 747–60 in <em>Salamis of Cyprus: History and Archaeology from the Earliest Times to Late Antiquity</em>. Edited by Sabine Rogge, Christina Ioannou, and Theodoros Mavrojannis. Schriften des Instituts für Interdisziplinäre Zypern-Studien 13. Waxmann: Münster, 2019.</p>",
+      "line_text": "Kyriacou, Chrysovalantis. “Martyrdom, Memory and Sacred Topography in Early Christian Salamis.” Pages 747–60 in Salamis of Cyprus: History and Archaeology from the Earliest Times to Late Antiquity. Edited by Sabine Rogge, Christina Ioannou, and Theodoros Mavrojannis. Schriften des Instituts für Interdisziplinäre Zypern-Studien 13. Waxmann: Münster, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kyriacou, Chrysovalantis and Charalambos Dendrinos. “Τhe Encomium on St Barnabas by Alexander the Monk: Ecclesiastical and imperial politics in 6th century Byzantium.” Pages 374–412 in <em>K</em><em>υπριακη αγιολογια. Πρακτικα Β´ διεθνους συνεδριου Παραλίμνι, 13–15 φεβρουαρίου 2014.</em> Edited by Theodōros X. Giankou, Christina Kakkoura, Christodoulos Christodoulou, and Nikolaos Papantōniou. Politistikē Akadēmia “Hagios Epiphanios,” 2021.</p>",
+      "line_text": "Kyriacou, Chrysovalantis and Charalambos Dendrinos. “Τhe Encomium on St Barnabas by Alexander the Monk: Ecclesiastical and imperial politics in 6th century Byzantium.” Pages 374–412 in Kυπριακη αγιολογια. Πρακτικα Β´ διεθνους συνεδριου Παραλίμνι, 13–15 φεβρουαρίου 2014. Edited by Theodōros X. Giankou, Christina Kakkoura, Christodoulos Christodoulou, and Nikolaos Papantōniou. Politistikē Akadēmia “Hagios Epiphanios,” 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kollmann, Bernd. <em>Joseph Barnabas: His Life and Legacy</em>. Translated by Miranda Henry. Collegeville: Liturgical Press, 2004 (pp. 57–59).</p>",
+      "line_text": "Kollmann, Bernd. Joseph Barnabas: His Life and Legacy. Translated by Miranda Henry. Collegeville: Liturgical Press, 2004 (pp. 57–59).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kollmann, Bernd and Werner Deuse. <em>Laudatio Barnabae. Lobrede auf Barnabas</em>. Turnhout: Brepols, 2007 (pp. 25–60).</p>",
+      "line_text": "Kollmann, Bernd and Werner Deuse. Laudatio Barnabae. Lobrede auf Barnabas. Turnhout: Brepols, 2007 (pp. 25–60).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n303/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 2, pp. 298–304).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 2, pp. 298–304).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n303/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mazocchi, Alessio Simmaco. <span class=\"breaker-breaker\"><em>Neapolitanae Ecclesiae canonici et Regii S. Scripturae interpretis</em>, 2: <em>Commentarii in vetus marmoreum Sanctae Neapolitanae Ecclesiae kalendarium volumen alterums</em>. </span>Naples: Ex officina Novelli de Bonis Typographi Archiepisopalis, 1744 (pp. 553–62).</p>",
+      "line_text": "Mazocchi, Alessio Simmaco. Neapolitanae Ecclesiae canonici et Regii S. Scripturae interpretis, 2: Commentarii in vetus marmoreum Sanctae Neapolitanae Ecclesiae kalendarium volumen alterums. Naples: Ex officina Novelli de Bonis Typographi Archiepisopalis, 1744 (pp. 553–62).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p>Norelli, Enrico. “Actes de Barnabé.” Pages 617–42 in volume 2 of <em>Écrits apocryphes chrétiens. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (pp. 625–26).</p>",
+      "line_text": "Norelli, Enrico. “Actes de Barnabé.” Pages 617–42 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (pp. 625–26).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/echosdorient15pariuoft/page/134/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Salaville, S. “La moine Alexandre de Chypre (VI<sup>e</sup> Siècle).” <em>Échos d’Orient </em>15 (1912): 134–37.</p>",
+      "line_text": "Salaville, S. “La moine Alexandre de Chypre (VIe Siècle).” Échos d’Orient 15 (1912): 134–37.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/echosdorient15pariuoft/page/134/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Starowieyski, M. “Datation des <em>Actes (Voyages) de S. Barnabé</em> (<em>BHG</em> 225; <em>ClAp</em> 285) et du <em>Panégyrique de S. Barnabé par Alexandre le Moine</em> (<em>BHG</em> 226; CPG 7400; <em>ClAp</em> 286).” Pages 193–98 in <em>Philohistor. Miscellanea in honorem Caroli Laga septuagenarii</em>. Edited by A. Schoors and Peter Van Deun. OLA 60. Leuven: Peeters, 1994.</p>",
+      "line_text": "Starowieyski, M. “Datation des Actes (Voyages) de S. Barnabé (BHG 225; ClAp 285) et du Panégyrique de S. Barnabé par Alexandre le Moine (BHG 226; CPG 7400; ClAp 286).” Pages 193–98 in Philohistor. Miscellanea in honorem Caroli Laga septuagenarii. Edited by A. Schoors and Peter Van Deun. OLA 60. Leuven: Peeters, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

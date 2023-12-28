@@ -1,0 +1,485 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/vision-of-theophilus/",
+  "nasscal_toc_title": "Vision of Theophilus",
+  "filename": "vision-of-theophilus",
+  "latin_title": "Visio Theophili",
+  "abbrev": "Vis. Theo.",
+  "clavis_number": 621,
+  "category": "Infancy Gospels",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Edgbaston, University of Birmingham, Mingana Chr. Arab. 18 (olim 14), fol. 1<sup>v</sup>–16<sup>v</sup> (ca. 1670)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Chr. Arab. 18 (olim 14), fol. 1v–16v (ca. 1670)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, arabe 155, fols. 94<sup>v</sup>–109<sup>v</sup> (1486)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 155, fols. 94v–109v (1486)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Qusqam, Dayr al-Muharraq, 9/14 (1840)</p>",
+      "line_text": "Qusqam, Dayr al-Muharraq, 9/14 (1840)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Qusqam, Dayr al-Muharraq, 9/15 (1842)</p>",
+      "line_text": "Qusqam, Dayr al-Muharraq, 9/15 (1842)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Qusqam, Dayr al-Muharraq, 12/42 (1783) ~ image of first page in Morris Guirguis, p. 350</p>",
+      "line_text": "Qusqam, Dayr al-Muharraq, 12/42 (1783) ~ image of first page in Morris Guirguis, p. 350",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 170, fols. 195<sup>r</sup>–219<sup>r</sup> (1719)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 170, fols. 195r–219r (1719)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 698 fols. 102<sup>v</sup>–131<sup>r</sup> (1371) + Vat. ar. 1581 (final fol.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 698 fols. 102v–131r (1371) + Vat. ar. 1581 (final fol.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 378</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 378",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 381</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 381",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 481</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 481",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, St. John the Short Monastery, no catalog number (1722) ~ image of first page in Morris Guirguis, p. 348</p>",
+      "line_text": "Wadi El Natrun, St. John the Short Monastery, no catalog number (1722) ~ image of first page in Morris Guirguis, p. 348",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/s5rendicontidell26accauoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (textus).” <em>Rendiconti della reale Accademia dei Lincei </em>26 (1917): 381–469 (edition of Vat. ar. 698, pp. 441–69).</p>",
+      "line_text": "Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (textus).” Rendiconti della reale Accademia dei Lincei 26 (1917): 381–469 (edition of Vat. ar. 698, pp. 441–69).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/s5rendicontidell26accauoft"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/s5rendicontidell30accauoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (versio).” <em>Rendiconti della reale Accademia dei Lincei </em>30 (1921): 217–37, 274–309 (edition of Vat. ar. 170, pp. 217–37).</p>",
+      "line_text": "Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (versio).” Rendiconti della reale Accademia dei Lincei 30 (1921): 217–37, 274–309 (edition of Vat. ar. 170, pp. 217–37).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/s5rendicontidell30accauoft"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ḥunayn, Girgis. <em>Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam</em>. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (edition from an unidentified manuscript, pp. 56–72). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927 (pp. 81–106; translated into English in Morris Guirguis, “<em>Vision of Theophilus</em>,” pp. 351–69).</p>",
+      "line_text": "Ḥunayn, Girgis. Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (edition from an unidentified manuscript, pp. 56–72). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927 (pp. 81–106; translated into English in Morris Guirguis, “Vision of Theophilus,” pp. 351–69).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315"
+      ]
+    },
+    {
+      "line_html": "<p>Monferrer Sala, Juan Pedro, ed. and trans. <em>The Vision of Theophilus: The Flight of the Holy Family into Egypt</em>. Texts from Christian Late Antiquity 39. Piscataway, NJ: Gorgias Press, 2015 (edition and translation of Mingana Chr. Arab. 18).</p>",
+      "line_text": "Monferrer Sala, Juan Pedro, ed. and trans. The Vision of Theophilus: The Flight of the Holy Family into Egypt. Texts from Christian Late Antiquity 39. Piscataway, NJ: Gorgias Press, 2015 (edition and translation of Mingana Chr. Arab. 18).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Richard, Marcel. “Les Écrits de Théophile d’Alexandrie.” <em>Mus</em> 52 (1939): 33–50 (discussion of Vat. ar. 1481).</p>",
+      "line_text": "Richard, Marcel. “Les Écrits de Théophile d’Alexandrie.” Mus 52 (1939): 33–50 (discussion of Vat. ar. 1481).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>See the manuscripts listed under <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\"><em>Life of Mary (West Syriac)</em></a><em>.</em></p>",
+      "line_text": "See the manuscripts listed under Life of Mary (West Syriac).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-207/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mosul, Mar Behnam Monastery, 207 (olim 14), fols. 1<sup>r</sup>–11<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Mosul, Mar Behnam Monastery, 207 (olim 14), fols. 1r–11v (17th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-207/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-copte-131-8-fol-80-copte-131-5-121/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Copte 131<sup>8</sup>, fol. 80 + Copte 131<sup>5</sup>, fol. 121 (10th/11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte 1318, fol. 80 + Copte 1315, fol. 121 (10th/11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-copte-131-8-fol-80-copte-131-5-121/"
+      ]
+    },
+    {
+      "line_html": "<p>Suciu, Alin. “‘Me, This Wretched Sinner’: A Coptic Fragment from the Vision of Theophilus Concerning the Flight of the Holy Family to Egypt.” <em>VC </em>67 (2013): 436–50 (edition and translation of BnF Copte 131<sup>8</sup>, fol. 80).</p>",
+      "line_text": "Suciu, Alin. “‘Me, This Wretched Sinner’: A Coptic Fragment from the Vision of Theophilus Concerning the Flight of the Holy Family to Egypt.” VC 67 (2013): 436–50 (edition and translation of BnF Copte 1318, fol. 80).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Däbrä Tabor, Bethlehem Church, no shelf number, pp. 162–211 (1398–1408)</p>",
+      "line_text": "Däbrä Tabor, Bethlehem Church, no shelf number, pp. 162–211 (1398–1408)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 604, fols. 5<sup>r</sup>–18<sup>r</sup> (1716–1721)</p>",
+      "line_text": "London, British Library, Or. 604, fols. 5r–18r (1716–1721)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-605/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 605, fols. 162<sup>r</sup>–177<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 605, fols. 162r–177v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-605/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oslo and London, Schøyen Collection, MS 248 (formerly Lady Meux Collection 2), fols. 90<sup>v</sup>–101<sup>v </sup>(ca. 1682–1706) <a href=\"http://www.schoyencollection.com/24-smaller-collections/miracles-saints/ethiopia-virgin-mary-ms-248\">LINK</a></p>",
+      "line_text": "Oslo and London, Schøyen Collection, MS 248 (formerly Lady Meux Collection 2), fols. 90v–101v (ca. 1682–1706) LINK",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://www.schoyencollection.com/24-smaller-collections/miracles-saints/ethiopia-virgin-mary-ms-248"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Lady Meux Collection 3 (current location unknown)</p>",
+      "line_text": "Lady Meux Collection 3 (current location unknown)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tigray, Gunda Gunde Monastery, GG-030, fols. 1<sup>r</sup>–29<sup>r</sup> (17th cent.) ~ <a href=\"http://collections.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A68200#page/1/mode/1up\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Tigray, Gunda Gunde Monastery, GG-030, fols. 1r–29r (17th cent.) ~ IMAGES",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://collections.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A68200#page/1/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bombeck.de/stefan/einleitg.html#Einleitung\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bombeck, Stefan. <i>Die Geschichte der heiligen Maria in einer alten äthiopischen Handschrift</i>. 2 vols. Dortmund: Praxiswissen, 2004 and 2010 (facsimile of Däbrä Tabor manuscript, vol. 1, German translation, vol. 2).</p>",
+      "line_text": "Bombeck, Stefan. Die Geschichte der heiligen Maria in einer alten äthiopischen Handschrift. 2 vols. Dortmund: Praxiswissen, 2004 and 2010 (facsimile of Däbrä Tabor manuscript, vol. 1, German translation, vol. 2).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.bombeck.de/stefan/einleitg.html#Einleitung"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/gri_33125008690600#page/n1/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. W. <em>The Miracles of the Blessed Mary and the life of Hannâ (Saint Anne), and the magical prayers of A̕hĕta Mîkâêl.</em> London: W. Griggs, 1900 (edition of the “short recension” based on Schøyen 248, pp. 62–70; English translation pp. 111–31).</p>",
+      "line_text": "Budge, E. A. W. The Miracles of the Blessed Mary and the life of Hannâ (Saint Anne), and the magical prayers of A̕hĕta Mîkâêl. London: W. Griggs, 1900 (edition of the “short recension” based on Schøyen 248, pp. 62–70; English translation pp. 111–31).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/gri_33125008690600#page/n1/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Rossini, Carlo Conti. “Il discorso su Monte Coscam attribuito a Teofilo d’Alessandria nella versione etiopica.” <em>Rendiconti della reale Accademia dei Lincei</em> 21 (1912): 395–71 (edition of the “long recension,” pp. 401–41, translation pp. 442–71).</p>",
+      "line_text": "Rossini, Carlo Conti. “Il discorso su Monte Coscam attribuito a Teofilo d’Alessandria nella versione etiopica.” Rendiconti della reale Accademia dei Lincei 21 (1912): 395–71 (edition of the “long recension,” pp. 401–41, translation pp. 442–71).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>See the manuscripts listed under <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\"><em>Life of Mary (West Syriac)</em></a>.</p>",
+      "line_text": "See the manuscripts listed under Life of Mary (West Syriac).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p>Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (textus).” <em>Rendiconti della reale Accademia dei Lincei </em>26 (1917): 381–469 (edition of Vat. Borg. 128, pp. 391–440).</p>",
+      "line_text": "Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (textus).” Rendiconti della reale Accademia dei Lincei 26 (1917): 381–469 (edition of Vat. Borg. 128, pp. 391–440).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.archive.org/details/woodbrookestudie03theouoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “The Vision of Theophilus, Or the Book of the Flight of the Holy Family into Egypt.” <em>Bulletin of the John Rylands Library</em> 13 (1929), 383–474. Reprinted in idem, <em>Woodbroke Studies.</em> Fascicle 3. Cambridge: W. Heffer &amp; Sons, Ltd., 1931 (Edition based on Mingana Syr. 5, Syr. 48, and Vat. Borg. 128).</p>",
+      "line_text": "Mingana, Alphonse. “The Vision of Theophilus, Or the Book of the Flight of the Holy Family into Egypt.” Bulletin of the John Rylands Library 13 (1929), 383–474. Reprinted in idem, Woodbroke Studies. Fascicle 3. Cambridge: W. Heffer &amp; Sons, Ltd., 1931 (Edition based on Mingana Syr. 5, Syr. 48, and Vat. Borg. 128).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.archive.org/details/woodbrookestudie03theouoft"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/gri_33125008690600#page/n1/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. W. <em>The Miracles of the Blessed Mary and the life of Hannâ (Saint Anne), and the magical prayers of A̕hĕta Mîkâêl.</em> London: W. Griggs, 1900 (translation of Schøyen 248, pp. 11–31).</p>",
+      "line_text": "Budge, E. A. W. The Miracles of the Blessed Mary and the life of Hannâ (Saint Anne), and the magical prayers of A̕hĕta Mîkâêl. London: W. Griggs, 1900 (translation of Schøyen 248, pp. 11–31).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/stream/gri_33125008690600#page/n1/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/legendsofourlady00budgrich\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. W. <em>Legends of our Lady Mary the Perpetual Virgin and Her Mother Hannâ t<span class=\"a\">ranslated from the Ethiopic Manuscripts collected by </span><span class=\"a\">King Theodore at Makdal</span><span class=\"a\">ā</span><span class=\"a\"> and now in the British Museum</span>. </em>London: Medici Society, 1922 (translation based on Schøyen 248 and British Library, Orient. 604, pp. 61–80).</p>",
+      "line_text": "Budge, E. A. W. Legends of our Lady Mary the Perpetual Virgin and Her Mother Hannâ translated from the Ethiopic Manuscripts collected by King Theodore at Makdalā and now in the British Museum. London: Medici Society, 1922 (translation based on Schøyen 248 and British Library, Orient. 604, pp. 61–80).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/legendsofourlady00budgrich"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.archive.org/details/woodbrookestudie03theouoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “The Vision of Theophilus, Or the Book of the Flight of the Holy Family into Egypt.” <em>Bulletin of the John Rylands Library</em> 13 (1929), 383–474. Reprinted in idem, <em>Woodbroke Studies.</em> Fascicle 3. Cambridge: W. Heffer &amp; Sons, Ltd., 1931 (translation of edition based on Mingana Syr. 5, Syr. 48, and Vat. Borg. 128).</p>",
+      "line_text": "Mingana, Alphonse. “The Vision of Theophilus, Or the Book of the Flight of the Holy Family into Egypt.” Bulletin of the John Rylands Library 13 (1929), 383–474. Reprinted in idem, Woodbroke Studies. Fascicle 3. Cambridge: W. Heffer &amp; Sons, Ltd., 1931 (translation of edition based on Mingana Syr. 5, Syr. 48, and Vat. Borg. 128).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://www.archive.org/details/woodbrookestudie03theouoft"
+      ]
+    },
+    {
+      "line_html": "<p>Monferrer Sala, Juan Pedro, ed. and trans. <em>The Vision of Theophilus: The Flight of the Holy Family into Egypt</em>. Texts from Christian Late Antiquity 39. Piscataway, NJ: Gorgias Press, 2015 (translation of Mingana Chr. Arab. 18, pp. 83–108).</p>",
+      "line_text": "Monferrer Sala, Juan Pedro, ed. and trans. The Vision of Theophilus: The Flight of the Holy Family into Egypt. Texts from Christian Late Antiquity 39. Piscataway, NJ: Gorgias Press, 2015 (translation of Mingana Chr. Arab. 18, pp. 83–108).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/s5rendicontidell30accauoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (versio).” <em>Rendiconti della reale Accademia dei Lincei </em>30 (1921/1922): 217–37, 274–309 (translation of Vat. Borg. Syr. 128, pp. 274–309).</p>",
+      "line_text": "Guidi, Michelangelo. “La omelia di Teofili di Alessandria sul Monte Coscam nelle letterature orientali (versio).” Rendiconti della reale Accademia dei Lincei 30 (1921/1922): 217–37, 274–309 (translation of Vat. Borg. Syr. 128, pp. 274–309).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/s5rendicontidell30accauoft"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/churchesandmona00maqrgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Abû Ṣâliḥ al-Armanī. <em>The Churches and Monasteries of Egypt and Some Neighbouring Countries Attributed to Abû Ṣâliḥ, the Armenian</em>. Edited and Translated by B. T. A. Evetts, with added notes by Alfred J. Butler. Oxford: Clarendon Press, 1895. Reprinted Piscataway, NJ: Gorgias Press, 2001 (see pp. 99–101, 224–227).</p>",
+      "line_text": "Abû Ṣâliḥ al-Armanī. The Churches and Monasteries of Egypt and Some Neighbouring Countries Attributed to Abû Ṣâliḥ, the Armenian. Edited and Translated by B. T. A. Evetts, with added notes by Alfred J. Butler. Oxford: Clarendon Press, 1895. Reprinted Piscataway, NJ: Gorgias Press, 2001 (see pp. 99–101, 224–227).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/churchesandmona00maqrgoog"
+      ]
+    },
+    {
+      "line_html": "<p>al-Muharraqi, Angelos, et al. “The Monastery of the Holy Virgin Mary at al-Muharraq, Mount Qusqam: History and Heritage (Reflections of Its Monks).” Pages 77–87 in <em>Christianity and Monasticism in Middle Egypt: Al-Minya and Asyut</em>. Edited by Gawdat Gabra and Hany N. Takla. Cairo and New York: American University in Cairo Press, 2015.</p>",
+      "line_text": "al-Muharraqi, Angelos, et al. “The Monastery of the Holy Virgin Mary at al-Muharraq, Mount Qusqam: History and Heritage (Reflections of Its Monks).” Pages 77–87 in Christianity and Monasticism in Middle Egypt: Al-Minya and Asyut. Edited by Gawdat Gabra and Hany N. Takla. Cairo and New York: American University in Cairo Press, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bassili, William F. <em>The Flight into Egypt</em>. Cairo: Dar Memphis Press, 1968.</p>",
+      "line_text": "Bassili, William F. The Flight into Egypt. Cairo: Dar Memphis Press, 1968.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Boud’hors, Anne and Ramez Botros. “La Saint Famille à Gabal al-Tayr et l’homélie du Rocher.” Pages 59–76 in <em>Études coptes VII. Neuvième journée d’études Montpelier, 3–4 June, 1999.</em> Edited by N. Bosson. Leuven: Peeters, 2000.</p>",
+      "line_text": "Boud’hors, Anne and Ramez Botros. “La Saint Famille à Gabal al-Tayr et l’homélie du Rocher.” Pages 59–76 in Études coptes VII. Neuvième journée d’études Montpelier, 3–4 June, 1999. Edited by N. Bosson. Leuven: Peeters, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________, eds. <em>L’homélie sur l’Église du Rocher attribuée à Timothée Aelure.</em> Patrologia Orientalis 49/1. Turnhout: Brepols, 2001 (a fifth-century Coptic homily that refers to and summarizes <em>Vis. Theo.</em>).</p>",
+      "line_text": "__________, eds. L’homélie sur l’Église du Rocher attribuée à Timothée Aelure. Patrologia Orientalis 49/1. Turnhout: Brepols, 2001 (a fifth-century Coptic homily that refers to and summarizes Vis. Theo.).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bovon, François. “L’enfant Jésus durant la fuite en Égypte: Les récits apocryphes de l’enfance comme légendes profitables à l’âme.” Pages 249–70 in <em>The Apocryphal Gospels within the Context of Early Christian Theology</em>. Edited by Jens Schröter. BETL 260. Leuven: Peeters, 2013.</p>",
+      "line_text": "Bovon, François. “L’enfant Jésus durant la fuite en Égypte: Les récits apocryphes de l’enfance comme légendes profitables à l’âme.” Pages 249–70 in The Apocryphal Gospels within the Context of Early Christian Theology. Edited by Jens Schröter. BETL 260. Leuven: Peeters, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cerulli, Enrico.<em> I<span class=\"a\">l libro etiopico dei Miracoli di Maria e le sue fonti nelle </span><span class=\"a\">letterature del Medio Evo latino. </span></em><span class=\"a\">R. Università di Roma. Studi pubblicati a cura </span><span class=\"a\">della Scuola Orientale 1. Roma: Dott. Giovanni Bardi Editore 1943 </span>(pp. 206–208).</p>",
+      "line_text": "Cerulli, Enrico. Il libro etiopico dei Miracoli di Maria e le sue fonti nelle letterature del Medio Evo latino. R. Università di Roma. Studi pubblicati a cura della Scuola Orientale 1. Roma: Dott. Giovanni Bardi Editore 1943 (pp. 206–208).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cowan, James. <em>Fleeing Herod: A Journey Through Coptic Egypt with the Holy Family.</em> Brewster, MA: Paraclete Press, 2013.</p>",
+      "line_text": "Cowan, James. Fleeing Herod: A Journey Through Coptic Egypt with the Holy Family. Brewster, MA: Paraclete Press, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davis, Stephen J. “Ancient Sources for the Coptic Tradition.” Pages 133–62 in <em>Be Thou There: The Holy Family’s Journey in Egypt</em>. Edited by Gawdat Gabra. Cairo &amp; New York : American University in Cairo Press, 2001.</p>",
+      "line_text": "Davis, Stephen J. “Ancient Sources for the Coptic Tradition.” Pages 133–62 in Be Thou There: The Holy Family’s Journey in Egypt. Edited by Gawdat Gabra. Cairo &amp; New York : American University in Cairo Press, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Coptic Christology in Practice: Incarnation and Divine Participation in Late Antique and Medieval Egypt</em>. OECS. Oxford: Oxford University Press, 2008.</p>",
+      "line_text": "__________. Coptic Christology in Practice: Incarnation and Divine Participation in Late Antique and Medieval Egypt. OECS. Oxford: Oxford University Press, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Desreumaux, Alain. “Les apocryphes syriaques sur Jésus et sa famille.” Pages 51–69 in <em>Les apocryphes syriaques</em>. Edited by Muriel Debié, Alain Desreumaux, Christelle Jullien, and Florence Jullien. Études syriaques 2. Paris: Geuthner, 2005.</p>",
+      "line_text": "Desreumaux, Alain. “Les apocryphes syriaques sur Jésus et sa famille.” Pages 51–69 in Les apocryphes syriaques. Edited by Muriel Debié, Alain Desreumaux, Christelle Jullien, and Florence Jullien. Études syriaques 2. Paris: Geuthner, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Farid, Samir W. <em>The Flight into Egypt</em>. Cairo: Yousef Abdalla, 1965.</p>",
+      "line_text": "Farid, Samir W. The Flight into Egypt. Cairo: Yousef Abdalla, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Georgy, Fathy S. <em>The Holy Family in Egypt</em>. Cairo: Dar Nubar, 1998.</p>",
+      "line_text": "Georgy, Fathy S. The Holy Family in Egypt. Cairo: Dar Nubar, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gero, Stephen. “Apocryphal Gospels: A Survey of Textual and Literary Problems.” Pages 3969–96 in <em>Aufstieg und Niedergang der Römischen Welt</em> 25.2.2. Edited by Hildegard Temporini and Wolfgang Haase. New York: de Gruyter, 1988 (See pp. 3983–84).</p>",
+      "line_text": "Gero, Stephen. “Apocryphal Gospels: A Survey of Textual and Literary Problems.” Pages 3969–96 in Aufstieg und Niedergang der Römischen Welt 25.2.2. Edited by Hildegard Temporini and Wolfgang Haase. New York: de Gruyter, 1988 (See pp. 3983–84).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Graf, George. <em>Geschichte der christlichen Arabischen Literatur.</em> 5 vols Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (see vol. 1, pp. 229–32).</p>",
+      "line_text": "Graf, George. Geschichte der christlichen Arabischen Literatur. 5 vols Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (see vol. 1, pp. 229–32).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gregorius. <em>Al-Muharraq Monastery.</em> Fagalla: Dar El-Geel, 1990.</p>",
+      "line_text": "Gregorius. Al-Muharraq Monastery. Fagalla: Dar El-Geel, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://fau.digital.flvc.org/islandora/object/fau%3A2956/datastream/OBJ/view/Vision_of_Theophilus.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guirguis, Fatin Morris. “The <em>Vision of Theophilus</em>: Resistance Through Orality Among the Persecuted Copts.” PhD diss., Florida Atlantic University, 2010.</p>",
+      "line_text": "Guirguis, Fatin Morris. “The Vision of Theophilus: Resistance Through Orality Among the Persecuted Copts.” PhD diss., Florida Atlantic University, 2010.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://fau.digital.flvc.org/islandora/object/fau%3A2956/datastream/OBJ/view/Vision_of_Theophilus.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Hulsman, Cornelius. “Tracing the Route of the Holy Family Today.” Pages 31–131 in <em>Be Thou There: The Holy Family’s Journey in Egypt</em>. Edited by Gawdat Gabra. Cairo and New York: American University in Cairo Press, 2001.</p>",
+      "line_text": "Hulsman, Cornelius. “Tracing the Route of the Holy Family Today.” Pages 31–131 in Be Thou There: The Holy Family’s Journey in Egypt. Edited by Gawdat Gabra. Cairo and New York: American University in Cairo Press, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Iskander, Michael M. <em>Jesus Christ in Egypt: The Events, Traditions and Sites of Halts during the Journey of the Holy Family into Egypt</em>. Cairo: Mahaba Bookshop, 1999.</p>",
+      "line_text": "Iskander, Michael M. Jesus Christ in Egypt: The Events, Traditions and Sites of Halts during the Journey of the Holy Family into Egypt. Cairo: Mahaba Bookshop, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mar Girgis Nuns’ Monastery. <em>Visit of the Holy Family to Egypt and Misr Qadima, 2000 Years’ Commemoration.</em> Misr Qadima: MarGirgis Nuns’ Monastery, 2000.</p>",
+      "line_text": "Mar Girgis Nuns’ Monastery. Visit of the Holy Family to Egypt and Misr Qadima, 2000 Years’ Commemoration. Misr Qadima: MarGirgis Nuns’ Monastery, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meinardus, Otto. <em>The Holy Family in Egypt.</em> Cairo: American University in Cairo Press, 1983.</p>",
+      "line_text": "Meinardus, Otto. The Holy Family in Egypt. Cairo: American University in Cairo Press, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Morris Guirguis, Fatin. “The <em>Vision of Theophilus</em>: Resistance Through Orality Among the Persecuted Copts.” PhD diss., Florida Atlantic University, 2010.</p>",
+      "line_text": "Morris Guirguis, Fatin. “The Vision of Theophilus: Resistance Through Orality Among the Persecuted Copts.” PhD diss., Florida Atlantic University, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Monferrer Sala, Juan Pedro. <em>Textos apócrifos árabes cristianos</em>. Madrid: Ed. Trotta, 2003.</p>",
+      "line_text": "Monferrer Sala, Juan Pedro. Textos apócrifos árabes cristianos. Madrid: Ed. Trotta, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Naffah, Charles. “Les ‘histoires’ syriaques de la Vierge: traditions apocryphes anciennes et récentes.” <em>Apocrypha</em> 20 (2009): 137–88.</p>",
+      "line_text": "Naffah, Charles. “Les ‘histoires’ syriaques de la Vierge: traditions apocryphes anciennes et récentes.” Apocrypha 20 (2009): 137–88.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nau, François. “La version syriaque de la vision de Théophile sur le séjour de la Vierge en Egypte.” <em>Revue de l’Orient Chrétien</em> 15 (1910): 125–32.</p>",
+      "line_text": "Nau, François. “La version syriaque de la vision de Théophile sur le séjour de la Vierge en Egypte.” Revue de l’Orient Chrétien 15 (1910): 125–32.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perry, Paul.<em> Jesus in Egypt: Discovering the Secrets of Christ’s Childhood Years.</em> New York: Ballantine, 2005.</p>",
+      "line_text": "Perry, Paul. Jesus in Egypt: Discovering the Secrets of Christ’s Childhood Years. New York: Ballantine, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sadek, Ashref A. <em>Un fleuve d’eau vive</em>. 2 vols. Le Monde Copte  34–35. Limoges: Sadek and Sadek, 2011/2017.</p>",
+      "line_text": "Sadek, Ashref A. Un fleuve d’eau vive. 2 vols. Le Monde Copte  34–35. Limoges: Sadek and Sadek, 2011/2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Place of Qusqam in the Textual Data on the Flight into Egypt.” Pages 113–21 in <em>Christianity and Monasticism in Middle Egypt: Al-Minya and Asyut</em>. Edited by Gawdat Gabra and Hany N. Takla. Cairo and New York: American University in Cairo Press, 2015.</p>",
+      "line_text": "__________. “The Place of Qusqam in the Textual Data on the Flight into Egypt.” Pages 113–21 in Christianity and Monasticism in Middle Egypt: Al-Minya and Asyut. Edited by Gawdat Gabra and Hany N. Takla. Cairo and New York: American University in Cairo Press, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Youssef, Youhanna Nessim. “Notes on the Traditions concerning the Flight of the Holy Family into Egypt.” <em>Coptic Church Review</em> 20.2 (1999): 48–55.</p>",
+      "line_text": "Youssef, Youhanna Nessim. “Notes on the Traditions concerning the Flight of the Holy Family into Egypt.” Coptic Church Review 20.2 (1999): 48–55.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

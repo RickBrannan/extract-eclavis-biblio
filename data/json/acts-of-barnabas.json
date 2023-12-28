@@ -1,0 +1,439 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-barnabas/",
+  "nasscal_toc_title": "Acts of Barnabas",
+  "filename": "acts-of-barnabas",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Acts Barn.",
+  "alt_titles": [
+    "Travels and Martyrdom of Saint Barnabas the Apostle"
+  ],
+  "clavis_number": 422,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p><em>Recension </em><em>Σ</em></p>",
+      "line_text": "Recension Σ",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong> Mount Athos, Monē Batopediou, 84, fols. 128–30 (9th/10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18231/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; Bonnet did not provide precise identification in his edition, but this is likely the correct manuscript</p>",
+      "line_text": "B Mount Athos, Monē Batopediou, 84, fols. 128–30 (9th/10th cent.) ~ Pinakes; Bonnet did not provide precise identification in his edition, but this is likely the correct manuscript",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18231/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo’, gr. 29, fols. 81<sup>r</sup>–83<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40690/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bibliome.it/ms-gr-029/\" target=\"_blank\" rel=\"noopener\">Messina</a></p>",
+      "line_text": "M  Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo’, gr. 29, fols. 81r–83r (12th cent.) ~ Pinakes; Messina",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40690/",
+        "http://www.bibliome.it/ms-gr-029/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1219/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>Q</strong>  Paris, Bibliothèque nationale de France, gr. 1219, fols. 31<sup>v</sup>–37<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, gr. 1219, fols. 31v–37v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1219/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>U</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 821, fols. 99<sup>v</sup>–103 (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67452/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "U  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 821, fols. 99v–103 (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67452/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 105–110 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68298/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1667\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 105–110 (11th cent.) ~ Pinakes; BAV",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68298/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.1667"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, University Library, Add. 4489, fols. 11<sup>r</sup>–11<sup>v</sup> (8th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12127/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://cudl.lib.cam.ac.uk/view/MS-ADD-04489/1\" target=\"_blank\" rel=\"noopener\">Cambridge</a></p>",
+      "line_text": "Cambridge, University Library, Add. 4489, fols. 11r–11v (8th cent.) ~ Pinakes; Cambridge",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12127/",
+        "https://cudl.lib.cam.ac.uk/view/MS-ADD-04489/1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, University Library, Fonds ancien LI.V.02 (2200), pp. 114–119 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12223/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Cambridge, University Library, Fonds ancien LI.V.02 (2200), pp. 114–119 (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12223/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Koutlousmousiou, 2 (Lambdos 3071), fols. 202–208 (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26027/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Koutlousmousiou, 2 (Lambdos 3071), fols. 202–208 (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26027/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Megistēs Lauras, Γ 87 (Eustratiades 327), fols. 221–225 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27259/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Γ 87 (Eustratiades 327), fols. 221–225 (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27259/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Philotheou, 8 (Lambros 1771), fols. 62<sup>v</sup>–65<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29372/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Philotheou, 8 (Lambros 1771), fols. 62v–65v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29372/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo’, gr. 26, fols. 59<sup>r</sup>–63<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40687/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bibliome.it/ms-gr-026/\" target=\"_blank\" rel=\"noopener\">Messina</a></p>",
+      "line_text": "Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo’, gr. 26, fols. 59r–63v (12th/13th cent.) ~ Pinakes; Messina",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40687/",
+        "http://www.bibliome.it/ms-gr-026/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1179A, fol. 2<sup>r</sup>–2<sup>v</sup> (11th cent.) ~ subsequent page missing; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50782/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10722171m\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1179A, fol. 2r–2v (11th cent.) ~ subsequent page missing; Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50782/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10722171m"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum22unse/page/n513/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Iunii</em>. Vol. 2. Antwerp: P. Jacobs 1698; 3rd ed. Paris: V. Palmé, 1867 (reprint of Latin text from Mombritius, pp. 417–20; <em>editio princeps</em> of Greek text by Daniel Papebroek based on V with Latin translation by Guilielmi Sirleti, pp. 425–30).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Iunii. Vol. 2. Antwerp: P. Jacobs 1698; 3rd ed. Paris: V. Palmé, 1867 (reprint of Latin text from Mombritius, pp. 417–20; editio princeps of Greek text by Daniel Papebroek based on V with Latin translation by Guilielmi Sirleti, pp. 425–30).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum22unse/page/n513/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/291/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Acta Barnabae.” Pages xxvii–xxviii and 292–302 in vol. 2.2 of <em>Acta apostolorum apocrypha</em>. Edited by Richard Adelbert Lipsius and Maximilien Bonnet. 2 vols. in 3. Leipzig: H. Mendelssohn, 1903; repr. Hildesheim: Olms, 1972 (edition based on P, B, M, Q, U, V).</p>",
+      "line_text": "Bonnet, Maximilien. “Acta Barnabae.” Pages xxvii–xxviii and 292–302 in vol. 2.2 of Acta apostolorum apocrypha. Edited by Richard Adelbert Lipsius and Maximilien Bonnet. 2 vols. in 3. Leipzig: H. Mendelssohn, 1903; repr. Hildesheim: Olms, 1972 (edition based on P, B, M, Q, U, V).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/291/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><em>Recension P</em></p>",
+      "line_text": "Recension P",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1470/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P</strong> Paris, Bibliothèque nationale de France, gr. 1470, fols. 55<sup>v</sup>–57<sup>v</sup>, 66<sup>r</sup>–67<sup>r</sup> (890)</p>",
+      "line_text": "P Paris, Bibliothèque nationale de France, gr. 1470, fols. 55v–57v, 66r–67r (890)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1470/"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and Σ with facing Spanish translation, vol. 3, pp. 433–53).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and Σ with facing Spanish translation, vol. 3, pp. 433–53).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actaapostolorum00actsgoog/page/64/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Acta apostolorum apocrypha</em>. Leipzig: Avenarius et Mendelssohn, 1851 (edition based on V and P; introduction pp. xxvi–xxxi, edition pp. 64–74).</p>",
+      "line_text": "Tischendorf, Constantin. Acta apostolorum apocrypha. Leipzig: Avenarius et Mendelssohn, 1851 (edition based on V and P; introduction pp. xxvi–xxxi, edition pp. 64–74).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actaapostolorum00actsgoog/page/64/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Trinity College, 737 (olim G.04.16), fols. 126<sup>v</sup> (9th and 12th/13th cent.)</p>",
+      "line_text": "Dublin, Trinity College, 737 (olim G.04.16), fols. 126v (9th and 12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 98<sup>r</sup>–102<sup>r</sup> (12th cent.) </span></span></p>",
+      "line_text": "Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 98r–102r (12th cent.) ",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Montecassino, Archivio di Montecassino, 145, pp. 500–504 (11th cent.)</p>",
+      "line_text": "Montecassino, Archivio di Montecassino, 145, pp. 500–504 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 131<sup>v</sup>–139<sup>r</sup>; illustrations fol. 139<sup>v</sup>, 140<sup>r</sup> (1175)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 131v–139r; illustrations fol. 139v, 140r (1175)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 89<sup>r</sup>–89<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 89r–89v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sanctuariumseuvi01momb/page/130/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mombritius, Boninus, ed. <em>Sanctuarium seu Vitae sanctorum. Novam editionem curaverunt duo monachi Solesmenses</em>. 2 vols. 1480. New edition, Paris: Albertum Fontemoing, 1910; repr. New York: Hildesheim, 1978 (Latin text combining the Cyprus traditions with traditions about the apostle in Milan, vol. 1, pp. 130–35).</p>",
+      "line_text": "Mombritius, Boninus, ed. Sanctuarium seu Vitae sanctorum. Novam editionem curaverunt duo monachi Solesmenses. 2 vols. 1480. New edition, Paris: Albertum Fontemoing, 1910; repr. New York: Hildesheim, 1978 (Latin text combining the Cyprus traditions with traditions about the apostle in Milan, vol. 1, pp. 130–35).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sanctuariumseuvi01momb/page/130/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&amp;groesser=&amp;fip=xssdaseayasdaseayasdaseneayayzts&amp;no=13&amp;seite=162\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Nausea, Friedrich. <em>Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae</em>. Cologne: Peter Quentel, 1531 (Latin text from unidentified source [=recension n], fols. 72v–75v).</p>",
+      "line_text": "Nausea, Friedrich. Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae. Cologne: Peter Quentel, 1531 (Latin text from unidentified source [=recension n], fols. 72v–75v).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&groesser=&fip=xssdaseayasdaseayasdaseneayayzts&no=13&seite=162"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=bLcQ5QPlge8C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tosti, Luigi, ed. <em>Biblioth</em><em>eca Casinensis seu codicum manuscriptorum qui in tabulario Casinensi asseruantur . . . ,</em> III: <em>Florilegeum</em>. 5 vols. Monte Cassino: Ex Typographia Casinensi, 1873–1894 (critical edition of recension c from Montecassino 145 [described pp. 287–94], vol. 3, pp. 354–57).</p>",
+      "line_text": "Tosti, Luigi, ed. Bibliotheca Casinensis seu codicum manuscriptorum qui in tabulario Casinensi asseruantur . . . , III: Florilegeum. 5 vols. Monte Cassino: Ex Typographia Casinensi, 1873–1894 (critical edition of recension c from Montecassino 145 [described pp. 287–94], vol. 3, pp. 354–57).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=bLcQ5QPlge8C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bucharest, Biblioteca Academiei R. P. R, 164, fols. 281<span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><sup>v</sup></span></span>–286<span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><sup>r</sup></span></span> (15th cent.)</p>",
+      "line_text": "Bucharest, Biblioteca Academiei R. P. R, 164, fols. 281v–286r (15th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (description of text and sources, vol. 1, pp. 136–37).</p>",
+      "line_text": "Santos Otero, Aurelio. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (description of text and sources, vol. 1, pp. 136–37).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kaluznjackij, Emil. “Sborniki Njameckogo Monstyrja Nnr. 20 i 106 [164].” <em>Sbornik Otdelenija Russkago Jazyka i Slovesnosti Imp. Akademii Nauk</em> 83/2 (1907): 50–57 (critical edition of Bucharest 154).</p>",
+      "line_text": "Kaluznjackij, Emil. “Sborniki Njameckogo Monstyrja Nnr. 20 i 106 [164].” Sbornik Otdelenija Russkago Jazyka i Slovesnosti Imp. Akademii Nauk 83/2 (1907): 50–57 (critical edition of Bucharest 154).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><sup> </sup><strong>3.2 Translations</strong></p>",
+      "line_text": " 3.2 Translations",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/292/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s edition, pp. 293–300).</p>",
+      "line_text": "Walker, Alexander. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s edition, pp. 293–300).",
+      "language": "English",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/292/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Snyder, Glenn E. “The Acts of Barnabas: A New Translation and Introduction.” Pages 317–36 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (translation of Bonnet’s edition).</p>",
+      "line_text": "Snyder, Glenn E. “The Acts of Barnabas: A New Translation and Introduction.” Pages 317–36 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (translation of Bonnet’s edition).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong> </strong>3.2.2 French</p>",
+      "line_text": " 3.2.2 French",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Norelli, Enrico. “Actes de Barnabé.” Pages 617–42 in volume 2 of <em>Écrits apocryphes chrétiens. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Norelli, Enrico. “Actes de Barnabé.” Pages 617–42 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli Apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966–1981 (introduction and translation in vol. 2, pp. 595–600).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (introduction and translation in vol. 2, pp. 595–600).",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and Σ with facing Spanish translation, vol. 3, pp. 365–429).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and Σ with facing Spanish translation, vol. 3, pp. 365–429).",
+      "language": "Spanish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=-pdKv5xcyegC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Braunsberger, Otto. <em>Der Apostel Barnabas. Sein Leben u. der ihm Beigelegte Brief.</em> Mainz: Kupferberg, 1876 (pp. 1–7).</p>",
+      "line_text": "Braunsberger, Otto. Der Apostel Barnabas. Sein Leben u. der ihm Beigelegte Brief. Mainz: Kupferberg, 1876 (pp. 1–7).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=-pdKv5xcyegC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Czachesz, Istaván. <em>Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts</em>. Leuven: Peeters, 2007 (pp. 184–207).</p>",
+      "line_text": "Czachesz, Istaván. Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts. Leuven: Peeters, 2007 (pp. 184–207).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Delehaye, Hippolyte. “Saints de Chypre.” <em>AnBoll</em> 26 (1907): 161–301.</p>",
+      "line_text": "Delehaye, Hippolyte. “Saints de Chypre.” AnBoll 26 (1907): 161–301.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dilley, Paul C. “The Invention of Christian Tradition: ‘Apocrypha,’ Imperial Policy, and Anti-Jewish Propaganda.” <em>GRBS</em> 50 (2010): 586–615.</p>",
+      "line_text": "Dilley, Paul C. “The Invention of Christian Tradition: ‘Apocrypha,’ Imperial Policy, and Anti-Jewish Propaganda.” GRBS 50 (2010): 586–615.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=yale.39002007076921&amp;view=1up&amp;seq=9&amp;skin=2021\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hackett, John. <em>A History of the Orthodox Church of Cyprus</em>. London: Methuen &amp; Co., 1901 (see pp. 4–5, 23–26).</p>",
+      "line_text": "Hackett, John. A History of the Orthodox Church of Cyprus. London: Methuen &amp; Co., 1901 (see pp. 4–5, 23–26).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=yale.39002007076921&view=1up&seq=9&skin=2021"
+      ]
+    },
+    {
+      "line_html": "<p>Halkin, François. “Les Actes apocryphes de saint Héraclide de Chypre, disciple de l’apôtre Barnabé.” <em>AnBoll</em> 82 (1964): 133–70.</p>",
+      "line_text": "Halkin, François. “Les Actes apocryphes de saint Héraclide de Chypre, disciple de l’apôtre Barnabé.” AnBoll 82 (1964): 133–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kollmann, Bernd. <em>Joseph Barnabas: His Life and Legacy.</em> Translated by Miranda Henry. Collegeville: Liturgical Press, 2004 (esp. pp. 56–57).</p>",
+      "line_text": "Kollmann, Bernd. Joseph Barnabas: His Life and Legacy. Translated by Miranda Henry. Collegeville: Liturgical Press, 2004 (esp. pp. 56–57).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n275/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (<em>Acts Barn.</em> is examined in 2:270–320).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. Braunschweig: Schwetschke, 1883–1887 (Acts Barn. is examined in 2:270–320).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n275/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Macé, Caroline, et al. “Critical Digital Editions of Christian Apocryphal Literature in Latin and Greek: Transcription and Collation of the Acts of Barnabas.” <em>Storie e Linguaggi: A Journal of the Humanities/Rivista di studi umanistici</em> 5.1 (2019): 125–45.</p>",
+      "line_text": "Macé, Caroline, et al. “Critical Digital Editions of Christian Apocryphal Literature in Latin and Greek: Transcription and Collation of the Acts of Barnabas.” Storie e Linguaggi: A Journal of the Humanities/Rivista di studi umanistici 5.1 (2019): 125–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mazocchi, Alessio Simmaco. <span class=\"breaker-breaker\"><em>Neapolitanae Ecclesiae canonici et Regii S. Scripturae interpretis</em>, 2: <em>Commentarii in vetus marmoreum Sanctae Neapolitanae Ecclesiae kalendarium volumen alterums</em>. </span>Naples: Ex officina Novelli de Bonis Typographi Archiepisopalis, 1744 (pp. 535–53).</p>",
+      "line_text": "Mazocchi, Alessio Simmaco. Neapolitanae Ecclesiae canonici et Regii S. Scripturae interpretis, 2: Commentarii in vetus marmoreum Sanctae Neapolitanae Ecclesiae kalendarium volumen alterums. Naples: Ex officina Novelli de Bonis Typographi Archiepisopalis, 1744 (pp. 535–53).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p>Read-Heimerdinger, Jenny. “Barnabas in Acts: A Study of His Role in the Text of Codex Bezae.” <em>JSNT</em> 72 (1998): 22–66.</p>",
+      "line_text": "Read-Heimerdinger, Jenny. “Barnabas in Acts: A Study of His Role in the Text of Codex Bezae.” JSNT 72 (1998): 22–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"auteur\">Rouquette, Maïeul. “Apostolic Memory and Pseudepigraphy: A Comparison of the Acts of Barnabas and the Acts of Titus.” <span class=\"in-revue\"><em><span class=\"titre-revue titre-revue-normalize\">Études théologiques et religieuses</span> </em>91 (2016): 703–12. </span></span></p>",
+      "line_text": "Rouquette, Maïeul. “Apostolic Memory and Pseudepigraphy: A Comparison of the Acts of Barnabas and the Acts of Titus.” Études théologiques et religieuses 91 (2016): 703–12. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schwartz, Daniel R. “The End of the Line: Paul in the Canonical Book of Acts.” Pages 3–24 in <em>Paul and the Legacies of Paul</em>. Edited by William S. Babcock. Dallas: SMU Press, 1990.</p>",
+      "line_text": "Schwartz, Daniel R. “The End of the Line: Paul in the Canonical Book of Acts.” Pages 3–24 in Paul and the Legacies of Paul. Edited by William S. Babcock. Dallas: SMU Press, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Julia A. “Relationships between the Acts of the Apostles and Other Apostle Narratives.” Pages 319–41 in <em>Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting</em> <em>and Interpretation in</em> <em>Early Judaism and Early Christianity. </em>Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "Snyder, Julia A. “Relationships between the Acts of the Apostles and Other Apostle Narratives.” Pages 319–41 in Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting and Interpretation in Early Judaism and Early Christianity. Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Starowieyski, M. “Datation des <em>Actes (Voyages) de S. Barnabé</em> (<em>BHG</em> 225; <em>ClAp</em> 285) et du <em>Panégyrique de S. Barnabé par Alexandre le Moine</em> (<em>BHG</em> 226; CPG 7400; <em>ClAp</em> 286).” Pages 193–98 in <em>Philohistor. Miscellanea in honorem Caroli Laga septuagenarii</em>. Edited by A. Schoors and Peter Van Deun. OLA 60. Leuven: Peeters, 1994.</p>",
+      "line_text": "Starowieyski, M. “Datation des Actes (Voyages) de S. Barnabé (BHG 225; ClAp 285) et du Panégyrique de S. Barnabé par Alexandre le Moine (BHG 226; CPG 7400; ClAp 286).” Pages 193–98 in Philohistor. Miscellanea in honorem Caroli Laga septuagenarii. Edited by A. Schoors and Peter Van Deun. OLA 60. Leuven: Peeters, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Van Deun, Peter and Jaques Noret, eds. <em>Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho</em>. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993.</p>",
+      "line_text": "Van Deun, Peter and Jaques Noret, eds. Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Young, Philip H. “The Cypriot Aphrodite Cult: Paphos, Rantidi, and Saint Barnabas.” <em>JNES</em> 64.1 (2005): 23–44.</p>",
+      "line_text": "Young, Philip H. “The Cypriot Aphrodite Cult: Paphos, Rantidi, and Saint Barnabas.” JNES 64.1 (2005): 23–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/2-revelation-of-matthew-about-the-end-times/",
+  "nasscal_toc_title": "2 Revelation of Matthew about the End Times",
+  "filename": "2-revelation-of-matthew-about-the-end-times",
+  "latin_title": "Revelatio Matthaei (secunda) de Novissimis",
+  "abbrev": "Rev. Matt. End",
+  "alt_titles": [
+    "De die iudicii",
+    " De Antichristo"
+  ],
+  "clavis_number": 522,
+  "category": "Apocalypses",
+  "compiler": ": Charles D. Wright, University of Illinois",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Recension 1:</p>",
+      "line_text": "Recension 1:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Assisi, Biblioteca del Sacro Convento, fondo antico Ms. 551, fol. 224<sup>r</sup> (15th cent.) ~ defective; <a href=\"http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3APG0213_ms.551\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
+      "line_text": "A  Assisi, Biblioteca del Sacro Convento, fondo antico Ms. 551, fol. 224r (15th cent.) ~ defective; IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3APG0213_ms.551"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Berlin, Staatsbibliothek Preussischer Kulturbesitz, Theol. lat. qu. 151, fols. 64<sup>v</sup>–66<sup>r</sup> (1440–1460) ~ <a href=\"https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN717446298\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
+      "line_text": "B  Berlin, Staatsbibliothek Preussischer Kulturbesitz, Theol. lat. qu. 151, fols. 64v–66r (1440–1460) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN717446298"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Ha  </strong>Hannover, Gottfried Wilhelm Leibniz Bibliothek (<em>olim</em> Niedersächsische Landesbibliothek), Ms. I 101a, fols. 26<sup>r</sup>–28<sup>v</sup> (1427)</p>",
+      "line_text": "Ha  Hannover, Gottfried Wilhelm Leibniz Bibliothek (olim Niedersächsische Landesbibliothek), Ms. I 101a, fols. 26r–28v (1427)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>He</strong>  Herzogenburg, Augustiner-Chorherrenstift, Ms. 172, fols. 294<sup>v</sup>–296<sup>v</sup> (15th cent.) ~ <a href=\"http://18.235.151.129/detail.php?msid=25241\" target=\"_blank\" rel=\"noopener noreferrer\">DESCRIPTION</a></p>",
+      "line_text": "He  Herzogenburg, Augustiner-Chorherrenstift, Ms. 172, fols. 294v–296v (15th cent.) ~ DESCRIPTION",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://18.235.151.129/detail.php?msid=25241"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong><sub><strong>2</strong>  </sub>Innsbruck, Universitäts- und Landesbibliothek Tirol (ULBT), Cod. 569, fols. 274<sup>r</sup>–275<sup>r</sup> (15th cent.) ~ <a href=\"https://manuscripta.at/?ID=9422\" target=\"_blank\" rel=\"noopener noreferrer\">DESCRIPTION</a></p>",
+      "line_text": "I2  Innsbruck, Universitäts- und Landesbibliothek Tirol (ULBT), Cod. 569, fols. 274r–275r (15th cent.) ~ DESCRIPTION",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://manuscripta.at/?ID=9422"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Munich, Bayerische Staatsbibliothek, Clm 27428, fol. 159<sup>r</sup> (1411) ~ defective</p>",
+      "line_text": "M  Munich, Bayerische Staatsbibliothek, Clm 27428, fol. 159r (1411) ~ defective",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Prague, Knihovna Národního muzea XVI E 16, fols. 256<sup>r</sup>–257<sup>r</sup> (15th cent.)</p>",
+      "line_text": "P  Prague, Knihovna Národního muzea XVI E 16, fols. 256r–257r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong>  Würzburg, Universitätsbibliothek I.t.q.6 (Hubay, Nr. 686), fols. 1<sup>r</sup>–5<sup>v</sup> (15th cent.)</p>",
+      "line_text": "W  Würzburg, Universitätsbibliothek I.t.q.6 (Hubay, Nr. 686), fols. 1r–5v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Recension 2a:</p>",
+      "line_text": "Recension 2a:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong><sub><strong>1</strong>  </sub>Innsbruck, Universitäts- und Landesbibliothek Tirol (ULBT), Cod. 285, fols. 92<sup>r</sup>–93<sup>v</sup> (14th cent.) ~ <a href=\"https://manuscripta.at/?ID=7866\" target=\"_blank\" rel=\"noopener noreferrer\">DESCRIPTION</a></p>",
+      "line_text": "I1  Innsbruck, Universitäts- und Landesbibliothek Tirol (ULBT), Cod. 285, fols. 92r–93v (14th cent.) ~ DESCRIPTION",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://manuscripta.at/?ID=7866"
+      ]
+    },
+    {
+      "line_html": "<p>Recension 2b:</p>",
+      "line_text": "Recension 2b:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Su </strong> Subiaco, Biblioteca statale del Monumento nazionale di S. Scolastica, Manoscritti, Ms. 144, CXL, fols. 21<sup>v</sup>­–24<sup>v</sup> (15th cent.) ~ <a href=\"https://manus.iccu.sbn.it//opac_SchedaScheda.php?ID=49244&amp;lang=en\" target=\"_blank\" rel=\"noopener noreferrer\">DESCRIPTION</a> (with two images)</p>",
+      "line_text": "Su  Subiaco, Biblioteca statale del Monumento nazionale di S. Scolastica, Manoscritti, Ms. 144, CXL, fols. 21v­–24v (15th cent.) ~ DESCRIPTION (with two images)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://manus.iccu.sbn.it//opac_SchedaScheda.php?ID=49244&lang=en"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Toulouse, Bibliothèque d’Étude et du Patrimoine (<em>olim</em> Bibliothèque municipale) 208, fols. 60<sup>v</sup>–64<sup>r</sup> (13th cent.) ~ <a href=\"http://bvmm.irht.cnrs.fr/consult/consult.php?mode=ecran&amp;panier=false&amp;reproductionId=557&amp;VUE_ID=261849&amp;carouselThere=false&amp;nbVignettes=tout&amp;page=1&amp;angle=0&amp;zoom=moyen&amp;tailleReelle=\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
+      "line_text": "T  Toulouse, Bibliothèque d’Étude et du Patrimoine (olim Bibliothèque municipale) 208, fols. 60v–64r (13th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://bvmm.irht.cnrs.fr/consult/consult.php?mode=ecran&panier=false&reproductionId=557&VUE_ID=261849&carouselThere=false&nbVignettes=tout&page=1&angle=0&zoom=moyen&tailleReelle="
+      ]
+    },
+    {
+      "line_html": "<p>Not evaluated:</p>",
+      "line_text": "Not evaluated:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Capestrano, Biblioteca del Convento di S. Giovanni da Capestrano, Cod. XXXII, fol. 64<sup>r</sup> ff. (15th cent.)</p>",
+      "line_text": "C  Capestrano, Biblioteca del Convento di S. Giovanni da Capestrano, Cod. XXXII, fol. 64r ff. (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Si</strong>  Šibenik, Croatia, Monastery of Franciscan Conventuals, Cod. X, fols. 260<sup>v</sup>–266<sup>r</sup> (1433)</p>",
+      "line_text": "Si  Šibenik, Croatia, Monastery of Franciscan Conventuals, Cod. X, fols. 260v–266r (1433)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Florence, Biblioteca Medicea Laurenziana, Gaddi 120, fols. 84<sup>r</sup>–86<sup>v</sup> (14th cent.)</p>",
+      "line_text": "M  Florence, Biblioteca Medicea Laurenziana, Gaddi 120, fols. 84r–86v (14th cent.)",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Florence, Biblioteca Nazionale Centrale di Firenze, II.II.68, fols. 178<sup>r</sup>–180<sup>r</sup> (1391)</p>",
+      "line_text": "N  Florence, Biblioteca Nazionale Centrale di Firenze, II.II.68, fols. 178r–180r (1391)",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R<sub>1</sub></strong>  Florence, Biblioteca Riccardiana, 1290, fols. 31<sup>r</sup>–32<sup>v</sup> (15th cent.)</p>",
+      "line_text": "R1  Florence, Biblioteca Riccardiana, 1290, fols. 31r–32v (15th cent.)",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R<sub>2</sub></strong>  Florence, Biblioteca Riccardiana, 1472, fols. 106<sup>r</sup>–112<sup>r</sup> (14th cent.)</p>",
+      "line_text": "R2  Florence, Biblioteca Riccardiana, 1472, fols. 106r–112r (14th cent.)",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V<sub>1</sub></strong>  Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II,  477, fols. 35<sup>r</sup>–38<sup>v</sup> (14th cent.)</p>",
+      "line_text": "V1  Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II,  477, fols. 35r–38v (14th cent.)",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V<sub>2</sub></strong>  Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II,  732, fols. 92<sup>v</sup>–95<sup>v</sup> (15th cent.)</p>",
+      "line_text": "V2  Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II,  732, fols. 92v–95v (15th cent.)",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Colella, Giancarlo. “Un sermone sul giorno del giudizio in volgare castellano.” <em>La lingua italiana</em> 9 (2013): 19–36 (edits the text of manuscript V<sub>1</sub> of the Italian translation, with excerpts from manuscript R<sub>2</sub>).</p>",
+      "line_text": "Colella, Giancarlo. “Un sermone sul giorno del giudizio in volgare castellano.” La lingua italiana 9 (2013): 19–36 (edits the text of manuscript V1 of the Italian translation, with excerpts from manuscript R2).",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lodone, Michele. <em>I segni della fine. Storia di un predicatore nell’Italia del Rinascimento</em>. Rome, Viella, 2021 (prints the text of the Fifteen Signs section from manuscript R<sub>2</sub> of the Italian translation).</p>",
+      "line_text": "Lodone, Michele. I segni della fine. Storia di un predicatore nell’Italia del Rinascimento. Rome, Viella, 2021 (prints the text of the Fifteen Signs section from manuscript R2 of the Italian translation).",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. “L’attesa e la paura. La fine dei tempi nella predicazione fiorentina del tardo medioevo (XIV–XVI secolo).” <em>Cahiers d’études italiennes </em>29 (2019): 1–25 (contains excerpts from manuscript R<sub>2</sub> of the Italian translation).</p>",
+      "line_text": "———. “L’attesa e la paura. La fine dei tempi nella predicazione fiorentina del tardo medioevo (XIV–XVI secolo).” Cahiers d’études italiennes 29 (2019): 1–25 (contains excerpts from manuscript R2 of the Italian translation).",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Zambrini, Francesco, ed. “Descrizione del giudizio universale. Testo inedito del buon secolo della lingua.” <em>L’eccitamento </em>1 (1858): 728–34 (e<em>ditio princeps </em>of manuscript N of the Italian translation).</p>",
+      "line_text": "Zambrini, Francesco, ed. “Descrizione del giudizio universale. Testo inedito del buon secolo della lingua.” L’eccitamento 1 (1858): 728–34 (editio princeps of manuscript N of the Italian translation).",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wright, Charles D., and Stephen Pelle, trans. “2 Revelation of Matthew about the End Times.” Pages 596–649 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (synoptic translation of all available witnesses).</p>",
+      "line_text": "Wright, Charles D., and Stephen Pelle, trans. “2 Revelation of Matthew about the End Times.” Pages 596–649 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (synoptic translation of all available witnesses).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Heist, William W. <em>The Fifteen Signs before Doomsday</em>. Lansing: Michigan College State Press, 1952.</p>",
+      "line_text": "Heist, William W. The Fifteen Signs before Doomsday. Lansing: Michigan College State Press, 1952.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ottosen, Knud, ed. <em>The Responsories and Versicles of the Latin Office of the Dead</em>. Aarhus: Aarhus University Press, 1993.</p>",
+      "line_text": "Ottosen, Knud, ed. The Responsories and Versicles of the Latin Office of the Dead. Aarhus: Aarhus University Press, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quadri, Riccardo, ed., with Roland Demeulenaere. <em>Heirici Autissiodorensis homiliae per circulum anni, pars hiemalis</em>. CCCM 116. Turnhout: Brepols, 1992.</p>",
+      "line_text": "Quadri, Riccardo, ed., with Roland Demeulenaere. Heirici Autissiodorensis homiliae per circulum anni, pars hiemalis. CCCM 116. Turnhout: Brepols, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reindel, Kurt, ed. <em>Die Briefe des Petrus Damiani, Teil 3</em>. MGH, Briefe d. dt. Kaiserzeit 4.3. Munich: Monumenta Germaniae Historica, 1989.</p>",
+      "line_text": "Reindel, Kurt, ed. Die Briefe des Petrus Damiani, Teil 3. MGH, Briefe d. dt. Kaiserzeit 4.3. Munich: Monumenta Germaniae Historica, 1989.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Verhelst, Daniel, ed. <em>Adso Dervensis: De ortu et tempore Antichristi</em>. CCCM 45. Turnout: Brepols, 1976.</p>",
+      "line_text": "Verhelst, Daniel, ed. Adso Dervensis: De ortu et tempore Antichristi. CCCM 45. Turnout: Brepols, 1976.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

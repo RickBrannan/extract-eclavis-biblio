@@ -1,0 +1,381 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-peter-and-paul-ps-hegesippus/",
+  "nasscal_toc_title": "Passion of Peter and Paul (Ps.-Hegesippus)",
+  "filename": "passion-of-peter-and-paul-ps-hegesippus",
+  "latin_title": "Passio Petri et Pauli in Ps.-Hegesippi historia",
+  "abbrev": "DEH",
+  "alt_titles": [
+    "On the Destruction of Jerusalem ",
+    "De Excidio Hierosolymitano"
+  ],
+  "clavis_number": 673,
+  "category": "Apocryphal Acts",
+  "compiler": "Carson Bay, Universität Bern",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>The <em>Passion of Peter and Paul</em> is generally present in manuscripts of <em>DEH</em>, though a thorough study of this has yet to be undertaken (indeed, no comprehensive list of manuscripts of <em>DEH </em>yet exists). The following list includes those manuscripts used in previous critical editions along with several other early witnesses (prior to 12th cent.) noted by Pollard (2015, p. 80) and Gitner (forthcoming).</p>",
+      "line_text": "The Passion of Peter and Paul is generally present in manuscripts of DEH, though a thorough study of this has yet to be undertaken (indeed, no comprehensive list of manuscripts of DEH yet exists). The following list includes those manuscripts used in previous critical editions along with several other early witnesses (prior to 12th cent.) noted by Pollard (2015, p. 80) and Gitner (forthcoming).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Karlsruhe, <span class=\"a\">Landesbibliothek, </span> Aug. perg. 82 (9th cent.)</p>",
+      "line_text": "A  Karlsruhe, Landesbibliothek,  Aug. perg. 82 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Bern, Burgerbibliothek, Ms. 180 (9th cent.)</p>",
+      "line_text": "B  Bern, Burgerbibliothek, Ms. 180 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Kassel, <span class=\"a\">Landesbibliothek, Theol. fol. </span><span class=\"a\">65 (</span>6th/7th cent.) ~ <a href=\"https://elmss.nuigalway.ie/catalogue/1610\" target=\"_blank\" rel=\"noopener noreferrer\">Earlier Latin Manuscripts</a></p>",
+      "line_text": "C  Kassel, Landesbibliothek, Theol. fol. 65 (6th/7th cent.) ~ Earlier Latin Manuscripts",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://elmss.nuigalway.ie/catalogue/1610"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H </strong> Leiden, Universitaire Bibliotheken, VLF 17 (10th cent.)</p>",
+      "line_text": "H  Leiden, Universitaire Bibliotheken, VLF 17 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I </strong> Innsbruck, Univeristäts-und Landesbibliothek, Frag. 72 + Vienna, <span class=\"aCOpRe\">Österreichische Nationalbibliothek</span>, Lat. ser. nov. 3643 (7th–9th cent.)</p>",
+      "line_text": "I  Innsbruck, Univeristäts-und Landesbibliothek, Frag. 72 + Vienna, Österreichische Nationalbibliothek, Lat. ser. nov. 3643 (7th–9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Milan, Biblioteca Ambrosiana, C 105 inf., fols. 95<sup>v</sup>–97<sup>v</sup> (5th/6th cent. and 7th cent.)</p>",
+      "line_text": "M  Milan, Biblioteca Ambrosiana, C 105 inf., fols. 95v–97v (5th/6th cent. and 7th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, Lat. 13367 (7th cent.) ~ excerpt</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, Lat. 13367 (7th cent.) ~ excerpt",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T </strong> Turin, Biblioteca Nazionale Universitaria, D.IV.7 (10th cent.)</p>",
+      "line_text": "T  Turin, Biblioteca Nazionale Universitaria, D.IV.7 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 170 (ca. 800)</p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 170 (ca. 800)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z </strong> Besançon, Bibliothèque municipale,  833 (10th/11th cent.)</p>",
+      "line_text": "Z  Besançon, Bibliothèque municipale,  833 (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambrai, Bibliothèque municipale, 678 (10th/11th cent.)</p>",
+      "line_text": "Cambrai, Bibliothèque municipale, 678 (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Chartres, Bibliothèque municipale, 117 (10th/11th cent.)</p>",
+      "line_text": "Chartres, Bibliothèque municipale, 117 (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cherbourg, Bibliothèque municipale, 51 (9th cent.)</p>",
+      "line_text": "Cherbourg, Bibliothèque municipale, 51 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenzina, Plut. 66.1 (11th cent.)</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenzina, Plut. 66.1 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Karlsruhe, Badische Landesbibliothek, Aug. perg. 101 (9th cent.)</p>",
+      "line_text": "Karlsruhe, Badische Landesbibliothek, Aug. perg. 101 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Koblenz, Landeshauptarchiv, Best. 701 Nr. 759.22 + Marburg, Hessischen Staatsarchivs, 4.17 (9th cent.)</p>",
+      "line_text": "Koblenz, Landeshauptarchiv, Best. 701 Nr. 759.22 + Marburg, Hessischen Staatsarchivs, 4.17 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Laon, Bibliothèque municipale, 403b (9th cent.)</p>",
+      "line_text": "Laon, Bibliothèque municipale, 403b (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leiden, Universitaire Bibliotheken, BPL 21 (9th cent.)</p>",
+      "line_text": "Leiden, Universitaire Bibliotheken, BPL 21 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Monte Cassino, Archivio e Biblioteca dell’Abbazia, Comp. VIII + Monte Cassino, Archivio e Biblioteca dell’Abbazia, Comp. III + London/Oslo Schøyen Collection, MS 183 (11th cent.)</p>",
+      "line_text": "Monte Cassino, Archivio e Biblioteca dell’Abbazia, Comp. VIII + Monte Cassino, Archivio e Biblioteca dell’Abbazia, Comp. III + London/Oslo Schøyen Collection, MS 183 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 12512 (9th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 12512 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 12513 (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 12513 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 14641 (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 14641 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Nouv. Acq. Lat. 1490 (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Nouv. Acq. Lat. 1490 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Gallen, Stiftsbibliothek, Cod. 626 (9th cent.)</p>",
+      "line_text": "St. Gallen, Stiftsbibliothek, Cod. 626 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ballerini, Paulo Angelo, ed. <em>Sancti Ambrosii Mediolanensis Operia Omnia</em>. Vol. 6. Milan: Sancti Josephi, 1883 (see pp. 115–19).</p>",
+      "line_text": "Ballerini, Paulo Angelo, ed. Sancti Ambrosii Mediolanensis Operia Omnia. Vol. 6. Milan: Sancti Josephi, 1883 (see pp. 115–19).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Barre, René Laurent de la. <em>Historia christiana veterum patrum. </em>Paris, 1583 (see pp. 147v–48r).</p>",
+      "line_text": "Barre, René Laurent de la. Historia christiana veterum patrum. Paris, 1583 (see pp. 147v–48r).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bigne, Marguerin de la (1546–1590). <em>Magna Bibliotheca veterum patrum et antiquorum scriptorum ecclesiasticorum</em>. Vol. 5. Lugdunum, Anissonios, 1677 (see p. 1161).</p>",
+      "line_text": "Bigne, Marguerin de la (1546–1590). Magna Bibliotheca veterum patrum et antiquorum scriptorum ecclesiasticorum. Vol. 5. Lugdunum, Anissonios, 1677 (see p. 1161).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><em>––––––. Magna Bibliotheca veterum patrum et antiquorum scriptorum ecclesiasticorum</em>. Volume VII. Paris: Morelli, 1644 (see pp. 461–63).</p>",
+      "line_text": "––––––. Magna Bibliotheca veterum patrum et antiquorum scriptorum ecclesiasticorum. Volume VII. Paris: Morelli, 1644 (see pp. 461–63).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lefèvre d’Étaples, Jacques. <em>Aegesippi historiographi fidelissimi ac disertissimi et inter christianos antiquissimi historia de bello Iudaico. Sceptri sublatione. Iudaeorum dispersion. Et Hierosolymitano excidio. A divo Ambrosio Mediolanen. Antistite e Graeca Latina facta. Cum eiusdem anacephaleosi et tabellis congruentiarum cum Iosephi libri etiam de gestis Machabaeorum. </em>Paris: Ascens, 1510 (<em>editio princeps</em>).</p>",
+      "line_text": "Lefèvre d’Étaples, Jacques. Aegesippi historiographi fidelissimi ac disertissimi et inter christianos antiquissimi historia de bello Iudaico. Sceptri sublatione. Iudaeorum dispersion. Et Hierosolymitano excidio. A divo Ambrosio Mediolanen. Antistite e Graeca Latina facta. Cum eiusdem anacephaleosi et tabellis congruentiarum cum Iosephi libri etiam de gestis Machabaeorum. Paris: Ascens, 1510 (editio princeps).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Fábrega Grau, Ángel. <em>Pasionario hispánico.</em> Tome 2:<em> Texto</em>. Monumenta Hispaniae Sacra VI. Madrid/Barcelona, 1955 (see pp. 293–95).</p>",
+      "line_text": "Fábrega Grau, Ángel. Pasionario hispánico. Tome 2: Texto. Monumenta Hispaniae Sacra VI. Madrid/Barcelona, 1955 (see pp. 293–95).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Gallandius, Andreas. <em>Bibliotheca veterum patrum antiquorumque scriptorum ecclesiasticorum</em>. Vol. 7. Venice, 1765–1781 (see pp. 700–701).</p>",
+      "line_text": "Gallandius, Andreas. Bibliotheca veterum patrum antiquorumque scriptorum ecclesiasticorum. Vol. 7. Venice, 1765–1781 (see pp. 700–701).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Mazochius, Alexius Symmachus. <em>Commentarii in vetus marmoreum sanctae Neapolitanae ecclesiae kalendarium</em>. Vol. 3. 1755 (see pp. 855–68).</p>",
+      "line_text": "Mazochius, Alexius Symmachus. Commentarii in vetus marmoreum sanctae Neapolitanae ecclesiae kalendarium. Vol. 3. 1755 (see pp. 855–68).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Migne, Jean-Paul. <em>Sancti Ambrosii Mediolanensis Episcopi, Opera Omnia: Tomi Primi Pars Posterior</em>. PL 15. Paris: Barrière d’Enfer, 1845 (see pp. 1961–2204).</p>",
+      "line_text": "Migne, Jean-Paul. Sancti Ambrosii Mediolanensis Episcopi, Opera Omnia: Tomi Primi Pars Posterior. PL 15. Paris: Barrière d’Enfer, 1845 (see pp. 1961–2204).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>No Author. <em>Sancti Ambrosii opera</em>. Vol. 2. Venice, 1781 (see pp. 103–105).</p>",
+      "line_text": "No Author. Sancti Ambrosii opera. Vol. 2. Venice, 1781 (see pp. 103–105).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=ucm.5325300826&amp;view=1up&amp;seq=895\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Surius, Laurentius. <em>De probatis Sanctorum historiis partim ex tomis Aloysii Lipomani. </em>6 vols. Cologne: Calenius and Quentel, 1570–1575 (Latin text in vol. 3, pp. 855–57).</p>",
+      "line_text": "Surius, Laurentius. De probatis Sanctorum historiis partim ex tomis Aloysii Lipomani. 6 vols. Cologne: Calenius and Quentel, 1570–1575 (Latin text in vol. 3, pp. 855–57).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=ucm.5325300826&view=1up&seq=895"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=RWcwAAAAYAAJ&amp;printsec=frontcover&amp;dq=Hegesippi+qvi+dicitvr+historiae+libri&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwighK6DycXsAhXFmOAKHWa1CAwQ6AEwAHoECAAQAg#v=onepage&amp;q=Hegesippi%20qvi%20dicitvr%20historiae%20libri&amp;f=false\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ussani, Vincenzo, ed.  <em>Hegesippi qui dicitur Historiae libri v – Pt. 1: Textum criticum continens</em>. CSEL 66.1. Vienna: Hoelder-Pichler-Tempsky, 1932 (standard edition of <em>DEH </em>based on the ten manuscripts with sigla above, pp. 183–87).</p>",
+      "line_text": "Ussani, Vincenzo, ed.  Hegesippi qui dicitur Historiae libri v – Pt. 1: Textum criticum continens. CSEL 66.1. Vienna: Hoelder-Pichler-Tempsky, 1932 (standard edition of DEH based on the ten manuscripts with sigla above, pp. 183–87).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=RWcwAAAAYAAJ&printsec=frontcover&dq=Hegesippi+qvi+dicitvr+historiae+libri&hl=en&sa=X&ved=2ahUKEwighK6DycXsAhXFmOAKHWa1CAwQ6AEwAHoECAAQAg#v=onepage&q=Hegesippi%20qvi%20dicitvr%20historiae%20libri&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=gl3YAAAAMAAJ&amp;pg=PA389&amp;lpg=PA389&amp;dq=Landesbibliothek+Kassel+Mss.+Theologici+65&amp;source=bl&amp;ots=aZ3C6NsJwt&amp;sig=ACfU3U3w2j7rry9JSMYJH27bLlGD-w9rSw&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjL2-iExcXsAhVlRN8KHb9aDcYQ6AEwA3oECAgQAg#v=onepage&amp;q=Landesbibliothek%20Kassel%20Mss.%20Theologici%2065&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ussani, Vincenzo, and Karl Mras.  <em>Hegesippi qui dicitur Historiae libri v – Pt. 2: Praefationem Caroli Mras et Indices Vincentii Ussani Continens.</em> CSEL 66.2. Vienna: Hoelder-Pichler-Tempsky, 1960 (description of manuscripts, pp. vii–xxiii).</p>",
+      "line_text": "Ussani, Vincenzo, and Karl Mras.  Hegesippi qui dicitur Historiae libri v – Pt. 2: Praefationem Caroli Mras et Indices Vincentii Ussani Continens. CSEL 66.2. Vienna: Hoelder-Pichler-Tempsky, 1960 (description of manuscripts, pp. vii–xxiii).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=gl3YAAAAMAAJ&pg=PA389&lpg=PA389&dq=Landesbibliothek+Kassel+Mss.+Theologici+65&source=bl&ots=aZ3C6NsJwt&sig=ACfU3U3w2j7rry9JSMYJH27bLlGD-w9rSw&hl=en&sa=X&ved=2ahUKEwjL2-iExcXsAhVlRN8KHb9aDcYQ6AEwA3oECAgQAg#v=onepage&q=Landesbibliothek%20Kassel%20Mss.%20Theologici%2065&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10217875_00180.html?leftTab=toc\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Weber, Carl Friedrich, and Julius Cäsar, eds. <em>De bello Judaico: Ope codicis Cassellani recognitus.</em> Marburg: Elwertus, 1864 (edition based on C, pp. 170–73).</p>",
+      "line_text": "Weber, Carl Friedrich, and Julius Cäsar, eds. De bello Judaico: Ope codicis Cassellani recognitus. Marburg: Elwertus, 1864 (edition based on C, pp. 170–73).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10217875_00180.html?leftTab=toc"
+      ]
+    },
+    {
+      "line_html": "<p>Lautenbach, Conrad. <em>Egesippi / des Fürtrefflichen unnd hochberühmten Geschichtschreibers / von Zerstörung der Statt Jerusalem</em>. Strassbourg: Rihel, 1578.</p>",
+      "line_text": "Lautenbach, Conrad. Egesippi / des Fürtrefflichen unnd hochberühmten Geschichtschreibers / von Zerstörung der Statt Jerusalem. Strassbourg: Rihel, 1578.",
+      "language": "Old German",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ch/books?id=qEY8AAAAcAAJ&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Millet, J. <em>Les V Livres de l’Histoire d’Egesippe, contenans plusieurs guerres des Juifs &amp;c</em>. Paris: Gilles Gourbin, 1556 (pp. 127–32).</p>",
+      "line_text": "Millet, J. Les V Livres de l’Histoire d’Egesippe, contenans plusieurs guerres des Juifs &amp;c. Paris: Gilles Gourbin, 1556 (pp. 127–32).",
+      "language": "Old French",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ch/books?id=qEY8AAAAcAAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><strong><a href=\"https://archive.org/details/bub_gb_bUcPi4U6Z5oC/page/n3/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></strong>Modonese, Pietro Lauro. <em>Historia d’Egesippo tra i christiani scrittori antichissimo de le ualorose imprese fatte da giudei ne l’assedio di Gierusaleme, e come fu abbattuta quella citta, e molte altre del paese, breue somma del medesimo di quanto è compreso ne l’opera. Tradotta di latino in italiano per Pietro Lauro modonese</em>. Venice, 1544. (pp. 92–94).</p>",
+      "line_text": "Modonese, Pietro Lauro. Historia d’Egesippo tra i christiani scrittori antichissimo de le ualorose imprese fatte da giudei ne l’assedio di Gierusaleme, e come fu abbattuta quella citta, e molte altre del paese, breue somma del medesimo di quanto è compreso ne l’opera. Tradotta di latino in italiano per Pietro Lauro modonese. Venice, 1544. (pp. 92–94).",
+      "language": "Old Italian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_bUcPi4U6Z5oC/page/n3/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Bay, Carson, trans. “The Passion of Peter and Paul.” Pages 465–78 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (translation based on edition by Ussani).</p>",
+      "line_text": "Bay, Carson, trans. “The Passion of Peter and Paul.” Pages 465–78 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (translation based on edition by Ussani).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-peter-and-paul-pseudo-hegesippus-translated-by-carson-bay/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________, trans. “<em>Passion of Peter and Paul (Pseudo-Hegesippus)</em>.” Unpublished translation.</p>",
+      "line_text": "__________, trans. “Passion of Peter and Paul (Pseudo-Hegesippus).” Unpublished translation.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-peter-and-paul-pseudo-hegesippus-translated-by-carson-bay/"
+      ]
+    },
+    {
+      "line_html": "<p>Estève, Dominique. “L’oeuvre historique du pseudo-Hegésippe: ‘De bello iudaico,’ livre I à IV.” PhD diss., Université Paris Nanterre, 1987 (pp. 249–53).</p>",
+      "line_text": "Estève, Dominique. “L’oeuvre historique du pseudo-Hegésippe: ‘De bello iudaico,’ livre I à IV.” PhD diss., Université Paris Nanterre, 1987 (pp. 249–53).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bay, Carson. “The ‘Maria Story’ in Greek, Latin, &amp; Hebrew: The <em>Teknophagia</em> Episode (<em>BJ</em> 6.201-13) in Josephus, Latin Josephus, Rufinus, Pseudo-Hegesippus, and <em>Sefer Yosippon</em> with Introduction, Texts, Translations, Notes, &amp; Commentary.” <em>Judaica</em> 3 (2022): 1–105.</p>",
+      "line_text": "Bay, Carson. “The ‘Maria Story’ in Greek, Latin, &amp; Hebrew: The Teknophagia Episode (BJ 6.201-13) in Josephus, Latin Josephus, Rufinus, Pseudo-Hegesippus, and Sefer Yosippon with Introduction, Texts, Translations, Notes, &amp; Commentary.” Judaica 3 (2022): 1–105.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bell, Albert A., Jr. “Early Latin Versions of the <em>Quo Vadis</em> Story and the Ambrosian Authorship of the <em>Excidio Hierosolymitano</em>.” <em>Patristic and Byzantine Review</em> 9 (1990): 171–80.</p>",
+      "line_text": "Bell, Albert A., Jr. “Early Latin Versions of the Quo Vadis Story and the Ambrosian Authorship of the Excidio Hierosolymitano.” Patristic and Byzantine Review 9 (1990): 171–80.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Josephus and Pseudo-Hegesippus.” Pages 349–61 in <em>Josephus, Judaism, and Chris­tianity</em>. Edited by Louis H. Feldman and Gohei Hata. Detroit: Wayne State University Press, 1987.</p>",
+      "line_text": "__________. “Josephus and Pseudo-Hegesippus.” Pages 349–61 in Josephus, Judaism, and Chris­tianity. Edited by Louis H. Feldman and Gohei Hata. Detroit: Wayne State University Press, 1987.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Eastman, David L. 2019. <em>The Many Deaths of Peter and Paul.</em> Oxford: Oxford University Press, 2019 (see pp. 30 n. 84, 82 n. 60, 194)</p>",
+      "line_text": "Eastman, David L. 2019. The Many Deaths of Peter and Paul. Oxford: Oxford University Press, 2019 (see pp. 30 n. 84, 82 n. 60, 194)",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Eastman, David L., trans. <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. Atlanta: SBL Press, 2015 (see pp. 29 n. 1, 69, 87 n. 35, 91 n. 41, 318, 331 n. 19).</p>",
+      "line_text": "Eastman, David L., trans. The Ancient Martyrdom Accounts of Peter and Paul. Atlanta: SBL Press, 2015 (see pp. 29 n. 1, 69, 87 n. 35, 91 n. 41, 318, 331 n. 19).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Estève, Dominique. “L’oeuvre historique du pseudo-Hegésippe: ‘De bello iudaico,’ livre I à IV.” PhD diss., Université Paris Nanterre, 1987 (see pp. 249–53, 478).</p>",
+      "line_text": "Estève, Dominique. “L’oeuvre historique du pseudo-Hegésippe: ‘De bello iudaico,’ livre I à IV.” PhD diss., Université Paris Nanterre, 1987 (see pp. 249–53, 478).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gitner, Adam. “Hegesippus.” In <em>The Oxford Guide to the Transmission of the Latin Classics.</em> Edited by Justin Stover. Oxford: Oxford University Press, forthcoming.</p>",
+      "line_text": "Gitner, Adam. “Hegesippus.” In The Oxford Guide to the Transmission of the Latin Classics. Edited by Justin Stover. Oxford: Oxford University Press, forthcoming.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leoni, Tommaso. “Translations and Adaptations of Josephus’s Writings in Antiquity and the Middle Ages.” <em>Ostraka – Rivista di antichità</em> 16.2 (2007): 481–92.</p>",
+      "line_text": "Leoni, Tommaso. “Translations and Adaptations of Josephus’s Writings in Antiquity and the Middle Ages.” Ostraka – Rivista di antichità 16.2 (2007): 481–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pollard, Richard Matthew. “The <em>De Excidio</em> of ‘Hegesippus’ and the Reception of Josephus in the Early Middle Ages.” <em>Viator</em> 46.2 (2015): 65–100 (includes list of additional manuscripts).</p>",
+      "line_text": "Pollard, Richard Matthew. “The De Excidio of ‘Hegesippus’ and the Reception of Josephus in the Early Middle Ages.” Viator 46.2 (2015): 65–100 (includes list of additional manuscripts).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Somenzi, Chiara. <em>Egesippo – Ambrogio: Formazione scolastica e Cristiana a Roma alla metà del IV secolo</em>. SPM 27; Milan: Vita e Pensiero, 2009 (see pp. 137–50).</p>",
+      "line_text": "Somenzi, Chiara. Egesippo – Ambrogio: Formazione scolastica e Cristiana a Roma alla metà del IV secolo. SPM 27; Milan: Vita e Pensiero, 2009 (see pp. 137–50).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

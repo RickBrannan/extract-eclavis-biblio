@@ -1,0 +1,360 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphon-of-james/",
+  "nasscal_toc_title": "Apocryphon of James",
+  "filename": "apocryphon-of-james",
+  "latin_title": "Apocryphon Iacobi",
+  "abbrev": "Ap. Jas.",
+  "alt_titles": [
+    "Secret Book of James",
+    "Epistula Jacobi Apocrypha"
+  ],
+  "clavis_number": 495,
+  "category": "Revelatory Dialogue/Dialogue Gospels",
+  "compiler": "Julia Lindenlaub, University of Edinburgh",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10554inv-10589inv-10590-nag-hammadi-codex-i/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, Inv. 10554+10589+10590 (Nag Hammadi Codex I), pp. 1–16 (4th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Inv. 10554+10589+10590 (Nag Hammadi Codex I), pp. 1–16 (4th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10554inv-10589inv-10590-nag-hammadi-codex-i/"
+      ]
+    },
+    {
+      "line_html": "<p>Rouleau, Donald. <em>L’épître apocryphe de Jacques (NHC I,2)</em>. Bibliothèque Copte de Nag Hammadi Section «Textes» 18. Laval, Québec: Les Presses de l’Université Laval, 1987.</p>",
+      "line_text": "Rouleau, Donald. L’épître apocryphe de Jacques (NHC I,2). Bibliothèque Copte de Nag Hammadi Section «Textes» 18. Laval, Québec: Les Presses de l’Université Laval, 1987.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Williams, Francis E. “The Apocryphon of James.” Pages 13–53 in vol. 1 of <em>The Coptic Gnostic Library: A Complete Edition of the Nag Hammadi Codices. </em>5 vols<em>. </em>Edited by James M. Robinson. NHS 22. Leiden: Brill, 2000.</p>",
+      "line_text": "Williams, Francis E. “The Apocryphon of James.” Pages 13–53 in vol. 1 of The Coptic Gnostic Library: A Complete Edition of the Nag Hammadi Codices. 5 vols. Edited by James M. Robinson. NHS 22. Leiden: Brill, 2000.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. “The Apocryphon of James.” Pages i. 13–53; ii. 7–37 in <em>Nag Hammadi Codex I (The Jung Codex): Introduction, Texts, Translations, Notes</em>. 2 vols. Edited by Harold W. Attridge. NHS 22–23. Leiden: Brill, 1985.</p>",
+      "line_text": "———. “The Apocryphon of James.” Pages i. 13–53; ii. 7–37 in Nag Hammadi Codex I (The Jung Codex): Introduction, Texts, Translations, Notes. 2 vols. Edited by Harold W. Attridge. NHS 22–23. Leiden: Brill, 1985.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Cameron, Ron. “The Letter of James.” Pages 673–81 in <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation</em>. Edited by J. K. Elliott. Oxford: Oxford University Press, 1993.</p>",
+      "line_text": "Cameron, Ron. “The Letter of James.” Pages 673–81 in The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Edited by J. K. Elliott. Oxford: Oxford University Press, 1993.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “The Apocryphon of James.” Pages 55–64 in <em>The Other Gospels: Non-Canonical Gospels Texts</em>. Edited by Ron Cameron. Cambridge: Lutterworth Press, 1982.</p>",
+      "line_text": "———. “The Apocryphon of James.” Pages 55–64 in The Other Gospels: Non-Canonical Gospels Texts. Edited by Ron Cameron. Cambridge: Lutterworth Press, 1982.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kirchner, Dankwart. “The Apocryphon of James.” Pages 283–99 in <em>New Testament Apocrypha. </em>Vol. 1:<em> Gospels and Related writings</em>. Edited by Wilhelm Schneemelcher. Translated by Robert McL. Wilson. Louisville, KY: Westminster John Knox, 2003.</p>",
+      "line_text": "Kirchner, Dankwart. “The Apocryphon of James.” Pages 283–99 in New Testament Apocrypha. Vol. 1: Gospels and Related writings. Edited by Wilhelm Schneemelcher. Translated by Robert McL. Wilson. Louisville, KY: Westminster John Knox, 2003.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Mattison, Mark M. <em>The Secret Book of James: How to be Whole.</em> Grand Rapids: Luminescence, 2022.</p>",
+      "line_text": "Mattison, Mark M. The Secret Book of James: How to be Whole. Grand Rapids: Luminescence, 2022.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. “The Secret Book of James.” Pages 23–30 in <em>The Nag Hammadi Scriptures</em>. Edited by Marvin W. Meyer, et al. New York: HarperOne, 2007.</p>",
+      "line_text": "Meyer, Marvin W. “The Secret Book of James.” Pages 23–30 in The Nag Hammadi Scriptures. Edited by Marvin W. Meyer, et al. New York: HarperOne, 2007.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “The Secret Book of James.” Pages 340–50 in <em>The Gnostic Bible</em>. Edited by Willis Barnstone and Marvin W. Meyer. Boston: Shambala, 2003.</p>",
+      "line_text": "———. “The Secret Book of James.” Pages 340–50 in The Gnostic Bible. Edited by Willis Barnstone and Marvin W. Meyer. Boston: Shambala, 2003.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Williams, Francis E. “The Apocryphon of James (I, 2).” Pages 29–31 in <em>The Nag Hammadi Library in English</em>. Edited by James M. Robinson. Leiden: Brill, 1996.</p>",
+      "line_text": "Williams, Francis E. “The Apocryphon of James (I, 2).” Pages 29–31 in The Nag Hammadi Library in English. Edited by James M. Robinson. Leiden: Brill, 1996.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rouleau, Donald. <em>L’épître apocryphe de Jacques (NHC I,2)</em>. Bibliothèque Copte de Nag Hammadi Section «Textes» 18. Laval, Québec: Les Presses de l’Université Laval, 1987.</p>",
+      "line_text": "Rouleau, Donald. L’épître apocryphe de Jacques (NHC I,2). Bibliothèque Copte de Nag Hammadi Section «Textes» 18. Laval, Québec: Les Presses de l’Université Laval, 1987.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Hartenstein, Judith and Plisch, Uwe-Karsten. “B.VI.3 Der Brief des Jakobus (NHC I,2).” Pages 1093–1106 in <em>Antike christliche Apokryphen in deutscher Übersetzung. </em>Band 1: <em>Evangelien und Verwandtes. </em>Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Hartenstein, Judith and Plisch, Uwe-Karsten. “B.VI.3 Der Brief des Jakobus (NHC I,2).” Pages 1093–1106 in Antike christliche Apokryphen in deutscher Übersetzung. Band 1: Evangelien und Verwandtes. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “‘Der Brief des Jakobus’ (NHC I,2).” Pages 10–17 in <em>Nag Hammadi Deutsch 1: NHC I,1–V,1</em>. Edited by Hans-Martin Schenke, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser. Berlin: de Gruyter, 2001.</p>",
+      "line_text": "———. “‘Der Brief des Jakobus’ (NHC I,2).” Pages 10–17 in Nag Hammadi Deutsch 1: NHC I,1–V,1. Edited by Hans-Martin Schenke, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser. Berlin: de Gruyter, 2001.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kirchner, Dankwart. <em>Epistula Jacobi Apocrypha. Die zweite Schrift aus Nag-Hammadi-Codex I. </em>TUGAL 136. Berlin: de Gruyter, 1989.</p>",
+      "line_text": "Kirchner, Dankwart. Epistula Jacobi Apocrypha. Die zweite Schrift aus Nag-Hammadi-Codex I. TUGAL 136. Berlin: de Gruyter, 1989.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “Brief des Jakobus,” Pages 234–44 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung, </em>I. Band:<em> Evangelien</em>. Fifth Edition. Edited by Wilhelm Schneemelcher and Edgar Hennecke. Tübingen: Mohr Siebeck, 1987.</p>",
+      "line_text": "———. “Brief des Jakobus,” Pages 234–44 in Neutestamentliche Apokryphen in deutscher Übersetzung, I. Band: Evangelien. Fifth Edition. Edited by Wilhelm Schneemelcher and Edgar Hennecke. Tübingen: Mohr Siebeck, 1987.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. “Der Jacobusbrief aus dem Codex Jung.” <em>OLZ </em>66 (1971): 117–30.</p>",
+      "line_text": "Schenke, Hans-Martin. “Der Jacobusbrief aus dem Codex Jung.” OLZ 66 (1971): 117–30.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bauckham, Richard. “Pseudo-Apostolic Letters.” <em>JBL </em>107 (1993): 469–94.</p>",
+      "line_text": "Bauckham, Richard. “Pseudo-Apostolic Letters.” JBL 107 (1993): 469–94.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Begrich, Gerhard. “‘Lasst das Himmelreich nicht welken!’ Jes 52,16 und EpJac 7,22.” Pages 175–80 in <em>For the Children, Perfect Instruction: Studies in Honor of Hans-Martin Schenke on the Occasion of the Berliner Arbeitskreis für koptisch-gnostische Schriften’s Thirtieth Year</em>. Edited by Hans-Gebhard Bethge, Stephen Emmel, Karen L. King, and Imke Schletterer. NHMS 54. Leiden: Brill, 2002.</p>",
+      "line_text": "Begrich, Gerhard. “‘Lasst das Himmelreich nicht welken!’ Jes 52,16 und EpJac 7,22.” Pages 175–80 in For the Children, Perfect Instruction: Studies in Honor of Hans-Martin Schenke on the Occasion of the Berliner Arbeitskreis für koptisch-gnostische Schriften’s Thirtieth Year. Edited by Hans-Gebhard Bethge, Stephen Emmel, Karen L. King, and Imke Schletterer. NHMS 54. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bockmuehl, Markus. <em>Ancient Apocryphal Gospels</em>. Interpretation. Louisville, KY: Westminster John Knox Press, 2017.</p>",
+      "line_text": "Bockmuehl, Markus. Ancient Apocryphal Gospels. Interpretation. Louisville, KY: Westminster John Knox Press, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Brakke, David. “Parables and Plain Speech in the Fourth Gospel and the Apocryphon of James.” <em>JECS </em> 7 (1999): 187–218.</p>",
+      "line_text": "Brakke, David. “Parables and Plain Speech in the Fourth Gospel and the Apocryphon of James.” JECS  7 (1999): 187–218.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cameron, Ron. <em>Sayings Traditions in the Apocryphon of James</em>. HTS 34. Philadelphia: Fortress, 1984.</p>",
+      "line_text": "Cameron, Ron. Sayings Traditions in the Apocryphon of James. HTS 34. Philadelphia: Fortress, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dehandschutter, Boudewijn. “Himmlischer Aufstieg im Apokryphon des Jakobus (NHC I,2).” Pages 343–54 in <em>Other Worlds and Their Relation to This World: Early Jewish and Ancient Christian Traditions</em>. Edited by Tobias Nicklas, Joseph Verheyden, Erik M. M. Eynikel, Florentino García Martínez. Supplements to the Journal for the Study of Judaism 143. Leiden: Brill, 2010.</p>",
+      "line_text": "Dehandschutter, Boudewijn. “Himmlischer Aufstieg im Apokryphon des Jakobus (NHC I,2).” Pages 343–54 in Other Worlds and Their Relation to This World: Early Jewish and Ancient Christian Traditions. Edited by Tobias Nicklas, Joseph Verheyden, Erik M. M. Eynikel, Florentino García Martínez. Supplements to the Journal for the Study of Judaism 143. Leiden: Brill, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “L’Epistula Jacobi apocrypha de Nag Hammadi (CG I,2) comme apocryphe néotestamentaire.” <em>ANRW </em>2.25.6 (1988): 4529–50.</p>",
+      "line_text": "———. “L’Epistula Jacobi apocrypha de Nag Hammadi (CG I,2) comme apocryphe néotestamentaire.” ANRW 2.25.6 (1988): 4529–50.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dunderberg, Ismo. <em>The Beloved Disciple in Conflict? Revisiting the Gospels </em><em>of John and Thomas. </em>Oxford: Oxford University Press, 2006.</p>",
+      "line_text": "Dunderberg, Ismo. The Beloved Disciple in Conflict? Revisiting the Gospels of John and Thomas. Oxford: Oxford University Press, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Beloved Disciple in John: Ideal Figure in an Early Christian Controversy.” Pages 243–72 in <em>Fair Play: Diversity and Conflicts in Early Christianity: Essays in Honour of Heikki Räisänen. </em>Edited by Ismo Dunderberg, Christopher Tuckett, and Kari Syreeni. NovTSup 103. Leiden: Brill, 2002.</p>",
+      "line_text": "———. “The Beloved Disciple in John: Ideal Figure in an Early Christian Controversy.” Pages 243–72 in Fair Play: Diversity and Conflicts in Early Christianity: Essays in Honour of Heikki Räisänen. Edited by Ismo Dunderberg, Christopher Tuckett, and Kari Syreeni. NovTSup 103. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. <em>Forgery and Counterforgery: The Use of Literary Deceit in </em><em>Early Christian Polemics</em>. New York: Oxford University Press, 2013.</p>",
+      "line_text": "Ehrman, Bart D. Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics. New York: Oxford University Press, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fewster, Gregory P. “Ancient Book Culture and the Literacy of James: On the Production and Consumption of a Pseudepigraphal Letter.” <em>JAC</em>/<em>ZAC</em> 20 (2016): 387–417.</p>",
+      "line_text": "Fewster, Gregory P. “Ancient Book Culture and the Literacy of James: On the Production and Consumption of a Pseudepigraphal Letter.” JAC/ZAC 20 (2016): 387–417.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Given, J. Gregory. “Four Texts from Nag Hammadi amid the Textual and Generic Fluidity of the ‘Letter’ in Late Antique Egypt.” Pages 201–20 in <em>Snapshots of Evolving Traditions: Jewish and Christian Manuscript Culture, Textual Fluidity, and New Philology</em>. Edited by Liv Ingeborg Lied and Hugo Lundhaug. TU 175. Berlin: de Gruyter, 2017.</p>",
+      "line_text": "Given, J. Gregory. “Four Texts from Nag Hammadi amid the Textual and Generic Fluidity of the ‘Letter’ in Late Antique Egypt.” Pages 201–20 in Snapshots of Evolving Traditions: Jewish and Christian Manuscript Culture, Textual Fluidity, and New Philology. Edited by Liv Ingeborg Lied and Hugo Lundhaug. TU 175. Berlin: de Gruyter, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gregory, Andrew. “Non-canonical Epistles and Related Literature.” Pages 90–114 in <em>The Oxford Handbook of Early Christian Apocrypha</em>. Edited by Andrew Gregory, Tobias Nicklas, Christopher M. Tuckett, and Joseph Verheyden. Oxford: Oxford University Press, 2015.</p>",
+      "line_text": "Gregory, Andrew. “Non-canonical Epistles and Related Literature.” Pages 90–114 in The Oxford Handbook of Early Christian Apocrypha. Edited by Andrew Gregory, Tobias Nicklas, Christopher M. Tuckett, and Joseph Verheyden. Oxford: Oxford University Press, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hartenstein, Judith. “Erscheinungsevangelien (Gespräche mit dem Auferstandenen) im Kontext frühchristlicher Theologie: Anknüpfungspunkte und Besonderheiten der christologischen Vorstellungen.” Pages 305–32 in <em>The Apocryphal Gospels within the Context of Early Christian Theology</em>. Edited by Jens Schröter. BETL 260. Leuven: Peeters, 2013.</p>",
+      "line_text": "Hartenstein, Judith. “Erscheinungsevangelien (Gespräche mit dem Auferstandenen) im Kontext frühchristlicher Theologie: Anknüpfungspunkte und Besonderheiten der christologischen Vorstellungen.” Pages 305–32 in The Apocryphal Gospels within the Context of Early Christian Theology. Edited by Jens Schröter. BETL 260. Leuven: Peeters, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Die zweite Lehre: Erscheinungen des Auferstandenen </em><em>als Rahmenerzählungen frühchristlicher Dialoge</em>. TUGAL 146. Berlin: Akademie, 2000.</p>",
+      "line_text": "———. Die zweite Lehre: Erscheinungen des Auferstandenen als Rahmenerzählungen frühchristlicher Dialoge. TUGAL 146. Berlin: Akademie, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hedrick, Charles W. “Kingdom Sayings and Parables of Jesus in the Apocryphon of James: Tradition and Redaction.” <em>NTS </em>29 (1983): 1–24.</p>",
+      "line_text": "Hedrick, Charles W. “Kingdom Sayings and Parables of Jesus in the Apocryphon of James: Tradition and Redaction.” NTS 29 (1983): 1–24.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Helderman, Jan. “Anapausis in the Epistula Jacobi Apocrypha.” Pages 34–43 in <em>Nag Hammadi and Gnosis. </em>Edited Robert McL. Wilson. NHS 14. Leiden: Brill, 1978.</p>",
+      "line_text": "Helderman, Jan. “Anapausis in the Epistula Jacobi Apocrypha.” Pages 34–43 in Nag Hammadi and Gnosis. Edited Robert McL. Wilson. NHS 14. Leiden: Brill, 1978.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hill, Charles E. <em>The Johannine Corpus in the Early Church</em>. Oxford: Oxford University Press, 2004.</p>",
+      "line_text": "Hill, Charles E. The Johannine Corpus in the Early Church. Oxford: Oxford University Press, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jenott, Lance and Elaine Pagels. “Antony’s Letters and Nag Hammadi Codex I: Sources of Religious Conflict in Fourth-Century Egypt.” <em>JECS</em> 18 (2010): 557–89.</p>",
+      "line_text": "Jenott, Lance and Elaine Pagels. “Antony’s Letters and Nag Hammadi Codex I: Sources of Religious Conflict in Fourth-Century Egypt.” JECS 18 (2010): 557–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kloppenborg, John S. “Literate Media in Early Christ Groups: The Creation of a Christian Book Culture.” <em>JECS</em> 22 (2014): 21–59.</p>",
+      "line_text": "Kloppenborg, John S. “Literate Media in Early Christ Groups: The Creation of a Christian Book Culture.” JECS 22 (2014): 21–59.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Koester, Helmut. <em>Ancient Christian Gospels: Their History and Development</em>. London: SCM, 1990.</p>",
+      "line_text": "Koester, Helmut. Ancient Christian Gospels: Their History and Development. London: SCM, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lindenlaub, Julia D. “The Gospel of John as Model for Literate Authors and Their Texts in Epistula Apostolorum and Apocryphon of James (NHC I,2).” <em>JSNT</em> 43 (2020): 3–27.</p>",
+      "line_text": "Lindenlaub, Julia D. “The Gospel of John as Model for Literate Authors and Their Texts in Epistula Apostolorum and Apocryphon of James (NHC I,2).” JSNT 43 (2020): 3–27.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. “Whom Did Jesus Love Most? Beloved Disciples in John and Other Gospels.” Pages 73–92 in <em>The Legacy of John: Second-Century Reception of the Fourth Gospel</em>. Edited by Tuomas Rasimus. NovTSup 132. Leiden: Brill, 2010.</p>",
+      "line_text": "Meyer, Marvin W. “Whom Did Jesus Love Most? Beloved Disciples in John and Other Gospels.” Pages 73–92 in The Legacy of John: Second-Century Reception of the Fourth Gospel. Edited by Tuomas Rasimus. NovTSup 132. Leiden: Brill, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Myllykoski, Matti. “James the Just in History and Tradition: Perspectives of Past and Present Scholarship (Part II).” <em>CBR</em> 5 (2007): 73–122.</p>",
+      "line_text": "Myllykoski, Matti. “James the Just in History and Tradition: Perspectives of Past and Present Scholarship (Part II).” CBR 5 (2007): 73–122.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nagel, Peter. “Beiträge zur Gleichnisauslegung in der Epistula Jacobi apocrypha (NHC I,2).” Pages 157–74 in <em>For the Children, Perfect Instruction: Studies in Honor of Hans-Martin Schenke on the Occasion of the Berliner Arbeitskreis für koptisch-gnostische Schriften’s Thirtieth Year</em>. Edited by Hans-Gebhard Bethge, Stephen Emmel, Karen L. King, and Imke Schletterer. NHMS 54. Leiden: Brill, 2002.</p>",
+      "line_text": "Nagel, Peter. “Beiträge zur Gleichnisauslegung in der Epistula Jacobi apocrypha (NHC I,2).” Pages 157–74 in For the Children, Perfect Instruction: Studies in Honor of Hans-Martin Schenke on the Occasion of the Berliner Arbeitskreis für koptisch-gnostische Schriften’s Thirtieth Year. Edited by Hans-Gebhard Bethge, Stephen Emmel, Karen L. King, and Imke Schletterer. NHMS 54. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nagel, Titus. <em>Die Rezeption des Johannesevangeliums im 2. Jahrhundert: </em><em>Studien zur vorirenäischen Aneignung und Auslegung des vierten Evangeliums in christlicher und christlich-gnostischer Literatur</em>. Arbeiten zur Bibel und ihrer Geschichte 2. Leipzig: Evangelische Verlagsanstalt, 2000.</p>",
+      "line_text": "Nagel, Titus. Die Rezeption des Johannesevangeliums im 2. Jahrhundert: Studien zur vorirenäischen Aneignung und Auslegung des vierten Evangeliums in christlicher und christlich-gnostischer Literatur. Arbeiten zur Bibel und ihrer Geschichte 2. Leipzig: Evangelische Verlagsanstalt, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Oerter, Wolf B. “Form as a Vehicle of Authority? Some Remarks on the Apocryphon of James.” Pages 197–207 in <em>The Process of Authority: The Dynamics in Transmission and Reception of Canonical Texts</em>. Edited by Jan Dušek and Jan Roskovec. DCLS 27. Berlin: de Gruyter, 2016.</p>",
+      "line_text": "Oerter, Wolf B. “Form as a Vehicle of Authority? Some Remarks on the Apocryphon of James.” Pages 197–207 in The Process of Authority: The Dynamics in Transmission and Reception of Canonical Texts. Edited by Jan Dušek and Jan Roskovec. DCLS 27. Berlin: de Gruyter, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pagels, Elaine. “Gnosticism and the New Testament: The Apocryphon of James (NHC I,2) from Nag Hammadi.” Pages 297–309 in <em>Method and Meaning: Essays on New Testament Interpretation in Honor of Harold W. Attridge</em>. Edited by Andrew McGowan and Kent Harold Richards. RBS 67. Atlanta: Society of Biblical Literature, 2012.</p>",
+      "line_text": "Pagels, Elaine. “Gnosticism and the New Testament: The Apocryphon of James (NHC I,2) from Nag Hammadi.” Pages 297–309 in Method and Meaning: Essays on New Testament Interpretation in Honor of Harold W. Attridge. Edited by Andrew McGowan and Kent Harold Richards. RBS 67. Atlanta: Society of Biblical Literature, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Painter, John. <em>Just James: The Brother of Jesus in History and Tradition</em>. 2nd ed. Studies on Personalities of the New Testament. Columbia, SC: University of South Carolina Press, 2004.</p>",
+      "line_text": "Painter, John. Just James: The Brother of Jesus in History and Tradition. 2nd ed. Studies on Personalities of the New Testament. Columbia, SC: University of South Carolina Press, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Parkhouse, Sarah. <em>Eschatology and the Saviour: The ‘Gospel of Mary’ </em><em>among Early Christian Dialogue Gospels.</em> SNTSMS 176. Cambridge: Cambridge University Press, 2019.</p>",
+      "line_text": "Parkhouse, Sarah. Eschatology and the Saviour: The ‘Gospel of Mary’ among Early Christian Dialogue Gospels. SNTSMS 176. Cambridge: Cambridge University Press, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perkins, Pheme. <em>The Gnostic Dialogue: The Early Church and the Crisis of </em><em>Gnosticism</em>. New York: Paulist, 1980.</p>",
+      "line_text": "Perkins, Pheme. The Gnostic Dialogue: The Early Church and the Crisis of Gnosticism. New York: Paulist, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perkins, Pheme. <em>Peter: Apostle for the Whole Church. </em>London: T&amp;T Clark, 2000.</p>",
+      "line_text": "Perkins, Pheme. Peter: Apostle for the Whole Church. London: T&amp;T Clark, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Johannine Traditions in Ap. Jas. [NHC 1,2].” <em>JBL </em>101 (1982): 403–14.</p>",
+      "line_text": "———. “Johannine Traditions in Ap. Jas. [NHC 1,2].” JBL 101 (1982): 403–14.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pratscher, Wilhelm. <em>Der Herrenbruder Jakobus und die Jakobustradition</em>. FRLANT 139. Göttingen: Vandenhoeck &amp; Ruprecht, 1987.</p>",
+      "line_text": "Pratscher, Wilhelm. Der Herrenbruder Jakobus und die Jakobustradition. FRLANT 139. Göttingen: Vandenhoeck &amp; Ruprecht, 1987.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. “The Function and Background of the Beloved Disciple in the Gospel of John.” Pages 111–26 in <em>Nag Hammadi, Gnosticism, and Early Christianity</em>. Edited by Charles W. Hedrick and Robert Hodgson, Jr. Peabody, MA: Hendrickson, 1986.</p>",
+      "line_text": "Schenke, Hans-Martin. “The Function and Background of the Beloved Disciple in the Gospel of John.” Pages 111–26 in Nag Hammadi, Gnosticism, and Early Christianity. Edited by Charles W. Hedrick and Robert Hodgson, Jr. Peabody, MA: Hendrickson, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Der Jacobusbrief aus dem Codex Jung.” <em>OLZ </em>66 (1971): 117-30.</p>",
+      "line_text": "———. “Der Jacobusbrief aus dem Codex Jung.” OLZ 66 (1971): 117-30.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Unnik, Willem C. van. “The Origin of the Recently Discovered ‘Apocryphon Jacobi’.” <em>VC</em> 10 (1956): 149–56.</p>",
+      "line_text": "Unnik, Willem C. van. “The Origin of the Recently Discovered ‘Apocryphon Jacobi’.” VC 10 (1956): 149–56.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vliet, Jacques van der. “Spirit and Prophecy in the Epistula Iacobi Apocrypha (NHC I,2).” <em>VC</em> 44 (1990): 25–53.</p>",
+      "line_text": "Vliet, Jacques van der. “Spirit and Prophecy in the Epistula Iacobi Apocrypha (NHC I,2).” VC 44 (1990): 25–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

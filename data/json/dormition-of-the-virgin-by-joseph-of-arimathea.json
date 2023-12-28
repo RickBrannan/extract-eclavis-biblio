@@ -1,0 +1,41 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-by-joseph-of-arimathea/",
+  "nasscal_toc_title": "Dormition of the Virgin by Joseph of Arimathea",
+  "filename": "dormition-of-the-virgin-by-joseph-of-arimathea",
+  "latin_title": "Liber de transitu, auctore Pseudo-Iosepho ab Arimathea",
+  "abbrev": "Dorm. Vir. Jos.",
+  "clavis_number": 119,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 45<sup>r</sup>–51<sup>v</sup> (7th/8th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 45r–51v (7th/8th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Bibliothèque nationale de France, lat. 5327, fols. 73<sup>r</sup>–80<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Bibliothèque nationale de France, lat. 5327, fols. 73r–80r (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

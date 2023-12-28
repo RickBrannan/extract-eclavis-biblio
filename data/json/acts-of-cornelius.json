@@ -1,0 +1,826 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-cornelius/",
+  "nasscal_toc_title": "Acts of Cornelius",
+  "filename": "acts-of-cornelius",
+  "latin_title": "Acta ",
+  "abbrev": "Acts Corn",
+  "clavis_number": 303,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-arab-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 539, fols. 208<sup>v</sup>–218<sup>v </sup>(12th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 539, fols. 208v–218v (12th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-arab-539/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ambassal (Wallo), Monastery of Hayq Estifānos, EMML 1824, fols. 64<sup>r</sup>–75<sup>v</sup> (early 15th cent.)—follows closely the form of the text in Paris, Bibliothèque nationale de France, gr. 1489; translated from Arabic.</p>",
+      "line_text": "Ambassal (Wallo), Monastery of Hayq Estifānos, EMML 1824, fols. 64r–75v (early 15th cent.)—follows closely the form of the text in Paris, Bibliothèque nationale de France, gr. 1489; translated from Arabic.",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Mount Athos, Monê Pantokratoros, 53, fols. 209<sup>v</sup>–215<sup>v</sup> (12th cent.; initially designated a separate recension as BHG 370y, but once it was discovered that it simply lacks the first three chapters, the designation was changed to BHG 371b) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/oeuvre/15005/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "M  Mount Athos, Monê Pantokratoros, 53, fols. 209v–215v (12th cent.; initially designated a separate recension as BHG 370y, but once it was discovered that it simply lacks the first three chapters, the designation was changed to BHG 371b) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/oeuvre/15005/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1489/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>A</strong>  Paris, Bibliothèque nationale de France, gr. 1489,  fols. 96<sup>v</sup>–105<sup>v</sup> (11th cent.)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, gr. 1489,  fols. 96v–105v (11th cent.)",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1489/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum04unse\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Februarius.</em> Vol. 1 (=<em>Acta Sanctorum</em> vol. 4). Antwerp: P. Jacobs, 1658; 3rd. ed. Paris: V. Palmé, 1863 (Latin translation of Bibliothèque nationale de France, gr. 1489).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Februarius. Vol. 1 (=Acta Sanctorum vol. 4). Antwerp: P. Jacobs, 1658; 3rd. ed. Paris: V. Palmé, 1863 (Latin translation of Bibliothèque nationale de France, gr. 1489).",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum04unse"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaecurs125migngoog\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca</em>. Vol. 114. Paris: Cerf, 1861 (e<em>ditio princeps</em> of the text from Paris, gr. 1489 with Latin translation, cols. 1293–1312).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 114. Paris: Cerf, 1861 (editio princeps of the text from Paris, gr. 1489 with Latin translation, cols. 1293–1312).",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaecurs125migngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ann Arbor, University of Michigan Library, 94, fols. 1–15 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/942/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ann Arbor, University of Michigan Library, 94, fols. 1–15 (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/942/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 224, fols. 44<sup>v</sup>–46<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2520/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 224, fols. 44v–46r (14th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/2520/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 976, fols. 74<sup>r</sup>–79<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3272/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 976, fols. 74r–79v (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3272/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 978, fols. 88<sup>r</sup>–95<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3274/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/3141\" target=\"_blank\" rel=\"noopener\">EBE</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 978, fols. 88r–95v (11th cent.) ~ Pinakes; EBE",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3274/",
+        "https://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/3141"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 988, fols. 115<sup>v</sup>–126<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3284/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 988, fols. 115v–126r (16th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3284/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 995, fols. 86<sup>r</sup>–93<sup>v</sup> (14th/15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3291/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 995, fols. 86r–93v (14th/15th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3291/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 1006, fols. 121<sup>v</sup>–133<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3302/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3519\" target=\"_blank\" rel=\"noopener\">EBE</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 1006, fols. 121v–133r (16th cent.) ~ Pinakes; EBE",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3302/",
+        "http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3519"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 1045, fols. 64<sup>r</sup>–70<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3341/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 1045, fols. 64r–70v (16th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3341/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2095, fols. 81<sup>v</sup>–89<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4127/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3376\" target=\"_blank\" rel=\"noopener\">EBE</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2095, fols. 81v–89v (12th cent.) ~ Pinakes; EBE",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4127/",
+        "http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3376"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2097, fols. 92<sup>r</sup>–100<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4129/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2097, fols. 92r–100r (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4129/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2109, fols. 109<sup>r</sup>–116<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4141/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2109, fols. 109r–116v (14th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4141/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2541, fols. 37<sup>v</sup>–41<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4573/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2541, fols. 37v–41v (14th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4573/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2559, fols. 108<sup>v</sup>–118<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4591/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2559, fols. 108v–118r (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4591/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgium, Bibliothèque Royale Albert Ier, 8229 (3334), fols. 59–67 (17th/18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9906/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Belgium, Bibliothèque Royale Albert Ier, 8229 (3334), fols. 59–67 (17th/18th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9906/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgium, Bibliothèque Royale Albert Ier, 8230 (3335), fols. 72<sup>v</sup>–75 (17th/18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9907/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Belgium, Bibliothèque Royale Albert Ier, 8230 (3335), fols. 72v–75 (17th/18th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9907/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/chicago-university-of-chicago-joseph-regenstein-library-938/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Chicago, University of Chicago, Joseph Regenstein Library, 938, fols. 94<sup>v</sup>–102<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "Chicago, University of Chicago, Joseph Regenstein Library, 938, fols. 94v–102r (11th/12th cent.)",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/chicago-university-of-chicago-joseph-regenstein-library-938/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Escorial, Real Biblioteca, y.II.05 (Andrés 313), fols. 77<sup>v</sup>–84<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15526/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Escorial, Real Biblioteca, y.II.05 (Andrés 313), fols. 77v–84v (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15526/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Escorial, Real Biblioteca, y.II.08 (Andrés 316), fols. 52–61 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15529/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Escorial, Real Biblioteca, y.II.08 (Andrés 316), fols. 52–61 (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15529/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Escorial, Real Biblioteca, y.II.09 (Andrés 317), fols. 79<sup>v</sup>–87 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15530/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Escorial, Real Biblioteca, y.II.09 (Andrés 317), fols. 79v–87 (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15530/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Firenze, Biblioteca Medicea Laurenziana, Plut. 11.20, fols. 86–94 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/16174/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.20\" target=\"_blank\" rel=\"noopener\">BML</a></p>",
+      "line_text": "Firenze, Biblioteca Medicea Laurenziana, Plut. 11.20, fols. 86–94 (11th cent.) ~ Pinakes; BML",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/16174/",
+        "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.20"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Batopediou, 74, fols. 109–118 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18221/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271051980-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Athos, Monê Batopediou, 74, fols. 109–118 (12th cent.) ~ Pinakes; LOC",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18221/",
+        "https://www.loc.gov/item/00271051980-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Batopediou, 435, fols. 111–114 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18579/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Batopediou, 435, fols. 111–114 (16th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18579/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Batopediou, 486, fols. 117<sup>v</sup>–128<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18630/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Batopediou, 486, fols. 117v–128v (14th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18630/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Hagiou Panteleêmonos, 201, pp. 152–156 (19th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/22340/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Hagiou Panteleêmonos, 201, pp. 152–156 (19th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/22340/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Ibêrôn, 1450, pp. 351–365 (18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25045/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Ibêrôn, 1450, pp. 351–365 (18th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25045/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Megistês Lauras, Δ44 (Eustratiades 420) (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27355/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Δ44 (Eustratiades 420) (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27355/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Megistês Lauras, Δ46 (Eustratiades 422), fols. 121<sup>v</sup>–133<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27357/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Δ46 (Eustratiades 422), fols. 121v–133r (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27357/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Megistês Lauras, Ε52 (Eustratiades 428), fols. 50<sup>v</sup>–57<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27363/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Ε52 (Eustratiades 428), fols. 50v–57v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27363/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Megistês Lauras, Ε183 (Eustratiades 645), fols. 228–248 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27583/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Ε183 (Eustratiades 645), fols. 228–248 (15th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27583/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Megistês Lauras, Ε184 (Eustratiades 646), fols. 107–118 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27584/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Ε184 (Eustratiades 646), fols. 107–118 (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27584/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monê Xêropotamou, 437, pp. 41–65 (19th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/30983/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Xêropotamou, 437, pp. 41–65 (19th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/30983/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikê Bibliothêkê, Hagia Trias 76, fols. 124–134<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33574/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikê Bibliothêkê, Hagia Trias 76, fols. 124–134v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33574/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikê Bibliothêkê, Hagia Trias 77, fols. 132–138 (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33575/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikê Bibliothêkê, Hagia Trias 77, fols. 132–138 (12th/13th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33575/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikê Bibliothêkê, Hagia Trias 78, fols. 104–113<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33576/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikê Bibliothêkê, Hagia Trias 78, fols. 104–113v (15th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33576/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikê Bibliothêkê, Panaghia 8, fols. 93<sup>v</sup>–103<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33653/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikê Bibliothêkê, Panaghia 8, fols. 93v–103v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33653/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-11870/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 11870, fols. 108<sup>r</sup>–117<sup>r </sup>(11th cent.)</p>",
+      "line_text": "London, British Library, Add. 11870, fols. 108r–117r (11th cent.)",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-11870/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Messina, Biblioteca Regionale Universitaria, S. Salv. 25, fols. 70–81 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40686/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bibliome.it/ms-gr-025/\" target=\"_blank\" rel=\"noopener\">Messina</a></p>",
+      "line_text": "Messina, Biblioteca Regionale Universitaria, S. Salv. 25, fols. 70–81 (12th cent.) ~ Pinakes; Messina",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40686/",
+        "http://www.bibliome.it/ms-gr-025/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Messina, Biblioteca Regionale Universitaria, S. Salv. 31, fols. 83–90<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40692/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bibliome.it/ms-gr-031/\" target=\"_blank\" rel=\"noopener\">Messina</a></p>",
+      "line_text": "Messina, Biblioteca Regionale Universitaria, S. Salv. 31, fols. 83–90v (12th cent.) ~ Pinakes; Messina",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40692/",
+        "http://www.bibliome.it/ms-gr-031/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Messina, Biblioteca Regionale Universitaria, S. Salv. 41, fols. 97–106 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40702/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.bibliome.it/ms-gr-041/\" target=\"_blank\" rel=\"noopener\">Messina</a></p>",
+      "line_text": "Messina, Biblioteca Regionale Universitaria, S. Salv. 41, fols. 97–106 (12th cent.) ~ Pinakes; Messina",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40702/",
+        "http://www.bibliome.it/ms-gr-041/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Messina, Biblioteca Regionale Universitaria, S. Salv. 54, fols. 115–125 (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40715/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Messina, Biblioteca Regionale Universitaria, S. Salv. 54, fols. 115–125 (12th/13th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40715/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, F 135 sup. (Martini-Bassi 374), fols. 81<sup>v</sup>–84<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42787/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 135 sup. (Martini-Bassi 374), fols. 81v–84v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42787/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 177 (Vlad 356), fols. 82<sup>v</sup>–91 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43802/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 177 (Vlad 356), fols. 82v–91 (10th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43802/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Barocci 230, fols. 110<sup>v</sup>–121<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47518/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digital.bodleian.ox.ac.uk/objects/4e6bd284-ea0c-4f3f-96ad-69c62a8495ea/\" target=\"_blank\" rel=\"noopener\">Oxford</a></p>",
+      "line_text": "Oxford, Bodleian Library, Barocci 230, fols. 110v–121v (11th cent.) ~ Pinakes; Oxford",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47518/",
+        "https://digital.bodleian.ox.ac.uk/objects/4e6bd284-ea0c-4f3f-96ad-69c62a8495ea/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Cromwell 26, pp. 225–243 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47816/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4041\" target=\"_blank\" rel=\"noopener\">Oxford Catalog</a></p>",
+      "line_text": "Oxford, Bodleian Library, Cromwell 26, pp. 225–243 (11th cent.) ~ Pinakes; Oxford Catalog",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47816/",
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4041"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Holkham gr. 15, fols. 79<sup>v</sup>–87 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48083/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6136\" target=\"_blank\" rel=\"noopener\">Oxford Catalog</a></p>",
+      "line_text": "Oxford, Bodleian Library, Holkham gr. 15, fols. 79v–87 (11th cent.) ~ Pinakes; Oxford Catalog",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48083/",
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6136"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 751, fols. 174–179 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50334/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721900z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 751, fols. 174–179 (11th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50334/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721900z"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 774, fols. 46–58<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50358/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107239856\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 774, fols. 46–58v (14th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50358/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107239856"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1479, fols. 91<sup>v</sup>–100<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51096/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107234268\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1479, fols. 91v–100v (11th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51096/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107234268"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1492, fols. 84–91 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51109/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b52513679w?rk=85837;2\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1492, fols. 84–91 (11th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51109/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b52513679w?rk=85837;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1514, fols. 160, 163<sup>r</sup>–164v, 177<sup>r</sup>–178<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51132/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b11005064w?rk=3776842;4\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1514, fols. 160, 163r–164v, 177r–178v (12th/13th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51132/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b11005064w?rk=3776842;4"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1515, fols. 60<sup>v</sup>–68<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51133/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10724037z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1515, fols. 60v–68v (11th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51133/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10724037z"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1521, fols. 123<sup>v</sup>–132<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51139/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721723c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1521, fols. 123v–132v (12th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51139/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721723c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1523, fols. 93–95<sup>v</sup>, 120–126 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51141/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1523, fols. 93–95v, 120–126 (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51141/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1526, fols. 114–125 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51144/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1526, fols. 114–125 (14th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51144/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1555, fols. 77–80<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51174/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10084061f?rk=472105;2\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1555, fols. 77–80v (14th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51174/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10084061f?rk=472105;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1558, fols. 73–80<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51178/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107236496\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1558, fols. 73–80v (15th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51178/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107236496"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1607, fols. 99<sup>v</sup>–108<sup>v</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51228/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1607, fols. 99v–108v (13th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51228/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, supp. gr. 240, fols. 147<sup>v</sup>, 069–73<sup>v</sup>, 100–104<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/53004/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, supp. gr. 240, fols. 147v, 069–73v, 100–104v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/53004/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Chig. R.VII.48 (gr. 39), fols. 84–92<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65227/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Chig. R.VII.48 (gr. 39), fols. 84–92v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65227/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 421, fols. 116–127 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65664/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 421, fols. 116–127 (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65664/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 1, fols. 106–115<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65734/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_1\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 1, fols. 106–115v (10th/11th cent.) ~ Pinakes; BAV",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65734/",
+        "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 794, fols. 110–119<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67425/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.794\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 794, fols. 110–119v (11th cent.) ~ Pinakes; BAV",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67425/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.794"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 795, fols. 93<sup>v</sup>–102<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67426/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 795, fols. 93v–102v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67426/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 796, fols. 133–145<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67427/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 796, fols. 133–145v (12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67427/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1301<sup>v</sup>–1308<sup>v </sup>(1542)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1301v–1308v (1542)",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1643, fols. 72–78<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68274/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1643, fols. 72–78v (12th/13th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68274/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2044, fols. 95<sup>v</sup>–104<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68673/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2044, fols. 95v–104v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68673/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2047, fols. 62–67<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68676/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2047\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2047, fols. 62–67v (11th cent.) ~ Pinakes; BAV",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68676/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.2047"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII.24 (coll. 938), fols. 72<sup>v</sup>–79<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70057/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII.24 (coll. 938), fols. 72v–79v (12th/13th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70057/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. Z 347 (coll. 692), fols. 79–86 (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69818/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. Z 347 (coll. 692), fols. 79–86 (11th/12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/69818/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. Z 586 (coll. 660), fols. 110–119<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70057/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. Z 586 (coll. 660), fols. 110–119v (11th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70057/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, hist. gr. 39, fols. 78–84<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70916/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 39, fols. 78–84v (14th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70916/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zaborda, Monē tou hagiou Nikanoros, 43, fols. 61v–70<sup>v</sup> (14th/15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72325/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Zaborda, Monē tou hagiou Nikanoros, 43, fols. 61v–70v (14th/15th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/72325/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-286/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>C</strong>  Paris, Bibliothèque nationale de France, Coislin 286, fols. 185<sup>r</sup>–186<sup>r</sup> (14th cent.)—an excerpt of the text, covering only chaps. 1–4:2 though with many omissions.</p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, Coislin 286, fols. 185r–186r (14th cent.)—an excerpt of the text, covering only chaps. 1–4:2 though with many omissions.",
+      "language": ".2 Abbreviated Text",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-286/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Philotheou 8, fols. 57–59 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/oeuvre/15002/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monê Philotheou 8, fols. 57–59 (11th cent.) ~ Pinakes",
+      "language": ".3 Greek Epitome",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/oeuvre/15002/"
+      ]
+    },
+    {
+      "line_html": "<p>Halkin, François. “Une passion inédite de Corneille le centurion? (BHG<sup>3</sup> 370y).” <em>AnBoll</em> 81 (1963): 28–30.</p>",
+      "line_text": "Halkin, François. “Une passion inédite de Corneille le centurion? (BHG3 370y).” AnBoll 81 (1963): 28–30.",
+      "language": ".3 Greek Epitome",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Budge, Ernest A. W. <em>The Book of the Saints of the Ethiopian Church: A Translation of the Ethiopic Synaxarium: Made from the Manuscripts Oriental 660 and 661 in the British Museum</em>. 4 vols. Cambridge: Cambridge University Press, 1928 (vol. 1, pp. 157–58).</p>",
+      "line_text": "Budge, Ernest A. W. The Book of the Saints of the Ethiopian Church: A Translation of the Ethiopic Synaxarium: Made from the Manuscripts Oriental 660 and 661 in the British Museum. 4 vols. Cambridge: Cambridge University Press, 1928 (vol. 1, pp. 157–58).",
+      "language": "Synaxaria",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Makarios of Simonos Petra.<em> The Synaxarion: The Lives of the Saints of the Orthodox Church</em>. 7 vols. Trans. Christopher Hookway. Ormylia, Greece: Holy Convent of the Annunciation of Our Lady, 1998 (vol. 1, pp. 94–96).</p>",
+      "line_text": "Makarios of Simonos Petra. The Synaxarion: The Lives of the Saints of the Orthodox Church. 7 vols. Trans. Christopher Hookway. Ormylia, Greece: Holy Convent of the Annunciation of Our Lady, 1998 (vol. 1, pp. 94–96).",
+      "language": "Synaxaria",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wüstenfeld, Ferdinand. <em>S</em><em>ynaxarium das ist heiligen-kalender der Coptischen Christen</em>. 2 vols. Gotha: Friedrich Andreas Perthes, 1879 (vol. 1, p. 134).</p>",
+      "line_text": "Wüstenfeld, Ferdinand. Synaxarium das ist heiligen-kalender der Coptischen Christen. 2 vols. Gotha: Friedrich Andreas Perthes, 1879 (vol. 1, p. 134).",
+      "language": "Synaxaria",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p class=\"Default\" style=\"text-align: justify;\">Burke, Tony and Witold Witakowski. “Acts of Cornelius the Centurion.” Pages 337–61 in <em>New Testament Apocrypha: More Noncanonical Scriptures.</em> Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (introduction with two translations: the longer Greek text with variants from the Ethiopic in the notes, and the epitome),</p>",
+      "line_text": "Burke, Tony and Witold Witakowski. “Acts of Cornelius the Centurion.” Pages 337–61 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (introduction with two translations: the longer Greek text with variants from the Ethiopic in the notes, and the epitome),",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Orbiso, T. Garcia de. “Cornelio il Centurione, santo.” <em>Bibliotheca Sanctorum</em> 4 (1964): 189–92.</p>",
+      "line_text": "Orbiso, T. Garcia de. “Cornelio il Centurione, santo.” Bibliotheca Sanctorum 4 (1964): 189–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ramsay,  William M. “Cornelius and the Italic Cohort.”<em> Expositor</em> V/4 (1896): 194–201.</p>",
+      "line_text": "Ramsay,  William M. “Cornelius and the Italic Cohort.” Expositor V/4 (1896): 194–201.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rosenbaum, Hans-Udo. “Kornelios.” Page 517 in vol. 4 of <em>Biographisch-Bibliographisches Kirchenlexikon.</em> 33 vols. Edited by Friedrich Wilhelm Bautz and Traugott Bautz. Hamm-Herzberg-Nordhausen: Bautz, 1975–2012.</p>",
+      "line_text": "Rosenbaum, Hans-Udo. “Kornelios.” Page 517 in vol. 4 of Biographisch-Bibliographisches Kirchenlexikon. 33 vols. Edited by Friedrich Wilhelm Bautz and Traugott Bautz. Hamm-Herzberg-Nordhausen: Bautz, 1975–2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

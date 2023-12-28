@@ -1,0 +1,38 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/berlin-strasbourg-apocryphon/",
+  "nasscal_toc_title": "Berlin-Strasbourg Apocryphon",
+  "filename": "berlin-strasbourg-apocryphon",
+  "latin_title": "Apocryphon Berolinense-Argentiratense",
+  "abbrev": "B-S Ap.",
+  "alt_titles": [
+    "Gospel of the Savior, Unknown Berlin Gospel"
+  ],
+  "clavis_number": 388,
+  "category": "Pseudo-Apostolic Memoirs",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Scholer, David M. <em>Nag Hammadi Bibliography 1995–2006.</em> Nag Hammadi and Manichaean Studies 65. Leiden: Brill, 2009 (pp. 68–70).</p>",
+      "line_text": "Scholer, David M. Nag Hammadi Bibliography 1995–2006. Nag Hammadi and Manichaean Studies 65. Leiden: Brill, 2009 (pp. 68–70).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Yingling, Erik. “Singing with the Savior: Reconstructing the Ritual Ring-Dance in the <em>Gospel of the Savior</em>.” <em>Apocrypha</em> 24 (2013): 255–79.</p>",
+      "line_text": "Yingling, Erik. “Singing with the Savior: Reconstructing the Ritual Ring-Dance in the Gospel of the Savior.” Apocrypha 24 (2013): 255–79.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

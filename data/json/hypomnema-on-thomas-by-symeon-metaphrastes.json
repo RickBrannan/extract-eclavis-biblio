@@ -1,0 +1,143 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/hypomnema-on-thomas-by-symeon-metaphrastes/",
+  "nasscal_toc_title": "Hypomnema on Thomas, by Symeon Metaphrastes",
+  "filename": "hypomnema-on-thomas-by-symeon-metaphrastes",
+  "latin_title": "Commentarius Thomae, auctore Symeone Metaphrasta",
+  "abbrev": "Hypom. Thom.",
+  "alt_titles": [
+    "Hypomnema on Thomas"
+  ],
+  "clavis_number": 228,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum (F. 80370), Sinodal Coll. 235 (384), fols. 343–354 (16th cent.) (= de Santos Otero 31)</p>",
+      "line_text": "Moscow, State Historical Museum (F. 80370), Sinodal Coll. 235 (384), fols. 343–354 (16th cent.) (= de Santos Otero 31)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (vol. 1, p. 91).</p>",
+      "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (vol. 1, p. 91).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Review of Aurelio de Santos Otero, <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>, vol. 1. <em>Slavonic and East European Review</em> 58 [1980]: 256–68 at 260 (with corrections to de Santos Otero vol. 1).</p>",
+      "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handscriftliche Überlieferung der altslavischen Apokryphen, vol. 1. Slavonic and East European Review 58 [1980]: 256–68 at 260 (with corrections to de Santos Otero vol. 1).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 180 (Vlád. 360)~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43805/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 180 (Vlád. 360)~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43805/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 175 (Vlád. 358), fols. 31<sup>r</sup>–37<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43800/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "B  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 175 (Vlád. 358), fols. 31r–37v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43800/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 131 (Vlád. 359), fols. 170<sup>v</sup>–174<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43756/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "C  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 131 (Vlád. 359), fols. 170v–174r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43756/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 140 (Vlád. 368), fols. 115<sup>v</sup>–121<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43765/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "D  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod gr. 140 (Vlád. 368), fols. 115v–121r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43765/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-36654/\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 36654, fols. 32<sup>v</sup>–39<sup>r</sup> (12th cent.)</p>",
+      "line_text": "London, British Library, Add. 36654, fols. 32v–39r (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-36654/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://vremennik.biz/opus/BB/65/53345\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ivanov. C. A. “‘The Apostolic Siren’: Symeon Metaphrastes’ Hypomnema to St. Thomas, BHG 1835.” 309–24. (Greek edition based on ABCD, pp. 311–18; Russian translation, pp. 319–24).</p>",
+      "line_text": "Ivanov. C. A. “‘The Apostolic Siren’: Symeon Metaphrastes’ Hypomnema to St. Thomas, BHG 1835.” 309–24. (Greek edition based on ABCD, pp. 311–18; Russian translation, pp. 319–24).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://vremennik.biz/opus/BB/65/53345"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=dZEeNdvTevAC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lippomano, Luigi (Aloisius Lipomanus). <em>Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta</em>. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei,  1551–1560 (Latin translation, vol. 6, pp. 314<sup>v</sup>–316<sup>v</sup>).</p>",
+      "line_text": "Lippomano, Luigi (Aloisius Lipomanus). Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei,  1551–1560 (Latin translation, vol. 6, pp. 314v–316v).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=dZEeNdvTevAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><i><a href=\"https://archive.org/details/patrologicursus06migngoog/page/n283/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></i>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 116. Paris: Cerf, 1891 (Latin translation from Surius, cols. 559–66).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 116. Paris: Cerf, 1891 (Latin translation from Surius, cols. 559–66).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus06migngoog/page/n283/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=wpPpicHo7tIC&amp;printsec=frontcover&amp;source=gbs_atb&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Surius, Laurentius. <i>De probatis sanctorum historiis.</i> 6 vols. Cologne Agrippinae: Calenius and Quentel, 1572–1581 (reprint of Latin translation by Lipomanus, vol. 6, pp. 937–40).</p>",
+      "line_text": "Surius, Laurentius. De probatis sanctorum historiis. 6 vols. Cologne Agrippinae: Calenius and Quentel, 1572–1581 (reprint of Latin translation by Lipomanus, vol. 6, pp. 937–40).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=wpPpicHo7tIC&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://vremennik.biz/opus/BB/65/53345\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ivanov. C. A. “‘The Apostolic Siren’: Symeon Metaphrastes’ Hypomnema to St. Thomas, BHG 1835.” 309–24. (Greek edition based on ABCD, pp. 311–18; Russian translation, pp. 319–24).</p>",
+      "line_text": "Ivanov. C. A. “‘The Apostolic Siren’: Symeon Metaphrastes’ Hypomnema to St. Thomas, BHG 1835.” 309–24. (Greek edition based on ABCD, pp. 311–18; Russian translation, pp. 319–24).",
+      "language": "Russian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://vremennik.biz/opus/BB/65/53345"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/244/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ein Beitrag zur altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 1, pp. 244–45).</p>",
+      "line_text": "Lipsius, Richard A. Die Apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 1, pp. 244–45).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/244/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

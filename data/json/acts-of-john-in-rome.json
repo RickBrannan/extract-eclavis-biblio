@@ -1,0 +1,215 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-in-rome/",
+  "nasscal_toc_title": "Acts of John in Rome",
+  "filename": "acts-of-john-in-rome",
+  "latin_title": "Acta Iohannis Romae",
+  "abbrev": "Acts John Rome",
+  "clavis_number": 515,
+  "category": "Apocryphal Acts",
+  "compiler": ": Janet E. Spittler, University of Virginia",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Recension 1 (AJγ):</p>",
+      "line_text": "Recension 1 (AJγ):",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Milan, Bibliotheca Ambrosiana, gr. A 63 inf. (798), fols. 202<sup>r</sup>–220<sup>v</sup> (11th cent.)</p>",
+      "line_text": "A  Milan, Bibliotheca Ambrosiana, gr. A 63 inf. (798), fols. 202r–220v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Istanbul, Library of the Holy Trinity at Chalki, 102, fols. 154<sup>bis</sup> and 157 (11th cent.) ~ a disordered palimpsest with 15th cent. overwriting</p>",
+      "line_text": "H  Istanbul, Library of the Holy Trinity at Chalki, 102, fols. 154bis and 157 (11th cent.) ~ a disordered palimpsest with 15th cent. overwriting",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ohrid, Naroden Muzej, 4, pp. 47–57 (10th cent.)</p>",
+      "line_text": "O  Ohrid, Naroden Muzej, 4, pp. 47–57 (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-520/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P </strong> Paris, Bibliothèque nationale de France, gr. 520, pp. 50–59 (10th/11th cent.)</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, gr. 520, pp. 50–59 (10th/11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-520/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 34<sup>v</sup>, 25, 8, 35, 80, 17, 112 (10th cent.) ~ palimpsest with overwriting dated 1143</p>",
+      "line_text": "T  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 34v, 25, 8, 35, 80, 17, 112 (10th cent.) ~ palimpsest with overwriting dated 1143",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong>  Vienna, Österreichische Nationalbibliothek, hist. gr. 126, fols. 18<sup>r</sup>–21<sup>r </sup>(14th cent.)</p>",
+      "line_text": "W  Vienna, Österreichische Nationalbibliothek, hist. gr. 126, fols. 18r–21r (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Note: HOPTW combine <em>Acts John Rome</em> with the Metastasis (that is, the early <em>Acts John</em> 106–15, narrating John’s death). In manuscript A, <em>Acts John Rome</em> is presented in a complicated blending of the Metastasis and the final parts of <em>Acts John Proch.</em></p>",
+      "line_text": "Note: HOPTW combine Acts John Rome with the Metastasis (that is, the early Acts John 106–15, narrating John’s death). In manuscript A, Acts John Rome is presented in a complicated blending of the Metastasis and the final parts of Acts John Proch.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Recension 2 (AJβ):</p>",
+      "line_text": "Recension 2 (AJβ):",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-432/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>E</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 432, fols. 245<sup>v</sup>–248<sup>v</sup> (1334)</p>",
+      "line_text": "E  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 432, fols. 245v–248v (1334)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-432/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>J</strong>  Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos 442, fols. 32<sup>r</sup>–34<sup>v </sup>(1593–1617)</p>",
+      "line_text": "J  Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos 442, fols. 32r–34v (1593–1617)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 654, fols. 110<sup>r</sup>–112<sup>r </sup>(12th cent.)</p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 654, fols. 110r–112r (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 516, fols. 90<sup>v</sup>–92<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Y  Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 516, fols. 90v–92v (14th/15th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actaapostolorvm00tiscgoog/page/n201\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Acta Ioannis.” Pages xxvi–xxxii, 151–216 vol. 2.1 of <em>Acta Apostolorum Apocrypha</em>. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (edition of <em>Acts John Rome</em> based on AOPTW and VY presented as chaps. 1–14 of <em>Acts John</em>).</p>",
+      "line_text": "Bonnet, Maximilien. “Acta Ioannis.” Pages xxvi–xxxii, 151–216 vol. 2.1 of Acta Apostolorum Apocrypha. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (edition of Acts John Rome based on AOPTW and VY presented as chaps. 1–14 of Acts John).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actaapostolorvm00tiscgoog/page/n201"
+      ]
+    },
+    {
+      "line_html": "<p>Junod, Eric, and Jean-Daniel Kaestli. <em>Acta Iohannis</em>. CCSA 1–2. Turnhout: Brepols, 1983 (edition of the two recensions based on all of the available manuscripts, vol. 1, pp. 835–86).</p>",
+      "line_text": "Junod, Eric, and Jean-Daniel Kaestli. Acta Iohannis. CCSA 1–2. Turnhout: Brepols, 1983 (edition of the two recensions based on all of the available manuscripts, vol. 1, pp. 835–86).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actaapostolorum00actsgoog/page/n360\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Acta Apostolorum Apocrypha</em>. Leipzig: Mendelssohn, 1851 (edition based on P and W, pp. 266–76).</p>",
+      "line_text": "Tischendorf, Constantin. Acta Apostolorum Apocrypha. Leipzig: Mendelssohn, 1851 (edition based on P and W, pp. 266–76).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actaapostolorum00actsgoog/page/n360"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalactsof00pickuoft/page/122\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pick, Bernhard, trans. <em>The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas</em>. Chicago: Open Court, 1909. (English translation of Bonnet’s edition, pp. 123–99).</p>",
+      "line_text": "Pick, Bernhard, trans. The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas. Chicago: Open Court, 1909. (English translation of Bonnet’s edition, pp. 123–99).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalactsof00pickuoft/page/122"
+      ]
+    },
+    {
+      "line_html": "<p>Spittler, Janet E. “The Acts of John in Rome: A New Translation and Introduction.” Pages 241–61 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (English translation of the editions of both recensions by Junod and Kaestli).</p>",
+      "line_text": "Spittler, Janet E. “The Acts of John in Rome: A New Translation and Introduction.” Pages 241–61 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (English translation of the editions of both recensions by Junod and Kaestli).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/n472\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander, trans. <em>Apocryphal Gospels, Acts and Revelations</em>. The Ante-Nicene Christian Library 16. Edinburgh: T.&amp;T. Clark, 1870 (English translation of Tischendorf’s edition, pp. 444–53).</p>",
+      "line_text": "Walker, Alexander, trans. Apocryphal Gospels, Acts and Revelations. The Ante-Nicene Christian Library 16. Edinburgh: T.&amp;T. Clark, 1870 (English translation of Tischendorf’s edition, pp. 444–53).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/n472"
+      ]
+    },
+    {
+      "line_html": "<p>Junod, Eric, and Jean-Daniel Kaestli. “Actes de Jean à Rome.” Pages 699–708 in vol. 2 of <em>Écrits apocryphes chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Junod, Eric, and Jean-Daniel Kaestli. “Actes de Jean à Rome.” Pages 699–708 in vol. 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966–1981 (Italian translation in vol. 2:34–39).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (Italian translation in vol. 2:34–39).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Anderson, James C. “Domitian, the Argiletum and the Temple of Peace.” <em>AJA</em> 86.1 (1982): 101–10.</p>",
+      "line_text": "Anderson, James C. “Domitian, the Argiletum and the Temple of Peace.” AJA 86.1 (1982): 101–10.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Culpepper, R. Alan. <em>John, the Son of Zebedee: the Life of a Legend</em>. Columbia, SC: University of South Carolina Press, 1994.</p>",
+      "line_text": "Culpepper, R. Alan. John, the Son of Zebedee: the Life of a Legend. Columbia, SC: University of South Carolina Press, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kelhoffer, James A. <em>Miracle and Mission. The Authentication of Missionaries and Their Message in the Longer Ending of Mark. </em>Tübingen: Mohr Siebeck, 2000.</p>",
+      "line_text": "Kelhoffer, James A. Miracle and Mission. The Authentication of Missionaries and Their Message in the Longer Ending of Mark. Tübingen: Mohr Siebeck, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n537\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard Adelbert. <em>Die apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag Zur Altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: C. A. Schwetschke und Sohn, 1883–1887 (vol. 1:517–42).</p>",
+      "line_text": "Lipsius, Richard Adelbert. Die apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag Zur Altchristlichen Literaturgeschichte. 2 vols. Braunschweig: C. A. Schwetschke und Sohn, 1883–1887 (vol. 1:517–42).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/n537"
+      ]
+    },
+    {
+      "line_html": "<p>Snyder, Julia A. “Apostles and Politics in the Roman Empire.” In <em>Reading the Political in Jewish and Christian Texts, </em>edited by Julia A. Snyder and Korinna Zamfir, 227–56<em>.</em> Biblical Tools and Studies 38. Leuven: Peeters, 2020.</p>",
+      "line_text": "Snyder, Julia A. “Apostles and Politics in the Roman Empire.” In Reading the Political in Jewish and Christian Texts, edited by Julia A. Snyder and Korinna Zamfir, 227–56. Biblical Tools and Studies 38. Leuven: Peeters, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actajoannisacco00leucgoog/page/n7\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Zahn, Theodor. <em>Acta Joannis, unter Benutzung von C. v. Tischendorf’s Nachlass</em>. Erlangen: A. Deichert, 1880.</p>",
+      "line_text": "Zahn, Theodor. Acta Joannis, unter Benutzung von C. v. Tischendorf’s Nachlass. Erlangen: A. Deichert, 1880.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/actajoannisacco00leucgoog/page/n7"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

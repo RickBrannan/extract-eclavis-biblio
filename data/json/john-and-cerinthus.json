@@ -1,0 +1,219 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/john-and-cerinthus/",
+  "nasscal_toc_title": "John and Cerinthus",
+  "filename": "john-and-cerinthus",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "John Cer.",
+  "clavis_number": 877,
+  "category": "Patristic Anecdotes",
+  "compiler": "Lorne R. Zelyck, St. Joseph’s College – University of Alberta",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  London, British Library, Arundel 87 (12th cent.)</p>",
+      "line_text": "A  London, British Library, Arundel 87 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C  </strong>Berlin, Staatsbibliothek zu Berlin, Phillipps 1669 (9th cent.)</p>",
+      "line_text": "C  Berlin, Staatsbibliothek zu Berlin, Phillipps 1669 (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H  </strong>Stockholm, Kungliga biblioteket, A 140 (16th cent.)</p>",
+      "line_text": "H  Stockholm, Kungliga biblioteket, A 140 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Vatican, Biblioteca Apostolica Vaticana, Ott. lat. 752 (15th cent.)</p>",
+      "line_text": "O  Vatican, Biblioteca Apostolica Vaticana, Ott. lat. 752 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P  </strong>Vatican, Biblioteca Apostolica Vaticana, Ott. lat. 1154 (16th cent.)</p>",
+      "line_text": "P  Vatican, Biblioteca Apostolica Vaticana, Ott. lat. 1154 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 187 (15th cent.)</p>",
+      "line_text": "Q  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 187 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 188 (15th cent.)</p>",
+      "line_text": "R  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 188 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S  </strong>Salamanca, Biblioteca Universitaria, 202 (15th cent.)</p>",
+      "line_text": "S  Salamanca, Biblioteca Universitaria, 202 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Leiden, Bibliotheek der Rijksuniversiteit, Voss. lat. F. 33 (14th cent.)<a href=\"#_ftn1\" name=\"_ftnref1\"/><a href=\"#_ftnref1\" name=\"_ftn1\"/></p>",
+      "line_text": "V  Leiden, Bibliotheek der Rijksuniversiteit, Voss. lat. F. 33 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "#_ftn1",
+        "#_ftnref1"
+      ]
+    },
+    {
+      "line_html": "<p>Otto Reimherr and F. Edward Cranz, “Irenaeus Lugdunensis.” Pages 13–54 in vol. 7 of <em>Catalogus Translationum et Commentariorum: Mediaeval and Renaissance Latin Translations and Commentaries</em>. Edited by Virginia Brown, Paul O. Kristeller, and F. Edward Cranz. Washington, DC: Catholic University of America Press, 1992 (manuscripts listed, p. 34).</p>",
+      "line_text": "Otto Reimherr and F. Edward Cranz, “Irenaeus Lugdunensis.” Pages 13–54 in vol. 7 of Catalogus Translationum et Commentariorum: Mediaeval and Renaissance Latin Translations and Commentaries. Edited by Virginia Brown, Paul O. Kristeller, and F. Edward Cranz. Washington, DC: Catholic University of America Press, 1992 (manuscripts listed, p. 34).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Rousseau, Adelin, and Louis Doutreleau, eds. <em>Irénée de Lyon: Contre les hérésies, Livre III, Tome II: Edition critique, texte et traduction</em>. SC 211. Paris: Les Éditions du Cerf, 1974 (Latin text of the story with French translation, pp. 40–42).</p>",
+      "line_text": "Rousseau, Adelin, and Louis Doutreleau, eds. Irénée de Lyon: Contre les hérésies, Livre III, Tome II: Edition critique, texte et traduction. SC 211. Paris: Les Éditions du Cerf, 1974 (Latin text of the story with French translation, pp. 40–42).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Unger, Dominic J., and John J. Dillon, eds. <em>St. Irenaeus of Lyons: Against the Heresies</em>, <em>Book 1</em>. Ancient Christian Writers 55. New York: The Newman Press, 1992 (manuscripts listed, pp. 12–13).</p>",
+      "line_text": "Unger, Dominic J., and John J. Dillon, eds. St. Irenaeus of Lyons: Against the Heresies, Book 1. Ancient Christian Writers 55. New York: The Newman Press, 1992 (manuscripts listed, pp. 12–13).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnteNiceneFathersVolume10BibliographicSynopsisGeneralIndex/page/n1103/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Roberts, Alexander, and James Donaldson, eds. <em>The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325</em>. 10 vols. Edinburgh: T.&amp;T. Clark, 1898. Repr. Peabody, MA: Hendrickson, 1995 (English translation by Philip Schaff, p. 1062).</p>",
+      "line_text": "Roberts, Alexander, and James Donaldson, eds. The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to A.D. 325. 10 vols. Edinburgh: T.&amp;T. Clark, 1898. Repr. Peabody, MA: Hendrickson, 1995 (English translation by Philip Schaff, p. 1062).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/AnteNiceneFathersVolume10BibliographicSynopsisGeneralIndex/page/n1103/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Steenberg, Matthew C., and Dominic J. Unger, <em>St. Irenaeus of Lyons: Against the Heresies</em>, <em>Book 3</em>. ACW 64. New York: The Newman Press, 2012 (English translation of the story, p. 34).</p>",
+      "line_text": "Steenberg, Matthew C., and Dominic J. Unger, St. Irenaeus of Lyons: Against the Heresies, Book 3. ACW 64. New York: The Newman Press, 2012 (English translation of the story, p. 34).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Zelyck, Lorne R. “The Story of John Meeting Cerinthus.” Pages 231–40 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023.</p>",
+      "line_text": "Zelyck, Lorne R. “The Story of John Meeting Cerinthus.” Pages 231–40 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rousseau, Adelin, and Louis Doutreleau, eds. <em>Irénée de Lyon: Contre les hérésies, Livre III, Tome II: Edition critique, texte et traduction</em>. SC 211. Paris: Les Éditions du Cerf, 1974 (Latin text of the story with French translation, pp. 40–42).</p>",
+      "line_text": "Rousseau, Adelin, and Louis Doutreleau, eds. Irénée de Lyon: Contre les hérésies, Livre III, Tome II: Edition critique, texte et traduction. SC 211. Paris: Les Éditions du Cerf, 1974 (Latin text of the story with French translation, pp. 40–42).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Auinger, Johanna. “The Sculptural Decoration of Ephesian Bath Buildings in Late Antiquity.” Pages 67–80 in <em>Archaeology and the Cities of Asia Minor in Late Antiquity.</em> Edited by Ortwin Dally and Christopher Ratté. Kelsey Museum Publication 6. Ann Arbor: Kelsey Museum of Archaeology, 2011.</p>",
+      "line_text": "Auinger, Johanna. “The Sculptural Decoration of Ephesian Bath Buildings in Late Antiquity.” Pages 67–80 in Archaeology and the Cities of Asia Minor in Late Antiquity. Edited by Ortwin Dally and Christopher Ratté. Kelsey Museum Publication 6. Ann Arbor: Kelsey Museum of Archaeology, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fagan, Garrett G. <em>Bathing in Public in the Roman World</em>. Ann Arbor: The University of Michigan Press, 1999.</p>",
+      "line_text": "Fagan, Garrett G. Bathing in Public in the Roman World. Ann Arbor: The University of Michigan Press, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Guidoboni, Emanuela. <em>Catalogue of Ancient Earthquakes in the Mediterranean Area up to the 10th Century</em>. Rome: Instituto Nazionale di Geofisica, 1994 (see pp. 174–95).</p>",
+      "line_text": "Guidoboni, Emanuela. Catalogue of Ancient Earthquakes in the Mediterranean Area up to the 10th Century. Rome: Instituto Nazionale di Geofisica, 1994 (see pp. 174–95).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hill, Charles E. “The Epistula Apostolorum: An Asian Tract from the Time of Polycarp.” <em>JECS </em>7 (1991): 1–53.</p>",
+      "line_text": "Hill, Charles E. “The Epistula Apostolorum: An Asian Tract from the Time of Polycarp.” JECS 7 (1991): 1–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.cdamm.org/articles/cerinthus\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Kok, Michael J. “Cerinthus.” In <em>Critical Dictionary of Apocalyptic and Millenarian Movements</em>. Edited by James Crossley and Alastair Lockhart. Online. 2021.</p>",
+      "line_text": "Kok, Michael J. “Cerinthus.” In Critical Dictionary of Apocalyptic and Millenarian Movements. Edited by James Crossley and Alastair Lockhart. Online. 2021.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.cdamm.org/articles/cerinthus"
+      ]
+    },
+    {
+      "line_html": "<p>———. “Classifying Cerinthus<em>’</em>s Christology.” <em>JECS </em>9.3 (2019): 1–19.</p>",
+      "line_text": "———. “Classifying Cerinthus’s Christology.” JECS 9.3 (2019): 1–19.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. The Beloved Apostle? The Transformation of the Apostle John into the Fourth Evangelist</em>. Eugene, OR; Cascade, 2017 (pp. 114–25).</p>",
+      "line_text": "———. The Beloved Apostle? The Transformation of the Apostle John into the Fourth Evangelist. Eugene, OR; Cascade, 2017 (pp. 114–25).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Miszczak, Izabela. <em>The Secrets of Ephesus</em>. Fairfield, CT: Aslan Publishing House, 2020 (see p. 104).</p>",
+      "line_text": "Miszczak, Izabela. The Secrets of Ephesus. Fairfield, CT: Aslan Publishing House, 2020 (see p. 104).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Murray, James S. “The Urban Earthquake Imagery and Divine Judgement in John’s Apocalypse.” <em>NovT</em> 47 (2005): 142–61.</p>",
+      "line_text": "Murray, James S. “The Urban Earthquake Imagery and Divine Judgement in John’s Apocalypse.” NovT 47 (2005): 142–61.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Myllykoski, Matti. “Cerinthus.” Pages 213–46 in <em>A Companion to Second-Century Christian ‘Heretics.’</em> Edited by Antti Marjanen and Petri Luomanen. Leiden: Brill, 2008.</p>",
+      "line_text": "Myllykoski, Matti. “Cerinthus.” Pages 213–46 in A Companion to Second-Century Christian ‘Heretics.’ Edited by Antti Marjanen and Petri Luomanen. Leiden: Brill, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nielsen, Inge. <em>Thermae et Balnea: The Architecture and Cultural History of Roman Public Baths, II Catalogue and Plates</em>. Aarhus: Aarhus University Press, 1990.</p>",
+      "line_text": "Nielsen, Inge. Thermae et Balnea: The Architecture and Cultural History of Roman Public Baths, II Catalogue and Plates. Aarhus: Aarhus University Press, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Steskal, Martin. “The Bath-Gymnasium Complex of Vedius in Ephesus.” Pages 557–62 in <em>Proceedings of the IX Symposium on Mediterranean Archaeology, Chieti (Italy), 24</em>–<em>26 February 2005</em>. Edited by Olivia Menozzi, Marialuigia Di Marzio, and Domenico Fossataro. Oxford: Archaeopress, 2008.</p>",
+      "line_text": "Steskal, Martin. “The Bath-Gymnasium Complex of Vedius in Ephesus.” Pages 557–62 in Proceedings of the IX Symposium on Mediterranean Archaeology, Chieti (Italy), 24–26 February 2005. Edited by Olivia Menozzi, Marialuigia Di Marzio, and Domenico Fossataro. Oxford: Archaeopress, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Yegül, Fikret. <em>Bathing in the Roman World</em>. Cambridge: Cambridge University Press, 2010.</p>",
+      "line_text": "Yegül, Fikret. Bathing in the Roman World. Cambridge: Cambridge University Press, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zelyck, Lorne R. “Irenaeus and the Authorship of the Fourth Gospel.” Pages 239–58 in <em>The Origins of John’s Gospel</em>. Edited by Stanley E. Porter and Hughson T. Ong. Johannine Studies 2. Boston: Brill, 2016.</p>",
+      "line_text": "Zelyck, Lorne R. “Irenaeus and the Authorship of the Fourth Gospel.” Pages 239–58 in The Origins of John’s Gospel. Edited by Stanley E. Porter and Hughson T. Ong. Johannine Studies 2. Boston: Brill, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zytka, Michal. <em>A Cultural History of Bathing in Late Antiquity and Early Byzantium</em>. New York: Routledge, 2019.</p>",
+      "line_text": "Zytka, Michal. A Cultural History of Bathing in Late Antiquity and Early Byzantium. New York: Routledge, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

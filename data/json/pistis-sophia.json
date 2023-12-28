@@ -1,0 +1,388 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/pistis-sophia/",
+  "nasscal_toc_title": "Pistis Sophia",
+  "filename": "pistis-sophia",
+  "latin_title": "Pistis Sophia",
+  "abbrev": "Pist. Soph.",
+  "alt_titles": [
+    "Wisdom of Faith",
+    "Books of the Savior"
+  ],
+  "clavis_number": 643,
+  "category": "Revelatory Dialogues",
+  "compiler": "Caroline Crews, University of Texas at Austin",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 5114 (Codex Askewianus; CMCL.AQ), pp. 1–231 (ca/ 250–300) ~ <a href=\"http://searcharchives.bl.uk/IAMS_VU2:IAMS032-002738266\" target=\"_blank\" rel=\"noopener\">CATALOG</a>; <a href=\"https://atlas.paths-erc.eu/manuscripts/17\" target=\"_blank\" rel=\"noopener\">PAThs</a></p>",
+      "line_text": "London, British Library, Add. 5114 (Codex Askewianus; CMCL.AQ), pp. 1–231 (ca/ 250–300) ~ CATALOG; PAThs",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://searcharchives.bl.uk/IAMS_VU2:IAMS032-002738266",
+        "https://atlas.paths-erc.eu/manuscripts/17"
+      ]
+    },
+    {
+      "line_html": "<p>Schmidt, Carl (ed.), and Violet MacDermot (transl.). <em>Pistis Sophia</em>. The Coptic Gnostic Library. Leiden: Brill, 1978 (edition of Schmidt with notes and translation by MacDermot).</p>",
+      "line_text": "Schmidt, Carl (ed.), and Violet MacDermot (transl.). Pistis Sophia. The Coptic Gnostic Library. Leiden: Brill, 1978 (edition of Schmidt with notes and translation by MacDermot).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/CarlSchmidtPistisSophia1925Teil1/Carl%20Schmidt%2C%20Pistis%20Sophia%201925%2C%20Teil1\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl. <em>Pistis Sophia. Ein gnostisches Originalwerk des dritten Jahrhunderts aus dem Koptischen übsersetzt. In neuer Bearbeitung mit einleitenden Untersuchungen und Indices herausgegeben.</em> Leipzig: Hinrichs, 1925 (Coptic text revised from 1905).</p>",
+      "line_text": "Schmidt, Carl. Pistis Sophia. Ein gnostisches Originalwerk des dritten Jahrhunderts aus dem Koptischen übsersetzt. In neuer Bearbeitung mit einleitenden Untersuchungen und Indices herausgegeben. Leipzig: Hinrichs, 1925 (Coptic text revised from 1905).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/CarlSchmidtPistisSophia1925Teil1/Carl%20Schmidt%2C%20Pistis%20Sophia%201925%2C%20Teil1"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/koptischgnostisc00schmuoft#page/n3/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a><em>——— </em>(ed.) and Hans-Martin Schenke (trans.). <em>Koptisch-Gnostische Schriften. Erster Band: Die Pistis Sophia, Die beiden Bücher des Jeû, Unbekanntes altgnostisches Werk</em>. Leipzig: J. C. Hinrichs, 1905 (German translation with corrections of edition by Schwartze).</p>",
+      "line_text": "——— (ed.) and Hans-Martin Schenke (trans.). Koptisch-Gnostische Schriften. Erster Band: Die Pistis Sophia, Die beiden Bücher des Jeû, Unbekanntes altgnostisches Werk. Leipzig: J. C. Hinrichs, 1905 (German translation with corrections of edition by Schwartze).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/koptischgnostisc00schmuoft#page/n3/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/pistissophiaopu00petegoog#page/n8/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schwartze, Moritz Gotthilf, and Julius Heinrich Petermann. <em>Pistis Sophia. Opus gnosticum Valentino adiucatum e codice manuscript gnostico Londinensi</em>. Berlin: Ferdinand Duemmler, 1851 (<em>editio princeps </em>with Latin translation).</p>",
+      "line_text": "Schwartze, Moritz Gotthilf, and Julius Heinrich Petermann. Pistis Sophia. Opus gnosticum Valentino adiucatum e codice manuscript gnostico Londinensi. Berlin: Ferdinand Duemmler, 1851 (editio princeps with Latin translation).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/pistissophiaopu00petegoog#page/n8/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Rijckenborgh, Jan van. <em>De gnostieke mysteriën van de Pistis Sophia</em>. Haarlem: Rozekruis Pers, 1992.</p>",
+      "line_text": "Rijckenborgh, Jan van. De gnostieke mysteriën van de Pistis Sophia. Haarlem: Rozekruis Pers, 1992.",
+      "language": "Dutch",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Legge, Francis and George William Horner. <em>Pistis Sophia, literally translated from the Coptic</em>. New York and Toronto: The Macmillan Co., 1924.</p>",
+      "line_text": "Legge, Francis and George William Horner. Pistis Sophia, literally translated from the Coptic. New York and Toronto: The Macmillan Co., 1924.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>MacDermot, Violet. <em>The Fall of Sophia: A Gnostic Text on the Redemption of Universal Consciousness</em>. Great Barrington, MA: Lindisfarne Books, 2001 (reproducing MacDermot’s 1978 translation with new commentary).</p>",
+      "line_text": "MacDermot, Violet. The Fall of Sophia: A Gnostic Text on the Redemption of Universal Consciousness. Great Barrington, MA: Lindisfarne Books, 2001 (reproducing MacDermot’s 1978 translation with new commentary).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/in.ernet.dli.2015.158283\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mead, G. R. S. <em>Pistis Sophia: A Gnostic Miscellany: Being for the Most Part Extracts from the Books of the Saviour, to which Are Added Excerpts from a Cognate Literature</em>. Ulthar: Celepha’s Press, 2007 (reprinted from original publications in 2005, 1921, and 1896).</p>",
+      "line_text": "Mead, G. R. S. Pistis Sophia: A Gnostic Miscellany: Being for the Most Part Extracts from the Books of the Saviour, to which Are Added Excerpts from a Cognate Literature. Ulthar: Celepha’s Press, 2007 (reprinted from original publications in 2005, 1921, and 1896).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/in.ernet.dli.2015.158283"
+      ]
+    },
+    {
+      "line_html": "<p>Schmidt, Carl (ed.), and Violet MacDermot (transl.). <em>Pistis Sophia</em>. The Coptic Gnostic Library. Leiden: Brill, 1978 (reproducing Schmidt’s 1925 edition for new English translation)</p>",
+      "line_text": "Schmidt, Carl (ed.), and Violet MacDermot (transl.). Pistis Sophia. The Coptic Gnostic Library. Leiden: Brill, 1978 (reproducing Schmidt’s 1925 edition for new English translation)",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amélineau, Émile. <em>Pistis Sophia – ouvrage Gnostique de Valentin. Traduit du copte en français avec une introduction</em>. Paris: Chamuel, 1895 (translated into French from the Latin translation).</p>",
+      "line_text": "Amélineau, Émile. Pistis Sophia – ouvrage Gnostique de Valentin. Traduit du copte en français avec une introduction. Paris: Chamuel, 1895 (translated into French from the Latin translation).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rijckenborgh, Jan van. <em>Die gnostischen Mysterien der Pistis Sophia. Betrachtungen zum ersten Buch der Pistis Sophia</em>. Birnbach: DRP Rosenkreuz, 2003 (translated from the Dutch translation).</p>",
+      "line_text": "Rijckenborgh, Jan van. Die gnostischen Mysterien der Pistis Sophia. Betrachtungen zum ersten Buch der Pistis Sophia. Birnbach: DRP Rosenkreuz, 2003 (translated from the Dutch translation).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/koptischgnostisc00schmuoft#page/n3/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl. <em>Koptisch-Gnostische Schriften. Erster Band: Die Pistis Sophia, Die beiden Bücher des Jeû, Unbekanntes altgnostisches Werk</em>. Leipzig: J. C. Hinrichs, 1905 (German translation with corrections of edition by Schwartze).</p>",
+      "line_text": "Schmidt, Carl. Koptisch-Gnostische Schriften. Erster Band: Die Pistis Sophia, Die beiden Bücher des Jeû, Unbekanntes altgnostisches Werk. Leipzig: J. C. Hinrichs, 1905 (German translation with corrections of edition by Schwartze).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/stream/koptischgnostisc00schmuoft#page/n3/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Siegert, Christa. <em>Pistis Sophia: Unterweisungen des Christus im Jüngerkreis über die Mysterien im Lichtreich</em>. Birnbach: DRP-Rosenkreuz, 2005.</p>",
+      "line_text": "Siegert, Christa. Pistis Sophia: Unterweisungen des Christus im Jüngerkreis über die Mysterien im Lichtreich. Birnbach: DRP-Rosenkreuz, 2005.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Pistis Sophia</em>. Milano: Adelphi, 1999.</p>",
+      "line_text": "Moraldi, Luigi. Pistis Sophia. Milano: Adelphi, 1999.",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/pistissophiaopu00petegoog#page/n8/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schwartze, Moritz Gotthilf, and Julius Heinrich Petermann. <em>Pistis Sophia. Opus gnosticum Valentino adiucatum e codice manuscript gnostico Londinensi</em>. Berlin: Ferdinand Duemmler, 1851 (<em>editio princeps </em>with Latin translation).</p>",
+      "line_text": "Schwartze, Moritz Gotthilf, and Julius Heinrich Petermann. Pistis Sophia. Opus gnosticum Valentino adiucatum e codice manuscript gnostico Londinensi. Berlin: Ferdinand Duemmler, 1851 (editio princeps with Latin translation).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/stream/pistissophiaopu00petegoog#page/n8/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Aun Weor, Samael. <em>Pistis Sophia Develado</em>. Karma Seven, 1998 (originally and posthumously published in 1983, translated from Mead’s English translation).</p>",
+      "line_text": "Aun Weor, Samael. Pistis Sophia Develado. Karma Seven, 1998 (originally and posthumously published in 1983, translated from Mead’s English translation).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Andresen, Carl. “Pistis Sophia.” In <em>Lexikon der Alten Welt</em>, 2334. Zürich: Artemis, 1965.</p>",
+      "line_text": "Andresen, Carl. “Pistis Sophia.” In Lexikon der Alten Welt, 2334. Zürich: Artemis, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Aun Weor, Samael. <em>The Gnostic Bible: The Pistis Sophia Unveiled</em>. Brooklyn: Glorian Publishing, 2011.</p>",
+      "line_text": "Aun Weor, Samael. The Gnostic Bible: The Pistis Sophia Unveiled. Brooklyn: Glorian Publishing, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bozzone, A. M. “Pistis Sophia.” <em>Dizionario Ecclesiastico </em>3 (1958): 235.</p>",
+      "line_text": "Bozzone, A. M. “Pistis Sophia.” Dizionario Ecclesiastico 3 (1958): 235.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Branco, Raul. “The Pistis Sophia: An Introduction.” <em>Quest</em> 99.4 (2011): 144–51.</p>",
+      "line_text": "Branco, Raul. “The Pistis Sophia: An Introduction.” Quest 99.4 (2011): 144–51.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Brock, Ann Graham. “The Identity of the Blessed Mary, Representative of Wisdom in Pistis Sophia.” Pages 122–35 in <em>Walk in the Ways of Wisdom: Essays in Honor of Elisabeth Schüssler Fiorenza</em>. Edited by Shelly Matthews, Cynthia Briggs Kittredge, and Melanie Johnson-DeBaufre. Harrisburg, PA: Trinity Press International, 2003.</p>",
+      "line_text": "Brock, Ann Graham. “The Identity of the Blessed Mary, Representative of Wisdom in Pistis Sophia.” Pages 122–35 in Walk in the Ways of Wisdom: Essays in Honor of Elisabeth Schüssler Fiorenza. Edited by Shelly Matthews, Cynthia Briggs Kittredge, and Melanie Johnson-DeBaufre. Harrisburg, PA: Trinity Press International, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Setting the Record Straight—the Politics of Identification: Mary Magdalene and Mary the Mother in Pistis Sophia.” Pages 43–52 in <em>Which Mary?: The Marys of Early Christian Tradition.</em> Edited by F. Stanley Jones. Leiden; Boston: Brill, 2002.</p>",
+      "line_text": "———. “Setting the Record Straight—the Politics of Identification: Mary Magdalene and Mary the Mother in Pistis Sophia.” Pages 43–52 in Which Mary?: The Marys of Early Christian Tradition. Edited by F. Stanley Jones. Leiden; Boston: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burkitt, Francis C. “‘Pistis Sophia’ and the Coptic Language.” <em>JTS</em> 27.106 (1926): 148–57.</p>",
+      "line_text": "Burkitt, Francis C. “‘Pistis Sophia’ and the Coptic Language.” JTS 27.106 (1926): 148–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Pistis Sophia Again.” <em>JTS</em> 26.104 (1925): 391–99.</p>",
+      "line_text": "———. “Pistis Sophia Again.” JTS 26.104 (1925): 391–99.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Pistis Sophia.” <em>JTS</em> 23.91 (1922): 271–80.</p>",
+      "line_text": "———. “Pistis Sophia.” JTS 23.91 (1922): 271–80.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Carmignac, Jean. “Le Genre Littéraire du ‘Péshèr’ dans la Pistis-Sophia.” <em>RevQ</em> 4.4 (1964): 497–522.</p>",
+      "line_text": "Carmignac, Jean. “Le Genre Littéraire du ‘Péshèr’ dans la Pistis-Sophia.” RevQ 4.4 (1964): 497–522.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dalgaard, Kaspar. “Multiple Melchizedeks in the ‘Books of Jeu’ and ‘Pistis Sophia.’” <em>Henoch</em> 38.1 (2016): 54–66.</p>",
+      "line_text": "Dalgaard, Kaspar. “Multiple Melchizedeks in the ‘Books of Jeu’ and ‘Pistis Sophia.’” Henoch 38.1 (2016): 54–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Enslin, Morton S. “Pistis Sophia.” Page 820 in vol. 3 of <em>The Interpreter’s Dictionary of the Bible</em>. Edited by George A. Buttrick. 4 vols. New York; Nashville: Abingdon, 1962.</p>",
+      "line_text": "Enslin, Morton S. “Pistis Sophia.” Page 820 in vol. 3 of The Interpreter’s Dictionary of the Bible. Edited by George A. Buttrick. 4 vols. New York; Nashville: Abingdon, 1962.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Evans, Erin. <em>The </em>Books of Jeu<em> and the</em> Pistis Sophia<em> as Handbooks to Eternity: Exploring the Gnostic Mysteries of the Ineffable</em>. Leiden and Boston: Brill, 2015.</p>",
+      "line_text": "Evans, Erin. The Books of Jeu and the Pistis Sophia as Handbooks to Eternity: Exploring the Gnostic Mysteries of the Ineffable. Leiden and Boston: Brill, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gianotto, Claudio. “Le processus salvifique des âmes selon la <em>Pistis Sophia</em> (Codex Askewianus).” Pages 339–56 in <em>Nag Hammadi à 70 ans, qu’avons-nous appris?</em> <em>(Colloque international, Québec, Université Laval, 29-31 mai 2015)</em>. Edited by Eric Crégheur, Louis Painchaud, and Tumoas Rasimus. Leuven and Paris: Peeters, 2019.</p>",
+      "line_text": "Gianotto, Claudio. “Le processus salvifique des âmes selon la Pistis Sophia (Codex Askewianus).” Pages 339–56 in Nag Hammadi à 70 ans, qu’avons-nous appris? (Colloque international, Québec, Université Laval, 29-31 mai 2015). Edited by Eric Crégheur, Louis Painchaud, and Tumoas Rasimus. Leuven and Paris: Peeters, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Good, Deirdre. “Pistis Sophia.” Pages 678–707 in <em>Searching the Scriptures. Volume Two: A Feminist Commentary.</em> Edited by Elisabeth Schüssler Fiorenza. London: SCM Press, 1994.</p>",
+      "line_text": "Good, Deirdre. “Pistis Sophia.” Pages 678–707 in Searching the Scriptures. Volume Two: A Feminist Commentary. Edited by Elisabeth Schüssler Fiorenza. London: SCM Press, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf. <em>Über das gnostische Buch Pistis-Sophia. Brod und Wasser: Die eucharistischen Elemente bei Justin. Zwei Untersuchungen</em>. TU 7.2. Leipzig: J. C. Hinrichs, 1891.</p>",
+      "line_text": "Harnack, Adolf. Über das gnostische Buch Pistis-Sophia. Brod und Wasser: Die eucharistischen Elemente bei Justin. Zwei Untersuchungen. TU 7.2. Leipzig: J. C. Hinrichs, 1891.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jansen, Herman Ludin. “Bibelske tekster i Pistis Sophia.” <em>DTT</em> 21 (1958): 210–18.</p>",
+      "line_text": "Jansen, Herman Ludin. “Bibelske tekster i Pistis Sophia.” DTT 21 (1958): 210–18.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digizeitschriften.de/dms/toc/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-7945\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Köstlin, K. R. “Das gnostische System des Buches Pistis Sophia.” <em>Theologische Jahrbücher 13 (1854): </em>1–104, 137–95.</p>",
+      "line_text": "Köstlin, K. R. “Das gnostische System des Buches Pistis Sophia.” Theologische Jahrbücher 13 (1854): 1–104, 137–95.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.digizeitschriften.de/dms/toc/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-7945"
+      ]
+    },
+    {
+      "line_html": "<p>Kragerud, Alv. <em>Die Hymnen der Pistis Sophia</em>. Oslo: Universitetsforlaget, 1967.</p>",
+      "line_text": "Kragerud, Alv. Die Hymnen der Pistis Sophia. Oslo: Universitetsforlaget, 1967.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leisegang, Hans. “Er Sofia-teksten en mysterieliturgi?” <em>NTTt</em> 68 (1967): 91–93.</p>",
+      "line_text": "Leisegang, Hans. “Er Sofia-teksten en mysterieliturgi?” NTTt 68 (1967): 91–93.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Gnostic Interpretation in Pistis Sophia.” Pages 106–11 in <em>Proceedings of the IXth International Congress for the History of Religions, Tokyo and Kyoto 1958, August 27th–September 9th.</em> Tokyo: Maruzen, 1960.</p>",
+      "line_text": "———. “Gnostic Interpretation in Pistis Sophia.” Pages 106–11 in Proceedings of the IXth International Congress for the History of Religions, Tokyo and Kyoto 1958, August 27th–September 9th. Tokyo: Maruzen, 1960.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Pistis Sophia.” Pages 1813–21 in <em>Paulys Real-Encyclopädie der classischen Altertumswissenschaft</em> 20.2. Waldsee: Alfred Druckenmüller, 1950.</p>",
+      "line_text": "———. “Pistis Sophia.” Pages 1813–21 in Paulys Real-Encyclopädie der classischen Altertumswissenschaft 20.2. Waldsee: Alfred Druckenmüller, 1950.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lexa, František. “La Légenda Gnostique sur Pistis Sophia et Le Mythe Ancien Égyptien sur L’Oeil de Rē.” <em>Egyptian Religion</em> 1 (1933): 106–15.</p>",
+      "line_text": "Lexa, František. “La Légenda Gnostique sur Pistis Sophia et Le Mythe Ancien Égyptien sur L’Oeil de Rē.” Egyptian Religion 1 (1933): 106–15.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marjanen, Antti. <em>The Woman Jesus Loved: Mary Magdalene in the Nag Hammadi Library and Related Documents</em>. Leiden: Brill, 1996 (esp. pp. 170–88).</p>",
+      "line_text": "Marjanen, Antti. The Woman Jesus Loved: Mary Magdalene in the Nag Hammadi Library and Related Documents. Leiden: Brill, 1996 (esp. pp. 170–88).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mohri, Erika. <em>Maria Magdalena: Frauenbilder in Evangelientexten des 1. bis 3. Jahrhunderts</em>. Marburg: Elwert, 2000.</p>",
+      "line_text": "Mohri, Erika. Maria Magdalena: Frauenbilder in Evangelientexten des 1. bis 3. Jahrhunderts. Marburg: Elwert, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ofek, Galia. “‘Reviewing the Rites Proper to Canonisation’: New Woman Novels and New Conceptions of Canonicity.” <em>Victorian Literature and Culture</em> 38.1 (2010): 165–86.</p>",
+      "line_text": "Ofek, Galia. “‘Reviewing the Rites Proper to Canonisation’: New Woman Novels and New Conceptions of Canonicity.” Victorian Literature and Culture 38.1 (2010): 165–86.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Parkhouse, Sarah. “The Canon of the Pistis Sophia Books 1–3.” <em>JTS</em> 73 (2022): 649–75.</p>",
+      "line_text": "Parkhouse, Sarah. “The Canon of the Pistis Sophia Books 1–3.” JTS 73 (2022): 649–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Puech, Henri-Charles. “The Pistis Sophia.” Pages 361–69 in vol. 1 of <em>New Testament Apocrypha. </em>Edited by W. Schneemelcher. Translated by R. McL. Wilson. 2 vols. Rev. ed. Louisville, KY: Westminster John Knox, 1991.</p>",
+      "line_text": "Puech, Henri-Charles. “The Pistis Sophia.” Pages 361–69 in vol. 1 of New Testament Apocrypha. Edited by W. Schneemelcher. Translated by R. McL. Wilson. 2 vols. Rev. ed. Louisville, KY: Westminster John Knox, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “Pistis Sophia.” Pages 368–88 in vol. 5 of <em>Die Religion in Geschichte und Gegenwart</em>. Edited by Kurt Galling. 3rd ed. Tübingen: Mohr Siebeck, 1961.</p>",
+      "line_text": "Quispel, Gilles. “Pistis Sophia.” Pages 368–88 in vol. 5 of Die Religion in Geschichte und Gegenwart. Edited by Kurt Galling. 3rd ed. Tübingen: Mohr Siebeck, 1961.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Pistis Sophia.” Page 461 in vol. 5 of <em>Christelijke Encyclopedie</em>. Edited by F. W. Grosheide and G. P. van Itterzon. Kampel: J. H. Kok, 1960.</p>",
+      "line_text": "———. “Pistis Sophia.” Page 461 in vol. 5 of Christelijke Encyclopedie. Edited by F. W. Grosheide and G. P. van Itterzon. Kampel: J. H. Kok, 1960.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. “Die Urschrift der Pistis Sophia.” <em>ZNW</em> 24 (1925): 218–40.</p>",
+      "line_text": "Schmidt, Carl. “Die Urschrift der Pistis Sophia.” ZNW 24 (1925): 218–40.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Bemerkungen zum Dialekt der Pistis Sophia.” <em>ZAS</em> 41.1 (1905): 309–11.<em><br/></em></p>",
+      "line_text": "———. “Bemerkungen zum Dialekt der Pistis Sophia.” ZAS 41.1 (1905): 309–11.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. “A Case of Mistaken Identity? Naming the Gnostic Mary.” Pages 5–30 in <em>Which Mary?: The Marys of Early Christian Tradition</em>. Edited by F. Stanley Jones. Leiden; Boston: Brill, 2002.</p>",
+      "line_text": "Shoemaker, Stephen J. “A Case of Mistaken Identity? Naming the Gnostic Mary.” Pages 5–30 in Which Mary?: The Marys of Early Christian Tradition. Edited by F. Stanley Jones. Leiden; Boston: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Trautmann, C. “La citation du Psaume 85 (84, 11-12) et ses commentaires dans la Pistis Sophia.” <em>RHPR </em>59.3-4 (1979): 551–57.</p>",
+      "line_text": "Trautmann, C. “La citation du Psaume 85 (84, 11-12) et ses commentaires dans la Pistis Sophia.” RHPR 59.3-4 (1979): 551–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Unnik, W. C. van. “Die ‘Zahl der vollkommenen Seelen’ in der Pistis Sophia.” Pages 467–77 in <em>Abraham Unser Vater: Festschrift für O. Michel</em>. Edited by O. Betz, M. Hengel, and P. Schmidt. Leiden: Brill, 1963.</p>",
+      "line_text": "Unnik, W. C. van. “Die ‘Zahl der vollkommenen Seelen’ in der Pistis Sophia.” Pages 467–77 in Abraham Unser Vater: Festschrift für O. Michel. Edited by O. Betz, M. Hengel, and P. Schmidt. Leiden: Brill, 1963.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vliet, Jacques van der. “Fate, Magic and Astrology in Pistis Sophia, chaps 15–21.” Pages 519–36 in <em>The Wisdom of Egypt: Jewish, Early Christian, and Gnostic Essays in Honour of Gerard P. Luttikhuizen</em>. Edited by Anthony Hilhorst and George H. van Kooten. Leiden; Boston: Brill, 2005.</p>",
+      "line_text": "Vliet, Jacques van der. “Fate, Magic and Astrology in Pistis Sophia, chaps 15–21.” Pages 519–36 in The Wisdom of Egypt: Jewish, Early Christian, and Gnostic Essays in Honour of Gerard P. Luttikhuizen. Edited by Anthony Hilhorst and George H. van Kooten. Leiden; Boston: Brill, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Widengren, Geo. “Die Hymnen der Pistis Sophia und die gnostische Schriftauslegung.” Pages 269–81 in <em>Liber Amicorum. Studies in honour of Professor Dr. C.J. Bleeker. Published on the occasion of his retirement from the chair of the history of religions and the phenomenology of religion at the University of Amsterdam.</em> Leiden: Brill, 1969.</p>",
+      "line_text": "Widengren, Geo. “Die Hymnen der Pistis Sophia und die gnostische Schriftauslegung.” Pages 269–81 in Liber Amicorum. Studies in honour of Professor Dr. C.J. Bleeker. Published on the occasion of his retirement from the chair of the history of religions and the phenomenology of religion at the University of Amsterdam. Leiden: Brill, 1969.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Winter, Franz. “Studying the ‘Gnostic Bible’: Samael Aun Weor and the <em>Pistis Sophia</em>.” <em>International Journal for the Study of New Religions</em> 9.1 (2018): 83–112.</p>",
+      "line_text": "Winter, Franz. “Studying the ‘Gnostic Bible’: Samael Aun Weor and the Pistis Sophia.” International Journal for the Study of New Religions 9.1 (2018): 83–112.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Worrell, W. H. “The Odes of Solomon and the Pistis Sophia.” <em>JTS</em> 13.49 (1911): 29–46.</p>",
+      "line_text": "Worrell, W. H. “The Odes of Solomon and the Pistis Sophia.” JTS 13.49 (1911): 29–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

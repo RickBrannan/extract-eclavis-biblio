@@ -1,0 +1,380 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-thomas/",
+  "nasscal_toc_title": "Apocalypse of Thomas",
+  "filename": "apocalypse-of-thomas",
+  "latin_title": "Apocalypsis Thomae",
+  "abbrev": "Apoc. Thom.",
+  "clavis_number": 513,
+  "category": "Apocalypses",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  Naples, Biblioteca Nazionale Vittorio Emanuele III, lat. 2 (Vindobon. 16), fol. 60 (5th cent.); (fragmentary) ends mid-sentence in v. 7</p>",
+      "line_text": "B  Naples, Biblioteca Nazionale Vittorio Emanuele III, lat. 2 (Vindobon. 16), fol. 60 (5th cent.); (fragmentary) ends mid-sentence in v. 7",
+      "language": ".1 Short Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>N</strong>  Munich, Bayerische Staatsbibliothek, Clm. 4563, fol. 40 (11th cent.)</p>",
+      "line_text": "N  Munich, Bayerische Staatsbibliothek, Clm. 4563, fol. 40 (11th cent.)",
+      "language": ".1 Short Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Bihlmeyer, Pius. “Un Texte non interpolé de l’Apocalypse de Thomas.” <em>RBén</em> 28 (1911): 270–82 (edition of the Short Version based on B and N).</p>",
+      "line_text": "Bihlmeyer, Pius. “Un Texte non interpolé de l’Apocalypse de Thomas.” RBén 28 (1911): 270–82 (edition of the Short Version based on B and N).",
+      "language": ".1 Short Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hauler, Edmund. “Zu den neuen lateinischen Bruchstücken der Thomasapokalypse und eines apostolischen Sendschreibens im Codex Vind. Nr. 16.” <em>Wiener Studien</em> 30 (1908): 308–40 (includes a diplomatic edition of B and a reconstructe text using von Dobschütz’s notes on P and M).</p>",
+      "line_text": "Hauler, Edmund. “Zu den neuen lateinischen Bruchstücken der Thomasapokalypse und eines apostolischen Sendschreibens im Codex Vind. Nr. 16.” Wiener Studien 30 (1908): 308–40 (includes a diplomatic edition of B and a reconstructe text using von Dobschütz’s notes on P and M).",
+      "language": ".1 Short Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>C</strong>  Kassel, Universitätsbibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel, 4° Ms. Theol. 10, fol. 135<sup>r</sup>–38<sup>v</sup> (8th cent.) ~ lacks pars. 26–27</p>",
+      "line_text": "C  Kassel, Universitätsbibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel, 4° Ms. Theol. 10, fol. 135r–38v (8th cent.) ~ lacks pars. 26–27",
+      "language": ".2 Long Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Munich, Bayerische Staatsbibliothek, Clm. 4585, fols. 65<sup>v</sup>–67<sup>v</sup> (9th cent.) ~ finishes mid-sentence in par. 23</p>",
+      "line_text": "M  Munich, Bayerische Staatsbibliothek, Clm. 4585, fols. 65v–67v (9th cent.) ~ finishes mid-sentence in par. 23",
+      "language": ".2 Long Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-220/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P</strong>  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 220, fols. 48<sup>v</sup>–53<sup>r</sup> (9th cent.) ~ lacks pars. 11–13</p>",
+      "line_text": "P  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 220, fols. 48v–53r (9th cent.) ~ lacks pars. 11–13",
+      "language": ".2 Long Version",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-220/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V</strong>  Verona, Biblioteca Capitolare, I (1), fols. 403<sup>v</sup>, 404<sup>v</sup> (6th/7th cent.; <em>Apoc. Thom.</em> portion from the 7th cent.) ~ pars. 1–3 only</p>",
+      "line_text": "V  Verona, Biblioteca Capitolare, I (1), fols. 403v, 404v (6th/7th cent.; Apoc. Thom. portion from the 7th cent.) ~ pars. 1–3 only",
+      "language": ".2 Long Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wurzburg-universitatsbibliothek-m-p-th-f-28/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Würzburg, Universitätsbibliothek, M.p.th.f. 28, fols. 57r–58<sup>v</sup> (8th cent.); contains portions of Lactantius, <em>Epitome diuinarum institutionum</em>, in place of pars. 13–14 and at the end of the text, which terminates half way through par. 26</p>",
+      "line_text": "W  Würzburg, Universitätsbibliothek, M.p.th.f. 28, fols. 57r–58v (8th cent.); contains portions of Lactantius, Epitome diuinarum institutionum, in place of pars. 13–14 and at the end of the text, which terminates half way through par. 26",
+      "language": ".2 Long Version",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wurzburg-universitatsbibliothek-m-p-th-f-28/"
+      ]
+    },
+    {
+      "line_html": "<p>Dionisi, Giovanni Giacopo. <em>Apologetiche riflessioni sopra del fondamental privilegio a’ canonici di Verona concesso dal vescovo Ratoldo.</em> Verona: Antonio Andreoni Libraio, 1755 (Latin text of V, p. 30).</p>",
+      "line_text": "Dionisi, Giovanni Giacopo. Apologetiche riflessioni sopra del fondamental privilegio a’ canonici di Verona concesso dal vescovo Ratoldo. Verona: Antonio Andreoni Libraio, 1755 (Latin text of V, p. 30).",
+      "language": ".2 Long Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>James, Montague Rhodes. “Notes on Apocrypha.” <em>JTS</em> 11 (1910): 288–91 (edition of V).</p>",
+      "line_text": "James, Montague Rhodes. “Notes on Apocrypha.” JTS 11 (1910): 288–91 (edition of V).",
+      "language": ".2 Long Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>O’Sullivan, Tomás. “The Apocalypse of Thomas.” Pages 567–92 in <em>The End and Beyond: Medieval Irish Eschatology.</em> Edited by John Carey, Emma Nic Cárthaigh, and Caitríona Ó Dochartaigh. 2 vols. Celtic Studies Publications 27. Aberystwyth: Celtic Studies Publications, 2014 (edition and translation of P).</p>",
+      "line_text": "O’Sullivan, Tomás. “The Apocalypse of Thomas.” Pages 567–92 in The End and Beyond: Medieval Irish Eschatology. Edited by John Carey, Emma Nic Cárthaigh, and Caitríona Ó Dochartaigh. 2 vols. Celtic Studies Publications 27. Aberystwyth: Celtic Studies Publications, 2014 (edition and translation of P).",
+      "language": ".2 Long Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/WilhelmDeutscheLegendenUndLegendare1907/page/n295\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wilhelm, Friedrich. <em>Deutsche Legenden und Legendare: Texte und Untersuchungen zu ihrer Geschichte im Mittelalter</em>. Leipzig: J.C. Hinrichs, 1907 (edition of M, pp. 40*–42*).</p>",
+      "line_text": "Wilhelm, Friedrich. Deutsche Legenden und Legendare: Texte und Untersuchungen zu ihrer Geschichte im Mittelalter. Leipzig: J.C. Hinrichs, 1907 (edition of M, pp. 40*–42*).",
+      "language": ".2 Long Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/WilhelmDeutscheLegendenUndLegendare1907/page/n295"
+      ]
+    },
+    {
+      "line_html": "<p>Wright, Charles D. “6 Ezra and the Apocalypse of Thomas. With a previously unedited ‘interpolated’ text of Thomas.” <em>Apocrypha</em> 26 (2015): 9–55 (publication of C, pp. 39–55).</p>",
+      "line_text": "Wright, Charles D. “6 Ezra and the Apocalypse of Thomas. With a previously unedited ‘interpolated’ text of Thomas.” Apocrypha 26 (2015): 9–55 (publication of C, pp. 39–55).",
+      "language": ".2 Long Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wright, Charles D. “The Apocalypse of Thomas: Some New Latin Texts and their Significance for the Old English Versions.” Pages 27–64 in <em>Apocryphal Texts and Traditions in Anglo-Saxon England</em>. Edited by K. Powell and D. Scragg. Cambridge: D. S. Brewer, 2003 (editions of THREO and W, pp. 52–64).</p>",
+      "line_text": "Wright, Charles D. “The Apocalypse of Thomas: Some New Latin Texts and their Significance for the Old English Versions.” Pages 27–64 in Apocryphal Texts and Traditions in Anglo-Saxon England. Edited by K. Powell and D. Scragg. Cambridge: D. S. Brewer, 2003 (editions of THREO and W, pp. 52–64).",
+      "language": ".2 Long Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Munich, Bayerische Staatsbibliothek, Clm. 8439, fol. 191 (15th cent.) ~ interpolated into a dialogue between Hadrian and Epictetus</p>",
+      "line_text": "A  Munich, Bayerische Staatsbibliothek, Clm. 8439, fol. 191 (15th cent.) ~ interpolated into a dialogue between Hadrian and Epictetus",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>E </strong> Einsiedeln, Stiftsbibliothek, 319, fols. 155–156 (10th cent.)</p>",
+      "line_text": "E  Einsiedeln, Stiftsbibliothek, 319, fols. 155–156 (10th cent.)",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H</strong>  Oxford, Bodleian Library, Hatton 26, part II, fol. 88r (13th cent.)</p>",
+      "line_text": "H  Oxford, Bodleian Library, Hatton 26, part II, fol. 88r (13th cent.)",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O </strong> Vienna, Österreichische Nationalbibliothek, 1878, part B, fols. 161<sup>v</sup>–62<sup>r</sup> (12th cent.)</p>",
+      "line_text": "O  Vienna, Österreichische Nationalbibliothek, 1878, part B, fols. 161v–62r (12th cent.)",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-49/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>R</strong>  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 49, fol. 52<sup>v</sup> (10th cent.)</p>",
+      "line_text": "R  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 49, fol. 52v (10th cent.)",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-49/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/toronto-thomas-fisher-rare-book-library-45-frags-24-25/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>T</strong>  Toronto, Thomas Fisher Rare Book Library, 45 frags. 24–25 (9th cent.)</p>",
+      "line_text": "T  Toronto, Thomas Fisher Rare Book Library, 45 frags. 24–25 (9th cent.)",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/toronto-thomas-fisher-rare-book-library-45-frags-24-25/"
+      ]
+    },
+    {
+      "line_html": "<p>Dobschütz, Ernst von. <em>Thomas-Apokalypse</em>. Unpublished notes, 1912 (includes transcriptions of all manuscripts known to the author: MNPVB).</p>",
+      "line_text": "Dobschütz, Ernst von. Thomas-Apokalypse. Unpublished notes, 1912 (includes transcriptions of all manuscripts known to the author: MNPVB).",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Suchier, Walther. <em>L</em><em>’</em><em>Enfant Sage (Das Gespräch des Kaisers Hadrian mit dem klugen Kinde Epitus)</em>. Gesellschaft für romanische Literatur 24. Dresden: M. Niemeyer, 1910 (edition of A, p. 272).</p>",
+      "line_text": "Suchier, Walther. L’Enfant Sage (Das Gespräch des Kaisers Hadrian mit dem klugen Kinde Epitus). Gesellschaft für romanische Literatur 24. Dresden: M. Niemeyer, 1910 (edition of A, p. 272).",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wright, Charles D. “The Apocalypse of Thomas: Some New Latin Texts and their Significance for the Old English Versions.” Pages 27–64 in <em>Apocryphal Texts and Traditions in Anglo-Saxon England</em>. Edited by K. Powell and D. Scragg. Cambridge: D. S. Brewer, 2003 (editions of THREO and W, pp. 52–64).</p>",
+      "line_text": "Wright, Charles D. “The Apocalypse of Thomas: Some New Latin Texts and their Significance for the Old English Versions.” Pages 27–64 in Apocryphal Texts and Traditions in Anglo-Saxon England. Edited by K. Powell and D. Scragg. Cambridge: D. S. Brewer, 2003 (editions of THREO and W, pp. 52–64).",
+      "language": ".3 Abbreviated Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vercelli, Biblioteca Capitolare di Vercelli, MS CXVII (the <em>Vercelli Book</em>), fols. 80<sup>v</sup>–85<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Vercelli, Biblioteca Capitolare di Vercelli, MS CXVII (the Vercelli Book), fols. 80v–85v (10th cent.)",
+      "language": ".1 Vercelli Homily 15",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/"
+      ]
+    },
+    {
+      "line_html": "<p>Kemble, J. M., ed. and trans. <em>The Poetry of the Codex Vercellensis, with an English Translation</em>. London: Aelfric Society, 1856.</p>",
+      "line_text": "Kemble, J. M., ed. and trans. The Poetry of the Codex Vercellensis, with an English Translation. London: Aelfric Society, 1856.",
+      "language": ".1 Vercelli Homily 15",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Krapp, George Philip, ed. <em>The Vercelli Book.</em> The Anglo-Saxon Poetic Records 2. New York: Columbia University Press, 1932.</p>",
+      "line_text": "Krapp, George Philip, ed. The Vercelli Book. The Anglo-Saxon Poetic Records 2. New York: Columbia University Press, 1932.",
+      "language": ".1 Vercelli Homily 15",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Scragg, D. G., ed. <em>The Vercelli Homilies and Related Texts.</em> Early English Text Society, o.s. 300. Oxford: Oxford University Press, 1992.</p>",
+      "line_text": "Scragg, D. G., ed. The Vercelli Homilies and Related Texts. Early English Text Society, o.s. 300. Oxford: Oxford University Press, 1992.",
+      "language": ".1 Vercelli Homily 15",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-41/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College, 41, pp. 287–295 (11th cent.)<strong>    </strong></p>",
+      "line_text": "Cambridge, Corpus Christi College, 41, pp. 287–295 (11th cent.)    ",
+      "language": ".2 Corpus 41",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-41/"
+      ]
+    },
+    {
+      "line_html": "<p>Förster, Max. “A New Version of the Apocalypse of Thomas in Old English.” <em>Anglia</em> 73 (1955): 6–36 (edition and discussion of the Corpus 41 homily).</p>",
+      "line_text": "Förster, Max. “A New Version of the Apocalypse of Thomas in Old English.” Anglia 73 (1955): 6–36 (edition and discussion of the Corpus 41 homily).",
+      "language": ".2 Corpus 41",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Princeton, Princeton University Library, W.H. Scheide Collection 71 (the <em>Blickling Book</em>), fols. 50<sup>r</sup>–59<sup>v </sup>(10th cent.)</p>",
+      "line_text": "Princeton, Princeton University Library, W.H. Scheide Collection 71 (the Blickling Book), fols. 50r–59v (10th cent.)",
+      "language": ".3 Blicking Homily 7",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/"
+      ]
+    },
+    {
+      "line_html": "<p>Kelly, Richard J., ed. and trans. <i>The Blickling Homilies.</i> 2 vols. London and New York: Continuum, 2003–2009.</p>",
+      "line_text": "Kelly, Richard J., ed. and trans. The Blickling Homilies. 2 vols. London and New York: Continuum, 2003–2009.",
+      "language": ".3 Blicking Homily 7",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/blicklinghomili01morrgoog/page/n107/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Morris, Richard, ed. <em>The Blickling Homilies.</em> Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 83–97).</p>",
+      "line_text": "Morris, Richard, ed. The Blickling Homilies. Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 83–97).",
+      "language": ".3 Blicking Homily 7",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/blicklinghomili01morrgoog/page/n107/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (English translation of Short Version based on B and N and the Long Version based on M and V, pp. 645–51).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (English translation of Short Version based on B and N and the Long Version based on M and V, pp. 645–51).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Geigenfeind, Matthias. “The Apocalypse of Thomas.” Pages 580–604 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke<em>. </em>Grand Rapids, MI: Eerdmans, 2020 (parallel translations of the Long and Short Versions).</p>",
+      "line_text": "Geigenfeind, Matthias. “The Apocalypse of Thomas.” Pages 580–604 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke. Grand Rapids, MI: Eerdmans, 2020 (parallel translations of the Long and Short Versions).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>James, Montague Rhodes. <em>The Apocryphal New Testament</em>. 1924. 2nd ed. Oxford: Clarendon, 1953 (English translation of the Long Version based on M and V with readings from the Old English, and the Short Version on Bihlmyer’s edition, pp. 555–62).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament. 1924. 2nd ed. Oxford: Clarendon, 1953 (English translation of the Long Version based on M and V with readings from the Old English, and the Short Version on Bihlmyer’s edition, pp. 555–62).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. “Apocalypse of Thomas.” Pages 748–52 in <em>New Testament Apocrypha</em>. Vol. 2: <em>Writings Relating to the Apostles; Apocalypses and Related Subjects</em>. Edited by Wilhem Schneemelcher. Translated by R. McLachlan Wilson. Louisville, KY: Westminster John Knox, 1992 (translation of the Short Version based on Bihlmeyer’s edition).</p>",
+      "line_text": "Otero, Aurelio de Santos. “Apocalypse of Thomas.” Pages 748–52 in New Testament Apocrypha. Vol. 2: Writings Relating to the Apostles; Apocalypses and Related Subjects. Edited by Wilhem Schneemelcher. Translated by R. McLachlan Wilson. Louisville, KY: Westminster John Knox, 1992 (translation of the Short Version based on Bihlmeyer’s edition).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Faerber, Robert. “Apocalypse de Thomas.” <em>EAC</em> 2:1019–43. (French translation of the Short Version based on B and N and the Long Version based on MVP with readings from the Old English.)</p>",
+      "line_text": "Faerber, Robert. “Apocalypse de Thomas.” EAC 2:1019–43. (French translation of the Short Version based on B and N and the Long Version based on MVP with readings from the Old English.)",
+      "language": "French",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966-1981 (Italian translation of the Long Version based on MPV and the Short Version on NB, vol. 3, pp. 387–95).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966-1981 (Italian translation of the Long Version based on MPV and the Short Version on NB, vol. 3, pp. 387–95).",
+      "language": "Italian",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (Italian translation of the Short Version based on Bihlmyer’s edition and the Long Version based on Wilhelm’s edition, vol. 2, pp. 1939–50).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (Italian translation of the Short Version based on Bihlmyer’s edition and the Long Version based on Wilhelm’s edition, vol. 2, pp. 1939–50).",
+      "language": "Italian",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Dando, Marcel. “L’Apocalypse de Thomas.” <em>Cahiers d’Études Cathares</em> 28 (1977): 3–58.</p>",
+      "line_text": "Dando, Marcel. “L’Apocalypse de Thomas.” Cahiers d’Études Cathares 28 (1977): 3–58.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Faerber, Robert. “L’Apocalypse de Thomas en vieil anglais.” <em>Apocrypha</em> 4 (1993): 125–39.</p>",
+      "line_text": "Faerber, Robert. “L’Apocalypse de Thomas en vieil anglais.” Apocrypha 4 (1993): 125–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frick, Carolus. “Die Thomasapokalypse.” <em>ZNW</em> 9 (1908): 172–73.</p>",
+      "line_text": "Frick, Carolus. “Die Thomasapokalypse.” ZNW 9 (1908): 172–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Geigenfeind, Matthias. “Audi Thomas, … Audi a me signa quae futura sunt in fine huius saeculi – Zum Textbestand und zur Überlieferung der apokryphen Thomas-Apokalypse.” <em>ZAC</em> 20 (2016): 147–81.</p>",
+      "line_text": "Geigenfeind, Matthias. “Audi Thomas, … Audi a me signa quae futura sunt in fine huius saeculi – Zum Textbestand und zur Überlieferung der apokryphen Thomas-Apokalypse.” ZAC 20 (2016): 147–81.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Die apokryphe Thomas-Apokalypse. Analyse und Übersetzung.</em> Diplomarbeit Universität Regensburg, 2013.</p>",
+      "line_text": "__________. Die apokryphe Thomas-Apokalypse. Analyse und Übersetzung. Diplomarbeit Universität Regensburg, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>James, Montague Rhodes. “The Revelatio Thomas Again.” <em>JTS</em> 11 (1910): 569.</p>",
+      "line_text": "James, Montague Rhodes. “The Revelatio Thomas Again.” JTS 11 (1910): 569.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jett, Mary Julia. “Apocalypse of Thomas.” Pages 459–75 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Jett, Mary Julia. “Apocalypse of Thomas.” Pages 459–75 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McNamara, Martin, and Herbert Máire, eds. <em>Irish Biblical Apocrypha</em>. 2nd ed. London and New York: T &amp; T Clark International, 2004 (pp. 153–60).</p>",
+      "line_text": "McNamara, Martin, and Herbert Máire, eds. Irish Biblical Apocrypha. 2nd ed. London and New York: T &amp; T Clark International, 2004 (pp. 153–60).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Die apokryphe Thomasapokalypse und ihre Rezeption der Offenbarung des Johannes.” Pages 683–708 in <em>Die Johannesapokalypse. Kontexte – Konzepte – Rezeption</em>. Edited by Jörg Frey, James A. Kelhoffer, and Franz Tóth. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Nicklas, Tobias. “Die apokryphe Thomasapokalypse und ihre Rezeption der Offenbarung des Johannes.” Pages 683–708 in Die Johannesapokalypse. Kontexte – Konzepte – Rezeption. Edited by Jörg Frey, James A. Kelhoffer, and Franz Tóth. Tübingen: Mohr Siebeck, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias, Matthias Geigenfeind and Johannes Stettner. “Die Deutung der Weltgeschichte in der Langform der Apokalypse des Thomas (Codex Palatinus: §§ 2–10).” <em>ETL</em> 94 (2018): 257–74.</p>",
+      "line_text": "Nicklas, Tobias, Matthias Geigenfeind and Johannes Stettner. “Die Deutung der Weltgeschichte in der Langform der Apokalypse des Thomas (Codex Palatinus: §§ 2–10).” ETL 94 (2018): 257–74.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sanchez, Jean Gabriel. “L’usage de l’Apocalypse de Thomas au sein des Priscillianistes.” Pages 259–69 in <em>Parcs et jardins au Moyen Age et à la Renaissance: L’Apocalypse. </em>Edited by C. Ridoux. Recherches valenciennoises 28. Valenciennes: Presses universitaires de Valenciennes, 2009.</p>",
+      "line_text": "Sanchez, Jean Gabriel. “L’usage de l’Apocalypse de Thomas au sein des Priscillianistes.” Pages 259–69 in Parcs et jardins au Moyen Age et à la Renaissance: L’Apocalypse. Edited by C. Ridoux. Recherches valenciennoises 28. Valenciennes: Presses universitaires de Valenciennes, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Seymour, John D. “The Signs of Doomsday in the Saltair na Rann.” <em>Proceedings of the Royal </em><em>Irish Academy </em>C 36 (1923): 154–63.</p>",
+      "line_text": "Seymour, John D. “The Signs of Doomsday in the Saltair na Rann.” Proceedings of the Royal Irish Academy C 36 (1923): 154–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Swan, Mary. “The <em>Apocalypse of Thomas</em> in Old English.” <em>Leeds Studies in English</em> 29 (1998): 333 –46.</p>",
+      "line_text": "Swan, Mary. “The Apocalypse of Thomas in Old English.” Leeds Studies in English 29 (1998): 333 –46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wright, Charles D. “Rewriting (and re-editing) the Apocalypse of Thomas.” Pages 441–54 in <em>Écritures et réécritures: la reprise interprétative des traditions fondatrices par la littérature biblique et extra-biblique</em>. Edited by Claire Clivaz et al. Leuven: Peeters, 2012.</p>",
+      "line_text": "Wright, Charles D. “Rewriting (and re-editing) the Apocalypse of Thomas.” Pages 441–54 in Écritures et réécritures: la reprise interprétative des traditions fondatrices par la littérature biblique et extra-biblique. Edited by Claire Clivaz et al. Leuven: Peeters, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wright, Charles D. “Vercelli Homily XV and the Apocalypse of Thomas.” Pages 150–84 in <em>New Readings in the Vercelli Book</em>. Edited by Samantha Zacher and Andy Orchard. Toronto Anglo-Saxon Series 4. Toronto: University of Toronto Press, 2009.</p>",
+      "line_text": "Wright, Charles D. “Vercelli Homily XV and the Apocalypse of Thomas.” Pages 150–84 in New Readings in the Vercelli Book. Edited by Samantha Zacher and Andy Orchard. Toronto Anglo-Saxon Series 4. Toronto: University of Toronto Press, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

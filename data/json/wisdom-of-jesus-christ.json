@@ -1,0 +1,401 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/wisdom-of-jesus-christ/",
+  "nasscal_toc_title": "Wisdom of Jesus Christ",
+  "filename": "wisdom-of-jesus-christ",
+  "latin_title": "1. SUMMARY",
+  "abbrev": " Wis. Jes. Chr.",
+  "alt_titles": [
+    "Sophia of Jesus Christ"
+  ],
+  "clavis_number": 187,
+  "category": "Revelatory Dialogues",
+  "compiler": ": Chance Bonar, Tufts University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-agyptisches-museum-and-papyrussammlung-staatliche-museen-p-8502/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Berlin, Ägyptisches Museum and Papyrussammlung, Staatliche Museen, P. 8502 (5th cent.)</p>",
+      "line_text": "Berlin, Ägyptisches Museum and Papyrussammlung, Staatliche Museen, P. 8502 (5th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-agyptisches-museum-and-papyrussammlung-staatliche-museen-p-8502/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-4851/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, Inv. 4851 (Nag Hammadi Codex III) (4th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Inv. 4851 (Nag Hammadi Codex III) (4th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-4851/"
+      ]
+    },
+    {
+      "line_html": "<p>Barry, Catherine. <em>La Sagesse de Jésus-Christ (BG, 3; NH III,4). </em>Québec: Presses de l’Université Laval, 1993.</p>",
+      "line_text": "Barry, Catherine. La Sagesse de Jésus-Christ (BG, 3; NH III,4). Québec: Presses de l’Université Laval, 1993.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Parrott, Douglas M., ed. <em>Nag Hammadi Codices III,3–4 and V,1 with Papyrus Berolinensis 8502,3 and Oxyrhynchus Papyrus 1081: Eugnostos and the Sophia of Jesus Christ. </em>NHS 27. Leiden/New York: Brill, 1991.</p>",
+      "line_text": "Parrott, Douglas M., ed. Nag Hammadi Codices III,3–4 and V,1 with Papyrus Berolinensis 8502,3 and Oxyrhynchus Papyrus 1081: Eugnostos and the Sophia of Jesus Christ. NHS 27. Leiden/New York: Brill, 1991.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, University Library, MS. 5894 (P.Oxy. 1081) (4th cent.)</p>",
+      "line_text": "Cambridge, University Library, MS. 5894 (P.Oxy. 1081) (4th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/oxyrhynchuspapyr08gren\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfell, Bernard P., and Arthur S. Hunt. <em>The Oxyrhynchus Papyri</em>. Volume 8. London: Egypt Exploration Fund, 1911. (<em>editio princeps</em> of the manuscript, pp. 16–19).</p>",
+      "line_text": "Grenfell, Bernard P., and Arthur S. Hunt. The Oxyrhynchus Papyri. Volume 8. London: Egypt Exploration Fund, 1911. (editio princeps of the manuscript, pp. 16–19).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/oxyrhynchuspapyr08gren"
+      ]
+    },
+    {
+      "line_html": "<p>Wayment, Thomas A. <em>The Text of the New Testament Apocrypha (100–400 CE)</em>. London: Bloomsbury, 2013 (pp. 184–86, color plates pp. 399-400).</p>",
+      "line_text": "Wayment, Thomas A. The Text of the New Testament Apocrypha (100–400 CE). London: Bloomsbury, 2013 (pp. 184–86, color plates pp. 399-400).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Charron, Régine. <em>Concordance des textes de Nag Hammadi: Le Codex III</em>. Sainte-Foy, Québec: Presses de l’Université Laval, 1995.</p>",
+      "line_text": "Charron, Régine. Concordance des textes de Nag Hammadi: Le Codex III. Sainte-Foy, Québec: Presses de l’Université Laval, 1995.",
+      "language": "English",
+      "entry_type": ". Concordances and Synopses"
+    },
+    {
+      "line_html": "<p>Evans, Craig A., Robert L. Webb, and Richard A. Wiebe, eds. <em>Nag Hammadi Texts and the Bible: A Synopsis and Index</em>. New York: Brill, 1993.</p>",
+      "line_text": "Evans, Craig A., Robert L. Webb, and Richard A. Wiebe, eds. Nag Hammadi Texts and the Bible: A Synopsis and Index. New York: Brill, 1993.",
+      "language": "English",
+      "entry_type": ". Concordances and Synopses"
+    },
+    {
+      "line_html": "<p>Scopello, Madeleine and Marvin Meyer. “The Wisdom of Jesus Christ.” Pages 283–96 in <em>The Nag Hammadi Scriptures. </em>Edited by Marvin Meyer. New York: HarperOne, 2007.</p>",
+      "line_text": "Scopello, Madeleine and Marvin Meyer. “The Wisdom of Jesus Christ.” Pages 283–96 in The Nag Hammadi Scriptures. Edited by Marvin Meyer. New York: HarperOne, 2007.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Parrott, Douglas M. “The Sophia of Jesus Christ.” Pages 220–43 in <em>The Nag Hammadi Library  in English. </em>Edited by James M. Robinson. Translated by members of the Coptic Gnostic Library project of the Institute for Antiquity and Christianity. New York: HarperOne, 1990.</p>",
+      "line_text": "Parrott, Douglas M. “The Sophia of Jesus Christ.” Pages 220–43 in The Nag Hammadi Library  in English. Edited by James M. Robinson. Translated by members of the Coptic Gnostic Library project of the Institute for Antiquity and Christianity. New York: HarperOne, 1990.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Barry, Catherine. “La Sagesse de Jésus Christ (NG III, 4; BG 3).” Pages 617–66 in <em>Écrits gnostiques: Bibliothèque de Nag Hammadi. </em>Edited by Jean-Pierre Mahé, and Paul-Hubert Poirier. Collection Library of the Pleiades. Paris: Gallimard, 2007.</p>",
+      "line_text": "Barry, Catherine. “La Sagesse de Jésus Christ (NG III, 4; BG 3).” Pages 617–66 in Écrits gnostiques: Bibliothèque de Nag Hammadi. Edited by Jean-Pierre Mahé, and Paul-Hubert Poirier. Collection Library of the Pleiades. Paris: Gallimard, 2007.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Hartenstein, Judith. “Die Weisheit Jesu Christ (NHC III,4/BG 3).” Pages 1122–36 in <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. Vol. 1: <em>Evangelien und Verwandtes</em>. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Hartenstein, Judith. “Die Weisheit Jesu Christ (NHC III,4/BG 3).” Pages 1122–36 in Antike christliche Apokryphen in deutscher Übersetzung. Vol. 1: Evangelien und Verwandtes. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Attridge, Harold W. “P. Oxy. 1081 and the Sophia Jesu Christi.” <em>Enchoria </em>5 (1975): 1–8.</p>",
+      "line_text": "Attridge, Harold W. “P. Oxy. 1081 and the Sophia Jesu Christi.” Enchoria 5 (1975): 1–8.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Barry, Catherine. “Le rôle de l’Esprit dans La Sagesse de Jésus-Christ.” Pages 355–64 in <em>Actes de IVe Congrès Copte, Louvain-la-Neuve, 5-10 septembre 1988. </em>Edited by Marguerte Rassart, Debergh Ries, and Julien Ries. Louvain-la-Neuve: Institut Orientaliste de     l’Université Catholique de Louvain; Louvain: Peeters, 1992.</p>",
+      "line_text": "Barry, Catherine. “Le rôle de l’Esprit dans La Sagesse de Jésus-Christ.” Pages 355–64 in Actes de IVe Congrès Copte, Louvain-la-Neuve, 5-10 septembre 1988. Edited by Marguerte Rassart, Debergh Ries, and Julien Ries. Louvain-la-Neuve: Institut Orientaliste de     l’Université Catholique de Louvain; Louvain: Peeters, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Barry, Catherine. “Une interprétation gnostique de rôle de l’Envoyé de Dieu.” Pages 31–42 in <em>Figures du Nouveau Testament chez les Pères. </em>Cahiers de Biblia patristica 3. Strasbourg: Centre d’Analyse et de Documentation Patristiques, 1991.</p>",
+      "line_text": "Barry, Catherine. “Une interprétation gnostique de rôle de l’Envoyé de Dieu.” Pages 31–42 in Figures du Nouveau Testament chez les Pères. Cahiers de Biblia patristica 3. Strasbourg: Centre d’Analyse et de Documentation Patristiques, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Chryssavgis, John. “Sophia, the Wisdom of God: Sophiology, Theology, and Ecology.” <em>Diakonia </em>34.1 (2001): 5–19.</p>",
+      "line_text": "Chryssavgis, John. “Sophia, the Wisdom of God: Sophiology, Theology, and Ecology.” Diakonia 34.1 (2001): 5–19.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Colpe, Carsten. “Heidnische, jüdische und christliche Uberlieferung in den Schriften aus Nag Hammadi V.” <em>JAC </em>19 (1976): 120–38.</p>",
+      "line_text": "Colpe, Carsten. “Heidnische, jüdische und christliche Uberlieferung in den Schriften aus Nag Hammadi V.” JAC 19 (1976): 120–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Doresse, Jean. “Trois livres gnostiques inédits: Evangile de Egyptiens – Epître d’Eugnoste – Sagesse de Jésus Christ.” <em>VC </em>2.3 (1948): 137–60.</p>",
+      "line_text": "Doresse, Jean. “Trois livres gnostiques inédits: Evangile de Egyptiens – Epître d’Eugnoste – Sagesse de Jésus Christ.” VC 2.3 (1948): 137–60.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dubois, Jean-Daniel. “The Philosophical Contexts of the Providence Doxographies in the Wisdom of Jesus Christ, Eugnostos, and the Tripartite Tractate.” Pages 251–72 in <em>Texts in Context: Essays on Dating and Contextualising Christian Writings from the Second and Early Third Centuries. </em>Edited by Joseph Verheyden, Jens Schröter, and Tobias Nicklas. BETL 319. Leuven: Peeters, 2021.</p>",
+      "line_text": "Dubois, Jean-Daniel. “The Philosophical Contexts of the Providence Doxographies in the Wisdom of Jesus Christ, Eugnostos, and the Tripartite Tractate.” Pages 251–72 in Texts in Context: Essays on Dating and Contextualising Christian Writings from the Second and Early Third Centuries. Edited by Joseph Verheyden, Jens Schröter, and Tobias Nicklas. BETL 319. Leuven: Peeters, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Emmel, Stephen. “Unique Photographic Evidence for Nag Hammadi Texts: CG II <em>1, </em>III <em>1–4, </em>and IV <em>1–2.” BASP </em>15 (1978): 195–205.</p>",
+      "line_text": "Emmel, Stephen. “Unique Photographic Evidence for Nag Hammadi Texts: CG II 1, III 1–4, and IV 1–2.” BASP 15 (1978): 195–205.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Unique Photographic Evidence for Nag Hammadi Texts: CG V–VII.”<em> BASP </em>16 (1979): 179–91.</p>",
+      "line_text": "__________. “Unique Photographic Evidence for Nag Hammadi Texts: CG V–VII.” BASP 16 (1979): 179–91.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Falkenberg, René. “Matthew 28:16–20 and the Nag Hammadi Library: Reception of the Great Commission in the Sophia of Jesus Christ.” Pages 93–104 in <em>Mark and Matthew: Comparative Readings. </em>Edited by Eve-Marie Becker and Anders Runesson. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "Falkenberg, René. “Matthew 28:16–20 and the Nag Hammadi Library: Reception of the Great Commission in the Sophia of Jesus Christ.” Pages 93–104 in Mark and Matthew: Comparative Readings. Edited by Eve-Marie Becker and Anders Runesson. Tübingen: Mohr Siebeck, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “‘Se, jeg har lært jer den fuldkomnes navn’: Mattæusevangeliets missionsbefaling og dåbsformel i Nag Hammadi-biblioteket.” <em>Dansk teologisk tidsskrift </em>67.2 (2004): 96–108.</p>",
+      "line_text": "__________. “‘Se, jeg har lært jer den fuldkomnes navn’: Mattæusevangeliets missionsbefaling og dåbsformel i Nag Hammadi-biblioteket.” Dansk teologisk tidsskrift 67.2 (2004): 96–108.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ferreira, Johan. “The Non-canonical Gospels.” Pages 209–30 in <em>The Content and Setting of the Gospel Tradition. </em>Edited by Mark Harding and Alanna Nobbs. Grand Rapids, MI: Eerdmans, 2010.</p>",
+      "line_text": "Ferreira, Johan. “The Non-canonical Gospels.” Pages 209–30 in The Content and Setting of the Gospel Tradition. Edited by Mark Harding and Alanna Nobbs. Grand Rapids, MI: Eerdmans, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>FitzGerald, Constance. “Transformation in Wisdom: The Subversive Character and Educative Power of Sophia in Contemplation.” Pages 281–358 in <em>Carmel and Contemplation: Transforming Human Consciousness. </em>Edited by Kevin Culligan and Regis Jordan. Washington, DC: ICS, 2000.</p>",
+      "line_text": "FitzGerald, Constance. “Transformation in Wisdom: The Subversive Character and Educative Power of Sophia in Contemplation.” Pages 281–358 in Carmel and Contemplation: Transforming Human Consciousness. Edited by Kevin Culligan and Regis Jordan. Washington, DC: ICS, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Good, Deirdre Joy. “Sophia as Mother and Consort: Eugnostos the Blessed (NHC III, 3 and V, 1) and the Sophia of Jesus Christ (NHC III, 4 and BG 8502, 3): A Thesis.” ThD diss. Harvard University, 1993.</p>",
+      "line_text": "Good, Deirdre Joy. “Sophia as Mother and Consort: Eugnostos the Blessed (NHC III, 3 and V, 1) and the Sophia of Jesus Christ (NHC III, 4 and BG 8502, 3): A Thesis.” ThD diss. Harvard University, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Sophia in Eugnosots the Blessed and the Sophia of Jesus Christ (NHC III, 3 and V, 1; NHC III, 4 and BG 8502,3).” Pages 139–44 in <em>Coptic Studies: Acts of the Third International Congress of Coptic Studies, 20–25 August,1984. </em>Warsaw: Panstwowe Wydawnictwo Naukowe, 1990.</p>",
+      "line_text": "__________. “Sophia in Eugnosots the Blessed and the Sophia of Jesus Christ (NHC III, 3 and V, 1; NHC III, 4 and BG 8502,3).” Pages 139–44 in Coptic Studies: Acts of the Third International Congress of Coptic Studies, 20–25 August,1984. Warsaw: Panstwowe Wydawnictwo Naukowe, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Reconstructing the Tradition of Sophia in Gnostic Literature. </em>SBL Monograph 32. Atlanta, GA: Scholars, 1987.</p>",
+      "line_text": "__________. Reconstructing the Tradition of Sophia in Gnostic Literature. SBL Monograph 32. Atlanta, GA: Scholars, 1987.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hartenstein, Judith. “Anmerkungen zu den vier koptischen Versionen von ‘Eugnostos’ und der ‘Sophia Jesu Christi.’” Pages 749–58 in <em>Coptic Studies on the Threshold of a New Millennium: Proceedings of the Seventh International Congress of Coptic Studies, Leiden, August 27–September 2, 2000. </em>Edited by Mat Immerzeel and Jacques van der  Vliet with the assistance of Maarten Kerston and Carolien van Koest. Leuven: Peeters, 2004.“Encratism, Asceticism, and the Construction of Gender and Sexual Identity in Apocryphal Gospels.” Pages 389–406 in <em>The Oxford Handbook of Early Christian  Apocrypha. </em>Edited by Andrew Gregory, Tobias Nicklas, Christopher M. Tuckett, and Joseph Verheyden. Oxford: Oxford University, 2015.</p>",
+      "line_text": "Hartenstein, Judith. “Anmerkungen zu den vier koptischen Versionen von ‘Eugnostos’ und der ‘Sophia Jesu Christi.’” Pages 749–58 in Coptic Studies on the Threshold of a New Millennium: Proceedings of the Seventh International Congress of Coptic Studies, Leiden, August 27–September 2, 2000. Edited by Mat Immerzeel and Jacques van der  Vliet with the assistance of Maarten Kerston and Carolien van Koest. Leuven: Peeters, 2004.“Encratism, Asceticism, and the Construction of Gender and Sexual Identity in Apocryphal Gospels.” Pages 389–406 in The Oxford Handbook of Early Christian  Apocrypha. Edited by Andrew Gregory, Tobias Nicklas, Christopher M. Tuckett, and Joseph Verheyden. Oxford: Oxford University, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Female Disciples of Jesus in Early Christian Gospels: Gospel of Mary, Wisdom of Jesus Christ, and Other Gospels in Dialogue Form.” Pages 33–44 in <em>Ancient Christian Apocrypha: Marginalized Texts in Early Christianity. </em>Edited by Outi Lehtipuu and Silke Petersen. Bible and Women 3.2. Atlanta, GA: SBL Press, 2022.</p>",
+      "line_text": "__________. “Female Disciples of Jesus in Early Christian Gospels: Gospel of Mary, Wisdom of Jesus Christ, and Other Gospels in Dialogue Form.” Pages 33–44 in Ancient Christian Apocrypha: Marginalized Texts in Early Christianity. Edited by Outi Lehtipuu and Silke Petersen. Bible and Women 3.2. Atlanta, GA: SBL Press, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Geschichten von der Erscheinung des Auferstandenen in nichtkanonischen Schriften und die Entwicklung der Ostertradition.” Pages 123–42 in <em>Gelitten – gestorben – auferstanden: Passions- und Ostertraditionen im antiken Christentum. </em>Edited by Tobias Nicklas. WUNT 273. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "__________. “Geschichten von der Erscheinung des Auferstandenen in nichtkanonischen Schriften und die Entwicklung der Ostertradition.” Pages 123–42 in Gelitten – gestorben – auferstanden: Passions- und Ostertraditionen im antiken Christentum. Edited by Tobias Nicklas. WUNT 273. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Spekulationen über ein altes Philippusevangelium.” <em>ZAC </em>13.1 (2009): 62–75.</p>",
+      "line_text": "__________. “Spekulationen über ein altes Philippusevangelium.” ZAC 13.1 (2009): 62–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Helderman, Jan. “Zur gnostischen Gottesschau: ‘antopos’ im Eugnostosbrief und in der Sophia Jesu Christi.” Pages 245–62 in <em>Gnosticisme et monde hellenistque: actes du colloque de Louvain-la-Neuve, 11–14 mars 1980. </em>Edited by Julien Ries. Publications de l’Institut orientalist de Louvain 27. Louvain-la-Neuve: Université catholique de Louvain, Institut orientaliste, 1982.</p>",
+      "line_text": "Helderman, Jan. “Zur gnostischen Gottesschau: ‘antopos’ im Eugnostosbrief und in der Sophia Jesu Christi.” Pages 245–62 in Gnosticisme et monde hellenistque: actes du colloque de Louvain-la-Neuve, 11–14 mars 1980. Edited by Julien Ries. Publications de l’Institut orientalist de Louvain 27. Louvain-la-Neuve: Université catholique de Louvain, Institut orientaliste, 1982.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hyldahl, Jesper. “Har gnosticismen en filosofik oprindelse?—det litterære forhold mellem Eugnostos’ brev og Sophia Jesu Christi belyst.” <em>Dansk teologisk tidsskrift </em>62.3 (1999): 203–15.</p>",
+      "line_text": "Hyldahl, Jesper. “Har gnosticismen en filosofik oprindelse?—det litterære forhold mellem Eugnostos’ brev og Sophia Jesu Christi belyst.” Dansk teologisk tidsskrift 62.3 (1999): 203–15.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horsley, Richard A. “Spiritual Marriage with Sophia.” <em>VC </em>33.1 (1979): 30–54.</p>",
+      "line_text": "Horsley, Richard A. “Spiritual Marriage with Sophia.” VC 33.1 (1979): 30–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Krause, Martin. “Das literarische Verhältnis des Eugnostosbriefes zur Sophia Jesu Christi: Zur Auseinandersetzung der Gnosis mit dem Christentum.” Pages 215–23 in <em>Mullus: Festschrift Theodor Klauser. </em>Edited by Alfred Stuiber and Alfred Hermann. <em>JAC </em>1. Münster Westfalen: Aschendorff, 1964.</p>",
+      "line_text": "Krause, Martin. “Das literarische Verhältnis des Eugnostosbriefes zur Sophia Jesu Christi: Zur Auseinandersetzung der Gnosis mit dem Christentum.” Pages 215–23 in Mullus: Festschrift Theodor Klauser. Edited by Alfred Stuiber and Alfred Hermann. JAC 1. Münster Westfalen: Aschendorff, 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Luttikhuizen, Gerard P. “The Evaluation of the Teaching of Jesus in Christian Gnostic Revelation Dialogues.” <em>NovT </em>30.2 (1988): 158–68.</p>",
+      "line_text": "Luttikhuizen, Gerard P. “The Evaluation of the Teaching of Jesus in Christian Gnostic Revelation Dialogues.” NovT 30.2 (1988): 158–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marjanen, Antti. <em>The Woman Jesus Loved: Mary Magdalene in the Nag Hammadi Library and Related Documents. </em>Nag Hammadi and Manichaean Studies 40. Leiden: Brill, 1996.</p>",
+      "line_text": "Marjanen, Antti. The Woman Jesus Loved: Mary Magdalene in the Nag Hammadi Library and Related Documents. Nag Hammadi and Manichaean Studies 40. Leiden: Brill, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques E. “Normative Self-Definition in Gnosticism.” Pages 134–50 in <em>Jewish and Christian Self-Definition</em>, Vol. 1:<em> The Shaping of Christianity in the Second and Third Centuries. </em>Edited by E.P. Sanders. London: SCM, 1980.</p>",
+      "line_text": "Ménard, Jacques E. “Normative Self-Definition in Gnosticism.” Pages 134–50 in Jewish and Christian Self-Definition, Vol. 1: The Shaping of Christianity in the Second and Third Centuries. Edited by E.P. Sanders. London: SCM, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Parrott, Douglas M. “Evidence of Religious Syncretism in Gnostic Texts from Nag Hammadi.” Pages 173–89 in <em>Religious Syncretism in Antiquity: Essays in Conversation with Geo Widengren. </em>Edited by Birger A. Pearson. Series on Formative Contemporary Thinkers 1. Missoula, MT: Scholars Press, 1975.</p>",
+      "line_text": "Parrott, Douglas M. “Evidence of Religious Syncretism in Gnostic Texts from Nag Hammadi.” Pages 173–89 in Religious Syncretism in Antiquity: Essays in Conversation with Geo Widengren. Edited by Birger A. Pearson. Series on Formative Contemporary Thinkers 1. Missoula, MT: Scholars Press, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Gnostic and Orthodox Disciples in the Second and Third Centuries.” Pages 193–219 in <em>Nag Hammadi, Gnosticism, &amp; Early Christianity. </em>Edited by Charles W. Hedrick and Robert Hodgson, Jr. Peabody, MA: Hendrickson, 1986.</p>",
+      "line_text": "__________. “Gnostic and Orthodox Disciples in the Second and Third Centuries.” Pages 193–219 in Nag Hammadi, Gnosticism, &amp; Early Christianity. Edited by Charles W. Hedrick and Robert Hodgson, Jr. Peabody, MA: Hendrickson, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Gnosticism and Egyptian Religion.” <em>NovT </em>29.1 (1987): 73–93.</p>",
+      "line_text": "__________. “Gnosticism and Egyptian Religion.” NovT 29.1 (1987): 73–93.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Significance of the Letter of Eugnostos and the Sophia of Jesus Christ for Understanding the Relation between Gnosticism &amp; Christianity.” Pages 397–416 in volume 1 of The Society of Biblical Literature One Hundred Seventh Annual Meeting Seminar Papers, 28–31 October 1971, Regency Hyatt House, Atlanta, Ga. 2 vols. Atlanta: Scholars Press, 1971</p>",
+      "line_text": "__________. “The Significance of the Letter of Eugnostos and the Sophia of Jesus Christ for Understanding the Relation between Gnosticism &amp; Christianity.” Pages 397–416 in volume 1 of The Society of Biblical Literature One Hundred Seventh Annual Meeting Seminar Papers, 28–31 October 1971, Regency Hyatt House, Atlanta, Ga. 2 vols. Atlanta: Scholars Press, 1971",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pasquier, Anne. “Imposition des noms aux ‘âmes vivantes’ et manifestation d’Ève dans les traités d’Eugnoste et de la Sagesse de Jésus-Christ.” Pages 103–16 in <em>Études Coptes IV: Quatrième Journée d’Études Strasbourg 26–27 mai 1988. </em>Paris; Louvain: Peeters, 1995.</p>",
+      "line_text": "Pasquier, Anne. “Imposition des noms aux ‘âmes vivantes’ et manifestation d’Ève dans les traités d’Eugnoste et de la Sagesse de Jésus-Christ.” Pages 103–16 in Études Coptes IV: Quatrième Journée d’Études Strasbourg 26–27 mai 1988. Paris; Louvain: Peeters, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perkins, Pheme. “The Soteriology of Sophia of Jesus Christ.” Pages 165–81 in volume 1 of The Society of Biblical Literature One Hundred Seventh Annual Meeting Seminar Papers, 28–31 October 1971, Regency Hyatt House, Atlanta, Ga. 2 vols..Atlanta: Scholars Press, 1971.</p>",
+      "line_text": "Perkins, Pheme. “The Soteriology of Sophia of Jesus Christ.” Pages 165–81 in volume 1 of The Society of Biblical Literature One Hundred Seventh Annual Meeting Seminar Papers, 28–31 October 1971, Regency Hyatt House, Atlanta, Ga. 2 vols..Atlanta: Scholars Press, 1971.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>The Gnostic Dialogue: The Early Church and the Crisis of Gnosticism. </em>New York: Paulist, 1980.</p>",
+      "line_text": "__________. The Gnostic Dialogue: The Early Church and the Crisis of Gnosticism. New York: Paulist, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peuch, Henri-Charles. “Les nouveaux écrits gnostiques découverts en Haute-Egypte.” Pages 91–154 in <em>Coptic Studies in honor of Walter Ewing Crum. </em>Boston: The Byzantine Institute of America, 1950.</p>",
+      "line_text": "Peuch, Henri-Charles. “Les nouveaux écrits gnostiques découverts en Haute-Egypte.” Pages 91–154 in Coptic Studies in honor of Walter Ewing Crum. Boston: The Byzantine Institute of America, 1950.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rasimus, Tuomas. “Ophite Myth of Adam and the Corinthian Situation.” Pages 391–414 in <em>Lux Humana, Lux Aeterna: Essays on Biblical and Related Themes in Honor of Lars Aejmelaeus. </em>Edited by Antti Mustakallio. Publications of the Finnish Exegetical Society 89. Helsinki: Finnish Exegetical Society; Göttingen: Vandenhoeck &amp; Ruprecht, 2005.</p>",
+      "line_text": "Rasimus, Tuomas. “Ophite Myth of Adam and the Corinthian Situation.” Pages 391–414 in Lux Humana, Lux Aeterna: Essays on Biblical and Related Themes in Honor of Lars Aejmelaeus. Edited by Antti Mustakallio. Publications of the Finnish Exegetical Society 89. Helsinki: Finnish Exegetical Society; Göttingen: Vandenhoeck &amp; Ruprecht, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Robinson, James M. “Codicological Analysis of Nag Hammadi Codices V and VI and Papyrus Berolinensis 8502.” Pages 9–45 in <em>Nag Hammadi Codices V, 2–5 and VI with Papyrus Berolinensis 8502, 1 and 4. </em>Edited by Douglas M. Parrott. NHS 11. Leiden: Brill, 1979.</p>",
+      "line_text": "Robinson, James M. “Codicological Analysis of Nag Hammadi Codices V and VI and Papyrus Berolinensis 8502.” Pages 9–45 in Nag Hammadi Codices V, 2–5 and VI with Papyrus Berolinensis 8502, 1 and 4. Edited by Douglas M. Parrott. NHS 11. Leiden: Brill, 1979.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. “Nag-Hamadi Studien II: Das System der Sophia Jesu Christi.” <em>BZRGG </em>14.3 (1962): 263–78.</p>",
+      "line_text": "Schenke, Hans-Martin. “Nag-Hamadi Studien II: Das System der Sophia Jesu Christi.” BZRGG 14.3 (1962): 263–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Nag-Hamadi Studien III: Die Spitze des dem Apokryphon Johannis und der Sophia Jesu Christi zugrundeliegenden gnostischen Systems.” <em>BZRGG </em>14.4 (1962): 352–61.</p>",
+      "line_text": "__________. “Nag-Hamadi Studien III: Die Spitze des dem Apokryphon Johannis und der Sophia Jesu Christi zugrundeliegenden gnostischen Systems.” BZRGG 14.4 (1962): 352–61.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Scopello, Madeleine. <em>Femme, gnose et manichéisme: de l’espace mythique au territoire du réel. </em>NHS 53. Leiden/Boston: Brill, 2005.</p>",
+      "line_text": "Scopello, Madeleine. Femme, gnose et manichéisme: de l’espace mythique au territoire du réel. NHS 53. Leiden/Boston: Brill, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sumney, Jerry L. “The Letter of Eugnostos and the Origins of Gnosticism.” <em>NovT </em>31.2 (1989): 172–81.</p>",
+      "line_text": "Sumney, Jerry L. “The Letter of Eugnostos and the Origins of Gnosticism.” NovT 31.2 (1989): 172–81.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tardieu, Michel. <em>Écrits gnostiques: Codex de Berlin. </em>Sources gnostiques et manichéennes 1. Paris: Cerf, 1984.</p>",
+      "line_text": "Tardieu, Michel. Écrits gnostiques: Codex de Berlin. Sources gnostiques et manichéennes 1. Paris: Cerf, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tataryn, Myroslaw. “Sergius Bulgakov (1871–1944): Time for a New Look.” <em>SVTQ </em>42 (1998): 315–38.</p>",
+      "line_text": "Tataryn, Myroslaw. “Sergius Bulgakov (1871–1944): Time for a New Look.” SVTQ 42 (1998): 315–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Till, Walter C., ed. <em>Die gnostischen Schriften des koptischen Papyrus Berolinensis 8502. </em>TU 60. Berlin: Akademie-Verlag, 1955.</p>",
+      "line_text": "Till, Walter C., ed. Die gnostischen Schriften des koptischen Papyrus Berolinensis 8502. TU 60. Berlin: Akademie-Verlag, 1955.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Till, Walter C., and Hans-Martin Schenke. eds. <em>Die gnostischen Schriften des koptischen Papyrus Berolinensis 8502. </em>TU 60. 2nd ed. Berlin: Akademie-Verlag, 1972.</p>",
+      "line_text": "Till, Walter C., and Hans-Martin Schenke. eds. Die gnostischen Schriften des koptischen Papyrus Berolinensis 8502. TU 60. 2nd ed. Berlin: Akademie-Verlag, 1972.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wilson, Robert McL. <em>Gnosis and the New Testament. </em>Philadelphia: Fortress, 1968.</p>",
+      "line_text": "Wilson, Robert McL. Gnosis and the New Testament. Philadelphia: Fortress, 1968.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wurst, Gregor. “Das Problem der Datierung der Sophia Jesu Christi und des Eugnostosbriefes.” Pages 373–86 in <em>Evangelienüberlieferungen: Beiträge zu außerkanonischen Jesus-überlieferungen aus verschiedenen Sprach- und Kulturtraditionen. </em>Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "Wurst, Gregor. “Das Problem der Datierung der Sophia Jesu Christi und des Eugnostosbriefes.” Pages 373–86 in Evangelienüberlieferungen: Beiträge zu außerkanonischen Jesus-überlieferungen aus verschiedenen Sprach- und Kulturtraditionen. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zelyck, Lorne R. <em>John Among the Other Gospels: The Reception of the Fourth Gospel in the Extra-canonical Gospels. </em>WUNT 2 347. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "Zelyck, Lorne R. John Among the Other Gospels: The Reception of the Fourth Gospel in the Extra-canonical Gospels. WUNT 2 347. Tübingen: Mohr Siebeck, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

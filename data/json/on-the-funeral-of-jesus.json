@@ -1,0 +1,50 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/on-the-funeral-of-jesus/",
+  "nasscal_toc_title": "On the Funeral of Jesus",
+  "filename": "on-the-funeral-of-jesus",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Funeral Jesus",
+  "clavis_number": 0,
+  "category": "Pilate Cycle",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-91/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"ma-bullet\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, hist. gr. 91, fol. 18<sup>r</sup>–18<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 91, fol. 18r–18v (14th/15th cent.)",
+      "language": "English",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-91/"
+      ]
+    },
+    {
+      "line_html": "<p>Burke, Tony. “Two New Witnesses to the <em>Acta Pilati</em> Tradition.” <em>La Muséon</em> 129 (2016): 251–78 (introduction, critical edition, and English translation).</p>",
+      "line_text": "Burke, Tony. “Two New Witnesses to the Acta Pilati Tradition.” La Muséon 129 (2016): 251–78 (introduction, critical edition, and English translation).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Burke, Tony. “Two New Witnesses to the <em>Acta Pilati</em> Tradition.” <em>La Muséon</em> 129 (2016): 251–78.</p>",
+      "line_text": "Burke, Tony. “Two New Witnesses to the Acta Pilati Tradition.” La Muséon 129 (2016): 251–78.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>McCulloch, John A. <em>The Harrowing of Hell: A Comparative Study of an Early Christian Doctrine</em>. Edinburgh: T &amp; T Clark, 1930 (a discussion of medieval homilies that incorporate material from the <em>Acta Pilati</em> cycle).</p>",
+      "line_text": "McCulloch, John A. The Harrowing of Hell: A Comparative Study of an Early Christian Doctrine. Edinburgh: T &amp; T Clark, 1930 (a discussion of medieval homilies that incorporate material from the Acta Pilati cycle).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

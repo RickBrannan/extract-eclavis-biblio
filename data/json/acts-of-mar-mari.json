@@ -1,0 +1,433 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-mar-mari/",
+  "nasscal_toc_title": "Acts of Mar Mari",
+  "filename": "acts-of-mar-mari",
+  "latin_title": "Acta Maris",
+  "abbrev": "Acts Mari",
+  "alt_titles": [
+    "Acts of Mari",
+    "the Story of Mar Mari, the Apostle"
+  ],
+  "clavis_number": 797,
+  "compiler": "Jacob A. Lollar, Abilene Christian University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A </strong> Alqoš, Notre-Dame des Semences, no shelf number provided (1881) ~ used by Abbeloos but present location unknown</p>",
+      "line_text": "A  Alqoš, Notre-Dame des Semences, no shelf number provided (1881) ~ used by Abbeloos but present location unknown",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Ṣṭ</strong>  Unidentified manuscript used by Bedjan</p>",
+      "line_text": "Ṣṭ  Unidentified manuscript used by Bedjan",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H</strong>  Rome, Biblioteca Apostolica, Vita Beati Maris (17th cent.) – This source is identified by Abbeloos as a copy of Mar Mari that had been in the possession of Cardinal Howard, who died in 1694.</p>",
+      "line_text": "H  Rome, Biblioteca Apostolica, Vita Beati Maris (17th cent.) – This source is identified by Abbeloos as a copy of Mar Mari that had been in the possession of Cardinal Howard, who died in 1694.",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>K</strong>  Khayyath of Diyarbakir (1881) ~ copy of Ko</p>",
+      "line_text": "K  Khayyath of Diyarbakir (1881) ~ copy of Ko",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Ko</strong>  Koï (?) (13th cent.)</p>",
+      "line_text": "Ko  Koï (?) (13th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mosul-chaldean-patriarchate-86/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>M</strong>  Mosul, Chaldean Patriarchate, 86 (1711/1712)</p>",
+      "line_text": "M  Mosul, Chaldean Patriarchate, 86 (1711/1712)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mosul-chaldean-patriarchate-86/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-75/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>S </strong> Berlin, Staatsbibliothek zu Berlin, Syr. 75 (Sachau 222), <span class=\"\">fols. 52<span class=\"Syriac\"><sup>r</sup></span>–74<span class=\"Syriac\"><sup>r</sup></span></span> (1881)</p>",
+      "line_text": "S  Berlin, Staatsbibliothek zu Berlin, Syr. 75 (Sachau 222), fols. 52r–74r (1881)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-75/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-597/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 597, fols. <span class=\"\">8<span class=\"Syriac\"><sup>v</sup></span>–17<span class=\"Syriac\"><sup>v</sup></span> </span>(17th cent.) ~ fragmentary</p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 597, fols. 8v–17v (17th cent.) ~ fragmentary",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-597/"
+      ]
+    },
+    {
+      "line_html": "<p>Not yet evaluated:</p>",
+      "line_text": "Not yet evaluated:",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-199/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Chaldean Patriarchate of Baghdad, 199, pp.<span class=\"\"> 85–120</span> (1711)</p>",
+      "line_text": "Baghdad, Chaldean Patriarchate of Baghdad, 199, pp. 85–120 (1711)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-199/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Baghdad, Library of the Chaldean Monastery, 622 (olim Alqoš, Notre-Dame des Semences)</p>",
+      "line_text": "Baghdad, Library of the Chaldean Monastery, 622 (olim Alqoš, Notre-Dame des Semences)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Baghdad, Library of the Chaldean Monastery, 624 (olim Alqoš, Notre-Dame des Semences)</p>",
+      "line_text": "Baghdad, Library of the Chaldean Monastery, 624 (olim Alqoš, Notre-Dame des Semences)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/erbil-chaldean-antonian-order-of-st-hormizd-oaoc-628/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Erbil, Chaldean Antonian Order of St. Hormizd (OAOC), 628 (olim Baghdad, Library of the Chaldean Monastery, 628; olim Alqoš, Notre-Dame des Semences, Scher 112/Vosté 214), item 2 (1885)</p>",
+      "line_text": "Erbil, Chaldean Antonian Order of St. Hormizd (OAOC), 628 (olim Baghdad, Library of the Chaldean Monastery, 628; olim Alqoš, Notre-Dame des Semences, Scher 112/Vosté 214), item 2 (1885)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/erbil-chaldean-antonian-order-of-st-hormizd-oaoc-628/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-library-of-the-chaldean-monastery-630/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Library of the Chaldean Monastery, 630 (olim Alqoš, Notre-Dame des Semences, Vosté 217), item 2 (1891)</p>",
+      "line_text": "Baghdad, Library of the Chaldean Monastery, 630 (olim Alqoš, Notre-Dame des Semences, Vosté 217), item 2 (1891)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-library-of-the-chaldean-monastery-630/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Baghdad, Library of the Chaldean Monastery, 636 (olim Alqoš, Notre-Dame des Semences)</p>",
+      "line_text": "Baghdad, Library of the Chaldean Monastery, 636 (olim Alqoš, Notre-Dame des Semences)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-library-of-the-chaldean-monastery-shelf-number-not-provided/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Library of the Chaldean Monastery, shelf no. not provided (olim Alqoš, Notre-Dame des Semences, Scher 96/Vosté 215), item 1 (1885)</p>",
+      "line_text": "Baghdad, Library of the Chaldean Monastery, shelf no. not provided (olim Alqoš, Notre-Dame des Semences, Scher 96/Vosté 215), item 1 (1885)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-library-of-the-chaldean-monastery-shelf-number-not-provided/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/karkuk-chaldean-archdiocese-of-karkuk-213/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Karkūk, Chaldean Archdiocese of Karkūk, 213, <span class=\"\">fols. 222<span class=\"Syriac\"><sup>v</sup></span>–255<span class=\"Syriac\"><sup>v</sup></span> </span>(1723)</p>",
+      "line_text": "Karkūk, Chaldean Archdiocese of Karkūk, 213, fols. 222v–255v (1723)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/karkuk-chaldean-archdiocese-of-karkuk-213/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/urmia-oroomia-mission-library-103/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Urmia, Oroomia Mission Library, 103, item 7 (1715) ~ now lost</p>",
+      "line_text": "Urmia, Oroomia Mission Library, 103, item 7 (1715) ~ now lost",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/urmia-oroomia-mission-library-103/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Urmia, Oroomiah College, 160 (1890) ~ now lost</p>",
+      "line_text": "Urmia, Oroomiah College, 160 (1890) ~ now lost",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Jullien and Jullien provide this reconstruction of the MS history (<em>Les Actes des M</em><em>ār M</em><em>āri</em>, 10):</p>",
+      "line_text": "Jullien and Jullien provide this reconstruction of the MS history (Les Actes des Mār Māri, 10):",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?ssl=1\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-2548\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?resize=660%2C208&amp;ssl=1\" alt=\"\" width=\"660\" height=\"208\" srcset=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?w=829&amp;ssl=1 829w, https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?resize=300%2C94&amp;ssl=1 300w, https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?resize=768%2C242&amp;ssl=1 768w, https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?resize=825%2C261&amp;ssl=1 825w\" sizes=\"(max-width: 660px) 100vw, 660px\" data-recalc-dims=\"1\"/></a></p>",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2017/11/Mar-mari-Stemma.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/actasanctimarisa00mari#page/2/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Abbeloos, Joannes Baptista. “Acta Sancti Maris, Assyriæ, Babyloniae ac Persidis seculo I apostoli.” <em>AnBoll</em> 4 (1885): 43–138 (<em>editio princeps</em> based on A and K).</p>",
+      "line_text": "Abbeloos, Joannes Baptista. “Acta Sancti Maris, Assyriæ, Babyloniae ac Persidis seculo I apostoli.” AnBoll 4 (1885): 43–138 (editio princeps based on A and K).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/actasanctimarisa00mari#page/2/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/geschichtedersyr00baumuoft#page/28/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Baumstark, Anton. <em>Geschichte der syrischen Literatur: mit Ausschluß der christlich-palästinensichen Texte. </em>Bonn: Verlag, 1922 (lists several manuscripts, p. 28 n. 5).</p>",
+      "line_text": "Baumstark, Anton. Geschichte der syrischen Literatur: mit Ausschluß der christlich-palästinensichen Texte. Bonn: Verlag, 1922 (lists several manuscripts, p. 28 n. 5).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/geschichtedersyr00baumuoft#page/28/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/Bedjan1890ActaMartyrumEtSanctorumVol.1/Bedjan%201890_Acta%20martyrum%20et%20sanctorum%2C%20vol.%201#page/n559/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bedjan, Paulus, ed. <em>Acta martyrum et sanctorum</em>. 4 vols. Paris/Leipzig: Otto Harrassowitz, 1890-1897 (edition based on A and Ṣṭ, vol. 1, pp. 45–94).</p>",
+      "line_text": "Bedjan, Paulus, ed. Acta martyrum et sanctorum. 4 vols. Paris/Leipzig: Otto Harrassowitz, 1890-1897 (edition based on A and Ṣṭ, vol. 1, pp. 45–94).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/Bedjan1890ActaMartyrumEtSanctorumVol.1/Bedjan%201890_Acta%20martyrum%20et%20sanctorum%2C%20vol.%201#page/n559/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Harrak, Amir, ed. <em>The Acts of Mār Mārī the Apostle</em>. WGRW 11. Atlanta: Society of Biblical Literature, 2005 (edition based on A with variants from S and Ṣṭ).</p>",
+      "line_text": "Harrak, Amir, ed. The Acts of Mār Mārī the Apostle. WGRW 11. Atlanta: Society of Biblical Literature, 2005 (edition based on A with variants from S and Ṣṭ).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Jullien, Christelle and Florence Jullien, eds. <em>Les Actes de Mār Māri</em>. CSCO 602–603, Syr. 234–235. Leuven: Peeters, 2003 (edition based on A with comparisons to K, S, and V).</p>",
+      "line_text": "Jullien, Christelle and Florence Jullien, eds. Les Actes de Mār Māri. CSCO 602–603, Syr. 234–235. Leuven: Peeters, 2003 (edition based on A with comparisons to K, S, and V).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/DieGeschichteDesDominusMri/RaabeDieGeschichteDesDominusMri#page/n3/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Raabe, Richard, <em>Die Geschichte des Dominus Mâri, eines Apostels des Orients. Aus dem Syrischen übersetzt und untersucht</em>. Leipzig: J.C. Hinrichs, 1893 (edition based on S, with comparison to A).</p>",
+      "line_text": "Raabe, Richard, Die Geschichte des Dominus Mâri, eines Apostels des Orients. Aus dem Syrischen übersetzt und untersucht. Leipzig: J.C. Hinrichs, 1893 (edition based on S, with comparison to A).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/DieGeschichteDesDominusMri/RaabeDieGeschichteDesDominusMri#page/n3/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Abūnā, Albert. <em>Šuhad</em><em>ā’ al-ma</em><em>šriq</em>. Baghdad: Maṭba‘at al-Khulūd, 1985.</p>",
+      "line_text": "Abūnā, Albert. Šuhadā’ al-mašriq. Baghdad: Maṭba‘at al-Khulūd, 1985.",
+      "language": "Arabic",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Scher, Addai. <em>Kit</em><em>āb s</em><em>īrat ’a</em><em>šhar </em><em>šuhad</em><em>ā’ al-ma</em><em>šriq al-qidd</em><em>īs</em><em>īn</em>. 2 vols. Mosul, 1900–1906.</p>",
+      "line_text": "Scher, Addai. Kitāb sīrat ’ašhar šuhadā’ al-mašriq al-qiddīsīn. 2 vols. Mosul, 1900–1906.",
+      "language": "Arabic",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Harrak, Amir, ed. <em>The Acts of Mār Mārī the Apostle</em>. SBL WGRW 11. Atlanta: Society of Biblical Literature, 2005.</p>",
+      "line_text": "Harrak, Amir, ed. The Acts of Mār Mārī the Apostle. SBL WGRW 11. Atlanta: Society of Biblical Literature, 2005.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Jullien, Christelle and Florence Jullien, eds. <em>Les Actes de Mār Māri</em>. CSCO 602–603, Syr. 234–235. Leuven: Peeters, 2003.</p>",
+      "line_text": "Jullien, Christelle and Florence Jullien, eds. Les Actes de Mār Māri. CSCO 602–603, Syr. 234–235. Leuven: Peeters, 2003.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________, trans. <em>Les Actes de Mar Mari, l’apôtre de la Mésopotamie</em>. Apocryphes 11. Turnhout: Brepols, 2001.</p>",
+      "line_text": "__________, trans. Les Actes de Mar Mari, l’apôtre de la Mésopotamie. Apocryphes 11. Turnhout: Brepols, 2001.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/DieGeschichteDesDominusMri\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Raabe, Richard. <em>Die Geschichte des Dominus Mâri, eines Apostels des Orients. Aus dem Syrischen übersetzt und untersucht</em>. Leipzig: J.C. Hinrichs, 1893</p>",
+      "line_text": "Raabe, Richard. Die Geschichte des Dominus Mâri, eines Apostels des Orients. Aus dem Syrischen übersetzt und untersucht. Leipzig: J.C. Hinrichs, 1893",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/DieGeschichteDesDominusMri"
+      ]
+    },
+    {
+      "line_html": "<p>Ramelli, Ilaria L. <em>Atti di Mar Mari</em>. Testi del Vicino Oriente antico 7.2. Brescia: Paideia, 2008.</p>",
+      "line_text": "Ramelli, Ilaria L. Atti di Mar Mari. Testi del Vicino Oriente antico 7.2. Brescia: Paideia, 2008.",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/actasanctimarisa00mari#page/2/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Abbeloos, Joannes Baptista. “Acta Sancti Maris, Assyriæ, Babyloniae ac Persidis seculo I apostoli.” <em>AnBoll</em> 4 (1885): 43–138.</p>",
+      "line_text": "Abbeloos, Joannes Baptista. “Acta Sancti Maris, Assyriæ, Babyloniae ac Persidis seculo I apostoli.” AnBoll 4 (1885): 43–138.",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/stream/actasanctimarisa00mari#page/2/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Abbeloos, Joannes Baptista. “Deux manuscrits chaldéens inexplorés.” <em>Le Muséon</em> 2.1 (1883): 143–14.</p>",
+      "line_text": "Abbeloos, Joannes Baptista. “Deux manuscrits chaldéens inexplorés.” Le Muséon 2.1 (1883): 143–14.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cumont, Franz. “Notes sur un passage des Actes de S. Mâri.” <em>Revue de l’instruction publique en Belgique</em> 36 (1893): 373–78.</p>",
+      "line_text": "Cumont, Franz. “Notes sur un passage des Actes de S. Mâri.” Revue de l’instruction publique en Belgique 36 (1893): 373–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elevanal, Thomas. “Some of the Characteristics of the Anaphora of the Apostles Mar Addai and Mar Mari.” <em>Christian Orient</em> 8 (1987): 27–36.</p>",
+      "line_text": "Elevanal, Thomas. “Some of the Characteristics of the Anaphora of the Apostles Mar Addai and Mar Mari.” Christian Orient 8 (1987): 27–36.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harrak, Amir. “The Assembly of Seleucia on the Tigris according to the Syriac Acts of Mār Mārī.” Pages 109–18 in <em>Ideologies as Intercultural Phenomena: Proceedings of the Third Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project, Held in Chicago, USA, October 27-31, 2000</em>. Edited by Antonio C.D. Panaino and Giovanni Pettinato. Melammu Symposia 3. Milano: Università di Bologna / Istituto Italiano per l’Africa e l’Oriente, 2002.</p>",
+      "line_text": "Harrak, Amir. “The Assembly of Seleucia on the Tigris according to the Syriac Acts of Mār Mārī.” Pages 109–18 in Ideologies as Intercultural Phenomena: Proceedings of the Third Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project, Held in Chicago, USA, October 27-31, 2000. Edited by Antonio C.D. Panaino and Giovanni Pettinato. Melammu Symposia 3. Milano: Università di Bologna / Istituto Italiano per l’Africa e l’Oriente, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horn, Cornelia B. “From the Roman East into the Persian Empire: Theodoret of Cyrrhus and the Acts of Mar Mari on Parent-Child Relationships and Children’s Health.” Pages 257–88 in <em>Children and Family in Late Antiquity: Life, Death and Interaction</em>. Edited by Christian Laes, Katariina Mustakallio, and Ville Vuolanto. Interdisciplinary Studies in Ancient Culture and Religion 15. Leuven: Peeters, 2015.</p>",
+      "line_text": "Horn, Cornelia B. “From the Roman East into the Persian Empire: Theodoret of Cyrrhus and the Acts of Mar Mari on Parent-Child Relationships and Children’s Health.” Pages 257–88 in Children and Family in Late Antiquity: Life, Death and Interaction. Edited by Christian Laes, Katariina Mustakallio, and Ville Vuolanto. Interdisciplinary Studies in Ancient Culture and Religion 15. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jullien, Christelle and Florence Jullien. “Les Actes de Mār Māri: une figure apocryphe au service de l’unité communautaire.” <em>Apocrypha</em> 10 (1999): 177–93.</p>",
+      "line_text": "Jullien, Christelle and Florence Jullien. “Les Actes de Mār Māri: une figure apocryphe au service de l’unité communautaire.” Apocrypha 10 (1999): 177–93.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Édesse dans les Actes de Mâr Mâri.” Pages 167–82 in <em>Apocryphité: histoire d’un concept transversal aux religions du livre. En hommage à Pierre Geoltrain</em>. Edited by Simon Claude Mimouni and Constantinos Macris. Bibliothèque de l’École des Hautes Études, Sciences Religieuses 113. Turnhout: Brepols, 2002.</p>",
+      "line_text": "__________. “Édesse dans les Actes de Mâr Mâri.” Pages 167–82 in Apocryphité: histoire d’un concept transversal aux religions du livre. En hommage à Pierre Geoltrain. Edited by Simon Claude Mimouni and Constantinos Macris. Bibliothèque de l’École des Hautes Études, Sciences Religieuses 113. Turnhout: Brepols, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Une source inattendue sur le baptisme babylonien: les Actes de Mar Mari.” <em>Studia Iranica</em> 31.1 (2002): 47–60.</p>",
+      "line_text": "__________. “Une source inattendue sur le baptisme babylonien: les Actes de Mar Mari.” Studia Iranica 31.1 (2002): 47–60.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________.  <em>Aux origines de l’église de Perse: les Actes de Mar Mari</em>. CSCO 604, Subs. 114. Louvain: Peeters, 2003.</p>",
+      "line_text": "__________.  Aux origines de l’église de Perse: les Actes de Mar Mari. CSCO 604, Subs. 114. Louvain: Peeters, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________.  “Communauté et dissidence: un cas d’espèce chez les Syriens orientaux de Perse. Réflexions à travers les Actes de Mar Mari.” Pages 307–34 in <em>Les communautés religieuses dans le monde gréco-romain. Essais de définition</em>. Edited by Nicole Belayche and Simon Claude Mimouni. Bibliothèque de l’Ecole des Hautes Etudes, Sciences Religieuses 117. Turnhout: Brepols, 2003.</p>",
+      "line_text": "__________.  “Communauté et dissidence: un cas d’espèce chez les Syriens orientaux de Perse. Réflexions à travers les Actes de Mar Mari.” Pages 307–34 in Les communautés religieuses dans le monde gréco-romain. Essais de définition. Edited by Nicole Belayche and Simon Claude Mimouni. Bibliothèque de l’Ecole des Hautes Etudes, Sciences Religieuses 117. Turnhout: Brepols, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jullien, Christelle, Florence Jullien, and Françoise Briquel-Chatonnet. “Traces d’un ancien rite assyrien dans les Actes de Mar Mari?” <em>Semitica</em> 51 (2003): 65–71.</p>",
+      "line_text": "Jullien, Christelle, Florence Jullien, and Françoise Briquel-Chatonnet. “Traces d’un ancien rite assyrien dans les Actes de Mar Mari?” Semitica 51 (2003): 65–71.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jullien, Christelle. “À propos de Ilaria Ramelli (a cura di) Atti di Mar Mari’.” <em>Le Muséon</em> 122.1–2 (2009): 219–29.</p>",
+      "line_text": "Jullien, Christelle. “À propos de Ilaria Ramelli (a cura di) Atti di Mar Mari’.” Le Muséon 122.1–2 (2009): 219–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jullien, Florence. “Figures fondatrices dans les apocryphes syriaques.” Pages 97–110 in <em>Les apocryphes syriaques</em>. Edited by Muriél Debié, Christelle Jullien, Florence Jullien, and Alain Desreumaux. Études syriaques 2. Paris: Geuthner, 2005.</p>",
+      "line_text": "Jullien, Florence. “Figures fondatrices dans les apocryphes syriaques.” Pages 97–110 in Les apocryphes syriaques. Edited by Muriél Debié, Christelle Jullien, Florence Jullien, and Alain Desreumaux. Études syriaques 2. Paris: Geuthner, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pérès, Jacques-Noël. “L’intérêt des apocryphes syriaques dans la pensée et la théologie syriaques.” Pages 205–15 in <em>Les apocryphes syriaques</em>. Edited by Muriél Debié, Christelle Jullien, Florence Jullien, and Alain Desreumaux. Études syriaques 2. Paris: Geuthner, 2005.</p>",
+      "line_text": "Pérès, Jacques-Noël. “L’intérêt des apocryphes syriaques dans la pensée et la théologie syriaques.” Pages 205–15 in Les apocryphes syriaques. Edited by Muriél Debié, Christelle Jullien, Florence Jullien, and Alain Desreumaux. Études syriaques 2. Paris: Geuthner, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ramelli, Ilaria L. “La Doctrina Addai e gli Acta Maris: note storico-letterarie sui loro rapporti intertestuali.” <em>AION</em> 65 (2005): 75–102.</p>",
+      "line_text": "Ramelli, Ilaria L. “La Doctrina Addai e gli Acta Maris: note storico-letterarie sui loro rapporti intertestuali.” AION 65 (2005): 75–102.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The First Evangelization of the Mesopotamian Regions in the Syriac Tradition: The Acta Maris as a Continuation of the Doctrina Addai.” <em>Antiguo Oriente</em> 3 (2005): 11–54.</p>",
+      "line_text": "__________. “The First Evangelization of the Mesopotamian Regions in the Syriac Tradition: The Acta Maris as a Continuation of the Doctrina Addai.” Antiguo Oriente 3 (2005): 11–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________.  “The Narrative Continuity Between the Teaching of Addai and the Acts of Mari: Two Historical Novels?” Pages 411–50 in <em>Narratives of Egypt and the Ancient Near East: Literary and Linguistic Approaches</em>. Edited by Fredrik Norland Hagen, J. Johnston, W. Monkhouse, Kathryn Piquette, and J. Tait. OLA 189. Leuven: Peeters, 2011.</p>",
+      "line_text": "__________.  “The Narrative Continuity Between the Teaching of Addai and the Acts of Mari: Two Historical Novels?” Pages 411–50 in Narratives of Egypt and the Ancient Near East: Literary and Linguistic Approaches. Edited by Fredrik Norland Hagen, J. Johnston, W. Monkhouse, Kathryn Piquette, and J. Tait. OLA 189. Leuven: Peeters, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________.  “Two Syriac ‘Apocryphal Acts of Apostles’: The Doctrina Addai and the Acta Maris.” Pages 77–94 in <em>In Mari Via Tua: Philological Studies in Honour of Antonio Piñero</em>. Edited by Israel M. Gallarte Jesús Peláez. EFN 11. Córdoba: El Almendro, 2016.</p>",
+      "line_text": "__________.  “Two Syriac ‘Apocryphal Acts of Apostles’: The Doctrina Addai and the Acta Maris.” Pages 77–94 in In Mari Via Tua: Philological Studies in Honour of Antonio Piñero. Edited by Israel M. Gallarte Jesús Peláez. EFN 11. Córdoba: El Almendro, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Saint-Laurent, Jeanne-Nicole. <em>Missionary Stories and the Formation of the Syriac Churches</em>. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.</p>",
+      "line_text": "Saint-Laurent, Jeanne-Nicole. Missionary Stories and the Formation of the Syriac Churches. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Taylor, David G.K. “The Coming of Christianity to Mesopotamia.” Pages 68–87 in <em>The Syriac World</em>. Edited by Daniel King. London: Routledge, 2019.</p>",
+      "line_text": "Taylor, David G.K. “The Coming of Christianity to Mesopotamia.” Pages 68–87 in The Syriac World. Edited by Daniel King. London: Routledge, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tubach, Jürgen. “Die Akten des Mari und ihre Intention.” Pages 1232–38 in <em>Akten des XII. Internationalen Kongresses für Christliche Archäologie, Bonn 22.–28. September 1991</em>. Edited by Josef Engemann. Studi di Antichità Cristiana 52 / Jahrbuch für Antike und Christentum, Ergänzungsband 20.1–2. Città del Vaticano: Pontificio Istituto di Archeologia Cristiana / Münster: Aschendorff, 1995.</p>",
+      "line_text": "Tubach, Jürgen. “Die Akten des Mari und ihre Intention.” Pages 1232–38 in Akten des XII. Internationalen Kongresses für Christliche Archäologie, Bonn 22.–28. September 1991. Edited by Josef Engemann. Studi di Antichità Cristiana 52 / Jahrbuch für Antike und Christentum, Ergänzungsband 20.1–2. Città del Vaticano: Pontificio Istituto di Archeologia Cristiana / Münster: Aschendorff, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Varghese, Fr Baby. “The Liturgies of the Syriac Churches.” Pages 391–404 in <em>The Syriac World</em>. Edited by Daniel King. London: Routledge, 2019.</p>",
+      "line_text": "Varghese, Fr Baby. “The Liturgies of the Syriac Churches.” Pages 391–404 in The Syriac World. Edited by Daniel King. London: Routledge, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vossel, Vincent van. “Mari en Kokhe.” <em>Het Christelijk Oosten</em> 50 (1998): 185–210.</p>",
+      "line_text": "Vossel, Vincent van. “Mari en Kokhe.” Het Christelijk Oosten 50 (1998): 185–210.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wood, Philip. <em>‘We Have No King But Christ’: Christian Political Thought in Greater Syria on the Eve of the Arab Conquest (c. 400–585)</em>. Oxford Studies in Byzantium. Oxford: Oxford University Press, 2010.</p>",
+      "line_text": "Wood, Philip. ‘We Have No King But Christ’: Christian Political Thought in Greater Syria on the Eve of the Arab Conquest (c. 400–585). Oxford Studies in Byzantium. Oxford: Oxford University Press, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zarzeczny, Rafal. “The Syrian Story of Mār Māri (BHO 610) as an Apocriphic Evidence of the Alleged Beginnings of Evangelization in the Area of Preset-day Iraq.” <em>Studia Bobolanum</em> 2 (2010): 67–92.</p>",
+      "line_text": "Zarzeczny, Rafal. “The Syrian Story of Mār Māri (BHO 610) as an Apocriphic Evidence of the Alleged Beginnings of Evangelization in the Area of Preset-day Iraq.” Studia Bobolanum 2 (2010): 67–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

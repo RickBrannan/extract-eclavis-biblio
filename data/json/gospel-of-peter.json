@@ -1,0 +1,53 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-peter/",
+  "nasscal_toc_title": "Gospel of Peter",
+  "filename": "gospel-of-peter",
+  "latin_title": "Euangelium Petri",
+  "abbrev": "Gos. Pet.",
+  "clavis_number": 670,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/alexandria-bibliotheca-alexandrina-baam-0522/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Alexandria, Bibliotheca Alexandria, BAAM 0522 (formerly Cairo, Museum of Egyptian Antiquities, P. Cair. 10759), pp. 2–10 (6th/7th cent.)</p>",
+      "line_text": "Alexandria, Bibliotheca Alexandria, BAAM 0522 (formerly Cairo, Museum of Egyptian Antiquities, P. Cair. 10759), pp. 2–10 (6th/7th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/alexandria-bibliotheca-alexandrina-baam-0522/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://academic.oup.com/jts/advance-article/doi/10.1093/jts/flaa041/5824945\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Houghton, H. A. G., and Mina Monier. “Greek Manuscripts in Alexandria.” <em>JTS</em>, flaa041. 24 April 2020. https://doi.org/10.1093/jts/flaa041 (article revealing the new location of the Akhmim manuscript).</p>",
+      "line_text": "Houghton, H. A. G., and Mina Monier. “Greek Manuscripts in Alexandria.” JTS, flaa041. 24 April 2020. https://doi.org/10.1093/jts/flaa041 (article revealing the new location of the Akhmim manuscript).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://academic.oup.com/jts/advance-article/doi/10.1093/jts/flaa041/5824945"
+      ]
+    },
+    {
+      "line_html": "<p>Foster, Peter. “Gospel of Peter.” Pages 58–77 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Foster, Peter. “Gospel of Peter.” Pages 58–77 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. <em>Studien zum Petrusevangelium.</em> WUNT 453. Tübingen: Mohr Siebeck, 2020.</p>",
+      "line_text": "Nicklas, Tobias. Studien zum Petrusevangelium. WUNT 453. Tübingen: Mohr Siebeck, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

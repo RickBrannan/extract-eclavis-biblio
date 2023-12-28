@@ -1,0 +1,157 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-john-the-baptist/",
+  "nasscal_toc_title": "Encomium on John the Baptist",
+  "filename": "encomium-on-john-the-baptist",
+  "abbrev": "Encom. Bapt.",
+  "alt_titles": [
+    "Panegyric on John the Baptist"
+  ],
+  "clavis_number": 543,
+  "category": "Pseudo-Apostolic Memoirs",
+  "compiler": "Tony Burke",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, Graf 634 (1696)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, Graf 634 (1696)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 264, fols. 55<sup>r</sup>–63<sup>r</sup> (1594) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b110046764\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 264, fols. 55r–63r (1594) ~ Gallica",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b110046764"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 379 (Hag. 13) (1550)</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 379 (Hag. 13) (1550)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.2#page/n521/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (list of manuscripts, vol. 2, p. 492).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (list of manuscripts, vol. 2, p. 492).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.2#page/n521/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 7024, fols. 1<sup>r</sup>–17<sup>v</sup> (987; =MERC.AR; <a href=\"https://atlas.paths-erc.eu/manuscripts/193\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "London, British Library, Or. 7024, fols. 1r–17v (987; =MERC.AR; PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/193"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-db/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.DB, pp. [?]–[?], 11–14 (10th cent.) ~ portions of 6–8, 13–17</p>",
+      "line_text": "MONB.DB, pp. [?]–[?], 11–14 (10th cent.) ~ portions of 6–8, 13–17",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-db/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.archive.org/details/cu31924026887780\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. Wallis. <em>Coptic Apocrypha in the Dialect of Upper Egypt</em>. Oxford: Longman and Co., 1913 (text, pp. 128–145, translation, pp. 335–51).</p>",
+      "line_text": "Budge, E. A. Wallis. Coptic Apocrypha in the Dialect of Upper Egypt. Oxford: Longman and Co., 1913 (text, pp. 128–145, translation, pp. 335–51).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.archive.org/details/cu31924026887780"
+      ]
+    },
+    {
+      "line_html": "<p>Winstedt, Eric O. “A Coptic Fragment Attributed to James the Brother of the Lord.” <em>JTS</em> 8 (1907): 240–48 (edition and translation of the Paris fragment).</p>",
+      "line_text": "Winstedt, Eric O. “A Coptic Fragment Attributed to James the Brother of the Lord.” JTS 8 (1907): 240–48 (edition and translation of the Paris fragment).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1960, fols. 82<sup>v</sup>–101<sup>v </sup>(18th cent.)</p>",
+      "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1960, fols. 82v–101v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 687, fols. 1<sup>r</sup>–4<sup>r</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 687, fols. 1r–4r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.archive.org/details/cu31924026887780\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. Wallis. <em>Coptic Apocrypha in the Dialect of Upper Egypt</em>. London: Oxford University Press, 1913 (translation of the London manuscript, pp. 335–51).</p>",
+      "line_text": "Budge, E. A. Wallis. Coptic Apocrypha in the Dialect of Upper Egypt. London: Oxford University Press, 1913 (translation of the London manuscript, pp. 335–51).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://www.archive.org/details/cu31924026887780"
+      ]
+    },
+    {
+      "line_html": "<p>Tite, Philip L. “Encomium on John the Baptist.” Pages 217–46 vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (introduction with translation).</p>",
+      "line_text": "Tite, Philip L. “Encomium on John the Baptist.” Pages 217–46 vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (introduction with translation).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Boud’hors, Anne. “Éloge de Jean-Baptiste.” Pages 1555–78 in in vol. 1 of <em>Écrits apocryphes chrétiens</em>. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997.</p>",
+      "line_text": "Boud’hors, Anne. “Éloge de Jean-Baptiste.” Pages 1555–78 in in vol. 1 of Écrits apocryphes chrétiens. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Till, Walter C. “Johannes der Taüfer in der koptischen Literatur.” <em>Mitteilungen des Deutschen Archäologischen Instituts Abteilung Kairo</em> 15 (1958): 310–32 (translation of the London manuscript, pp. 322–32).</p>",
+      "line_text": "Till, Walter C. “Johannes der Taüfer in der koptischen Literatur.” Mitteilungen des Deutschen Archäologischen Instituts Abteilung Kairo 15 (1958): 310–32 (translation of the London manuscript, pp. 322–32).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Barry, Phillips. “The Magic Boat.” <em>Journal of American Folklore</em> 28.108 (1915): 195–98.</p>",
+      "line_text": "Barry, Phillips. “The Magic Boat.” Journal of American Folklore 28.108 (1915): 195–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Neyrey, Jerome H. “Encomium versus Vituperation: Contrasting Portraits of Jesus in the Fourth Gospel.” <em>JBL</em> 126.3 (2007): 529–52.</p>",
+      "line_text": "Neyrey, Jerome H. “Encomium versus Vituperation: Contrasting Portraits of Jesus in the Fourth Gospel.” JBL 126.3 (2007): 529–52.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Smith, Mark. <em>Traversing Eternity: Texts for the Afterlife from Ptolemaic and Roman Egypt</em>. Oxford/New York: Oxford University Press, 2009.</p>",
+      "line_text": "Smith, Mark. Traversing Eternity: Texts for the Afterlife from Ptolemaic and Roman Egypt. Oxford/New York: Oxford University Press, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (esp. pp. 81–82).</p>",
+      "line_text": "Suciu, Alin. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (esp. pp. 81–82).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tite, Philip L. “Body Parts Abound! The Soteriological Significance of Adam’s Traveling Head in the Coptic <em>Encomium of John the Baptist</em>,” paper presented at the AAR/SBL Pacific Northwest Regional meeting, Seattle University, Seattle WA, 2013.</p>",
+      "line_text": "Tite, Philip L. “Body Parts Abound! The Soteriological Significance of Adam’s Traveling Head in the Coptic Encomium of John the Baptist,” paper presented at the AAR/SBL Pacific Northwest Regional meeting, Seattle University, Seattle WA, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

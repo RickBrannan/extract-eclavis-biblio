@@ -1,0 +1,593 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-barnabas/",
+  "nasscal_toc_title": "Gospel of Barnabas",
+  "filename": "gospel-of-barnabas",
+  "latin_title": "Euangelium Barnabae italicum",
+  "abbrev": "Gos. Barn.",
+  "clavis_number": 799,
+  "category": "Ministry Gospels",
+  "compiler": "Lilian Al-Assadi Al-Radi",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-2662/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 2662 (16th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 2662 (16th cent.)",
+      "language": "Italian",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-2662/"
+      ]
+    },
+    {
+      "line_html": "<p>John Frederick Cramer found the manuscript probably in the library of Gregorio Leti, and he gave it to Prince Eugene of Savoy in 1713; after his death in 1738 it was given to the Austrian National Library.</p>",
+      "line_text": "John Frederick Cramer found the manuscript probably in the library of Gregorio Leti, and he gave it to Prince Eugene of Savoy in 1713; after his death in 1738 it was given to the Austrian National Library.",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/thegospelofbarn00unknuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ragg, Lonsdale and Laura Ragg. <em>The Gospel of Barnabas Edited and Translated from the Italian MS. in the Imperial Library at Vienna</em>. Oxford: Clarendon Press, 1907 (<em>editio princeps</em> with English translation).</p>",
+      "line_text": "Ragg, Lonsdale and Laura Ragg. The Gospel of Barnabas Edited and Translated from the Italian MS. in the Imperial Library at Vienna. Oxford: Clarendon Press, 1907 (editio princeps with English translation).",
+      "language": "Italian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/thegospelofbarn00unknuoft"
+      ]
+    },
+    {
+      "line_html": "<p>Cirillo, Luigi and Michel Frémaux. É<em>vangile de Barnabé: recherches sur la composition et l’origine. </em>Paris: Beauchesne, 1977 (re-edition and translation of the Italian text with facsimile and French Translation). Republished in light of rediscovery of Spanish manuscript as <i>Évangile de Barnabé: Fac-simile, traduction et notes. </i>Paris: Beauchesne, 1999.</p>",
+      "line_text": "Cirillo, Luigi and Michel Frémaux. Évangile de Barnabé: recherches sur la composition et l’origine. Paris: Beauchesne, 1977 (re-edition and translation of the Italian text with facsimile and French Translation). Republished in light of rediscovery of Spanish manuscript as Évangile de Barnabé: Fac-simile, traduction et notes. Paris: Beauchesne, 1999.",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Giustolisi, Eugenio and Giuseppe Rizzardi. <i>Il vangelo di Barnaba. Un vangelo per i musulmani?</i> Milan: Istituto Propaganda Libraria, 1991 (re-edition of the Italian manuscript with modern Italian translation).</p>",
+      "line_text": "Giustolisi, Eugenio and Giuseppe Rizzardi. Il vangelo di Barnaba. Un vangelo per i musulmani? Milan: Istituto Propaganda Libraria, 1991 (re-edition of the Italian manuscript with modern Italian translation).",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Private collection of George Holme, Rector of Headley in Hampshire (1676–1765). An English translation was made by Thomas Monkhouse of Queen’s College, who lent both text and translation to Joseph White. Three passages quoted in Spanish in Sale and nine chapters in English by White. No trace is known of the manuscript since Monkhouse’s death in 1792.</p>",
+      "line_text": "Private collection of George Holme, Rector of Headley in Hampshire (1676–1765). An English translation was made by Thomas Monkhouse of Queen’s College, who lent both text and translation to Joseph White. Three passages quoted in Spanish in Sale and nine chapters in English by White. No trace is known of the manuscript since Monkhouse’s death in 1792.",
+      "language": "Spanish",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sydney, Fisher Library, University of Sydney, Nicholson 41 (18th cent.). A partial copy (chs. 1–120 only) of the lost Spanish manuscript</p>",
+      "line_text": "Sydney, Fisher Library, University of Sydney, Nicholson 41 (18th cent.). A partial copy (chs. 1–120 only) of the lost Spanish manuscript",
+      "language": "Spanish",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Pons, Luis F. Bernabé. <em>El texto morisco dei Evangelio de san Barnabé.</em> Biblioteca Chronica nova de Estudios Historicos 57. Granada: Universidad de Granada, 1998 (based on the Spanish manuscript, with <span id=\"result_box\" class=\"\" lang=\"en\">chs. <span class=\"\">120–199 from the Italian).</span></span></p>",
+      "line_text": "Pons, Luis F. Bernabé. El texto morisco dei Evangelio de san Barnabé. Biblioteca Chronica nova de Estudios Historicos 57. Granada: Universidad de Granada, 1998 (based on the Spanish manuscript, with chs. 120–199 from the Italian).",
+      "language": "Spanish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/in.ernet.dli.2015.217721\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Sale, George. <em>The Koran: Preliminary Discourse.</em> 2 vols. London: Frederick Warne &amp; Co., 1734 (vol. 1, pp. ix–x, 51, 82–83).</p>",
+      "line_text": "Sale, George. The Koran: Preliminary Discourse. 2 vols. London: Frederick Warne &amp; Co., 1734 (vol. 1, pp. ix–x, 51, 82–83).",
+      "language": "Spanish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/in.ernet.dli.2015.217721"
+      ]
+    },
+    {
+      "line_html": "<p>White, <a href=\"https://archive.org/details/sermonspreachedb1793whit\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Joseph. <i>Sermons preached before the University of Oxford, in the year 1784, at the lecture founded by the Rev. John Bampton, M.A., late Canon of Salisbury : to which is now added, a sermon, preached before the University of Oxford, July 4, 1784</i>. Boston: William Greenough, 1793 (chs. 96 and 97, notes pp. xxvii–xxix, chs. 216–22, pp. xlv–l).</p>",
+      "line_text": "White, Joseph. Sermons preached before the University of Oxford, in the year 1784, at the lecture founded by the Rev. John Bampton, M.A., late Canon of Salisbury : to which is now added, a sermon, preached before the University of Oxford, July 4, 1784. Boston: William Greenough, 1793 (chs. 96 and 97, notes pp. xxvii–xxix, chs. 216–22, pp. xlv–l).",
+      "language": "Spanish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sermonspreachedb1793whit"
+      ]
+    },
+    {
+      "line_html": "<p>Sa‘āda, Khalil, trans. <em>Indjil Birn</em><em>ā</em><em>b</em><em>ā</em><em>.</em> Cairo, 1907 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Sa‘āda, Khalil, trans. Indjil Birnābā. Cairo, 1907 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Arabic",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/thegospelofbarn00unknuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ragg, Lonsdale and Laura Ragg. <em>The Gospel of Barnabas Edited and Translated from the Italian MS. in the Imperial Library at Vienna</em>. Oxford: Clarendon Press, 1907 (<em>editio princeps</em> with English translation).</p>",
+      "line_text": "Ragg, Lonsdale and Laura Ragg. The Gospel of Barnabas Edited and Translated from the Italian MS. in the Imperial Library at Vienna. Oxford: Clarendon Press, 1907 (editio princeps with English translation).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/thegospelofbarn00unknuoft"
+      ]
+    },
+    {
+      "line_html": "<p>Rahim, M. A. <em>The Gospel of Barnabas.</em> Karachi, Pakistan: Begum Aisha Bawany Wakf, 1973 (a reproduction of Ragg and Ragg with new introduction by Rahim).</p>",
+      "line_text": "Rahim, M. A. The Gospel of Barnabas. Karachi, Pakistan: Begum Aisha Bawany Wakf, 1973 (a reproduction of Ragg and Ragg with new introduction by Rahim).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Yusseff, M. A.<em> The Gospel of Barnabas, Notes and Commentary</em>. Indianapolis, IN: American Trust, 1991 (using Ragg and Ragg’s text; available in multiple editions).</p>",
+      "line_text": "Yusseff, M. A. The Gospel of Barnabas, Notes and Commentary. Indianapolis, IN: American Trust, 1991 (using Ragg and Ragg’s text; available in multiple editions).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Cirillo, Luigi and Michel Frémaux. É<em>vangile de Barnabé: recherches sur la composition et l’origine. </em>Paris: Beauchesne, 1977 (re-edition and translation of the Italian text with fascimile and French Translation). Republished in light of rediscovery of Spanish manuscript as <i>Évangile de Barnabé: Fac-simile, traduction et notes. </i>Paris: Beauchesne, 1999.</p>",
+      "line_text": "Cirillo, Luigi and Michel Frémaux. Évangile de Barnabé: recherches sur la composition et l’origine. Paris: Beauchesne, 1977 (re-edition and translation of the Italian text with fascimile and French Translation). Republished in light of rediscovery of Spanish manuscript as Évangile de Barnabé: Fac-simile, traduction et notes. Paris: Beauchesne, 1999.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Alhabsy, Husain Abubakar and Abubakar Basymeleh, trans. <em>Indjil Barnabas</em>. Bandund, 1970 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Alhabsy, Husain Abubakar and Abubakar Basymeleh, trans. Indjil Barnabas. Bandund, 1970 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Indonesian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Affandie, J. Bakhtiar, trans. <em>Indjil Barnaba</em>. Djakarta, 1969 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Affandie, J. Bakhtiar, trans. Indjil Barnaba. Djakarta, 1969 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Indonesian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Drewes, B. and Jan Slomp, trans. <em>Seluk beluk buku yang disebut Injil Barnabas.</em> Jakarta, BPK Gunung Mulia (Protestant) and Penerbit Kanisius (Catholic), 1983 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Drewes, B. and Jan Slomp, trans. Seluk beluk buku yang disebut Injil Barnabas. Jakarta, BPK Gunung Mulia (Protestant) and Penerbit Kanisius (Catholic), 1983 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Indonesian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Giustolisi, Eugenio and Giuseppe Rizzardi. <i>Il vangelo di Barnaba. Un vangelo per i musulmani?</i> Milan: Istituto Propaganda Libraria, 1991 (re-edition of the Italian manuscript with modern Italian translation).</p>",
+      "line_text": "Giustolisi, Eugenio and Giuseppe Rizzardi. Il vangelo di Barnaba. Un vangelo per i musulmani? Milan: Istituto Propaganda Libraria, 1991 (re-edition of the Italian manuscript with modern Italian translation).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Linges, Safiyya M. <em>Das Barnabas Evangelium. </em>Bonndorf: Turban Verlag, 1994 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Linges, Safiyya M. Das Barnabas Evangelium. Bonndorf: Turban Verlag, 1994 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Benson, R. <em>Incil-i-Barnba Bilimsel bir Arastirma.</em> Istanbul, 1995 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Benson, R. Incil-i-Barnba Bilimsel bir Arastirma. Istanbul, 1995 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Turkish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Mukadir, M. Amin, trans. <em>Indjil Barnab</em><em>ās ka Urdu tardjama</em><em>. </em>Okarah, 1916 (translation of Ragg and Ragg’s edition of the Italian manuscript).</p>",
+      "line_text": "Mukadir, M. Amin, trans. Indjil Barnabās ka Urdu tardjama. Okarah, 1916 (translation of Ragg and Ragg’s edition of the Italian manuscript).",
+      "language": "Urdu",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Axon, William. “On the Mohammedan Gospel of Barnabas.” <em>JTS </em>3 (1902): 441–51.</p>",
+      "line_text": "Axon, William. “On the Mohammedan Gospel of Barnabas.” JTS 3 (1902): 441–51.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bergema, H. “Het evangelie naar Barnabas.” Pages 91–110 in <em>Christusprediking in de wereld Studiën op het terrein van de zendingswetenschap gewijd aan de nagedachtenis van Johan Herman Bavinck</em>. Edited by J. van den Berg. Kampen: Kok, 1965.</p>",
+      "line_text": "Bergema, H. “Het evangelie naar Barnabas.” Pages 91–110 in Christusprediking in de wereld Studiën op het terrein van de zendingswetenschap gewijd aan de nagedachtenis van Johan Herman Bavinck. Edited by J. van den Berg. Kampen: Kok, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Blackhirst, Rodney. “Barnabas and the Gospels: Was There an Early Gospel of Barnabas?” <em>Journal of Higher Criticism</em> 7.1 (2000): 1–22.</p>",
+      "line_text": "Blackhirst, Rodney. “Barnabas and the Gospels: Was There an Early Gospel of Barnabas?” Journal of Higher Criticism 7.1 (2000): 1–22.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Temptation in the Wilderness in the Medieval Gospel of Barnabas.” <em>Journal of Higher Criticism</em> 6.1 (1999): 83–97.</p>",
+      "line_text": "__________. “The Temptation in the Wilderness in the Medieval Gospel of Barnabas.” Journal of Higher Criticism 6.1 (1999): 83–97.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Sedition in Judaea: The Symbolism of Mizpah in the Gospel of Barnabas</em>. Studies in Western Traditions Occasional Papers 3. Bendigo: School of Arts, La Trobe University of Bendigo, 1996.</p>",
+      "line_text": "__________. Sedition in Judaea: The Symbolism of Mizpah in the Gospel of Barnabas. Studies in Western Traditions Occasional Papers 3. Bendigo: School of Arts, La Trobe University of Bendigo, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bowman, John. “The Gospel of Barnabas and the Samaritans.” <em>ANES</em> 30 (1992): 20–33</p>",
+      "line_text": "Bowman, John. “The Gospel of Barnabas and the Samaritans.” ANES 30 (1992): 20–33",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.muhammadanism.org/campbell/barnabas_letter_format.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Campbell, William F. <em>The Gospel of Barnabas: Its True Value.</em> Rawalpindi: Christian Study Centre, 1989</p>",
+      "line_text": "Campbell, William F. The Gospel of Barnabas: Its True Value. Rawalpindi: Christian Study Centre, 1989",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.muhammadanism.org/campbell/barnabas_letter_format.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Cannon III, James. “The Gospel of Barnabas.” <em>The Moslem World</em> 32 (1942): 167-78.</p>",
+      "line_text": "Cannon III, James. “The Gospel of Barnabas.” The Moslem World 32 (1942): 167-78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cirillo, Luigi. “Le Pseudo-Clementine e il Vangelo di Barnaba della bibliotheca nazaionale di Vienna.” <em>Asprenas</em> 18 (1971): 333-69.</p>",
+      "line_text": "Cirillo, Luigi. “Le Pseudo-Clementine e il Vangelo di Barnaba della bibliotheca nazaionale di Vienna.” Asprenas 18 (1971): 333-69.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Clohessy, Christopher P. “The Gospel of Barnabas: A Précis.” <em>Encounter</em> 295 (2003): 291–300.</p>",
+      "line_text": "Clohessy, Christopher P. “The Gospel of Barnabas: A Précis.” Encounter 295 (2003): 291–300.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://biblicalstudies.org.uk/pdf/vox/vol10/barnabas_cotterell.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cotterell, F. P. “The Gospel of Barnabas.” <em>VE</em> 10 (1977): 43–47.</p>",
+      "line_text": "Cotterell, F. P. “The Gospel of Barnabas.” VE 10 (1977): 43–47.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://biblicalstudies.org.uk/pdf/vox/vol10/barnabas_cotterell.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Durrani, M. H. <em>The Forgotten Gospel of St. Barnabas.</em> Karachi: International Islamic Publishers, 1982.</p>",
+      "line_text": "Durrani, M. H. The Forgotten Gospel of St. Barnabas. Karachi: International Islamic Publishers, 1982.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Epalza, Mikel de. “Garcia Gómez und die Autorschaft des Barnabas-Evangeliums.” <em>Religionen im Gespräch</em> 6 (2000): 10–13.</p>",
+      "line_text": "Epalza, Mikel de. “Garcia Gómez und die Autorschaft des Barnabas-Evangeliums.” Religionen im Gespräch 6 (2000): 10–13.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Le milieu hispano-moresque de l’Evangile islamisant de Barnabé (XVI-XVIIe s.).” <em>Islamochristiana</em> 8 (1982): 159–83.</p>",
+      "line_text": "__________. “Le milieu hispano-moresque de l’Evangile islamisant de Barnabé (XVI-XVIIe s.).” Islamochristiana 8 (1982): 159–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Erhorn, Daniel A. <em>Das Barnabas Evangelium und die Wiederentdeckung des Judenchristentums.</em> Lympia/Cyprus: Spohr, 2018.</p>",
+      "line_text": "Erhorn, Daniel A. Das Barnabas Evangelium und die Wiederentdeckung des Judenchristentums. Lympia/Cyprus: Spohr, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11284412?q=%28Codex+Apocryphus+Novi+Testamenti%29&amp;page=384\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 3 vols. 2nd ed. Hamburg: Schiller, 1719 (excerpts and testimonia, vol. 3, pp. 366–94).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 3 vols. 2nd ed. Hamburg: Schiller, 1719 (excerpts and testimonia, vol. 3, pp. 366–94).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11284412?q=%28Codex+Apocryphus+Novi+Testamenti%29&page=384"
+      ]
+    },
+    {
+      "line_html": "<p>Fletcher, J. E. “The Spanish Gospel of Barnabas.” <em>NovT</em> 18 (1976): 314–20.</p>",
+      "line_text": "Fletcher, J. E. “The Spanish Gospel of Barnabas.” NovT 18 (1976): 314–20.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gairdner, W. H. T. and S. Abdul-Ahad. <em>The Gospel of Barnabas: An Essay and Enquiry.</em> Hyderabad, India: Henry Martyn Institute of Islamic Studies, 1975.</p>",
+      "line_text": "Gairdner, W. H. T. and S. Abdul-Ahad. The Gospel of Barnabas: An Essay and Enquiry. Hyderabad, India: Henry Martyn Institute of Islamic Studies, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://answering-islam.org/Gilchrist/barnabas.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gilchrist, John D. <em>Origins and Sources of the Gospel of Barnabas</em>. Durban, South Africa: 1980.</p>",
+      "line_text": "Gilchrist, John D. Origins and Sources of the Gospel of Barnabas. Durban, South Africa: 1980.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://answering-islam.org/Gilchrist/barnabas.html"
+      ]
+    },
+    {
+      "line_html": "<p>Jadeed, Iskandar. <em>The Gospel of Barnabas: A False Testimony.</em> Rikon, Switzerland: The Good Way, 1980.</p>",
+      "line_text": "Jadeed, Iskandar. The Gospel of Barnabas: A False Testimony. Rikon, Switzerland: The Good Way, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hollander, A. den and U. Schmid. “The Gospel of Barnabas, the Diatessaron, and Method.” <em>VC</em> 61 (2017): 1–20.</p>",
+      "line_text": "Hollander, A. den and U. Schmid. “The Gospel of Barnabas, the Diatessaron, and Method.” VC 61 (2017): 1–20.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jenkins, Philip. “Gospel of Barnabas.” Pages 38–57 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Jenkins, Philip. “Gospel of Barnabas.” Pages 38–57 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.christiancentury.org/column/voices/gospel-admits-it-s-false-prophecy\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “A gospel that admits it’s a false prophecy.” Christian Century. Posted 5 September 2023. Online: https://www.christiancentury.org/column/voices/gospel-admits-it-s-false-prophecy.</p>",
+      "line_text": "__________. “A gospel that admits it’s a false prophecy.” Christian Century. Posted 5 September 2023. Online: https://www.christiancentury.org/column/voices/gospel-admits-it-s-false-prophecy.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.christiancentury.org/column/voices/gospel-admits-it-s-false-prophecy"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.editions-beauchesne.com/product_reviews_info.php?products_id=115&amp;reviews_id=312\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jomier, Jaques. “A propos d’un apocryphe. L’Évangile selon Barnabé.” <em>Esprit et Vie</em> 22 (1999): 481–86.</p>",
+      "line_text": "Jomier, Jaques. “A propos d’un apocryphe. L’Évangile selon Barnabé.” Esprit et Vie 22 (1999): 481–86.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.editions-beauchesne.com/product_reviews_info.php?products_id=115&reviews_id=312"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “Une énigme persistante: L’Évangile dit de Barnabé.” <em>MIDEO</em> 14 (1980): 45–81.</p>",
+      "line_text": "__________. “Une énigme persistante: L’Évangile dit de Barnabé.” MIDEO 14 (1980): 45–81.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “L’Évangile selon Barnabé.” <em>MIDEO</em> 6 (1959–1961): 137–226.</p>",
+      "line_text": "__________. “L’Évangile selon Barnabé.” MIDEO 6 (1959–1961): 137–226.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Joosten, Jan. “The Date and Provenance of the Gospel of Barnabas.” <em>JTS</em> 61 (2010): 200–15.</p>",
+      "line_text": "Joosten, Jan. “The Date and Provenance of the Gospel of Barnabas.” JTS 61 (2010): 200–15.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Gospel of Barnabas and the Diatessaron. A Critical Essay.” <em>HTR</em> 95.1 (2002): 73–96.</p>",
+      "line_text": "__________. “The Gospel of Barnabas and the Diatessaron. A Critical Essay.” HTR 95.1 (2002): 73–96.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Jésus et l’aveugle-né (Jn, 9-34) dans l’Évangile de Barnabas et dans le Diatessaron.” <em>RHPR</em> 80 (2000): 359–69.</p>",
+      "line_text": "__________. “Jésus et l’aveugle-né (Jn, 9-34) dans l’Évangile de Barnabas et dans le Diatessaron.” RHPR 80 (2000): 359–69.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kollmann, Bernd. <em>Joseph Barnabas: His Life and Legacy.</em> Translated by Miranda Henry. Collegeville: Liturgical Press, 2004 (esp. pp. 59–60).</p>",
+      "line_text": "Kollmann, Bernd. Joseph Barnabas: His Life and Legacy. Translated by Miranda Henry. Collegeville: Liturgical Press, 2004 (esp. pp. 59–60).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Koningsveld, Pieter S. van. “The Islamic Image of Paul and the Origin of the Gospel of Barnabas.” <em>JSAI</em> 20 (1996): 200–28.</p>",
+      "line_text": "Koningsveld, Pieter S. van. “The Islamic Image of Paul and the Origin of the Gospel of Barnabas.” JSAI 20 (1996): 200–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kritzinger, J. N. J. <em>A Critical Study of the Gospel of Barnabas.</em> Benoni, South Africa: Jesus to the Muslims, 1979.</p>",
+      "line_text": "Kritzinger, J. N. J. A Critical Study of the Gospel of Barnabas. Benoni, South Africa: Jesus to the Muslims, 1979.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>The Gospel of Barnabas Carefully Examined.</em> Pretoria, South Africa, 1975.</p>",
+      "line_text": "__________. The Gospel of Barnabas Carefully Examined. Pretoria, South Africa, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Linges, Safiyya M. <i>Das Barnabas Evangelium: </i><em><span id=\"productTitle\" class=\"a-size-large\">Wahres Evangelium Jesu, genannt Christus, eines neuen Propheten, von Gott der Welt gesandt gemäss dem Bericht des Barnabas, seines Apostels. </span></em> Boondorf: Turban Verlag, 1994.</p>",
+      "line_text": "Linges, Safiyya M. Das Barnabas Evangelium: Wahres Evangelium Jesu, genannt Christus, eines neuen Propheten, von Gott der Welt gesandt gemäss dem Bericht des Barnabas, seines Apostels.  Boondorf: Turban Verlag, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kvalvaag, Robert W. “Barnabasevangeliet og det muslimske synet på Jesus.” <em>Norsk Tidsskrift for Misjon</em> 52.4 (1998): 231–50.</p>",
+      "line_text": "Kvalvaag, Robert W. “Barnabasevangeliet og det muslimske synet på Jesus.” Norsk Tidsskrift for Misjon 52.4 (1998): 231–50.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=FXjOBAAAQBAJ&amp;pg=PT377&amp;lpg=PT377&amp;dq=islamochristiana+slomp&amp;source=bl&amp;ots=0gQTLrx1N-&amp;sig=kEOrOPwU27PzgErZ4tTxmNLKHBU&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiv7cGwjOzaAhWh44MKHcU9BSQQ6AEIPTAD#v=onepage&amp;q=islamochristiana%20slomp&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Leirvik, Oddbjørn. <em>Images of Christ in Islam. </em>2nd ed. London: Continuum, 2010.<em><br/></em></p>",
+      "line_text": "Leirvik, Oddbjørn. Images of Christ in Islam. 2nd ed. London: Continuum, 2010.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=FXjOBAAAQBAJ&pg=PT377&lpg=PT377&dq=islamochristiana+slomp&source=bl&ots=0gQTLrx1N-&sig=kEOrOPwU27PzgErZ4tTxmNLKHBU&hl=en&sa=X&ved=0ahUKEwiv7cGwjOzaAhWh44MKHcU9BSQQ6AEIPTAD#v=onepage&q=islamochristiana%20slomp&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “History as a Literary Weapon: The Gospel of Barnabas in Muslim-Christian Polemics.” <em>ST </em>56 (2002): 123–34.</p>",
+      "line_text": "__________. “History as a Literary Weapon: The Gospel of Barnabas in Muslim-Christian Polemics.” ST 56 (2002): 123–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peerbhai, Adam. <em>World Seminar on the Gospel of Barnabas.</em> Cape Town, South Africa: Al-Jihaad International Islamic Movement, 1975.</p>",
+      "line_text": "Peerbhai, Adam. World Seminar on the Gospel of Barnabas. Cape Town, South Africa: Al-Jihaad International Islamic Movement, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>__________. Missing Documents from Gospel of Barnabas.</em> Durban, South Africa: Islamic Institute, 1967.</p>",
+      "line_text": "__________. Missing Documents from Gospel of Barnabas. Durban, South Africa: Islamic Institute, 1967.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Philonenko, Marc. “Une tradition essénienne dans l’Évangile de Barnabas.” Pages 191–95 in <em>Mélanges d’histoire des réligions offerts à Henri-charles Puech.</em> Paris: Presses Universitaires de France, 1974.</p>",
+      "line_text": "Philonenko, Marc. “Une tradition essénienne dans l’Évangile de Barnabas.” Pages 191–95 in Mélanges d’histoire des réligions offerts à Henri-charles Puech. Paris: Presses Universitaires de France, 1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pons, Luis F. Bernabé. “Zur Wahrheit und Echtheit des Barnabasevangeliums.” Religionen im Gespräch 4 (1996): 133–38.</p>",
+      "line_text": "Pons, Luis F. Bernabé. “Zur Wahrheit und Echtheit des Barnabasevangeliums.” Religionen im Gespräch 4 (1996): 133–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pulcini, Theodore. “In the Shadow of Mount Carmel: The Collapse of the ‘Latin East’ and the Origins of the Gospel of Barnabas.” <em>ICMR</em> 12 (2001): 191–211.</p>",
+      "line_text": "Pulcini, Theodore. “In the Shadow of Mount Carmel: The Collapse of the ‘Latin East’ and the Origins of the Gospel of Barnabas.” ICMR 12 (2001): 191–211.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ragg, Lonsdale. “Dante and the ‘Gospel of Barnabas.’” <em>Modern Language Review</em> 3 (1908): 157–65.</p>",
+      "line_text": "Ragg, Lonsdale. “Dante and the ‘Gospel of Barnabas.’” Modern Language Review 3 (1908): 157–65.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “The Mohammedan ‘Gospel of Barnabas.’” <em>JTS</em> 23 (1905): 424–33.</p>",
+      "line_text": "_________. “The Mohammedan ‘Gospel of Barnabas.’” JTS 23 (1905): 424–33.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.salon.com/2014/05/29/muslim_gospel_excites_da_vinci_code_conspiracists_partner/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Reed, Annette Yoshiko. “‘Muslim Gospel’ excites ‘Da Vinci Code’ conspiracists.” <em>Salon</em>. Posted 29 May 2014. Online: https://www.salon.com/2014/05/29/muslim_gospel_excites_da_vinci_code_conspiracists_partner/.</p>",
+      "line_text": "Reed, Annette Yoshiko. “‘Muslim Gospel’ excites ‘Da Vinci Code’ conspiracists.” Salon. Posted 29 May 2014. Online: https://www.salon.com/2014/05/29/muslim_gospel_excites_da_vinci_code_conspiracists_partner/.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.salon.com/2014/05/29/muslim_gospel_excites_da_vinci_code_conspiracists_partner/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://religiondispatches.org/muslim-gospel-revealing-the-christian-truth-excites-the-da-vinci-code-set/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>_________. “‘Muslim Gospel’ Revealing the ‘Christian Truth’ Excites the <em>Da Vinci Code</em> Set.” Religion Dispatches. Posted 22 May 2014. Online: https://religiondispatches.org/muslim-gospel-revealing-the-christian-truth-excites-the-da-vinci-code-set/.</p>",
+      "line_text": "_________. “‘Muslim Gospel’ Revealing the ‘Christian Truth’ Excites the Da Vinci Code Set.” Religion Dispatches. Posted 22 May 2014. Online: https://religiondispatches.org/muslim-gospel-revealing-the-christian-truth-excites-the-da-vinci-code-set/.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://religiondispatches.org/muslim-gospel-revealing-the-christian-truth-excites-the-da-vinci-code-set/"
+      ]
+    },
+    {
+      "line_html": "<p>Ritter, S. <em>Der Ausgang des Lebens Jesu nach dem Barnabasevangelium.</em> Tübingen, 1998.</p>",
+      "line_text": "Ritter, S. Der Ausgang des Lebens Jesu nach dem Barnabasevangelium. Tübingen, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ryad, Umar.<em> Islamic Reformism and Christianity.</em> Leiden: Brill, 2009 (discussion of Arabic translation made by Islamic reformer Rashid Rida in 1908, pp. 213–42).</p>",
+      "line_text": "Ryad, Umar. Islamic Reformism and Christianity. Leiden: Brill, 2009 (discussion of Arabic translation made by Islamic reformer Rashid Rida in 1908, pp. 213–42).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span id=\"result_box\" class=\"\" lang=\"en\">Schirrmacher, Christine.</span>“Das ‘Evangelium des Barnabas.’ Hintergründe einer Polemik.” <em>Religionen Unterwegs</em> 6 (2000): 10–13.</p>",
+      "line_text": "Schirrmacher, Christine.“Das ‘Evangelium des Barnabas.’ Hintergründe einer Polemik.” Religionen Unterwegs 6 (2000): 10–13.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. <span id=\"result_box\" class=\"\" lang=\"en\"> <em>Mit den Waffen des Gegners.</em> Islamkundliche Untersuchungen 162. Berlin: Klaus Schwarz Verlag, Berlin, 1992 (<span title=\"elle y décrit les polémiques islamo-chrétiennes en Inde et en Égypte, surtout à partir de 1850 et jusqu'à la fin du XXe siècle.\">see pp. 241–425).</span></span></p>",
+      "line_text": "_________.  Mit den Waffen des Gegners. Islamkundliche Untersuchungen 162. Berlin: Klaus Schwarz Verlag, Berlin, 1992 (see pp. 241–425).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Slomp, Jan. “Das Barnabasevangelium – zur Forschungslage.” <em>Religionen im Gespräch</em> 5 (1998): 625-25.</p>",
+      "line_text": "Slomp, Jan. “Das Barnabasevangelium – zur Forschungslage.” Religionen im Gespräch 5 (1998): 625-25.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.chrislages.de/barnarom.htm\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>____________. “The ‘Gospel of Barnabas’ in Recent Research.” <em>Islamochristiana</em> 23 (1997): 81–109.</p>",
+      "line_text": "____________. “The ‘Gospel of Barnabas’ in Recent Research.” Islamochristiana 23 (1997): 81–109.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.chrislages.de/barnarom.htm"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.africafundacion.org/encuentro_islam/Documentos/1980/Encuentro_103.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>____________. “El Seudoevangelio de Bernabe.” <em>Encuentro: Documentos para el entendimiento Islamo-Christiano</em> 103 (1980): 1–15.</p>",
+      "line_text": "____________. “El Seudoevangelio de Bernabe.” Encuentro: Documentos para el entendimiento Islamo-Christiano 103 (1980): 1–15.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.africafundacion.org/encuentro_islam/Documentos/1980/Encuentro_103.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>____________. “The Gospel in Dispute (A Critical Evaluation of the First Translation with Italian Text and Introduction of the So-Called Gospel of Barnabas.” <em>Islamochristiana</em> 4 (1978): 67–112.</p>",
+      "line_text": "____________. “The Gospel in Dispute (A Critical Evaluation of the First Translation with Italian Text and Introduction of the So-Called Gospel of Barnabas.” Islamochristiana 4 (1978): 67–112.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Pseudo-Gospel of Barnabas.” <em>Bulletin </em>11.1 (1976): 69–77.</p>",
+      "line_text": "__________. “The Pseudo-Gospel of Barnabas.” Bulletin 11.1 (1976): 69–77.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Pseudo-Barnabas in the Context of Muslim-Christian Apologetics.” <em>Al-Mushir</em> 16.1–3 (1974): 106–31.</p>",
+      "line_text": "__________. “Pseudo-Barnabas in the Context of Muslim-Christian Apologetics.” Al-Mushir 16.1–3 (1974): 106–31.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sox, David. <em>The Gospel of Barnabas. </em>London: George Allen &amp; Unwin, 1984.</p>",
+      "line_text": "Sox, David. The Gospel of Barnabas. London: George Allen &amp; Unwin, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/nazarenusorjewis00tola\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Toland, John. <em>Nazarenus: or Jewish, Gentile and Mahometan Christianity</em>. London: J. Brown, 1718.</p>",
+      "line_text": "Toland, John. Nazarenus: or Jewish, Gentile and Mahometan Christianity. London: J. Brown, 1718.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/nazarenusorjewis00tola"
+      ]
+    },
+    {
+      "line_html": "<p>Wiegers, Gerard A. “Gospel of Barnabas.” In <em>Encyclopedia of Islam.</em> 3rd ed. Edited by Kate Fleet et al. Leiden: Brill Online, 2013.</p>",
+      "line_text": "Wiegers, Gerard A. “Gospel of Barnabas.” In Encyclopedia of Islam. 3rd ed. Edited by Kate Fleet et al. Leiden: Brill Online, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “The Quest for the Religious and Historical Origins of a Forgery. Henry Corbin and the Gospel of Barnabas.” Pages 177–94 in <em>Henry Corbin. Philosophie et sagesses des religions du livre.</em> Edited by Mohammad Ali Amir-Moezzi, et al. Turnhout: Brepols, 2005.</p>",
+      "line_text": "_________. “The Quest for the Religious and Historical Origins of a Forgery. Henry Corbin and the Gospel of Barnabas.” Pages 177–94 in Henry Corbin. Philosophie et sagesses des religions du livre. Edited by Mohammad Ali Amir-Moezzi, et al. Turnhout: Brepols, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Mahoma visto como el Mesias. Comparación de las obras polémicas de Juan Alonso con el Evangelio de Bernabé.” <em>Ílu</em> 1 (1996): 127–222.</p>",
+      "line_text": "_________. “Mahoma visto como el Mesias. Comparación de las obras polémicas de Juan Alonso con el Evangelio de Bernabé.” Ílu 1 (1996): 127–222.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Muhammad as the Messiah: A Comparison of the Polemical Works of Juan Alonso with the Gospel of Barnabas.” <em>BO</em> 52.3/4 (1995): 245–92.</p>",
+      "line_text": "__________. “Muhammad as the Messiah: A Comparison of the Polemical Works of Juan Alonso with the Gospel of Barnabas.” BO 52.3/4 (1995): 245–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=t5rH2RwYSpIC&amp;pg=PA43&amp;lpg=PA43&amp;dq=gospel+of+barnabas+jan+slomp&amp;source=bl&amp;ots=WVSfr7gaGP&amp;sig=I4rTyTUOFZCHmyta0GIgerrFNEM&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiT3Zjz-OvaAhXl8YMKHTRvBMsQ6AEIYjAI#v=onepage&amp;q=gospel%20of%20barnabas%20jan%20slomp&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Yasin, Ibn. <em>The Authenticity of the Gospel of Barnabas.</em> Bloomington, IN: Xlibris, 2011.<em><br/></em></p>",
+      "line_text": "Yasin, Ibn. The Authenticity of the Gospel of Barnabas. Bloomington, IN: Xlibris, 2011.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=t5rH2RwYSpIC&pg=PA43&lpg=PA43&dq=gospel+of+barnabas+jan+slomp&source=bl&ots=WVSfr7gaGP&sig=I4rTyTUOFZCHmyta0GIgerrFNEM&hl=en&sa=X&ved=0ahUKEwiT3Zjz-OvaAhXl8YMKHTRvBMsQ6AEIYjAI#v=onepage&q=gospel%20of%20barnabas%20jan%20slomp&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Yusseff, M. A.<em> The Dead Sea Scrolls, the Gospel of Barnabas and the New Testament. </em>Indianapolis, IN: American Trust, 1985.</p>",
+      "line_text": "Yusseff, M. A. The Dead Sea Scrolls, the Gospel of Barnabas and the New Testament. Indianapolis, IN: American Trust, 1985.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

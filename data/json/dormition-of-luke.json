@@ -1,0 +1,168 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-luke/",
+  "nasscal_toc_title": "Dormition of Luke",
+  "filename": "dormition-of-luke",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Dorm. Luke",
+  "clavis_number": 883,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Izmir, Euaggelikē Scholē, A-04, item 28 (manuscript destroyed)</p>",
+      "line_text": "Izmir, Euaggelikē Scholē, A-04, item 28 (manuscript destroyed)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Coisl. 121, fols. 10<sup>v</sup>–11<sup>r</sup> (1342) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49265/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b52514434k\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coisl. 121, fols. 10v–11r (1342) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/49265/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b52514434k"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Paris, Bibliothèque nationale de France, gr. 881, fols. 279<sup>r</sup>–280<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 881, fols. 279r–280r (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1485/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Paris, Bibliothèque nationale de France, gr. 1485, fols. 33<sup>r</sup>–34<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1485, fols. 33r–34r (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1485/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Chig. R.VI.39, fols. 115<sup>r</sup>–116<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Chig. R.VI.39, fols. 115r–116v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 126<sup>r</sup>–127<sup>r </sup>(1542) (=BHG 992c)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 126r–127r (1542) (=BHG 992c)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 132<sup>r</sup>–134<sup>v </sup>(11th cent.) (=BHG 992b)</p>",
+      "line_text": "Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 132r–134v (11th cent.) (=BHG 992b)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_6PlEAAAAYAAJ/page/423/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Meyer, Philipp. “Zwei bislang ungedruckte Enkomiun auf den Evangelisten Lukas.” <em>Jahrbücher für protestantische Theologie</em> 16 (1890): 423–34 (Greek text based on Izmir A-4 and Paris, Coisl. 121, pp. 428–31).</p>",
+      "line_text": "Meyer, Philipp. “Zwei bislang ungedruckte Enkomiun auf den Evangelisten Lukas.” Jahrbücher für protestantische Theologie 16 (1890): 423–34 (Greek text based on Izmir A-4 and Paris, Coisl. 121, pp. 428–31).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_6PlEAAAAYAAJ/page/423/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>second text in article is John Chrysostom BHG 993</p>",
+      "line_text": "second text in article is John Chrysostom BHG 993",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>OTHER TEXTS</p>",
+      "line_text": "OTHER TEXTS",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 177<sup>r</sup>–178<sup>v</sup> (1039)</p>",
+      "line_text": "Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 177r–178v (1039)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ohrid, Naroden Muzej, 4, pp. 426–427 (10th cent.)</p>",
+      "line_text": "Ohrid, Naroden Muzej, 4, pp. 426–427 (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1485/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Paris, Bibliothèque nationale de France, gr. 1485, fols. 34<sup>r</sup>–34<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1485, fols. 34r–34v (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1485/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, St. Catherine’s Monastery, gr. 497, fols. 172<sup>v</sup>–173<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, gr. 497, fols. 172v–173v (10th/11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 101<sup>v</sup>, 92, 33 (11th cent.) ~ palimpsest</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 101v, 92, 33 (11th cent.) ~ palimpsest",
+      "language": "Life and Dormition",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_6PlEAAAAYAAJ/page/423/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Meyer, Philipp. “Zwei bislang ungedruckte Enkomiun auf den Evangelisten Lukas.” <em>Jahrbücher für protestantische Theologie</em> 16 (1890): 423–34 (Greek text based on Izmir A-4 and Paris, Coisl. 121, pp. 4318–34).</p>",
+      "line_text": "Meyer, Philipp. “Zwei bislang ungedruckte Enkomiun auf den Evangelisten Lukas.” Jahrbücher für protestantische Theologie 16 (1890): 423–34 (Greek text based on Izmir A-4 and Paris, Coisl. 121, pp. 4318–34).",
+      "language": "Encomium by John Chrysostom",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_6PlEAAAAYAAJ/page/423/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n367/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:362–63).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:362–63).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n367/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

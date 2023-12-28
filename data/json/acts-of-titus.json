@@ -1,0 +1,179 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-titus/",
+  "nasscal_toc_title": "Acts of Titus",
+  "filename": "acts-of-titus",
+  "latin_title": "Acta Titi",
+  "abbrev": "Acts Titus",
+  "alt_titles": [
+    "Vita Titi"
+  ],
+  "clavis_number": 702,
+  "category": "Apocryphal Acts",
+  "compiler": "Julia Snyder, Westcott House, Cambridge",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Menology 1 (the earliest recension), represented by two manuscripts:</p>",
+      "line_text": "Menology 1 (the earliest recension), represented by two manuscripts:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-548/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 548, fols. 192<sup>v</sup>–196<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 548, fols. 192v–196r (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-548/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-411/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 411, fols. 476<sup>v</sup>–480<sup>r </sup>(15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 411, fols. 476v–480r (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-411/"
+      ]
+    },
+    {
+      "line_html": "<p>Menology 2, represented by two manuscripts:</p>",
+      "line_text": "Menology 2, represented by two manuscripts:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, hist. gr. 45, fols. 260<sup>v</sup>–263<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 45, fols. 260v–263r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Benaki Museum, 141, fols. 205<sup>r</sup>–205<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8251/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Benaki Museum, 141, fols. 205r–205v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/8251/"
+      ]
+    },
+    {
+      "line_html": "<p>Halkin, Francois, “La légende crétoise de saint tite.” <em>AnBoll</em> 79 (1961): 241–56.</p>",
+      "line_text": "Halkin, Francois, “La légende crétoise de saint tite.” AnBoll 79 (1961): 241–56.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. “The Acts of Titus.” Pages 406–15 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016.</p>",
+      "line_text": "Pervo, Richard I. “The Acts of Titus.” Pages 406–15 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________. <em>The Acts of Paul: A New Translation and Commentary</em>. Eugene, OR: Cascade Books, 2014 (chs. 1–7 of <em>Acts Titus</em> reproduced p. 331–34).</p>",
+      "line_text": "__________. The Acts of Paul: A New Translation and Commentary. Eugene, OR: Cascade Books, 2014 (chs. 1–7 of Acts Titus reproduced p. 331–34).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________. “The Acts of Titus: A Preliminary Translation, with an Introduction and Notes.” Pages 455–82 in <em>SBL Seminar Papers</em>, 1996. Atlanta: Scholars Press: 1996.</p>",
+      "line_text": "__________. “The Acts of Titus: A Preliminary Translation, with an Introduction and Notes.” Pages 455–82 in SBL Seminar Papers, 1996. Atlanta: Scholars Press: 1996.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy. “Actes de Tite.” Pages 605–15 in volume 2 of <em>Écrits apocryphes chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Rordorf, Willy. “Actes de Tite.” Pages 605–15 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Czachesz, István, <em>Commission Narratives</em>. <em>A Comparative Study of the Canonical and Apocryphal Acts. </em>SECA 8. Leuven: Peeters, 2007 (see pp. 208–23).</p>",
+      "line_text": "Czachesz, István, Commission Narratives. A Comparative Study of the Canonical and Apocryphal Acts. SECA 8. Leuven: Peeters, 2007 (see pp. 208–23).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, Neil, and Mark Reasoners, eds. <em>Documents and Images for the Study of Paul. </em>Minneapolis: Fortress, 2011 (see pp. 337–40).</p>",
+      "line_text": "Elliott, Neil, and Mark Reasoners, eds. Documents and Images for the Study of Paul. Minneapolis: Fortress, 2011 (see pp. 337–40).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Guignard, Christophe. “Une légende non crétoise de saint Tite?” <em>Ephemerides theologicae Lovanienses</em> 92 (2016): 487–504.</p>",
+      "line_text": "Guignard, Christophe. “Une légende non crétoise de saint Tite?” Ephemerides theologicae Lovanienses 92 (2016): 487–504.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hartmann, Michael. “Vom Paulusbegleiter zum ‘Kalenderheiligen.’ Rezeptionsgeschichtliche Beobachtungen zu Titus in der apokryphen Literatur.” In <em>Ein Meisterschüler: Titus und sein Brief. Michael Theobald zum 60. Geburtstag, </em>edited by Hans-Ulrich Weidemann and Wilfried Eisele, 175–89. Stuttgarter Bibelstudien 214. Stuttgart: Verlag Katholisches Bibelwerk, 2008.</p>",
+      "line_text": "Hartmann, Michael. “Vom Paulusbegleiter zum ‘Kalenderheiligen.’ Rezeptionsgeschichtliche Beobachtungen zu Titus in der apokryphen Literatur.” In Ein Meisterschüler: Titus und sein Brief. Michael Theobald zum 60. Geburtstag, edited by Hans-Ulrich Weidemann and Wilfried Eisele, 175–89. Stuttgarter Bibelstudien 214. Stuttgart: Verlag Katholisches Bibelwerk, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_journal-of-theological-studies_1905-07_6/page/548/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. “The Acts of Titus and the Acts of Paul.” <em>JTS</em> 6 (1905): 549–56.</p>",
+      "line_text": "James, Montague Rhodes. “The Acts of Titus and the Acts of Paul.” JTS 6 (1905): 549–56.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_journal-of-theological-studies_1905-07_6/page/548/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lips, Hermann von. “Die Timotheus- und Titusakten und die Leidensthematik in den Pastoralbriefen: Aspekte zur Entstehungszeit und Intention der Pastoralbriefe.” <em>Early Christianity </em>2 (2011): 219–41.</p>",
+      "line_text": "Lips, Hermann von. “Die Timotheus- und Titusakten und die Leidensthematik in den Pastoralbriefen: Aspekte zur Entstehungszeit und Intention der Pastoralbriefe.” Early Christianity 2 (2011): 219–41.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap03lipsgoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden, </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:401–406).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden, 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:401–406).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap03lipsgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Die Akten des Titus: Rezeption ‘apostolischer’ Schriften und Entwicklung antik-christlicher ‘Erinnerungslandschaften.’” <em>Early Christianity</em> 8 (2017): 458–80.</p>",
+      "line_text": "Nicklas, Tobias. “Die Akten des Titus: Rezeption ‘apostolischer’ Schriften und Entwicklung antik-christlicher ‘Erinnerungslandschaften.’” Early Christianity 8 (2017): 458–80.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"auteur\"><a href=\"https://www.cairn.info/revue-etudes-theologiques-et-religieuses-2016-4-page-703.htm\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rouquette, Maïeul. “Mémoire apostolique et pseudépigraphie. Une comparaison des Actes de Barnabé et des Actes de Tite.” <span class=\"in-revue\"><em><span class=\"titre-revue titre-revue-normalize\">Études théologiques et religieuses</span> </em>91 (2016): 703–12.</span></span></p>",
+      "line_text": "Rouquette, Maïeul. “Mémoire apostolique et pseudépigraphie. Une comparaison des Actes de Barnabé et des Actes de Tite.” Études théologiques et religieuses 91 (2016): 703–12.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.cairn.info/revue-etudes-theologiques-et-religieuses-2016-4-page-703.htm"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">__________. “</span><span dir=\"ltr\" role=\"presentation\">É</span><span dir=\"ltr\" role=\"presentation\">tude </span></span>comparée <span id=\"page5R_mcid4\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">sur la construction des</span> <span dir=\"ltr\" role=\"presentation\">origins apostoliques des</span> <span dir=\"ltr\" role=\"presentation\">Églises de Crète et de Chypre à travers les figures de Tite et de Barnabé.” PhD thesis. University of </span><span dir=\"ltr\" role=\"presentation\">Lausanne and University of Aix</span><span dir=\"ltr\" role=\"presentation\">–</span><span dir=\"ltr\" role=\"presentation\">Marseille, 2017.</span></span></p>",
+      "line_text": "__________. “Étude comparée sur la construction des origins apostoliques des Églises de Crète et de Chypre à travers les figures de Tite et de Barnabé.” PhD thesis. University of Lausanne and University of Aix–Marseille, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Julia A. “Relationships between the Acts of the Apostles and Other Apostle Narratives.” Pages 319–41 in <em>Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting</em> <em>and Interpretation in</em> <em>Early Judaism and Early Christianity. </em>Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "Snyder, Julia A. “Relationships between the Acts of the Apostles and Other Apostle Narratives.” Pages 319–41 in Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting and Interpretation in Early Judaism and Early Christianity. Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

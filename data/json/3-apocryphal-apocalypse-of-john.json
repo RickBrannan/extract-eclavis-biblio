@@ -1,0 +1,464 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-apocryphal-apocalypse-of-john/",
+  "nasscal_toc_title": "3 Apocryphal Apocalypse of John",
+  "filename": "3-apocryphal-apocalypse-of-john",
+  "latin_title": "3 Apocalypsis Iohannis apocrypha",
+  "abbrev": "3 Apocr. Apoc. John",
+  "clavis_number": 324,
+  "category": "Apocalypses",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Kraków, Biblioteka Jagiellońska, Fol. 36, fols. 342<sup>r</sup>–354<sup>v</sup> (end of 18th cent.) ~ manuscript nicknamed “Berlin damaskin”</p>",
+      "line_text": "Kraków, Biblioteka Jagiellońska, Fol. 36, fols. 342r–354v (end of 18th cent.) ~ manuscript nicknamed “Berlin damaskin”",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Chilandariou, 193, fols. 24<sup>v</sup>–41<sup>v</sup> (prior to 1766)</p>",
+      "line_text": "Mount Athos, Monē Chilandariou, 193, fols. 24v–41v (prior to 1766)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav. 710, fols. 222<sup>v</sup>–231<sup>r</sup> (1720s) – manuscript nicknamed “Triavna damaskin”</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav. 710, fols. 222v–231r (1720s) – manuscript nicknamed “Triavna damaskin”",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav. 1070, fols. 54<sup>r</sup>–62<sup>v</sup> (1789)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav. 1070, fols. 54r–62v (1789)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav. 1083, fols. 79<sup>v</sup>–83<sup>v</sup> (1821)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav. 1083, fols. 79v–83v (1821)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav.  1190, fols. 1<sup>v</sup>–10<sup>v</sup> (without ending) (18th cent.)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav.  1190, fols. 1v–10v (without ending) (18th cent.)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav. 1191 (18th/19th cent.) ~ now lost</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav. 1191 (18th/19th cent.) ~ now lost",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav. 1195, fols. 92<sup>v</sup>–96<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav. 1195, fols. 92v–96r (19th cent.)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, SS. Cyril and Methodius National Library, slav. 1338, fols 9<sup>r</sup>–15<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, slav. 1338, fols 9r–15v (19th cent.)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Veliko Tŭrnovo,  Regionalna narodna biblioteka “P.R. Slaveĭkov”, No.7, fols. 25<sup>r</sup>–34<sup>v</sup> (1800-1825)</p>",
+      "line_text": "Veliko Tŭrnovo,  Regionalna narodna biblioteka “P.R. Slaveĭkov”, No.7, fols. 25r–34v (1800-1825)",
+      "language": "Bulgarian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Szymański, Tadeusz. <em>Studium z bulgarskiej dialektologii historycznej. Z historii dialektu okolic miasta Ruse</em>. Kraków: Universitas, 1995 (edition of the text from Sofia slav. 1070 in modern Bulgarian, pp. 333–41.)</p>",
+      "line_text": "Szymański, Tadeusz. Studium z bulgarskiej dialektologii historycznej. Z historii dialektu okolic miasta Ruse. Kraków: Universitas, 1995 (edition of the text from Sofia slav. 1070 in modern Bulgarian, pp. 333–41.)",
+      "language": "Bulgarian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, Museum of the Serbian Orthodox Church, 100, fols. 95<sup>v</sup>–102<sup>r</sup> (1628)</p>",
+      "line_text": "Belgrade, Museum of the Serbian Orthodox Church, 100, fols. 95v–102r (1628)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, Museum of the Serbian Orthodox Church, 320, fols. 142<sup>r</sup>–148<sup>r</sup> (1640–1650)</p>",
+      "line_text": "Belgrade, Museum of the Serbian Orthodox Church, 320, fols. 142r–148r (1640–1650)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, P. S. Srećković, fols. 1<sup>r</sup>–10<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Belgrade, National Library of Serbia, P. S. Srećković, fols. 1r–10r (14th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 38, fols. 76<sup>v</sup>–78<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 38, fols. 76v–78r (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 53, fols. 105<sup>r</sup>–118<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 53, fols. 105r–118r (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 205 (I. 365), fols. 8<sup>r</sup>–15<sup>r</sup> (16th/17th cent.) (=Otero 3)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 205 (I. 365), fols. 8r–15r (16th/17th cent.) (=Otero 3)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 321, fols. 261<sup>v</sup>–265<sup>v</sup> (16th/17th cent.) (=Otero 1) ~ destroyed by fire</p>",
+      "line_text": "Belgrade, National Library of Serbia, 321, fols. 261v–265v (16th/17th cent.) (=Otero 1) ~ destroyed by fire",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 632, fols. 1<sup>r</sup>–56<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 632, fols. 1r–56r (13th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 651, fols. 6<sup>r</sup>–10<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 651, fols. 6r–10v (13th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 760, fols. 148<sup>r</sup>–160<sup>v</sup> (1500–1510)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 760, fols. 148r–160v (1500–1510)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Slav. Wuk 48, fols. 59<sup>v</sup>–69<sup>r</sup> (13th/14th cent.) (=Otero 5)</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Slav. Wuk 48, fols. 59v–69r (13th/14th cent.) (=Otero 5)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bijelo Polje (Montenegro), Nikoljac Monastery, 52, fols. 153<sup>r</sup>–157<sup>v</sup> (1485/1495)</p>",
+      "line_text": "Bijelo Polje (Montenegro), Nikoljac Monastery, 52, fols. 153r–157v (1485/1495)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Central State Archive of the City of Moscow, 3 (387), fols. 205<sup>r</sup>–208<sup>r</sup> (15th cent.) (=Otero 22)</p>",
+      "line_text": "Moscow, Central State Archive of the City of Moscow, 3 (387), fols. 205r–208r (15th cent.) (=Otero 22)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, 96, fols. 91<sup>r</sup>–95<sup>v</sup> (16th cent.; =Otero 31)</p>",
+      "line_text": "Moscow, Russian State Library, 96, fols. 91r–95v (16th cent.; =Otero 31)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, 157 (521), fols. 69<sup>r</sup>–75<sup>v</sup> (16th cent.; =Otero 26)</p>",
+      "line_text": "Moscow, Russian State Library, 157 (521), fols. 69r–75v (16th cent.; =Otero 26)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, 166 (535), fols. 115<sup>r</sup>–118<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Moscow, Russian State Library, 166 (535), fols. 115r–118v (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, 183 (566), fols. 273<sup>v</sup>–275<sup>v</sup> (16th cent.; =Otero 28/61)</p>",
+      "line_text": "Moscow, Russian State Library, 183 (566), fols. 273v–275v (16th cent.; =Otero 28/61)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, 330 (682), fols. 330<sup>r</sup>–330<sup>v</sup> (16th cent.) (=Otero 24)</p>",
+      "line_text": "Moscow, State Historical Museum, 330 (682), fols. 330r–330v (16th cent.) (=Otero 24)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, V. M. Undol’skij, Cod. 637, fols. 8<sup>r</sup>– ? (17th cent.)</p>",
+      "line_text": "Moscow, Russian State Library, V. M. Undol’skij, Cod. 637, fols. 8r– ? (17th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, V. M. Undol’skij, 1268, fols. 82<sup>r</sup>–92<sup>r</sup> (16th cent.) (=Otero 30)</p>",
+      "line_text": "Moscow, Russian State Library, V. M. Undol’skij, 1268, fols. 82r–92r (16th cent.) (=Otero 30)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 299), N. S. Tichonravov 18, fols. 63<sup>v</sup>–73<sup>r</sup> (17th cent.) (=Otero 43)</p>",
+      "line_text": "Moscow, Russian State Library (F. 299), N. S. Tichonravov 18, fols. 63v–73r (17th cent.) (=Otero 43)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. I. Chludov 108, fols. 228<sup>r</sup>– ? (17th cent.)</p>",
+      "line_text": "Moscow, State Historical Museum, A. I. Chludov 108, fols. 228r– ? (17th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. I. Chludov 241, fols. 154<sup>v</sup>–155<sup>v</sup> (ca. 1451) (=Otero 34)</p>",
+      "line_text": "Moscow, State Historical Museum, A. I. Chludov 241, fols. 154v–155v (ca. 1451) (=Otero 34)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, Library of the Russian Academy of Sciences, Codex Tek. post. Nr. 140, fols. 64<sup>r</sup>–70<sup>v</sup> (17th/18th cent.) (=Otero 14)</p>",
+      "line_text": "Saint Petersburg, Library of the Russian Academy of Sciences, Codex Tek. post. Nr. 140, fols. 64r–70v (17th/18th cent.) (=Otero 14)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, Library of the Russian Academy of Sciences, 242 (664), fols. 185<sup>v</sup>–193<sup>v</sup> (15th/16th cent.) (=Otero 10)</p>",
+      "line_text": "Saint Petersburg, Library of the Russian Academy of Sciences, 242 (664), fols. 185v–193v (15th/16th cent.) (=Otero 10)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, Library of the Russian Academy of Sciences, Jacimirskij 13.6.13, fols. 37<sup>v</sup>–40<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Saint Petersburg, Library of the Russian Academy of Sciences, Jacimirskij 13.6.13, fols. 37v–40v (15th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, National Library of Russia, F-1-258, fols. 217<sup>v</sup>–224<sup>r</sup> (17th cent.) (=Otero 15)</p>",
+      "line_text": "Saint Petersburg, National Library of Russia, F-1-258, fols. 217v–224r (17th cent.) (=Otero 15)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, National Library of Russia, 889, fols. 159, 160<sup>v</sup>–165<sup>v</sup> (17th cent.) (=Otero 16)</p>",
+      "line_text": "Saint Petersburg, National Library of Russia, 889, fols. 159, 160v–165v (17th cent.) (=Otero 16)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, National Library of Russia (f. 536), Obščestvo ljubitelej drenej pis’mennosti, Sbornik Edomskogo (24ff.), fols. 17<sup>v</sup>–20<sup>v</sup> (17th cent.) (=Otero 60)</p>",
+      "line_text": "Saint Petersburg, National Library of Russia (f. 536), Obščestvo ljubitelej drenej pis’mennosti, Sbornik Edomskogo (24ff.), fols. 17v–20v (17th cent.) (=Otero 60)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint Petersburg, National Library of Russia, Cod. Q-1-312, fols. 251<sup>r</sup>– ? (15th cent.)</p>",
+      "line_text": "Saint Petersburg, National Library of Russia, Cod. Q-1-312, fols. 251r– ? (15th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofia, Bulgarian Academy of Sciences, 79, fols. 144<sup>r</sup>–148<sup>r</sup> (14th cent.) (=Otero 46)</p>",
+      "line_text": "Sofia, Bulgarian Academy of Sciences, 79, fols. 144r–148r (14th cent.) (=Otero 46)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofia, SS. Cyril and Methodius National Library, 326 (509), fols. 74<sup>r</sup>–79<sup>v</sup> (17/18th cent.) (=Otero 49)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, 326 (509), fols. 74r–79v (17/18th cent.) (=Otero 49)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofia, SS. Cyril and Methodius National Library, 433 (Panagjurište Miscellany), fols. 117<sup>r</sup>–125<sup>v</sup>, 159<sup>v</sup>–166<sup>v</sup> (16th cent.; =Otero 48) ~ contains two versions of the text</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, 433 (Panagjurište Miscellany), fols. 117r–125v, 159v–166v (16th cent.; =Otero 48) ~ contains two versions of the text",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofia, SS. Cyril and Methodius National Library, 1056, fols. 6<sup>v</sup>–13<sup>v</sup> (18th cent.) (=Otero 51)</p>",
+      "line_text": "Sofia, SS. Cyril and Methodius National Library, 1056, fols. 6v–13v (18th cent.) (=Otero 51)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichischen Nationalbibliothek, Slav. 149, fols. 131<sup>r</sup>–137<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Vienna, Österreichischen Nationalbibliothek, Slav. 149, fols. 131r–137r (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zagreb, Croatian Academy of Sciences and Arts, II.a.43, fols. 176<sup>v</sup>–185<sup>v</sup> (16th cent.; =Otero 56)</p>",
+      "line_text": "Zagreb, Croatian Academy of Sciences and Arts, II.a.43, fols. 176v–185v (16th cent.; =Otero 56)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zagreb, Croatian Academy of Sciences and Arts, IV.a.120 (glag.), fols. 27<sup>r</sup>–40<sup>r</sup> (16th cent.) (=Otero 57)</p>",
+      "line_text": "Zagreb, Croatian Academy of Sciences and Arts, IV.a.120 (glag.), fols. 27r–40r (16th cent.) (=Otero 57)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Unidentified Bosnian-Serbian manuscript known to Močul’skij, fols. 106<sup>v</sup>– ? (18th cent.)</p>",
+      "line_text": "Unidentified Bosnian-Serbian manuscript known to Močul’skij, fols. 106v– ? (18th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Barsukov, N. <em>Sbornik Edomskogo.</em> St. Petersburg, 1889 (edition of Leningrad, Sbornik Edomskogo, pp. 27–29).</p>",
+      "line_text": "Barsukov, N. Sbornik Edomskogo. St. Petersburg, 1889 (edition of Leningrad, Sbornik Edomskogo, pp. 27–29).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Miltenova, Anissava. “<em>Apocalypsis Johannis apocrypha quarta (4 Ap. Apoc. John) in the Slavonic Tradition.” </em>Pages 686–717 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone.</em> Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018 (edition and translation of <em>3 Apocr. Apoc. John </em>based on SS. Cyril and Methodius National Library, slav. 433, pp. 704–17).</p>",
+      "line_text": "Miltenova, Anissava. “Apocalypsis Johannis apocrypha quarta (4 Ap. Apoc. John) in the Slavonic Tradition.” Pages 686–717 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018 (edition and translation of 3 Apocr. Apoc. John based on SS. Cyril and Methodius National Library, slav. 433, pp. 704–17).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://relig-library.pstu.ru/modules.php?name=2002\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Močul’skij, Vasilij N. <em>Sledy narodnoj biblii v slavjanskoj i drevnerusskoj pis ‘mennosti</em>. Odessa, 1893 (edition of <em>3 Apocr. Apoc. John</em> based on Zagreb, Croatian Academy of Sciences and Arts, II.a.43, pp. 270–75).</p>",
+      "line_text": "Močul’skij, Vasilij N. Sledy narodnoj biblii v slavjanskoj i drevnerusskoj pis ‘mennosti. Odessa, 1893 (edition of 3 Apocr. Apoc. John based on Zagreb, Croatian Academy of Sciences and Arts, II.a.43, pp. 270–75).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://relig-library.pstu.ru/modules.php?name=2002"
+      ]
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977 (discussion of the Slavonic tradition, vol. 1 pp. 197–209, vol. 2 pp. 253–54).</p>",
+      "line_text": "Santos Otero, Aurelio de. Die handscriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977 (discussion of the Slavonic tradition, vol. 1 pp. 197–209, vol. 2 pp. 253–54).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=sgRKAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tichonravov, Nikolai S. <em>Pamjatniki otre</em><em>č</em><em>ennoj russkoj literatury.</em> 2 vols. Moscow: Obščestv. Pol’za, 1863 (<em>editio princeps</em> of <em>3 Apocr. Apoc. John</em>, pp. 197–212 based on Moscow codd. 96, 157, and 183).</p>",
+      "line_text": "Tichonravov, Nikolai S. Pamjatniki otrečennoj russkoj literatury. 2 vols. Moscow: Obščestv. Pol’za, 1863 (editio princeps of 3 Apocr. Apoc. John, pp. 197–212 based on Moscow codd. 96, 157, and 183).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=sgRKAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1007/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1007, fols. 171<sup>r</sup>–176<sup>r</sup> (17th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1007, fols. 171r–176r (17th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1007/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Koutloumousiou, 176, fols. 179<sup>v</sup>–183<sup>v</sup> (1438–1439)</p>",
+      "line_text": "Mount Athos, Monē Koutloumousiou, 176, fols. 179v–183v (1438–1439)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Bonar, Chance E., and Tony Burke. “3 Apocryphal Apocalypse of John: A Byzantine Question-and-Answer Dialogue.” <em>Mus</em> 133.3–4 (2020): 397–454.</p>",
+      "line_text": "Bonar, Chance E., and Tony Burke. “3 Apocryphal Apocalypse of John: A Byzantine Question-and-Answer Dialogue.” Mus 133.3–4 (2020): 397–454.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bonar, Chance E., Tony Burke, and Slavomír Čéplö. “3 Apocryphal Apocalypse of John.” Pages 423–60 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Volume 2. Edited by Tony Burke. Grand Rapids: Eerdmans, 2020.</p>",
+      "line_text": "Bonar, Chance E., Tony Burke, and Slavomír Čéplö. “3 Apocryphal Apocalypse of John.” Pages 423–60 in New Testament Apocrypha: More Noncanonical Scriptures. Volume 2. Edited by Tony Burke. Grand Rapids: Eerdmans, 2020.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Miltenova, Anissava. “<em>Apocalypsis Johannis apocrypha quarta (4 Ap. Apoc. John) in the Slavonic Tradition.” </em>Pages 686–717 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone.</em> Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018 (edition and translation of <em>3 Apocr. Apoc. John </em>based on SS. Cyril and Methodius National Library, slav. 433, pp. 704–17).</p>",
+      "line_text": "Miltenova, Anissava. “Apocalypsis Johannis apocrypha quarta (4 Ap. Apoc. John) in the Slavonic Tradition.” Pages 686–717 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018 (edition and translation of 3 Apocr. Apoc. John based on SS. Cyril and Methodius National Library, slav. 433, pp. 704–17).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Jovanović, Tomislav. <em>Apokrifi starozavetni prema srpskim prepisima Apokrifi novozavetni</em>. 2 vols. Belgrade: Prosveta, 2005 (Serbian translation of <em>3 Apocr. Apoc. John</em> based on Močul’skij’s edition with variants from three additional manuscripts, pp. 352–66).</p>",
+      "line_text": "Jovanović, Tomislav. Apokrifi starozavetni prema srpskim prepisima Apokrifi novozavetni. 2 vols. Belgrade: Prosveta, 2005 (Serbian translation of 3 Apocr. Apoc. John based on Močul’skij’s edition with variants from three additional manuscripts, pp. 352–66).",
+      "language": "Serbian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bratu-Minott, Anca. “From the Bosom of Abraham to the Beatific Vision: On Some Medieval Images of the Soul’s Journey to Heaven.” Pages 189–218 in <em>Death and Dying in the Middle Ages. </em>Edited by Edelgard E. DuBruck and Barbara I. Gusick. New York: Peter Lang, 1999.</p>",
+      "line_text": "Bratu-Minott, Anca. “From the Bosom of Abraham to the Beatific Vision: On Some Medieval Images of the Soul’s Journey to Heaven.” Pages 189–218 in Death and Dying in the Middle Ages. Edited by Edelgard E. DuBruck and Barbara I. Gusick. New York: Peter Lang, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Constas, Nicholas, “‘To Sleep, Perchance to Dream’: The Middle State of Souls in Patristic and Byzantine Literature.” <em>DOP</em> 55 (2001): 91-124.</p>",
+      "line_text": "Constas, Nicholas, “‘To Sleep, Perchance to Dream’: The Middle State of Souls in Patristic and Byzantine Literature.” DOP 55 (2001): 91-124.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. “Death and Dying in Byzantium.” Pages 125–45 in <em>A People’s History of Christianity. </em>Vol. 3: <em>Byzantine Christianity.</em> Edited by Derek Krueger. Minneapolis: Fortress Press, 2006.</p>",
+      "line_text": "_________. “Death and Dying in Byzantium.” Pages 125–45 in A People’s History of Christianity. Vol. 3: Byzantine Christianity. Edited by Derek Krueger. Minneapolis: Fortress Press, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cooper, Adam. “‘In the Bosom of Abraham’: Identity and Formation of Christians as ‘Sons of Abraham’ in the Early Church.” <em>Lutheran Theological Journal </em>34.3 (2000): 116–26.</p>",
+      "line_text": "Cooper, Adam. “‘In the Bosom of Abraham’: Identity and Formation of Christians as ‘Sons of Abraham’ in the Early Church.” Lutheran Theological Journal 34.3 (2000): 116–26.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Court, John M. <em>The Book of Revelation and the Johannine Apocalyptic Tradition. </em>JSNTS 190. Sheffield: Sheffield Academic, 2000.</p>",
+      "line_text": "Court, John M. The Book of Revelation and the Johannine Apocalyptic Tradition. JSNTS 190. Sheffield: Sheffield Academic, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel, and Jean-Claude Picard. “Première Apocalypse Apocryphe de Jean.” Pages 983–90 in volume 2 of <em>Écrits Apocryphes Chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (discussion pp. 988–89).</p>",
+      "line_text": "Kaestli, Jean-Daniel, and Jean-Claude Picard. “Première Apocalypse Apocryphe de Jean.” Pages 983–90 in volume 2 of Écrits Apocryphes Chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (discussion pp. 988–89).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lof, L. J. van der. “Abraham’s Bosom in the Wirings of Irenaeus, Tertullian and Augustine.” <em>AugStud </em>26.2 (1995): 109–23.</p>",
+      "line_text": "Lof, L. J. van der. “Abraham’s Bosom in the Wirings of Irenaeus, Tertullian and Augustine.” AugStud 26.2 (1995): 109–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mladenova, Olga M. “An Early Modern Bulgarian Vernacular Version of St. John the Theologian’s Questions to Abraham.” (forthcoming).</p>",
+      "line_text": "Mladenova, Olga M. “An Early Modern Bulgarian Vernacular Version of St. John the Theologian’s Questions to Abraham.” (forthcoming).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>O’Kane, Martin. “‘The Bosom of Abraham’ (Luke 16:22): Father Abraham in the Visual Imagination.” <em>BibInt </em>15 (2007): 485–518.</p>",
+      "line_text": "O’Kane, Martin. “‘The Bosom of Abraham’ (Luke 16:22): Father Abraham in the Visual Imagination.” BibInt 15 (2007): 485–518.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Petkov, Julian. <em>Altslavische Eschatologie: Texte und Studien zur apokalyptischen Literatur in kirchenslavischer Überlieferung.</em> TANZ 59. Tübingen: Narr Frankce Attempto, 2016 (see pp. 174–80).</p>",
+      "line_text": "Petkov, Julian. Altslavische Eschatologie: Texte und Studien zur apokalyptischen Literatur in kirchenslavischer Überlieferung. TANZ 59. Tübingen: Narr Frankce Attempto, 2016 (see pp. 174–80).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in <em>Dialogues and Debates from Late Antiquity to Late Byzantium</em>. Edited by Averil Cameron and Niels Gaul. New York: Routledge, 2017.</p>",
+      "line_text": "Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in Dialogues and Debates from Late Antiquity to Late Byzantium. Edited by Averil Cameron and Niels Gaul. New York: Routledge, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Williams, Guy. “Abraham in the Christian Tradition.” <em>ScrB </em>38 (2007): 15–24.</p>",
+      "line_text": "Williams, Guy. “Abraham in the Christian Tradition.” ScrB 38 (2007): 15–24.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

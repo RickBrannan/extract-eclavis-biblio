@@ -1,0 +1,168 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/teaching-of-the-lord/",
+  "nasscal_toc_title": "Teaching of the Lord",
+  "filename": "teaching-of-the-lord",
+  "latin_title": "Doctrina Domini",
+  "abbrev": " Teach. Lord",
+  "alt_titles": [
+    "Didascalia of the Lord",
+    "Diataxis of the Holy Apostles"
+  ],
+  "clavis_number": 911,
+  "category": "Revelation Dialogue",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>D</strong> Paris, Bibliothèque nationale de France,  gr. 929, pp. 480–501 (15th cent.) ~ chaps 1–13, 21–34 (=Nau siglum A)</p>",
+      "line_text": "D Paris, Bibliothèque nationale de France,  gr. 929, pp. 480–501 (15th cent.) ~ chaps 1–13, 21–34 (=Nau siglum A)",
+      "language": "Diataxis",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-390/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>E</strong>  Paris, Bibliothèque nationale de France,  gr. 390, fols. 37<sup>v</sup>–46<sup>r</sup> (16th cent.)</p>",
+      "line_text": "E  Paris, Bibliothèque nationale de France,  gr. 390, fols. 37v–46r (16th cent.)",
+      "language": "Diataxis",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-390/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Milan, Biblioteca Ambrosiana, M 15 sup., fols. 212<sup>r</sup>–216<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42980/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; chaps 1–18</p>",
+      "line_text": "C  Milan, Biblioteca Ambrosiana, M 15 sup., fols. 212r–216r (15th cent.) ~ Pinakes; chaps 1–18",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42980/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1021/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikê Bibliothêkê tês Hellados, gr. 1021, fols. 145<sup>v</sup>–155<sup>v</sup> (1518)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, gr. 1021, fols. 145v–155v (1518)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1021/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, G 63 sup., fols. 174<sup>v</sup>–176<sup>v</sup> (1000 CE) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42823/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; chaps 1–22 (BHG 812a)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, G 63 sup., fols. 174v–176v (1000 CE) ~ Pinakes; chaps 1–22 (BHG 812a)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42823/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Koutloumousiou, 176 (Lambros 3249), fols. 126<sup>v</sup>–132<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26205/\" target=\"_blank\" rel=\"noopener\">Pinakes</a> (BHG 812e)</p>",
+      "line_text": "Mount Athos, Monē Koutloumousiou, 176 (Lambros 3249), fols. 126v–132r (15th cent.) ~ Pinakes (BHG 812e)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26205/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Skētē Hagiou Andreou 96, fols. 16–20 (16th cent.) ~ destroyed</p>",
+      "line_text": "Mount Athos, Skētē Hagiou Andreou 96, fols. 16–20 (16th cent.) ~ destroyed",
+      "language": "Didaskalia",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Rawlinson G. 4 (misc. 142), fols. 123<sup>v</sup>–132<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48342/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8574\" target=\"_blank\" rel=\"noopener\">catalog</a> (=BHG 812d)</p>",
+      "line_text": "Oxford, Bodleian Library, Rawlinson G. 4 (misc. 142), fols. 123v–132v (16th cent.) ~ Pinakes; catalog (=BHG 812d)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48342/",
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8574"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, 379 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54623/\" target=\"_blank\" rel=\"noopener\">Pinakes</a> (BHG 812e)</p>",
+      "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, 379 (16th cent.) ~ Pinakes (BHG 812e)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/54623/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2013, fols.  188–191 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68642/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2013\" target=\"_blank\" rel=\"noopener\">BAV</a> (BHG 812b)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2013, fols.  188–191 (10th cent.) ~ Pinakes; BAV (BHG 812b)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68642/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.2013"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fols.  178<sup>v</sup>–182<sup>v </sup>(11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68702/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2072\" target=\"_blank\" rel=\"noopener\">BAV</a> (=Nau siglum B; BHG 812b)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fols.  178v–182v (11th cent.) ~ Pinakes; BAV (=Nau siglum B; BHG 812b)",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68702/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.2072"
+      ]
+    },
+    {
+      "line_html": "<p>Jagi<u>č</u>, I. Victor. <i>Otčet o 33. prisuzdenii nagrad grafa Uvarova</i>. Suppl. <i>Zapiski imp. Akademii</i> 70.3. St. Petersburg, 1892 (edition of the Didaskalia based on Patmos 379, pp. 272–75).</p>",
+      "line_text": "Jagič, I. Victor. Otčet o 33. prisuzdenii nagrad grafa Uvarova. Suppl. Zapiski imp. Akademii 70.3. St. Petersburg, 1892 (edition of the Didaskalia based on Patmos 379, pp. 272–75).",
+      "language": "Didaskalia",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Krasnoseltsev, Nikolai F. <em>Addenda “Anecdota Graeco-Byzantina”</em> (in Russian). Odessa: Economicheskaa Tipografia, 1898 (edition of St. Andrew’s Skete 96, pp. 84–90).</p>",
+      "line_text": "Krasnoseltsev, Nikolai F. Addenda “Anecdota Graeco-Byzantina” (in Russian). Odessa: Economicheskaa Tipografia, 1898 (edition of St. Andrew’s Skete 96, pp. 84–90).",
+      "language": "Didaskalia",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch121907pari/page/n243\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François. “Une didascalie de Notre-Seigneur Jesus-Christ.” <em>Revue de l’Orient Chretien</em> 12 (1907): 225–54 (edition based on Nau’s sigla A and B, pp. 230–43).</p>",
+      "line_text": "Nau, François. “Une didascalie de Notre-Seigneur Jesus-Christ.” Revue de l’Orient Chretien 12 (1907): 225–54 (edition based on Nau’s sigla A and B, pp. 230–43).",
+      "language": "Didaskalia",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch121907pari/page/n243"
+      ]
+    },
+    {
+      "line_html": "<p>Heil, Uta, and Ioannis Grossmann. “Diataxis–Instructions of the Twelve Apostles.” Pages 475–89 in <em>The Apocryphal Sunday: History and Texts from Late Antiquity</em>. Edited by Uta Heil. Minneapolis: Fortress, 2023 (partial edition and translation based on CDE).</p>",
+      "line_text": "Heil, Uta, and Ioannis Grossmann. “Diataxis–Instructions of the Twelve Apostles.” Pages 475–89 in The Apocryphal Sunday: History and Texts from Late Antiquity. Edited by Uta Heil. Minneapolis: Fortress, 2023 (partial edition and translation based on CDE).",
+      "language": "Didaskalia",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch121907pari/page/n243\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a> Nau, François. “Une didascalie de Notre-Seigneur Jesus-Christ.” <em>Revue de l’Orient Chretien</em> 12 (1907): 225–54 (French translation based on A and B, pp. 243–54).</p>",
+      "line_text": " Nau, François. “Une didascalie de Notre-Seigneur Jesus-Christ.” Revue de l’Orient Chretien 12 (1907): 225–54 (French translation based on A and B, pp. 243–54).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch121907pari/page/n243"
+      ]
+    },
+    {
+      "line_html": "<p>Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in <em>Dialogues and Debates from Late Antiquity to Late Byzantium</em>. Edited by Averil Cameron and Niels Gaul. New York: Routledge, 2017.</p>",
+      "line_text": "Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in Dialogues and Debates from Late Antiquity to Late Byzantium. Edited by Averil Cameron and Niels Gaul. New York: Routledge, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

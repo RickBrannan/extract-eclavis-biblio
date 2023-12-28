@@ -1,0 +1,50 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/historia-sacra/",
+  "nasscal_toc_title": "Historia Sacra",
+  "filename": "historia-sacra",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Hist. Sacra",
+  "clavis_number": 661,
+  "category": "Lists of Apostles and Disciples",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-cf/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.CF (10th/11th cent.)</p>",
+      "line_text": "MONB.CF (10th/11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-cf/"
+      ]
+    },
+    {
+      "line_html": "<p>Winstedt, Eric O. “Addenda to ‘Some Coptic Apocryphal Legends.’” <em>JTS </em>10 (1909): 389–412.</p>",
+      "line_text": "Winstedt, Eric O. “Addenda to ‘Some Coptic Apocryphal Legends.’” JTS 10 (1909): 389–412.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>_____. “Some Coptic Apocryphal Legends.” <em>JTS </em>9 (1907–1908): 372–86.</p>",
+      "line_text": "_____. “Some Coptic Apocryphal Legends.” JTS 9 (1907–1908): 372–86.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. “The Coptic Martyrdom of Andrew.” <em>Apocrypha</em> 29 (2018): 9–28 (pp. 16–17).</p>",
+      "line_text": "Miroshnikov, Ivan. “The Coptic Martyrdom of Andrew.” Apocrypha 29 (2018): 9–28 (pp. 16–17).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

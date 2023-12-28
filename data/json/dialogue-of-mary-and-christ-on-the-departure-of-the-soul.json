@@ -1,0 +1,59 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-of-mary-and-christ-on-the-departure-of-the-soul/",
+  "nasscal_toc_title": "Dialogue of Mary and Christ on the Departure of the Soul",
+  "filename": "dialogue-of-mary-and-christ-on-the-departure-of-the-soul",
+  "latin_title": "Dialogus Mariae et Christi in departu animae",
+  "abbrev": "Dial. Mary Chr.",
+  "clavis_number": 753,
+  "category": "Revelatory Dialogues",
+  "compiler": "Christine Luckritz Marquis, Union Presbyterian Seminary",
+  "bibliography_entries": [
+    {
+      "line_html": "<p><a href=\"https://elib.nlu.org.ua/view.html?id=7676\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Franko, Ivan. <em>Apokrifi î legendy z ukraïnsǐkich rukopisiv</em>. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (text, vol. 2, pp. 368–69).</p>",
+      "line_text": "Franko, Ivan. Apokrifi î legendy z ukraïnsǐkich rukopisiv. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (text, vol. 2, pp. 368–69).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://elib.nlu.org.ua/view.html?id=7676"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2187, fols. 155<sup>v</sup>–156<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2187, fols. 155v–156r (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dresden-sachsische-landesbibliothek-a-187/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Dresden, Sächsische Landesbibliothek, A 187, part 1, pp. 530–531 (16th cent.)</p>",
+      "line_text": "Dresden, Sächsische Landesbibliothek, A 187, part 1, pp. 530–531 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dresden-sachsische-landesbibliothek-a-187/"
+      ]
+    },
+    {
+      "line_html": "<p>Marquis, Christine Luckritz. “Dialogue of Mary and Christ on the Departure of the Soul.” Pages 560–64 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023.</p>",
+      "line_text": "Marquis, Christine Luckritz. “Dialogue of Mary and Christ on the Departure of the Soul.” Pages 560–64 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in <em>Dialogues and Debates from late antiquity to late Byzantium</em>. Edited by Averil Cameron and Niels Gaul. London: Routledge, 2017.</p>",
+      "line_text": "Tóth, Péter. “New Wine in Old Wineskin: Byzantine Reuses of the Apocryphal Revelation Dialogue.” Pages 77–93 in Dialogues and Debates from late antiquity to late Byzantium. Edited by Averil Cameron and Niels Gaul. London: Routledge, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-john-by-pseudo-melito/",
+  "nasscal_toc_title": "Passion of John, by Pseudo-Melito",
+  "filename": "passion-of-john-by-pseudo-melito",
+  "latin_title": "Passio Iacobi minoris, fratres domini",
+  "abbrev": "Pass. John",
+  "clavis_number": 944,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Bibliothèque nationale de France, lat. 5327, fols. 171<sup>r</sup>–177<sup>v </sup>(10th cent.)</p>",
+      "line_text": "Bibliothèque nationale de France, lat. 5327, fols. 171r–177v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 12<sup>r</sup>–17<sup>v</sup> (ca. 800)</p>",
+      "line_text": "Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 12r–17v (ca. 800)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 8<span class=\"s1\"><sup>v</sup></span>–9<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
+      "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 8v–9r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Würzburg, Universitätsbibliothek, M.p.th.f. 78, fols. 1<sup>r</sup>–3<sup>r</sup> (8th cent.)</p>",
+      "line_text": "Würzburg, Universitätsbibliothek, M.p.th.f. 78, fols. 1r–3r (8th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

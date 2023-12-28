@@ -1,0 +1,1240 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/tiburtine-sibyl/",
+  "nasscal_toc_title": "Tiburtine Sibyl",
+  "filename": "tiburtine-sibyl",
+  "latin_title": "Sibylla Tiburtina",
+  "abbrev": "Tib. Sib.",
+  "clavis_number": 695,
+  "category": "Apocalypses",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Arab. I</p>",
+      "line_text": "Arab. I",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ancien fonds 102, fols. 175<sup>r</sup>–181<sup>v </sup>(13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ancien fonds 102, fols. 175r–181v (13th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Arab. II</p>",
+      "line_text": "Arab. II",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ancien fonds 158 (Colbert 6141), fols. 109<sup>r</sup>–117<sup>r</sup> (1546/1547)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ancien fonds 158 (Colbert 6141), fols. 109r–117r (1546/1547)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Arab. III</p>",
+      "line_text": "Arab. III",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ancien fonds 170, fols. 126<sup>r</sup>–147<sup>v </sup>(15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ancien fonds 170, fols. 126r–147v (15th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ancien fonds 171, fols. 1–11 (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ancien fonds 171, fols. 1–11 (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 58, fols. 164<sup>r</sup>–172<sup>v </sup>(16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 58, fols. 164r–172v (16th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Arab. IV</p>",
+      "line_text": "Arab. IV",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leeds, University of Leeds, MS 184, fols. 7v–13v (18th cent.)</p>",
+      "line_text": "Leeds, University of Leeds, MS 184, fols. 7v–13v (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>No sigla currently assigned</p>",
+      "line_text": "No sigla currently assigned",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 16188, fols. 137<sup>v</sup>–142<sup>r </sup></p>",
+      "line_text": "London, British Library, Add. 16188, fols. 137v–142r ",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 818, fols. 169<sup>r</sup>–171<sup>r</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 818, fols. 169r–171r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Abbadie 134, fols. 110–123 (undated)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Abbadie 134, fols. 110–123 (undated)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Abbadie 193, fols. 9–16 (undated)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Abbadie 193, fols. 9–16 (undated)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Eth. 90, fols. 33<sup>r</sup>–34<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Eth. 90, fols. 33r–34v (17th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Eth. 123, fols. 252–255 (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Eth. 123, fols. 252–255 (17th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://daten.digitale-sammlungen.de/~db/0006/bsb00066938/images/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schleifer, Joel. <em>Die Erzählung der Sibylle: Ein Apokryph. Nach den karschunischen, arabischen und äthiopischen Handschriften zu London, Oxford, Paris und Rom</em>. Denkschriften der kaiserlichen Akad. der Wissensch. in Wien, Phil.-hist. Klasse 53.1. Vienna: Alfred Hölder, 1910 (Garšūnī, Arabic, and Ethiopic texts in parallel, pp. 6–49; translations, pp. 50-73).</p>",
+      "line_text": "Schleifer, Joel. Die Erzählung der Sibylle: Ein Apokryph. Nach den karschunischen, arabischen und äthiopischen Handschriften zu London, Oxford, Paris und Rom. Denkschriften der kaiserlichen Akad. der Wissensch. in Wien, Phil.-hist. Klasse 53.1. Vienna: Alfred Hölder, 1910 (Garšūnī, Arabic, and Ethiopic texts in parallel, pp. 6–49; translations, pp. 50-73).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://daten.digitale-sammlungen.de/~db/0006/bsb00066938/images/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Hunt. 199, fols. 413–417</p>",
+      "line_text": "Oxford, Bodleian Library, Hunt. 199, fols. 413–417",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ancien fonds 158 (Colbert 4535), fols. 195<sup>v</sup>–202<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ancien fonds 158 (Colbert 4535), fols. 195v–202v (16th cent.)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ebied, Rifaat Y. and Michael J. L. Young. “An Unrecorded Arabic Version of a Sibylline Prophecy.” <em>OCP </em>43 (1977): 279–307 (Leeds Arabic MS 184) (edition and translation)</p>",
+      "line_text": "Ebied, Rifaat Y. and Michael J. L. Young. “An Unrecorded Arabic Version of a Sibylline Prophecy.” OCP 43 (1977): 279–307 (Leeds Arabic MS 184) (edition and translation)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>MacDonald, John. <em>Catalogue of Oriental Manuscripts. </em>Vol. 4: MSS 151–200. Leeds: University of Leeds, 1958. (pp. 38–39)</p>",
+      "line_text": "MacDonald, John. Catalogue of Oriental Manuscripts. Vol. 4: MSS 151–200. Leeds: University of Leeds, 1958. (pp. 38–39)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://daten.digitale-sammlungen.de/~db/0006/bsb00066938/images/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schleifer, Joel. <em>Die Erzählung der Sibylle: Ein Apokryph. Nach den karschunischen, arabischen und äthiopischen Handschriften zu London, Oxford, Paris und Rom</em>. Denkschriften der kaiserlichen Akad. der Wissensch. in Wien, Phil.-hist. Klasse 53.1. Vienna: Alfred Hölder, 1910 (Garšūnī, Arabic, and Ethiopic texts in parallel, pp. 6–49; translations, pp. 50-73).</p>",
+      "line_text": "Schleifer, Joel. Die Erzählung der Sibylle: Ein Apokryph. Nach den karschunischen, arabischen und äthiopischen Handschriften zu London, Oxford, Paris und Rom. Denkschriften der kaiserlichen Akad. der Wissensch. in Wien, Phil.-hist. Klasse 53.1. Vienna: Alfred Hölder, 1910 (Garšūnī, Arabic, and Ethiopic texts in parallel, pp. 6–49; translations, pp. 50-73).",
+      "language": "Garšūnī",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://daten.digitale-sammlungen.de/~db/0006/bsb00066938/images/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2725 (= Suppl. 725), fols. 210<sup>v</sup>–219<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4757/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2725 (= Suppl. 725), fols. 210v–219v (15th/16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4757/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Mount Athos, Monē Karakallou 14 (Lambros 1527), fol. 280<sup>v</sup>–286<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25583/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://hdl.handle.net/20.500.11957/102708\" target=\"_blank\" rel=\"noopener\">Athos</a></p>",
+      "line_text": "K  Mount Athos, Monē Karakallou 14 (Lambros 1527), fol. 280v–286v (12th cent.) ~ Pinakes; Athos",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25583/",
+        "https://hdl.handle.net/20.500.11957/102708"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1120, fols. 417–423 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67751/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1120\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Q  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1120, fols. 417–423 (14th cent.) ~ Pinakes; DVL",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67751/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.1120"
+      ]
+    },
+    {
+      "line_html": "<p>Alexander, Paul J. <em>The Oracle of Baalbek: The Tiburtine Sibyl in Greek Dress</em>. Dumbarton Oaks Studies 10. Washington, DC: Dumbarton Oaks Center for Byzantine Studies, 1967. (<em>edition princeps; </em>established <em>sigla </em>of Greek MSS; Text on pp. 9–22; translation on pp. 23–29)</p>",
+      "line_text": "Alexander, Paul J. The Oracle of Baalbek: The Tiburtine Sibyl in Greek Dress. Dumbarton Oaks Studies 10. Washington, DC: Dumbarton Oaks Center for Byzantine Studies, 1967. (edition princeps; established sigla of Greek MSS; Text on pp. 9–22; translation on pp. 23–29)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Escorial, Real Biblioteca, &amp; I. 3., fols. 240–242 (1047 CE)</p>",
+      "line_text": "E  Escorial, Real Biblioteca, &amp; I. 3., fols. 240–242 (1047 CE)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Düsseldorf, Universitäts-und Landesbibliothek, MS-C-1, fols. 44–48<sup>v</sup> (12th/13th cent.)</p>",
+      "line_text": "D  Düsseldorf, Universitäts-und Landesbibliothek, MS-C-1, fols. 44–48v (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P<sub>1</sub></strong>  Paris, Bibliothèque nationale de France, Lat. 5390, fols. 233–235<sup>v</sup> (12th cent.)</p>",
+      "line_text": "P1  Paris, Bibliothèque nationale de France, Lat. 5390, fols. 233–235v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P<sub>2</sub></strong>  Paris, Bibliothèque nationale de France, Lat. 5613, fols. 30<sup>v</sup>–35 (15th cent.)</p>",
+      "line_text": "P2  Paris, Bibliothèque nationale de France, Lat. 5613, fols. 30v–35 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Vr</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. reg. 481, fols. 109<sup>v</sup>–112<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Vr  Vatican, Biblioteca Apostolica Vaticana, Vat. reg. 481, fols. 109v–112v (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Munich, Bayerische Staatsbibliothek, 18099, fols. 204–206 (13th cent.)</p>",
+      "line_text": "M  Munich, Bayerische Staatsbibliothek, 18099, fols. 204–206 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>w<sup>3</sup></strong>  Munich, Bayerische Staatsbibliothek, Clm 17742, fols. 42–51 (12th cent.)</p>",
+      "line_text": "w3  Munich, Bayerische Staatsbibliothek, Clm 17742, fols. 42–51 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>w<sup>2  </sup></strong>Sackur’s MSS mixed with Byzantine prophecies under Henry IV (1056–1106 CE)</p>",
+      "line_text": "w2  Sackur’s MSS mixed with Byzantine prophecies under Henry IV (1056–1106 CE)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>w<sup>1  </sup></strong>Sackur’s recreation of the oldest Latin recension</p>",
+      "line_text": "w1  Sackur’s recreation of the oldest Latin recension",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Venerable Bede, <em>Ecclesiastical History</em>, 2 (1563), 351 ff.</p>",
+      "line_text": "B  Venerable Bede, Ecclesiastical History, 2 (1563), 351 ff.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Godfrey of Viterbo, <em>Pantheon</em>, ch. 22</p>",
+      "line_text": "G  Godfrey of Viterbo, Pantheon, ch. 22",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Latin MSS without <em>sigla:</em></p>",
+      "line_text": "Latin MSS without sigla:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Angers, Bibliothèque publique, 26 (22), fols. 114<sup>v</sup>–116<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Angers, Bibliothèque publique, 26 (22), fols. 114v–116v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Angers, Bibliothèque publique, 668 (605), fols. 122–124<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Angers, Bibliothèque publique, 668 (605), fols. 122–124v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Augsburg, Staats- und Stadtbibliothek, 2° Cod. 217, 202<sup>v</sup>–206<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Augsburg, Staats- und Stadtbibliothek, 2° Cod. 217, 202v–206v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Barcelona, Biblioteca Universitária, 124, fols. 91<sup>v</sup>– 93<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Barcelona, Biblioteca Universitária, 124, fols. 91v– 93v (14th/15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bern, Biblioteca Bongarsiana, A.9, fols. 163<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Bern, Biblioteca Bongarsiana, A.9, fols. 163v (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bern, Biblioteca Bongarsiana, 111, fols. 12<sup>v</sup>–15 (12th/13th cent.)</p>",
+      "line_text": "Bern, Biblioteca Bongarsiana, 111, fols. 12v–15 (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bern, Biblioteca Bongarsiana, 188, fols. 98r–101 (12th cent.)</p>",
+      "line_text": "Bern, Biblioteca Bongarsiana, 188, fols. 98r–101 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bonn, Universitäts- und Landesbibliothek, 223 (S 279), fol. 119<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Bonn, Universitäts- und Landesbibliothek, 223 (S 279), fol. 119v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Breslau, Stadtbibliothek, 205, fols. 223<sup>r</sup>–224<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Breslau, Stadtbibliothek, 205, fols. 223r–224r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Breslau, Stadtbibliothek, R. 436, fols. 143–146<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Breslau, Stadtbibliothek, R. 436, fols. 143–146v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bruges, Bibliothèque de la ville, 107, fols. 170<sup>r</sup>–171<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Bruges, Bibliothèque de la ville, 107, fols. 170r–171r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale, 1470 (21865), fols. 1–3 (15th cent.)</p>",
+      "line_text": "Brussels, Bibliothèque Royale, 1470 (21865), fols. 1–3 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale 3178 (7503–18), fols. 67<sup>v</sup>–71 (12th cent.)</p>",
+      "line_text": "Brussels, Bibliothèque Royale 3178 (7503–18), fols. 67v–71 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale 3714 (5194–96), fols. 101<sup>v</sup>–102<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Brussels, Bibliothèque Royale 3714 (5194–96), fols. 101v–102v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, Corpus Christi College, 179, fols. 18–21<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Cambridge, Corpus Christi College, 179, fols. 18–21v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-404/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College, 404, fols. 1<sup>r</sup>–3<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Cambridge, Corpus Christi College, 404, fols. 1r–3v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-404/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, Corpus Christi College, 451, fols. 83<sup>v</sup>–87<sup>v</sup> (12th/13th cent.)</p>",
+      "line_text": "Cambridge, Corpus Christi College, 451, fols. 83v–87v (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, Gonville and Caius College, 91, fols. 196–199 (13th cent.)</p>",
+      "line_text": "Cambridge, Gonville and Caius College, 91, fols. 196–199 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, Gonville and Caius College, 453 (717), fols. 97<sup>v</sup>–100r (14th cent.)</p>",
+      "line_text": "Cambridge, Gonville and Caius College, 453 (717), fols. 97v–100r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, St. John’s College, 107 (E.4), fol. 194<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Cambridge, St. John’s College, 107 (E.4), fol. 194r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, St. John’s College, 184 (G.16), fols. 270<sup>v</sup>–273<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Cambridge, St. John’s College, 184 (G.16), fols. 270v–273v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Mm.I.16, fols. 21<sup>r</sup>–23<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Cambridge, University Library, Mm.I.16, fols. 21r–23v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Mm.V.29, fols. 15–19 (12th cent.)</p>",
+      "line_text": "Cambridge, University Library, Mm.V.29, fols. 15–19 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Chicago, Newberry Library, f6, fols. 198–202<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Chicago, Newberry Library, f6, fols. 198–202v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Chicago, Newberry Library, f6, fols. 220–224 (12th cent.)</p>",
+      "line_text": "Chicago, Newberry Library, f6, fols. 220–224 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, Ms 514 (E.5.3), fols. 89<sup>v</sup>–92<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Dublin, Trinity College, Ms 514 (E.5.3), fols. 89v–92v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Erlangen, Universitätsbibliothek, 176, fols. 100<sup>v</sup>–104<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Erlangen, Universitätsbibliothek, 176, fols. 100v–104v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Plut. 89 inf. 41, fols. 103–105 (13th/14th cent.)</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Plut. 89 inf. 41, fols. 103–105 (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Nazionale Centrale, Ms II.I.75, fols. 75–80 (14th cent.)</p>",
+      "line_text": "Florence, Biblioteca Nazionale Centrale, Ms II.I.75, fols. 75–80 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Genova, Biblioteca Universitaria, A. III 2, fols. 334–338<sup>v</sup> (date unknown)</p>",
+      "line_text": "Genova, Biblioteca Universitaria, A. III 2, fols. 334–338v (date unknown)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Glasgow, University Library, U.7.26 (332), fols. 16<sup>v</sup>–22 (14th cent.)</p>",
+      "line_text": "Glasgow, University Library, U.7.26 (332), fols. 16v–22 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Graz, Unviersitätsbibliothek 600 (36/23), fols. 130–132 (14th cent.)</p>",
+      "line_text": "Graz, Unviersitätsbibliothek 600 (36/23), fols. 130–132 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">The Hague (‘S–Gravenhage), Koninklijke Bibliotheek, 71. E. 44, fols. 112–116 (1500)</p>",
+      "line_text": "The Hague (‘S–Gravenhage), Koninklijke Bibliotheek, 71. E. 44, fols. 112–116 (1500)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Karlsruhe, Badische Landesbibliotheek CXXXIV, fol. 1 (11th/12th cent.)</p>",
+      "line_text": "Karlsruhe, Badische Landesbibliotheek CXXXIV, fol. 1 (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Karlsruhe, Badische Landesbibliotheek CCXVIII, fols. 200–201<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Karlsruhe, Badische Landesbibliotheek CCXVIII, fols. 200–201v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Krakow, University Library, 2603 AA.XII.5, pp. 536–548 (1429)</p>",
+      "line_text": "Krakow, University Library, 2603 AA.XII.5, pp. 536–548 (1429)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Unviersitätsbibliothek 207 (190a), fols. 31–33 (12th/13th cent.)</p>",
+      "line_text": "Leipzig, Unviersitätsbibliothek 207 (190a), fols. 31–33 (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lincoln, Cathedral Library, 98 (A.4.6), fols. 15<sup>v</sup>–19<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Lincoln, Cathedral Library, 98 (A.4.6), fols. 15v–19v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. Mss. 38665, fols. 80<sup>r</sup>–85<sup>r</sup> (12th/13th cent.)</p>",
+      "line_text": "London, British Library, Add. Mss. 38665, fols. 80r–85r (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. Mss. 50003, fols. 220<sup>v</sup>–222<sup>v</sup> (1273)</p>",
+      "line_text": "London, British Library, Add. Mss. 50003, fols. 220v–222v (1273)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. Mss. Egerton 810, fols. 104–107<sup>v</sup> (12th/13th cent.)</p>",
+      "line_text": "London, British Library, Add. Mss. Egerton 810, fols. 104–107v (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Arundel 326, fols. 60<sup>v</sup>–63 (1220–1250)</p>",
+      "line_text": "London, British Library, Arundel 326, fols. 60v–63 (1220–1250)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Caligula A X, fols. 196–220<sup>v</sup> (14th cent.)</p>",
+      "line_text": "London, British Library, Cotton Caligula A X, fols. 196–220v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Caligula B VII, fols. 222–224 (13th cent.)</p>",
+      "line_text": "London, British Library, Cotton Caligula B VII, fols. 222–224 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Caligula A XIII, fols. 104–107 (13th cent.)</p>",
+      "line_text": "London, British Library, Cotton Caligula A XIII, fols. 104–107 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Domitian A XIII, fols. 132<sup>v</sup>–134<sup>v</sup> (14th cent.)</p>",
+      "line_text": "London, British Library, Cotton Domitian A XIII, fols. 132v–134v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Galba E XI, fols. 119<sup>r</sup>–120<sup>v</sup> (14th cent.)</p>",
+      "line_text": "London, British Library, Cotton Galba E XI, fols. 119r–120v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Titus D III, fols. 143–147<sup>v</sup> (13th cent.)</p>",
+      "line_text": "London, British Library, Cotton Titus D III, fols. 143–147v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Vespasian B XXV, fols. 117<sup>v</sup>–123 (12th cent.)</p>",
+      "line_text": "London, British Library, Cotton Vespasian B XXV, fols. 117v–123 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Cotton Vespasian E IV, fols. 143–148 (13th cent.)</p>",
+      "line_text": "London, British Library, Cotton Vespasian E IV, fols. 143–148 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Royal 13A XIV, fols. 224–247<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "London, British Library, Royal 13A XIV, fols. 224–247v (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Royal 15A XXII, fols. 110–115 (12th cent.)</p>",
+      "line_text": "London, British Library, Royal 15A XXII, fols. 110–115 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Royal 15B XI, fols. 67–70 (12th/13th cent.)</p>",
+      "line_text": "London, British Library, Royal 15B XI, fols. 67–70 (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Sloane 156, fols. 13–19<sup>v</sup> (15th cent.)</p>",
+      "line_text": "London, British Library, Sloane 156, fols. 13–19v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Sloane 289, fols.  88–91 (15th cent.)</p>",
+      "line_text": "London, British Library, Sloane 289, fols.  88–91 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, Lambeth Palace, 401, fols. 14<sup>r</sup>–18<sup>r</sup> (14th cent.)</p>",
+      "line_text": "London, Lambeth Palace, 401, fols. 14r–18r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, Lambeth Palace, 420, fols. 83<sup>v</sup>–88<sup>v</sup> (12th/13th cent.)</p>",
+      "line_text": "London, Lambeth Palace, 420, fols. 83v–88v (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Madrid, Biblioteca Nacional, 59, fols. 56–57<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "Madrid, Biblioteca Nacional, 59, fols. 56–57v (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stiftsbibliothek, 59 (1605; B24), fol. 179<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Melk, Stiftsbibliothek, 59 (1605; B24), fol. 179v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Metz, Bibliothèque municipale, 1212, fols. 373–372 (12th cent.)</p>",
+      "line_text": "Metz, Bibliothèque municipale, 1212, fols. 373–372 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Ambrosiana, I 163, fols. 175–177 (15th cent.)</p>",
+      "line_text": "Milan, Ambrosiana, I 163, fols. 175–177 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Montpellier, Bibliothèque de la Faculté de Médecine, 142, fols. 232–233<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Montpellier, Bibliothèque de la Faculté de Médecine, 142, fols. 232–233v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, clm 4351, fols. 202–203 (15th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, clm 4351, fols. 202–203 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, clm 29107 (12th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, clm 29107 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Nancy, Bibliothèque publique, 1547 (1036), fols. 103<sup>v</sup>–105 (13th cent.)</p>",
+      "line_text": "Nancy, Bibliothèque publique, 1547 (1036), fols. 103v–105 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">New Haven, Yale University Library, Marston 225, fols. 1<sup>v</sup>–1<sup>v</sup> (14th cent.)</p>",
+      "line_text": "New Haven, Yale University Library, Marston 225, fols. 1v–1v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Nürnberg, Stadtbibliothek, Cent. IV 32, fols. 18<sup>r</sup>–22<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Nürnberg, Stadtbibliothek, Cent. IV 32, fols. 18r–22r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Auct. F.2.20 (Western 2186), fols. 62–65 (11th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Auct. F.2.20 (Western 2186), fols. 62–65 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Can. Pat. Lat. 1, fols. 66<sup>v</sup>–72 (14th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Can. Pat. Lat. 1, fols. 66v–72 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Laud. 478, fols. 1–4 (13th/14th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Laud. 478, fols. 1–4 (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Laud. 633, fols. 107<sup>v</sup>–108<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Laud. 633, fols. 107v–108v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Jesus College, 47, fols. 95–96 (12th cent.)</p>",
+      "line_text": "Oxford, Jesus College, 47, fols. 95–96 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, St. John’s College XCVIII, fols. 14–17 (14th cent.)</p>",
+      "line_text": "Oxford, St. John’s College XCVIII, fols. 14–17 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Archive Nationales JJ 26, fols. 303–309<sup>v</sup> (1220)</p>",
+      "line_text": "Paris, Archive Nationales JJ 26, fols. 303–309v (1220)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 345, fols. 213<sup>v</sup>–215<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 345, fols. 213v–215v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 4999A, fols. 48–51<sup>v</sup> (12th/13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 4999A, fols. 48–51v (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 6041A, fols. 124<sup>v</sup>–127<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 6041A, fols. 124v–127v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 14575, pp. 277<sup>v</sup>–280 (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 14575, pp. 277v–280 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 14669, p. 131 (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 14669, p. 131 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 16021, fols. 15<sup>v</sup>–18<sup>v</sup> (1470)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 16021, fols. 15v–18v (1470)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 16056, fols. 119<sup>v</sup>–121<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 16056, fols. 119v–121v (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Nouv. Acq. Ms. Lat. 1905, fols. 105–105<sup>v</sup>(15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Nouv. Acq. Ms. Lat. 1905, fols. 105–105v(15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Praha, Kapituli, 1063 (H.IX), fols. 222–226 (14th cent.)</p>",
+      "line_text": "Praha, Kapituli, 1063 (H.IX), fols. 222–226 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Praha, University Library, 1810 X.A.7 (Y.II.1 n.7), fols. 283<sup>v</sup>–285 (14th cent.)</p>",
+      "line_text": "Praha, University Library, 1810 X.A.7 (Y.II.1 n.7), fols. 283v–285 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Praha, University Library, 2678 XIV .H. 33, fols. 62–69<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Praha, University Library, 2678 XIV .H. 33, fols. 62–69v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Reims, Bibliotèque municipale 1275 (J.743), fols. 27<sup>v</sup>–29<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Reims, Bibliotèque municipale 1275 (J.743), fols. 27v–29r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rein, Stiftsbibliothek 40, fols. 110<sup>v</sup>–118<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Rein, Stiftsbibliothek 40, fols. 110v–118v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rouen, Bibliothèque municipale, 486 (A.259), fols. 202<sup>v</sup>–205 (12th cent.)</p>",
+      "line_text": "Rouen, Bibliothèque municipale, 486 (A.259), fols. 202v–205 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rouen, Bibliothèque municipal, 1403 (U.134), fols. 62–65 (13th cent.)</p>",
+      "line_text": "Rouen, Bibliothèque municipal, 1403 (U.134), fols. 62–65 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Salisbury, Cathedral Library, 146, fols. 1<sup>r</sup>–3<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Salisbury, Cathedral Library, 146, fols. 1r–3v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sankt, Gallen Stifsbibliothek, 905, fols. 897–899 (10th cent.)</p>",
+      "line_text": "Sankt, Gallen Stifsbibliothek, 905, fols. 897–899 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Solothurn, Zentralbibliothek, S.696 XIV, fols. 36–40 (14th cent.)</p>",
+      "line_text": "Solothurn, Zentralbibliothek, S.696 XIV, fols. 36–40 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Stuttgart, Württembergische Landesbibliothek, 411, fols. 2–4 (1160-1170)</p>",
+      "line_text": "Stuttgart, Württembergische Landesbibliothek, 411, fols. 2–4 (1160-1170)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Stuttgart, Württembergische Landesbibliothek, HB III 6, fols. 159–161 (1469)</p>",
+      "line_text": "Stuttgart, Württembergische Landesbibliothek, HB III 6, fols. 159–161 (1469)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 642, fols. 94<sup>v</sup>–97 (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.642\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 642, fols. 94v–97 (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.642"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1795, fols. 85v<sup>v</sup>–89<sup>r</sup> (12th/13th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1795\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1795, fols. 85vv–89r (12th/13th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1795"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 10611, fols. 201<sup>v</sup>–203<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 10611, fols. 201v–203v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 72, fols. 65–66 (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.72\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 72, fols. 65–66 (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.72"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 571, fols. 6–8<sup>v</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.571\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 571, fols. 6–8v (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.571"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 2080, fols. 164<sup>v</sup>–166<sup>v</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.2080\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 2080, fols. 164v–166v (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.2080"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, 323, fols. 105<sup>v</sup>–115<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 323, fols. 105v–115v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, 574, fols. 29–33 (14th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 574, fols. 29–33 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, 3282, fols. 72–79 (16th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 3282, fols. 72–79 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, 12465 (suppl. 115), fols. 141–143<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 12465 (suppl. 115), fols. 141–143v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vorau, Stiftsbibliothek, 412, fols. 88–91<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Vorau, Stiftsbibliothek, 412, fols. 88–91v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wolfenbüttel, Herzog August Bibliothek Extravagantes, 163, fols. 16–19<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Wolfenbüttel, Herzog August Bibliothek Extravagantes, 163, fols. 16–19v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zwettl, Zisterzienserstift, 262, fols. 154<sup>v</sup>–159 (12th cent.)</p>",
+      "line_text": "Zwettl, Zisterzienserstift, 262, fols. 154v–159 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Holdenreid, Anke. <em>The Sibyl and Her Scribes: Manuscripts and Interpretation of the Latin Sibylla Tiburtina c. 1050–1500</em>. Church, Faith, and Culture in the Medieval West. Aldershot: Ashgate, 2006 (most recent list of extant MSS)</p>",
+      "line_text": "Holdenreid, Anke. The Sibyl and Her Scribes: Manuscripts and Interpretation of the Latin Sibylla Tiburtina c. 1050–1500. Church, Faith, and Culture in the Medieval West. Aldershot: Ashgate, 2006 (most recent list of extant MSS)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kurfess, Alfons. <em>Sibyllinisches Weissagungen: Urtext und Übersetzung. </em>Munich: Heimeren, 1951 (based on E, text and translation on pp. 262–79).</p>",
+      "line_text": "Kurfess, Alfons. Sibyllinisches Weissagungen: Urtext und Übersetzung. Munich: Heimeren, 1951 (based on E, text and translation on pp. 262–79).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/b24854773/page/n4\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Sackur, Ernst. <em>Sibyllinische Texte und Forschungen: Pseudomethodius, Adso und die tiburtinische Sibylle</em>. Halle: M. Niemeyer, 1898 (<em>editio princeps</em> of the Latin tradition, 114­­–87).</p>",
+      "line_text": "Sackur, Ernst. Sibyllinische Texte und Forschungen: Pseudomethodius, Adso und die tiburtinische Sibylle. Halle: M. Niemeyer, 1898 (editio princeps of the Latin tradition, 114­­–87).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/b24854773/page/n4"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Dub </strong> Dublin, Trinity College, 951, fols. 83–86 (13th cent.)</p>",
+      "line_text": "Dub  Dublin, Trinity College, 951, fols. 83–86 (13th cent.)",
+      "language": "Old French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Ld </strong> London, British Library, Harley 4972, fols. 43–47 (14th cent.)</p>",
+      "line_text": "Ld  London, British Library, Harley 4972, fols. 43–47 (14th cent.)",
+      "language": "Old French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Ox </strong> Oxford, Bodleian Library, Douce 308, fols. 250 (14th cent.)</p>",
+      "line_text": "Ox  Oxford, Bodleian Library, Douce 308, fols. 250 (14th cent.)",
+      "language": "Old French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Pr </strong> Paris, Bibliothèque nationale de France, fr. 375, fols. 27–28 (13th cent.)</p>",
+      "line_text": "Pr  Paris, Bibliothèque nationale de France, fr. 375, fols. 27–28 (13th cent.)",
+      "language": "Old French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Rn</strong> Rennes, Municipal Library, 593, fols. 163–165 (14th cent.)</p>",
+      "line_text": "Rn Rennes, Municipal Library, 593, fols. 163–165 (14th cent.)",
+      "language": "Old French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Baroin, Jeanne and Josiane Haffen. <em>La Prophétie de la Sibylle tiburtine: edition des MSS B. N. Fr. 375 et Rennes B. M. Fr. 593. </em>Annales littéraires de l’Université de Besançon 355. Paris: Belles Lettres, 1987.</p>",
+      "line_text": "Baroin, Jeanne and Josiane Haffen. La Prophétie de la Sibylle tiburtine: edition des MSS B. N. Fr. 375 et Rennes B. M. Fr. 593. Annales littéraires de l’Université de Besançon 355. Paris: Belles Lettres, 1987.",
+      "language": "Old French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 5, fols. 12<sup>r</sup>–14<sup>r</sup> (ca. 1350)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, Peniarth 5, fols. 12r–14r (ca. 1350)",
+      "language": "Middle Welsh",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/"
+      ]
+    },
+    {
+      "line_html": "<p>Alexander, Paul J. <em>The Oracle of Baalbek: The Tiburtine Sibyl in Greek Dress</em>. Dumbarton Oaks Studies 10. Washington, DC: Dumbarton Oaks Center for Byzantine Studies, 1967 (translation, pp. 23–29)</p>",
+      "line_text": "Alexander, Paul J. The Oracle of Baalbek: The Tiburtine Sibyl in Greek Dress. Dumbarton Oaks Studies 10. Washington, DC: Dumbarton Oaks Center for Byzantine Studies, 1967 (translation, pp. 23–29)",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Buitenwerf, Rieuwerd. “The Tiburtine Sibyl (Greek): A New Translation and Introduction.” Pages 176–88 in <em>Old Testament Pseudepigrapha: More Noncanonical Scriptures</em>. Vol. 1. Edited by Richard Bauckham, et al. Grand Rapids, MI: Eerdmans, 2013 (translation of edition by Alexander).</p>",
+      "line_text": "Buitenwerf, Rieuwerd. “The Tiburtine Sibyl (Greek): A New Translation and Introduction.” Pages 176–88 in Old Testament Pseudepigrapha: More Noncanonical Scriptures. Vol. 1. Edited by Richard Bauckham, et al. Grand Rapids, MI: Eerdmans, 2013 (translation of edition by Alexander).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “The Tiburtine Sibyl: A New Translation and Introduction.” Pages 510–25 in <em>New Testament Apocrypha: More Noncanonical Scriptures. MNTA</em> Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (translation of edition by Sackur).</p>",
+      "line_text": "Shoemaker, Stephen. “The Tiburtine Sibyl: A New Translation and Introduction.” Pages 510–25 in New Testament Apocrypha: More Noncanonical Scriptures. MNTA Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (translation of edition by Sackur).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Basset, René. <em>La sagesse de Sibylle</em>. Les Apocryphes Éthiopiens 10. Paris: Bibliothèque de la Haute Science, 1900. (Ethiopic MS translation on pp. 27–40; Arabic MS translation on pp. 54–62)</p>",
+      "line_text": "Basset, René. La sagesse de Sibylle. Les Apocryphes Éthiopiens 10. Paris: Bibliothèque de la Haute Science, 1900. (Ethiopic MS translation on pp. 27–40; Arabic MS translation on pp. 54–62)",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kurfess, Alfons. <em>Sibyllinisches Weissagungen: Urtext und Übersetzung. </em>Munich: Heimeren, 1951 (text and translation based on Latin E, pp. 262–79).</p>",
+      "line_text": "Kurfess, Alfons. Sibyllinisches Weissagungen: Urtext und Übersetzung. Munich: Heimeren, 1951 (text and translation based on Latin E, pp. 262–79).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Schleifer, Joel. <em>Die Erzählung der Sibylle: Ein Apokryph. Nach den karschunischen, arabischen und äthiopischen Handschriften zu London, Oxford, Paris und Rom</em>. Denkschriften der kaiserlichen Akad. der Wissensch. in Wien, Phil.-hist. Klasse 53.1. Vienna: Alfred Hölder, 1910 (Garšūnī, Arabic, and Ethiopic texts in parallel, pp. 6–49; translations, pp. 50-73).</p>",
+      "line_text": "Schleifer, Joel. Die Erzählung der Sibylle: Ein Apokryph. Nach den karschunischen, arabischen und äthiopischen Handschriften zu London, Oxford, Paris und Rom. Denkschriften der kaiserlichen Akad. der Wissensch. in Wien, Phil.-hist. Klasse 53.1. Vienna: Alfred Hölder, 1910 (Garšūnī, Arabic, and Ethiopic texts in parallel, pp. 6–49; translations, pp. 50-73).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://byzantineprophecy.files.wordpress.com/2020/01/1985_alexander_byzantine-apocalyptic-tradition.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Alexander, Paul J. <em>The Byzantine Apocalyptic Tradition</em>. Berkeley: University of California Press, 1985.</p>",
+      "line_text": "Alexander, Paul J. The Byzantine Apocalyptic Tradition. Berkeley: University of California Press, 1985.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://byzantineprophecy.files.wordpress.com/2020/01/1985_alexander_byzantine-apocalyptic-tradition.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “Byzantium and the Migration of Literary Works and Motifs: The Legend of the Last Emperor.” <em>Medievalia et Humanistica</em> n. s. 2 (1971): 47–68.</p>",
+      "line_text": "__________. “Byzantium and the Migration of Literary Works and Motifs: The Legend of the Last Emperor.” Medievalia et Humanistica n. s. 2 (1971): 47–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Medieval Legend of the Last Roman Emperor and Its Messianic Origin.” <em>Journal of the Warburg and Courtauld Institutes</em> 41 (1978): 1–15.</p>",
+      "line_text": "__________. “The Medieval Legend of the Last Roman Emperor and Its Messianic Origin.” Journal of the Warburg and Courtauld Institutes 41 (1978): 1–15.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bonura, Christopher. “When Did the Legend of the Last Emperor Originate? A New Look at the Textual Relationship between the Apocalypse of Pseudo-Methodius and the Tiburtine Sibyl.” <em>Viator </em>47.3 (2016): 47–100.</p>",
+      "line_text": "Bonura, Christopher. “When Did the Legend of the Last Emperor Originate? A New Look at the Textual Relationship between the Apocalypse of Pseudo-Methodius and the Tiburtine Sibyl.” Viator 47.3 (2016): 47–100.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Buitenwerf, Rieuwerd. <em>Book III of the </em>Sibylline Oracles <em>and Its Social Setting: With an Introduction, Translation and Commentary. </em>SVTP 17. Leiden: Brill, 2003.</p>",
+      "line_text": "Buitenwerf, Rieuwerd. Book III of the Sibylline Oracles and Its Social Setting: With an Introduction, Translation and Commentary. SVTP 17. Leiden: Brill, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Erdmann, Carl. “Endkaiserglaube und Kreuzzugsgedanke im 11. Jahrhundert.” <em>ZKG </em>51 (1932): 384–414.</p>",
+      "line_text": "Erdmann, Carl. “Endkaiserglaube und Kreuzzugsgedanke im 11. Jahrhundert.” ZKG 51 (1932): 384–414.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Flusser, David. “An Early Jewish-Christian Document in the Tiburtine Sibyl.” Pages 153–83 in <em>Paganisme, Judaïsme, Christianisme: Infleunces et affrontements dans le monde antique: Mélanges offerts à Marcel Simon. </em>Edited by A. Benoit et al. Paris: E. de Boccard, 1978.</p>",
+      "line_text": "Flusser, David. “An Early Jewish-Christian Document in the Tiburtine Sibyl.” Pages 153–83 in Paganisme, Judaïsme, Christianisme: Infleunces et affrontements dans le monde antique: Mélanges offerts à Marcel Simon. Edited by A. Benoit et al. Paris: E. de Boccard, 1978.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frankfurter, David. <em>Elijah in Upper Egypt: The Apocalypse of Elijah and Early Egyptian Christianity. </em>Minneapolis, MN: Fortress, 1993.</p>",
+      "line_text": "Frankfurter, David. Elijah in Upper Egypt: The Apocalypse of Elijah and Early Egyptian Christianity. Minneapolis, MN: Fortress, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieoraculasibyl02geffgoog/page/n10\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Geffcken, Johannes. <em>Die Oracula Sibyllina. </em>GCS 8. Leipzig: J. C. Hinrichs, 1902.</p>",
+      "line_text": "Geffcken, Johannes. Die Oracula Sibyllina. GCS 8. Leipzig: J. C. Hinrichs, 1902.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieoraculasibyl02geffgoog/page/n10"
+      ]
+    },
+    {
+      "line_html": "<p>Griffith, Karlyn. “Antichrist, Eschatology, and Romance in the Illustrated Harley Apocalypse, “Sibylle tiburtine,” and the “Tournoiement Antécrist” (MSS Harley 4972 and Douce 308).” PhD diss., Florida State University, 2014.</p>",
+      "line_text": "Griffith, Karlyn. “Antichrist, Eschatology, and Romance in the Illustrated Harley Apocalypse, “Sibylle tiburtine,” and the “Tournoiement Antécrist” (MSS Harley 4972 and Douce 308).” PhD diss., Florida State University, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Haffen, Josiane. <em>Contribution à l’étude de la sibylle médiévale. </em>Annales littéraires de l’Université de Besançon 296. Paris: Belles Lettres, 1984.</p>",
+      "line_text": "Haffen, Josiane. Contribution à l’étude de la sibylle médiévale. Annales littéraires de l’Université de Besançon 296. Paris: Belles Lettres, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Holdenried, Anke. “Christian Moral Decline: A New Context for the <em>Sibylla Tiburtina </em>(Ms Escorial &amp;.I.3).” Pages 321–36 in <em>Peoples of the Apocalypse: Eschatological Beliefs and Political Scenarios. </em>Edited by Wolfram Brandes, Felicitas Schmieder, and Robekka Voß. Berlin: De Gruyter, 2016.</p>",
+      "line_text": "Holdenried, Anke. “Christian Moral Decline: A New Context for the Sibylla Tiburtina (Ms Escorial &amp;.I.3).” Pages 321–36 in Peoples of the Apocalypse: Eschatological Beliefs and Political Scenarios. Edited by Wolfram Brandes, Felicitas Schmieder, and Robekka Voß. Berlin: De Gruyter, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. <em>The Sibyl and Her Scribes: Manuscripts and Interpretation of the Latin Sibylla Tiburtina c. 1050–1500</em>. Church, Faith, and Culture in the Medieval West. Aldershot: Ashgate, 2006.</p>",
+      "line_text": "_________. The Sibyl and Her Scribes: Manuscripts and Interpretation of the Latin Sibylla Tiburtina c. 1050–1500. Church, Faith, and Culture in the Medieval West. Aldershot: Ashgate, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kampers, Franz. <em>Kaiserprophetieen und kaisersagen im mittelalter. Ein beitrag zur geschichte der deutschen kaiseridee. </em>Munich: H. Lüneburg, 1895.</p>",
+      "line_text": "Kampers, Franz. Kaiserprophetieen und kaisersagen im mittelalter. Ein beitrag zur geschichte der deutschen kaiseridee. Munich: H. Lüneburg, 1895.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraufs, Samuel. “Zur Erklärung der tiburtinischen Sibylle.” <em>ByzZ </em>10.1 (1901): 200–203.</p>",
+      "line_text": "Kraufs, Samuel. “Zur Erklärung der tiburtinischen Sibylle.” ByzZ 10.1 (1901): 200–203.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kumaoka, Soline. “La tradition des oracles sibyllins dévoilée par les inscriptions des peintures des écoinçons du rond-point de Notre-Dame-la-Grande de Poitiers (fin XI e-début XII e siècle) : à propos d’un article récent.” <em>Cahiers de civilisation médiévale</em> 256.4 (2021): 303–26.</p>",
+      "line_text": "Kumaoka, Soline. “La tradition des oracles sibyllins dévoilée par les inscriptions des peintures des écoinçons du rond-point de Notre-Dame-la-Grande de Poitiers (fin XI e-début XII e siècle) : à propos d’un article récent.” Cahiers de civilisation médiévale 256.4 (2021): 303–26.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kurfess, Alfons. “Augustinus und die Tiburtinische Sibylle.” <em>TQ </em>131 (1951): 458–63.</p>",
+      "line_text": "Kurfess, Alfons. “Augustinus und die Tiburtinische Sibylle.” TQ 131 (1951): 458–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Massip, Francesc. “La Sibylle tiburtine dans les mystères de la Nativité et de l’Epiphanie.” <em>Revue des Langues Romanes </em>117.1 (2013): 49–78.</p>",
+      "line_text": "Massip, Francesc. “La Sibylle tiburtine dans les mystères de la Nativité et de l’Epiphanie.” Revue des Langues Romanes 117.1 (2013): 49–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McGinn, Bernard. “Oracular Transformations: The ‘Sibylla Tiburtina’ in the Middle Ages.” Pages 603–44 in <em>Sibille e linguaggi oracolari: mito, storia, tradizione : atti del convegno, Macerata-Norcia, settembre 1994</em>. Edited by Ileana Chirassi Colombo and Tullio Seppilli. Pisa: Istituti editoriali e poligrafici internazionali, 1998.</p>",
+      "line_text": "McGinn, Bernard. “Oracular Transformations: The ‘Sibylla Tiburtina’ in the Middle Ages.” Pages 603–44 in Sibille e linguaggi oracolari: mito, storia, tradizione : atti del convegno, Macerata-Norcia, settembre 1994. Edited by Ileana Chirassi Colombo and Tullio Seppilli. Pisa: Istituti editoriali e poligrafici internazionali, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “<em>Teste David cum Sibylla</em>: The Significance of the Sibylline Tradition in the Middle Ages.” Pages 7–35 in <em>Women of the Medieval World: Essays in Honor of John H. Mundy</em>. Edited by Julius Kirshner and Susan F. Wemple. Oxford: Basil Blackwell, 1985.</p>",
+      "line_text": "__________. “Teste David cum Sibylla: The Significance of the Sibylline Tradition in the Middle Ages.” Pages 7–35 in Women of the Medieval World: Essays in Honor of John H. Mundy. Edited by Julius Kirshner and Susan F. Wemple. Oxford: Basil Blackwell, 1985.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mercati, Silvio G. “È stato trovato il testo greco della Sibilla Tiburtina.”<em> AIPHOS</em> 9 (1949): 473–81 (discovered Greek MSS K and Q).</p>",
+      "line_text": "Mercati, Silvio G. “È stato trovato il testo greco della Sibilla Tiburtina.” AIPHOS 9 (1949): 473–81 (discovered Greek MSS K and Q).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Möhring, Hannes. <em>Der Weltkaiser der Endzeit: Entstehung, Wandel und Wirkung einer tausendjährigen Weissagung</em>. Mittelalter-Forschungen 3. Stuttgart: Thorbecke, 2000.</p>",
+      "line_text": "Möhring, Hannes. Der Weltkaiser der Endzeit: Entstehung, Wandel und Wirkung einer tausendjährigen Weissagung. Mittelalter-Forschungen 3. Stuttgart: Thorbecke, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Authority and Canon According to Some Ancient ‘Christian’ Apocalypses: <em>5 Ezra </em>and the <em>Tiburtine Sibyl</em>.” Pages 257–270 in <em>Authoritative Writings in Early Judaism and Early Christianity: Their Origin, Collection, and Meaning. </em>Edited by Tobias Nicklas and Jens Schröter. WUNT 441. Tübingen: Mohr Siebeck, 2020.</p>",
+      "line_text": "Nicklas, Tobias. “Authority and Canon According to Some Ancient ‘Christian’ Apocalypses: 5 Ezra and the Tiburtine Sibyl.” Pages 257–270 in Authoritative Writings in Early Judaism and Early Christianity: Their Origin, Collection, and Meaning. Edited by Tobias Nicklas and Jens Schröter. WUNT 441. Tübingen: Mohr Siebeck, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ottewill-Soulsby, Samuel. “ʿAbbāsid-Carolingian Diplomacy in Early Medieval Arabic Apocalypse.” <em>Millennium </em>16.1 (2019): 213–232.</p>",
+      "line_text": "Ottewill-Soulsby, Samuel. “ʿAbbāsid-Carolingian Diplomacy in Early Medieval Arabic Apocalypse.” Millennium 16.1 (2019): 213–232.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Parke, Herbert W. <em>Sibyls and Sibylline Prophecy in Classical Antiquity. </em>Edited by B. C. McGing. London: Routledge, 1988.</p>",
+      "line_text": "Parke, Herbert W. Sibyls and Sibylline Prophecy in Classical Antiquity. Edited by B. C. McGing. London: Routledge, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Petkov, Julian. <em>Altslavische Eschatologie: Texte und Studien zur apokalyptischen Literatur in kirchenslavischer Überlieferung. </em>Tübingen: Narr Francke Attempto, 2016 (see pp. 338–43).</p>",
+      "line_text": "Petkov, Julian. Altslavische Eschatologie: Texte und Studien zur apokalyptischen Literatur in kirchenslavischer Überlieferung. Tübingen: Narr Francke Attempto, 2016 (see pp. 338–43).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Podskalsky, Gerhard. <em>Byzantinische Reichseschatologie: die Periodisierung der Weltgeschichte in den vier Grossreichen (Daniel 2 und 7) und dem tausendjährigen Friedensreiche (Apok. 20) Eine motivgeschichtliche Untersuchung</em>. München: W. Fink, 1972.</p>",
+      "line_text": "Podskalsky, Gerhard. Byzantinische Reichseschatologie: die Periodisierung der Weltgeschichte in den vier Grossreichen (Daniel 2 und 7) und dem tausendjährigen Friedensreiche (Apok. 20) Eine motivgeschichtliche Untersuchung. München: W. Fink, 1972.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rangheri, Maurizio. “La ‘Epistola ad Gerbergam reginam de ortu et tempore Antichristi’ di Adsone di Montier-en-Der e le sue fonti.” <em>Studi medievali</em> 14 (1973): 677–732.</p>",
+      "line_text": "Rangheri, Maurizio. “La ‘Epistola ad Gerbergam reginam de ortu et tempore Antichristi’ di Adsone di Montier-en-Der e le sue fonti.” Studi medievali 14 (1973): 677–732.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reinink, Gerrit J. “Ps.-Methodius: A Concept of History in Response to the Rise of Islam.” Pages 149–87 in <em>The Byzantine and Early Islamic Near East: Papers of the First Workshop on Late Antiquity and Early Islam</em>. Edited by Averil Cameron and Lawrence I. Conrad. Studies in Late Antiquity and Early Islam 1. Princeton: Darwin Press, 1992.</p>",
+      "line_text": "Reinink, Gerrit J. “Ps.-Methodius: A Concept of History in Response to the Rise of Islam.” Pages 149–87 in The Byzantine and Early Islamic Near East: Papers of the First Workshop on Late Antiquity and Early Islam. Edited by Averil Cameron and Lawrence I. Conrad. Studies in Late Antiquity and Early Islam 1. Princeton: Darwin Press, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Secret, François. “Cornelius Gemma et la prophetie de la Sibylle tiburtine.” <em>RHE </em>64 (1969): 423–31.</p>",
+      "line_text": "Secret, François. “Cornelius Gemma et la prophetie de la Sibylle tiburtine.” RHE 64 (1969): 423–31.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. <em>The Apocalypse of Empire: Imperial Eschatology in Late Antiquity and Early Islam.</em> Divinations: Rereading Late Ancient Religion. Philadelphia, PA: University of Pennsylvania Press, 2018 (see pp. 42–63, 73–75).</p>",
+      "line_text": "Shoemaker, Stephen. The Apocalypse of Empire: Imperial Eschatology in Late Antiquity and Early Islam. Divinations: Rereading Late Ancient Religion. Philadelphia, PA: University of Pennsylvania Press, 2018 (see pp. 42–63, 73–75).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “The <em>Tiburtine Sibyl, </em>the Last Emperor, and the Early Byzantine Apocalyptic Tradition.” Pages 216–44 in <em>Forbidden Texts on the Western Frontier: Proceedings from the 2013 York University Christian Apocrypha Symposium. </em>Edited by Tony Burke. Eugene, OR: Cascade, 2015.</p>",
+      "line_text": "Shoemaker, Stephen. “The Tiburtine Sibyl, the Last Emperor, and the Early Byzantine Apocalyptic Tradition.” Pages 216–44 in Forbidden Texts on the Western Frontier: Proceedings from the 2013 York University Christian Apocrypha Symposium. Edited by Tony Burke. Eugene, OR: Cascade, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tischler, Matthias M. “From Rome to Ripoll, Rioja, and Beyond: The Iberian Transmission of the Latin Tiburtine Sibyl and Oliba of Ripoll and Vic’s Europe-Wide Network of Knowledge Transfer and Learning.” <em>Early Medieval Europe </em>30.4 (2022): 558–76.</p>",
+      "line_text": "Tischler, Matthias M. “From Rome to Ripoll, Rioja, and Beyond: The Iberian Transmission of the Latin Tiburtine Sibyl and Oliba of Ripoll and Vic’s Europe-Wide Network of Knowledge Transfer and Learning.” Early Medieval Europe 30.4 (2022): 558–76.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

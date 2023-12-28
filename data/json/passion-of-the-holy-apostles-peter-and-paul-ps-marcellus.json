@@ -1,0 +1,1151 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-the-holy-apostles-peter-and-paul-ps-marcellus/",
+  "nasscal_toc_title": "Passion of the Holy Apostles Peter and Paul (Pseudo-Marcellus)",
+  "filename": "passion-of-the-holy-apostles-peter-and-paul-ps-marcellus",
+  "latin_title": "Passio apostolorum Petri et Pauli (Pseudo-Marcellus)",
+  "abbrev": "Pass. Holy Pet. Paul",
+  "alt_titles": [
+    "Passion of the Holy Apostles Peter and Paul (Ps.-Marcellus)",
+    "Acts of the Holy Apostles Peter and Paul"
+  ],
+  "clavis_number": 403,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 615, pp. 300–44 (1677) ~ <a href=\"https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">CATALOG</a></p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 615, pp. 300–44 (1677) ~ CATALOG",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 620, pp. 32–40 (18th cent.) ~ <a href=\"https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">CATALOG</a></p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 620, pp. 32–40 (18th cent.) ~ CATALOG",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, pp. 133–60 (1658) ~ <a href=\"https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">CATALOG</a></p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, pp. 133–60 (1658) ~ CATALOG",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 42<sup>r</sup>–57<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 42r–57r (12th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-405/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 213<sup>r</sup>–223<sup>r</sup> (1334/1335)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 213r–223r (1334/1335)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-405/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. O (1259)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. O (1259)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-258/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Arabe 258, fols. 223<sup>v</sup>–235<sup>v</sup>  (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 258, fols. 223v–235v  (15th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-258/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actamythologica00guidgoog/page/n84/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith. <em>Acta mythologica apostolorum</em>. Horae semiticae 3. London: Clay, 1904 (Arabic text from Sinai, arab. 405, pp. 165–78).</p>",
+      "line_text": "Lewis, Agnes Smith. Acta mythologica apostolorum. Horae semiticae 3. London: Clay, 1904 (Arabic text from Sinai, arab. 405, pp. 165–78).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actamythologica00guidgoog/page/n84/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “Alcune osservazioni sul <em>Gadla ḥawāryāt</em>.” <em>Annali dell’Istituto Orientale di Napoli</em> 60–61 (2001–2002): 77–114 (list of 31 manuscripts of the Arabic acts collection, pp. 97–101).</p>",
+      "line_text": "Bausi, Alessandro. “Alcune osservazioni sul Gadla ḥawāryāt.” Annali dell’Istituto Orientale di Napoli 60–61 (2001–2002): 77–114 (list of 31 manuscripts of the Arabic acts collection, pp. 97–101).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n305/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1, pp. 261, 263).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1, pp. 261, 263).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n305/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Long text (BHO 959):</p>",
+      "line_text": "Long text (BHO 959):",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Paris, Bibliothèque nationale de France, arm. 110, fols. 575<sup>r</sup>–583<sup>r</sup> (1194)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, arm. 110, fols. 575r–583r (1194)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Bibliothèque nationale de France, arm. 118, fols. 293<sup>v</sup>–299<sup>r</sup> (14th cent.)</p>",
+      "line_text": "B  Bibliothèque nationale de France, arm. 118, fols. 293v–299r (14th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Bibliothèque nationale de France, arm. 120, fols. 441<sup>r</sup>–448<sup>r</sup> (14th cent.)</p>",
+      "line_text": "C  Bibliothèque nationale de France, arm. 120, fols. 441r–448r (14th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Bibliothèque nationale de France, arm. 178, fols. 605<sup>r</sup>–611<sup>v</sup> (13th cent.)</p>",
+      "line_text": "D  Bibliothèque nationale de France, arm. 178, fols. 605r–611v (13th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 569 (234) (1518)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 569 (234) (1518)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 1447 (223) (15th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 1447 (223) (15th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993</p>",
+      "line_text": "Yerevan, Matenadaran, 993",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 332</p>",
+      "line_text": "Yerevan, Matenadaran, 332",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Short text (BHO 962):</p>",
+      "line_text": "Short text (BHO 962):",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 653 (228) (1847)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 653 (228) (1847)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 17 (200) (1224)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 17 (200) (1224)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 1014 (201) (12th/13th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 1014 (201) (12th/13th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 239 (222) (1335)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 239 (222) (1335)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 299 (215) (1829)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 299 (215) (1829)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 456 (27) (14th/15th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 456 (27) (14th/15th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchal library of the Armenian Monastery of St. James, I-d, pp. 845f.</p>",
+      "line_text": "Jerusalem, Patriarchal library of the Armenian Monastery of St. James, I-d, pp. 845f.",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchal library of the Armenian Monastery of St. James 73, pp. 64<sup>r </sup>f. (1398)</p>",
+      "line_text": "Jerusalem, Patriarchal library of the Armenian Monastery of St. James 73, pp. 64r f. (1398)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n13/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (editions, pp. 1–29 [BHO 959 based on the six Venice manuscripts], 35–54 [BHO 962 based on the two Venice manuscripts]).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (editions, pp. 1–29 [BHO 959 based on the six Venice manuscripts], 35–54 [BHO 962 based on the two Venice manuscripts]).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n13/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dli.ministry.18199/page/15/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. “Die armenischen apokryphen Apostelakten II: Die Akten der Apostel Petrus und Paulus.” <em>OrChr</em> 3 (1903): 16–55, 324–83 (BHO 959 based on ABCD with a facing Greek retroversion, pp. 20–55, 324–83).</p>",
+      "line_text": "Vetter, Paul. “Die armenischen apokryphen Apostelakten II: Die Akten der Apostel Petrus und Paulus.” OrChr 3 (1903): 16–55, 324–83 (BHO 959 based on ABCD with a facing Greek retroversion, pp. 20–55, 324–83).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/dli.ministry.18199/page/15/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lviv, <span class=\"f7rl1if4 adechonz f6oz4yja dahkl6ri axrg9lpx rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 sdu1flz4\">Litmanová ms. B from the collection of Štefan Hlinka</span>, fols. 25–35 (=de Santos Otero 13)</p>",
+      "line_text": "Lviv, Litmanová ms. B from the collection of Štefan Hlinka, fols. 25–35 (=de Santos Otero 13)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. I. Chludov, 105, fols. 57<sup>v</sup>–66<sup>v</sup> (15th cent.) (=de Santos Otero 14)</p>",
+      "line_text": "Moscow, State Historical Museum, A. I. Chludov, 105, fols. 57v–66v (15th cent.) (=de Santos Otero 14)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, Čudovskij Monastyr’ 62 (264), fols. 204–219 (16th cent.) (=de Santos Otero 25)</p>",
+      "line_text": "Moscow, State Historical Museum, Čudovskij Monastyr’ 62 (264), fols. 204–219 (16th cent.) (=de Santos Otero 25)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Franko, Ivan. <em>Apokrifi î legendy z ukraïnsǐkich rukopisiv.</em> 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (edition of Lviv manuscript, vol. 3, pp. 25–42).</p>",
+      "line_text": "Franko, Ivan. Apokrifi î legendy z ukraïnsǐkich rukopisiv. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (edition of Lviv manuscript, vol. 3, pp. 25–42).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1 pp. 60–66 ~ see nos. 4–5a, 8, 9, 11–20, 23–26, 30–31, 33–34; and vol. 2 pp. 242–43).</p>",
+      "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1 pp. 60–66 ~ see nos. 4–5a, 8, 9, 11–20, 23–26, 30–31, 33–34; and vol. 2 pp. 242–43).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.sk/books?id=2uRg6duk7KIC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0&amp;fbclid=IwAR2bFZKW7q0UVWcfyh4JyCOlTaHlplE45ckJUba_0xEh2Pf1tRwdS01LULM#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Popov, A. N. “Dejanija apostolov petra i pavla.” Pages 1–41 in<span class=\"f7rl1if4 adechonz f6oz4yja dahkl6ri axrg9lpx rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 sdu1flz4\"> Biblîografičeskîe materîaly sobrannye A. N. Popovymǔ (XV–XIX). Edited by Michail Speranskîj. Moskow: Universitetskaja Tipografîja, 1889</span> (edition of Chludov 105, pp. 5–19; edition of Moscow 62, pp. 20–41).</p>",
+      "line_text": "Popov, A. N. “Dejanija apostolov petra i pavla.” Pages 1–41 in Biblîografičeskîe materîaly sobrannye A. N. Popovymǔ (XV–XIX). Edited by Michail Speranskîj. Moskow: Universitetskaja Tipografîja, 1889 (edition of Chludov 105, pp. 5–19; edition of Moscow 62, pp. 20–41).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.sk/books?id=2uRg6duk7KIC&printsec=frontcover&source=gbs_ge_summary_r&cad=0&fbclid=IwAR2bFZKW7q0UVWcfyh4JyCOlTaHlplE45ckJUba_0xEh2Pf1tRwdS01LULM#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Review of Aurelio de Santos Otero, <em>Die handschriftliche Überlieferung der altslavischen Apokryphen</em>, vol. 1. <em>Slavonic and East European Review</em> 58 (1980): 256–68 at 258 (with corrections to de Santos Otero).</p>",
+      "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handschriftliche Überlieferung der altslavischen Apokryphen, vol. 1. Slavonic and East European Review 58 (1980): 256–68 at 258 (with corrections to de Santos Otero).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-dm/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.DM, pages uncertain (10th–12th cent.)</p>",
+      "line_text": "MONB.DM, pages uncertain (10th–12th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-dm/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Munich, Bayerische Staatsbibliothek, P. Monac. Kopt. 3, fols. 151–152 (undated)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, P. Monac. Kopt. 3, fols. 151–152 (undated)",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Strasbourg, Bibliothèque Nationale et Universitaire, Copte 9, single unnumbered leaf (5th/6th cent.) (<a href=\"https://atlas.paths-erc.eu/manuscripts/1999\" target=\"_blank\" rel=\"noopener\">PAThs</a>)</p>",
+      "line_text": "Strasbourg, Bibliothèque Nationale et Universitaire, Copte 9, single unnumbered leaf (5th/6th cent.) (PAThs)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1999"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichischen nationalbibliothek – Papyrussamlung, K2941 (9th cent.)</p>",
+      "line_text": "Vienna, Österreichischen nationalbibliothek – Papyrussamlung, K2941 (9th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/proceedings28soci/page/n315/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Winstedt, E. O. “Some Munich Coptic Fragments.” <em>Proceedings of the Society of Biblical Archeology</em> 28 (1906): 137–42, 229–37 (Coptic text, pp. 232–36; English translation, p. 237).</p>",
+      "line_text": "Winstedt, E. O. “Some Munich Coptic Fragments.” Proceedings of the Society of Biblical Archeology 28 (1906): 137–42, 229–37 (Coptic text, pp. 232–36; English translation, p. 237).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/proceedings28soci/page/n315/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://digi.ub.uni-heidelberg.de/diglit/rectrav1902/0046/image,info\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jacoby, Adolf. “Studien zur koptischen.” <em>Recueil de travaux relatifs à la philologie et à l’archéologie égyptiennes et assyriennes</em> 24 (1902): 36–44 (Coptic text of the Strasbourg fragment with facing English translation, pp. 43–44).</p>",
+      "line_text": "Jacoby, Adolf. “Studien zur koptischen.” Recueil de travaux relatifs à la philologie et à l’archéologie égyptiennes et assyriennes 24 (1902): 36–44 (Coptic text of the Strasbourg fragment with facing English translation, pp. 43–44).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.ub.uni-heidelberg.de/diglit/rectrav1902/0046/image,info"
+      ]
+    },
+    {
+      "line_html": "<p>Orlandi, Tito. “Papiri copti di contenuto teologico.” <em>Mitteilungen der Papyrussammlung der Österreichischen nationalbibliothek</em>, NS 9 (1974): 120–25.</p>",
+      "line_text": "Orlandi, Tito. “Papiri copti di contenuto teologico.” Mitteilungen der Papyrussammlung der Österreichischen nationalbibliothek, NS 9 (1974): 120–25.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Iviron, Geor. 8 (10th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, Geor. 8 (10th cent.)",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Georg. b1 (1038–1040)</p>",
+      "line_text": "Oxford, Bodleian Library, Georg. b1 (1038–1040)",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tbilisi, National Center of Manuscripts, Cod. H 1708 (11th cent.)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, Cod. H 1708 (11th cent.)",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Garitte, Gérard. “Le récents catalogues des manuscrits géorgiens de Tflis.” <em>Mus</em> 74 (1961): 387–422 (see p. 404 no. 1).</p>",
+      "line_text": "Garitte, Gérard. “Le récents catalogues des manuscrits géorgiens de Tflis.” Mus 74 (1961): 387–422 (see p. 404 no. 1).",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient19pariuoft/page/724/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Marr, Nicholas. “Le synaxaire géorgien: <span class=\"aCOpRe\">Redaction ancienne de l’Union arméno-géorgienne<em>.</em></span>” <em>PO</em> 19 (1926): 629–742 (edition based on Iviron 8, pp. 733–41).</p>",
+      "line_text": "Marr, Nicholas. “Le synaxaire géorgien: Redaction ancienne de l’Union arméno-géorgienne.” PO 19 (1926): 629–742 (edition based on Iviron 8, pp. 733–41).",
+      "language": "Georgian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient19pariuoft/page/724/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Sigla assigned by Lipsius-Bonnet:</p>",
+      "line_text": "Sigla assigned by Lipsius-Bonnet:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Greek A (Short Version; closer in form to Latin; <a href=\"https://archive.org/details/bibliothecahagi00boll/page/208/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">BHG</a> 1491)</p>",
+      "line_text": "Greek A (Short Version; closer in form to Latin; BHG 1491)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bibliothecahagi00boll/page/208/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Venice, Biblioteca Nazionale Marciana, VII. 037 (coll. 1269), fols. 70<sup>r</sup>–90<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70554/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "E  Venice, Biblioteca Nazionale Marciana, VII. 037 (coll. 1269), fols. 70r–90v (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70554/"
+      ]
+    },
+    {
+      "line_html": "<p>Greek B (Long Version; <a href=\"https://archive.org/details/bibliothecahagi00boll/page/208/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">BHG</a> 1490)</p>",
+      "line_text": "Greek B (Long Version; BHG 1490)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bibliothecahagi00boll/page/208/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1470/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A </strong> Paris, Bibliothèque nationale de France, gr. 1470, fols. 98<sup>v</sup>–108<sup>r</sup> (ca. 890)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, gr. 1470, fols. 98v–108r (ca. 890)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1470/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, gr. 897, fols. 131<sup>v</sup>–157<sup>r</sup>  (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50485/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10722137n\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, gr. 897, fols. 131v–157r  (12th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50485/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10722137n"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>C</strong>  Paris, Bibliothèque nationale de France, Coislin 121, fols. 114<sup>r</sup>–117<sup>v</sup>, 120<sup>r</sup>–121<sup>v </sup>(1343)</p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, Coislin 121, fols. 114r–117v, 120r–121v (1343)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Paris, Bibliothèque nationale de France, gr. 635, fols. 171<sup>r</sup>–189<sup>r</sup>  (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50216/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107217631\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "D  Paris, Bibliothèque nationale de France, gr. 635, fols. 171r–189r  (14th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50216/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107217631"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/messina-biblioteca-regionale-universitaria-giacomo-longo-san-salvatoris-3/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>F</strong>  Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo’, San Salvatoris 3, fols. 117<sup>r</sup>–132<sup>r</sup> (1141)</p>",
+      "line_text": "F  Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo’, San Salvatoris 3, fols. 117r–132r (1141)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/messina-biblioteca-regionale-universitaria-giacomo-longo-san-salvatoris-3/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Vienna, Österreichische Nationalbibliothek, cod. hist. gr. 116 (olim 36), fols. 94<sup>r</sup>–105<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/71003/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "G  Vienna, Österreichische Nationalbibliothek, cod. hist. gr. 116 (olim 36), fols. 94r–105v (14th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/71003/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Paris, Bibliothèque nationale de France, gr. 1505, fols. 154<sup>v</sup>–156<sup>v</sup>, 165<sup>r</sup>–169<sup>v</sup>, 157<sup>r</sup>–157<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51123/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10722265c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "H  Paris, Bibliothèque nationale de France, gr. 1505, fols. 154v–156v, 165r–169v, 157r–157v (12th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51123/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10722265c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong>  Paris, Bibliothèque nationale de France, gr. 979, fols. 294<sup>r</sup>–309<sup>v</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50570/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721751q\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "I  Paris, Bibliothèque nationale de France, gr. 979, fols. 294r–309v (13th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50570/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721751q"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Paris, Bibliothèque nationale de France, gr. 771, fols. 289<sup>r</sup>–297<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50355/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721537t\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "K  Paris, Bibliothèque nationale de France, gr. 771, fols. 289r–297v (14th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50355/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721537t"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Florence, Biblioteca Medicea Laurenziana, Plut. 9.6, fols. 358<sup>r</sup>–370<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/16094/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.9.6\" target=\"_blank\" rel=\"noopener\">BML</a></p>",
+      "line_text": "L  Florence, Biblioteca Medicea Laurenziana, Plut. 9.6, fols. 358r–370r (11th cent.) ~ Pinakes; BML",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/16094/",
+        "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.9.6"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Vatican, Biblioteca Apostolica Vaticana, Palat. gr. 317, fols. 19<sup>v</sup>–27<sup>v</sup> (11th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/66049/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_317\" target=\"_blank\" rel=\"noopener\">Heidelberg</a></p>",
+      "line_text": "M  Vatican, Biblioteca Apostolica Vaticana, Palat. gr. 317, fols. 19v–27v (11th/13th cent.) ~ Pinakes; Heidelberg",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/66049/",
+        "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_317"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 821, fols. 140<sup>v</sup>–153<sup>v</sup> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67452/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "N  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 821, fols. 140v–153v (11th/12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67452/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Oxford, New College, 82, fols. 199<sup>v</sup>–211<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48730/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "O  Oxford, New College, 82, fols. 199v–211v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48730/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Oxford, Bodleian Library, Barocci 147, fols. 176<sup>r</sup>–189<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47434/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digital.bodleian.ox.ac.uk/objects/d2266124-c9c3-4f9b-ba7b-0bc2662ecd90/\" target=\"_blank\" rel=\"noopener\">Oxford</a></p>",
+      "line_text": "P  Oxford, Bodleian Library, Barocci 147, fols. 176r–189r (15th cent.) ~ Pinakes; Oxford",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47434/",
+        "https://digital.bodleian.ox.ac.uk/objects/d2266124-c9c3-4f9b-ba7b-0bc2662ecd90/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong> Mount Athos, Mone Batopediou, 422 (olim 368), fols. 132<sup>r</sup>–144<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18566/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Q Mount Athos, Mone Batopediou, 422 (olim 368), fols. 132r–144r (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18566/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Torino, Biblioteca Nazionale Universitaria, C.IV.4 (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/63875/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "T  Torino, Biblioteca Nazionale Universitaria, C.IV.4 (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/63875/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-422/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 422, fols. 297<sup>r</sup>–309<sup>r</sup> (1546)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 422, fols. 297r–309r (1546)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-422/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-panagios-taphos-66/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos gr. 66, <span lang=\"EN-US\">fols. 142<sup>v</sup>–160<sup>v</sup></span> (15th/16th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos gr. 66, fols. 142v–160v (15th/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-panagios-taphos-66/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarche-bibliotheke-hagiou-saba-13/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 13, fols. 115<sup>r</sup>–126<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 13, fols. 115r–126v (10th/11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarche-bibliotheke-hagiou-saba-13/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-99-sup/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, F 99 sup. (Martini-Bassi 353), fols. 106<sup>v</sup>–114<sup>r </sup>(11th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 99 sup. (Martini-Bassi 353), fols. 106v–114r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-99-sup/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-jean-de-vernon-icp-ifeb-34/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque Jean de Vernon, ICP, IFEB 34, fols. 1<sup>r</sup>–15<sup>v </sup>(1599)</p>",
+      "line_text": "Paris, Bibliothèque Jean de Vernon, ICP, IFEB 34, fols. 1r–15v (1599)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-jean-de-vernon-icp-ifeb-34/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><sup><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-1/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></sup>Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 1, fols. 273<sup>v</sup>–282<sup>r </sup>(11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 1, fols. 273v–282r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-1/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 82<sup>v</sup>–101<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 82v–101v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n61/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. and Maximilien Bonnet, eds. <em>Acta apostolorum Apocrypha</em>. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (introduction, vol. 1, pp. lvii–xc; Latin text with facing shorter Greek text from E, pp. 118–77; longer Greek text, pp. 178–222).</p>",
+      "line_text": "Lipsius, Richard A. and Maximilien Bonnet, eds. Acta apostolorum Apocrypha. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (introduction, vol. 1, pp. lvii–xc; Latin text with facing shorter Greek text from E, pp. 118–77; longer Greek text, pp. 178–222).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n61/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Lipsius-Bonnet with facing Spanish translation, vol. 3, pp. 365–429).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Lipsius-Bonnet with facing Spanish translation, vol. 3, pp. 365–429).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.numistral.fr/ark:/12148/bpt6k9100024g/f1.item.texteImage\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Thilo, Johann Karl. Acta ss. apostolorum Petri et Pauli. 2 vols. Halle: Orphanotrophei, 1837–1838 (<em>editio princeps</em> of Greek text based on A and B with facing Latin text from Latin manuscripts G and H).</p>",
+      "line_text": "Thilo, Johann Karl. Acta ss. apostolorum Petri et Pauli. 2 vols. Halle: Orphanotrophei, 1837–1838 (editio princeps of Greek text based on A and B with facing Latin text from Latin manuscripts G and H).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.numistral.fr/ark:/12148/bpt6k9100024g/f1.item.texteImage"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actaapostolorum00actsgoog/page/n84/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Acta apostolorum apocrypha</em>. Leipzig: Avenarius et Mendelssohn, 1851 (edition based on A–F, pp. 1–39; introduction, pp. xiv–xxi).</p>",
+      "line_text": "Tischendorf, Constantin. Acta apostolorum apocrypha. Leipzig: Avenarius et Mendelssohn, 1851 (edition based on A–F, pp. 1–39; introduction, pp. xiv–xxi).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actaapostolorum00actsgoog/page/n84/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lipsius-Bonnet base their edition on 22 manuscripts, and they lists another 56 witnesses; listed here are their primary witnesses with their sigla. D’Anna has identified over 180 manuscripts (related via private correspondence).</p>",
+      "line_text": "Lipsius-Bonnet base their edition on 22 manuscripts, and they lists another 56 witnesses; listed here are their primary witnesses with their sigla. D’Anna has identified over 180 manuscripts (related via private correspondence).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong> St. Gall, Stiftsbibliothek 561, fols. 1<sup>r</sup>–20<sup>r</sup> (9th-10th cent.) ~ <a href=\"https://www.e-codices.unifr.ch/en/description/csg/0561/\">e-codices</a></p>",
+      "line_text": "A St. Gall, Stiftsbibliothek 561, fols. 1r–20r (9th-10th cent.) ~ e-codices",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.e-codices.unifr.ch/en/description/csg/0561/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong> Bern, Burgerbibliothek A 94.12, fols. 13<sup>r</sup>–16<sup>v</sup> (11th cent.) ~ <a href=\"https://www.e-codices.unifr.ch/en/list/one/bbb/A0094-12\">e-codices</a></p>",
+      "line_text": "B Bern, Burgerbibliothek A 94.12, fols. 13r–16v (11th cent.) ~ e-codices",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.e-codices.unifr.ch/en/list/one/bbb/A0094-12"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong> Paris, Bibliothèque nationale de France, nouv. acq. lat. 2179, fols. 194<sup>r</sup>–200<sup>v</sup> (10th cent.) ~ <a href=\"https://archivesetmanuscrits.bnf.fr/ark:/12148/cc70408g\">BNF</a></p>",
+      "line_text": "C Paris, Bibliothèque nationale de France, nouv. acq. lat. 2179, fols. 194r–200v (10th cent.) ~ BNF",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc70408g"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong> Paris, Bibliothèque nationale de France, lat. 5201, fols. 90<sup>r</sup>–99<sup>r</sup> (10th-11th cent.)</p>",
+      "line_text": "D Paris, Bibliothèque nationale de France, lat. 5201, fols. 90r–99r (10th-11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong> Paris, Bibliothèque Mazarine 1708 (1318), fols. 8<sup>v</sup>–26<sup>r</sup> (10th/11th cent.) ~ <a href=\"http://www.calames.abes.fr/pub/#details?id=MAZB11520\">Calames</a></p>",
+      "line_text": "E Paris, Bibliothèque Mazarine 1708 (1318), fols. 8v–26r (10th/11th cent.) ~ Calames",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.calames.abes.fr/pub/#details?id=MAZB11520"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong> Florence, Biblioteca Medicea Laurenziana, Plut. 30 sin. 4, fols. 332<sup>r</sup>–336<sup>r</sup> (11th cent.) ~ <a href=\"http://www.mirabileweb.it/manuscript/firenze-biblioteca-medicea-laurenziana-plut-30-sin-manuscript/87996\">Mirabile</a></p>",
+      "line_text": "F Florence, Biblioteca Medicea Laurenziana, Plut. 30 sin. 4, fols. 332r–336r (11th cent.) ~ Mirabile",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.mirabileweb.it/manuscript/firenze-biblioteca-medicea-laurenziana-plut-30-sin-manuscript/87996"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>G</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 22<span class=\"s1\"><sup>v</sup></span>–32<span class=\"s1\"><sup>v</sup></span> (9th cent.) ~ preceded by <em>Martyrdom of Peter</em> (BHL 6663) and <em>Martyrdom of Paul</em> (BHL 6474-75)</p>",
+      "line_text": "G  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 22v–32v (9th cent.) ~ preceded by Martyrdom of Peter (BHL 6663) and Martyrdom of Paul (BHL 6474-75)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong> Wolfenbüttel, Herzog August Bibliothek, Helmst. 497, fols. 16<sup>v</sup>–26<sup>v</sup>  (ca. 1000) ~ preceded by <em>Martyrdom of Peter</em> (BHL 6663) and <em>Martyrdom of Paul</em> (BHL 6474-75) ~ <a href=\"https://diglib.hab.de/?db=mss&amp;list=ms&amp;id=497-helmst\">Herzog August Bibliothek Wolfenbüttel Handschriftendatenbank</a></p>",
+      "line_text": "H Wolfenbüttel, Herzog August Bibliothek, Helmst. 497, fols. 16v–26v  (ca. 1000) ~ preceded by Martyrdom of Peter (BHL 6663) and Martyrdom of Paul (BHL 6474-75) ~ Herzog August Bibliothek Wolfenbüttel Handschriftendatenbank",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://diglib.hab.de/?db=mss&list=ms&id=497-helmst"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong> Paris, Bibliothèque nationale de France, lat. 12596, fols. 144<sup>v</sup>–155<sup>r</sup> (11th cent.) ~ <a href=\"http://sip.mirabileweb.it/manuscript/paris-biblioth%C3%A8que-nationale-de-france-lat-12596-manuscript/16947\">Mirabile</a></p>",
+      "line_text": "I Paris, Bibliothèque nationale de France, lat. 12596, fols. 144v–155r (11th cent.) ~ Mirabile",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://sip.mirabileweb.it/manuscript/paris-biblioth%C3%A8que-nationale-de-france-lat-12596-manuscript/16947"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong> Paris, Bibliothèque nationale de France, lat. 12602, fols. 1<sup>v</sup>–6<sup>r</sup> (12th cent.)</p>",
+      "line_text": "K Paris, Bibliothèque nationale de France, lat. 12602, fols. 1v–6r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong> London, British Library, Arundel 169, fol. 4<sup>v</sup> (12th cent.) ~ <a href=\"https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=1739\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
+      "line_text": "L London, British Library, Arundel 169, fol. 4v (12th cent.) ~ CATALOG",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=1739"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong> <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm. 4554, fols. 3<sup>r</sup>–12<sup>r </sup>(8th/9th cent.) ~ prefaced by <em>Martyrdom of Paul</em> 1–3</p>",
+      "line_text": "M Munich, Bayerische Staatsbibliothek, Clm. 4554, fols. 3r–12r (8th/9th cent.) ~ prefaced by Martyrdom of Paul 1–3",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>N</strong> Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 2<sup>r</sup>–8<sup>v</sup> (ca. 800)</p>",
+      "line_text": "N Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 2r–8v (ca. 800)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong> Paris, Bibliothèque nationale de France, nouv. acq. lat. 2180, fols. 185<sup>r</sup>–193<sup>v</sup> (10th cent.)</p>",
+      "line_text": "O Paris, Bibliothèque nationale de France, nouv. acq. lat. 2180, fols. 185r–193v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong> Paris, Bibliothèque nationale de France, lat. 5274, fols. 7<sup>v</sup>–15<sup>r</sup> (12th cent.) ~ <a href=\"http://sip.mirabileweb.it/manuscript/paris-biblioth%C3%A8que-nationale-de-france-lat-5274-manuscript/3920\">Mirabile</a></p>",
+      "line_text": "P Paris, Bibliothèque nationale de France, lat. 5274, fols. 7v–15r (12th cent.) ~ Mirabile",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://sip.mirabileweb.it/manuscript/paris-biblioth%C3%A8que-nationale-de-france-lat-5274-manuscript/3920"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong> Paris, Bibliothèque nationale de France, lat. 12606, fols. 61<sup>r</sup>–63<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Q Paris, Bibliothèque nationale de France, lat. 12606, fols. 61r–63r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong> Cassino, Abbey of Montecassino 142, p. 6 (11th cent.)</p>",
+      "line_text": "R Cassino, Abbey of Montecassino 142, p. 6 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong> Vienna, Österreichische Nationalbibliothek 1262, fols. 138<sup>r</sup>–145<sup>r</sup> (14th cent.)</p>",
+      "line_text": "S Vienna, Österreichische Nationalbibliothek 1262, fols. 138r–145r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong> Cassino, Abbey of Montecassino 147, p. 10 (11th cent.)</p>",
+      "line_text": "T Cassino, Abbey of Montecassino 147, p. 10 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong> Vatican City, Biblioteca Apostolica Vaticana, Urb. lat. 49, fols. 135<sup>r</sup>–140<sup>r</sup> (14th/15th cent.) ~ <a href=\"https://digi.vatlib.it/mss/detail/Urb.lat.49\">DigiVatLib</a></p>",
+      "line_text": "U Vatican City, Biblioteca Apostolica Vaticana, Urb. lat. 49, fols. 135r–140r (14th/15th cent.) ~ DigiVatLib",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/mss/detail/Urb.lat.49"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong> Vienna, Österreichische Nationalbibliothek 3785, fols. 143<sup>r</sup>–148<sup>r</sup> (15th cent.)</p>",
+      "line_text": "V Vienna, Österreichische Nationalbibliothek 3785, fols. 143r–148r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong> Cassino, Abbey of Montecassino 148, p. 2 (11th cent.)</p>",
+      "line_text": "X Cassino, Abbey of Montecassino 148, p. 2 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Angers, Bibliothèque municipale, 281, fols. fols. 122<sup>v</sup>–133<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Angers, Bibliothèque municipale, 281, fols. fols. 122v–133v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Graz, Universitätsbibliothek 412, fols. 1<sup>r</sup>–10<sup>v</sup> (9th cent.)</p>",
+      "line_text": "Graz, Universitätsbibliothek 412, fols. 1r–10v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 16<sup>r</sup>–27<sup>r</sup>; illustration fol. 15<sup>v</sup> (1175)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 16r–27r; illustration fol. 15v (1175)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm. 22020, fols. 9<sup>r</sup>–17<sup>v</sup> (12th cent.) ~ prefaced by <em>Martyrdom of Paul</em> 1–3</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm. 22020, fols. 9r–17v (12th cent.) ~ prefaced by Martyrdom of Paul 1–3",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque St. Geneviève 547, fols. 2<sup>r</sup>–9<sup>r</sup> (12th cent.) ~ <a href=\"http://www.calames.abes.fr/pub/#details?id=BSGA11630\">Calames</a></p>",
+      "line_text": "Paris, Bibliothèque St. Geneviève 547, fols. 2r–9r (12th cent.) ~ Calames",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.calames.abes.fr/pub/#details?id=BSGA11630"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque St. Geneviève 558, fols. 2<sup>v</sup>–11<sup>v</sup> (13th cent.) ~ <a href=\"http://www.calames.abes.fr/pub/#details?id=BSGA11648\">Calames</a></p>",
+      "line_text": "Paris, Bibliothèque St. Geneviève 558, fols. 2v–11v (13th cent.) ~ Calames",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.calames.abes.fr/pub/#details?id=BSGA11648"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5273 (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5273 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-9427/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 9427, fols. 198<sup>v</sup>–211<sup>r</sup> (7th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 9427, fols. 198v–211r (7th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-9427/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 78<sup>v</sup>–85<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 78v–85r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oslo, The Schøyen Collection 1697 (10th cent.) ~ <a href=\"https://www.schoyencollection.com/palaeography-collection-introduction/latin-book-scripts/carolingian-minuscule/ms-1679\">Schøyen Collection</a></p>",
+      "line_text": "Oslo, The Schøyen Collection 1697 (10th cent.) ~ Schøyen Collection",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.schoyencollection.com/palaeography-collection-introduction/latin-book-scripts/carolingian-minuscule/ms-1679"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n235/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. and Maximilien Bonnet, eds. <em>Acta apostolorum Apocrypha</em>. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Latin text, pp. 118–77).</p>",
+      "line_text": "Lipsius, Richard A. and Maximilien Bonnet, eds. Acta apostolorum Apocrypha. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Latin text, pp. 118–77).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n235/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11284412?q=%28Codex+Apocryphus+Novi+Testamenti%29&amp;page=650\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 3 vols. 2nd ed. Hamburg: Schiller, 1719 (Latin text, vol. 3, pp. 632–53).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 3 vols. 2nd ed. Hamburg: Schiller, 1719 (Latin text, vol. 3, pp. 632–53).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11284412?q=%28Codex+Apocryphus+Novi+Testamenti%29&page=650"
+      ]
+    },
+    {
+      "line_html": "<p>Grau, Ángel Fábrega. <em>Pasionario hispánico, siglos VII–XI.</em> 2 vols. Monumenta Hispaniae Sacra, Serie litúrgica 6. Madrid: Consejo Superior de Investigaciones Clientificas, 1955 (repr. of Lipsius-Bonnet’s Latin text, vol. 2, pp. 283–93).</p>",
+      "line_text": "Grau, Ángel Fábrega. Pasionario hispánico, siglos VII–XI. 2 vols. Monumenta Hispaniae Sacra, Serie litúrgica 6. Madrid: Consejo Superior de Investigaciones Clientificas, 1955 (repr. of Lipsius-Bonnet’s Latin text, vol. 2, pp. 283–93).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&amp;groesser=&amp;fip=xsenxdsydsdasxdsydqrsxdsydxdsyden&amp;no=15&amp;seite=17\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nausea, Friedrich. <em>Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae</em>. Cologne: Peter Quentel, 1531 (Latin text from unidentified source, pp. 1r–8v).</p>",
+      "line_text": "Nausea, Friedrich. Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae. Cologne: Peter Quentel, 1531 (Latin text from unidentified source, pp. 1r–8v).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&groesser=&fip=xsenxdsydsdasxdsydqrsxdsydxdsyden&no=15&seite=17"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 172b–175a (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 172b–175a (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/PassionsHomiliesLeabharBreac/page/85/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Atkinson, Robert, ed. and trans. <em>The Passions and the Homilies from Leabhar Breac</em>. Dublin: Royal Irish Academy, 1887 (text, pp. 86–95; English translation, pp. 329–39).</p>",
+      "line_text": "Atkinson, Robert, ed. and trans. The Passions and the Homilies from Leabhar Breac. Dublin: Royal Irish Academy, 1887 (text, pp. 86–95; English translation, pp. 329–39).",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/PassionsHomiliesLeabharBreac/page/85/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Blicking Homily 15 in Princeton, Princeton University Library, W.H. Scheide Collection 71 (the <em>Blickling Book</em>), fols. 104<sup>r</sup>–119<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Blicking Homily 15 in Princeton, Princeton University Library, W.H. Scheide Collection 71 (the Blickling Book), fols. 104r–119v (10th cent.)",
+      "language": "Old English",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/"
+      ]
+    },
+    {
+      "line_html": "<p>Kelly, Richard J., ed. and trans. <i>The Blickling Homilies.</i> 2 vols. London and New York: Continuum, 2003–2009.</p>",
+      "line_text": "Kelly, Richard J., ed. and trans. The Blickling Homilies. 2 vols. London and New York: Continuum, 2003–2009.",
+      "language": "Old English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/blicklinghomili01morrgoog/page/n197/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Morris, Richard, ed. <em>The Blickling Homilies.</em> Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 170–93).</p>",
+      "line_text": "Morris, Richard, ed. The Blickling Homilies. Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 170–93).",
+      "language": "Old English",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/blicklinghomili01morrgoog/page/n197/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Eastman, David L. <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on the editions of Lipsius-Bonnet; Latin pp. 221–70; Greek, pp. 271–316).</p>",
+      "line_text": "Eastman, David L. The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on the editions of Lipsius-Bonnet; Latin pp. 221–70; Greek, pp. 271–316).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actamythologica00guidgoog/page/n520/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith. <em>The Mythological Acts of the Apostles</em>. Horae semiticae 4. London: Clay, London, 1904 (translation of the Arabic text from Vat. ar. 405<em>, </em>pp. 193–209).</p>",
+      "line_text": "Lewis, Agnes Smith. The Mythological Acts of the Apostles. Horae semiticae 4. London: Clay, London, 1904 (translation of the Arabic text from Vat. ar. 405, pp. 193–209).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/actamythologica00guidgoog/page/n520/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/256/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Walker, A. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s Greek text, pp. 256–76).</p>",
+      "line_text": "Walker, A. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s Greek text, pp. 256–76).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/256/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/proceedings28soci/page/n315/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Winstedt, E. O. “Some Munich Coptic Fragments.” <em>Proceedings of the Society of Biblical Archeology</em> 28 (1906): 137–42, 229–37 (Coptic text, pp. 232–36; English translation, p. 237).</p>",
+      "line_text": "Winstedt, E. O. “Some Munich Coptic Fragments.” Proceedings of the Society of Biblical Archeology 28 (1906): 137–42, 229–37 (Coptic text, pp. 232–36; English translation, p. 237).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/proceedings28soci/page/n315/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits apocryphes sur les apôtres.</em> CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (translation of Armenian text [BHO 959] from Tchérakian, vol. 1, pp. 1–34; [BHO 962], pp. 35–54).</p>",
+      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres. CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (translation of Armenian text [BHO 959] from Tchérakian, vol. 1, pp. 1–34; [BHO 962], pp. 35–54).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n359/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (based on Thilo’s edition, vol. 2, cols. 715–31).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (based on Thilo’s edition, vol. 2, cols. 715–31).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n359/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://digi.ub.uni-heidelberg.de/diglit/rectrav1902/0046/image,info\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jacoby, Adolf. “Studien zur koptischen.” <em>Recueil de travaux relatifs à la philologie et à l’archéologie égyptiennes et assyriennes</em> 24 (1902): 36–44 (Coptic text of the Strasbourg fragment with facing English translation, pp. 43–44).</p>",
+      "line_text": "Jacoby, Adolf. “Studien zur koptischen.” Recueil de travaux relatifs à la philologie et à l’archéologie égyptiennes et assyriennes 24 (1902): 36–44 (Coptic text of the Strasbourg fragment with facing English translation, pp. 43–44).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://digi.ub.uni-heidelberg.de/diglit/rectrav1902/0046/image,info"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://idb.ub.uni-tuebingen.de/opendigi/thq_1906#p=169\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. “Die armenischen apocryphen Apostelgeschichten. 1. Die Petrus-und Paulus-Akten.” <em>TQ</em> (1906): 161–86 (German trans. of the short Armenian text, pp. 169–86).</p>",
+      "line_text": "Vetter, Paul. “Die armenischen apocryphen Apostelgeschichten. 1. Die Petrus-und Paulus-Akten.” TQ (1906): 161–86 (German trans. of the short Armenian text, pp. 169–86).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://idb.ub.uni-tuebingen.de/opendigi/thq_1906#p=169"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 2, pp. 178–92).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 2, pp. 178–92).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1041–59).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1041–59).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Lipsius-Bonnet with facing Spanish translation, vol. 3, pp. 365–429).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Lipsius-Bonnet with facing Spanish translation, vol. 3, pp. 365–429).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>D’Anna, Alberto. “The Relationship between the Greek and Latin Recensions of the <em>Acta Petri et Pauli</em>.” <em>StPatr</em> 39 (2006): 331–38.</p>",
+      "line_text": "D’Anna, Alberto. “The Relationship between the Greek and Latin Recensions of the Acta Petri et Pauli.” StPatr 39 (2006): 331–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “Sul testo della <em>Passio Petri et Pauli</em>: Alcune varianti riconsiderate.” <em>Aug</em> 57 (2017): 123–44.</p>",
+      "line_text": "_____. “Sul testo della Passio Petri et Pauli: Alcune varianti riconsiderate.” Aug 57 (2017): 123–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “Gli Atti di Pietro e Paolo ‘dello Pseudo-Marcello’: note sulle redazioni in greco e in latino.” Pages 111–37 in <em>Bilinguismo e scritture agiografiche</em>. Edited by Vincenza Milazzo and Francesco Scorza Barecellona. Sanctorum Scritture, pratiche, immagini 4. Rome: Viella, 2018.</p>",
+      "line_text": "_____. “Gli Atti di Pietro e Paolo ‘dello Pseudo-Marcello’: note sulle redazioni in greco e in latino.” Pages 111–37 in Bilinguismo e scritture agiografiche. Edited by Vincenza Milazzo and Francesco Scorza Barecellona. Sanctorum Scritture, pratiche, immagini 4. Rome: Viella, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Eastman, David L. <em>The Many Deaths of Peter and Paul</em>. Oxford: Oxford University Press, 2019 (<em>passim</em>).</p>",
+      "line_text": "Eastman, David L. The Many Deaths of Peter and Paul. Oxford: Oxford University Press, 2019 (passim).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “The Pauline Teachings of Peter in the Apocryphal Acts.” <em>Neot</em> 55 (2021): 89–109.</p>",
+      "line_text": "_____. “The Pauline Teachings of Peter in the Apocryphal Acts.” Neot 55 (2021): 89–109.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ferreiro, Alberto. “Simon Peter and Simon Magus in the <em>Acts of Peter</em> and the <em>Passion of the Holy Apostles Peter and Paul</em>.” Pages 41–66 in <em>XXIX Incontro di studiosi dell’antichità cristiana. Rome, 4–6 Maggio, 2000</em>. SEAug 74. Rome: Augustinianum, 2001. Reprinted as pp. 55–81 of  <em>Simon Magus in Patristic, Medieval and Early Modern Traditions</em>. Studies in the History of Christian Traditions 125. Leiden: Brill, 2005.</p>",
+      "line_text": "Ferreiro, Alberto. “Simon Peter and Simon Magus in the Acts of Peter and the Passion of the Holy Apostles Peter and Paul.” Pages 41–66 in XXIX Incontro di studiosi dell’antichità cristiana. Rome, 4–6 Maggio, 2000. SEAug 74. Rome: Augustinianum, 2001. Reprinted as pp. 55–81 of  Simon Magus in Patristic, Medieval and Early Modern Traditions. Studies in the History of Christian Traditions 125. Leiden: Brill, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hawk, Brandon W. <em>Preaching Apocrypha in Anglo-Saxon England</em>. Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018 (pp. 70–102, 174–87, 213–14).</p>",
+      "line_text": "Hawk, Brandon W. Preaching Apocrypha in Anglo-Saxon England. Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018 (pp. 70–102, 174–87, 213–14).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap04lipsgoog/page/n295/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (see vol. 2.1:284–366).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (see vol. 2.1:284–366).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap04lipsgoog/page/n295/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. “Later Acts of the Apostles.” Pages 426–82 in <em>New Testament Apocrypha</em>. Vol. 2: <em>Writings Related to the Apostles, Apocalypses and Related Subjects</em>. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson. 6th ed. 2 vols. Louisville, KY: Westminster John Knox, 1992 (see pp. 440–42).</p>",
+      "line_text": "Santos Otero, Aurelio de. “Later Acts of the Apostles.” Pages 426–82 in New Testament Apocrypha. Vol. 2: Writings Related to the Apostles, Apocalypses and Related Subjects. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson. 6th ed. 2 vols. Louisville, KY: Westminster John Knox, 1992 (see pp. 440–42).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tajra, Harry W. <em>The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends.</em> WUNT 2/67. Tübingen: Mohr Siebeck, 1994 (summary and commentary, pp. 143–54).</p>",
+      "line_text": "Tajra, Harry W. The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends. WUNT 2/67. Tübingen: Mohr Siebeck, 1994 (summary and commentary, pp. 143–54).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vouaux, Leon. <em>Les actes de Pierre: Introduction, textes, traduction et commentaire</em>. Les apocryphes du Nouveau Testament; Documents pour servir a l’étude des origines chretiennes. Paris: Letouzey et Ane, 1922 (pp. 160–78).</p>",
+      "line_text": "Vouaux, Leon. Les actes de Pierre: Introduction, textes, traduction et commentaire. Les apocryphes du Nouveau Testament; Documents pour servir a l’étude des origines chretiennes. Paris: Letouzey et Ane, 1922 (pp. 160–78).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

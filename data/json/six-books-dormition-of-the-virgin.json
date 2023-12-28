@@ -1,0 +1,489 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/six-books-dormition-of-the-virgin/",
+  "nasscal_toc_title": "Dormition of the Virgin, Six-Books",
+  "filename": "six-books-dormition-of-the-virgin",
+  "latin_title": "Libri VI de dormitione B. V. Mariae",
+  "abbrev": "6 Bks. Dorm.",
+  "alt_titles": [
+    "Transitus Mariae",
+    "Transitus",
+    "Dormition",
+    "Liber Requiae"
+  ],
+  "clavis_number": 220,
+  "category": "Dormition Accounts",
+  "compiler": "Ally Kateusz, Wijngaards Institute of Catholic Research",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Bonn, Universitäts- und Landesbibliothek, or. 29, fols. 64<sup>v</sup>–91<sup>v</sup> (1801)</p>",
+      "line_text": "Bonn, Universitäts- und Landesbibliothek, or. 29, fols. 64v–91v (1801)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-christ-arab-94add-arab-130add-arab-148add-arab-149bryn-mawr-bryn-mawr-college-library-bv-69-leiden-universitatsbibliothek-or-14-238/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Edgbaston, University of Birmingham, Mingana Christ. Add. Arab. 130, fol. 1+Bryn Mawr, Bryn Mawr College Library, BV 69, fols. 4<sup>v</sup>–40<sup>v</sup> (ca. 830–880)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Christ. Add. Arab. 130, fol. 1+Bryn Mawr, Bryn Mawr College Library, BV 69, fols. 4v–40v (ca. 830–880)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-christ-arab-94add-arab-130add-arab-148add-arab-149bryn-mawr-bryn-mawr-college-library-bv-69-leiden-universitatsbibliothek-or-14-238/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-698/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 698, fols. 51<sup>v</sup>–85<sup>r</sup> (14th cent.) ~ a Six-Books text but attributed to John the Evangelist (=CANT 141)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 698, fols. 51v–85r (14th cent.) ~ a Six-Books text but attributed to John the Evangelist (=CANT 141)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-698/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/enger_Ioannis_apostoli_de_transitu_beatae_Mariae/page/n15\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Enger, Maximilian. <em>Ionnis Apostoli de Transitu Beatae Mariae Virginis Liber</em>. Eberfeld, 1854 (edition of Bonn or. 29 with Latin translation).</p>",
+      "line_text": "Enger, Maximilian. Ionnis Apostoli de Transitu Beatae Mariae Virginis Liber. Eberfeld, 1854 (edition of Bonn or. 29 with Latin translation).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/enger_Ioannis_apostoli_de_transitu_beatae_Mariae/page/n15"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://eprints.ucm.es/20438/1/T24828.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>González Casado, Pilar, ed. “Las relaciones linguisticas entre el siriaco y el arabe en textos religiosos arabes cristianos.” Dissertation. Universidad Complutense de Madrid, 2013 (reproduction of Enger’s edition, pp. 181–211; Spanish trans. pp. 416–48; text from Var. ar. 698, pp. 361–403, and Spanish trans., pp. 559–92).</p>",
+      "line_text": "González Casado, Pilar, ed. “Las relaciones linguisticas entre el siriaco y el arabe en textos religiosos arabes cristianos.” Dissertation. Universidad Complutense de Madrid, 2013 (reproduction of Enger’s edition, pp. 181–211; Spanish trans. pp. 416–48; text from Var. ar. 698, pp. 361–403, and Spanish trans., pp. 559–92).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://eprints.ucm.es/20438/1/T24828.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n289/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Studi e testi 118, 133, 146–147, 172. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (survey of Arabic manuscripts, vol. 1, pp. 249–51).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Studi e testi 118, 133, 146–147, 172. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (survey of Arabic manuscripts, vol. 1, pp. 249–51).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n289/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-207/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mosul, Mar Behnam Monastery, 207 (olim 14), fols. 12<sup>r</sup>–31<sup>v</sup>, 31<sup>v</sup>–39<sup>r</sup> (17th cent.) ~ as books 5 and 6 of the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\" target=\"_blank\" rel=\"noopener\">West Syriac <em>Life of Mary</em></a></p>",
+      "line_text": "Mosul, Mar Behnam Monastery, 207 (olim 14), fols. 12r–31v, 31v–39r (17th cent.) ~ as books 5 and 6 of the West Syriac Life of Mary",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-207/"
+      ],
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 232, fols. 496<sup>r</sup>–522<sup>v </sup>(17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 232, fols. 496r–522v (17th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-233/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 233, fols. 1<sup>r</sup>–37<sup>r</sup> (16th cent.) ~ first page missing</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 233, fols. 1r–37r (16th cent.) ~ first page missing",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-233/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/qarah-qush-mar-sarkis-and-bakhos-syrian-orthodox-church-59/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Qarah Qūsh, Mar Sarkis and Bakhos Syrian Orthodox Church, 59, fols. 2<sup>r</sup>–43<sup>v</sup> and 43<sup>v</sup>–50<sup>v</sup> (18th/19th cent.) ~ as books 5 and 6 of the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\" target=\"_blank\" rel=\"noopener\">West Syriac <em>Life of Mary</em></a></p>",
+      "line_text": "Qarah Qūsh, Mar Sarkis and Bakhos Syrian Orthodox Church, 59, fols. 2r–43v and 43v–50v (18th/19th cent.) ~ as books 5 and 6 of the West Syriac Life of Mary",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/qarah-qush-mar-sarkis-and-bakhos-syrian-orthodox-church-59/"
+      ],
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, syr. 238, fols. 147<sup>r</sup>–161<sup>r</sup> (Arabic and Garšūnī, dated 1474)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 238, fols. 147r–161r (Arabic and Garšūnī, dated 1474)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Most of these manuscripts contain three texts: an epitome of the <em>Six-Books</em> (CANT 151), followed by a fuller text in two books (CANT 150).</p>",
+      "line_text": "Most of these manuscripts contain three texts: an epitome of the Six-Books (CANT 151), followed by a fuller text in two books (CANT 150).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Savior of the World, EMML 543, fols. 76<sup>v</sup>–102<sup>v</sup> (1965)</p>",
+      "line_text": "Addis Ababa, Church of the Savior of the World, EMML 543, fols. 76v–102v (1965)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Patriarchate Library, EMML 744, fols. 37<sup>r</sup>–59<sup>v</sup> (1959–1970)</p>",
+      "line_text": "Addis Ababa, Patriarchate Library, EMML 744, fols. 37r–59v (1959–1970)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 604, fols. 45r–65r (1716–1721)</p>",
+      "line_text": "London, British Library, Or. 604, fols. 45r–65r (1716–1721)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-605/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 605, fols. 108<sup>r</sup>–133<sup>v </sup>(18th cent.)</p>",
+      "line_text": "London, British Library, Or. 605, fols. 108r–133v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-605/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 606 (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 606 (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ethiop. 53, fols. 25<sup>r</sup>–64<sup>r</sup> (16th cent.) ~ lacks CANT 151 and book 1 of CANT 150</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ethiop. 53, fols. 25r–64r (16th cent.) ~ lacks CANT 151 and book 1 of CANT 150",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Abbadie 128, fols. 115<sup>v</sup>–129<sup>v</sup> (18th cent.) ~ lacks book 1 of CANT 150</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Abbadie 128, fols. 115v–129v (18th cent.) ~ lacks book 1 of CANT 150",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, ethiop. 54, fols. 4–9 + 3 + 10–16 (16th cent.) ~ lacks book 1 of CANT 150</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, ethiop. 54, fols. 4–9 + 3 + 10–16 (16th cent.) ~ lacks book 1 of CANT 150",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tānāsee, Kebran Gabriel Monastery, 45</p>",
+      "line_text": "Tānāsee, Kebran Gabriel Monastery, 45",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Arras, Victor. <em>De transitu Mariae apocrypha aethiopice</em>. 2 vols. CSCO 342–343. Leuven: Sécretariat du CorpusSCO, 1973 (edition based on BL 604–606, vol. 1: 85–100; Latin translation, vol. 2: 55–66).</p>",
+      "line_text": "Arras, Victor. De transitu Mariae apocrypha aethiopice. 2 vols. CSCO 342–343. Leuven: Sécretariat du CorpusSCO, 1973 (edition based on BL 604–606, vol. 1: 85–100; Latin translation, vol. 2: 55–66).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphadebmari00cha/page/n3\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Chaîne, Marius, ed. and trans. <em>Apocrypha de Beata Mariae Virgine</em>. CSCO 39–40. Rome: Karolus de Luigi, 1909 (CSCO 39 Ethiopian text of the Paris manuscripts, pp. 21–49; CSCO 40 Latin translation, pp.  17–42).</p>",
+      "line_text": "Chaîne, Marius, ed. and trans. Apocrypha de Beata Mariae Virgine. CSCO 39–40. Rome: Karolus de Luigi, 1909 (CSCO 39 Ethiopian text of the Paris manuscripts, pp. 21–49; CSCO 40 Latin translation, pp.  17–42).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphadebmari00cha/page/n3"
+      ]
+    },
+    {
+      "line_html": "<p>Incorporated also in the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\"><em>Life of Mary (West Syriac)</em></a> and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-the-virgin-east-syriac/\"><em>History of the Virgin (East Syriac)</em></a> (see entries for manuscript listings).</p>",
+      "line_text": "Incorporated also in the Life of Mary (West Syriac) and the History of the Virgin (East Syriac) (see entries for manuscript listings).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-the-virgin-east-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-quart-802/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Berlin, Staatsbibliothek zu Berlin, Or. Quart. 802 (Sachau 59), fols. 55<sup>r</sup>–68<sup>r </sup>(17th/18 cent.)</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, Or. Quart. 802 (Sachau 59), fols. 55r–68r (17th/18 cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-quart-802/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-university-library-or-1287/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, University Library, Or. 1287, lower text fols. 53<sup>r</sup>, 22, 44/40, 43, 23, 52, 20, 41, 42, 19, 65, 38, 76, 77, 39, 64, 16, 29, 13, 14, 30/27, 15, 69/68, 1/5, 25, 24, 2, 67/66, 74, 4, 3, 75, 36, 28, 31, 37 (upper text 9th/10th cent.; lower script, 5th/6th cent.)</p>",
+      "line_text": "Cambridge, University Library, Or. 1287, lower text fols. 53r, 22, 44/40, 43, 23, 52, 20, 41, 42, 19, 65, 38, 76, 77, 39, 64, 16, 29, 13, 14, 30/27, 15, 69/68, 1/5, 25, 24, 2, 67/66, 74, 4, 3, 75, 36, 28, 31, 37 (upper text 9th/10th cent.; lower script, 5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-university-library-or-1287/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10-mount-sinai-mone-tes-hagias-aikaterines-m26n-sp-78/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"ma-bullet\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fols. 4<sup>v</sup>–37<sup>v</sup> (5th/6th cent.)</p>",
+      "line_text": "Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fols. 4v–37v (5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10-mount-sinai-mone-tes-hagias-aikaterines-m26n-sp-78/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14484, fols. 18<sup>v</sup>–47<sup>r </sup>(6th cent.)</p>",
+      "line_text": "London, British Library, Add. 14484, fols. 18v–47r (6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14730, fols. 84<sup>v</sup>–87<sup>r</sup> (12th cent.) ~ Book 6 only</p>",
+      "line_text": "London, British Library, Add. 14730, fols. 84v–87r (12th cent.) ~ Book 6 only",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14732/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 14732, fols. 2<sup>v</sup>–16<sup>r</sup> (13th cent.)</p>",
+      "line_text": "London, British Library, Add. 14732, fols. 2v–16r (13th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14732/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-sony-20/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Mosul, Mar Behnam Monastery, Sony 20, fols. 12<sup>r</sup>–25<sup>v</sup>, 27<sup>r</sup>–78<sup>v</sup> (15th/16th cent.)</p>",
+      "line_text": "Mosul, Mar Behnam Monastery, Sony 20, fols. 12r–25v, 27r–78v (15th/16th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-sony-20/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-588/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 588, lower text fols. 58<sup>v</sup>, 58<sup>r</sup>, 63<sup>r</sup>, 63<sup>v</sup>, 64<sup>r</sup>, 64<sup>v</sup>, 53<sup>r</sup>, 53<sup>v</sup>, 65<sup>v</sup>, 65<sup>r</sup>, 50<sup>r</sup>, 50<sup>v</sup>, 59<sup>r</sup>, 59<sup>v</sup>, 56<sup>r</sup>, 56<sup>v</sup> (5th/6th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 588, lower text fols. 58v, 58r, 63r, 63v, 64r, 64v, 53r, 53v, 65v, 65r, 50r, 50v, 59r, 59v, 56r, 56v (5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-588/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-arab-514-london-and-oslo-schoyen-collection-ms-579/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 514 + London and Oslo, Schøyen Collection, MS 579, fols. 1–4 (Syriac lower writing 5th/6th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 514 + London and Oslo, Schøyen Collection, MS 579, fols. 1–4 (Syriac lower writing 5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-arab-514-london-and-oslo-schoyen-collection-ms-579/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-30/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 30, fols. 151, 155, 156, 159<sup>r</sup>, 160 (upper writing dated 698; lower writing 5th/6th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, syr. 30, fols. 151, 155, 156, 159r, 160 (upper writing dated 698; lower writing 5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-syr-30/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, syr. 196, fols. 406<sup>r</sup>–416<sup>v</sup> (dated 1417) ~ fragments from Books 1–4</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 196, fols. 406r–416v (dated 1417) ~ fragments from Books 1–4",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Borgia sir. 39 (16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borgia sir. 39 (16th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.academia.edu/26157917/_WITH_S.P._BROCK_THE_DEPARTURE_OF_MARY_IN_TWO_PALIMPSESTS_AT_THE_MONASTERY_OF_ST.CATHERINE_SINAI_SYR._30_and_SINAI_ARABIC_514_\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Brock, Sebastian P. and Grigory Kessel. “The ‘Departure of Mary’ in Two Palimpsests at the Monastery of St. Сatherine (Sinai Syr. 30 &amp; Sinai Arabic 514).” <em>Khristiansky Vostok </em>8 (2017) 115–52 (editions and English translations of Sinai syr. 30 and Sinai arab. 514).</p>",
+      "line_text": "Brock, Sebastian P. and Grigory Kessel. “The ‘Departure of Mary’ in Two Palimpsests at the Monastery of St. Сatherine (Sinai Syr. 30 &amp; Sinai Arabic 514).” Khristiansky Vostok 8 (2017) 115–52 (editions and English translations of Sinai syr. 30 and Sinai arab. 514).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.academia.edu/26157917/_WITH_S.P._BROCK_THE_DEPARTURE_OF_MARY_IN_TWO_PALIMPSESTS_AT_THE_MONASTERY_OF_ST.CATHERINE_SINAI_SYR._30_and_SINAI_ARABIC_514_"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and the British Library.” <em>Mus</em> 124 (2011): 259–78 (Syriac and English translation of pages from Sinai arab. 514  side-by-side pp. 268–77).</p>",
+      "line_text": "Shoemaker, Stephen. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and the British Library.” Mus 124 (2011): 259–78 (Syriac and English translation of pages from Sinai arab. 514  side-by-side pp. 268–77).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphasyriac00goog\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Smith Lewis, Agnes, ed. <em>Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries</em>. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 and translation, pp. 12–69 [Syriac numbering]; text of Sinai Palimpsest 30, pp. 150–57 [Syriac numbering]).</p>",
+      "line_text": "Smith Lewis, Agnes, ed. Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 and translation, pp. 12–69 [Syriac numbering]; text of Sinai Palimpsest 30, pp. 150–57 [Syriac numbering]).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphasyriac00goog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/671831\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William. “The Departure of my Lady Mary from this World.” <em>Journal of Sacred Literature and Biblical Record</em> 6 (1865): 417–48 (introduction and part 1 Syriac, based on BL Add. 14484 and 14732); 7 (1865): 108–28 (part 2 Syriac), 129–60 (English trans.).</p>",
+      "line_text": "Wright, William. “The Departure of my Lady Mary from this World.” Journal of Sacred Literature and Biblical Record 6 (1865): 417–48 (introduction and part 1 Syriac, based on BL Add. 14484 and 14732); 7 (1865): 108–28 (part 2 Syriac), 129–60 (English trans.).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/671831"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/LegendsOfOurLadyMary/page/n11\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. Wallis, ed. <em>Legends of Our Lady Mary, The Perpetual Virgin and Her Mother, Hanna</em>. London: Martin Hopkinson and company, Ltd., 1922 (English translation of the Ethiopic text in BL 604, pp. 143–201).</p>",
+      "line_text": "Budge, E. A. Wallis, ed. Legends of Our Lady Mary, The Perpetual Virgin and Her Mother, Hanna. London: Martin Hopkinson and company, Ltd., 1922 (English translation of the Ethiopic text in BL 604, pp. 143–201).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/LegendsOfOurLadyMary/page/n11"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (summary of the text from Smith Lewis’ edition, pp. 716–19).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (summary of the text from Smith Lewis’ edition, pp. 716–19).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford: Oxford University Press, 2002 (palimpsest fragments from Sinai ar. 30, pp. 370–74).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: Oxford University Press, 2002 (palimpsest fragments from Sinai ar. 30, pp. 370–74).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/671831\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William. “The Departure of my Lady Mary from this World.” <em>Journal of Sacred Literature and Biblical Record</em> 6 (1865): 417–48 (introduction and part 1 Syriac, based on BL Add. 14484 and 14732); 7 (1865): 108–28 (part 2 Syriac), 129–60 (English trans.).</p>",
+      "line_text": "Wright, William. “The Departure of my Lady Mary from this World.” Journal of Sacred Literature and Biblical Record 6 (1865): 417–48 (introduction and part 1 Syriac, based on BL Add. 14484 and 14732); 7 (1865): 108–28 (part 2 Syriac), 129–60 (English trans.).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/671831"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/dictionnairedes03migngoog#page/n262/mode/1up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (translation of Enger’s Arabic edition, vol. 1, cols. 503–32).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (translation of Enger’s Arabic edition, vol. 1, cols. 503–32).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/stream/dictionnairedes03migngoog#page/n262/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (translation of Smith Lewis’ text from Cambridge Or. 1287, vol. 1.2, pp. 545–73).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (translation of Smith Lewis’ text from Cambridge Or. 1287, vol. 1.2, pp. 545–73).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://eprints.ucm.es/20438/1/T24828.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>González Casado, Pilar, ed. “Las relaciones linguisticas entre el siriaco y el arabe en textos religiosos arabes cristianos.” Dissertation. Universidad Complutense de Madrid, 2013 (reproduction of Enger’s edition, pp. 181–211; Spanish trans. pp. 416–48).</p>",
+      "line_text": "González Casado, Pilar, ed. “Las relaciones linguisticas entre el siriaco y el arabe en textos religiosos arabes cristianos.” Dissertation. Universidad Complutense de Madrid, 2013 (reproduction of Enger’s edition, pp. 181–211; Spanish trans. pp. 416–48).",
+      "language": "Spanish",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://eprints.ucm.es/20438/1/T24828.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Bauckham, Richard. <em>The Fate of the Dead: Studies on the Jewish and Christian Apocalypses</em>. NovT Sup 93. Atlanta: Society of Biblical Literature, 1998 (pp. 346–60).</p>",
+      "line_text": "Bauckham, Richard. The Fate of the Dead: Studies on the Jewish and Christian Apocalypses. NovT Sup 93. Atlanta: Society of Biblical Literature, 1998 (pp. 346–60).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Edwards, J. Christopher. “The Departure of My Lady Mary from this World (The Six Books Dormition Apocryphon).” Pages 308–20 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Edwards, J. Christopher. “The Departure of My Lady Mary from this World (The Six Books Dormition Apocryphon).” Pages 308–20 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel-Jean van. “Les textes litteraires sur l’Assomption avant le X<sup>e  </sup>siècle.” Pages 265–85 in <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.</p>",
+      "line_text": "Esbroeck, Michel-Jean van. “Les textes litteraires sur l’Assomption avant le Xe  siècle.” Pages 265–85 in Les actes apocryphes des apôtres. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Grypeou, Emmanouela and Juan Pedro Monferrer-Sala. “‘A tour of the other world’: A contribution to the textual and literary criticism of the ‘Six Books Apocalypse of the Virgin.’” <em>Collectanea Christiana Orientalia</em> 6 (2009): 115–66.</p>",
+      "line_text": "Grypeou, Emmanouela and Juan Pedro Monferrer-Sala. “‘A tour of the other world’: A contribution to the textual and literary criticism of the ‘Six Books Apocalypse of the Virgin.’” Collectanea Christiana Orientalia 6 (2009): 115–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kateusz, Ally. “Ascension of Christ or Ascension of Mary?: Reconsidering a Popular Early Iconography.” <em>JECS </em>23.2 (2015): 273–303.</p>",
+      "line_text": "Kateusz, Ally. “Ascension of Christ or Ascension of Mary?: Reconsidering a Popular Early Iconography.” JECS 23.2 (2015): 273–303.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Collyridian Deja Vu: The Trajectory of Redaction of the Markers of Mary’s Liturgical Leadership.” <em>JFSR </em>29.2 (2013): 75–92.</p>",
+      "line_text": "__________. “Collyridian Deja Vu: The Trajectory of Redaction of the Markers of Mary’s Liturgical Leadership.” JFSR 29.2 (2013): 75–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.palgrave.com/gp/book/9783030111106\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. <em>Mary and Early Christian Women: Hidden Leadership</em>. New York: Palgrave Macmillan, 2019 (pp. 19–48).</p>",
+      "line_text": "__________. Mary and Early Christian Women: Hidden Leadership. New York: Palgrave Macmillan, 2019 (pp. 19–48).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.palgrave.com/gp/book/9783030111106"
+      ]
+    },
+    {
+      "line_html": "<p>Meshcherskaya, Elena. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in <em>Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev.</em> St. Petersburg, 2011.</p>",
+      "line_text": "Meshcherskaya, Elena. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev. St. Petersburg, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=iPiR0YOnWFkC&amp;pg=PA214&amp;lpg=PA214&amp;dq=Le+Saint-Macaire+488+(Hag.+75)&amp;source=bl&amp;ots=tCbqKUbyqv&amp;sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&amp;q=Le%20Saint-Macaire%20488%20(Hag.%2075)&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mimouni, Simon. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995 (pp. 91–104).</p>",
+      "line_text": "Mimouni, Simon. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995 (pp. 91–104).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford: Oxford University Press, 2002 (pp. 46–57).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: Oxford University Press, 2002 (pp. 46–57).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Apocrypha and Liturgy in the Fourth Century: The Case of the ‘Six Books’ Dormition Apocryphon.” Pages 153–63 in <em>Jewish and Christian Scriptures: The Function of ‘Canonical’ and ‘Non-canonical’ Religious Texts</em>. Edited by James H. Charlesworth and Lee Martin McDonald. London: T&amp;T Clark, 2010.</p>",
+      "line_text": "__________. “Apocrypha and Liturgy in the Fourth Century: The Case of the ‘Six Books’ Dormition Apocryphon.” Pages 153–63 in Jewish and Christian Scriptures: The Function of ‘Canonical’ and ‘Non-canonical’ Religious Texts. Edited by James H. Charlesworth and Lee Martin McDonald. London: T&amp;T Clark, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Epiphanius of Salamis, the Kollyridians, and the Early Dormition Narratives: The Cult of the Virgin in the Fourth Century.” <em>JECS </em>16 (2008): 371–401.</p>",
+      "line_text": "__________. “Epiphanius of Salamis, the Kollyridians, and the Early Dormition Narratives: The Cult of the Virgin in the Fourth Century.” JECS 16 (2008): 371–401.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Mary in Early Christian Faith and Devotion.</em> New Haven: Yale University Press, 2016 (pp. 130–65).</p>",
+      "line_text": "__________. Mary in Early Christian Faith and Devotion. New Haven: Yale University Press, 2016 (pp. 130–65).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “A Peculiar Version of the <em>Inventio Crucis</em>.” <em>StPatr </em>41 (2006): 75–81.</p>",
+      "line_text": "__________. “A Peculiar Version of the Inventio Crucis.” StPatr 41 (2006): 75–81.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

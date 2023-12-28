@@ -1,0 +1,236 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-flight-to-egypt-by-pseudo-cyriacus-of-behnesa/",
+  "nasscal_toc_title": "Homily on the Flight to Egypt, by Pseudo-Cyriacus of Behnesa",
+  "filename": "homily-on-the-flight-to-egypt-by-pseudo-cyriacus-of-behnesa",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Hom. Flight",
+  "alt_titles": [
+    "Homily on the Flight to Egypt"
+  ],
+  "clavis_number": 834,
+  "category": "Infancy Gospels, Pseudo-Apostolic Memoirs",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Version 1 (at Paisus)</p>",
+      "line_text": "Version 1 (at Paisus)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 443</p>",
+      "line_text": "Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 443",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, arabe 155, fols. 80<sup>v</sup>–89<sup>r</sup> (1486)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 155, fols. 80v–89r (1486)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 263, fols. 139<sup>r</sup>–165<sup>r</sup> (16th cent.) ~ Lachantin misidentifies as 213</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 263, fols. 139r–165r (16th cent.) ~ Lachantin misidentifies as 213",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Bibloteca Apostolica Vaticana, Vat. ar. 170, fols. 257<sup>r</sup>–275<sup>r</sup> (1719)</p>",
+      "line_text": "Vatican, Bibloteca Apostolica Vaticana, Vat. ar. 170, fols. 257r–275r (1719)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/"
+      ]
+    },
+    {
+      "line_html": "<p>Unconfirmed sources for Version 1:</p>",
+      "line_text": "Unconfirmed sources for Version 1:",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Abû Sargah, 106, fols. 101<sup>v</sup>–118<sup>r</sup> (18th cent.) ~ here attributed to Theophilus of Alexandria</p>",
+      "line_text": "Cairo, Abû Sargah, 106, fols. 101v–118r (18th cent.) ~ here attributed to Theophilus of Alexandria",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Abû Sargah, 112, fols. 170<sup>r</sup>–197<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Cairo, Abû Sargah, 112, fols. 170r–197v (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Khasrîat ar-Rihân, 107, fols. 123<sup>v</sup>–139<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Cairo, Khasrîat ar-Rihân, 107, fols. 123v–139r (15th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Khasrîat ar-Rihân, 109, fols. 160<sup>r</sup>–190<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Cairo, Khasrîat ar-Rihân, 109, fols. 160r–190v (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Khasrîat ar-Rihân, 119, fols. 92<sup>r</sup>–106<sup>v</sup> (18th cent.) ~ here attributed to Theophilus of Alexandria</p>",
+      "line_text": "Cairo, Khasrîat ar-Rihân, 119, fols. 92r–106v (18th cent.) ~ here attributed to Theophilus of Alexandria",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Version 2 (at al-Qūṣiyyah)</p>",
+      "line_text": "Version 2 (at al-Qūṣiyyah)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 153, fols. 1<sup>r</sup>–8<sup>r</sup> (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 153, fols. 1r–8r (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, arabe 155, fols. 89<sup>v</sup>–94<sup>r</sup> (1486)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 155, fols. 89v–94r (1486)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wadi al-Natrun, Dayr Abu Maqar, 378 (1755)</p>",
+      "line_text": "Wadi al-Natrun, Dayr Abu Maqar, 378 (1755)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Khater, Antoine. <em>Al-La’âli’ al-Saniyyah fî al-mayâmir wa-al-‘ajâ’ib al-maryamiyyah </em>(<em>“</em>Precious pearls in the Marian sermons and miracles”). Cairo, 1966 (version 2, pp. 71–78; version 1, pp. 79–91).</p>",
+      "line_text": "Khater, Antoine. Al-La’âli’ al-Saniyyah fî al-mayâmir wa-al-‘ajâ’ib al-maryamiyyah (“Precious pearls in the Marian sermons and miracles”). Cairo, 1966 (version 2, pp. 71–78; version 1, pp. 79–91).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ḥunayn, Girgis. <em>Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam</em>. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (editions from an unidentified manuscript, pp. 73–81 [version 2], pp. 81–95 [version 1]). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927 (version 2, pp. 106–18; version 1, pp. 119–39).</p>",
+      "line_text": "Ḥunayn, Girgis. Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (editions from an unidentified manuscript, pp. 73–81 [version 2], pp. 81–95 [version 1]). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927 (version 2, pp. 106–18; version 1, pp. 119–39).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n273/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Studi e testi 118, 133, 146–147, 172. Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (additional witnesses listed in vol 1:232–34).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Studi e testi 118, 133, 146–147, 172. Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (additional witnesses listed in vol 1:232–34).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n273/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Version 1 (at Paisus):</p>",
+      "line_text": "Version 1 (at Paisus):",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lanchantin (p. 145) lists six manuscripts of the British Library, but these all contain other homilies of Cyriacus.</p>",
+      "line_text": "Lanchantin (p. 145) lists six manuscripts of the British Library, but these all contain other homilies of Cyriacus.",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Version 2 (at al-Qūṣiyyah):</p>",
+      "line_text": "Version 2 (at al-Qūṣiyyah):",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Savior of the World, EMML 543, fols. 192<sup>r</sup>–198<sup>v</sup> (1965)</p>",
+      "line_text": "Addis Ababa, Church of the Savior of the World, EMML 543, fols. 192r–198v (1965)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 2461, fols. 308<sup>v</sup>–320<sup>r</sup> (1842)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 2461, fols. 308v–320r (1842)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 3873, fols. 151<sup>v</sup>–163<sup>r</sup> (1899)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 3873, fols. 151v–163r (1899)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Bibloteca Apostolica Vaticana, Vat. et. 151</p>",
+      "line_text": "Vatican, Bibloteca Apostolica Vaticana, Vat. et. 151",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch151910pari/page/156\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dib, Pierre. “Deux discours de Cyriaque, eveque de Behnesa sur la fuite en Egypt.” <em>ROC</em> 15 (1910): 157–61 (summary of both texts based on Paris, BNF, arabe 155).</p>",
+      "line_text": "Dib, Pierre. “Deux discours de Cyriaque, eveque de Behnesa sur la fuite en Egypt.” ROC 15 (1910): 157–61 (summary of both texts based on Paris, BNF, arabe 155).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch151910pari/page/156"
+      ]
+    },
+    {
+      "line_html": "<p>Coquin, René-Georges. “Cyriacus.” Pages 669–71 in vol. 3 of <em>The Coptic Encyclopedia</em>. Edited by in Aziz S. Atiya. 8 vols. New York: Macmillan, 1991.</p>",
+      "line_text": "Coquin, René-Georges. “Cyriacus.” Pages 669–71 in vol. 3 of The Coptic Encyclopedia. Edited by in Aziz S. Atiya. 8 vols. New York: Macmillan, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davis, Stephen J. “Ancient Sources for the Coptic Tradition.” Pages 133–62 in <em>Be Thou There: The Holy Family’s Journey in Egypt</em>. Edited by Gawdat Gabra. Cairo &amp; New York : American University in Cairo Press, 2001 (see pp. 148–49).</p>",
+      "line_text": "Davis, Stephen J. “Ancient Sources for the Coptic Tradition.” Pages 133–62 in Be Thou There: The Holy Family’s Journey in Egypt. Edited by Gawdat Gabra. Cairo &amp; New York : American University in Cairo Press, 2001 (see pp. 148–49).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Giamberardini, Gabriele. <em>Il culto mariano in Egitto.</em> 3 vols. Jerusalem: Franciscan Printing Press, 1974–1978 (vol. 2, pp. 56–72).</p>",
+      "line_text": "Giamberardini, Gabriele. Il culto mariano in Egitto. 3 vols. Jerusalem: Franciscan Printing Press, 1974–1978 (vol. 2, pp. 56–72).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lanchantin, Ève. ”Une homélie sur le <em>Martyre de Pilate</em>, attribuée à Cyriaque de Behnessa.” <em>Apocrypha</em> 13 (2002): 135–202 (additional Arabic and Ethiopic manuscripts—with some errors—listed p. 145).</p>",
+      "line_text": "Lanchantin, Ève. ”Une homélie sur le Martyre de Pilate, attribuée à Cyriaque de Behnessa.” Apocrypha 13 (2002): 135–202 (additional Arabic and Ethiopic manuscripts—with some errors—listed p. 145).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meinardus, Otto F. A. <em>Two Thousand Years of Coptic Christianity.</em> Cairo and New York: American University in Cairo Press, 1999 (see esp. pp. 23–24).</p>",
+      "line_text": "Meinardus, Otto F. A. Two Thousand Years of Coptic Christianity. Cairo and New York: American University in Cairo Press, 1999 (see esp. pp. 23–24).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (see p. 86).</p>",
+      "line_text": "Suciu, Alin. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (see p. 86).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/second-revelation-of-james/",
+  "nasscal_toc_title": "(Second) Revelation of James",
+  "filename": "second-revelation-of-james",
+  "latin_title": "Apocalypsis Iacobi (secundus)",
+  "abbrev": "2",
+  "clavis_number": 467,
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10548-nag-hammadi-codex-v/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, Inv. 10548 (Nag Hammadi Codex V), pp. 44–63 (4th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Inv. 10548 (Nag Hammadi Codex V), pp. 44–63 (4th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10548-nag-hammadi-codex-v/"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

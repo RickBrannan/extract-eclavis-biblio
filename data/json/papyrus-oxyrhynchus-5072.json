@@ -1,0 +1,98 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5072/",
+  "nasscal_toc_title": "Papyrus Oxyrhynchus 5072",
+  "filename": "papyrus-oxyrhynchus-5072",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "P. Oxy. 5072",
+  "clavis_number": 546,
+  "category": "Agrapha and Fragments",
+  "compiler": "Thomas A. Wayment, Brigham Young University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-sackler-library-papyrology-rooms-p-oxy-5072/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Oxford, Sackler Library, Papyrology Rooms, P. Oxy. 5072 (2nd/3rd cent.)</p>",
+      "line_text": "Oxford, Sackler Library, Papyrology Rooms, P. Oxy. 5072 (2nd/3rd cent.)",
+      "language": "English",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-sackler-library-papyrology-rooms-p-oxy-5072/"
+      ]
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “Uncanonical Gospel.” Pages 1–19 in <em>The Oxyrhynchus</em><em> Papyri LXXVI.</em> Edited by Daniella Colomo and Juan Chapa. London: The Egypt Exploration Society, 2011.</p>",
+      "line_text": "Chapa, Juan. “Uncanonical Gospel.” Pages 1–19 in The Oxyrhynchus Papyri LXXVI. Edited by Daniella Colomo and Juan Chapa. London: The Egypt Exploration Society, 2011.",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Blumell, Lincoln, and Thomas A. Wayment. <em>Christian Oxyrhynchus: Texts, Documents, and Sources</em>. Waco: Baylor University Press, 2015 (pp. 205–208).</p>",
+      "line_text": "Blumell, Lincoln, and Thomas A. Wayment. Christian Oxyrhynchus: Texts, Documents, and Sources. Waco: Baylor University Press, 2015 (pp. 205–208).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Brannan, Rick. <em>Greek Apocryphal Gospels, Fragments and Agrapha: A New Translation.</em> Bellingham, WA: Lexham Press, 2017 (pp. 167–70).</p>",
+      "line_text": "Brannan, Rick. Greek Apocryphal Gospels, Fragments and Agrapha: A New Translation. Bellingham, WA: Lexham Press, 2017 (pp. 167–70).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Ponder, Ross P. “Papyrus Oxyrhynchus 5072.” Pages 125–39 in <em>New Testament Apocrypha: More Noncanonical Scriptures. </em>Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2020.</p>",
+      "line_text": "Ponder, Ross P. “Papyrus Oxyrhynchus 5072.” Pages 125–39 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2020.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “A Newly Published ‘Gospel Fragment.’” <em>EC</em> 3 (2012): 381–89.</p>",
+      "line_text": "Chapa, Juan. “A Newly Published ‘Gospel Fragment.’” EC 3 (2012): 381–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hill, Charles E. “A Four-Gospel Canon in the Second Century?” <em>Early Christianity </em>4 (2013): 310–34.</p>",
+      "line_text": "Hill, Charles E. “A Four-Gospel Canon in the Second Century?” Early Christianity 4 (2013): 310–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>____________. <em>Who Chose the Gospels? Probing the Great Gospel Conspiracy</em>. Oxford: Oxford University Press, 2010.</p>",
+      "line_text": "____________. Who Chose the Gospels? Probing the Great Gospel Conspiracy. Oxford: Oxford University Press, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Gospel Fragments on Papyrus.” Pages 22–37 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 31–32).</p>",
+      "line_text": "Nicklas, Tobias. “Gospel Fragments on Papyrus.” Pages 22–37 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 31–32).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>____________. “Christian Apocrypha and the Development of the Christian Canon.” <em>Early Christianity </em>5 (2014): 220-40 at 223.</p>",
+      "line_text": "____________. “Christian Apocrypha and the Development of the Christian Canon.” Early Christianity 5 (2014): 220-40 at 223.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>____________. “Eine neue alte Erzählung im Rahmen antiker Jesustraditionen: Reste eines Exorzismus auf P.Oxy. lxxvi 5072.” <em>Annali di Storia dell’Esegesi</em> 29 (2012): 13–27.</p>",
+      "line_text": "____________. “Eine neue alte Erzählung im Rahmen antiker Jesustraditionen: Reste eines Exorzismus auf P.Oxy. lxxvi 5072.” Annali di Storia dell’Esegesi 29 (2012): 13–27.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p> </p>",
+      "line_text": " ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

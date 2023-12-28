@@ -1,0 +1,61 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/hypomnema-on-the-virgin-by-symeon-metaphrastes/",
+  "nasscal_toc_title": "Hypomnema on the Virgin, by Symeon Metaphrastes",
+  "filename": "hypomnema-on-the-virgin-by-symeon-metaphrastes",
+  "latin_title": "Vita Virginis, auctore Symeone Metaphrasta",
+  "abbrev": "Hypom. Vir.",
+  "alt_titles": [
+    "Hypomnema on the Virgin"
+  ],
+  "clavis_number": 805,
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 9 (Vlad 382), fols. 159v–192 (1063)</p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 9 (Vlad 382), fols. 159v–192 (1063)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 160 (Vlad 383) (11th cent.)</p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 160 (Vlad 383) (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 159 (Vlad 390), fols. 226–232 (12th cent.)</p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 159 (Vlad 390), fols. 226–232 (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/latysev.-menologii-2/page/345/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Latyšev, Vasilij V. <em>Menologii anonymi byzantini saeculi X quae supersunt.</em> 2 vols. St. Petersburg: Tipografija Imperatorskoj Akademii Nauk, 1911–1912 (edition based on Moscow, Sinod. gr. 9, with readings from Sinod. gr. 160, and Sinod gr. 159, vol. 2, pp. 346–83).</p>",
+      "line_text": "Latyšev, Vasilij V. Menologii anonymi byzantini saeculi X quae supersunt. 2 vols. St. Petersburg: Tipografija Imperatorskoj Akademii Nauk, 1911–1912 (edition based on Moscow, Sinod. gr. 9, with readings from Sinod. gr. 160, and Sinod gr. 159, vol. 2, pp. 346–83).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/latysev.-menologii-2/page/345/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><i><a href=\"https://archive.org/details/patrologiaecurs49migngoog/page/n279/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Patrologia Graeca (Migne)</i> 115, 529–44, 547–50 (portions)</p>",
+      "line_text": "Patrologia Graeca (Migne) 115, 529–44, 547–50 (portions)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaecurs49migngoog/page/n279/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

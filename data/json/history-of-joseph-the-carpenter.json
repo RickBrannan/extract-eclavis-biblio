@@ -1,0 +1,577 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-joseph-the-carpenter/",
+  "nasscal_toc_title": "History of Joseph the Carpenter",
+  "filename": "history-of-joseph-the-carpenter",
+  "latin_title": "Historia Iosephi fabri lignarii",
+  "clavis_number": 468,
+  "category": "Pseudo-Apostolic Memoirs",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Manuscripts utilized by Battista and Bagatti:</p>",
+      "line_text": "Manuscripts utilized by Battista and Bagatti:",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H</strong> Paris, Bibliothèque nationale de France, arab. 177, fols. 133<sup>v</sup>–145<sup>v</sup> (14th cent.) ~ copied from a manuscript from Monastery of Saint Anthony (=<strong>G</strong>) made in 1289</p>",
+      "line_text": "H Paris, Bibliothèque nationale de France, arab. 177, fols. 133v–145v (14th cent.) ~ copied from a manuscript from Monastery of Saint Anthony (=G) made in 1289",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>I</strong> Paris, Bibliothèque nationale de France, arab. 69, fols. 1<sup>r</sup>–79<sup>v</sup> (1344)</p>",
+      "line_text": "I Paris, Bibliothèque nationale de France, arab. 69, fols. 1r–79v (1344)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>J</strong> Paris, Bibliothèque nationale de France, arab. 275, fols. 83<sup>r</sup>–92<sup>r </sup>(1683)</p>",
+      "line_text": "J Paris, Bibliothèque nationale de France, arab. 275, fols. 83r–92r (1683)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong> Cairo, Coptic Catholic Patriarchate, 631, fols. 41<sup>v</sup>–48<sup>r </sup>(1689)</p>",
+      "line_text": "L Cairo, Coptic Catholic Patriarchate, 631, fols. 41v–48r (1689)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong> Archive of Church of the Virgin Harah az-Zuyla, 18, fols. 117<sup>r</sup>–135<sup>v</sup> (1707)</p>",
+      "line_text": "M Archive of Church of the Virgin Harah az-Zuyla, 18, fols. 117r–135v (1707)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>N</strong> Cairo, Coptic Catholic Patriarchate, 651, fols. 184<sup>v</sup>–201<sup>v</sup> (1737)</p>",
+      "line_text": "N Cairo, Coptic Catholic Patriarchate, 651, fols. 184v–201v (1737)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O</strong> Cairo, Coptic Catholic Patriarchate, 616, fols. 77<sup>v</sup>–92<sup>v</sup> (18th cent.)</p>",
+      "line_text": "O Cairo, Coptic Catholic Patriarchate, 616, fols. 77v–92v (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P</strong> Cairo, Coptic Museum, 6425, fols. 2<sup>r</sup>–12<sup>r </sup>(17th cent.)</p>",
+      "line_text": "P Cairo, Coptic Museum, 6425, fols. 2r–12r (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong> Cairo, Coptic Catholic Patriarchate, 60 (272), fols. 138<sup>r</sup>–147<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Q Cairo, Coptic Catholic Patriarchate, 60 (272), fols. 138r–147v (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 447, 3 (15th cent.)</p>",
+      "line_text": "R  Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 447, 3 (15th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>S</strong> Gotha, Universitätsbibliothek Erfurt, ar. 2879 (Garšūnī), fols. 49<sup>v</sup>–63<sup>r </sup></p>",
+      "line_text": "S Gotha, Universitätsbibliothek Erfurt, ar. 2879 (Garšūnī), fols. 49v–63r ",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Additional manuscripts listed by Graf:</p>",
+      "line_text": "Additional manuscripts listed by Graf:",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Catholic Patriarchate,  490,  fols. 77<sup>v</sup>–103<sup>r </sup>(18th cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate,  490,  fols. 77v–103r (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Coptic Catholic Patriarchate, 706, III (17th cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate, 706, III (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Charfet, Syrian-Catholic Patriarchate, Ancien fonds ar. 6/12, 1 (17th cent.) ~ this is a different text; see translation in Battista and Bagatti, pp. 259–78</p>",
+      "line_text": "Charfet, Syrian-Catholic Patriarchate, Ancien fonds ar. 6/12, 1 (17th cent.) ~ this is a different text; see translation in Battista and Bagatti, pp. 259–78",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 159, fols. 346<sup>v</sup>–348<sup>v</sup> (Garšūnī) ~ this is a different text; see translation in Battista and Bagatti, pp. 251–58</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 159, fols. 346v–348v (Garšūnī) ~ this is a different text; see translation in Battista and Bagatti, pp. 251–58",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wadi-el-natrun-dayr-qiddis-anba-maqqar-404/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 404, pp. 347–379 (15th cent.)</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 404, pp. 347–379 (15th cent.)",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wadi-el-natrun-dayr-qiddis-anba-maqqar-404/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 413, pp. 329–362 (13th/14th cent.) ~ <a href=\"https://www.vhmml.org/readingRoom/\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a></p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 413, pp. 329–362 (13th/14th cent.) ~ HMML",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.vhmml.org/readingRoom/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 6624(B), fols. 38<sup>r</sup>–48<sup>v</sup> (16/17th cent<a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-6624b/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>.)</p>",
+      "line_text": "Cairo, Coptic Museum, 6624(B), fols. 38r–48v (16/17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-6624b/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-64256427c/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 6425+6427(C), fols. 1<sup>r</sup>–12<sup>v</sup>, 17<sup>r</sup>–18<sup>r</sup> (16/17th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, 6425+6427(C), fols. 1r–12v, 17r–18r (16/17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-64256427c/"
+      ]
+    },
+    {
+      "line_html": "<p>Battista, Antonio and Bagatti, Bellarmino. <i>Edizione critica del testo arabo della Historia Iosephi fabri lignarii e ricerche sulla sua origine. </i>SBFCMi 20. Jerusalem: Franciscan Printing Press, 1975 (edition and translation of M [with N and P], pp. 23–62; I, pp. 74–99; HJLOQ decribed, pp. 100–25; reprint of Isolani’s Latin translation, pp. 130–34).</p>",
+      "line_text": "Battista, Antonio and Bagatti, Bellarmino. Edizione critica del testo arabo della Historia Iosephi fabri lignarii e ricerche sulla sua origine. SBFCMi 20. Jerusalem: Franciscan Printing Press, 1975 (edition and translation of M [with N and P], pp. 23–62; I, pp. 74–99; HJLOQ decribed, pp. 100–25; reprint of Isolani’s Latin translation, pp. 130–34).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus00gilegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Giles, J. A. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings</em>. London: D. Nutt, 1852 (Wallin’s Arabic text, pp. 1–11).</p>",
+      "line_text": "Giles, J. A. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings. London: D. Nutt, 1852 (Wallin’s Arabic text, pp. 1–11).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus00gilegoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n273/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (Arabic manuscripts listed, vol. 1: 234–36).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (Arabic manuscripts listed, vol. 1: 234–36).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n273/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.numistral.fr/ark:/12148/bpt6k9100033f/f457.image.r=thilo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Thilo, Ioannis Caroli. <em>Codex Apocryphus Novi Testamenti</em>. Lipsius: Vogel, 1832 (Wallin’s Latin translation and Arabic text with revisions by Emil Rödiger, pp. 1–61).</p>",
+      "line_text": "Thilo, Ioannis Caroli. Codex Apocryphus Novi Testamenti. Lipsius: Vogel, 1832 (Wallin’s Latin translation and Arabic text with revisions by Emil Rödiger, pp. 1–61).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.numistral.fr/ark:/12148/bpt6k9100033f/f457.image.r=thilo"
+      ]
+    },
+    {
+      "line_html": "<p>Wallin, Georg. <i>Qissat Yusuf an-naggar, sive historia Josephi fabri lignarii</i>. Leipzig: Andrea Zeidler, 1722 (<em>editio princeps</em> based on Paris, BNF, ar. 177).</p>",
+      "line_text": "Wallin, Georg. Qissat Yusuf an-naggar, sive historia Josephi fabri lignarii. Leipzig: Andrea Zeidler, 1722 (editio princeps based on Paris, BNF, ar. 177).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/maca-de/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MACA.DE, pp.  1–36 (9th–11th cent.)</p>",
+      "line_text": "MACA.DE, pp.  1–36 (9th–11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/maca-de/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. Borg. copt. 25 (18th cent.) ~ copy of Vat. copt. 66, 11 made by Raffaele Tuki</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. Borg. copt. 25 (18th cent.) ~ copy of Vat. copt. 66, 11 made by Raffaele Tuki",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Manchester, John Rylands Library, 440 (Crawford no. 39) (undated) ~ comprising 2:4–4:4; 10–13:4 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1645\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs entry</a>)</p>",
+      "line_text": "Manchester, John Rylands Library, 440 (Crawford no. 39) (undated) ~ comprising 2:4–4:4; 10–13:4 (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1645"
+      ]
+    },
+    {
+      "line_html": "<p>Codex A</p>",
+      "line_text": "Codex A",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-di/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>White Monastery, MONB.DI (10th cent.)</p>",
+      "line_text": "White Monastery, MONB.DI (10th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-di/"
+      ]
+    },
+    {
+      "line_html": "<p>Codex B (11th cent.)</p>",
+      "line_text": "Codex B (11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, Copte 129<sup>17</sup>, fol. 12 ~ comprising 7:1–9:1</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte 12917, fol. 12 ~ comprising 7:1–9:1",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Codex C (11th cent.; <a href=\"https://atlas.paths-erc.eu/manuscripts/1644\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs entry</a>)</p>",
+      "line_text": "Codex C (11th cent.; PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1644"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Or. 3581B, fol. 14 ~ comprising 13:6–15:2</p>",
+      "line_text": "London, British Library, Or. 3581B, fol. 14 ~ comprising 13:6–15:2",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Codex D (11th cent.; <a href=\"https://atlas.paths-erc.eu/manuscripts/1230\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs entry</a>)</p>",
+      "line_text": "Codex D (11th cent.; PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1230"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 fasc. 121~ comprising 14:1–24:1</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 fasc. 121~ comprising 14:1–24:1",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_8EAcFCioIQEC/page/n237\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Zoega, Georgio. <i>Catalogus codicum Copticorum manuscriptorum.</i> Rome: Sacra Congregatio de Propaganda Fide, 1810. Rep. Hildesheim: Olms, 1973 (pp. 225–27).</p>",
+      "line_text": "Zoega, Georgio. Catalogus codicum Copticorum manuscriptorum. Rome: Sacra Congregatio de Propaganda Fide, 1810. Rep. Hildesheim: Olms, 1973 (pp. 225–27).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_8EAcFCioIQEC/page/n237"
+      ]
+    },
+    {
+      "line_html": "<p>Codex E (11th cent.)</p>",
+      "line_text": "Codex E (11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/durham-duke-university-rubenstein-library-p-duk-inv-239/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Durham, Duke University Rubenstein Library, P. Duk. inv. 239 (11th cent.) ~ comprising 25:5–28:2</p>",
+      "line_text": "Durham, Duke University Rubenstein Library, P. Duk. inv. 239 (11th cent.) ~ comprising 25:5–28:2",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/durham-duke-university-rubenstein-library-p-duk-inv-239/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2013/03/suciu-history-of-joseph-the-carpenter-duke.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “A Coptic Fragment from the <i>History of Joseph the Carpenter</i> in the Collection of Duke University Library.” <em>HTR</em> 106.1 (2013): 93–104 (edition and translation of E).</p>",
+      "line_text": "Suciu, Alin. “A Coptic Fragment from the History of Joseph the Carpenter in the Collection of Duke University Library.” HTR 106.1 (2013): 93–104 (edition and translation of E).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2013/03/suciu-history-of-joseph-the-carpenter-duke.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/01/suciu-new-fragments-historia-josephi1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “New Fragments from the Sahidic Version of the <i>Historia Josephi Fabri Lignarii</i>.” <em>Mus</em> 122 (2009): 279–89 (edition and translation of Paris, BNF, 131<sup>8</sup> and 132<sup>2</sup>).</p>",
+      "line_text": "Suciu, Alin. “New Fragments from the Sahidic Version of the Historia Josephi Fabri Lignarii.” Mus 122 (2009): 279–89 (edition and translation of Paris, BNF, 1318 and 1322).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/01/suciu-new-fragments-historia-josephi1.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/aegyptiaca01lagagoog/page/n5\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lagarde, Paul de. <i>Ægyptiaca</i>. Göttingen: D. A. Hoter, 1883 (edition based on new examination of Vat. copt. 66, 11 with Wallin’s Arabic and D).</p>",
+      "line_text": "Lagarde, Paul de. Ægyptiaca. Göttingen: D. A. Hoter, 1883 (edition based on new examination of Vat. copt. 66, 11 with Wallin’s Arabic and D).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/aegyptiaca01lagagoog/page/n5"
+      ]
+    },
+    {
+      "line_html": "<p>Lefort, Louis-Théophile. “À propos de ‘L’Histoire de Joseph le Charpentier.’” <i>Mus</i> 66 (1953): 201–23 (editions of B and additional leaves from A).</p>",
+      "line_text": "Lefort, Louis-Théophile. “À propos de ‘L’Histoire de Joseph le Charpentier.’” Mus 66 (1953): 201–23 (editions of B and additional leaves from A).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Morenz, Siegfried. <i>Geschichte von Joseph dem Zimmermann</i>. TUGAL 56/1. Berlin: Akademie-Verlag, 1951 (edition and German translation based on de Lagarde).</p>",
+      "line_text": "Morenz, Siegfried. Geschichte von Joseph dem Zimmermann. TUGAL 56/1. Berlin: Akademie-Verlag, 1951 (edition and German translation based on de Lagarde).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/apocryphescopte00rvgoog#page/n6\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Revillout, Eugène. A<em>pocryphes coptes du Nouveau Testament.</em> Vol. 1: <em>Textes.</em> Études Égyptologiques 7. Paris: F. Vieweg, 1876 (<em>editio princeps</em> and Latin translation based on Vat. copt. 66, 11 from an imperfect transcription and Vat. Borg. 109 fasc. 116 and 121, pp. 43–71).</p>",
+      "line_text": "Revillout, Eugène. Apocryphes coptes du Nouveau Testament. Vol. 1: Textes. Études Égyptologiques 7. Paris: F. Vieweg, 1876 (editio princeps and Latin translation based on Vat. copt. 66, 11 from an imperfect transcription and Vat. Borg. 109 fasc. 116 and 121, pp. 43–71).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/apocryphescopte00rvgoog#page/n6"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.archive.org/details/copticapocrypha00robigoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Robinson, Forbes. <em>Coptic Apocryphal Gospels.</em> <em>Translations Together with the Texts of Some of Them</em>. TS 4.2. Cambridge: Cambridge University Press, 1896 (translation of Vat. copt. 66, 11, pp. 130–47; edition and translation of Vat. Borg. 109 fasc. 116, pp. 146–49; edition and translation of C, pp. 148–49; translation of D, pp. 152–59; and readings from John Rylands 440 in notes, pp. 221–35).</p>",
+      "line_text": "Robinson, Forbes. Coptic Apocryphal Gospels. Translations Together with the Texts of Some of Them. TS 4.2. Cambridge: Cambridge University Press, 1896 (translation of Vat. copt. 66, 11, pp. 130–47; edition and translation of Vat. Borg. 109 fasc. 116, pp. 146–49; edition and translation of C, pp. 148–49; translation of D, pp. 152–59; and readings from John Rylands 440 in notes, pp. 221–35).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.archive.org/details/copticapocrypha00robigoog"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>A Synopsis of the Apocryphal Nativity and Infancy Narratives</em>. NTTS 34. Leiden and Boston: Brill, 2006.</p>",
+      "line_text": "Elliott, J. K. A Synopsis of the Apocryphal Nativity and Infancy Narratives. NTTS 34. Leiden and Boston: Brill, 2006.",
+      "language": "English",
+      "entry_type": ". Concordances and Synopses"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospel00cowp/page/98\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Cowper, B. Harris. <em>The Apocryphal Gospels and Other Documents Relating to the History of Christ</em>. 4th ed. 1867. London: Frederic Norgate, 1874 (based on the Latin translation of the Arabic text, pp. 99–127, introduction, pp. lxiii–lxviii).</p>",
+      "line_text": "Cowper, B. Harris. The Apocryphal Gospels and Other Documents Relating to the History of Christ. 4th ed. 1867. London: Frederic Norgate, 1874 (based on the Latin translation of the Arabic text, pp. 99–127, introduction, pp. lxiii–lxviii).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospel00cowp/page/98"
+      ]
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. and Zlatko Pleše. <em>The Apocryphal Gospels: Texts and Translations</em>. Oxford and New York: Oxford University Press, 2011 (text and translation based on de Lagarde, pp. 157–93).</p>",
+      "line_text": "Ehrman, Bart D. and Zlatko Pleše. The Apocryphal Gospels: Texts and Translations. Oxford and New York: Oxford University Press, 2011 (text and translation based on de Lagarde, pp. 157–93).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (introduction and summary of the Bohairic version, pp. 111–17).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (introduction and summary of the Bohairic version, pp. 111–17).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (summary of Wallin’s Arabic text, 84–86).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (summary of Wallin’s Arabic text, 84–86).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/n90\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (based on the Latin translation of the Arabic text from Tischendorf, pp. 62–67).</p>",
+      "line_text": "Walker, Alexander. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (based on the Latin translation of the Arabic text from Tischendorf, pp. 62–67).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/n90"
+      ]
+    },
+    {
+      "line_html": "<p>Boud’hors, Anne. “Histoire de l’Enfance de Jésus.” Pages 25–59 in vol. 2 of <em>Écrits apocryphes chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Paris: Gallimard, 2005 (based on de Lagarde’s edition).</p>",
+      "line_text": "Boud’hors, Anne. “Histoire de l’Enfance de Jésus.” Pages 25–59 in vol. 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Paris: Gallimard, 2005 (based on de Lagarde’s edition).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://reader.digitale-sammlungen.de/resolve/display/bsb10250301.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dulaurier, Édouard. <em>Fragments des révélations apocryphes de saint Barthélemy et de l’histoire des communautés religieuses de saint Packhôme</em>. Paris: <span dir=\"ltr\">Imprimerie royale</span>, 1835 (from D, pp. 23–29).</p>",
+      "line_text": "Dulaurier, Édouard. Fragments des révélations apocryphes de saint Barthélemy et de l’histoire des communautés religieuses de saint Packhôme. Paris: Imprimerie royale, 1835 (from D, pp. 23–29).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://reader.digitale-sammlungen.de/resolve/display/bsb10250301.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedes03unkngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (translation of the Arabic text, vol. 1:1027–44).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (translation of the Arabic text, vol. 1:1027–44).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedes03unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/vangilesapocry01peet/page/190\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Peeters, Paul. “Histoire de Joseph le charpentier. Rédactiones copte et arabe.” Pages 192–245 in vol. 1 of <em>Évangiles apocryphes</em>. Edited by Charles Michel and Paul Peeters. 2 vols. Textes et documents pour l’étude historique du Christianisme 13, 18. Paris: Librairie Alphonse Picard &amp; Fils, 1911–1914 (translation of Arabic and Bohairic versions, with D in the appendix, pp. 244–46).</p>",
+      "line_text": "Peeters, Paul. “Histoire de Joseph le charpentier. Rédactiones copte et arabe.” Pages 192–245 in vol. 1 of Évangiles apocryphes. Edited by Charles Michel and Paul Peeters. 2 vols. Textes et documents pour l’étude historique du Christianisme 13, 18. Paris: Librairie Alphonse Picard &amp; Fils, 1911–1914 (translation of Arabic and Bohairic versions, with D in the appendix, pp. 244–46).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/vangilesapocry01peet/page/190"
+      ]
+    },
+    {
+      "line_html": "<p>Klameth, Gustav. “Über die Herkunft der apokryphen <em>Geschichte Josephs dem Zimmermans</em>.” <em>Angelos</em> 3 (1928): 6–31 (chs. 19–24 of Lagarde’s Sahidic and Bohairic).</p>",
+      "line_text": "Klameth, Gustav. “Über die Herkunft der apokryphen Geschichte Josephs dem Zimmermans.” Angelos 3 (1928): 6–31 (chs. 19–24 of Lagarde’s Sahidic and Bohairic).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Schneider, Gerhard. <em>Apokryphe Kindheitsevangelien</em>. New York: Herder, 1995 (pp. 272–83).</p>",
+      "line_text": "Schneider, Gerhard. Apokryphe Kindheitsevangelien. New York: Herder, 1995 (pp. 272–83).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Stern, Ludwig. “Das Leben Josephs des Zimmermanns aus dem Koptischen übersetzt.” <i>ZWT</i> 26 (1883): 267–94 (translation of Revillout’s Sahidic and Boharic with corrections).</p>",
+      "line_text": "Stern, Ludwig. “Das Leben Josephs des Zimmermanns aus dem Koptischen übersetzt.” ZWT 26 (1883): 267–94 (translation of Revillout’s Sahidic and Boharic with corrections).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli Apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966–1981 (summary of the Bohairic text, vol. 1.2:186–205).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (summary of the Bohairic text, vol. 1.2:186–205).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n157\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translations of the Arabic and Bohairic versions, vol. 1:313–52).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translations of the Arabic and Bohairic versions, vol. 1:313–52).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n157"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11116194_00147.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Schiller, 1703 (Wallin’s Latin translation, vol. 2:309–36).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. Hamburg: Schiller, 1703 (Wallin’s Latin translation, vol. 2:309–36).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11116194_00147.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_Mdiu4w46rfUC/page/n201\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Isolani, Isidoro. <em>En lector ingenue</em>, <em>nouum opus ac pluribus incognitum sæculis…; est</em><em> opus summa in quator secta partes, de donis sancti Ioseph sponsi beatissimae virginis Mariae ac patris putatiui Christi Iesu Dei immortalis. </em>Pavia: Impressa apud Iacob Paucidrapium, 1522 (translation “from Hebrew” of an unidentified manuscript, 97b–100a).</p>",
+      "line_text": "Isolani, Isidoro. En lector ingenue, nouum opus ac pluribus incognitum sæculis…; est opus summa in quator secta partes, de donis sancti Ioseph sponsi beatissimae virginis Mariae ac patris putatiui Christi Iesu Dei immortalis. Pavia: Impressa apud Iacob Paucidrapium, 1522 (translation “from Hebrew” of an unidentified manuscript, 97b–100a).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_Mdiu4w46rfUC/page/n201"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/evangeliaapocry03tiscgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Tischendorf, Constantin von, ed. <em>Evangelia Apocrypha</em>. Leipzig: Mendelssohn, 1853; 2nd ed. 1876. (Wallin’s Latin translation, pp. 115–33).</p>",
+      "line_text": "Tischendorf, Constantin von, ed. Evangelia Apocrypha. Leipzig: Mendelssohn, 1853; 2nd ed. 1876. (Wallin’s Latin translation, pp. 115–33).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/evangeliaapocry03tiscgoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/losevangeliosapo00sant/page/358/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>De Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956 (translation of Morenz’s edition of the Bohairic, pp. 358–78).</p>",
+      "line_text": "De Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 1956 (translation of Morenz’s edition of the Bohairic, pp. 358–78).",
+      "language": "Spanish",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/losevangeliosapo00sant/page/358/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>González-Blanco, Edmundo, ed. <em>Los Evangelio Apócrifos. </em>3 vols. Madrid: Bergua, 1934 (from the Coptic, vol. 1:385–406; Arabic vol. 1:407 ff.).</p>",
+      "line_text": "González-Blanco, Edmundo, ed. Los Evangelio Apócrifos. 3 vols. Madrid: Bergua, 1934 (from the Coptic, vol. 1:385–406; Arabic vol. 1:407 ff.).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Aranda Perez, G. “Joseph the Carpenter.” Pages 1371–74 in vol. 5 of <em>The Coptic Encylopedia</em>. Edited by A. S. Atiya. New York and Toronto: MacMillan, 1991.</p>",
+      "line_text": "Aranda Perez, G. “Joseph the Carpenter.” Pages 1371–74 in vol. 5 of The Coptic Encylopedia. Edited by A. S. Atiya. New York and Toronto: MacMillan, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bienert, Wolfgang A. “Kindheistevangelien.” Pages 330–72 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 1. <em>Evangelien und Verwandtes</em>. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “The Relatives of Jesus.” Pages 470–88 in <em>New Testament Apocrypha</em>, Vol. 1,<em> Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox, 1991 (see pp. 483–85).</p>",
+      "line_text": "Bienert, Wolfgang A. “Kindheistevangelien.” Pages 330–72 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1. Evangelien und Verwandtes. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “The Relatives of Jesus.” Pages 470–88 in New Testament Apocrypha, Vol. 1, Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox, 1991 (see pp. 483–85).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k9814474z/f141.item.texteImage\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Boud’hors, Anne. “Origine et portée du récit apocryphe copte intitulé Histoire de Joseph le Charpentier.” Pages 139–54 in<em> Marie dans les récits apocryphes chrétiens</em> 1. Bulletin de la Société française d’études mariales. Paris: Mediaspaul, 2004.</p>",
+      "line_text": "Boud’hors, Anne. “Origine et portée du récit apocryphe copte intitulé Histoire de Joseph le Charpentier.” Pages 139–54 in Marie dans les récits apocryphes chrétiens 1. Bulletin de la Société française d’études mariales. Paris: Mediaspaul, 2004.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/bpt6k9814474z/f141.item.texteImage"
+      ]
+    },
+    {
+      "line_html": "<p>Giamberardini, Gabriele. <em>San Giuseppe nella tradizione copta.</em> Cairo: Centro Francescano di Studi Orientali, 1966. (Translated into French as <em>Saint Joseph dans la tradition copte.</em> Cahiers de Joséphologie 17. Montreal: Centre de Recherche et de Documentation, 1969).</p>",
+      "line_text": "Giamberardini, Gabriele. San Giuseppe nella tradizione copta. Cairo: Centro Francescano di Studi Orientali, 1966. (Translated into French as Saint Joseph dans la tradition copte. Cahiers de Joséphologie 17. Montreal: Centre de Recherche et de Documentation, 1969).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jacobs, Philip W. <em>Joseph the Carpenter: his Reception in Literature and Art from the Second to the Ninth Century.</em> History of Biblical Interpretation 5. Dorset: Deo, 2016 (esp. pp. 111–25).</p>",
+      "line_text": "Jacobs, Philip W. Joseph the Carpenter: his Reception in Literature and Art from the Second to the Ninth Century. History of Biblical Interpretation 5. Dorset: Deo, 2016 (esp. pp. 111–25).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://research.bangor.ac.uk/portal/en/theses/the-reception-history-and-interpretation-of-the-new-testament-portrayals-of-joseph-the-carpenter-in-nativity-and-infancy-portrayals-in-early-christian-and-early-medieval-narratives-and-art-from-the-second-century-to-the-ninth-century-ce(ce638107-800d-44d0-9405-56f3f763ccc9).html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “The Reception History and Interpretation of the New Testament Portrayals of Joseph the Carpenter in Nativity and Infancy Portrayals in Early Christian and Early Medieval Narratives and Art from the Second Century to the Ninth Century CE.” PhD diss., Bangor University, 2013 (esp. pp. 131–51).</p>",
+      "line_text": "__________. “The Reception History and Interpretation of the New Testament Portrayals of Joseph the Carpenter in Nativity and Infancy Portrayals in Early Christian and Early Medieval Narratives and Art from the Second Century to the Ninth Century CE.” PhD diss., Bangor University, 2013 (esp. pp. 131–51).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://research.bangor.ac.uk/portal/en/theses/the-reception-history-and-interpretation-of-the-new-testament-portrayals-of-joseph-the-carpenter-in-nativity-and-infancy-portrayals-in-early-christian-and-early-medieval-narratives-and-art-from-the-second-century-to-the-ninth-century-ce(ce638107-800d-44d0-9405-56f3f763ccc9).html"
+      ]
+    },
+    {
+      "line_html": "<p>Klameth, Gustav. “Über die Herkunft der apokryphen <em>Geschichte Josephs dem Zimmermans</em>.” <em>Angelos</em> 3 (1928): 6–31.</p>",
+      "line_text": "Klameth, Gustav. “Über die Herkunft der apokryphen Geschichte Josephs dem Zimmermans.” Angelos 3 (1928): 6–31.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Manns, Frédéric. “Le portrait de Joseph dans l’Histoire de Joseph le Charpentier.” Pages 94–105 in <em>Essais sur le Judéo-Christianisme.</em> Jerusalem: Franciscan Print. Press, 1977.</p>",
+      "line_text": "Manns, Frédéric. “Le portrait de Joseph dans l’Histoire de Joseph le Charpentier.” Pages 94–105 in Essais sur le Judéo-Christianisme. Jerusalem: Franciscan Print. Press, 1977.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nagel, Peter. “Joseph II (Zimmermann).” <em>RAC</em> 18: 749–61. Stuttgart: Hiersemann, 1977.</p>",
+      "line_text": "Nagel, Peter. “Joseph II (Zimmermann).” RAC 18: 749–61. Stuttgart: Hiersemann, 1977.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

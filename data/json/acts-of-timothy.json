@@ -1,0 +1,336 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-timothy/",
+  "nasscal_toc_title": "Acts of Timothy",
+  "filename": "acts-of-timothy",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Acts Tim.",
+  "clavis_number": 270,
+  "category": "Apocryphal Acts",
+  "compiler": ": Cavan Concannon, University of Southern California",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Family 1:</p>",
+      "line_text": "Family 1:",
+      "language": ".1 BHG 1847",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Mount Athos, Koutlumousiou, 37, fols. 276<sup>r</sup>–277<sup>v</sup> (10th cent.)</p>",
+      "line_text": "A  Mount Athos, Koutlumousiou, 37, fols. 276r–277v (10th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-54/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>O</strong>  Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 54, fols. 11<sup>r</sup>–13<sup>r</sup> (12th cent.)</p>",
+      "line_text": "O  Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 54, fols. 11r–13r (12th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-54/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  Berlin, Deutsche Bibliothek, 220, fols. 37<sup>v</sup>–40<sup>v</sup> (13th cent.)</p>",
+      "line_text": "B  Berlin, Deutsche Bibliothek, 220, fols. 37v–40v (13th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Family 2:</p>",
+      "line_text": "Family 2:",
+      "language": ".1 BHG 1847",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1219/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P</strong>  Paris, Bibliothèque nationale de France, gr. 1219, fols. 64<sup>r</sup>–67<sup>r</sup> (11th cent.)</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, gr. 1219, fols. 64r–67r (11th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1219/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1595 fols. 56<sup>v</sup>–57<sup>v</sup> (11th cent.)</p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1595 fols. 56v–57v (11th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-866/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 866, fols. 394<sup>r</sup>–395<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "C  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 866, fols. 394r–395r (11th/12th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-866/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Messina, Biblioteca Universitaria, 63 fols. 230<sup>v</sup>–232<sup>v</sup> (13th cent.)</p>",
+      "line_text": "M  Messina, Biblioteca Universitaria, 63 fols. 230v–232v (13th cent.)",
+      "language": ".1 BHG 1847",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Zamagni, Claudio. “Passion (ou Actes) de Timothée. Étude des traditions anciennes et édition de la forme BHG 1487.” Pages 341–75 in <em>Poussières de christianisme et de judaïsme antiques. Études réunies en l’honneur de Jean-Daniel Kaestli et Éric Junod. </em>Edited by Albert Frey and Rémi Gounelle. Prahins: Publications de l’Institut Romand des Sciences Bibliques, 2007. Reprinted in  Claudio Zamagni, <em>Recherches sur le Nouveau Testament et les apocryphes chrétiens.</em> Rimini: GuaraliLAB, 2017, pp. 257–301 (critical edition of the Greek tradition based on the seven manuscripts above).</p>",
+      "line_text": "Zamagni, Claudio. “Passion (ou Actes) de Timothée. Étude des traditions anciennes et édition de la forme BHG 1487.” Pages 341–75 in Poussières de christianisme et de judaïsme antiques. Études réunies en l’honneur de Jean-Daniel Kaestli et Éric Junod. Edited by Albert Frey and Rémi Gounelle. Prahins: Publications de l’Institut Romand des Sciences Bibliques, 2007. Reprinted in  Claudio Zamagni, Recherches sur le Nouveau Testament et les apocryphes chrétiens. Rimini: GuaraliLAB, 2017, pp. 257–301 (critical edition of the Greek tradition based on the seven manuscripts above).",
+      "language": ".1 BHG 1847",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=uiuc.1886109&amp;view=1up&amp;seq=7\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Usener, Hermann. N<em>atalicia regis augustissimi Guilelmi imperatoris Germaniae ab Universitate Fridericia Guilelmia Rhenana […] Insunt Acta S. Timothei</em>. Bonn: Programme de l’université de Bonn, 1877 (<em>editio princeps</em> based on P, pp. 7–13).</p>",
+      "line_text": "Usener, Hermann. Natalicia regis augustissimi Guilelmi imperatoris Germaniae ab Universitate Fridericia Guilelmia Rhenana […] Insunt Acta S. Timothei. Bonn: Programme de l’université de Bonn, 1877 (editio princeps based on P, pp. 7–13).",
+      "language": ".1 BHG 1847",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=uiuc.1886109&view=1up&seq=7"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Glasgow, University Library, MS Gen 1112 (BE 8.x.5), fols. 238<sup>r</sup>–238<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17299/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Glasgow, University Library, MS Gen 1112 (BE 8.x.5), fols. 238r–238v (10th cent.) ~ Pinakes",
+      "language": ".2 BHG 1847g",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/17299/"
+      ]
+    },
+    {
+      "line_html": "<p>Halkin, François. “Un nouveau ménologe grec de Janvier dans un manuscrit de Glasgow.” <i>AnBoll</i> 75 (1957): 66–72 (description).</p>",
+      "line_text": "Halkin, François. “Un nouveau ménologe grec de Janvier dans un manuscrit de Glasgow.” AnBoll 75 (1957): 66–72 (description).",
+      "language": ".2 BHG 1847g",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Preliminary translation: Timothy, the apostle of Christ, was from the city of Lystra. He was the son of a Greek, but his mother was a Jew. He was a disciple of the holy apostle Paul, and companion of his preaching. He was ordained by Saint Paul, in the time of Emperor Nero, the first bishop of Ephesus before Saint John the Theologian. For the Theologian came to Ephesus after the falling asleep of the holy Theotokos. And Saint Timothy taught the people the faith of Christ. On one occasion, seeing the Greeks celebrating an abominable festival day for idols, with the men and women promiscuously performing indecent acts, he ran to them and admonished them to cease their wickedness, but this accomplished nothing; rather he was killed by them with the spears they held in their hands at the very entrance of the city, where his precious remains are also buried.</p>",
+      "line_text": "Preliminary translation: Timothy, the apostle of Christ, was from the city of Lystra. He was the son of a Greek, but his mother was a Jew. He was a disciple of the holy apostle Paul, and companion of his preaching. He was ordained by Saint Paul, in the time of Emperor Nero, the first bishop of Ephesus before Saint John the Theologian. For the Theologian came to Ephesus after the falling asleep of the holy Theotokos. And Saint Timothy taught the people the faith of Christ. On one occasion, seeing the Greeks celebrating an abominable festival day for idols, with the men and women promiscuously performing indecent acts, he ran to them and admonished them to cease their wickedness, but this accomplished nothing; rather he was killed by them with the spears they held in their hands at the very entrance of the city, where his precious remains are also buried.",
+      "language": ".3 Menologion of Basil II",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 341 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1613\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 341 (10th cent.) ~ Pinakes; BAV",
+      "language": ".3 Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68244/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1613"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus80migngoog/page/n143/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 273–74).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 273–74).",
+      "language": ".3 Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus80migngoog/page/n143/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaecurs128migngoog/page/n54/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca</em>. Vol. 104. Paris: Cerf, 1860 (cols. 101–104).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 104. Paris: Cerf, 1860 (cols. 101–104).",
+      "language": ".4 Photius, Bib. cod. 254 ~ text and French translation",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaecurs128migngoog/page/n54/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Paris, Bibliothèque nationale de France, lat. 17625, fols. 202<sup>v</sup>–204<sup>r</sup> (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10547742w\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, lat. 17625, fols. 202v–204r (10th cent.) ~ Gallica",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10547742w"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Paris, Bibliothèque nationale de France, lat. 5300, fols. 46<sup>v</sup>–47<sup>v</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10037464s\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "F  Paris, Bibliothèque nationale de France, lat. 5300, fols. 46v–47v (13th cent.) ~ Gallica",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10037464s"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum03unse/page/180/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Ianuarii</em>. Vol. 2. Antwerp: P. Jacobs 1643 (pp. 562–69); 3rd ed. Paris: V. Palmé, 1863 (vol. 3, pp. 180–81) (Latin text from unidentified source).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Ianuarii. Vol. 2. Antwerp: P. Jacobs 1643 (pp. 562–69); 3rd ed. Paris: V. Palmé, 1863 (vol. 3, pp. 180–81) (Latin text from unidentified source).",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum03unse/page/180/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span dir=\"ltr\"><a href=\"https://www.digitale-bibliothek-mv.de/viewer/image/PPN1016157525/493/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a><em>Legenda aurea sanctorum, sive Lombardica historia</em>. Cologne: Ulrich Zell, 1483 </span>(incunable of the <em>Golden Legend</em> with additional saints in the appendices; text of <em>Acts Tim.</em> fols. 238d–239c)</p>",
+      "line_text": "Legenda aurea sanctorum, sive Lombardica historia. Cologne: Ulrich Zell, 1483 (incunable of the Golden Legend with additional saints in the appendices; text of Acts Tim. fols. 238d–239c)",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-bibliothek-mv.de/viewer/image/PPN1016157525/493/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://play.google.com/books/reader?id=-uEPAAAAQAAJ&amp;pg=GBS.PA54-IA1&amp;hl=en\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lefèvre d’Étaples, Jacques. <em>Agones martyrum mensis ianuarii libro primo contenti</em>. Paris, 1519 (Latin text from unidentified source, fols. 54<sup>v</sup>–55<sup>v</sup>).</p>",
+      "line_text": "Lefèvre d’Étaples, Jacques. Agones martyrum mensis ianuarii libro primo contenti. Paris, 1519 (Latin text from unidentified source, fols. 54v–55v).",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://play.google.com/books/reader?id=-uEPAAAAQAAJ&pg=GBS.PA54-IA1&hl=en"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus93migngoog/page/n692/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 5. Paris: Cerf, 1894 (Latin text drawing on three unidentified Latin manuscripts—one from Trier, one from the monastery of S. Mariae de Ripatorio, and another identified as the Agonibus martyrum ms. Nicolai Belforti—and readings from one in Greek, cols. 1363–66).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 5. Paris: Cerf, 1894 (Latin text drawing on three unidentified Latin manuscripts—one from Trier, one from the monastery of S. Mariae de Ripatorio, and another identified as the Agonibus martyrum ms. Nicolai Belforti—and readings from one in Greek, cols. 1363–66).",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus93migngoog/page/n692/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_2AULMZa_r4AC/page/n383/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pithou, François. <em>Codex canonum vetus Ecclesiae Romanae a Francisco Pithoeo ad veteres manuscriptos codices . . . Ex Bibliotheca Illustrissimi D. D. Claudii Le Peletier</em>. Paris: Ex Typographia Regia, 1687 (Latin text from a manuscript from the Paris monastery of Saint-Germain-des-Prés, pp. 365–67).</p>",
+      "line_text": "Pithou, François. Codex canonum vetus Ecclesiae Romanae a Francisco Pithoeo ad veteres manuscriptos codices . . . Ex Bibliotheca Illustrissimi D. D. Claudii Le Peletier. Paris: Ex Typographia Regia, 1687 (Latin text from a manuscript from the Paris monastery of Saint-Germain-des-Prés, pp. 365–67).",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_2AULMZa_r4AC/page/n383/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=uiuc.1886109&amp;view=1up&amp;seq=7\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Usener, Hermann. N<em>atalicia regis augustissimi Guilelmi imperatoris Germaniae ab Universitate Fridericia Guilelmia Rhenana […] Insunt Acta S. Timothei</em>. Bonn: Programme de l’université de Bonn, 1877 (edition based on C and F, pp. 7–13).</p>",
+      "line_text": "Usener, Hermann. Natalicia regis augustissimi Guilelmi imperatoris Germaniae ab Universitate Fridericia Guilelmia Rhenana […] Insunt Acta S. Timothei. Bonn: Programme de l’université de Bonn, 1877 (edition based on C and F, pp. 7–13).",
+      "language": ".1 BHL 8294",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=uiuc.1886109&view=1up&seq=7"
+      ]
+    },
+    {
+      "line_html": "<p>Concannon, Cavan. “The Acts of Timothy.” Pages 395–405 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016.</p>",
+      "line_text": "Concannon, Cavan. “The Acts of Timothy.” Pages 395–405 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rothschild, Clare K. “Acts of Timothy: The Latin Tradition.” Pages 362–87 in <em>Ancient Philosophy and Early Christianity</em>. Edited by Gideon R. Kotzé and Philip R. Bosman. Leiden: Brill, 2022.</p>",
+      "line_text": "Rothschild, Clare K. “Acts of Timothy: The Latin Tradition.” Pages 362–87 in Ancient Philosophy and Early Christianity. Edited by Gideon R. Kotzé and Philip R. Bosman. Leiden: Brill, 2022.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Zamagni, Claudio. “Actes de Timothée.” Pages 587–601 in volume 2 of <em><em>Écrits apocryphes chrétiens</em>. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Zamagni, Claudio. “Actes de Timothée.” Pages 587–601 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Barnes, Timothy D. <em>Early Christian Hagiography and Roman History</em>. Tübingen: Mohr Siebeck, 2010 (pp. 300–303).</p>",
+      "line_text": "Barnes, Timothy D. Early Christian Hagiography and Roman History. Tübingen: Mohr Siebeck, 2010 (pp. 300–303).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bremmer, Jan N. “Timothy, John and Ephesus in the <em>Acts of Timothy.</em>” Pages 215–39 in <em>The Apostles Peter, Paul, John, Thomas and Philip with their Companions in Late Antiquity</em>. Edited by Tobias Nicklas, Janet E. Spittler, and Jan N. Bremmer. Leuven: Peeters, 2021.</p>",
+      "line_text": "Bremmer, Jan N. “Timothy, John and Ephesus in the Acts of Timothy.” Pages 215–39 in The Apostles Peter, Paul, John, Thomas and Philip with their Companions in Late Antiquity. Edited by Tobias Nicklas, Janet E. Spittler, and Jan N. Bremmer. Leuven: Peeters, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Concannon, Cavan W. “In the Great City of the Ephesians: Contestations over Apostolic Memory and Ecclesial Power in the <em>Acts of Timothy.</em>”  <em>JECS</em> 24.3 (2016): 419–46.</p>",
+      "line_text": "Concannon, Cavan W. “In the Great City of the Ephesians: Contestations over Apostolic Memory and Ecclesial Power in the Acts of Timothy.”  JECS 24.3 (2016): 419–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Csapo, Eric. “Comedy and the <em>Pompe</em>: Dionysian Genre-Crossing.” Pages 40–80 in <em>Greek Comedy and the Discourse of Genres</em>. Edited by Emmanuela Bakola, Lucia Prauscello, and Mario Telo. New York: Cambridge University Press, 2013 (pp. 59–64).</p>",
+      "line_text": "Csapo, Eric. “Comedy and the Pompe: Dionysian Genre-Crossing.” Pages 40–80 in Greek Comedy and the Discourse of Genres. Edited by Emmanuela Bakola, Lucia Prauscello, and Mario Telo. New York: Cambridge University Press, 2013 (pp. 59–64).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/in.ernet.dli.2015.279531/page/n97/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delehaye, Hippolyte. “Les actes de Saint Timothée.” Pages 77–84 in <em>Anatolian Studies Presented to William Hepburn Buckler</em>. Edited by William Moir Calder and Josef Keil. Manchester: Manchester University Press, 1939.</p>",
+      "line_text": "Delehaye, Hippolyte. “Les actes de Saint Timothée.” Pages 77–84 in Anatolian Studies Presented to William Hepburn Buckler. Edited by William Moir Calder and Josef Keil. Manchester: Manchester University Press, 1939.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/in.ernet.dli.2015.279531/page/n97/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=926\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Schiller, 1703–1719 (vol. 1, pp. 812–14).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. Hamburg: Schiller, 1703–1719 (vol. 1, pp. 812–14).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11116194?page=926"
+      ]
+    },
+    {
+      "line_html": "<p>Foss, Clive. <em>Ephesus after Antiquity: A Late Antique, Byzantine, and Turkish City</em>. Cambridge: Cambridge University Press, 1979 (see pp. 33, 43, 84–86, 126–28).</p>",
+      "line_text": "Foss, Clive. Ephesus after Antiquity: A Late Antique, Byzantine, and Turkish City. Cambridge: Cambridge University Press, 1979 (see pp. 33, 43, 84–86, 126–28).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Keil, Josef. <em>Führer durch Ephesos.</em> Vienna: Österreichisches Archäologisches<br/>\nInstitut, 1964.</p>",
+      "line_text": "Keil, Josef. Führer durch Ephesos. Vienna: Österreichisches Archäologisches Institut, 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Zum Martyrium des heiligen Timotheus in Ephesus.” <em>JÖAI</em> 29 (1935): 82–92.</p>",
+      "line_text": "__________. “Zum Martyrium des heiligen Timotheus in Ephesus.” JÖAI 29 (1935): 82–92.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kensky, Meira Z. “Ephesus, <em>Loca Sancta</em>: The Acts of Timothy and Religious Travel in Late Antiquity.” Pages 91–119 in <em>The Narrative Self in Early Christianity: Essays in Honor of Judith Perkins</em>. Edited by Janet E. Spittler. WGRWSup 5. Atlanta: SB: Press, 2019.</p>",
+      "line_text": "Kensky, Meira Z. “Ephesus, Loca Sancta: The Acts of Timothy and Religious Travel in Late Antiquity.” Pages 91–119 in The Narrative Self in Early Christianity: Essays in Honor of Judith Perkins. Edited by Janet E. Spittler. WGRWSup 5. Atlanta: SB: Press, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klauck, Hans-Josef.<em> The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil; Waco, Tex.: Baylor University Press, 2008 (pp. 248–49).</p>",
+      "line_text": "Klauck, Hans-Josef. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil; Waco, Tex.: Baylor University Press, 2008 (pp. 248–49).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap01lipsgoog/page/n381/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2, pp. 372–400).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2, pp. 372–400).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap01lipsgoog/page/n381/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Christian Apocrypha as ‘Heterotopias’ in Ancient Christian Discourse: the Acts of Timothy.” <em>PIBA</em> 41/42 (2019): 98–112.</p>",
+      "line_text": "Nicklas, Tobias. “Christian Apocrypha as ‘Heterotopias’ in Ancient Christian Discourse: the Acts of Timothy.” PIBA 41/42 (2019): 98–112.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://digipress.digitale-sammlungen.de/view/bsb11371389_00117_u001/1\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Zahn, Theodor. “Rezension Acta S. Timothei edidit H. Usener (Programm der Universität Bonn zum 22. März 1877).” <em>G</em><em>ö</em><em>ttingische gelehrte Anzeigen</em> Jan. (1878): 97–114.</p>",
+      "line_text": "Zahn, Theodor. “Rezension Acta S. Timothei edidit H. Usener (Programm der Universität Bonn zum 22. März 1877).” Göttingische gelehrte Anzeigen Jan. (1878): 97–114.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://digipress.digitale-sammlungen.de/view/bsb11371389_00117_u001/1"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

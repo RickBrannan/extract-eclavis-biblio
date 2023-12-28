@@ -1,0 +1,528 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-dormition-of-the-virgin-by-john-of-thessalonica/",
+  "nasscal_toc_title": "Homily on the Dormition of the Virgin, by John of Thessalonica",
+  "filename": "homily-on-the-dormition-of-the-virgin-by-john-of-thessalonica",
+  "latin_title": "Homilia de dormitione, auctore Iohanne Thessalonicensi",
+  "abbrev": "Hom. Dorm. John",
+  "alt_titles": [
+    "Homily on the Dormition of the Virgin",
+    "Dormition of Our Lady, the Mother of God and Ever-Virgin Mary by John, Archbishop of Thessalonica"
+  ],
+  "clavis_number": 188,
+  "category": "Dormition Accounts",
+  "compiler": "Harjap Deol",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, arm. 117, fols. 163–164 (1307) ~ unedited</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arm. 117, fols. 163–164 (1307) ~ unedited",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Andros, Monē Hagias (Zôodochou Pēgēs), 94 (16) (12th cent.)</p>",
+      "line_text": "Andros, Monē Hagias (Zôodochou Pēgēs), 94 (16) (12th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados (EBE), 522, fols. 179–192<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados (EBE), 522, fols. 179–192v (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Buzantino kai Christianiko Mouseio, Loberdou 30 (18th cent.)</p>",
+      "line_text": "Athens, Buzantino kai Christianiko Mouseio, Loberdou 30 (18th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cheltenham, Thirlestaine House, coll. Phillipps, 11610 (=13662) (17th cent.)</p>",
+      "line_text": "Cheltenham, Thirlestaine House, coll. Phillipps, 11610 (=13662) (17th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Demetsana, Dēmosia Bible, 15, fols. 062–99* (16th cent.)</p>",
+      "line_text": "Demetsana, Dēmosia Bible, 15, fols. 062–99* (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Drama, Monē Kosinitsēs, 7, fols. 215<sup>v</sup>–237 (11th cent.)</p>",
+      "line_text": "Drama, Monē Kosinitsēs, 7, fols. 215v–237 (11th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Escorial (El-), Real Biblioteca, Λ. II. 17 (Andrés 576), fols. 242–262<sup>v</sup></p>",
+      "line_text": "Escorial (El-), Real Biblioteca, Λ. II. 17 (Andrés 576), fols. 242–262v",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Gjirokastër, Bibliothēkē tēs Mētropoleōs, 5, fols. 306–323 (17th cent.)</p>",
+      "line_text": "Gjirokastër, Bibliothēkē tēs Mētropoleōs, 5, fols. 306–323 (17th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Gjirokastër, Bibliothēkē tēs Mētropoleōs, 6, fols. 320–332 (17th cent.)</p>",
+      "line_text": "Gjirokastër, Bibliothēkē tēs Mētropoleōs, 6, fols. 320–332 (17th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Lefkosia, Bibliothēkē tēs Archiepiskopēs Kuprou, 14, fols. 135–151* (15th cent.)</p>",
+      "line_text": "Lefkosia, Bibliothēkē tēs Archiepiskopēs Kuprou, 14, fols. 135–151* (15th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monē Hagiou Stephanou, 144, fols. Pars 3. 1–6<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Meteora, Monē Hagiou Stephanou, 144, fols. Pars 3. 1–6v (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Batopediou, 428</p>",
+      "line_text": "Mount Athos, Monē Batopediou, 428",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Batopediou, 433, fols. 115–121 (18th cent.)</p>",
+      "line_text": "Mount Athos, Monē Batopediou, 433, fols. 115–121 (18th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Esphigmenou, 96 (Lambros 2109), Item 1 (18th cent.)</p>",
+      "line_text": "Mount Athos, Monē Esphigmenou, 96 (Lambros 2109), Item 1 (18th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Esphigmenou, 109 (Lambros 2122), fols. 212–220<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Mount Athos, Monê Esphigmenou, 109 (Lambros 2122), fols. 212–220v (15th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Esphigmenou, 111 (Lambros 2124), Item 3 (16th cent.)</p>",
+      "line_text": "Mount Athos, Monē Esphigmenou, 111 (Lambros 2124), Item 3 (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Ibērōn, 392 (Lambros 4512), Item 22 (16th cent.)</p>",
+      "line_text": "Mount Athos, Monē Ibērōn, 392 (Lambros 4512), Item 22 (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Ibērōn, 678 (Lambros 4798), Item 10 (16th cent.)</p>",
+      "line_text": "Mount Athos, Monē Ibērōn, 678 (Lambros 4798), Item 10 (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Karakallou, (Lambros 1578) Mon. 076, fols. Item 14 (15th cent.)</p>",
+      "line_text": "Mount Athos, Monē Karakallou, (Lambros 1578) Mon. 076, fols. Item 14 (15th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Megistēs Lauras, Ω 062 (Eustratiades 1872), fols. 001–23* (16th cent.)</p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Ω 062 (Eustratiades 1872), fols. 001–23* (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Megistēs Lauras, Ω 095 (Eustratiades 1907), fols. 0580–599 (18th cent.)</p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Ω 095 (Eustratiades 1907), fols. 0580–599 (18th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Skētē Timiou Prodromou (Monēs Ibērōn), 5 (Polites 560), fols. 3–17 (19th cent.)</p>",
+      "line_text": "Mount Athos, Skētē Timiou Prodromou (Monēs Ibērōn), 5 (Polites 560), fols. 3–17 (19th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mytilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57, fols. 153<sup>v</sup>–160* (17th cent.)</p>",
+      "line_text": "Mytilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57, fols. 153v–160* (17th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mytilene, Monē tou Leimōnos, 123, fols. 60–91<sup>v</sup>* (17th cent.)</p>",
+      "line_text": "Mytilene, Monē tou Leimōnos, 123, fols. 60–91v* (17th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Cromwell 1, fols. 249–271* (13th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Cromwell 1, fols. 249–271* (13th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Coisl. 121, fols. 144<sup>v</sup>–150<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coisl. 121, fols. 144v–150v (14th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 683, fols. 213–218v, 194–195 (10th and 13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 683, fols. 213–218v, 194–195 (10th and 13th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1174, fols. 321–337<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1174, fols. 321–337v (12th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1313, fols. 163–172 (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1313, fols. 163–172 (15th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1470/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Paris, Bibliothèque nationale de France, gr. 1470, fols. 183<sup>v</sup>–188<sup>v</sup> (890)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1470, fols. 183v–188v (890)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1470/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, suppl. gr. 1155, fols. 46<sup>r</sup>–46<sup>v</sup> (9th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, suppl. gr. 1155, fols. 46r–46v (9th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Saint Petersburg, Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.). 326 (Granstrem 256), fol. 19 (14th cent.)</p>",
+      "line_text": "Saint Petersburg, Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.). 326 (Granstrem 256), fol. 19 (14th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sinai, Monē tēs Hagias Aikaterinēs, gr. 1897, fols. 176–184<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Sinai, Monē tēs Hagias Aikaterinēs, gr. 1897, fols. 176–184v (14th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sinai, Monē tēs Hagias Aikaterinēs, gr. 2055, Item 2 (15th cent.)</p>",
+      "line_text": "Sinai, Monē tēs Hagias Aikaterinēs, gr. 2055, Item 2 (15th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Sofia, Naučen Centăr za Slavjano-Vizantijski Proučvanija « Ivan Dujčev, fonds principal D. gr. 209, fols. 215<sup>v</sup>–* (11th cent.)</p>",
+      "line_text": "Sofia, Naučen Centăr za Slavjano-Vizantijski Proučvanija « Ivan Dujčev, fonds principal D. gr. 209, fols. 215v–* (11th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-411/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 411, fols. 473<sup>v</sup>–476<sup>v </sup>(15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 411, fols. 473v–476v (15th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-411/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1608, fols. 171–182 (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1608, fols. 171–182 (11th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1636 (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1636 (11th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1641, fols. 379<sup>v</sup>* (10th/11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1641, fols. 379v* (10th/11th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2013, fols. 164–177<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2013, fols. 164–177v (10th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fols. 166–178<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fols. 166–178v (11th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2119 (10th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2119 (10th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2545, fols. 189–225<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2545, fols. 189–225v (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 38 (coll. 1385), fols. 452–459 (16th cent.)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 38 (coll. 1385), fols. 452–459 (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 40 (coll. 1467), fols. 323–339 (16th cent.)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 40 (coll. 1467), fols. 323–339 (16th cent.)",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Jugie, Martin. <em>Homélies mariales byzantines. Textes grecs édités et traduits en latin</em>. PO 19. Paris: Firmin-Didot, 1926 (pp. 375–405).</p>",
+      "line_text": "Jugie, Martin. Homélies mariales byzantines. Textes grecs édités et traduits en latin. PO 19. Paris: Firmin-Didot, 1926 (pp. 375–405).",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (pp. 16–67).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (pp. 16–67).",
+      "language": ".1 Genuine Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Mouseio Benaki, T.A. 141, fols. 066–83<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Athens, Mouseio Benaki, T.A. 141, fols. 066–83v (11th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Escorial (El-), Real Biblioteca, y. II. 11 (Andrés 319), fols. 84–100 (12th/13th cent.)</p>",
+      "line_text": "Escorial (El-), Real Biblioteca, y. II. 11 (Andrés 319), fols. 84–100 (12th/13th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Ibērōn, 1492, Pars 12, 1–9 (19th cent.)</p>",
+      "line_text": "Mount Athos, Monē Ibērōn, 1492, Pars 12, 1–9 (19th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monē Hagiou Stephanou, 15, fols. 15–68<sup>v</sup>* (17th cent.)</p>",
+      "line_text": "Meteora, Monē Hagiou Stephanou, 15, fols. 15–68v* (17th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Rossijskaja Gosudarstvennaja Biblioteka (RGB), Φ. 087 (V. I. Grigorovič) 61 (gr. 113), fols. 3–10 (14th cent.)</p>",
+      "line_text": "Moscow, Rossijskaja Gosudarstvennaja Biblioteka (RGB), Φ. 087 (V. I. Grigorovič) 61 (gr. 113), fols. 3–10 (14th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Canon. gr. 19, fols. 45–64* (15th/16th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Canon. gr. 19, fols. 45–64* (15th/16th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, Coisl. 307, fols. 549–561<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coisl. 307, fols. 549–561v (16th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 897, fols. 253–271 (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 897, fols. 253–271 (15th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 987, fols. 102–132 (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 987, fols. 102–132 (16th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, hist. gr. 45, fols. 140<sup>r</sup>–140<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 45, fols. 140r–140v (11th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichische Nationalbibliothek, theol. gr. 247, fols. 153–168<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, theol. gr. 247, fols. 153–168v (15th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tyrnabo, Dēmotikē Bibliothēkē, 5, fols. 1–21 (17th cent.)</p>",
+      "line_text": "Tyrnabo, Dēmotikē Bibliothēkē, 5, fols. 1–21 (17th cent.)",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Jugie, Martin. <em>Homélies mariales byzantines. Textes grecs édités et traduits en latin</em>. PO 19. Paris: Firmin-Didot, 1926 (pp. 405–36).</p>",
+      "line_text": "Jugie, Martin. Homélies mariales byzantines. Textes grecs édités et traduits en latin. PO 19. Paris: Firmin-Didot, 1926 (pp. 405–36).",
+      "language": ".2 Interpolated Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Brescia, Bibl. Civica Queriniana, A. III. 03, fols. 426<sup>v</sup>–430<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Brescia, Bibl. Civica Queriniana, A. III. 03, fols. 426v–430v (16th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Megistēs Lauras, Λ 117 (Eustratiades 1608), fols. 398–417* (16th cent.)</p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Λ 117 (Eustratiades 1608), fols. 398–417* (16th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Xenophōntos, 96 (Lambros 798), fols. Item 2 (18th cent.)</p>",
+      "line_text": "Mount Athos, Monē Xenophōntos, 96 (Lambros 798), fols. Item 2 (18th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 373, fols. 183–210* (17th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 373, fols. 183–210* (17th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monē Metamorphōseōs, 201, fols. 79–86 (15th cent.)</p>",
+      "line_text": "Meteora, Monē Metamorphōseōs, 201, fols. 79–86 (15th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-selden-supra-9/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Oxford, Bodleian Library, Selden Supra 9, fols. 59<sup>r</sup>–69<sup>r</sup>  (1340)</p>",
+      "line_text": "Oxford, Bodleian Library, Selden Supra 9, fols. 59r–69r  (1340)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-selden-supra-9/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 1190, fols. 224<sup>v</sup>–238<sup>v</sup> (1568)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1190, fols. 224v–238v (1568)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1504, fols. 95–107, 113–114<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1504, fols. 95–107, 113–114v (12th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Thessaloniki, Monē Blatadōn, 4, fols. 245–255<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Thessaloniki, Monē Blatadōn, 4, fols. 245–255v (11th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Ottob, gr. 415, fols. 304–317<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ottob, gr. 415, fols. 304–317v (15th cent.)",
+      "language": ".3 Shorter Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Ottob, gr. 411, fols. 473<sup>v</sup>–476<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ottob, gr. 411, fols. 473v–476v (15th cent.)",
+      "language": ".4 Epitome",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Halkin, François. “Une légende byzantine de la Dormition: l’Épitomé du récit de Jean de Thessalonique.” <em>Revue des études byzantines</em> 11 (1953): 156–164.</p>",
+      "line_text": "Halkin, François. “Une légende byzantine de la Dormition: l’Épitomé du récit de Jean de Thessalonique.” Revue des études byzantines 11 (1953): 156–164.",
+      "language": ".4 Epitome",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Daley, Brian E., trans. <em>On the Dormition of Mary: Early Patristic Homilies.</em> Popular Patristics Series 18. Crestwood, NY: St. Vladimir’s Press, 1998 (recension 1, pp. 47–70, introduction, p. 12–13).</p>",
+      "line_text": "Daley, Brian E., trans. On the Dormition of Mary: Early Patristic Homilies. Popular Patristics Series 18. Crestwood, NY: St. Vladimir’s Press, 1998 (recension 1, pp. 47–70, introduction, p. 12–13).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 1.2, pp. 511–23).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 1.2, pp. 511–23).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 841–62).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 841–62).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956<sup>1</sup>, 1963<sup>2</sup>, 1979<sup>3</sup> (2nd ed. pp. 605–19).</p>",
+      "line_text": "Otero, Aurelio de Santos. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 19561, 19632, 19793 (2nd ed. pp. 605–19).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Mimouni, S. C. <em>Dormition et Assumption de Marie. Histoire des traditions anciennes</em>. Théologie Historique 98. Paris: Beauchesne, 1995 (see esp. 142f.).</p>",
+      "line_text": "Mimouni, S. C. Dormition et Assumption de Marie. Histoire des traditions anciennes. Théologie Historique 98. Paris: Beauchesne, 1995 (see esp. 142f.).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.24grammata.com/wp-content/uploads/2014/08/95223_Studia_Patristica_131_Panagopoulos-libre.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Panagopoulos, Spyros P. “The Byzantine Traditions of the Virgin Mary<em>’</em>s Dormition and Assumption.” <em>Studia Patristica</em> 54 (2012): 1–8.</p>",
+      "line_text": "Panagopoulos, Spyros P. “The Byzantine Traditions of the Virgin Mary’s Dormition and Assumption.” Studia Patristica 54 (2012): 1–8.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.24grammata.com/wp-content/uploads/2014/08/95223_Studia_Patristica_131_Panagopoulos-libre.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (esp. 35, 210–11).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (esp. 35, 210–11).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

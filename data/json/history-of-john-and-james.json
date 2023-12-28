@@ -1,0 +1,83 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-john-and-james/",
+  "nasscal_toc_title": "History of John and James",
+  "filename": "history-of-john-and-james",
+  "latin_title": "Historia apostolorum Iohannis et Iacobi",
+  "abbrev": "Hist. John Jas.",
+  "clavis_number": 401,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 118 (ancien fonds 46/3), fols. 309<sup>v</sup>–310<sup>v </sup>(14th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10088220g\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 118 (ancien fonds 46/3), fols. 309v–310v (14th cent.) ~ IMAGES",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10088220g"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 223 (olim 1447), item 159 (15th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 223 (olim 1447), item 159 (15th cent.)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 234 (olim 569), item 37 (1518)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 234 (olim 569), item 37 (1518)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n317/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition based on Venice 223 with readings from Venice 234, pp. 293–99).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (edition based on Venice 223 with readings from Venice 234, pp. 293–99).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n317/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits Apocryphes sur les Apôtres: Traduction de l’édition Arménienne de Venise</em>. Vol. 1: <em>Pierre, Paul, André, Jacques, Jean.</em> CCSA 3. Turnhout: Brepols, 1986 (French translation, pp. 408–16).</p>",
+      "line_text": "Leloir, Louis. Écrits Apocryphes sur les Apôtres: Traduction de l’édition Arménienne de Venise. Vol. 1: Pierre, Paul, André, Jacques, Jean. CCSA 3. Turnhout: Brepols, 1986 (French translation, pp. 408–16).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. “The Editing of Christian Apocrypha in Armenian: Should We Turn a New Leaf?” Pages 264–91 in <em>Armenian Philology in the Modern Era: From Manuscript to Digital Text. </em>Edited by Valentina Calzolari with Michael E. Stone. Handbook of Oriental Studies/Handbuch der Orientalistik, section 8, vol. 23/1 and History of Armenian Studies 21/1. Leiden &amp; Boston: Brill, 2014.</p>",
+      "line_text": "Calzolari, Valentina. “The Editing of Christian Apocrypha in Armenian: Should We Turn a New Leaf?” Pages 264–91 in Armenian Philology in the Modern Era: From Manuscript to Digital Text. Edited by Valentina Calzolari with Michael E. Stone. Handbook of Oriental Studies/Handbuch der Orientalistik, section 8, vol. 23/1 and History of Armenian Studies 21/1. Leiden &amp; Boston: Brill, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hovhanessian, Vahan S. “New Testament Apocrypha and the Armenian Version of the Bible.” Pages 63–87 in <em>The Canon of the Bible and the Apocrypha in the Churches of the East.</em> Edited by Vahan S. Hovhanessian. Bible in the Christian Orthodox Tradition 2. Berlin and New York: Peter Lang, 2012.</p>",
+      "line_text": "Hovhanessian, Vahan S. “New Testament Apocrypha and the Armenian Version of the Bible.” Pages 63–87 in The Canon of the Bible and the Apocrypha in the Churches of the East. Edited by Vahan S. Hovhanessian. Bible in the Christian Orthodox Tradition 2. Berlin and New York: Peter Lang, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Starowieyski, Marek. “La Légende de saint Jacques le Majeur.” <em>Apocrypha</em> 7 (1996): 193–203, esp. 201–203.</p>",
+      "line_text": "Starowieyski, Marek. “La Légende de saint Jacques le Majeur.” Apocrypha 7 (1996): 193–203, esp. 201–203.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Voicu, Sever J. “Gli apocrifi armeni.” <em>Aug</em> 23 (1983): 161–80.</p>",
+      "line_text": "Voicu, Sever J. “Gli apocrifi armeni.” Aug 23 (1983): 161–80.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

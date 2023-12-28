@@ -1,0 +1,44 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5577/",
+  "nasscal_toc_title": "Papyrus Oxyrhynchus 5577",
+  "filename": "papyrus-oxyrhynchus-5577",
+  "latin_title": "Papyrus Oxyrhynchus 5577",
+  "abbrev": "P. Oxy. 5577",
+  "clavis_number": 496,
+  "category": "Agrapha and Fragments",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-art-archaeology-and-ancient-world-library-p-oxy-5577/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a> Oxford, Art, Archaeology and Ancient World Library, P. Oxy. 5577 (4th cent.)</p>",
+      "line_text": " Oxford, Art, Archaeology and Ancient World Library, P. Oxy. 5577 (4th cent.)",
+      "language": "English",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-art-archaeology-and-ancient-world-library-p-oxy-5577/"
+      ]
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “5577. Valentinian Text?” Pages 22–30 in vol. 87 of <em>The Oxyrhynchus Papyri</em>. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 25–26; English translation, p. 26; image pl. III).</p>",
+      "line_text": "Chapa, Juan. “5577. Valentinian Text?” Pages 22–30 in vol. 87 of The Oxyrhynchus Papyri. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 25–26; English translation, p. 26; image pl. III).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “5577. Valentinian Text?” Pages 22–30 in vol. 87 of <em>The Oxyrhynchus Papyri</em>. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 25–26; English translation, p. 26; image pl. III).</p>",
+      "line_text": "Chapa, Juan. “5577. Valentinian Text?” Pages 22–30 in vol. 87 of The Oxyrhynchus Papyri. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 25–26; English translation, p. 26; image pl. III).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

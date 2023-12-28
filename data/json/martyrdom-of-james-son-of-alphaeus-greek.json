@@ -1,0 +1,43 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-james-son-of-alphaeus-greek/",
+  "nasscal_toc_title": "Martyrdom of James, Son of Alphaeus (Greek)",
+  "filename": "martyrdom-of-james-son-of-alphaeus-greek",
+  "latin_title": "Passio Iacobi Alphaei",
+  "alt_titles": [
+    "Martyrdom of James, Son of Alphaeus (Greek) "
+  ],
+  "clavis_number": 956,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Pantokratoros, 21 (Lambros 1055) (11/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29040/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Pantokratoros, 21 (Lambros 1055) (11/12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29040/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mutiline, Monē tou Leimōnos, 143 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/45466/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mutiline, Monē tou Leimōnos, 143 (15th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/45466/"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

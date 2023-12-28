@@ -1,0 +1,333 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/breviary-of-the-apostles-breviarium-apostolorum/",
+  "nasscal_toc_title": "Breviary of the Apostles (Breviarium apostolorum)",
+  "filename": "breviary-of-the-apostles-breviarium-apostolorum",
+  "latin_title": "Breviarium apostolorum",
+  "abbrev": "Brev. apost.",
+  "alt_titles": [
+    "Breviary of the Apostles (Breviarum apostolorum)"
+  ],
+  "clavis_number": 914,
+  "category": "Lists of Apostles and Disciples",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Iviron, Geo. 42, fol. 233<sup>v</sup> (963–969)</p>",
+      "line_text": "Mount Athos, Iviron, Geo. 42, fol. 233v (963–969)",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Une liste des apôtres dans le codex géorgien 42 d’Iviron.” <em>AnBoll</em>, 86 (1968): 139–50 (edition and Latin translation, pp. 145–46).</p>",
+      "line_text": "Esbroeck, Michel van. “Une liste des apôtres dans le codex géorgien 42 d’Iviron.” AnBoll, 86 (1968): 139–50 (edition and Latin translation, pp. 145–46).",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscripts utilized by Schermann (<i>Prophetarum vitae fabulosae</i>):</p>",
+      "line_text": "Manuscripts utilized by Schermann (Prophetarum vitae fabulosae):",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  St. Gallen, Stiftsbibiothek, Cod. Sang. 110, p. 275 (9th cent.) ~ <a href=\"https://www.e-codices.ch/en/list/one/csg/0110\" target=\"_blank\" rel=\"noopener\">e-codices</a>; <a href=\"https://iiif.biblissima.fr/collections/manifest/dcffd5b2fd5dd59f9a714bc93ce4ea8de497603c\" target=\"_blank\" rel=\"noopener\">Biblissima</a></p>",
+      "line_text": "A  St. Gallen, Stiftsbibiothek, Cod. Sang. 110, p. 275 (9th cent.) ~ e-codices; Biblissima",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.e-codices.ch/en/list/one/csg/0110",
+        "https://iiif.biblissima.fr/collections/manifest/dcffd5b2fd5dd59f9a714bc93ce4ea8de497603c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, lat. 2316, fol. 120 (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b8426295n\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, lat. 2316, fol. 120 (10th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b8426295n"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>b</strong>  Paris, Bibliothèque Sainte-Geneviève, H. L. 10, fol. 1 (13th cent.)</p>",
+      "line_text": "b  Paris, Bibliothèque Sainte-Geneviève, H. L. 10, fol. 1 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>C</strong>  Paris, Bibliothèque nationale de France, lat. 12604, fols. 88<sup>v</sup>–89<sup>r </sup>(12th cent.)</p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, lat. 12604, fols. 88v–89r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Paris, Bibliothèque nationale de France, lat. 2543, fol. 91<sup>v</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b90661161\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "D  Paris, Bibliothèque nationale de France, lat. 2543, fol. 91v (13th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b90661161"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Munich, Bayerische Staatsbibliothek, Clm. 6382, fol. 41<sup>v</sup>–42<sup>v</sup> (9th cent.) ~ <a href=\"https://www.digitale-sammlungen.de/en/view/bsb00054507?page=1\" target=\"_blank\" rel=\"noopener\">Munich</a>; <a href=\"https://portail.biblissima.fr/ark:/43093/mdatae02e49df33a0bc3b44cd4e08922fa570059ea7c1\" target=\"_blank\" rel=\"noopener\">Biblissima</a></p>",
+      "line_text": "E  Munich, Bayerische Staatsbibliothek, Clm. 6382, fol. 41v–42v (9th cent.) ~ Munich; Biblissima",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=1",
+        "https://portail.biblissima.fr/ark:/43093/mdatae02e49df33a0bc3b44cd4e08922fa570059ea7c1"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts listed by de Gaiffier (“Breviarium Apostolorum,” 92–99):</p>",
+      "line_text": "Additional manuscripts listed by de Gaiffier (“Breviarium Apostolorum,” 92–99):",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 7193, fols. 41–56 (fols. 55<sup>r</sup>–56<sup>v</sup>) + Vatican, Biblioteca Apostolica Vaticana, Reg.  lat. 316 (8th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b105470427\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.316\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a>; earliest known copy of the Gelasian Sacramentary; incomplete at end</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 7193, fols. 41–56 (fols. 55r–56v) + Vatican, Biblioteca Apostolica Vaticana, Reg.  lat. 316 (8th cent.) ~ Gallica; DigiVatLib; earliest known copy of the Gelasian Sacramentary; incomplete at end",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b105470427",
+        "https://digi.vatlib.it/view/MSS_Reg.lat.316"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Barcelona, Archivo General de la Corona de Aragón, Cugat 22, fol. 2<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Barcelona, Archivo General de la Corona de Aragón, Cugat 22, fol. 2v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Deutsche Staatsbibliothek, Phill. 1667, fols. 186<sup>v</sup>–187<sup>v</sup> (ca. 800) ~ <a href=\"https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN730558142&amp;DMDID=DMDLOG_0001\" target=\"_blank\" rel=\"noopener\">Berlin</a></p>",
+      "line_text": "Berlin, Deutsche Staatsbibliothek, Phill. 1667, fols. 186v–187v (ca. 800) ~ Berlin",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN730558142&DMDID=DMDLOG_0001"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bern, Burgerbibliothek, 289, fol. 53<sup>v</sup> (8th cent.) ~ <a href=\"http://katalog.burgerbib.ch/detail.aspx?ID=129362\" target=\"_blank\" rel=\"noopener\">Bern catalog</a></p>",
+      "line_text": "Bern, Burgerbibliothek, 289, fol. 53v (8th cent.) ~ Bern catalog",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://katalog.burgerbib.ch/detail.aspx?ID=129362"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale de Belgique, 15111-28, fol. 2<sup>r</sup>–3<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Brussels, Bibliothèque Royale de Belgique, 15111-28, fol. 2r–3v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 50 (A. 4. 20), fols. 3<sup>v</sup>–5<sup>v</sup> (ante 1082) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Trinity_College,_MS_50\" target=\"_blank\" rel=\"noopener\">codecs</a></p>",
+      "line_text": "Dublin, Trinity College, 50 (A. 4. 20), fols. 3v–5v (ante 1082) ~ codecs",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Dublin,_Trinity_College,_MS_50"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 894, fols. 51<sup>v</sup>–52<sup>r</sup> (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b8529701g\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 894, fols. 51v–52r (10th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b8529701g"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 9433, fol. 4 (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b8479011k\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 9433, fol. 4 (11th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b8479011k"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12048, fols. 263–264 (8th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b60000317\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 12048, fols. 263–264 (8th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b60000317"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Archivo de San Giovanni in Laterano, A. 78, fols. 168–169 (12th cent.)</p>",
+      "line_text": "Rome, Archivo de San Giovanni in Laterano, A. 78, fols. 168–169 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Gallen, Stiftsbibiothek, Cod. sang. 914, fols. 236–240 (9th cent.) ~ <a href=\"https://www.e-codices.unifr.ch/en/list/one/csg/0914\" target=\"_blank\" rel=\"noopener\">e-codices</a>; <a href=\"https://iiif.biblissima.fr/collections/manifest/51949b54a3ceb6b472131ac73bfa62b4047b44b9\" target=\"_blank\" rel=\"noopener\">Biblissima</a></p>",
+      "line_text": "St. Gallen, Stiftsbibiothek, Cod. sang. 914, fols. 236–240 (9th cent.) ~ e-codices; Biblissima",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.e-codices.unifr.ch/en/list/one/csg/0914",
+        "https://iiif.biblissima.fr/collections/manifest/51949b54a3ceb6b472131ac73bfa62b4047b44b9"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Gallen, Stiftsbibiothek, Cod. sang. 682, fol. 410 (9th cent.) ~ <a href=\"https://www.e-codices.unifr.ch/en/list/one/csg/0682\" target=\"_blank\" rel=\"noopener\">e-codices</a></p>",
+      "line_text": "St. Gallen, Stiftsbibiothek, Cod. sang. 682, fol. 410 (9th cent.) ~ e-codices",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.e-codices.unifr.ch/en/list/one/csg/0682"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Trier, Bibliothèque municipale, 1245, fols 36<sup>v</sup>–38<sup>r</sup> (9th cent.)</p>",
+      "line_text": "Trier, Bibliothèque municipale, 1245, fols 36v–38r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 235, fols. 43<sup>v</sup>–44<sup>r</sup> (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Pal.lat.235\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 235, fols. 43v–44r (11th cent.) ~ DigiVatLib",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Pal.lat.235"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wolfenbüttel, Herzog August Bibliothek Weissenburg, 81, fol. 9<sup>v</sup>–11<sup>v</sup> (ante 772) ~ <a href=\"http://diglib.hab.de/?db=mss&amp;list=ms&amp;id=81-weiss&amp;catalog=Butzmann&amp;lang=en\" target=\"_blank\" rel=\"noopener\">images</a></p>",
+      "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 81, fol. 9v–11v (ante 772) ~ images",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://diglib.hab.de/?db=mss&list=ms&id=81-weiss&catalog=Butzmann&lang=en"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zurich, Zentralbibliothek, Rh. 30, fols. 165<sup>r</sup>–166<sup>v</sup> (8th cent.)</p>",
+      "line_text": "Zurich, Zentralbibliothek, Rh. 30, fols. 165r–166v (8th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorumquo61boll/page/n19/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Octobris. </em>Vol. 13. Paris: V. Palmé, 1863 (edition by Wilhelm F. Arndt based on Bern 289, pp. ii–iii).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Octobris. Vol. 13. Paris: V. Palmé, 1863 (edition by Wilhelm F. Arndt based on Bern 289, pp. ii–iii).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorumquo61boll/page/n19/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=s-JJAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>d’Achery, Luc. <em>Spicilegium: Veterum aliquot scriptorum qui in Galliae bibliothecis latuerant</em>. 13 vols. Paris: Carolum Savreaux, 1655–1677. 2nd edition, by Louis-François-Joseph de la Barre. Paris, 1723–1733 (edition based on a St. Gallen manuscript, vol. 13, pp. 388–90; 2nd ed., vol. 2, pp. 25–26).</p>",
+      "line_text": "d’Achery, Luc. Spicilegium: Veterum aliquot scriptorum qui in Galliae bibliothecis latuerant. 13 vols. Paris: Carolum Savreaux, 1655–1677. 2nd edition, by Louis-François-Joseph de la Barre. Paris, 1723–1733 (edition based on a St. Gallen manuscript, vol. 13, pp. 388–90; 2nd ed., vol. 2, pp. 25–26).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=s-JJAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fiorentini (Florentius), François-Marie. <em>Vetustius occidentalis Ecclesiae martyrologium</em>. Lucca: H. Pacii, 1668 (description based on Wolfenbüttel 82, p. 92).</p>",
+      "line_text": "Fiorentini (Florentius), François-Marie. Vetustius occidentalis Ecclesiae martyrologium. Lucca: H. Pacii, 1668 (description based on Wolfenbüttel 82, p. 92).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_le5IAAAAcAAJ_2/page/n491/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gerbert, Martin. <em>Monumenta veteris liturgiae alemannica</em>e. 4 vols. St. Blasien: Typis San-Blasianis, 1777–1779. (edition based on Zurich Rh. 30, vol. 1, pp. 453–54).</p>",
+      "line_text": "Gerbert, Martin. Monumenta veteris liturgiae alemannicae. 4 vols. St. Blasien: Typis San-Blasianis, 1777–1779. (edition based on Zurich Rh. 30, vol. 1, pp. 453–54).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_le5IAAAAcAAJ_2/page/n491/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lowe, Elias Avery. “The Vatican MS of the Gelasian Sacramentary and its Supplement at Paris.” <em>JTS</em> 27 (1926): 357–73 (edition based on Paris, BNF, lat. 7193, pp. 368–69).</p>",
+      "line_text": "Lowe, Elias Avery. “The Vatican MS of the Gelasian Sacramentary and its Supplement at Paris.” JTS 27 (1926): 357–73 (edition based on Paris, BNF, lat. 7193, pp. 368–69).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ThesaurusNovusAnecdotorum3/page/n787/mode/2up?q=apostolorum\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Martène, Edmond, and Ursin Durand. <em>Thesaurus novus anecdotorum</em>. 5 vols. Paris: Lutetiae, 1717. (edition based on an unidentified manuscript, vol. 3, p. 1549).</p>",
+      "line_text": "Martène, Edmond, and Ursin Durand. Thesaurus novus anecdotorum. 5 vols. Paris: Lutetiae, 1717. (edition based on an unidentified manuscript, vol. 3, p. 1549).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ThesaurusNovusAnecdotorum3/page/n787/mode/2up?q=apostolorum"
+      ]
+    },
+    {
+      "line_html": "<p>Mohlberg, Leo Cunibert. <em>Liber sacramentorum Romanae aeclesiae ordinis anni circuli (Sacramentarium Gelasianum)</em>. Rome: Herder, 1960 (edition based on Paris, BNF, lat. 7193, pp. 260–61).</p>",
+      "line_text": "Mohlberg, Leo Cunibert. Liber sacramentorum Romanae aeclesiae ordinis anni circuli (Sacramentarium Gelasianum). Rome: Herder, 1960 (edition based on Paris, BNF, lat. 7193, pp. 260–61).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/prophetarumvita00schegoog/page/n283/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schermann, Theodor. <i>Prophetarum vitae fabulosae, indices apostolorum discipulorumque Domini, Dorotheo, Epiphanio, Hippolyto aliisque vindicata</i>. Leipzig: B. G. Teubneri, 1907 (edition based on ABbCDE and the editions of d’Archey, Gerbert and Martène-Durand, pp. lxvi–lxviii; 206–11).</p>",
+      "line_text": "Schermann, Theodor. Prophetarum vitae fabulosae, indices apostolorum discipulorumque Domini, Dorotheo, Epiphanio, Hippolyto aliisque vindicata. Leipzig: B. G. Teubneri, 1907 (edition based on ABbCDE and the editions of d’Archey, Gerbert and Martène-Durand, pp. lxvi–lxviii; 206–11).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/prophetarumvita00schegoog/page/n283/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Smedt, Carolus de, et al. “Martyrologium Hieronymianum e codice Trevierensi.” <em>AnBoll</em> 2 (1883): 7–34 (edition based on Trier 1245, pp. 9–10).</p>",
+      "line_text": "Smedt, Carolus de, et al. “Martyrologium Hieronymianum e codice Trevierensi.” AnBoll 2 (1883): 7–34 (edition based on Trier 1245, pp. 9–10).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Calder, Daniel G., and Michael J. B. Allen. <em>Sources and Analogues of Old English Poetry: The Major Latin Sources in Translation</em>. Cambridge: D. S. Brewer and Totowa: Rowman and Littlefield, 1976 (based on Mohlberg’s edition, pp. 37–39).</p>",
+      "line_text": "Calder, Daniel G., and Michael J. B. Allen. Sources and Analogues of Old English Poetry: The Major Latin Sources in Translation. Cambridge: D. S. Brewer and Totowa: Rowman and Littlefield, 1976 (based on Mohlberg’s edition, pp. 37–39).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Gaiffier, Budouin de. “Le Breviarium Apostolorum. (<i>BHL.</i> 652) Tradition manuscrite et œuvres apparentées.” <em>AnBoll</em> 81.1–2 (1963): 89–116.</p>",
+      "line_text": "Gaiffier, Budouin de. “Le Breviarium Apostolorum. (BHL. 652) Tradition manuscrite et œuvres apparentées.” AnBoll 81.1–2 (1963): 89–116.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/texteunduntersuc31akad/page/n453/mode/2up?q=breviarium\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schermann, Theodor. <em>Propheten- und Apostellegenden nebst Jüngerkatalogen des Dorotheus und verwandter Texte.</em> TUGAL 31/3. Leipzig: J. C. Hinrichs, 1907 (esp. pp. 169–72).</p>",
+      "line_text": "Schermann, Theodor. Propheten- und Apostellegenden nebst Jüngerkatalogen des Dorotheus und verwandter Texte. TUGAL 31/3. Leipzig: J. C. Hinrichs, 1907 (esp. pp. 169–72).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/texteunduntersuc31akad/page/n453/mode/2up?q=breviarium"
+      ]
+    },
+    {
+      "line_html": "<p>Vinogradov, Andrey. “Апостольские списки – «забытая» страница христианской литературы [Apostolic Lists: A “Forgotten” Page of Christian Literature].” Богословские труды 40 (2005): 128–47.</p>",
+      "line_text": "Vinogradov, Andrey. “Апостольские списки – «забытая» страница христианской литературы [Apostolic Lists: A “Forgotten” Page of Christian Literature].” Богословские труды 40 (2005): 128–47.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

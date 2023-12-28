@@ -1,0 +1,398 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-and-miracles-of-thecla/",
+  "nasscal_toc_title": "Life and Miracles of Thecla",
+  "filename": "life-and-miracles-of-thecla",
+  "latin_title": "De vita ac miraculis Theclae",
+  "clavis_number": 792,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 335–364 (10th cent.) ~ <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1667\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 335–364 (10th cent.) ~ IMAGES",
+      "language": ".1 Life",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digi.vatlib.it/view/MSS_Vat.gr.1667"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 26 (Vlad. 384), fols. 1–64 (11th cent.)</p>",
+      "line_text": "M  Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 26 (Vlad. 384), fols. 1–64 (11th cent.)",
+      "language": ".1 Life",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2095, fols. 152v–227v (12th cent.) <a href=\"https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3376\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "A  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2095, fols. 152v–227v (12th cent.) IMAGES",
+      "language": ".1 Life",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3376"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1853/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>U</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1853, fols. 94, 96, 5, 38, 45, 39, 44 (10th cent.) ~ fragments only (palimpsest)</p>",
+      "line_text": "U  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1853, fols. 94, 96, 5, 38, 45, 39, 44 (10th cent.) ~ fragments only (palimpsest)",
+      "language": ".1 Life",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1853/"
+      ]
+    },
+    {
+      "line_html": "<p>Unevaluated:</p>",
+      "line_text": "Unevaluated:",
+      "language": ".1 Life",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Philipps 1446 (42), fols. 1–62v (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9349/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Philipps 1446 (42), fols. 1–62v (17th cent.) ~ Pinakes",
+      "language": ".1 Life",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9349/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 655, fols. 178v–239r (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67286/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 655, fols. 178v–239r (16th cent.) ~ Pinakes",
+      "language": ".1 Life",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67286/"
+      ]
+    },
+    {
+      "line_html": "<p>Family Σ (of Life)</p>",
+      "line_text": "Family Σ (of Life)",
+      "language": ".2 Life only",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 796, fols. 250–304 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67427/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "S  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 796, fols. 250–304 (16th cent.) ~ Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67427/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque de nationale de France, Supp gr. 240, fols. 7–9, 151–152, 164–175, 177, 179–180 (11th cent.) ~ palimpsest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/53004/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "R  Paris, Bibliothèque de nationale de France, Supp gr. 240, fols. 7–9, 151–152, 164–175, 177, 179–180 (11th cent.) ~ palimpsest; Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/53004/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque de nationale de France, gr. 1521, fols. 219r–259v (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51139/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721723c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Q  Paris, Bibliothèque de nationale de France, gr. 1521, fols. 219r–259v (12th/13th cent.) ~ Pinakes; Gallica",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51139/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721723c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Venice, Biblioteca Nazionale Marciana, gr. Z 586, fols. 200–242 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70057/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "C  Venice, Biblioteca Nazionale Marciana, gr. Z 586, fols. 200–242 (12th cent.) ~ Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70057/"
+      ]
+    },
+    {
+      "line_html": "<p>Family Ψ (of Life; includes VMA from above)</p>",
+      "line_text": "Family Ψ (of Life; includes VMA from above)",
+      "language": ".2 Life only",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Mount Athos, Monē Philotheou, 9 , fols. 219r–235v, 244–261v (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29373/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "B  Mount Athos, Monē Philotheou, 9 , fols. 219r–235v, 244–261v (11th cent.) ~ Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29373/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Milan, Biblioteca Ambrosiana, A 63 inf., fols. 86r–148r (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42187/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "D  Milan, Biblioteca Ambrosiana, A 63 inf., fols. 86r–148r (13th cent.) ~ Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42187/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque de nationale de France, gr. 521, pp. 7–139 (12th cent.) ~ Pinakes; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723204s\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "P  Paris, Bibliothèque de nationale de France, gr. 521, pp. 7–139 (12th cent.) ~ Pinakes; Gallica",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723204s"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1643, fols. 131v–161v (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68274/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "T  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1643, fols. 131v–161v (11th cent.) ~ Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68274/"
+      ]
+    },
+    {
+      "line_html": "<p>Unevaluated:</p>",
+      "line_text": "Unevaluated:",
+      "language": ".2 Life only",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, Q 6 sup., fols. 93r–93v (13th cent.) ~ palimpest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43139/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, Q 6 sup., fols. 93r–93v (13th cent.) ~ palimpest; Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43139/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 179 (Vlad. 357), fols. 182–224 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43804/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 179 (Vlad. 357), fols. 182–224 (11th cent.) ~ Pinakes",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43804/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH-62_Dagron_Vie%20et%20miracles%20de%20sainte%20Th%C3%A8cle/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dagron, Gilbert. <i>Vie et miracles de Sainte Thècle: Texte grec, traduction et commentaire</i>. Subsidia Hagiographica 62. Brussels: Société des Bollandistes, 1978 (Greek edition, pp. 168–282, with French translation).</p>",
+      "line_text": "Dagron, Gilbert. Vie et miracles de Sainte Thècle: Texte grec, traduction et commentaire. Subsidia Hagiographica 62. Brussels: Société des Bollandistes, 1978 (Greek edition, pp. 168–282, with French translation).",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH-62_Dagron_Vie%20et%20miracles%20de%20sainte%20Th%C3%A8cle/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiae_cursus_completus_gr_vol_085/page/n259/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 85. Paris: Cerf, 1864 (reproduction of text and Latin translation by Pantin, cols. 473–618).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 85. Paris: Cerf, 1864 (reproduction of text and Latin translation by Pantin, cols. 473–618).",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiae_cursus_completus_gr_vol_085/page/n259/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=WexkAAAAcAAJ&amp;pg=PA248&amp;lpg=PA248&amp;dq=Pantin+Basilii+Seleucia&amp;source=bl&amp;ots=L4hA5g9dWE&amp;sig=ACfU3U13pgrHv4laX2V5fgYXxyO-rQ-BjA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjiuaKjgv74AhUGl2oFHfDaARIQ6AF6BAgaEAM#v=onepage&amp;q=Pantin%20Basilii%20Seleucia&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pantin, Pierre. <em>Basilii Seleucia . . . de vita ac miraculis D. Theclae</em>. Antwerp: <span class=\"itemPublisher\">Ex officina Plantiniana, apud Ioannem Moretum</span>, 1608 (<em>editio princeps </em>based on at least two sources similar to Vat. gr. 1667 with facing Latin translation, pp. 2–221).</p>",
+      "line_text": "Pantin, Pierre. Basilii Seleucia . . . de vita ac miraculis D. Theclae. Antwerp: Ex officina Plantiniana, apud Ioannem Moretum, 1608 (editio princeps based on at least two sources similar to Vat. gr. 1667 with facing Latin translation, pp. 2–221).",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=WexkAAAAcAAJ&pg=PA248&lpg=PA248&dq=Pantin+Basilii+Seleucia&source=bl&ots=L4hA5g9dWE&sig=ACfU3U13pgrHv4laX2V5fgYXxyO-rQ-BjA&hl=en&sa=X&ved=2ahUKEwjiuaKjgv74AhUGl2oFHfDaARIQ6AF6BAgaEAM#v=onepage&q=Pantin%20Basilii%20Seleucia&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_DY2xvRwPetMC/page/230/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Sonnius, Michel, Claude Morel, and Sébastien Cramoisy. SS. PP. Gregorii Neocaesariensis Episc. cognomento Thaumaturgi, Macarii Aegyptii, et Basilii Seleuciae Episcopi . . . Pais: Iacobaea, 1622 (reproduction of text and Latin translation by Pantin, pp. 230–314).</p>",
+      "line_text": "Sonnius, Michel, Claude Morel, and Sébastien Cramoisy. SS. PP. Gregorii Neocaesariensis Episc. cognomento Thaumaturgi, Macarii Aegyptii, et Basilii Seleuciae Episcopi . . . Pais: Iacobaea, 1622 (reproduction of text and Latin translation by Pantin, pp. 230–314).",
+      "language": ".2 Life only",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_DY2xvRwPetMC/page/230/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR81475.PDF\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Honey, Linda Ann. “Thekla: Text and Context with a First English Translation of the Miracles.” Ph.D. diss., University of Calgary, 2011 (partial translation based on edition by Dagron, pp. 362–446).</p>",
+      "line_text": "Honey, Linda Ann. “Thekla: Text and Context with a First English Translation of the Miracles.” Ph.D. diss., University of Calgary, 2011 (partial translation based on edition by Dagron, pp. 362–446).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR81475.PDF"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://andrewjacobs.org/translations/thecla.html\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jacobs, Andrew S. “Life of Thecla (Ps.-Basil of Seleucia).” Online: http://andrewjacobs.org/translations/thecla.html (full translation based on edition by Dagron).</p>",
+      "line_text": "Jacobs, Andrew S. “Life of Thecla (Ps.-Basil of Seleucia).” Online: http://andrewjacobs.org/translations/thecla.html (full translation based on edition by Dagron).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://andrewjacobs.org/translations/thecla.html"
+      ]
+    },
+    {
+      "line_html": "<p>Festugière, André-Jean. <em>Sainte Thècle, Saints Côme et Damien, Saints Cyr et Jean, Saint Georges</em>. Paris: Picard, 1971 (translation of the text by Pantin).</p>",
+      "line_text": "Festugière, André-Jean. Sainte Thècle, Saints Côme et Damien, Saints Cyr et Jean, Saint Georges. Paris: Picard, 1971 (translation of the text by Pantin).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=Gb9Sy--j8G8C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Joachim de La Chétardie. <em>La vie de sainte Thècle, première martyre de son sexe, disciple de l’âpotre S. Paul</em> . . . Clermont: N. Jacquard, 1668 (translation of the text by Pantin, pp. 1–173).</p>",
+      "line_text": "Joachim de La Chétardie. La vie de sainte Thècle, première martyre de son sexe, disciple de l’âpotre S. Paul . . . Clermont: N. Jacquard, 1668 (translation of the text by Pantin, pp. 1–173).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=Gb9Sy--j8G8C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Albrecht, Ruth. “Thekla.” Page 298 in <em>Der Neue Pauly Enzyklopädie der Antike.</em> Edited by Hubert Cancik and Helmuth Schneider. Alterum Vol 12/1, Tam-Vel. Stuttgart and Weimar: J. B. Metzler, 2000.</p>",
+      "line_text": "Albrecht, Ruth. “Thekla.” Page 298 in Der Neue Pauly Enzyklopädie der Antike. Edited by Hubert Cancik and Helmuth Schneider. Alterum Vol 12/1, Tam-Vel. Stuttgart and Weimar: J. B. Metzler, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Aubineau, Michel. “Compléments au dossier de sainte Thécle.” <em>AnBoll </em>93 (1975): 356-­62.</p>",
+      "line_text": "Aubineau, Michel. “Compléments au dossier de sainte Thécle.” AnBoll 93 (1975): 356-­62.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cartlidge, David R. and J. Keith Elliott. “5 Paul, Thecla, and Peter.” Pages 134–71 in <em>Art and the Christian Apocrypha</em>. London and New York: Routledge, 2001.</p>",
+      "line_text": "Cartlidge, David R. and J. Keith Elliott. “5 Paul, Thecla, and Peter.” Pages 134–71 in Art and the Christian Apocrypha. London and New York: Routledge, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dagron, Gilbert. “L’auteur des ‘Actes’ et des ‘Miracles’ de Saint Thècle.” <em>AnBoll</em> 92 (1974): 5–11.</p>",
+      "line_text": "Dagron, Gilbert. “L’auteur des ‘Actes’ et des ‘Miracles’ de Saint Thècle.” AnBoll 92 (1974): 5–11.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gwynn, J. “Thecla.” Pages 882-96 in vol. 4 of <em>Dictionary of Christian Biography,</em><em> Literature, Sects and Doctrines: being a continuation of </em>“<em>The dictionary of the Bible</em>”<em>.</em> Edited by William George Smith and Henry Wace. London: J. Murray, 1877-87.</p>",
+      "line_text": "Gwynn, J. “Thecla.” Pages 882-96 in vol. 4 of Dictionary of Christian Biography, Literature, Sects and Doctrines: being a continuation of “The dictionary of the Bible”. Edited by William George Smith and Henry Wace. London: J. Murray, 1877-87.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jensen, Anne. “Thekla, Vergessene Verkündingerin.” Pages 173-79 in <em>Zwischen Ohnmacht und Befreiung: Biblische Frauengestalten</em>. Edited by Karin Walter. Freiburg, Basel, and Wien: Herder, 1988.</p>",
+      "line_text": "Jensen, Anne. “Thekla, Vergessene Verkündingerin.” Pages 173-79 in Zwischen Ohnmacht und Befreiung: Biblische Frauengestalten. Edited by Karin Walter. Freiburg, Basel, and Wien: Herder, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Thekla –</em> <em>die Apostelin: Ein apokrypher Text neu entdeckt: Übersetzt und kommentiert. </em>Freiburg, Basel, and Wien: Herder, 1995.</p>",
+      "line_text": "———. Thekla – die Apostelin: Ein apokrypher Text neu entdeckt: Übersetzt und kommentiert. Freiburg, Basel, and Wien: Herder, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Johnson, Scott Fitzgerald. <em>The Life and Miracles of Thekla, A Literary Study.</em> Hellenic Studies 13. Cambridge, MA: Harvard University Press, 2006.</p>",
+      "line_text": "Johnson, Scott Fitzgerald. The Life and Miracles of Thekla, A Literary Study. Hellenic Studies 13. Cambridge, MA: Harvard University Press, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.palgrave.com/gp/book/9783030111106\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Kateusz, Ally. <em>Mary and Early Christian Women: Hidden Leadership</em>. New York: Palgrave Macmillan, 2019 (pp. 58–63).</p>",
+      "line_text": "Kateusz, Ally. Mary and Early Christian Women: Hidden Leadership. New York: Palgrave Macmillan, 2019 (pp. 58–63).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.palgrave.com/gp/book/9783030111106"
+      ]
+    },
+    {
+      "line_html": "<p>Klauck, Hans-Josef. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 75–76).</p>",
+      "line_text": "Klauck, Hans-Josef. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 75–76).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lavagnini, Bruno. “S. Tecla nella vasca della foche e gli spettacoli in acqua.” <em>Byzantion</em> 33 (1963): 185–90.</p>",
+      "line_text": "Lavagnini, Bruno. “S. Tecla nella vasca della foche e gli spettacoli in acqua.” Byzantion 33 (1963): 185–90.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leclercq, Henri. “Thècle (sainte).” <em>DACL</em> 15.2. Paris: Letouzey &amp; Ané, 1953 (cols. 2225–36).</p>",
+      "line_text": "Leclercq, Henri. “Thècle (sainte).” DACL 15.2. Paris: Letouzey &amp; Ané, 1953 (cols. 2225–36).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Naureth, Claudia, and Warns, Rudiger<em>. Thekla: Ihre Bilder in der frühchristlichen Kunst</em>. Wiesbaden: Harrassowitz, 1981.</p>",
+      "line_text": "Naureth, Claudia, and Warns, Rudiger. Thekla: Ihre Bilder in der frühchristlichen Kunst. Wiesbaden: Harrassowitz, 1981.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pesthy, Monika. “Thecla among the Fathers of the Church.” Pages 164–78 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Kok Pharos, 1996 (see pp. 168–71).</p>",
+      "line_text": "Pesthy, Monika. “Thecla among the Fathers of the Church.” Pages 164–78 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Kok Pharos, 1996 (see pp. 168–71).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Radermacher, Ludwig. <em>Hippolytus und Thekla: Studien zur Geschichte von Legende und Kultus</em> (Sitzungsberichte der kaiserlichen Akademie der Wissenschaften in Wien, philosophisch­historische Klasse, 182/3; Vienna: Holder, 1916).</p>",
+      "line_text": "Radermacher, Ludwig. Hippolytus und Thekla: Studien zur Geschichte von Legende und Kultus (Sitzungsberichte der kaiserlichen Akademie der Wissenschaften in Wien, philosophisch­historische Klasse, 182/3; Vienna: Holder, 1916).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reinach, Salomon. “Thekla.” <em>Annales du Musee Guimet </em>35 (1910): 103–40.</p>",
+      "line_text": "Reinach, Salomon. “Thekla.” Annales du Musee Guimet 35 (1910): 103–40.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———.  Pages 229–51 in <em>Cultes, Mythes et Religions IV.</em> Paris: Ernest Leroux, 1912.</p>",
+      "line_text": "———.  Pages 229–51 in Cultes, Mythes et Religions IV. Paris: Ernest Leroux, 1912.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy. “Sainte Thècle dans la tradition hagiographique occidentale.” Pages 435-43 in <em>Lex Orandi</em>–<em>Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. </em>Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.</p>",
+      "line_text": "Rordorf, Willy. “Sainte Thècle dans la tradition hagiographique occidentale.” Pages 435-43 in Lex Orandi–Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “La prière de Sainte Thècle pour une défunte paienne et son importance œcuménique.” Pages 445–55 in <em>Lex Orandi</em>–<em>Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. </em>Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.</p>",
+      "line_text": "———. “La prière de Sainte Thècle pour une défunte paienne et son importance œcuménique.” Pages 445–55 in Lex Orandi–Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Scheider, Horst. “Thekla und die Robben.” <em>VC</em> 55.1 (2001): 45–57.</p>",
+      "line_text": "Scheider, Horst. “Thekla und die Robben.” VC 55.1 (2001): 45–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Glenn E. <em>The Acts of Paul: The Formation of a Pauline Corpus</em>. WUNT 2.352. Tübigen: Mohr Siebeck, 2013 (pp. 104–105).</p>",
+      "line_text": "Snyder, Glenn E. The Acts of Paul: The Formation of a Pauline Corpus. WUNT 2.352. Tübigen: Mohr Siebeck, 2013 (pp. 104–105).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Streete, Gail P. C. “Buying the Stairway to Heaven: Perpetua and Thecla as Early Christian Heroines.” Pages 186-205 in <em>A Feminist Companion to the New Testament Apocrypha.</em> Edited by Amy-Jill Levine with Maria Mayo Robbins. Feminist Companion to the New Testament and Early Christian Writings, 11. Cleveland: The Pilgrim Press, 2006.</p>",
+      "line_text": "Streete, Gail P. C. “Buying the Stairway to Heaven: Perpetua and Thecla as Early Christian Heroines.” Pages 186-205 in A Feminist Companion to the New Testament Apocrypha. Edited by Amy-Jill Levine with Maria Mayo Robbins. Feminist Companion to the New Testament and Early Christian Writings, 11. Cleveland: The Pilgrim Press, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Warns, Rüdiger. “Weitere Darstellungen der heiligen Thekla,” Pages 75-131 in<em>.</em> <em>Studien</em><em> zur frühchristilichen Kunst II</em>. Edited by Guntram Koch. Studien zur spätantiken und frühchristlichen Kunst und Kultur des Orients. Wiesbaden: Otto Harrassowitz, 1986.</p>",
+      "line_text": "Warns, Rüdiger. “Weitere Darstellungen der heiligen Thekla,” Pages 75-131 in. Studien zur frühchristilichen Kunst II. Edited by Guntram Koch. Studien zur spätantiken und frühchristlichen Kunst und Kultur des Orients. Wiesbaden: Otto Harrassowitz, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-christ-from-heaven/",
+  "nasscal_toc_title": "Epistle of Christ from Heaven",
+  "filename": "epistle-of-christ-from-heaven",
+  "latin_title": "Epistula e caelo missa de seruanda dominica",
+  "abbrev": "Ep. Chr. Heav.",
+  "alt_titles": [
+    "Letter(s) from Heaven, Leaflets from Heaven, Letter on the Observance of the Lord’s Day, Sunday Letter(s), Scrolls from Heaven",
+    "Himmelsbrief"
+  ],
+  "clavis_number": 880,
+  "category": "Epistles",
+  "compiler": ": Calogero A. Miceli, Concordia University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"f7rl1if4 adechonz f6oz4yja dahkl6ri axrg9lpx rufpak1n qtovjlwq qbmienfq rfyhaz4c rdmi1yqr ohrdq8us nswx41af fawcizw8 l1aqi3e3 sdu1flz4\">Bucharest, Academia Romana, Orientale 365</span></p>",
+      "line_text": "Bucharest, Academia Romana, Orientale 365",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-536/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 536, fols. 84<sup>v</sup>–89<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 536, fols. 84v–89v (15th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-536/"
+      ]
+    },
+    {
+      "line_html": "<p>Frantsouzoff, Serge A. <em>Five Lives of Saints. Essays on Study of Arabic Orthodox Hagiography. Researches and Publications</em> [Пять житий. Очерки изучения арабо-православной агиографии. Исследование и публикация]. Sаint Petersburg:  Herzen State Pedagogical University of Russia, 2021 (edition of Bucharest Or. 365 with Russian translation, and discussion, pp. 246–65).</p>",
+      "line_text": "Frantsouzoff, Serge A. Five Lives of Saints. Essays on Study of Arabic Orthodox Hagiography. Researches and Publications [Пять житий. Очерки изучения арабо-православной агиографии. Исследование и публикация]. Sаint Petersburg:  Herzen State Pedagogical University of Russia, 2021 (edition of Bucharest Or. 365 with Russian translation, and discussion, pp. 246–65).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syriac-Orthodox Archdiocese, 52 K, <span class=\"\">in two forms: fols. 274<sup>r</sup><strong>–</strong>279<sup>r</sup>, fols. 279<sup>r</sup><strong>–</strong>286<sup>r</sup></span>(17th cent.)</p>",
+      "line_text": "Aleppo, Syriac-Orthodox Archdiocese, 52 K, in two forms: fols. 274r–279r, fols. 279r–286r(17th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/homs-syriac-orthodox-archdiocese-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Homs, Syriac Orthodox Archdiocese, 2, <span class=\"\">fols. 43<sup>r</sup>–48<sup>r</sup></span>(1824/1825)</p>",
+      "line_text": "Homs, Syriac Orthodox Archdiocese, 2, fols. 43r–48r(1824/1825)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/homs-syriac-orthodox-archdiocese-2/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mdina-malta-metropolitan-cathedral-of-st-paul-misc-502/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mdina (Malta), Metropolitan Cathedral of St. Paul, Misc. 502 (ACM 00015), pp. 119–139 (17th/18th cent.)</p>",
+      "line_text": "Mdina (Malta), Metropolitan Cathedral of St. Paul, Misc. 502 (ACM 00015), pp. 119–139 (17th/18th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mdina-malta-metropolitan-cathedral-of-st-paul-misc-502/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 838, 198<span class=\"\"><sup>r</sup>–</span>201<span class=\"\"><sup>v</sup></span> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3134/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 838, 198r–201v (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3134/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Carpentras, Bibliothèque municipale (Bibl. Inguimvertine), 103, fols. 1–20 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12345/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Carpentras, Bibliothèque municipale (Bibl. Inguimvertine), 103, fols. 1–20 (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12345/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athos, Monē Koutloumousiou, 176 (Lambros 3249), fols. 25<span class=\"\"><sup>r</sup>–</span>25v (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26205/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athos, Monē Koutloumousiou, 176 (Lambros 3249), fols. 25r–25v (15th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26205/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athos, Monē Philotheou, 98 (Lambros 1862) (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29463/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athos, Monē Philotheou, 98 (Lambros 1862) (15th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29463/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 57, fol. 173 ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34314/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279394574-jo\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 57, fol. 173 ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/34314/",
+        "https://www.loc.gov/item/00279394574-jo"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 10073, fols. 307<span class=\"\"><sup>r</sup></span>–317<span class=\"\"><sup>r</sup></span> (16th cent.)</p>",
+      "line_text": "London, British Library, Add. 10073, fols. 307r–317r (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-highgate-school-ii-29/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, Highgate School, II.29, fols. 120<sup>v</sup>–124<sup>v </sup>(15th cent.)</p>",
+      "line_text": "London, Highgate School, II.29, fols. 120v–124v (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-highgate-school-ii-29/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-lambeth-palace-library-1197/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, Lambeth Palace Library, 1197, fols. 5<sup>r</sup>–10<sup>v</sup> (15th/16th cent.)</p>",
+      "line_text": "London, Lambeth Palace Library, 1197, fols. 5r–10v (15th/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-lambeth-palace-library-1197/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteōra, Monē Hagiou Stephanou, 119, fol. 35 (1771) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41376/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteōra, Monē Hagiou Stephanou, 119, fol. 35 (1771) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41376/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 146 sup., fols. 5–6 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42373/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, B 146 sup., fols. 5–6 (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42373/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” II. D. 26, fols. 36<sup>v</sup>–39<sup>r</sup> (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48888/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” II. D. 26, fols. 36v–39r (15th/16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48888/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France,  gr. 929, pp. 548–561 (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  gr. 929, pp. 548–561 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France,  gr. 947, fols. 21<sup>v</sup>–26<span class=\"\"><sup>r</sup></span> (1574) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50536/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721847c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  gr. 947, fols. 21v–26r (1574) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50536/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721847c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France,  gr. 1313, fols. 1<span class=\"\"><sup>r</sup>–</span>5<span class=\"\"><sup>r</sup></span> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50922/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723436p\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  gr. 1313, fols. 1r–5r (15th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50922/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723436p"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II, S. A. Valle 102, fols. 168–170 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/56150/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Rome, Biblioteca Nazionale Centrale Vittorio Emanuele II, S. A. Valle 102, fols. 168–170 (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/56150/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Casanatense, 481, fols. 27–37 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/56061/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Rome, Biblioteca Casanatense, 481, fols. 27–37 (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/56061/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sinai, Mone tes Hagias Aikaterines, gr. 1670, fols. 130<sup>v</sup>–136<span class=\"\"><sup>r</sup></span> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/60045/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271070263-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Sinai, Mone tes Hagias Aikaterines, gr. 1670, fols. 130v–136r (16th cent.) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/60045/",
+        "https://www.loc.gov/item/00271070263-ms"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tubingen, Universitatsbibliothek, Mb 33, fols. 131–137 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/64330/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://www.inka.uni-tuebingen.de/hand.php\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Tubingen, Universitatsbibliothek, Mb 33, fols. 131–137 (16th cent.) ~ Pinakes; catalog",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/64330/",
+        "http://www.inka.uni-tuebingen.de/hand.php"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284 (olim III 3), fols. 55–65 (1497) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/64830/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284 (olim III 3), fols. 55–65 (1497) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/64830/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2235, fols. 222–229 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68866/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2235\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2235, fols. 222–229 (14th cent.) ~ Pinakes; DigiVatLib",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68866/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.2235"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 38 (coll. 1385), fols. 339–342 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70555/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 38 (coll. 1385), fols. 339–342 (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70555/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=XcIxAQAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bittner, Maximilian. “Der vom Himmel gefallene Brief in seinen morgenländischen Versionen und Rezensionen.” <em>Denkschriften der kaiserlichen Akademie der Wissenschaften: Philosophisch-historische Klasse </em>51.1 (1906): 1–240 (comprehensive study of the tradition with versions published in numerous ancient languages, including the text of Paris gr. 929, pp. 16–21).</p>",
+      "line_text": "Bittner, Maximilian. “Der vom Himmel gefallene Brief in seinen morgenländischen Versionen und Rezensionen.” Denkschriften der kaiserlichen Akademie der Wissenschaften: Philosophisch-historische Klasse 51.1 (1906): 1–240 (comprehensive study of the tradition with versions published in numerous ancient languages, including the text of Paris gr. 929, pp. 16–21).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=XcIxAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=EYZoAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Schiller, 1703 (3 vols. 1719) (Greek text from Bodleian, Huntington 583, vol. 3, pp. 510–13; see discussion also in <a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=340\" target=\"_blank\" rel=\"noopener\">vol. 2, 309–13</a>).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. Hamburg: Schiller, 1703 (3 vols. 1719) (Greek text from Bodleian, Huntington 583, vol. 3, pp. 510–13; see discussion also in vol. 2, 309–13).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=EYZoAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false",
+        "https://www.digitale-sammlungen.de/de/view/bsb11116194?page=340"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/anecdotagraecoby00vass\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vassiliev, Athanasius. <em>Anecdota graeco-byzantina, pars prior. </em>Moscow: Imperial University, 1893 (Greek texts of Vatican, Barb. gr. 284 and Venice, Biblioteca Nazionale Marciana, VII 38, pp. 23–32; discussion pp. xii–xx).</p>",
+      "line_text": "Vassiliev, Athanasius. Anecdota graeco-byzantina, pars prior. Moscow: Imperial University, 1893 (Greek texts of Vatican, Barb. gr. 284 and Venice, Biblioteca Nazionale Marciana, VII 38, pp. 23–32; discussion pp. xii–xx).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/anecdotagraecoby00vass"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 30853, fol. 231<sup>r</sup>–232<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7240&amp;CollID=27&amp;NStart=30853\" target=\"_blank\" rel=\"noopener\">BRITISH LIBRARY</a></p>",
+      "line_text": "London, British Library, Add. 30853, fol. 231r–232v (10th/11th cent.) ~ BRITISH LIBRARY",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7240&CollID=27&NStart=30853"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 9550 (11th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 9550 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France,  lat. 5302, fols. 52<sup>v</sup>–53<sup>r</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10032805j.r=latins%205302?rk=21459;2\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  lat. 5302, fols. 52v–53r (11th cent.) ~ GALLICA",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10032805j.r=latins%205302?rk=21459;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France,  lat. 12270, fols. 31<sup>v</sup>–32<sup>v</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10545284v/f1.item.r=latins%2012270\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  lat. 12270, fols. 31v–32v (12th cent.) ~ GALLICA",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10545284v/f1.item.r=latins%2012270"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France,  lat. 12315, fols. 37<sup>v</sup>–40<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100353047/f57.item.r=latins%2012315\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  lat. 12315, fols. 37v–40r (12th cent.) ~ GALLICA",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100353047/f57.item.r=latins%2012315"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Toulouse, Bibliothèque d’Étude et du Patrimoine (<em>olim</em> Bibliothèque municipale) 208, fols. 101<sup>r</sup>–104<sup>v</sup> (13th cent.) ~ <a href=\"https://bvmm.irht.cnrs.fr/consult/consult.php?mode=ecran&amp;reproductionId=557&amp;VUE_ID=261889&amp;panier=false&amp;carouselThere=false&amp;nbVignettes=tout&amp;page=1&amp;angle=0&amp;zoom=&amp;tailleReelle=\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Toulouse, Bibliothèque d’Étude et du Patrimoine (olim Bibliothèque municipale) 208, fols. 101r–104v (13th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://bvmm.irht.cnrs.fr/consult/consult.php?mode=ecran&reproductionId=557&VUE_ID=261889&panier=false&carouselThere=false&nbVignettes=tout&page=1&angle=0&zoom=&tailleReelle="
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-550-1538/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Trier, Stadtbibliotek, 550/1538, fols. 82<sup>v</sup>–83<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Trier, Stadtbibliotek, 550/1538, fols. 82v–83v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-550-1538/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH42-Melanges-d%27hagiographie/page/149/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delehaye, Hippolyte. “Note sur la légende de la lettre du Christ tombée du ciel.” Pages 171–213 in <em>Bulletin de l’Académie royale de Belgique: Classe de lettres. </em>Brussels: Hayez, 1899. [Repr. as pages 150–78 in Hippolyte Delehaye. <em>Mélanges d’hagiographie grecque et latine. </em>Subsidia Hagiographica 42. Brussels: Société des Bollandistes, 1966.] (text from Munich Clm 9550, pp. 155–56; Paris BNF 12270, pp. 157–59).</p>",
+      "line_text": "Delehaye, Hippolyte. “Note sur la légende de la lettre du Christ tombée du ciel.” Pages 171–213 in Bulletin de l’Académie royale de Belgique: Classe de lettres. Brussels: Hayez, 1899. [Repr. as pages 150–78 in Hippolyte Delehaye. Mélanges d’hagiographie grecque et latine. Subsidia Hagiographica 42. Brussels: Société des Bollandistes, 1966.] (text from Munich Clm 9550, pp. 155–56; Paris BNF 12270, pp. 157–59).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH42-Melanges-d%27hagiographie/page/149/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Delehaye, Hippolyte. “Un exemplaire de la lettre tombée du ciel.” <em>RSR </em>18 (1928): 164–68 (text of BL Add. 30853).</p>",
+      "line_text": "Delehaye, Hippolyte. “Un exemplaire de la lettre tombée du ciel.” RSR 18 (1928): 164–68 (text of BL Add. 30853).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/RevueDesQuestionsHistoriquesA40NS35/page/n607/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rivière, Ernest M. “La Lettre du Christ tombée du ciel: le manuscrit 208 de Toulouse.” <em>Revue des questions historiques</em>, N.S. 35 (1906): 600–605.</p>",
+      "line_text": "Rivière, Ernest M. “La Lettre du Christ tombée du ciel: le manuscrit 208 de Toulouse.” Revue des questions historiques, N.S. 35 (1906): 600–605.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/RevueDesQuestionsHistoriquesA40NS35/page/n607/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 202b–204b (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 202b–204b (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-15/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 15, pp. 11–12 (ca. 1375–1425)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, Peniarth 15, pp. 11–12 (ca. 1375–1425)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-15/"
+      ]
+    },
+    {
+      "line_html": "<p>Miceli, Calogero A. “The Epistle of Christ from Heaven: A New Translation and Introduction.” Pages 455–63 in volume 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016.</p>",
+      "line_text": "Miceli, Calogero A. “The Epistle of Christ from Heaven: A New Translation and Introduction.” Pages 455–63 in volume 1 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Backus, Irena. “Lettre de Jésus-Christ sur le dimanche.” Pages 1101–19 in vol. 2 of <em>Écrits apocryphes chrétiens</em>. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Backus, Irena. “Lettre de Jésus-Christ sur le dimanche.” Pages 1101–19 in vol. 2 of Écrits apocryphes chrétiens. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n183/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 366–69).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 366–69).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n183/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli Apocrifi del Nuovo Testamento. </em>3 vols. in 4. Turin: Marietti, 1966–1981 (the epistle is translated in vol. 3, pp. 113–18).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (the epistle is translated in vol. 3, pp. 113–18).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. <em>Los Evangelios Apócrifos. </em>2nd ed. Madrid: Biblioteca de Autores Cristianos, 1963 (the epistle is translated on pp. 670–82).</p>",
+      "line_text": "Santos Otero, Aurelio de. Los Evangelios Apócrifos. 2nd ed. Madrid: Biblioteca de Autores Cristianos, 1963 (the epistle is translated on pp. 670–82).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Frantsouzoff, Serge A. <em>Five Lives of Saints. Essays on Study of Arabic Orthodox Hagiography. Researches and Publications</em> [Пять житий. Очерки изучения арабо-православной агиографии. Исследование и публикация]. Sаint Petersburg:  Herzen State Pedagogical University of Russia, 2021 (edition, Russian translation, and discussion, pp. 246–65).</p>",
+      "line_text": "Frantsouzoff, Serge A. Five Lives of Saints. Essays on Study of Arabic Orthodox Hagiography. Researches and Publications [Пять житий. Очерки изучения арабо-православной агиографии. Исследование и публикация]. Sаint Petersburg:  Herzen State Pedagogical University of Russia, 2021 (edition, Russian translation, and discussion, pp. 246–65).",
+      "language": "Russian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Beskow, Per. <em>Strange Tales about Jesus: A Survey of Unfamiliar Gospels. </em>Philadelphia: Fortress, 1983 (pp. 25–30).</p>",
+      "line_text": "Beskow, Per. Strange Tales about Jesus: A Survey of Unfamiliar Gospels. Philadelphia: Fortress, 1983 (pp. 25–30).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Borsje, Jacqueline. “The Bruch in the Irish Version of the Sunday Letter.” <em>Ériu</em> 45 (1994): 83–98.</p>",
+      "line_text": "Borsje, Jacqueline. “The Bruch in the Irish Version of the Sunday Letter.” Ériu 45 (1994): 83–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Deletant, Dennis. “The Sunday Legend.” <i>Revue des études sud-est européennes</i> 15 (1977): 431–51. </span></p>",
+      "line_text": "Deletant, Dennis. “The Sunday Legend.” Revue des études sud-est européennes 15 (1977): 431–51. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Dieterich, Albrecht. “Himmelsbriefe.” Pages 234–42 in <i>Kleine Schriften</i>. Leipzig: Teubner, 1911.<br/></span></p>",
+      "line_text": "Dieterich, Albrecht. “Himmelsbriefe.” Pages 234–42 in Kleine Schriften. Leipzig: Teubner, 1911.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “La lettre sur le Dimanche, descendue du ciel.” <em>AnBoll </em>107 (1989): 267–84.</p>",
+      "line_text": "Esbroeck, Michel van. “La lettre sur le Dimanche, descendue du ciel.” AnBoll 107 (1989): 267–84.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/germanamericanan06germ\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fogel, Edwin M. “The Himmelsbrief.” <em>German American Annals </em>10 (1908): 286–311.</p>",
+      "line_text": "Fogel, Edwin M. “The Himmelsbrief.” German American Annals 10 (1908): 286–311.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/germanamericanan06germ"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/in.ernet.dli.2015.166395/page/n113/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Goodspeed, Edgar J. <em>Strange New Gospels. </em>Chicago, IL: University of Chicago Press, 1931 (pp. 96–107).</p>",
+      "line_text": "Goodspeed, Edgar J. Strange New Gospels. Chicago, IL: University of Chicago Press, 1931 (pp. 96–107).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/in.ernet.dli.2015.166395/page/n113/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Haines, Dorothy, ed. <em>Sunday Observance and the Sunday Letter in Anglo-Saxon England</em>. Anglo-Saxon Texts 8. Cambridge: D. S. Brewer, 2010.</p>",
+      "line_text": "Haines, Dorothy, ed. Sunday Observance and the Sunday Letter in Anglo-Saxon England. Anglo-Saxon Texts 8. Cambridge: D. S. Brewer, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Hand, Wayland D. “A North Carolina Himmelsbrief.” Pages 201–207 in <i>Middle Ages – Reformation – Volkskunde: Festschrift for John G. Kunstmann.</i> Edited by Frederic E. Coenen. Chapel Hill, NC: University of North Carolina Press, 1959.<br/></span></p>",
+      "line_text": "Hand, Wayland D. “A North Carolina Himmelsbrief.” Pages 201–207 in Middle Ages – Reformation – Volkskunde: Festschrift for John G. Kunstmann. Edited by Frederic E. Coenen. Chapel Hill, NC: University of North Carolina Press, 1959.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/in.ernet.dli.2015.55123\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hall, Isaac H. “The Letter of Holy Sunday: Syriac Text and Translation.” <em>JAOS</em> 15 (1893): 121–137.</p>",
+      "line_text": "Hall, Isaac H. “The Letter of Holy Sunday: Syriac Text and Translation.” JAOS 15 (1893): 121–137.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/in.ernet.dli.2015.55123"
+      ]
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Jones, W. R. “The Heavenly Letter in Medieval England.” Pages 163–78 in <i>Medieval Hagiography and Romance</i>. Edited by Paul Maurice Clogan.<i> </i>Medievalia et Humanistica<i> </i>6. Cambridge: Cambridge University Press, 1975.<br/></span></p>",
+      "line_text": "Jones, W. R. “The Heavenly Letter in Medieval England.” Pages 163–78 in Medieval Hagiography and Romance. Edited by Paul Maurice Clogan. Medievalia et Humanistica 6. Cambridge: Cambridge University Press, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Laansma, Jon C. “Sunday Letter.” Pages 416–24 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Laansma, Jon C. “Sunday Letter.” Pages 416–24 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Lees, Clare.</span><span lang=\"EN-US\"> “The ‘Sunday Letter’ and the ‘Sunday Lists.’” <i>Anglo-Saxon England </i>14 (1985): 129–51. </span></p>",
+      "line_text": "Lees, Clare. “The ‘Sunday Letter’ and the ‘Sunday Lists.’” Anglo-Saxon England 14 (1985): 129–51. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Priebsch, Robert. <em>Letter from Heaven on the Observance of the Lord’s Day. </em>Oxford: Basil Blackwell, 1936 (text, pp. 35–37).</p>",
+      "line_text": "Priebsch, Robert. Letter from Heaven on the Observance of the Lord’s Day. Oxford: Basil Blackwell, 1936 (text, pp. 35–37).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Renoir, E. “Christ (lettre du) tombée du ciel.” <i>DACL</i> 3/1 (1948): 1534–46.</span></p>",
+      "line_text": "Renoir, E. “Christ (lettre du) tombée du ciel.” DACL 3/1 (1948): 1534–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"biblio\"><span lang=\"EN-US\">Röhricht, Reinhold. “Ein ‘Brief Christ.’” <i>ZKG</i> 11 (1890): 436–41. </span></p>",
+      "line_text": "Röhricht, Reinhold. “Ein ‘Brief Christ.’” ZKG 11 (1890): 436–41. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stern, Jean. “La Salette et la légende des lettres tombées du ciel.” Pages 375–92 in vol. 1 of <em>La Salette: Documents authentiques: Dossier chronologique intégral. </em>Collection Sanctuaires, Pèlerinages, Apparitions. 3 vols. Paris: Desclée de Brouwer, 1980–1991.</p>",
+      "line_text": "Stern, Jean. “La Salette et la légende des lettres tombées du ciel.” Pages 375–92 in vol. 1 of La Salette: Documents authentiques: Dossier chronologique intégral. Collection Sanctuaires, Pèlerinages, Apparitions. 3 vols. Paris: Desclée de Brouwer, 1980–1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stübe, Rudolf. <em>Der Himmelsbrief: Ein Beitrag zur allgemeinen Religionsgeschichte. </em>Tübingen: J. C. B. Mohr, 1918.</p>",
+      "line_text": "Stübe, Rudolf. Der Himmelsbrief: Ein Beitrag zur allgemeinen Religionsgeschichte. Tübingen: J. C. B. Mohr, 1918.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.finebooksmagazine.com/issue/200906/himmelsbrief-1.phtml\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Yoder, Don. “Heaven Sent: When Homeowners’ Insurance Came Straight from the Top.” <em>Fine Books Magazine</em> (posted June 2009). No pages. Online: https://www.finebooksmagazine.com/issue/200906/himmelsbrief-1.phtml.</p>",
+      "line_text": "Yoder, Don. “Heaven Sent: When Homeowners’ Insurance Came Straight from the Top.” Fine Books Magazine (posted June 2009). No pages. Online: https://www.finebooksmagazine.com/issue/200906/himmelsbrief-1.phtml.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.finebooksmagazine.com/issue/200906/himmelsbrief-1.phtml"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

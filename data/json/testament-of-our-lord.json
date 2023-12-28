@@ -1,0 +1,110 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/testament-of-our-lord/",
+  "nasscal_toc_title": "Testament of Our Lord",
+  "filename": "testament-of-our-lord",
+  "latin_title": "Testamentum dominus noster",
+  "abbrev": " Test. Lord",
+  "clavis_number": 840,
+  "category": "Apocalypses",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, Syr. 232, fols. 184<sup>r</sup>–195<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Syr. 232, fols. 184r–195v (17th cent.)",
+      "language": ".1 Garšūnī script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 220, fols. 5<sup>v</sup>–12<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 220, fols. 5v–12v (18th cent.)",
+      "language": ".1 Garšūnī script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n333/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts discussed, vol. 1, p. 292).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts discussed, vol. 1, p. 292).",
+      "language": ".1 Garšūnī script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n333/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch2119181919pari/page/260/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ziadé, J. “Un testament de Notre-Seigneur concernant les invasions des Mongols.” <em>ROC</em> 21 (1918–1919): 261–73, 433–44 (edition and French translation of Paris Syr. 232).</p>",
+      "line_text": "Ziadé, J. “Un testament de Notre-Seigneur concernant les invasions des Mongols.” ROC 21 (1918–1919): 261–73, 433–44 (edition and French translation of Paris Syr. 232).",
+      "language": ".1 Garšūnī script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch2119181919pari/page/260/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch2119181919pari/page/260/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ziadé, J. “Un testament de Notre-Seigneur concernant les invasions des Mongols.” <em>ROC</em> 21 (1918–1919): 261–73, 433–44 (edition and French translation of Paris Syr. 232).</p>",
+      "line_text": "Ziadé, J. “Un testament de Notre-Seigneur concernant les invasions des Mongols.” ROC 21 (1918–1919): 261–73, 433–44 (edition and French translation of Paris Syr. 232).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch2119181919pari/page/260/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch111906pari/page/426/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dib, S. “Note sur deux ouvrages apocryphes arabes intitulés ‘Testament de Notre-Seigneur.’” <em>ROC</em> 11 (1906): 427–30.</p>",
+      "line_text": "Dib, S. “Note sur deux ouvrages apocryphes arabes intitulés ‘Testament de Notre-Seigneur.’” ROC 11 (1906): 427–30.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch111906pari/page/426/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kruk, Remke. “History and apocalypse. Ibn al-Nafîs’s justication of Mamluk rule.” <em>Der Islam</em> 72 (1995): 324–37 (pp. 330–31).</p>",
+      "line_text": "Kruk, Remke. “History and apocalypse. Ibn al-Nafîs’s justication of Mamluk rule.” Der Islam 72 (1995): 324–37 (pp. 330–31).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lent, Jos van. “Coptic Apocalyptic Writings from the Islamic Period.” Ph.D. diss., Leiden University, forthcoming.</p>",
+      "line_text": "Lent, Jos van. “Coptic Apocalyptic Writings from the Islamic Period.” Ph.D. diss., Leiden University, forthcoming.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The nineteen Muslim kings in Coptic apocalypses.” <em>ParOr</em> 25 (2000): 643–93 (p. 670).</p>",
+      "line_text": "__________. “The nineteen Muslim kings in Coptic apocalypses.” ParOr 25 (2000): 643–93 (p. 670).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Testament of our Lord (on the Invasions of the Mongols).” Pages 743–49 in<span class=\"tojvnm2t a6sixzi8 abs2jz4q a8s20v7p t1p8iaqh k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y iyyx5f41\"><em> Christian-Muslim Relations: A Bibliographical History. Vol. 4: 1200–1350.</em> Edited by D. Thomas and A. Mallett. History of Christian Muslim Relations 17. Leiden and Boston: Brill, 2012.</span></p>",
+      "line_text": "__________. “Testament of our Lord (on the Invasions of the Mongols).” Pages 743–49 in Christian-Muslim Relations: A Bibliographical History. Vol. 4: 1200–1350. Edited by D. Thomas and A. Mallett. History of Christian Muslim Relations 17. Leiden and Boston: Brill, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suermann, H. “Koptische arabische Apocalypsen.” Pages 25–44 in <em>Studies on the Christian Arabic Heritage</em>. Edited by Rifaat Y. Ebied, Khalil Samir, and Herman G. B. Teule. Leuven: Peeters, 2004 (p. 31).</p>",
+      "line_text": "Suermann, H. “Koptische arabische Apocalypsen.” Pages 25–44 in Studies on the Christian Arabic Heritage. Edited by Rifaat Y. Ebied, Khalil Samir, and Herman G. B. Teule. Leuven: Peeters, 2004 (p. 31).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Troupeau, Gérard. “De quelques apocalypses conservées dans les manuscrits arabes de Paris.” <em>ParOr</em> 18 (1993): 75–87 (p. 79).</p>",
+      "line_text": "Troupeau, Gérard. “De quelques apocalypses conservées dans les manuscrits arabes de Paris.” ParOr 18 (1993): 75–87 (p. 79).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

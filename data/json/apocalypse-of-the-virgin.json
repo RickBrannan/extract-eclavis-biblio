@@ -1,0 +1,491 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocalypse-of-the-virgin/",
+  "nasscal_toc_title": "Apocalypse of the Virgin",
+  "filename": "apocalypse-of-the-virgin",
+  "latin_title": "Apocalypsis Mariae",
+  "abbrev": "Apoc. Vir",
+  "alt_titles": [
+    "Apocalypse of the Theotokos, Apocalypse of Mary"
+  ],
+  "clavis_number": 900,
+  "category": "Apocalypses",
+  "compiler": "Tony Burke",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Tayest‘i, Esayi, ed. <em>Ankanon girk‘ Nor Ktakaranats‘ </em>(Apocryphal Books of the New Testament). 2 vols. Venice: S. Ghazar, 1898 (texts for five recensions, vol. 2, pp. 383-450)<em>.</em></p>",
+      "line_text": "Tayest‘i, Esayi, ed. Ankanon girk‘ Nor Ktakaranats‘ (Apocryphal Books of the New Testament). 2 vols. Venice: S. Ghazar, 1898 (texts for five recensions, vol. 2, pp. 383-450).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Qubaneišvili, Solomon. <em>Żveli k‘art‘uli literaturis k‘restomat‘ia</em>. Tbilisi: Stalinis saxelobis T‘bilisis saxelmcip‘o universitetis gamomc‘emloba, 1946 (pp. 14–19).</p>",
+      "line_text": "Qubaneišvili, Solomon. Żveli k‘art‘uli literaturis k‘restomat‘ia. Tbilisi: Stalinis saxelobis T‘bilisis saxelmcip‘o universitetis gamomc‘emloba, 1946 (pp. 14–19).",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Medieval Long Versions (<a href=\"https://archive.org/details/bibliothecahagi00boll/page/148/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">BHG</a> 1050–1053)</p>",
+      "line_text": "Medieval Long Versions (BHG 1050–1053)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bibliothecahagi00boll/page/148/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Andros, Monê Hagias (Zôodochou Pêgês), 46 (65), fols. 102–110 (15th cent.)</p>",
+      "line_text": "Andros, Monê Hagias (Zôodochou Pêgês), 46 (65), fols. 102–110 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 352, fols. 200–211<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 352, fols. 200–211v (17th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 10073, fols. 50<sup>v</sup>–61<sup>v</sup> (16th cent.)</p>",
+      "line_text": "London, British Library, Add. 10073, fols. 50v–61v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Abrosiana, G 63 sup. (Martini-Bassi 405), fols. 156–64 (11th/12th cent.)</p>",
+      "line_text": "Milan, Biblioteca Abrosiana, G 63 sup. (Martini-Bassi 405), fols. 156–64 (11th/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), fols. 342–350<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), fols. 342–350v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-395/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 395, fols. 72<sup>r</sup>–81<sup>v</sup> (15th/16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 395, fols. 72r–81v (15th/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-395/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, suppl. gr. 136, fols. 157–179<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, suppl. gr. 136, fols. 157–179v (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-1/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 1, fols. 301<sup>r</sup>–306<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 1, fols. 301r–306r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-1/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. VII.43 (coll. 449), fols. 441<sup>v</sup>–440<sup>v</sup> (1619)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII.43 (coll. 449), fols. 441v–440v (1619)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Sub-category with “sin list,” a long catalogue of sinners in a river of blood:</p>",
+      "line_text": "Sub-category with “sin list,” a long catalogue of sinners in a river of blood:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-390/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 390, fols. 168, 4, 1–3<sup>v</sup>, 27 (16th cent.) ~ incomplete</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 390, fols. 168, 4, 1–3v, 27 (16th cent.) ~ incomplete",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-390/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284, fols. 25–39 (1497)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284, fols. 25–39 (1497)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, <em>Österreichischen Nationalbibliothek,</em> Theol. gr. 333, fols. 82–93<sup>v</sup> (ca. 1300)</p>",
+      "line_text": "Vienna, Österreichischen Nationalbibliothek, Theol. gr. 333, fols. 82–93v (ca. 1300)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Later Medieval, Short Version (<a href=\"https://archive.org/details/bibliothecahagi00boll/page/148/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">BHG</a> 1054)</p>",
+      "line_text": "Later Medieval, Short Version (BHG 1054)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bibliothecahagi00boll/page/148/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 356, fols. 306–313<sup>v</sup> (1634)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 356, fols. 306–313v (1634)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2484, fols. 268–270<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2484, fols. 268–270v (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-trinity-college-o-8-33/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Trinity College, O.8.33 (1408), fols. 56<sup>v</sup>–61 (16th cent.)</p>",
+      "line_text": "Cambridge, Trinity College, O.8.33 (1408), fols. 56v–61 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-trinity-college-o-8-33/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Add. 25881, fols. 229–237<sup>v</sup> (16th cent.)</p>",
+      "line_text": "London, British Library, Add. 25881, fols. 229–237v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 373, fols. 394–399 (16th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 373, fols. 394–399 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Rawlinson G. 4, fols. 118–123<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Rawlinson G. 4, fols. 118–123v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Rome, Biblioteca Casanatense, 6 (olim G.VI.1) (16th cent.)</p>",
+      "line_text": "Rome, Biblioteca Casanatense, 6 (olim G.VI.1) (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca del Seminario Patriarcale, 196, fols. 18<sup>v</sup>–30<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Venice, Biblioteca del Seminario Patriarcale, 196, fols. 18v–30v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Unclassified Manuscripts</p>",
+      "line_text": "Unclassified Manuscripts",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ann Arbor, University of Michigan Library, MS 41, fols. 199–205<sup>v</sup> (15th cent)</p>",
+      "line_text": "Ann Arbor, University of Michigan Library, MS 41, fols. 199–205v (15th cent)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Bibliothêke tês Boules, 46, fol. 116 (17th cent.)</p>",
+      "line_text": "Athens, Bibliothêke tês Boules, 46, fol. 116 (17th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-metochion-tou-panagiou-taphou-594/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikê Bibliothêkê tês Hellados, Mentochion tou Panagioi Taphou 594, pp. 27–59 (15/16th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, Mentochion tou Panagioi Taphou 594, pp. 27–59 (15/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-metochion-tou-panagiou-taphou-594/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, gr. 2011 (17th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, gr. 2011 (17th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Bologna, Biblioteca Universitaria, 3642, fol. 39<sup>v</sup>–64<sup>v</sup> (1598)</p>",
+      "line_text": "Bologna, Biblioteca Universitaria, 3642, fol. 39v–64v (1598)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Budapest, Országos Széchényi Könyvtár, 8<sup>o</sup> Gr. 8 (Kubinyi 31), fols. 1–15 (1648)</p>",
+      "line_text": "Budapest, Országos Széchényi Könyvtár, 8o Gr. 8 (Kubinyi 31), fols. 1–15 (1648)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Bucharest, Biblioteca Academiei Române, gr. 990, fols. 206–212 (1735)</p>",
+      "line_text": "Bucharest, Biblioteca Academiei Române, gr. 990, fols. 206–212 (1735)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 97, fols. 5–6<sup>v</sup>, 8–17 (16th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 97, fols. 5–6v, 8–17 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monê Hagiou Stephanou, 119, fol. 95 (1771)</p>",
+      "line_text": "Meteora, Monê Hagiou Stephanou, 119, fol. 95 (1771)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Hagiou Panteleêmonos, 266, fols. 171–77 (16th cent.)</p>",
+      "line_text": "Mount Athos, Monê Hagiou Panteleêmonos, 266, fols. 171–77 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” III.B.25, fol. 73 (15th/16th cent.)</p>",
+      "line_text": "Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” III.B.25, fol. 73 (15th/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1631 (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1631 (13th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-1697/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Sinai, Monê tês Hagias Aikaterinês, gr. 1697, fols. 217<sup>r</sup>–232<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Sinai, Monê tês Hagias Aikaterinês, gr. 1697, fols. 217r–232v (17th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-1697/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 25<sup>v</sup>–28<sup>v</sup> (1542)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 25v–28v (1542)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2557, fols. 153–168 (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2557, fols. 153–168 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Zabordas, Monê tou hagiou Nikaneros, 117, fols. 111–121 (14th cent.)</p>",
+      "line_text": "Zabordas, Monê tou hagiou Nikaneros, 117, fols. 111–121 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><em>Apokalypsis tes hagias Theotokou</em>. Cyprus, 1898 (pamphlet in Bodleian Library with modern Greek version of the text).</p>",
+      "line_text": "Apokalypsis tes hagias Theotokou. Cyprus, 1898 (pamphlet in Bodleian Library with modern Greek version of the text).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/MN40020ucmf_0#page/n291/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delatte, Armand. <em>Anecdota atheniensia</em>. 2 vols. Bibliothèque de la Faculté philosophie et lettres de l’Université de Liège 88. Liège: Faculté de Philosophie et Lettres, 1927 (editions of Athens 356, vol. 1 pp. 272–80, and 352, vol. 1 pp. 280–88).</p>",
+      "line_text": "Delatte, Armand. Anecdota atheniensia. 2 vols. Bibliothèque de la Faculté philosophie et lettres de l’Université de Liège 88. Liège: Faculté de Philosophie et Lettres, 1927 (editions of Athens 356, vol. 1 pp. 272–80, and 352, vol. 1 pp. 280–88).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/MN40020ucmf_0#page/n291/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>James, Montague Rhodes. <em>Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments Now First Edited from Manuscripts</em>. TS 2.3. Cambridge: The University Press, 1893. (Edition and translation of Oxford, Bodleian Library, Misc. gr. 77, pp. 109–26).</p>",
+      "line_text": "James, Montague Rhodes. Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments Now First Edited from Manuscripts. TS 2.3. Cambridge: The University Press, 1893. (Edition and translation of Oxford, Bodleian Library, Misc. gr. 77, pp. 109–26).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=2wEOAAAAYAAJ&amp;pg=PA99&amp;source=gbs_toc_r&amp;cad=3#v=onepage&amp;q&amp;f=false\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gidel, Antoine Charles. “Étude sur une Apocalypse de la Vierge Marie.” <em>Annuaire de l’Association pour l’encouragement des études grecques en France </em>5 (1871): 92–113 (edition of Paris, Bibliothèque nationale de France, gr. 390).</p>",
+      "line_text": "Gidel, Antoine Charles. “Étude sur une Apocalypse de la Vierge Marie.” Annuaire de l’Association pour l’encouragement des études grecques en France 5 (1871): 92–113 (edition of Paris, Bibliothèque nationale de France, gr. 390).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=2wEOAAAAYAAJ&pg=PA99&source=gbs_toc_r&cad=3#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Polites, N. G. <em>Melet</em><em>ē</em><em> epi tou biou t</em><em>ō</em><em>n noter</em><em>ō</em><em>n H</em><em>ē</em><em>llen</em><em>ō</em><em>n.</em> Vol. 1: <em>Noell</em><em>ē</em><em>nik</em><em>ē</em><em> mythologia.</em> Moscow, 1874 (publication of a modern print version of the text, 375–89).</p>",
+      "line_text": "Polites, N. G. Meletē epi tou biou tōn noterōn Hēllenōn. Vol. 1: Noellēnikē mythologia. Moscow, 1874 (publication of a modern print version of the text, 375–89).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Sreznevskii, Izmail Ivanovič and G. S. Destunis, eds. <em>Drevnie pamyatniki russkago pis’ma i yazyka (X–XIV vekov). </em>St. Petersburg: Tipografiya Imperatorskoy akademii nauk, 1863 (<em>editio princeps</em> based on Vienna, <em>Österreichischen Nationalbibliothek,</em> Theol. gr. 333).</p>",
+      "line_text": "Sreznevskii, Izmail Ivanovič and G. S. Destunis, eds. Drevnie pamyatniki russkago pis’ma i yazyka (X–XIV vekov). St. Petersburg: Tipografiya Imperatorskoy akademii nauk, 1863 (editio princeps based on Vienna, Österreichischen Nationalbibliothek, Theol. gr. 333).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pernot, Hubert. “Descente de la Vierge aux Enfers, d’après les manuscrits de Paris.” <em>Extrait de la revue des études grecques</em> 13 (1900): 233–57 (editions of Paris, Suppl. gr. 136, Paris, gr. 395, and Paris, gr. 390).</p>",
+      "line_text": "Pernot, Hubert. “Descente de la Vierge aux Enfers, d’après les manuscrits de Paris.” Extrait de la revue des études grecques 13 (1900): 233–57 (editions of Paris, Suppl. gr. 136, Paris, gr. 395, and Paris, gr. 390).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/anecdotagraecob00vasigoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vasiliev, Athanasius, ed. <em>Anecdota graeco-byzantina, pars prior</em>. Moscow: Imperial University, 1893 (edition of Rome, Biblioteca Casanatense, 6, pp. 125–34.)</p>",
+      "line_text": "Vasiliev, Athanasius, ed. Anecdota graeco-byzantina, pars prior. Moscow: Imperial University, 1893 (edition of Rome, Biblioteca Casanatense, 6, pp. 125–34.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/anecdotagraecob00vasigoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocalypsesapoc01perkgoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Apocalypses apocryphae Mosis, Esdrae, Pauli, Johannis, item Mariae dormito: additis evangeliorum et actuum apocryphorum supplementis. Maiximam partem nunc primum</em>. Leipzig: H. Mendelssohn, 1866 (excerpts from Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), Vienna, <em>Österreichischen Nationalbibliothek,</em> Theol. gr. 333, Paris, gr. 1631, and Venice, Biblioteca Nazionale Marciana, gr. VII.43, pp. xxvii–xxix).</p>",
+      "line_text": "Tischendorf, Constantin. Apocalypses apocryphae Mosis, Esdrae, Pauli, Johannis, item Mariae dormito: additis evangeliorum et actuum apocryphorum supplementis. Maiximam partem nunc primum. Leipzig: H. Mendelssohn, 1866 (excerpts from Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), Vienna, Österreichischen Nationalbibliothek, Theol. gr. 333, Paris, gr. 1631, and Venice, Biblioteca Nazionale Marciana, gr. VII.43, pp. xxvii–xxix).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocalypsesapoc01perkgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Syrtsova, Olena. <em>Apokryfi</em><em>čna apokaliptyka: filosofs’ka ekzeheza i tekstolohiya z vydannyam hrestskoho </em><em>tekstu Apokalipsysa Bohorodyytsi za rukopysom XI stolittya Ottobonianus</em>, hr. 1: <em>Textologia antiquae et midiae aetatis</em>. Kyiv: KM Academia, 2000 (edition and Ukrainian translation based on Vatican, Biblioteca Apostolica, Ottoboni 1 and initial mention of Vatican, Biblioteca Apostolica, gr. 1190).</p>",
+      "line_text": "Syrtsova, Olena. Apokryfična apokaliptyka: filosofs’ka ekzeheza i tekstolohiya z vydannyam hrestskoho tekstu Apokalipsysa Bohorodyytsi za rukopysom XI stolittya Ottobonianus, hr. 1: Textologia antiquae et midiae aetatis. Kyiv: KM Academia, 2000 (edition and Ukrainian translation based on Vatican, Biblioteca Apostolica, Ottoboni 1 and initial mention of Vatican, Biblioteca Apostolica, gr. 1190).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hasdeu, Bogdan Petriceicu. <em>Cuvente den b</em><em>ă</em><em>tr</em><em>â</em><em>ni: limba rom</em><em>â</em><em>n</em><em>ă</em><em> vorbit</em><em>ă</em> <em>î</em><em>ntre 1550–1600 : studiu paleografico-linguistic</em>. 3 vols. Directiunea Generală a Archivelor Statului. Publicatiuni istorico-filologice. Bucharest: Societatii Academice Romane, 1878–1881 (synopsis of Romanian, Slavonic, and Greek versions).</p>",
+      "line_text": "Hasdeu, Bogdan Petriceicu. Cuvente den bătrâni: limba română vorbită între 1550–1600 : studiu paleografico-linguistic. 3 vols. Directiunea Generală a Archivelor Statului. Publicatiuni istorico-filologice. Bucharest: Societatii Academice Romane, 1878–1881 (synopsis of Romanian, Slavonic, and Greek versions).",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978 and 1981 (vol. 1, pp. 188–95).</p>",
+      "line_text": "Santos Otero, Aurelio de. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978 and 1981 (vol. 1, pp. 188–95).",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Baun, Jane. <em>Tales from Another Byzantium: Celestial Journey and Local Community in the Medieval Greek Apocrypha</em>. Cambridge: Cambridge University Press, 2006 (includes a new English translation of Oxford, Bodleian Library, Misc. gr. 77, pp. 391–400).</p>",
+      "line_text": "Baun, Jane. Tales from Another Byzantium: Celestial Journey and Local Community in the Medieval Greek Apocrypha. Cambridge: Cambridge University Press, 2006 (includes a new English translation of Oxford, Bodleian Library, Misc. gr. 77, pp. 391–400).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>James, Montague Rhodes. <em>The Apocryphal New Testament</em>. Oxford: Clarendon, 1924; 2nd ed. 1953 (summary, pp. 563-64).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament. Oxford: Clarendon, 1924; 2nd ed. 1953 (summary, pp. 563-64).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/antenicenefather09robe\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rutherford, Andrew, trans. “The Apocalypse of the Virgin.” Pages 167–74 in <em>The Ante-Nicene Fathers</em>, Vol. 9: <em>Additional Material</em>. Edited by Allan Menzies. New York: The Christian Literature Company, 1896 (translation of James’s edition).</p>",
+      "line_text": "Rutherford, Andrew, trans. “The Apocalypse of the Virgin.” Pages 167–74 in The Ante-Nicene Fathers, Vol. 9: Additional Material. Edited by Allan Menzies. New York: The Christian Literature Company, 1896 (translation of James’s edition).",
+      "language": "English",
+      "entry_type": "Translations",
+      "other_urls": [
+        "https://archive.org/details/antenicenefather09robe"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “The Apocalypse of the Virgin: A new translation and introduction.” Pages 492–509 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (translation of Syrtsova’s edition of Vatican, Biblioteca Apostolica, gr. 1190).</p>",
+      "line_text": "Shoemaker, Stephen. “The Apocalypse of the Virgin: A new translation and introduction.” Pages 492–509 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016 (translation of Syrtsova’s edition of Vatican, Biblioteca Apostolica, gr. 1190).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966-1981. (Italian translation in vol. 3, pp. 447–54.)</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966-1981. (Italian translation in vol. 3, pp. 447–54.)",
+      "language": "Italian",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (Italian translation in vol. 1, pp. 901–26).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (Italian translation in vol. 1, pp. 901–26).",
+      "language": "Italian",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Starowieyski, M., “Traduction polonaise de l’Apocalypse de Marie (paléoslave).” Pages 107–17 in <em>Stowo o Bogu i czlwieku</em>. Edited by Ryszard. Luzny. Cracovie: Polska Akademia Umiejetnosci, 1995.</p>",
+      "line_text": "Starowieyski, M., “Traduction polonaise de l’Apocalypse de Marie (paléoslave).” Pages 107–17 in Stowo o Bogu i czlwieku. Edited by Ryszard. Luzny. Cracovie: Polska Akademia Umiejetnosci, 1995.",
+      "language": "Polish",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Bauckham, Richard. “The Conflict of Justice and Mercy: Attitudes to the Damned in Apocalyptic Literature.” <em>Apocrypha</em> 1 (1990): 181–96.</p>",
+      "line_text": "Bauckham, Richard. “The Conflict of Justice and Mercy: Attitudes to the Damned in Apocalyptic Literature.” Apocrypha 1 (1990): 181–96.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Virgin, Apocalypses of the.” Pages 854–56 in volume 6 of <em>Anchor Bible Dictionary</em>. Edited by David Noel Freedman. 6 vols. New York: Doubleday, 1992.</p>",
+      "line_text": "__________. “Virgin, Apocalypses of the.” Pages 854–56 in volume 6 of Anchor Bible Dictionary. Edited by David Noel Freedman. 6 vols. New York: Doubleday, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Four Apocalypses of the Virgin Mary.” Pages 332–62 in <em>The Fate of the Dead: Studies on Jewish and Christian Apocalypses</em>. <em>Supplements to Novum Testamentum 93</em>. Leiden: Brill, 1998.</p>",
+      "line_text": "__________. “The Four Apocalypses of the Virgin Mary.” Pages 332–62 in The Fate of the Dead: Studies on Jewish and Christian Apocalypses. Supplements to Novum Testamentum 93. Leiden: Brill, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 686–87).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 686–87).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Himmelfarb, Martha. <em>Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature</em>. Philadelphia: University of Pennsylvania Press, 1983.</p>",
+      "line_text": "Himmelfarb, Martha. Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature. Philadelphia: University of Pennsylvania Press, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simon C. “Les Apocalypses de la Vierge: État de la question.” <em>Apocrypha</em> 4 (1993): 101–12.</p>",
+      "line_text": "Mimouni, Simon C. “Les Apocalypses de la Vierge: État de la question.” Apocrypha 4 (1993): 101–12.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Mary in Early Christian Apocrypha: Virgin Territory.” Pages 175–90 in <em>Rediscovering the Apocryphal Continent: New Perspectives on Early Christian and Late Antique Apocryphal Texts and Traditions</em>. Edited by Pierluigi Piovanelli and Tony Burke. WUNT 349. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "__________. “Mary in Early Christian Apocrypha: Virgin Territory.” Pages 175–90 in Rediscovering the Apocryphal Continent: New Perspectives on Early Christian and Late Antique Apocryphal Texts and Traditions. Edited by Pierluigi Piovanelli and Tony Burke. WUNT 349. Tübingen: Mohr Siebeck, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Syrtsova, Olena. “L’<em>Apocalypse de la Théotokos </em>dans l’histoire de la pensée.” Page 6113 in <em>Byzantium. Identity, Image, Influence. Abstracts of Communications. XIXth International Congress of Byzantine Studies. Copenhagen, 18-24 August 1996</em>. Edited by Karsten Fledelius. Copenhagen: Eventus, 1996.</p>",
+      "line_text": "Syrtsova, Olena. “L’Apocalypse de la Théotokos dans l’histoire de la pensée.” Page 6113 in Byzantium. Identity, Image, Influence. Abstracts of Communications. XIXth International Congress of Byzantine Studies. Copenhagen, 18-24 August 1996. Edited by Karsten Fledelius. Copenhagen: Eventus, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

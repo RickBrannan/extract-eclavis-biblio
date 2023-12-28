@@ -1,0 +1,59 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-peter-and-paul/",
+  "nasscal_toc_title": "Martyrdom of Peter and Paul",
+  "filename": "martyrdom-of-peter-and-paul",
+  "latin_title": "Martyrium Petri et Pauli (armeniace)",
+  "abbrev": "Mart. Pet. Paul",
+  "clavis_number": 827,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 346 (303)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 346 (303)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n69/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition, pp. 46–50).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (edition, pp. 46–50).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n69/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/713.MehekanAveleats/page/n629/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bayan, George. “Les synaxaire arménien de ter-Israel XI: Mois de Margats.” <em>PO</em> 21 (1930): 543–678 (edition, pp. 629–35).</p>",
+      "line_text": "Bayan, George. “Les synaxaire arménien de ter-Israel XI: Mois de Margats.” PO 21 (1930): 543–678 (edition, pp. 629–35).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/713.MehekanAveleats/page/n629/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>É</em><em>crits apocryphes sur les ap</em><em>ô</em><em>tres</em>. CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (translation of Armenian text from Tchérakian, vol. 1, pp. 55–63).</p>",
+      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres. CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (translation of Armenian text from Tchérakian, vol. 1, pp. 55–63).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Tajra, Harry W. <em>The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends.</em> WUNT 2/67. Tübingen: Mohr Siebeck, 1994 (summary and commentary, pp. 162–63).</p>",
+      "line_text": "Tajra, Harry W. The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends. WUNT 2/67. Tübingen: Mohr Siebeck, 1994 (summary and commentary, pp. 162–63).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

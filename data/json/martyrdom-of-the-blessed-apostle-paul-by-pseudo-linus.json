@@ -1,0 +1,878 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-the-blessed-apostle-paul-by-pseudo-linus/",
+  "nasscal_toc_title": "Martyrdom of the Blessed Apostle Paul by Pseudo-Linus",
+  "filename": "martyrdom-of-the-blessed-apostle-paul-by-pseudo-linus",
+  "latin_title": "Martyrium beati Pauli apostoli a Lino episcopo conscriptum",
+  "abbrev": "Lin. Mart. Paul.",
+  "clavis_number": 367,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Lipsius and Bonnet’s edition is based on the following 28 manuscripts:</p>",
+      "line_text": "Lipsius and Bonnet’s edition is based on the following 28 manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Paris, Bibliothèque nationale de France, lat. 5343, fols. 34<sup>r</sup>–? (11th cent.)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, lat. 5343, fols. 34r–? (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, lat. 12602, fols. 12<sup>r</sup>–17<sup>r</sup> (12th cent.)</p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, lat. 12602, fols. 12r–17r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Paris, Bibliothèque nationale de France, lat. 12611, fols. 151<sup>v</sup>–156<sup>r</sup> (12th cent.)</p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, lat. 12611, fols. 151v–156r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Paris, Bibliothèque nationale de France, lat. 3778, fols. 32<sup>v</sup>–41<sup>v</sup> (11th cent.)</p>",
+      "line_text": "D  Paris, Bibliothèque nationale de France, lat. 3778, fols. 32v–41v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Paris, Bibliothèque nationale de France, lat. 5273, fols. 16<sup>r</sup>–21<sup>v</sup> (13th cent.)</p>",
+      "line_text": "E  Paris, Bibliothèque nationale de France, lat. 5273, fols. 16r–21v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Paris, Bibliothèque nationale de France, lat. 15437, fols. 47<sup>v</sup>–51<sup>v</sup> (11th cent.)</p>",
+      "line_text": "F  Paris, Bibliothèque nationale de France, lat. 15437, fols. 47v–51v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>G </strong> Paris, Bibliothèque nationale de France, lat. 11750, fols. 66<sup>v</sup>–72<sup>v</sup> (12th cent.)</p>",
+      "line_text": "G  Paris, Bibliothèque nationale de France, lat. 11750, fols. 66v–72v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Paris, Bibliothèque nationale de France, lat. 5274, fols. 2<sup>r</sup>–7<sup>v</sup> (12th cent.)</p>",
+      "line_text": "H  Paris, Bibliothèque nationale de France, lat. 5274, fols. 2r–7v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong>  Paris, Bibliothèque nationale de France, lat. 12615, fols. 17<sup>v</sup>–24<sup>v</sup> (14th cent.)</p>",
+      "line_text": "I  Paris, Bibliothèque nationale de France, lat. 12615, fols. 17v–24v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Paris, Bibliothèque nationale de France, lat. 14363, fols. 131<sup>r</sup>–133<sup>v</sup> (13th cent.)</p>",
+      "line_text": "K  Paris, Bibliothèque nationale de France, lat. 14363, fols. 131r–133v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  London, Arundel, 169, fols. 10<sup>r</sup>–? (12th cent.) ~ <a href=\"https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=1739\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
+      "line_text": "L  London, Arundel, 169, fols. 10r–? (12th cent.) ~ CATALOG",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=1739"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Montpellier, Faculté de Médecine, 14, fols. 7<sup>r</sup>–14<sup>r</sup> (11th cent.)</p>",
+      "line_text": "M  Montpellier, Faculté de Médecine, 14, fols. 7r–14r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Casanat. B. I. 4, fols. 14<sup>r</sup>–? (10th/11th cent.)</p>",
+      "line_text": "N  Casanat. B. I. 4, fols. 14r–? (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1193, fols. 94<sup>v</sup>–100<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1193\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "O  Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1193, fols. 94v–100r (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1193"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1272, fols. 80<sup>r</sup>–89<sup>v</sup> (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1272\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "P  Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1272, fols. 80r–89v (11th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1272"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Rome, Biblioteca nazionale centrale, Sessor. 5 (alias XXIX, olim 118), fols. 162<sup>v</sup>–165<sup>v </sup>(11th cent.)</p>",
+      "line_text": "Q  Rome, Biblioteca nazionale centrale, Sessor. 5 (alias XXIX, olim 118), fols. 162v–165v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Vatican, Biblioteca apostolica Vaticana, Reg. lat. 539, fols. 116<sup>r</sup>–118<sup>v</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.541\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "R  Vatican, Biblioteca apostolica Vaticana, Reg. lat. 539, fols. 116r–118v (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.541"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Vatican, Biblioteca apostolica Vaticana, Reg. lat. 541, fols. 116<sup>r</sup>–? (13th/14th cent.)</p>",
+      "line_text": "S  Vatican, Biblioteca apostolica Vaticana, Reg. lat. 541, fols. 116r–? (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T </strong>Vatican, Biblioteca apostolica Vaticana, Barb. lat. XII 29, fols. 187<sup>r</sup>–? (11th cent.)</p>",
+      "line_text": "T Vatican, Biblioteca apostolica Vaticana, Barb. lat. XII 29, fols. 187r–? (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong>  Rome, Biblioteca Vallicelliana, I, fols. 206<sup>r</sup>–210<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "U  Rome, Biblioteca Vallicelliana, I, fols. 206r–210r (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1190, fols. 23<sup>r</sup>–28<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1190\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "V  Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1190, fols. 23r–28r (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1190"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong>  Amiatin. 2, fols. 291<sup>r</sup>–? (11th cent.)</p>",
+      "line_text": "W  Amiatin. 2, fols. 291r–? (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Florence, Laurent. Plut. XX 1. 2, fols. 167<sup>r</sup>–? (11th cent.)</p>",
+      "line_text": "X  Florence, Laurent. Plut. XX 1. 2, fols. 167r–? (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Florence, Laurent. conu. suppressi 298, fols. 112<sup>r</sup>–? (13th cent.)</p>",
+      "line_text": "Y  Florence, Laurent. conu. suppressi 298, fols. 112r–? (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  London, Add. 9959, fols. 31<sup>r</sup>–? (12th cent.)</p>",
+      "line_text": "Z  London, Add. 9959, fols. 31r–? (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Γ</strong>  London, Cotton. Nero E. I, fols. 242<sup>r</sup>–? (10th cent.)</p>",
+      "line_text": "Γ  London, Cotton. Nero E. I, fols. 242r–? (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Δ</strong>  Casin. 142, p. 20–? (11th cent.)</p>",
+      "line_text": "Δ  Casin. 142, p. 20–? (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Θ  Casin. 149, p. 32–? (11th cent.)</p>",
+      "line_text": "Θ  Casin. 149, p. 32–? (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lipsius-Bonnet also lists 37 manuscripts containing portions of the text, and another 13 that had yet to be assessed. The list below draws from <a href=\"http://bhlms.fltr.ucl.ac.be/\" target=\"_blank\" rel=\"noopener\">BHLms</a>:</p>",
+      "line_text": "Lipsius-Bonnet also lists 37 manuscripts containing portions of the text, and another 13 that had yet to be assessed. The list below draws from BHLms:",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://bhlms.fltr.ucl.ac.be/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Arras, Bibliothèque municipale, 961 (344), fols. 63<sup>r</sup>–64<sup>v</sup> (14th cent.) ~ <a href=\"https://portail.biblissima.fr/fr/ark:/43093/mdata64eb2edffe5abd4d93eb39923fb5b37bf07b777f\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Arras, Bibliothèque municipale, 961 (344), fols. 63r–64v (14th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://portail.biblissima.fr/fr/ark:/43093/mdata64eb2edffe5abd4d93eb39923fb5b37bf07b777f"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Arras, Bibliothèque municipale, 512 (600), fols. 127<sup>r</sup>–129<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Arras, Bibliothèque municipale, 512 (600), fols. 127r–129v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Arras, Bibliothèque municipale, 24 (813), fols. 118<sup>v</sup>–121<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Arras, Bibliothèque municipale, 24 (813), fols. 118v–121v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bourges, Bibliothèque municipale, 36, fols. 120<sup>r</sup>–122<sup>r</sup> (1400–1415) ~ <a href=\"https://portail.biblissima.fr/fr/ark:/43093/mdataf8b483680828eddbc72917b66f872b1b76204f7d\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Bourges, Bibliothèque municipale, 36, fols. 120r–122r (1400–1415) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://portail.biblissima.fr/fr/ark:/43093/mdataf8b483680828eddbc72917b66f872b1b76204f7d"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 64 (3129), fols. 117<sup>v</sup>–122<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 64 (3129), fols. 117v–122r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 98–100 (3132), fols. 36<sup>v</sup>–38<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 98–100 (3132), fols. 36v–38v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 380–382 (3137), fols. 85<sup>v</sup>–91<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 380–382 (3137), fols. 85v–91r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 5519–5526 (3170), fols. 58<sup>r</sup>–62<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 5519–5526 (3170), fols. 58r–62r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 7482 (3180), fols. 229<sup>r</sup>–230<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 7482 (3180), fols. 229r–230v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 8059, fols. 102<sup>v</sup>–106<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 8059, fols. 102v–106v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Koninklijke Bibliotheek van België, 11550–11555 (3233), fols. 97<sup>r</sup>–100<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Brussels, Koninklijke Bibliotheek van België, 11550–11555 (3233), fols. 97r–100v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Museum Bollandianum, 330, fols. 16<sup>r</sup>–22<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Brussels, Museum Bollandianum, 330, fols. 16r–22v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Châlons-sur-Marne, Bibliothèque municipale, 73, fols. 70<sup>r</sup>–76<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Châlons-sur-Marne, Bibliothèque municipale, 73, fols. 70r–76r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charleville-Mezieres, Bibliothèque municipale, 200, fols. 151<sup>v</sup>–155<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Charleville-Mezieres, Bibliothèque municipale, 200, fols. 151v–155r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charleville-Mezieres, Bibliothèque municipale, 254 III, fols. 5<sup>v</sup>–10<sup>r</sup> (1151)</p>",
+      "line_text": "Charleville-Mezieres, Bibliothèque municipale, 254 III, fols. 5v–10r (1151)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Chartres, Bibliothèque municipale, 190 (500 5/A), fols. 107<sup>r</sup>–107<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Chartres, Bibliothèque municipale, 190 (500 5/A), fols. 107r–107v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Chartres, Bibliothèque municipale, 473 t. I (511 5/B), fols. 245<sup>v</sup>–251<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Chartres, Bibliothèque municipale, 473 t. I (511 5/B), fols. 245v–251r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cologne, Historisches Archiv der stadt Köln, W. 320, fols. 23<sup>v</sup>–28<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Cologne, Historisches Archiv der stadt Köln, W. 320, fols. 23v–28r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Copenhagen, Kongelige bibliotek, 133 fol., fols. 100<sup>r</sup>–109<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Copenhagen, Kongelige bibliotek, 133 fol., fols. 100r–109r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Douai, Bibliothèque municipale, 836, fols. 154<sup>v</sup>–156<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Douai, Bibliothèque municipale, 836, fols. 154v–156r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Douai, Bibliothèque municipale, 837, fols. 7<sup>v</sup>–10<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Douai, Bibliothèque municipale, 837, fols. 7v–10r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Douai, Bibliothèque municipale, 853, fols. 67<sup>v</sup>–75<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Douai, Bibliothèque municipale, 853, fols. 67v–75v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Trinity College, 737 (olim G.04.16), fols. 1<sup>v</sup>–8<sup>v</sup> (9th and 12th/13th cent.)</p>",
+      "line_text": "Dublin, Trinity College, 737 (olim G.04.16), fols. 1v–8v (9th and 12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Heiligenkreuz, Stift Heiligenkreuz, 12, fols. 300<sup>v</sup>–303<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Heiligenkreuz, Stift Heiligenkreuz, 12, fols. 300v–303r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Le Mans, Bibliothèque municipale, 217, fols. 118<sup>v</sup>–121<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Le Mans, Bibliothèque municipale, 217, fols. 118v–121v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Liège, Université de Liège, 57 (210, t. I), fols. 26<sup>v</sup>–31<sup>r</sup> (1366)</p>",
+      "line_text": "Liège, Université de Liège, 57 (210, t. I), fols. 26v–31r (1366)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lucca, Bibliothèque capitulaire, codex A, fol. 1 (1151–1175)</p>",
+      "line_text": "Lucca, Bibliothèque capitulaire, codex A, fol. 1 (1151–1175)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lucca, Bibliothèque capitulaire, codex C, fols. 201<sup>r</sup>–203<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Lucca, Bibliothèque capitulaire, codex C, fols. 201r–203v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lucca, Bibliothèque capitulaire, codex D, fols. 45<sup>v</sup>–49<sup>r</sup> (1176–1200)</p>",
+      "line_text": "Lucca, Bibliothèque capitulaire, codex D, fols. 45v–49r (1176–1200)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lucca, Bibliothèque capitulaire, codex G, fols. 126<sup>r</sup>–129<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "Lucca, Bibliothèque capitulaire, codex G, fols. 126r–129r (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Melk, Stift Melk, M. 5, fols. 265<sup>v</sup>–295<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Melk, Stift Melk, M. 5, fols. 265v–295v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, A 251 inf., fols. 113<sup>r</sup>–117<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, A 251 inf., fols. 113r–117v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 55 inf., fols. 7<sup>v</sup>–12<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, B 55 inf., fols. 7v–12r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, D 22 inf., fols. 121<sup>v</sup>–127<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, D 22 inf., fols. 121v–127r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, G S III 12, fols. 24<sup>r</sup>–38<sup>v</sup> (1795)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, G S III 12, fols. 24r–38v (1795)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mons, Bibliothèque municipale, 26, 210, 8402, fols. 52<sup>v</sup>–56<sup>r</sup> (?) (13th cent.)</p>",
+      "line_text": "Mons, Bibliothèque municipale, 26, 210, 8402, fols. 52v–56r (?) (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Naples, Biblioteca Nazionale, codex XV.AA.12, fols. 113<sup>r</sup>–116<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Naples, Biblioteca Nazionale, codex XV.AA.12, fols. 113r–116v (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Naples, Biblioteca Nazionale, codex XV.AA.13, fols. 68<sup>r</sup>–71<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Naples, Biblioteca Nazionale, codex XV.AA.13, fols. 68r–71r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Novara, Biblioteca capitalore, I, fols. 251<sup>r</sup>–264<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Novara, Biblioteca capitalore, I, fols. 251r–264v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Add. D. 106 (SC 29645), fols. 126<sup>r</sup>–130<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Add. D. 106 (SC 29645), fols. 126r–130v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3278, fols. 28<sup>v</sup>–32<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 3278, fols. 28v–32v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5280, fols. 279<sup>r</sup>–280<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5280, fols. 279r–280v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5296, fols. 80<sup>v</sup>–82<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5296, fols. 80v–82r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5306, fols. 142<sup>v</sup>–144<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5306, fols. 142v–144v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5312, fols. 104<sup>r</sup>–107<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5312, fols. 104r–107r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5322, fols. 122<sup>r</sup>–126<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5322, fols. 122r–126r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5323, fols. 83<sup>r</sup>–85<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5323, fols. 83r–85r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5351, fols. 34<sup>r</sup>–38<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5351, fols. 34r–38v (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5357, fols. 167<sup>v</sup>–171<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5357, fols. 167v–171r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5565, fols. 1<sup>r</sup>–9<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5565, fols. 1r–9r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 10864, fols. 68<sup>v</sup>–73<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 10864, fols. 68v–73r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 11753, fols. 15<sup>r</sup>–19<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 11753, fols. 15r–19v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 11757, fols. 128<sup>r</sup>–131<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 11757, fols. 128r–131r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 13769, fols. 8<sup>r</sup>–13<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 13769, fols. 8r–13v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 14301, fols. 1<sup>r</sup>–3<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 14301, fols. 1r–3v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 14365, fols. 237<sup>r</sup>–243<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 14365, fols. 237r–243r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 16737, fols. 117<sup>v</sup>–120<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 16737, fols. 117v–120v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 16189, fols. 240<sup>v</sup>–241<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 16189, fols. 240v–241v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 16821, fols. 48<sup>r</sup>–50<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 16821, fols. 48r–50r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 17630, fols. 146<sup>v</sup>–151<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 17630, fols. 146v–151r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, N.A. lat. 2289, fols. 3<sup>r</sup>–10<sup>v</sup> (undated)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, N.A. lat. 2289, fols. 3r–10v (undated)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Basilica di San Giovanni in Laterno, A. 79 (Alias B), fols. 268<sup>v</sup>–272<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "Rome, Basilica di San Giovanni in Laterno, A. 79 (Alias B), fols. 268v–272r (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca nazionale centrale, Farf. 27 (alias 278), entire (12th cent.)</p>",
+      "line_text": "Rome, Biblioteca nazionale centrale, Farf. 27 (alias 278), entire (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, VII, fols. 170<sup>r</sup>–172<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, VII, fols. 170r–172v (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, XIII, entire (14th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, XIII, entire (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, XXIII, fols. 261<sup>r</sup>–263<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, XXIII, fols. 261r–263r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, XXIV, fols. 138<sup>v</sup>–144<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, XXIV, fols. 138v–144r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, XXV, fols. 259<sup>r</sup>–261<sup>v</sup>  (11th/12th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, XXV, fols. 259r–261v  (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rouen, Bibliothèque municipale, U 103, fols. 24<sup>r</sup>–29<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Rouen, Bibliothèque municipale, U 103, fols. 24r–29r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rouen, Bibliothèque municipale, U 134, fols. 85<sup>r</sup>–91<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Rouen, Bibliothèque municipale, U 134, fols. 85r–91r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint-Omer, Bibliothèque municipale, 715, fols. 5<sup>v</sup>–9<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Saint-Omer, Bibliothèque municipale, 715, fols. 5v–9v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Saint-Omer, Bibliothèque municipale, 716, fols. 8<sup>r</sup>–10<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Saint-Omer, Bibliothèque municipale, 716, fols. 8r–10v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Spoleto, ArchDuomo, légendier de San Brizio, fols. 118<sup>r</sup>–121<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Spoleto, ArchDuomo, légendier de San Brizio, fols. 118r–121v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Turin, Biblioteca nazionale universitaria, I. II. 17, fols. 318<sup>r</sup>–325<sup>r</sup> (14th/15th cent.)</p>",
+      "line_text": "Turin, Biblioteca nazionale universitaria, I. II. 17, fols. 318r–325r (14th/15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Turin, Biblioteca nazionale universitaria, K. II. 24, fols. 175<sup>r</sup>–182<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Turin, Biblioteca nazionale universitaria, K. II. 24, fols. 175r–182v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tours, Bibliothèque municipale, 157, fols. 24<sup>v</sup>–33<sup>r</sup> (1418)</p>",
+      "line_text": "Tours, Bibliothèque municipale, 157, fols. 24v–33r (1418)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Trier, Bistumsarchiv, 93 (102), fols. 78<sup>v</sup>–82<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "Trier, Bistumsarchiv, 93 (102), fols. 78v–82r (11th/12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Trier, Stadtbibliothek, 1151, III (964), fols. 83<sup>r</sup>–87<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Trier, Stadtbibliothek, 1151, III (964), fols. 83r–87v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana S.Maria.Magg., A, fols. 152<sup>r</sup>–155<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana S.Maria.Magg., A, fols. 152r–155v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Barb. lat. 586, fols. 186<sup>v</sup>–190<sup>r</sup> (10th/11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Barb.lat.586\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Barb. lat. 586, fols. 186v–190r (10th/11th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Barb.lat.586"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Borg. lat. 297, fols. 93<sup>v</sup>–96<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Borg. lat. 297, fols. 93v–96r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Reg. lat. 523, fols. 21<sup>r</sup>–23<sup>r</sup> (10th/11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.523\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Reg. lat. 523, fols. 21r–23r (10th/11th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.523"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Reg. lat. 622, fols. 53<sup>r</sup>–61<sup>v</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.622\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Reg. lat. 622, fols. 53r–61v (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.622"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1188, fols. 8<sup>r</sup>–11<sup>v</sup> (15th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1188\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Vat. lat. 1188, fols. 8r–11v (15th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1188"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Vat. lat. 6073, fols. 190<sup>v</sup>–194<sup>v</sup> (11th/12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.6073\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Vat. lat. 6073, fols. 190v–194v (11th/12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.6073"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Vat. lat. 6453, fols. 7<sup>r</sup>–11<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.6453\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Vat. lat. 6453, fols. 7r–11r (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.6453"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Vat. lat. 7816, fols. 155<sup>r</sup>–160<sup>r</sup> (17th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.7816\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Vat. lat. 7816, fols. 155r–160r (17th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.7816"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca apostolica Vaticana, Vat. lat. 9668, fols. 36<sup>v</sup>–41<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.9668\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "Vatican, Biblioteca apostolica Vaticana, Vat. lat. 9668, fols. 36v–41r (12th cent.) ~ DVL",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.9668"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Verdun, Bibliothèque municipale, 1, fols. 40<sup>r</sup>–40<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Verdun, Bibliothèque municipale, 1, fols. 40r–40v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, 336, fols. 389<sup>v</sup>–393<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, 336, fols. 389v–393r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zwettl, Ziesterzienserstift, 24, fols. 292<sup>v</sup>–295<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Zwettl, Ziesterzienserstift, 24, fols. 292v–295r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Eastman, David L. “Pseudo-Linus, Martyrdom of the Blessed Apostle Paul.” Pages 139–69 in <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on the edition of Lipsius).</p>",
+      "line_text": "Eastman, David L. “Pseudo-Linus, Martyrdom of the Blessed Apostle Paul.” Pages 139–69 in The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on the edition of Lipsius).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11059254?page=623\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lefèvre d’Étaples, Jacques. <em>S. Pauli Epistolae xiv. ex vulgata editione, adjecta intelligentia ex Graeco cum commentariis</em>. Paris: Ex officina Henrici Stephani, 1512 (text, pp. 265–68).</p>",
+      "line_text": "Lefèvre d’Étaples, Jacques. S. Pauli Epistolae xiv. ex vulgata editione, adjecta intelligentia ex Graeco cum commentariis. Paris: Ex officina Henrici Stephani, 1512 (text, pp. 265–68).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11059254?page=623"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n139/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. and Maximilien Bonnet, eds. <em>Acta apostolorum Apocrypha</em>. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Latin text based on , vol. 1, pp. 23–44; introduction, pp. xxiii–lv).</p>",
+      "line_text": "Lipsius, Richard A. and Maximilien Bonnet, eds. Acta apostolorum Apocrypha. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Latin text based on , vol. 1, pp. 23–44; introduction, pp. xxiii–lv).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n139/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Eastman, David L. “Pseudo-Linus, Martyrdom of the Blessed Apostle Paul.” Pages 139–69 in <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on the edition of Lipsius).</p>",
+      "line_text": "Eastman, David L. “Pseudo-Linus, Martyrdom of the Blessed Apostle Paul.” Pages 139–69 in The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015 (text and translation based on the edition of Lipsius).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n333/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 665–74).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 665–74).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n333/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (based on edition by Lipsius, vol. 2, pp. 289–96).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (based on edition by Lipsius, vol. 2, pp. 289–96).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Eastman, David L. <em>The Many Deaths of Peter and Paul. </em>OECS. Oxford: Oxford University Press, 2019.</p>",
+      "line_text": "Eastman, David L. The Many Deaths of Peter and Paul. OECS. Oxford: Oxford University Press, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap04lipsgoog/page/n95/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (see vol. 2.1:84–109, 142–73).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (see vol. 2.1:84–109, 142–73).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap04lipsgoog/page/n95/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Peebles, Rose Jeffries. <em>The Legend of Longinus in Ecclesiastical Tradition and in English Literature.</em> Baltimore: Furst, 1991 (pp. 5–31).</p>",
+      "line_text": "Peebles, Rose Jeffries. The Legend of Longinus in Ecclesiastical Tradition and in English Literature. Baltimore: Furst, 1991 (pp. 5–31).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. “Later Acts of the Apostles.” Pages 426–82 in <em>New Testament Apocrypha</em>. Vol. 2: <em>Writings Related to the Apostles, Apocalypses and Related Subjects</em>. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson. 6th ed. 2 vols. Louisville, KY: Westminster John Knox, 1992 (see p. 439).</p>",
+      "line_text": "Santos Otero, Aurelio de. “Later Acts of the Apostles.” Pages 426–82 in New Testament Apocrypha. Vol. 2: Writings Related to the Apostles, Apocalypses and Related Subjects. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson. 6th ed. 2 vols. Louisville, KY: Westminster John Knox, 1992 (see p. 439).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tajra, Harry W. <em>The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends</em>. WUNT 2/67. Tübingen: Mohr Siebeck, 1994.</p>",
+      "line_text": "Tajra, Harry W. The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends. WUNT 2/67. Tübingen: Mohr Siebeck, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

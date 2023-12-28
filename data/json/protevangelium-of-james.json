@@ -1,0 +1,1888 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/protevangelium-of-james/",
+  "nasscal_toc_title": "Protevangelium of James",
+  "filename": "protevangelium-of-james",
+  "latin_title": "Proteuangelium Iacobi",
+  "abbrev": "Prot. Jas.",
+  "alt_titles": [
+    "Protoevangelium of James",
+    "Proto-Gospel of James",
+    " Infancy Gospel of James",
+    " Gospel of James",
+    " Genesis Marias"
+  ],
+  "clavis_number": 611,
+  "category": "Infancy Gospels",
+  "compiler": ": Eric M. Vanden Eykel, Ferrum College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>See also the entry for the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/\">Arabic Infancy Gospel</a>.</p>",
+      "line_text": "See also the entry for the Arabic Infancy Gospel.",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/arabic-infancy-gospel/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 436, fols. 112<sup>r</sup>–121<sup>v </sup> (10th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 436, fols. 112r–121v  (10th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Garitte, Gérard. “ ‘Protevangelii Jacobi’ versio arabica antiquior.”<em> Mus</em> 86 (1973): 377–96 (from Sinai arab. 436).</p>",
+      "line_text": "Garitte, Gérard. “ ‘Protevangelii Jacobi’ versio arabica antiquior.” Mus 86 (1973): 377–96 (from Sinai arab. 436).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n265/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Studi e testi 118, 133, 146–147, 172. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (survey of Arabic manuscripts, vol. 1, pp. 224–25).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Studi e testi 118, 133, 146–147, 172. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (survey of Arabic manuscripts, vol. 1, pp. 224–25).",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n265/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>See also the manuscripts listed under <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\"><em>Life of Mary (West Syriac)</em></a>.</p>",
+      "line_text": "See also the manuscripts listed under Life of Mary (West Syriac).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-207/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mosul, Mar Behnam Monastery, 207 (olim 14), fol. 1<sup>r </sup>(17th cent.) ~ ending only</p>",
+      "line_text": "Mosul, Mar Behnam Monastery, 207 (olim 14), fol. 1r (17th cent.) ~ ending only",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-207/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 138<sup>r</sup>–159<sup>v</sup> (1440)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 138r–159v (1440)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>   Venice, Mekhitarist Monastery of San Lazzaro, V203 (olim 985)</p>",
+      "line_text": "A   Venice, Mekhitarist Monastery of San Lazzaro, V203 (olim 985)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>   Venice, Mekhitarist Monastery of San Lazzaro, V223 (olim 1447)</p>",
+      "line_text": "B   Venice, Mekhitarist Monastery of San Lazzaro, V223 (olim 1447)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>C</strong>   Venice, Mekhitarist Monastery of San Lazzaro, V201 (olim 1014)</p>",
+      "line_text": "C   Venice, Mekhitarist Monastery of San Lazzaro, V201 (olim 1014)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Conybeare, Frederick C. “Protevangelium Iacobi.”<em> AJT</em> 1 (1897): 424–42. English translation.</p>",
+      "line_text": "Conybeare, Frederick C. “Protevangelium Iacobi.” AJT 1 (1897): 424–42. English translation.",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>De Strycker, Émile. <em>La Forme la plus ancienne du Protévangile de Jacques</em>. SH 33. Bruxelles: Société des Bollandistes, 1961. Latin translations of A, B, and C pp. 439–73.</p>",
+      "line_text": "De Strycker, Émile. La Forme la plus ancienne du Protévangile de Jacques. SH 33. Bruxelles: Société des Bollandistes, 1961. Latin translations of A, B, and C pp. 439–73.",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Tayec‘i, E. <em>Ankanon girk‘ nor ktakaranac‘ </em>(Libri spurii Noui Testamenti). 2 vols. Venice, 1898<em>.</em> <em>Editio princeps</em> of A, B, and C in vol. 2, pp. 237–67.</p>",
+      "line_text": "Tayec‘i, E. Ankanon girk‘ nor ktakaranac‘ (Libri spurii Noui Testamenti). 2 vols. Venice, 1898. Editio princeps of A, B, and C in vol. 2, pp. 237–67.",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Terian, Abraham. <em>The Armenian Gospel of the Infancy with Three Early Versions of the Protevangelium of James</em>. Oxford and New York: Oxford University Press, 2008. New English translations of A, B, and C.</p>",
+      "line_text": "Terian, Abraham. The Armenian Gospel of the Infancy with Three Early Versions of the Protevangelium of James. Oxford and New York: Oxford University Press, 2008. New English translations of A, B, and C.",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Fragments published by Forbes Robinson (<a href=\"http://www.archive.org/details/copticapocrypha00robigoog\">Coptic Apocryphal Gospels</a>. Cambridge: Cambridge University Press, 1896) are now believed to belong to a <em>Homily on the Virgin</em> attributed to Cyril of Jerusalem.</p>",
+      "line_text": "Fragments published by Forbes Robinson (Coptic Apocryphal Gospels. Cambridge: Cambridge University Press, 1896) are now believed to belong to a Homily on the Virgin attributed to Cyril of Jerusalem.",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.archive.org/details/copticapocrypha00robigoog"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Däbrä Tabor, Bethlehem Church, no shelf number, pp. 2–23 (1398–1408)</p>",
+      "line_text": "Däbrä Tabor, Bethlehem Church, no shelf number, pp. 2–23 (1398–1408)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bombeck.de/stefan/einleitg.html#Einleitung\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bombeck, Stefan. <i>Die Geschichte der heiligen Maria in einer alten äthiopischen Handschrift</i>. 2 vols. Dortmund: Praxiswissen, 2004 and 2010 (facsimile of Däbrä Tabor manuscript, vol. 1, German translation, vol. 2).</p>",
+      "line_text": "Bombeck, Stefan. Die Geschichte der heiligen Maria in einer alten äthiopischen Handschrift. 2 vols. Dortmund: Praxiswissen, 2004 and 2010 (facsimile of Däbrä Tabor manuscript, vol. 1, German translation, vol. 2).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.bombeck.de/stefan/einleitg.html#Einleitung"
+      ]
+    },
+    {
+      "line_html": "<p>Chaine, Marius. <em>Apocrypha de Beata Maria Virgine</em>. CSCO 39 Aeth. 22. Rome: K. de Luigi, 1909 (pp. 3–19).</p>",
+      "line_text": "Chaine, Marius. Apocrypha de Beata Maria Virgine. CSCO 39 Aeth. 22. Rome: K. de Luigi, 1909 (pp. 3–19).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Garitte, G. “Le ‘Protévangile de Jacques’ en géorgien.”<em> Mus</em> 70 (1957): 233–65.</p>",
+      "line_text": "Garitte, G. “Le ‘Protévangile de Jacques’ en géorgien.” Mus 70 (1957): 233–65.",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cologny-bodmer-library-miscellaneous-codex/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cologny, Bodmer Library, Bodmer Miscellaneous Codex, P. Bodmer V (4th cent.)</p>",
+      "line_text": "Cologny, Bodmer Library, Bodmer Miscellaneous Codex, P. Bodmer V (4th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cologny-bodmer-library-miscellaneous-codex/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Ashmolean Museum, P. Ashmolean inv. 9 (4th cent.)</p>",
+      "line_text": "Oxford, Ashmolean Museum, P. Ashmolean inv. 9 (4th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, MS Gr. Th. g. I (P) (5th/6th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, MS Gr. Th. g. I (P) (5th/6th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Ashmolean Museum, P. Oxyrhynchus L 3524 (6th cent.)</p>",
+      "line_text": "Oxford, Ashmolean Museum, P. Oxyrhynchus L 3524 (6th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"http://www.psi-online.it/documents/psi;1;6\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Florence, Biblioteca Medicea Laurenziana, 13729 (PSI I 6) + 13730 (4th/5th cent.)</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, 13729 (PSI I 6) + 13730 (4th/5th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://www.psi-online.it/documents/psi;1;6"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cairo, Egyptian Museum, JE 85643 (SR 6P/1817) (4th cent.)</p>",
+      "line_text": "Cairo, Egyptian Museum, JE 85643 (SR 6P/1817) (4th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Bingen, J. “Protévangile de Jacques, XIII-XV (P. Ashmolean inv. 9).” <em>ChrEg </em>80 (2005): 210–14. <em>Editio princeps</em> of the Oxford MS.</p>",
+      "line_text": "Bingen, J. “Protévangile de Jacques, XIII-XV (P. Ashmolean inv. 9).” ChrEg 80 (2005): 210–14. Editio princeps of the Oxford MS.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pistelli, E. “Papiri evangelici.” <em>Studi Religiosi</em> 2 (1906): 129–40. <em>Editio princeps</em> of the Florence MS.</p>",
+      "line_text": "Pistelli, E. “Papiri evangelici.” Studi Religiosi 2 (1906): 129–40. Editio princeps of the Florence MS.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wayment, Thomas A. <em>The Text of the New Testament Apocrypha (100-400 CE)</em>. London: T&amp;T Clark, 2013. Images and editions of all four early MSS, pp. 51–79.</p>",
+      "line_text": "Wayment, Thomas A. The Text of the New Testament Apocrypha (100-400 CE). London: T&amp;T Clark, 2013. Images and editions of all four early MSS, pp. 51–79.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ladenheim, Alexander and Thomas A. Wayment. “A New Fragment of the <em>Protevangelium Jacobi</em>.”<em> HTR</em> 104 (2011): 381–84. <em>Editio princeps</em>  of the Cairo MS.</p>",
+      "line_text": "Ladenheim, Alexander and Thomas A. Wayment. “A New Fragment of the Protevangelium Jacobi.” HTR 104 (2011): 381–84. Editio princeps  of the Cairo MS.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>The Greek text of the <em>Protevangelium</em> exists in a daunting ca. 140 MSS. Most of these are catalogued in two doctoral dissertations from Duke University: Boyd Lee Daniels, “The Greek Manuscript Tradition of the Protevangelium Jacobi” (1956); and George T. Zervos, “Prolegomena to a Critical Edition of the Genesis Marias (Protevangelium Jacobi): The Greek Manuscripts” (1986). A definitive Greek critical edition of the text does not yet exist. Rather than list all of the MSS here, I present below the major Greek editions, in chronological order, with reference to the most significant MSS from which they draw.</p>",
+      "line_text": "The Greek text of the Protevangelium exists in a daunting ca. 140 MSS. Most of these are catalogued in two doctoral dissertations from Duke University: Boyd Lee Daniels, “The Greek Manuscript Tradition of the Protevangelium Jacobi” (1956); and George T. Zervos, “Prolegomena to a Critical Edition of the Genesis Marias (Protevangelium Jacobi): The Greek Manuscripts” (1986). A definitive Greek critical edition of the text does not yet exist. Rather than list all of the MSS here, I present below the major Greek editions, in chronological order, with reference to the most significant MSS from which they draw.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10179945_00001.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Postel, Guillaume. <em>Protevangelion, de seu de natalibus Iesu Christi et ipsius matris Virginis Mariae sermo historicus divi Iacobi Minoris. Evagelica historia quam scripsit B. Marcus. Vita Marei evengelistae collecta per Theodorum Bibliandrum</em>. Basel: Ioannis Oporini, 1552. Latin translation of an unidentified Greek MS, presumed lost. Introduction, pp. 13–23; text pp. 24–50.</p>",
+      "line_text": "Postel, Guillaume. Protevangelion, de seu de natalibus Iesu Christi et ipsius matris Virginis Mariae sermo historicus divi Iacobi Minoris. Evagelica historia quam scripsit B. Marcus. Vita Marei evengelistae collecta per Theodorum Bibliandrum. Basel: Ioannis Oporini, 1552. Latin translation of an unidentified Greek MS, presumed lost. Introduction, pp. 13–23; text pp. 24–50.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10179945_00001.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11108801_00052.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Heroldus, Johannes. <em>Orthodoxographa Theologiae Sacrosanctae ac syncerioris fidei Doctores Numero LXXVI</em>. Basel: Heinrich Petri 1555. Republication of Postel’s text, pp. 3–9.</p>",
+      "line_text": "Heroldus, Johannes. Orthodoxographa Theologiae Sacrosanctae ac syncerioris fidei Doctores Numero LXXVI. Basel: Heinrich Petri 1555. Republication of Postel’s text, pp. 3–9.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11108801_00052.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/993944\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Neander, Michel, ed. <em>Catechesis Martini Lutheri parva graeco-latina. </em>Basel: Ioannis Oporinum, 1557 (2nd ed. 1564; 3rd ed. 1567). The first Greek edition of the <em>Protevangelium</em> based on an unnamed MS, pp. 356–92.</p>",
+      "line_text": "Neander, Michel, ed. Catechesis Martini Lutheri parva graeco-latina. Basel: Ioannis Oporinum, 1557 (2nd ed. 1564; 3rd ed. 1567). The first Greek edition of the Protevangelium based on an unnamed MS, pp. 356–92.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/993944"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11116194_00005.html?zoom=0.55\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Schiller, 1703. A reprint of Neander’s Greek text, divided into chapters and presented alongside Guillaume Postel’s 1552 Latin translation, vol. 1, pp. 66–125.</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. Hamburg: Schiller, 1703. A reprint of Neander’s Greek text, divided into chapters and presented alongside Guillaume Postel’s 1552 Latin translation, vol. 1, pp. 66–125.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11116194_00005.html?zoom=0.55"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11298327_00103.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grynaeus, Johann J. <em>Monumenta S. Patrum Orthodoxographa, hoc est Theologiae sacrosanctae ac syncerioris fidei Doctores, numero circiter LXXXV.</em> Basel: Henric Petrina, 1569. Reprint of Neander’s Greek text with accompanying Latin translation, pp. 71–84.</p>",
+      "line_text": "Grynaeus, Johann J. Monumenta S. Patrum Orthodoxographa, hoc est Theologiae sacrosanctae ac syncerioris fidei Doctores, numero circiter LXXXV. Basel: Henric Petrina, 1569. Reprint of Neander’s Greek text with accompanying Latin translation, pp. 71–84.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11298327_00103.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=mIUNAAAAQAAJ&amp;printsec=frontcover&amp;dq=jones+new+and+full+method&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj8v7LTgfDdAhUJ0IMKHVknC04Q6AEIKTAA#v=onepage&amp;q=jones%20new%20and%20full%20method&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of settling the canonical authority of the New Testament</em>. 3 vols. London: J. Clark and R. Hett, 1726/1927. 2nd ed. Oxford: Clarendon Press, 1798. Reprint of Neander’s Greek text with accompanying English translation, vol. 2, pp. 86–109.</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of settling the canonical authority of the New Testament. 3 vols. London: J. Clark and R. Hett, 1726/1927. 2nd ed. Oxford: Clarendon Press, 1798. Reprint of Neander’s Greek text with accompanying English translation, vol. 2, pp. 86–109.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=mIUNAAAAQAAJ&printsec=frontcover&dq=jones+new+and+full+method&hl=en&sa=X&ved=0ahUKEwj8v7LTgfDdAhUJ0IMKHVknC04Q6AEIKTAA#v=onepage&q=jones%20new%20and%20full%20method&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Birch, Andreas, ed. <em>Auctarium codicis Apocryphi Novi Testamenti Fabriciani. </em>Havniae: Arntzen &amp; Hartier, 1804. The first “true” critical edition of the Greek text, which incorporated two Vatican MSS (gr. 455, 654) into Neander’s Greek text, pp. 197–242.</p>",
+      "line_text": "Birch, Andreas, ed. Auctarium codicis Apocryphi Novi Testamenti Fabriciani. Havniae: Arntzen &amp; Hartier, 1804. The first “true” critical edition of the Greek text, which incorporated two Vatican MSS (gr. 455, 654) into Neander’s Greek text, pp. 197–242.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Fb</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 455, fols. 201<sup>r</sup>–208<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67086/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Fb  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 455, fols. 201r–208r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67086/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>G</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 654, fols. 44<sup>v</sup>–54<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67285/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "G  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 654, fols. 44v–54r (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67285/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.numistral.fr/ark:/12148/bpt6k9100033f/f339.image.r=thilo\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Thilo, Johannes Carolus, ed. <em>Codex apocryphus Novi Testamenti. </em>Leipzig: Vogel, 1832. A critical edition drawing from Neander/Fabricius, Birch’s two Vatican MSS (gr. 455, 654), and seven additional MSS.</p>",
+      "line_text": "Thilo, Johannes Carolus, ed. Codex apocryphus Novi Testamenti. Leipzig: Vogel, 1832. A critical edition drawing from Neander/Fabricius, Birch’s two Vatican MSS (gr. 455, 654), and seven additional MSS.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.numistral.fr/ark:/12148/bpt6k9100033f/f339.image.r=thilo"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1454/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C</strong>  Paris, Bibliothèque nationale de France, gr.  1454, fols. 24<sup>v</sup>–30<sup>r</sup> (10th cent.)</p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, gr.  1454, fols. 24v–30r (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1454/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1215/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  Paris, Bibliothèque nationale de France, gr. 1215, fols. 10<sup>r</sup>–27<sup>v </sup> (1080)</p>",
+      "line_text": "D  Paris, Bibliothèque nationale de France, gr. 1215, fols. 10r–27v  (1080)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1215/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>E </strong> Paris, Bibliothèque nationale de France, gr. 1468, fols. 358<sup>r</sup>–364<sup>v</sup>  (11th cent.)</p>",
+      "line_text": "E  Paris, Bibliothèque nationale de France, gr. 1468, fols. 358r–364v  (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>I</strong>  Vienna, Österreichische Nationalbibliothek, Cod. theol. gr. 123, fols. 154<sup>r</sup>–159<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/71790/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "I  Vienna, Österreichische Nationalbibliothek, Cod. theol. gr. 123, fols. 154r–159r (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/71790/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong> <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 1190, fols. 40<sup>r</sup>–50<sup>v</sup> (1568)</p>",
+      "line_text": "L Paris, Bibliothèque nationale de France, gr. 1190, fols. 40r–50v (1568)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Paris, Bibliothèque nationale de France, gr. 1174, fols. 7<sup>v</sup>–16<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50776/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>, <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10722347t\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "M  Paris, Bibliothèque nationale de France, gr. 1174, fols. 7v–16v (12th cent.) ~ Pinakes, Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50776/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10722347t"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>N</strong>  Paris, Bibliothèque nationale de France, gr. 1176, fols. 12<sup>v</sup>–18<sup>v</sup> (13th cent.)</p>",
+      "line_text": "N  Paris, Bibliothèque nationale de France, gr. 1176, fols. 12v–18v (13th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus00gilegoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, J. A. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings</em>. London: D. Nutt, 1852. Reprint of Thilo’s Greek text, pp. 33–47.</p>",
+      "line_text": "Giles, J. A. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings. London: D. Nutt, 1852. Reprint of Thilo’s Greek text, pp. 33–47.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus00gilegoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/evangeliaapocry00tiscgoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin von. <em>Evangelia Apocrypha</em>. Leipzig: Mendelssohn, 1853; 2nd ed. 1876. Builds on the editions of Birch and Thilo by incorporating eight additional MSS, pp. 1–49.</p>",
+      "line_text": "Tischendorf, Constantin von. Evangelia Apocrypha. Leipzig: Mendelssohn, 1853; 2nd ed. 1876. Builds on the editions of Birch and Thilo by incorporating eight additional MSS, pp. 1–49.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/evangeliaapocry00tiscgoog"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Venice, Biblioteca Nazionale Marciana, II.82, fols. 1<sup>r</sup>–9<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Venice, Biblioteca Nazionale Marciana, II.82, fols. 1r–9r (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70244/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  Venice, Biblioteca Nazionale Marciana, gr. Z 363, fols. 3<sup>v</sup>–12<sup>r</sup> (11th cent. and 13th/14th cent.) ~ fols. 1–5 supplied by later copyist; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69834/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "B  Venice, Biblioteca Nazionale Marciana, gr. Z 363, fols. 3v–12r (11th cent. and 13th/14th cent.) ~ fols. 1–5 supplied by later copyist; Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/69834/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H </strong> Venice, Biblioteca Nazionale Marciana, II.20 (15th cent.)</p>",
+      "line_text": "H  Venice, Biblioteca Nazionale Marciana, II.20 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-152/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>K</strong>  Paris, Bibliothèque nationale de France, Coisl. 152, fols. 1<sup>r</sup>–2<sup>v </sup>(9th cent.) ~ fragment</p>",
+      "line_text": "K  Paris, Bibliothèque nationale de France, Coisl. 152, fols. 1r–2v (9th cent.) ~ fragment",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-152/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O </strong> Milan, Biblioteca Ambrosiana, A 63 inf. (=gr. 798), fols. 2<sup>r</sup>–16<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42187/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "O  Milan, Biblioteca Ambrosiana, A 63 inf. (=gr. 798), fols. 2r–16r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42187/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-c-92-sup/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P</strong>  Milan, Biblioteca Ambrosiana, C 92 sup. (Martini-Bassi 192), fols. 70<sup>v</sup>–75<sup>v </sup>(14th cent.)</p>",
+      "line_text": "P  Milan, Biblioteca Ambrosiana, C 92 sup. (Martini-Bassi 192), fols. 70v–75v (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-c-92-sup/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong>  Venice, Biblioteca Nazionale Marciana, VII.40, fols. 153<sup>r</sup>–158<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70557/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Q  Venice, Biblioteca Nazionale Marciana, VII.40, fols. 153r–158r (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70557/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dresden-sachsische-landesbibliothek-a-187/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>R</strong>  Dresden, Sächsische Landesbibliothek, A 187, part 2, pp. 276–295 (16th cent.)</p>",
+      "line_text": "R  Dresden, Sächsische Landesbibliothek, A 187, part 2, pp. 276–295 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dresden-sachsische-landesbibliothek-a-187/"
+      ]
+    },
+    {
+      "line_html": "<p>Testuz, Michel. <em>Papyrus Bodmer V: Nativité de Marie.</em> Geneva: Bibliotheca Bodmeriana, 1958. A transcription of the late-third or early-fourth century Papyrus Bodmer V, discovered in 1952 and considered the oldest extant copy of the <em>Protevangelium.</em></p>",
+      "line_text": "Testuz, Michel. Papyrus Bodmer V: Nativité de Marie. Geneva: Bibliotheca Bodmeriana, 1958. A transcription of the late-third or early-fourth century Papyrus Bodmer V, discovered in 1952 and considered the oldest extant copy of the Protevangelium.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>De Strycker, Émile. <em>La Forme la plus ancienne du Protévangile de Jacques</em>. SH 33. Bruxelles: Société des Bollandistes, 1961. The most extensive critical edition to date, which employs the Bodmer V MS as a base text and incorporates various Armenian, Coptic, Ethiopic, Georgian, Greek, and Latin witnesses.</p>",
+      "line_text": "De Strycker, Émile. La Forme la plus ancienne du Protévangile de Jacques. SH 33. Bruxelles: Société des Bollandistes, 1961. The most extensive critical edition to date, which employs the Bodmer V MS as a base text and incorporates various Armenian, Coptic, Ethiopic, Georgian, Greek, and Latin witnesses.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hock, Ronald F. <em>The Infancy Gospels of James and Thomas</em>. SB 2. Santa Rosa: Polebridge, 1995. A “hybrid” critical edition that draws from Tischendorf and, more significantly, de Strycker. Hock also incorporates P.Oxy. 3524, a sixth-century papyrus containing the penultimate verse and the epilogue of the <em>Protevangelium.</em> Hock’s edition is probably the most frequently cited in modern scholarly work on the <em>Protevangelium.</em></p>",
+      "line_text": "Hock, Ronald F. The Infancy Gospels of James and Thomas. SB 2. Santa Rosa: Polebridge, 1995. A “hybrid” critical edition that draws from Tischendorf and, more significantly, de Strycker. Hock also incorporates P.Oxy. 3524, a sixth-century papyrus containing the penultimate verse and the epilogue of the Protevangelium. Hock’s edition is probably the most frequently cited in modern scholarly work on the Protevangelium.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. and Zlatko Plêse. <em>The Apocryphal Gospels: Texts and Translations.</em> New York: Oxford University Press, 2011. Reprint of de Strycker’s text, with only minor variations.</p>",
+      "line_text": "Ehrman, Bart D. and Zlatko Plêse. The Apocryphal Gospels: Texts and Translations. New York: Oxford University Press, 2011. Reprint of de Strycker’s text, with only minor variations.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Zervos, George. <em>The Protevangelium of James. </em>2 vols. Jewish and Christian Texts in Context and Related Studies 17–18. London: Bloomsbury T&amp;T Clark, 2019–2022 (includes list of manuscripts and new critical edition based on P. Bodmer V, vol. 2, pp. 50–78; English translation, vol. 2, pp. 79–91; collation of variant readings, vol. 2, pp. 95–826).</p>",
+      "line_text": "Zervos, George. The Protevangelium of James. 2 vols. Jewish and Christian Texts in Context and Related Studies 17–18. London: Bloomsbury T&amp;T Clark, 2019–2022 (includes list of manuscripts and new critical edition based on P. Bodmer V, vol. 2, pp. 50–78; English translation, vol. 2, pp. 79–91; collation of variant readings, vol. 2, pp. 95–826).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Additional Manuscripts:</p>",
+      "line_text": "Additional Manuscripts:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-422/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 422, fols. 1<sup>r</sup>–5<sup>r </sup>(1546)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 422, fols. 1r–5r (1546)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-422/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1021/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1021, fols. 157<sup>r</sup>–169<sup>v</sup> (1518)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1021, fols. 157r–169v (1518)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1021/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2281, fols. 1<sup>r</sup>–9<sup>v</sup> (14th/15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4313/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2281, fols. 1r–9v (14th/15th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4313/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-metochion-tou-panagiou-taphou-594/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikē Bibliothēkē tēs Hellados, Metochion tou Panagiou Taphou 594, pp. 343–400 (15th/16th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, Metochion tou Panagiou Taphou 594, pp. 343–400 (15th/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-metochion-tou-panagiou-taphou-594/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Kalavryta, Monē Megalou Spēlaiou, 2, fols. 95<sup>r</sup>–114<sup>v</sup> (no date provided)</p>",
+      "line_text": "Kalavryta, Monē Megalou Spēlaiou, 2, fols. 95r–114v (no date provided)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cesena, Biblioteca Malatestiana, plut. D. XXVIII.2 (36), fol. 199 (9th cent.) ~ palimpest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12371/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://catalogoaperto.malatestiana.it/ricerca/?oldform=mostra_codice.jsp?CODICE_ID=147\" target=\"_blank\" rel=\"noopener\">images</a></p>",
+      "line_text": "Cesena, Biblioteca Malatestiana, plut. D. XXVIII.2 (36), fol. 199 (9th cent.) ~ palimpest; Pinakes; images",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12371/",
+        "http://catalogoaperto.malatestiana.it/ricerca/?oldform=mostra_codice.jsp?CODICE_ID=147"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cesena, Biblioteca Malatestiana, plut. D. XXVIII.3 (37), fol. 6 (9th cent.) ~ palimpsest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12372/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://catalogoaperto.malatestiana.it/ricerca/?oldform=mostra_codice.jsp?CODICE_ID=148\" target=\"_blank\" rel=\"noopener\">images</a></p>",
+      "line_text": "Cesena, Biblioteca Malatestiana, plut. D. XXVIII.3 (37), fol. 6 (9th cent.) ~ palimpsest; Pinakes; images",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12372/",
+        "http://catalogoaperto.malatestiana.it/ricerca/?oldform=mostra_codice.jsp?CODICE_ID=148"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/chicago-university-of-chicago-joseph-regenstein-library-938/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Chicago, University of Chicago, Joseph Regenstein Library, 938, fols. 59<sup>v</sup>–68<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "Chicago, University of Chicago, Joseph Regenstein Library, 938, fols. 59v–68r (11th/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/chicago-university-of-chicago-joseph-regenstein-library-938/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-hagiou-saba-226/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 226, fols. 137<sup>v</sup>–144<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 226, fols. 137v–144v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-hagiou-saba-226/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 10073, fols. 16<sup>r</sup>–29<sup>v</sup> (entire text with some additions), fols. 62<sup>r</sup>–67<sup>r</sup> (chs. 17–25 only) (16th cent.)</p>",
+      "line_text": "London, British Library, Add. 10073, fols. 16r–29v (entire text with some additions), fols. 62r–67r (chs. 17–25 only) (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 33<sup>r</sup>–40<sup>v</sup> (1039)</p>",
+      "line_text": "Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 33r–40v (1039)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Bibliothēkē tou Prōtatou (Karoues), 2, fols. 16<sup>r</sup>–16<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18031/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Bibliothēkē tou Prōtatou (Karoues), 2, fols. 16r–16v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18031/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Dionusiou, 168, fols. 74<sup>r</sup>–82<sup>r</sup> (17th cent.) ~ only fol. 82<sup>r</sup> remains; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20136/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271050318-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Athos, Monē Dionusiou, 168, fols. 74r–82r (17th cent.) ~ only fol. 82r remains; Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20136/",
+        "https://www.loc.gov/item/00271050318-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Esphigmenou, 44, fols. 73<sup>r</sup>–74<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/21675/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Esphigmenou, 44, fols. 73r–74v (12th/13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/21675/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Hagiou Panteleēmonos, 204, pp. 521–536 (19th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/22343/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Hagiou Panteleēmonos, 204, pp. 521–536 (19th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/22343/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Skētē Hagias Annēs, Kyriakou 14, fols. 40<sup>r</sup>–51<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/31508/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Skētē Hagias Annēs, Kyriakou 14, fols. 40r–51v (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/31508/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-491/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, St. Catherine’s Monastery, gr. 491, fols. 258<sup>r</sup>–281<sup>r</sup> (9th cent.)</p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, gr. 491, fols. 258r–281r (9th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-491/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, St. Catherine’s Monastery, gr. 497, fols. 40<sup>v</sup>–48<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Mount Sinai, St. Catherine’s Monastery, gr. 497, fols. 40v–48v (10th/11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-519/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 519, fols. 9<sup>r</sup>–13<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 519, fols. 9r–13v (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-519/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 539, fols. 163<sup>r</sup>–183<sup>v </sup>(17th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 539, fols. 163r–183v (17th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-539/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-barocci-180/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Oxford, Bodleian Library, Barocci 180, fols. 4<sup>r</sup>–10<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Barocci 180, fols. 4r–10v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-barocci-180/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Rawlinson G.4 [I], fols. 81<sup>v</sup>–83<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48342/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, Bodleian Library, Rawlinson G.4 [I], fols. 81v–83v (12th/13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48342/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Rawlinson G.4 [II], fols. 101<sup>r</sup>–118<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48342/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, Bodleian Library, Rawlinson G.4 [II], fols. 101r–118r (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48342/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, 380, fols. 1<sup>r</sup>–10<sup>r </sup>(16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54624/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, 380, fols. 1r–10r (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/54624/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Coislin 121,  fols. 8<sup>r</sup>–8<sup>v </sup>(1342/1343)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coislin 121,  fols. 8r–8v (1342/1343)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-443/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 443, fols. 25, 18 (9/10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 443, fols. 25, 18 (9/10th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-443/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 897, fols. 9, 10<sup>r</sup>–22<sup>v</sup> (12th cent.) ~ fol. 9 supplied by different hand; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50485/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10722137n\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 897, fols. 9, 10r–22v (12th cent.) ~ fol. 9 supplied by different hand; Pinakes; GALLICA",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50485/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10722137n"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1179a/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1179A, fols. 51, 19–22 (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1179A, fols. 51, 19–22 (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1179a/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. suppl. 1002, fol. 1 (9th/10th cent.) ~ palimpsest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/53649/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b110040294\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. suppl. 1002, fol. 1 (9th/10th cent.) ~ palimpsest; Pinakes; GALLICA",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/53649/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b110040294"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paros, Monē Longovardas, 679, fols. 87<sup>v</sup>–99<sup>r </sup>~ perhaps a copy of Neander’s edition</p>",
+      "line_text": "Paros, Monē Longovardas, 679, fols. 87v–99r ~ perhaps a copy of Neander’s edition",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 205, fols. 51, 71, 96, 103 (9th/10th cent.) ~ palimpsest; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65937/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Pal.gr.205\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 205, fols. 51, 71, 96, 103 (9th/10th cent.) ~ palimpsest; Pinakes; DigiVatLib",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65937/",
+        "https://digi.vatlib.it/view/MSS_Pal.gr.205"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 107, 16, 9, 110, 63, 30, 41, 94, 115 (11th cent.) ~ palimpsest</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 544, fols. 107, 16, 9, 110, 63, 30, 41, 94, 115 (11th cent.) ~ palimpsest",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-544/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 793, fols. 31<sup>r</sup>–35<sup>r</sup>, 195<sup>r</sup>–202<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67424/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 793, fols. 31r–35r, 195r–202r (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67424/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1192/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1192, fols. 34<sup>r</sup>–42<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1192, fols. 34r–42v (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1192/"
+      ]
+    },
+    {
+      "line_html": "<p>See also the entries for <em><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-pseudo-matthew/\">Gospel of Pseudo-Matthew</a></em>, the <em><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/book-about-the-birth-of-the-savior-latin-infancy-gospel/\">Book about the Birth of the Savior</a></em>, and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/nativity-of-mary/\"><em>Nativity of Mary</em></a>.<em><br/></em></p>",
+      "line_text": "See also the entries for Gospel of Pseudo-Matthew, the Book about the Birth of the Savior, and the Nativity of Mary.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-pseudo-matthew/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/book-about-the-birth-of-the-savior-latin-infancy-gospel/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/nativity-of-mary/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 179<sup>r</sup>–183<sup>v </sup>(ca. 800)</p>",
+      "line_text": "Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 179r–183v (ca. 800)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
+      ]
+    },
+    {
+      "line_html": "<p>Aldama, Jose Antonio de. “Fragmentos de una versión latina del Protoevangelio de Santiago y una nueva adaptación de sus primeros capítulos.”<em> Bib</em> 43 (1962): 57–74.</p>",
+      "line_text": "Aldama, Jose Antonio de. “Fragmentos de una versión latina del Protoevangelio de Santiago y una nueva adaptación de sus primeros capítulos.” Bib 43 (1962): 57–74.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Beyers, Rita. “Latin Translation of the Protevangelium of James in MS. Paris, Sainte-Geneviève, 2787.” Pages 881–957 in <em>Apocrypha Hibernia I Evangelia Infantiae</em>. Edited by Martin McNamara. Turnhout: Brepols, 2001.</p>",
+      "line_text": "Beyers, Rita. “Latin Translation of the Protevangelium of James in MS. Paris, Sainte-Geneviève, 2787.” Pages 881–957 in Apocrypha Hibernia I Evangelia Infantiae. Edited by Martin McNamara. Turnhout: Brepols, 2001.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>de Strycker, Émile. “Une ancienne version latine de Protévangile de Jacques avec des extraits de la Vulgate de Matthieu 1-2 et Luc 1-2.”<em> AnBoll </em>(1965): 365–402.</p>",
+      "line_text": "de Strycker, Émile. “Une ancienne version latine de Protévangile de Jacques avec des extraits de la Vulgate de Matthieu 1-2 et Luc 1-2.” AnBoll (1965): 365–402.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Vattioni, F. “Frammento latino del Vangelo di Giacomo.”<em> Aug</em> 17 (1977): 505–509.</p>",
+      "line_text": "Vattioni, F. “Frammento latino del Vangelo di Giacomo.” Aug 17 (1977): 505–509.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lavrov, P. A. “Apocryphal Texts” (in Russian). <em>Sbornik otdelenija russkago jazyka i slovenosti Imperstorskoj Akademii Nauk</em> 67 (1899): 52–69.</p>",
+      "line_text": "Lavrov, P. A. “Apocryphal Texts” (in Russian). Sbornik otdelenija russkago jazyka i slovenosti Imperstorskoj Akademii Nauk 67 (1899): 52–69.",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Novakovic, S. “[The Apocryphal Proto-Gospel of James].”<em> Starine</em> 10 (1878): 61–71.</p>",
+      "line_text": "Novakovic, S. “[The Apocryphal Proto-Gospel of James].” Starine 10 (1878): 61–71.",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed vol. 2 pp. 1–32).</p>",
+      "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed vol. 2 pp. 1–32).",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Porfirjev, I. I. “[Apocryphal Sayings about New Testament People and Events in Manuscripts of the Solovetski Library].”<em> Nauk</em> 52 (1890): 10–13, 136–48.</p>",
+      "line_text": "Porfirjev, I. I. “[Apocryphal Sayings about New Testament People and Events in Manuscripts of the Solovetski Library].” Nauk 52 (1890): 10–13, 136–48.",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pypin, Alexander Nikolaevich. <em>[False and Dismissed Books of Ancient Russia].</em> St. Petersburg, 1862.</p>",
+      "line_text": "Pypin, Alexander Nikolaevich. [False and Dismissed Books of Ancient Russia]. St. Petersburg, 1862.",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Radovich, Natalino. <em>Un frammento slavo del Protevangelio di Giacomo.</em> Naples: 1st. Univ. Orientale, 1969. (Cod. glag. Lub. C 163a/2 II)</p>",
+      "line_text": "Radovich, Natalino. Un frammento slavo del Protevangelio di Giacomo. Naples: 1st. Univ. Orientale, 1969. (Cod. glag. Lub. C 163a/2 II)",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-university-library-or-1287/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, University Library, Or. 1287, lower text fols. 54, 78, 21/17, 18, 79, 55, 53 (upper text 9th/10th cent.; lower script, 5th/6th cent.)</p>",
+      "line_text": "Cambridge, University Library, Or. 1287, lower text fols. 54, 78, 21/17, 18, 79, 55, 53 (upper text 9th/10th cent.; lower script, 5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-university-library-or-1287/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14484/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 14484 (6th cent.)</p>",
+      "line_text": "London, British Library, Add. 14484 (6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14484/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10-mount-sinai-mone-tes-hagias-aikaterines-m26n-sp-78/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fol. 1<sup>r</sup>–1<sup>v</sup>  (5th/6th cent.)</p>",
+      "line_text": "Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fol. 1r–1v  (5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10-mount-sinai-mone-tes-hagias-aikaterines-m26n-sp-78/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-arab-514-london-and-oslo-schoyen-collection-ms-579/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 514 + London and Oslo, Schøyen Collection, MS 579, fols. 15, 22, 49 (6th cent. palimpsest)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 514 + London and Oslo, Schøyen Collection, MS 579, fols. 15, 22, 49 (6th cent. palimpsest)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-arab-514-london-and-oslo-schoyen-collection-ms-579/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-588/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 588, lower text fols. 57<sup>r</sup>, 57<sup>v</sup>, 60<sup>r</sup>, 60<sup>v</sup>, 61<sup>r</sup>, 61<sup>v</sup>, 67<sup>r</sup>, 68<sup>r</sup>, 68<sup>v</sup>, 69<sup>r</sup>, 69<sup>v</sup> (5th/6th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 588, lower text fols. 57r, 57v, 60r, 60v, 61r, 61v, 67r, 68r, 68v, 69r, 69v (5th/6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-588/"
+      ]
+    },
+    {
+      "line_html": "<p>See also the manuscripts listed under <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\"><em>Life of Mary (West Syriac)</em></a> and <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-the-virgin-east-syriac/\"><em>History of the Virgin (East Syriac)</em></a>.</p>",
+      "line_text": "See also the manuscripts listed under Life of Mary (West Syriac) and History of the Virgin (East Syriac).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-the-virgin-east-syriac/"
+      ]
+    },
+    {
+      "line_html": "<p>Baars, W. and J. Helderman. “Neue Materielen zum Text und zur Interpretation des Kindheitsevangeliums des Pseudo-Thomas.” <em>OrChr</em> 77 (1993): 191–226; 78 (1994): 1–32. Includes description of Göttingen, Universitätsbibl<em>.,</em> syr. 10 with a collation of the <em>Infancy Gospel of Thomas</em> material from the MS.</p>",
+      "line_text": "Baars, W. and J. Helderman. “Neue Materielen zum Text und zur Interpretation des Kindheitsevangeliums des Pseudo-Thomas.” OrChr 77 (1993): 191–226; 78 (1994): 1–32. Includes description of Göttingen, Universitätsbibl., syr. 10 with a collation of the Infancy Gospel of Thomas material from the MS.",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/historyblessedv01philgoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. Wallis. <em>The History of the Blessed Virgin Mary and the History of the Likeness of Christ</em>. 2 vols. London: Luzac &amp; Co., 1899. First publication of the East Syriac <em>Life of Mary</em> from two manuscripts.</p>",
+      "line_text": "Budge, E. A. Wallis. The History of the Blessed Virgin Mary and the History of the Likeness of Christ. 2 vols. London: Luzac &amp; Co., 1899. First publication of the East Syriac Life of Mary from two manuscripts.",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/historyblessedv01philgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Desreumaux, Alain. “Deux anciens manuscrits syriaques d’oeuvres apocryphes dans le nouveau fonds de Sainte-Catharine du Sinaï: La <em>Vie de la Vierge</em> et Les <em>Actes d’André et Mathias</em>.” <em>Apocrypha</em> 20 (2009): 115–36. Additional pages from Göttingen, Universitätsbibl., syr. 10 found at St. Catharine’s Monastery.</p>",
+      "line_text": "Desreumaux, Alain. “Deux anciens manuscrits syriaques d’oeuvres apocryphes dans le nouveau fonds de Sainte-Catharine du Sinaï: La Vie de la Vierge et Les Actes d’André et Mathias.” Apocrypha 20 (2009): 115–36. Additional pages from Göttingen, Universitätsbibl., syr. 10 found at St. Catharine’s Monastery.",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphasyriaca00lewiuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Smith Lewis, Agnes.<em> Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the fifth and other centuries</em>. Studia Sinaitica 11. London: C. J. Clay, 1902. <em>Editio princeps</em> of Cambridge University Library, Or. 1287.</p>",
+      "line_text": "Smith Lewis, Agnes. Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the fifth and other centuries. Studia Sinaitica 11. London: C. J. Clay, 1902. Editio princeps of Cambridge University Library, Or. 1287.",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphasyriaca00lewiuoft"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=nnc1.0040440435;view=1up;seq=5\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William. <em>Contributions to the Apocryphal Literature of the New Testament.</em> London: Williams &amp; Norgate, 1865. <em>Editio princeps</em> of London, Brit. Libr., <em>Add. 14484</em> with English translation).</p>",
+      "line_text": "Wright, William. Contributions to the Apocryphal Literature of the New Testament. London: Williams &amp; Norgate, 1865. Editio princeps of London, Brit. Libr., Add. 14484 with English translation).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=nnc1.0040440435;view=1up;seq=5"
+      ]
+    },
+    {
+      "line_html": "<p>Cameron, Ron. <em>The Other Gospels: Noncanonical Gospel Texts</em>. Philadelphia: Westminster, 1982. Reprint of Oscar Cullmann’s and A. J. B. Higgins’ 1963 translation of Papyrus Bodmer V, pp. 107–21.</p>",
+      "line_text": "Cameron, Ron. The Other Gospels: Noncanonical Gospel Texts. Philadelphia: Westminster, 1982. Reprint of Oscar Cullmann’s and A. J. B. Higgins’ 1963 translation of Papyrus Bodmer V, pp. 107–21.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospel00cowp\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cowper, B. Harris. <em>The Apocryphal Gospels and Other Documents Relating to the History of Christ</em>. 4th ed. 1867. London: Frederic Norgate, 1874. Translation of Tischendorf’s 1876 Greek text, pp. 1–26.</p>",
+      "line_text": "Cowper, B. Harris. The Apocryphal Gospels and Other Documents Relating to the History of Christ. 4th ed. 1867. London: Frederic Norgate, 1874. Translation of Tischendorf’s 1876 Greek text, pp. 1–26.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospel00cowp"
+      ]
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. <em>Lost Scriptures: Books that did not make it into the New Testament. </em>Oxford: Oxford University Press, 2003. Translation of Émile de Strycker’s 1961 edition, pp. 63–72.</p>",
+      "line_text": "Ehrman, Bart D. Lost Scriptures: Books that did not make it into the New Testament. Oxford: Oxford University Press, 2003. Translation of Émile de Strycker’s 1961 edition, pp. 63–72.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. and Zlatko Pleše. <em>The Other Gospels: Accounts of Jesus from Outside the New Testament</em>. Oxford: Oxford University Press, 2014. Translation of Émile de Strycker’s 1961 critical edition, pp. 18–36.</p>",
+      "line_text": "Ehrman, Bart D. and Zlatko Pleše. The Other Gospels: Accounts of Jesus from Outside the New Testament. Oxford: Oxford University Press, 2014. Translation of Émile de Strycker’s 1961 critical edition, pp. 18–36.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993. Translation of Tischendorf’s 1876 Greek text, pp. 48–67.</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993. Translation of Tischendorf’s 1876 Greek text, pp. 48–67.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>___________, and Patricia M. Rumsey, eds. and trans. <em>The Protevangelium of James: Critical Edition, with translation and commentary. </em>Brepols Library of Christian Sources 3. Turnhout: Brepols, 2022.</p>",
+      "line_text": "___________, and Patricia M. Rumsey, eds. and trans. The Protevangelium of James: Critical Edition, with translation and commentary. Brepols Library of Christian Sources 3. Turnhout: Brepols, 2022.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00wakegoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hone, William. <em>The Apocryphal New Testament. </em>London: Ludgate Hille, 1820. Reprint of Jeremiah Jones’s translation of the Neander/Grynaeus Greek text, pp. 24–37.</p>",
+      "line_text": "Hone, William. The Apocryphal New Testament. London: Ludgate Hille, 1820. Reprint of Jeremiah Jones’s translation of the Neander/Grynaeus Greek text, pp. 24–37.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00wakegoog"
+      ]
+    },
+    {
+      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953. Translation of Tischendorf’s 1876 Greek text, pp. 38–49.</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953. Translation of Tischendorf’s 1876 Greek text, pp. 38–49.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00jonegoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament</em>. 3 vols. 1726. Repr., Oxford: Clarendon Press, 1827. Translation of the Neander/Grynaeus Greek text; vol. 2, pp. 86–109.</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. 3 vols. 1726. Repr., Oxford: Clarendon Press, 1827. Translation of the Neander/Grynaeus Greek text; vol. 2, pp. 86–109.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00jonegoog"
+      ]
+    },
+    {
+      "line_html": "<p>Miller, Robert J. <em>The Complete Gospels. </em>Sonoma: Polebridge Press, 1992. Draft translation by Ronald F. Hock, pp. 373–89.</p>",
+      "line_text": "Miller, Robert J. The Complete Gospels. Sonoma: Polebridge Press, 1992. Draft translation by Ronald F. Hock, pp. 373–89.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Vuong, Lily. <em>The Protevangelium of James.</em> Early Christian Apocrypha 7. Eugene, OR: Cascade Books, 2019 (introduction and translation based primarily on the Bodmer Miscellaneous Codex).</p>",
+      "line_text": "Vuong, Lily. The Protevangelium of James. Early Christian Apocrypha 7. Eugene, OR: Cascade Books, 2019 (introduction and translation based primarily on the Bodmer Miscellaneous Codex).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Zervos, George. <em>The Protevangelium of James. </em>2 vols. Jewish and Christian Texts in Context and Related Studies 17–18. London: Bloomsbury T&amp;T Clark, 2019–2022 (English translation of P. Bodmer V, vol. 2, pp. 79–91).</p>",
+      "line_text": "Zervos, George. The Protevangelium of James. 2 vols. Jewish and Christian Texts in Context and Related Studies 17–18. London: Bloomsbury T&amp;T Clark, 2019–2022 (English translation of P. Bodmer V, vol. 2, pp. 79–91).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/leprotvangiled00aman\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Amann, Émile. <em>Le Protévangile de Jacques et ses remaniements latins: Introduction, textes, traduction et commentaire</em>. Les apocryphes du Nouveau Testament. Paris: Letouzey et Ané, 1910.</p>",
+      "line_text": "Amann, Émile. Le Protévangile de Jacques et ses remaniements latins: Introduction, textes, traduction et commentaire. Les apocryphes du Nouveau Testament. Paris: Letouzey et Ané, 1910.",
+      "language": ". French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/leprotvangiled00aman"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesvangilesapoc01thilgoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Brunet, Pierre Gustav. <em>Les évangiles apocryphes: Traduits et annotés d’après l’édition de J. C. Thilo</em>. Paris: Franck, 1848. Translation of Thilo’s Greek text, pp. 111–137.</p>",
+      "line_text": "Brunet, Pierre Gustav. Les évangiles apocryphes: Traduits et annotés d’après l’édition de J. C. Thilo. Paris: Franck, 1848. Translation of Thilo’s Greek text, pp. 111–137.",
+      "language": ". French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/lesvangilesapoc01thilgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Frey, Albert. “Protévangile de Jacques.” Pages 71–104 in <em>Écrits apocryphes chrétiens</em>, vol. 1. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997.</p>",
+      "line_text": "Frey, Albert. “Protévangile de Jacques.” Pages 71–104 in Écrits apocryphes chrétiens, vol. 1. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997.",
+      "language": ". French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedes03unkngoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989. Translation of Tischendorf’s Greek text, , vol. 1, col. 1009–28.</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989. Translation of Tischendorf’s Greek text, , vol. 1, col. 1009–28.",
+      "language": ". French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedes03unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11346831_00045.html\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Borberg, Karl Friedrich. <em>Bibliothek der neutestamentlichen Apokryphen, gesammelt, übersetzt, und erläutert</em>. Stuttgart: Literatur-Comptoir, 1841 (vol. 1, pp. 9–56).</p>",
+      "line_text": "Borberg, Karl Friedrich. Bibliothek der neutestamentlichen Apokryphen, gesammelt, übersetzt, und erläutert. Stuttgart: Literatur-Comptoir, 1841 (vol. 1, pp. 9–56).",
+      "language": ". German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11346831_00045.html"
+      ]
+    },
+    {
+      "line_html": "<p>Cullmann, Oscar. “Kindheistevangelien.” Pages 272–311 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 1. <em>Evangelien und Verwandtes</em>. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1959.  English translation: “Infancy Gospels.” Pages 363–417 in <em>New Testament Apocrypha</em>, Vol. 1,<em> Gospels and Related Writings</em>. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Translated by R. McL. Wilson. 3rd ed. London: Luttersworth Press, 1963.</p>",
+      "line_text": "Cullmann, Oscar. “Kindheistevangelien.” Pages 272–311 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1. Evangelien und Verwandtes. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1959.  English translation: “Infancy Gospels.” Pages 363–417 in New Testament Apocrypha, Vol. 1, Gospels and Related Writings. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Translated by R. McL. Wilson. 3rd ed. London: Luttersworth Press, 1963.",
+      "language": ". German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Cullmann, Oscar. “Kindheistevangelien.” Pages 330–72 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 1. <em>Evangelien und Verwandtes</em>. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “Infancy Gospels.” Pages 414–69 in <em>New Testament Apocrypha</em>, Vol. 1,<em> Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, Ky.: Westminster John Knox, 1991.</p>",
+      "line_text": "Cullmann, Oscar. “Kindheistevangelien.” Pages 330–72 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1. Evangelien und Verwandtes. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “Infancy Gospels.” Pages 414–69 in New Testament Apocrypha, Vol. 1, Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, Ky.: Westminster John Knox, 1991.",
+      "language": ". German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/handbuchzudenne00henngoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Meyer, Arnold. “Protevangelium des Jakobus.” Pages 106–31 in <em>Handbuch zu den Neutestamentlichen Apockryphen</em>. Edited by Edgar Hennecke. Tübingen: Mohr, 1904.</p>",
+      "line_text": "Meyer, Arnold. “Protevangelium des Jakobus.” Pages 106–31 in Handbuch zu den Neutestamentlichen Apockryphen. Edited by Edgar Hennecke. Tübingen: Mohr, 1904.",
+      "language": ". German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/handbuchzudenne00henngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Michaelis, Wilhelm. <em>Die Apocryphen Schriften zum Neuen Testament</em>. 2d ed. Sammlung Dietrich 129. Bremen: Carl Schunemann, 1956. Translation of Tischendorf’s 1876 Greek text, pp. 62–95.</p>",
+      "line_text": "Michaelis, Wilhelm. Die Apocryphen Schriften zum Neuen Testament. 2d ed. Sammlung Dietrich 129. Bremen: Carl Schunemann, 1956. Translation of Tischendorf’s 1876 Greek text, pp. 62–95.",
+      "language": ". German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Pellegrini, Silvia. “Das Protevangelium des Jakobus.” Pages 903–29 in vol. 1.2 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Pellegrini, Silvia. “Das Protevangelium des Jakobus.” Pages 903–29 in vol. 1.2 of Antike christliche Apokryphen in deutscher Übersetzung. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.",
+      "language": ". German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981, vol. 1.2, pp. 7–43.</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981, vol. 1.2, pp. 7–43.",
+      "language": ". Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n29\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1:61–87).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1:61–87).",
+      "language": ". Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n29"
+      ]
+    },
+    {
+      "line_html": "<p>Pistelli, Ermenengildo. <em>Il Protevangelo di Jacopo. </em>Lanciano: 1909. Translation of Tischendorf’s 1876 Greek text.</p>",
+      "line_text": "Pistelli, Ermenengildo. Il Protevangelo di Jacopo. Lanciano: 1909. Translation of Tischendorf’s 1876 Greek text.",
+      "language": ". Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rotunno, Clelia and Enrico Bartoletti. <em>Il Protevangelo di Giacomo</em>. Venice: Neri Pozza, 1950. Translation of Tischendorf’s 1876 Greek text.</p>",
+      "line_text": "Rotunno, Clelia and Enrico Bartoletti. Il Protevangelo di Giacomo. Venice: Neri Pozza, 1950. Translation of Tischendorf’s 1876 Greek text.",
+      "language": ". Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Thomassen, Einar and Halvor Moxnes, eds. <em>Apokryfe evangelier</em>. Verdens Hellige Skrifter. Oslo: De norske bokklubbene, 2001 (pp. 131–57).</p>",
+      "line_text": "Thomassen, Einar and Halvor Moxnes, eds. Apokryfe evangelier. Verdens Hellige Skrifter. Oslo: De norske bokklubbene, 2001 (pp. 131–57).",
+      "language": "Norwegian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>De Santos Otero, Aurelio. Pages 57–73 in <em>Los Evangelios Apócrifos</em>. 2nd ed. Madrid: Biblioteca de Autores Christianos, 1963.</p>",
+      "line_text": "De Santos Otero, Aurelio. Pages 57–73 in Los Evangelios Apócrifos. 2nd ed. Madrid: Biblioteca de Autores Christianos, 1963.",
+      "language": ". Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Aldama, Jose Antonio de. “El Protoevangelio de Santiago y sus problemas.”<em> Mar.</em> 12 (1962): 107–30.</p>",
+      "line_text": "Aldama, Jose Antonio de. “El Protoevangelio de Santiago y sus problemas.” Mar. 12 (1962): 107–30.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Polyplousios dans le Protévangile de Jacques et l’Adversus haereses d’Irénée.”<em> RSR</em> 50 (1962): 86–89.</p>",
+      "line_text": "___________. “Polyplousios dans le Protévangile de Jacques et l’Adversus haereses d’Irénée.” RSR 50 (1962): 86–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>María en la patrística de los siglos I y II.</em> Madrid: La Editorial Católica, 1970.</p>",
+      "line_text": "___________. María en la patrística de los siglos I y II. Madrid: La Editorial Católica, 1970.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Un nuevo testigo indirecto del Protoevangelio de Santiago.”<em> Studia Patristica</em> 12 (1975): 79–82.</p>",
+      "line_text": "___________. “Un nuevo testigo indirecto del Protoevangelio de Santiago.” Studia Patristica 12 (1975): 79–82.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Allen, John L. “The ‘Protevangelium of James’ as an ‘Historia’: The Insufficiency of the ‘Infancy Gospel’ Category.” Pages 508–17 in <em>Society of Biblical Literature 1991 Seminar Papers</em>. SBLSP 30. Atlanta, GA: Scholars Press, 1991.</p>",
+      "line_text": "Allen, John L. “The ‘Protevangelium of James’ as an ‘Historia’: The Insufficiency of the ‘Infancy Gospel’ Category.” Pages 508–17 in Society of Biblical Literature 1991 Seminar Papers. SBLSP 30. Atlanta, GA: Scholars Press, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ashley, Kathleen and Pamela Sheingorn, eds. <em>Interpreting Cultural Symbols: Saint Anne in Late Medieval Society. </em>Athens, GA: University of Georgia Press, 1990.</p>",
+      "line_text": "Ashley, Kathleen and Pamela Sheingorn, eds. Interpreting Cultural Symbols: Saint Anne in Late Medieval Society. Athens, GA: University of Georgia Press, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Avner, Rina. “The Initial Celebration of the Theotokos at the Kathisma: Earliest Celebrations and the Calendar.” Pages 9–29 in <em>The Cult of the Mother of God in Byzantium: Texts and Images</em>. Edited by Leslie Brubaker and Mary B. Cunningham. Farnham: Ashgate Publishing Limited, 2011.</p>",
+      "line_text": "Avner, Rina. “The Initial Celebration of the Theotokos at the Kathisma: Earliest Celebrations and the Calendar.” Pages 9–29 in The Cult of the Mother of God in Byzantium: Texts and Images. Edited by Leslie Brubaker and Mary B. Cunningham. Farnham: Ashgate Publishing Limited, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Backus, Irena. “Guillaume Postel, Théodore Bibiander et le ‘Protévangile de Jacques’.”<em> Apocrypha</em> 6 (1995): 7–65.</p>",
+      "line_text": "Backus, Irena. “Guillaume Postel, Théodore Bibiander et le ‘Protévangile de Jacques’.” Apocrypha 6 (1995): 7–65.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bacon, Benjamin W., Andrew C. Zenos et al. “The Supernatural Birth of Jesus.”<em> AJT</em> 10 (1906): 1–30.</p>",
+      "line_text": "Bacon, Benjamin W., Andrew C. Zenos et al. “The Supernatural Birth of Jesus.” AJT 10 (1906): 1–30.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Barker, Margaret. <em>Christmas: The Original Story.</em> London: Society for Promoting Christian Knowledge, 2008.</p>",
+      "line_text": "Barker, Margaret. Christmas: The Original Story. London: Society for Promoting Christian Knowledge, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bauckham, Richard. <em>Jude and the Relatives of Jesus in the Early Church.</em> Edinburgh: T&amp;T Clark, 1990.</p>",
+      "line_text": "Bauckham, Richard. Jude and the Relatives of Jesus in the Early Church. Edinburgh: T&amp;T Clark, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Salome the Sister of Jesus, Salome the Disciple of Jesus, and the Secret Gospel of Mark.”<em> NovT</em> 33 (1991): 245–75.</p>",
+      "line_text": "___________. “Salome the Sister of Jesus, Salome the Disciple of Jesus, and the Secret Gospel of Mark.” NovT 33 (1991): 245–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bauer, Walter. <em>Das Leben Jesu im Zeitalter der neutestamentlichen Apokryphen.</em> Darmstadt: Wissenschaftliche Buchgesellschaft, 1967.</p>",
+      "line_text": "Bauer, Walter. Das Leben Jesu im Zeitalter der neutestamentlichen Apokryphen. Darmstadt: Wissenschaftliche Buchgesellschaft, 1967.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Benko, Stephen. “The Magnificat: A History of the Controversy.”<em> JBL</em> 86 (1967): 263–75.</p>",
+      "line_text": "Benko, Stephen. “The Magnificat: A History of the Controversy.” JBL 86 (1967): 263–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>The Virgin Goddess: Studies in the Pagan and Christian Roots of Mariology</em>. Studies in the History of Religions 59. Leiden: Brill, 1993.</p>",
+      "line_text": "___________. The Virgin Goddess: Studies in the Pagan and Christian Roots of Mariology. Studies in the History of Religions 59. Leiden: Brill, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/studienberzacha00beregoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Berendts, Alexander. <em>Studien über Zacharias-Apokryphen und Zacharias-Legenden.</em> Leipzig: Georg Böhme, 1895.</p>",
+      "line_text": "Berendts, Alexander. Studien über Zacharias-Apokryphen und Zacharias-Legenden. Leipzig: Georg Böhme, 1895.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/studienberzacha00beregoog"
+      ]
+    },
+    {
+      "line_html": "<p>Beyers, Rita. “ ‘De Nativitate Mariae’ : problèmes d’origine.”<em> RTP</em> 122 (1990): 171–88.</p>",
+      "line_text": "Beyers, Rita. “ ‘De Nativitate Mariae’ : problèmes d’origine.” RTP 122 (1990): 171–88.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Dans l’atelier des compilateurs: Remarques à propos de la Compilation latine de l’enfance.”<em> Apocrypha</em> 16 (2005): 97–135.</p>",
+      "line_text": "___________. “Dans l’atelier des compilateurs: Remarques à propos de la Compilation latine de l’enfance.” Apocrypha 16 (2005): 97–135.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bouwsma, William J. <em>Concordia Mundi: The Career and Thought of Guillaume Postel, 1510–1581</em>. Harvard Historical Monographs. Cambridge: Harvard University Press, 1957.</p>",
+      "line_text": "Bouwsma, William J. Concordia Mundi: The Career and Thought of Guillaume Postel, 1510–1581. Harvard Historical Monographs. Cambridge: Harvard University Press, 1957.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bovon, François. “The Suspension of Time in Chapter 18 of <em>Protevangelium Jacobi</em>.” Pages 393–405 in <em>Future of Early Christianity: Essays in Honor of Helmut Koester</em>. Edited by B.A. Pearson. Minneapolis: Fortress Press, 1991.</p>",
+      "line_text": "Bovon, François. “The Suspension of Time in Chapter 18 of Protevangelium Jacobi.” Pages 393–405 in Future of Early Christianity: Essays in Honor of Helmut Koester. Edited by B.A. Pearson. Minneapolis: Fortress Press, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bremmer, Jan N. et al., eds. <em>The Protevangelium of James.</em> Studies on Early Christian Apocrypha 16. Leuven: Peeters, 2020.</p>",
+      "line_text": "Bremmer, Jan N. et al., eds. The Protevangelium of James. Studies on Early Christian Apocrypha 16. Leuven: Peeters, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Brown, Raymond E., Karl P. Donfried et al., eds. <em>Mary in the New Testament. </em>Philadelphia: Fortress Press, 1978.</p>",
+      "line_text": "Brown, Raymond E., Karl P. Donfried et al., eds. Mary in the New Testament. Philadelphia: Fortress Press, 1978.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>The Birth of the Messiah : A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke</em>. Anchor Bible Reference Library. New York: Doubleday, 1993.</p>",
+      "line_text": "___________. The Birth of the Messiah : A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke. Anchor Bible Reference Library. New York: Doubleday, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Byrne, Ryan. “Anatomy of a Cargo Cult: Virginity, Relic Envy, and Hallowed Boxes.” Pages 137–86 in <em>Resurrecting the Brother of Jesus: The James Ossuary Controversy and the Quest for Religious Relics</em>. Edited by Ryan Byrne and Bernadette McNary-Zak. Chapel Hill: University of North Carolina Press, 2009.</p>",
+      "line_text": "Byrne, Ryan. “Anatomy of a Cargo Cult: Virginity, Relic Envy, and Hallowed Boxes.” Pages 137–86 in Resurrecting the Brother of Jesus: The James Ossuary Controversy and the Quest for Religious Relics. Edited by Ryan Byrne and Bernadette McNary-Zak. Chapel Hill: University of North Carolina Press, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Campenhausen, Hans Von. <em>Die Jungfrauengeburt in der Theologie der alten Kirche</em>. Sitzungsberichte der Heidelberger Akademie der Wissenschaften. Heidelberg: C. Winter, 1962.</p>",
+      "line_text": "Campenhausen, Hans Von. Die Jungfrauengeburt in der Theologie der alten Kirche. Sitzungsberichte der Heidelberger Akademie der Wissenschaften. Heidelberg: C. Winter, 1962.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England.</em> Cambridge: Cambridge University Press, 1998.</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge: Cambridge University Press, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Closs, Michael P. <em>The Book of Mary: A Commentary on the Protevangelium of James</em>. Victoria, BC: Friesen Press, 2016.</p>",
+      "line_text": "Closs, Michael P. The Book of Mary: A Commentary on the Protevangelium of James. Victoria, BC: Friesen Press, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Conrady, Ludwig. “Das Protevangelium Jacobi in neuer Beleuchtung.”<em> TSK</em> 62 (1889): 728–83.</p>",
+      "line_text": "Conrady, Ludwig. “Das Protevangelium Jacobi in neuer Beleuchtung.” TSK 62 (1889): 728–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>Die Quelle der kanonischen Kindheitsgeschichte Jesus: Ein wissenschaflicher Versuch.</em> Göttingen: Vandenhoeck und Ruprecht, 1900.</p>",
+      "line_text": "___________. Die Quelle der kanonischen Kindheitsgeschichte Jesus: Ein wissenschaflicher Versuch. Göttingen: Vandenhoeck und Ruprecht, 1900.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cothenet, Édouard. “Le Protévangile De Jacques: Origine, Genre Et Signification D’Un Premier Midrash Chrétien Sur La Nativité De Marie.” <em>ANRW</em> 25.6:4252–69. Berlin: de Gruyter, 1988.</p>",
+      "line_text": "Cothenet, Édouard. “Le Protévangile De Jacques: Origine, Genre Et Signification D’Un Premier Midrash Chrétien Sur La Nativité De Marie.” ANRW 25.6:4252–69. Berlin: de Gruyter, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cross, Lawrence. “The Protevangelium of James in the Formulation of Eastern Christian Marian Theology.” Pages 381–91 in volume 40 of <em>Studia Patristica</em>. Edited by F. Young, M. Edwards and P. Parvis. Leuven: Peeters, 2006.</p>",
+      "line_text": "Cross, Lawrence. “The Protevangelium of James in the Formulation of Eastern Christian Marian Theology.” Pages 381–91 in volume 40 of Studia Patristica. Edited by F. Young, M. Edwards and P. Parvis. Leuven: Peeters, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://aejt.com.au/__data/assets/pdf_file/0010/378595/AEJT_9.5_Cross_St_Mary.pdf\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>___________. “St. Mary in the Christian East.”<em> Australian eJournal of Theology</em> 9 (2007): 1–9.</p>",
+      "line_text": "___________. “St. Mary in the Christian East.” Australian eJournal of Theology 9 (2007): 1–9.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://aejt.com.au/__data/assets/pdf_file/0010/378595/AEJT_9.5_Cross_St_Mary.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Cunningham, Mary B. “The Use of the <em>Protevangelion of James</em> in Eighth-Century Homilies on the Mother of God.” Pages 163–78 in <em>The Cult of the Mother of God in Byzantium: Texts and Images</em>. Edited by Leslie Brubaker and Mary B. Cunningham. Farnham: Ashgate Publishing Limited, 2011.</p>",
+      "line_text": "Cunningham, Mary B. “The Use of the Protevangelion of James in Eighth-Century Homilies on the Mother of God.” Pages 163–78 in The Cult of the Mother of God in Byzantium: Texts and Images. Edited by Leslie Brubaker and Mary B. Cunningham. Farnham: Ashgate Publishing Limited, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davies, Stevan. <em>The Infancy Gospels of Jesus: Apocryphal Tales from the Childhoods of Mary and Jesus, Annotated and Explained.</em> Woodstock, VT: Skylight Paths, 2009.</p>",
+      "line_text": "Davies, Stevan. The Infancy Gospels of Jesus: Apocryphal Tales from the Childhoods of Mary and Jesus, Annotated and Explained. Woodstock, VT: Skylight Paths, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>de Strycker, Émile. “Le Protévangile de Jacques: Problèmes critiques et exégétiques.” Pages 339–59 in <em>Studia Evangelica 3</em>. Edited by F. L. Cross. Berlin: Akademie Verlag, 1964.</p>",
+      "line_text": "de Strycker, Émile. “Le Protévangile de Jacques: Problèmes critiques et exégétiques.” Pages 339–59 in Studia Evangelica 3. Edited by F. L. Cross. Berlin: Akademie Verlag, 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Une metaphrase inedite du Protevangile de Jacques.”<em> OLP</em> 6–7 (1976): 163–85.</p>",
+      "line_text": "___________. “Une metaphrase inedite du Protevangile de Jacques.” OLP 6–7 (1976): 163–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Die grieschischen Handschriften des Protevangeliums Iacobi.” Pages 577–612 in <em>Grieschische Kodikologie und Textüberlieferung</em>. Edited by D. Harlfinger. Darmstadt: Wissenschaftliche Buchgesellschaft, 1980.</p>",
+      "line_text": "___________. “Die grieschischen Handschriften des Protevangeliums Iacobi.” Pages 577–612 in Grieschische Kodikologie und Textüberlieferung. Edited by D. Harlfinger. Darmstadt: Wissenschaftliche Buchgesellschaft, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehlen, Oliver. “Reading the <em>Protevangelium Jacobi</em> as an Ancient Novel.” Pages 133–38 in <em>The Ancient Novel and Early Christian and Jewish Narrative: Fictional Intersections</em>. Edited by Marília P. Futre Pinheiro, Judith Perkins and Richard Pervo. Ancient Narrative Supplementum 16. Groningen: Barkhuis Publishing, 2012.</p>",
+      "line_text": "Ehlen, Oliver. “Reading the Protevangelium Jacobi as an Ancient Novel.” Pages 133–38 in The Ancient Novel and Early Christian and Jewish Narrative: Fictional Intersections. Edited by Marília P. Futre Pinheiro, Judith Perkins and Richard Pervo. Ancient Narrative Supplementum 16. Groningen: Barkhuis Publishing, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, J. Keith. “Anna’s Age (Luke 2:36–37).”<em> NovT</em> 30 (1988): 100–102.</p>",
+      "line_text": "Elliott, J. Keith. “Anna’s Age (Luke 2:36–37).” NovT 30 (1988): 100–102.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Mary in the Apocryphal New Testament.” Pages 57–70 in <em>Origins of the Cult of the Virgin Mary</em>. Edited by Chris Maunder. London: Burns &amp; Oates, 2008.</p>",
+      "line_text": "___________. “Mary in the Apocryphal New Testament.” Pages 57–70 in Origins of the Cult of the Virgin Mary. Edited by Chris Maunder. London: Burns &amp; Oates, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Feuillet, A. “Der Sieg der Frau nach dem Protoevangelium.”<em> Communio</em> 7 (1978): 26–35.</p>",
+      "line_text": "Feuillet, A. “Der Sieg der Frau nach dem Protoevangelium.” Communio 7 (1978): 26–35.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Findlay, Adam Fyfe. <em>Byways in Early Christian Literature: Studies in the Uncanonical Gospels and Acts.</em> Edinburgh: T&amp;T Clark, 1923.</p>",
+      "line_text": "Findlay, Adam Fyfe. Byways in Early Christian Literature: Studies in the Uncanonical Gospels and Acts. Edinburgh: T&amp;T Clark, 1923.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Foskett, Mary F. “A Virgin Conceived: Virginity as Character Indicator in Luke-Acts and the Protevangelium of James.” PhD diss., Emory University, 1999.</p>",
+      "line_text": "Foskett, Mary F. “A Virgin Conceived: Virginity as Character Indicator in Luke-Acts and the Protevangelium of James.” PhD diss., Emory University, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>A Virgin Conceived: Mary and Classical Representations of Virginity.</em> Bloomington: Indiana University Press, 2002.</p>",
+      "line_text": "___________. A Virgin Conceived: Mary and Classical Representations of Virginity. Bloomington: Indiana University Press, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Miriam/Mariam/Maria: Literary Genealogy and the Genesis of Mary in the Protevangelium of James.” Pages 63–74 in <em>Mariam, the Magdalen, and the Mother.</em> Bloomington: Indiana University Press, 2005.</p>",
+      "line_text": "___________. “Miriam/Mariam/Maria: Literary Genealogy and the Genesis of Mary in the Protevangelium of James.” Pages 63–74 in Mariam, the Magdalen, and the Mother. Bloomington: Indiana University Press, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Virginity as Purity in the Protevangelium of James.” Pages 67–76 in <em>Feminist Companion to Mariology</em>. Edited by Amy-Jill Levine. London: T&amp;T Clark, 2005.</p>",
+      "line_text": "___________. “Virginity as Purity in the Protevangelium of James.” Pages 67–76 in Feminist Companion to Mariology. Edited by Amy-Jill Levine. London: T&amp;T Clark, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Child Mary in the <em>Protevangelium of James.</em>” Pages 195–221 in <em>“Non-canonical” Religious Texts in Early Judaism and Early Christianity. </em>Edited by Lee Martin McDonald and James H. Charlesworth. JCTC 14. London: Bloomsbury T&amp;T Clark, 2012.</p>",
+      "line_text": "___________. “The Child Mary in the Protevangelium of James.” Pages 195–221 in “Non-canonical” Religious Texts in Early Judaism and Early Christianity. Edited by Lee Martin McDonald and James H. Charlesworth. JCTC 14. London: Bloomsbury T&amp;T Clark, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Foster, Paul. “The Protevangelium of James.”<em> ExpTim</em> 118 (2007): 573–82.</p>",
+      "line_text": "Foster, Paul. “The Protevangelium of James.” ExpTim 118 (2007): 573–82.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Protevangelium of James.” Pages 110–25 in <em>Non-Canonical Gospels</em>. Edited by Paul Foster. London: T&amp;T Clark, 2008.</p>",
+      "line_text": "___________. “The Protevangelium of James.” Pages 110–25 in Non-Canonical Gospels. Edited by Paul Foster. London: T&amp;T Clark, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.mdpi.com/2077-1444/14/5/636\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fowler, Kimberley A. “The <em>Protevangelium of James</em> in Papyrus Bodmer V: Titles, Genres, and Traditions in Translation.” <em>Religions</em> 14, 636 (2023).</p>",
+      "line_text": "Fowler, Kimberley A. “The Protevangelium of James in Papyrus Bodmer V: Titles, Genres, and Traditions in Translation.” Religions 14, 636 (2023).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.mdpi.com/2077-1444/14/5/636"
+      ]
+    },
+    {
+      "line_html": "<p>Gaventa, Beverly Roberts. <em>Mary: Glimpses of the Mother of Jesus</em>. Studies on Personalities of the New Testament. Columbia: University of South Carolina Press, 1995.</p>",
+      "line_text": "Gaventa, Beverly Roberts. Mary: Glimpses of the Mother of Jesus. Studies on Personalities of the New Testament. Columbia: University of South Carolina Press, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gijsel, J. “Le problème de la contamination.”<em> NovT</em> 18 (1976): 133–57.</p>",
+      "line_text": "Gijsel, J. “Le problème de la contamination.” NovT 18 (1976): 133–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Goodacre, Mark. “The <em>Protevangelium of James </em>and the Creative Rewriting of <em>Matthew</em> and <em>Luke.</em>” Pages 57–76 in <em>Connecting Gospels: Beyond the Canonical/Non-Canonical Divide. </em>Edited by Francis Watson and Sara Parkhouse. Oxford: Oxford University Press, 2018.</p>",
+      "line_text": "Goodacre, Mark. “The Protevangelium of James and the Creative Rewriting of Matthew and Luke.” Pages 57–76 in Connecting Gospels: Beyond the Canonical/Non-Canonical Divide. Edited by Francis Watson and Sara Parkhouse. Oxford: Oxford University Press, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horn, Cornelia B. “Intersections: The Reception History of the Protoevangelium of James in Sources from the Christian East and the Qur’an.”<em> Apocrypha</em> 17 (2006): 113–50.</p>",
+      "line_text": "Horn, Cornelia B. “Intersections: The Reception History of the Protoevangelium of James in Sources from the Christian East and the Qur’an.” Apocrypha 17 (2006): 113–50.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Mary between Bible and Qur’an: Soundings into the Transmission and Reception History of the Protoevangelium of James on the Basis of Selected Literary Sources in Coptic and Copto-Arabic and of Art-Historical Evidence Pertaining to Egypt.”<em> ICMR</em> 18 (2007): 509–38.</p>",
+      "line_text": "___________. “Mary between Bible and Qur’an: Soundings into the Transmission and Reception History of the Protoevangelium of James on the Basis of Selected Literary Sources in Coptic and Copto-Arabic and of Art-Historical Evidence Pertaining to Egypt.” ICMR 18 (2007): 509–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Syriac and Arabic Perspectives on Structural and Motif Parallels Regarding Jesus’ Childhood in Christian Apocrypha and Early Islamic Literature: The ‘Book of Mary,’ the Arabic Apocryphal Gospel of John, and the Qur’an.”<em> Apocrypha</em> 19 (2008): 267–91.</p>",
+      "line_text": "___________. “Syriac and Arabic Perspectives on Structural and Motif Parallels Regarding Jesus’ Childhood in Christian Apocrypha and Early Islamic Literature: The ‘Book of Mary,’ the Arabic Apocryphal Gospel of John, and the Qur’an.” Apocrypha 19 (2008): 267–91.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horner, Timothy J. “Jewish Aspects of the Protoevangelium of James.”<em> JECS</em> 12 (2004): 313–35.</p>",
+      "line_text": "Horner, Timothy J. “Jewish Aspects of the Protoevangelium of James.” JECS 12 (2004): 313–35.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horst, Pieter W. van der. “ ‘Seven Months’ Children in Jewish and Christian Literature from Antiquity.”<em> ETL</em> 54 (1978): 346–60.</p>",
+      "line_text": "Horst, Pieter W. van der. “ ‘Seven Months’ Children in Jewish and Christian Literature from Antiquity.” ETL 54 (1978): 346–60.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Exegetische notities over Maria in het Protevangelium Jacobi.”<em> NedTTs</em> 50 (1996): 108–21.</p>",
+      "line_text": "___________. “Exegetische notities over Maria in het Protevangelium Jacobi.” NedTTs 50 (1996): 108–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Sex, Birth, Purity and Asceticism in the Protevangelium Jacobi.” Pages 56–66 in <em>Feminist Companion to Mariology</em>. Edited by Amy-Jill Levine. London: T&amp;T Clark, 2005.</p>",
+      "line_text": "___________. “Sex, Birth, Purity and Asceticism in the Protevangelium Jacobi.” Pages 56–66 in Feminist Companion to Mariology. Edited by Amy-Jill Levine. London: T&amp;T Clark, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Huntsman, Rachel. “Why She Ran: Hebrew Bible Well Symbolism in the Protevangelium of James 11.1-4.” <em>Studia Antiqua </em>19 (2020): 55–67.</p>",
+      "line_text": "Huntsman, Rachel. “Why She Ran: Hebrew Bible Well Symbolism in the Protevangelium of James 11.1-4.” Studia Antiqua 19 (2020): 55–67.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Johnson, Samuel B. “The Protevangelium of James: A Priestly Drama of Divine Indwelling.” <em>VC</em> 77 (2023): 1–25.</p>",
+      "line_text": "Johnson, Samuel B. “The Protevangelium of James: A Priestly Drama of Divine Indwelling.” VC 77 (2023): 1–25.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jones, F. Stanley, ed. <em>Which Mary? The Marys of Early Christian Tradition. </em>Leiden: Brill, 2002.</p>",
+      "line_text": "Jones, F. Stanley, ed. Which Mary? The Marys of Early Christian Tradition. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel. “Recherches nouvelles sur les ‘Évangiles latins de l’enfance’ de M. R. James et sur un récit apocryphe mal connu de la naissance de Jésus.”<em> ETR</em> 72 (1997): 219–33.</p>",
+      "line_text": "Kaestli, Jean-Daniel. “Recherches nouvelles sur les ‘Évangiles latins de l’enfance’ de M. R. James et sur un récit apocryphe mal connu de la naissance de Jésus.” ETR 72 (1997): 219–33.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Le <em>Protévangile de Jacques</em> dan l’homélie <em>Inquirendum</em> <em>est</em> pour la fète de la nativité de Marie.”<em> Apocrypha</em> 12 (2001): 99–153.</p>",
+      "line_text": "___________. “Le Protévangile de Jacques dan l’homélie Inquirendum est pour la fète de la nativité de Marie.” Apocrypha 12 (2001): 99–153.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klawek, A. “Das Motiv der Unbeweglichkeit der Natur im Protevangelium Iacobi.”<em> CT</em> 17 (1936): 327–38.</p>",
+      "line_text": "Klawek, A. “Das Motiv der Unbeweglichkeit der Natur im Protevangelium Iacobi.” CT 17 (1936): 327–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kretschmar, Georg. “ ‘Natus ex Maria virgine’ – zur Konzeption und Theologie des Protevangeliums Jacobi.” Pages 417–28 in <em>Anfange der Christologie: Festschrift für Ferdinand Hahn zum 65. Geburtstag</em>. Edited by C. Breytenbach and H. Paulsen. Göttingen: Vandenhoeck &amp; Ruprecht, 1991.</p>",
+      "line_text": "Kretschmar, Georg. “ ‘Natus ex Maria virgine’ – zur Konzeption und Theologie des Protevangeliums Jacobi.” Pages 417–28 in Anfange der Christologie: Festschrift für Ferdinand Hahn zum 65. Geburtstag. Edited by C. Breytenbach and H. Paulsen. Göttingen: Vandenhoeck &amp; Ruprecht, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leipoldt, J. “Ein saïdisches Bruchstück des Jakobus-Protevangelium.”<em> ZNW</em> 6 (1905): 106–107.</p>",
+      "line_text": "Leipoldt, J. “Ein saïdisches Bruchstück des Jakobus-Protevangelium.” ZNW 6 (1905): 106–107.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lillis, Julia Kelto. “Paradox in Partu: Verifying Virginity in the <em>Protevangelium of James</em>.”<em> JECS</em> 24 (2016): 1–28.</p>",
+      "line_text": "Lillis, Julia Kelto. “Paradox in Partu: Verifying Virginity in the Protevangelium of James.” JECS 24 (2016): 1–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lowe, Malcolm. “’Ιουδαῖοι of the Apocrypha: A Fresh Approach to the Gospels of James, Pseudo-Thomas, Peter and Nicodemus.”<em> NovT</em> 23 (1981): 56–90.</p>",
+      "line_text": "Lowe, Malcolm. “’Ιουδαῖοι of the Apocrypha: A Fresh Approach to the Gospels of James, Pseudo-Thomas, Peter and Nicodemus.” NovT 23 (1981): 56–90.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Luomanen, Petri. “Mary and the Other Female Characters in the Protevangelium of James.” Pages 133–53 in <em>Women and Knowledge in Early Christianity. </em>Supplements Vigiliae Christianae 144. Edited by Ulla Tervahauta, Ivan Miroshnikov, et al. Leiden: Brill, 2017.</p>",
+      "line_text": "Luomanen, Petri. “Mary and the Other Female Characters in the Protevangelium of James.” Pages 133–53 in Women and Knowledge in Early Christianity. Supplements Vigiliae Christianae 144. Edited by Ulla Tervahauta, Ivan Miroshnikov, et al. Leiden: Brill, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lützelberger, E. J. <em>Das Protevangelium Jacobi, zwei Evangelien der Kindheit Jesu und die Akten des Pilatus.</em> Nuremburg: 1842.</p>",
+      "line_text": "Lützelberger, E. J. Das Protevangelium Jacobi, zwei Evangelien der Kindheit Jesu und die Akten des Pilatus. Nuremburg: 1842.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lührmann, Dieter. “POx 4009: Ein Neues Fragment des Petrusevangeliums?”<em> NovT</em> 35 (1993): 390–410.</p>",
+      "line_text": "Lührmann, Dieter. “POx 4009: Ein Neues Fragment des Petrusevangeliums?” NovT 35 (1993): 390–410.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mach, Michael. “Are There Jewish Elements in the ‘Protovangelium Jacobi’ ?” Pages 215–22 in <em>Proceedings of the World Congress of Jewish Studies, Jerusalem, Aug. 1985. </em>Jerusalem: World Union of Jewish Studies, 1986.</p>",
+      "line_text": "Mach, Michael. “Are There Jewish Elements in the ‘Protovangelium Jacobi’ ?” Pages 215–22 in Proceedings of the World Congress of Jewish Studies, Jerusalem, Aug. 1985. Jerusalem: World Union of Jewish Studies, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mattison, Mark M. “Responsible Midwifery or Reckless Disbelief? Revisiting Salome’s Examination of Mary in <em>The Protevangelium Jacobi.</em>” Pages 3–22 in <em>Mary, the Apostles, and the Last Judgment: Apocryphal Representations from Late Antiquity to the Middle Ages.</em> Edited by Stanislava Kuzmová and Andrea-Bianka Znorovszky. Budapest: Trivent, 2020.</p>",
+      "line_text": "Mattison, Mark M. “Responsible Midwifery or Reckless Disbelief? Revisiting Salome’s Examination of Mary in The Protevangelium Jacobi.” Pages 3–22 in Mary, the Apostles, and the Last Judgment: Apocryphal Representations from Late Antiquity to the Middle Ages. Edited by Stanislava Kuzmová and Andrea-Bianka Znorovszky. Budapest: Trivent, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nutzman, Megan. “Mary in the <em>Protevangelium of James</em>: A Jewish Woman in the Temple?”<em> GRBS</em> 53 (2013): 551–78.</p>",
+      "line_text": "Nutzman, Megan. “Mary in the Protevangelium of James: A Jewish Woman in the Temple?” GRBS 53 (2013): 551–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>O’Loughlin, Thomas. “The <em>Protevangelium of James</em>: A Case of Gospel Harmonization in the Second Century?” Pages 165–73 in Edited by Markus Vinzent. <em>Studia Patristica</em> 55. Leuven: Peeters, 2013.</p>",
+      "line_text": "O’Loughlin, Thomas. “The Protevangelium of James: A Case of Gospel Harmonization in the Second Century?” Pages 165–73 in Edited by Markus Vinzent. Studia Patristica 55. Leuven: Peeters, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pellegrini, Silvia. “Geburt und Jungfräulichkeit im Protevangelium des Jakobus.” Pages 79–95 in <em>Antike christliche Apokryphen: Marginalisierte Texte des frühen Christentums. </em>Edited by Outi Lehtipuu and Silke Petersen. Stuttgart: Kohlhammer, 2020.</p>",
+      "line_text": "Pellegrini, Silvia. “Geburt und Jungfräulichkeit im Protevangelium des Jakobus.” Pages 79–95 in Antike christliche Apokryphen: Marginalisierte Texte des frühen Christentums. Edited by Outi Lehtipuu and Silke Petersen. Stuttgart: Kohlhammer, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peretto, Licinio M. “Influsso del Protovangelo di Giacomo nei secoli II-IV.”<em> Marianum</em> 19 (1957): 59–87.</p>",
+      "line_text": "Peretto, Licinio M. “Influsso del Protovangelo di Giacomo nei secoli II-IV.” Marianum 19 (1957): 59–87.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Recenti ricerche sul Protoevangelo di Giacomo.”<em> Marianum</em> 24 (1962): 129–57.</p>",
+      "line_text": "___________. “Recenti ricerche sul Protoevangelo di Giacomo.” Marianum 24 (1962): 129–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Espressioni del Protovangelo di Giacomo nella eortologia mariana bizantina.” Pages 65–80 in <em>De cultu mariano saeculis VI-XI, v 4.</em> Rome: Pontificia Academia Mariana Internationalis, 1972.</p>",
+      "line_text": "___________. “Espressioni del Protovangelo di Giacomo nella eortologia mariana bizantina.” Pages 65–80 in De cultu mariano saeculis VI-XI, v 4. Rome: Pontificia Academia Mariana Internationalis, 1972.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Petersen, William Lawrence. “ΟΥΔΕ ΕΓΩ ΣΕ [ΚΑΤΑ]ΚΡΙΝΩ. John 8:11, the <em>Protevangelium Iacobi</em>, and the History of the <em>Pericope Adulterae</em>.” Pages 191–221 in <em>Sayings of Jesus: Canonical and Non-Canonical: Essays in Honour of Tjitze Baarda</em>. Edited by William Lawrence Petersen, Johan S. Vos and Henk J. de Jonge. Leiden: Brill, 1997.</p>",
+      "line_text": "Petersen, William Lawrence. “ΟΥΔΕ ΕΓΩ ΣΕ [ΚΑΤΑ]ΚΡΙΝΩ. John 8:11, the Protevangelium Iacobi, and the History of the Pericope Adulterae.” Pages 191–221 in Sayings of Jesus: Canonical and Non-Canonical: Essays in Honour of Tjitze Baarda. Edited by William Lawrence Petersen, Johan S. Vos and Henk J. de Jonge. Leiden: Brill, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pratscher, William. <em>Der Herrenbruder Jakobus und die Jakobstradition</em>. Forschungen zur Religion und Literatur des Alten und Neuen Testaments 139. Göttingen: Vandenhoeck &amp; Ruprecht, 1987.</p>",
+      "line_text": "Pratscher, William. Der Herrenbruder Jakobus und die Jakobstradition. Forschungen zur Religion und Literatur des Alten und Neuen Testaments 139. Göttingen: Vandenhoeck &amp; Ruprecht, 1987.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Preuschen, Erwin. “Jesu Geburt in einer Höhle.”<em> ZNW</em> 3 (1902): 59–60.</p>",
+      "line_text": "Preuschen, Erwin. “Jesu Geburt in einer Höhle.” ZNW 3 (1902): 59–60.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quarles, Charles Leland. “An Analysis of Midrash Criticism as Applied to the Synoptic Birth Narratives.” ThD diss., Mid-America Baptist Theological Seminary, 1994.</p>",
+      "line_text": "Quarles, Charles Leland. “An Analysis of Midrash Criticism as Applied to the Synoptic Birth Narratives.” ThD diss., Mid-America Baptist Theological Seminary, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Protevangelium of James as an Alleged Parallel to Creative Historiography in the Synoptic Birth Narratives.”<em> BBR</em> 8 (1998): 139–49.</p>",
+      "line_text": "___________. “The Protevangelium of James as an Alleged Parallel to Creative Historiography in the Synoptic Birth Narratives.” BBR 8 (1998): 139–49.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quecke, Hans. “Lk 1:34 in den alten Ubersetzungen und im Protevangelium des Jakobus.”<em> Bib</em> 44 (1963): 499–520.</p>",
+      "line_text": "Quecke, Hans. “Lk 1:34 in den alten Ubersetzungen und im Protevangelium des Jakobus.” Bib 44 (1963): 499–520.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Raithel, Jutta C. “Beginning at the End: Literary Unity and the Relationship between Anthropology and Liturgy in the <em>Protevangelium Jacobi (P. Bodm. 5)</em>.” PhD Diss, Catholic University of America, 2011.</p>",
+      "line_text": "Raithel, Jutta C. “Beginning at the End: Literary Unity and the Relationship between Anthropology and Liturgy in the Protevangelium Jacobi (P. Bodm. 5).” PhD Diss, Catholic University of America, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Roddy, Nicolae. “The Form and Function of the Protevangelium of James.”<em> CCR</em> 14 (1993): 35–45.</p>",
+      "line_text": "Roddy, Nicolae. “The Form and Function of the Protevangelium of James.” CCR 14 (1993): 35–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rumsey, Patricia M. <em>“Lest She Pollute the Sanctuary”: The Influence of the </em>Protevangelium Iacobi <em>on Women’s Status in Christianity.</em> Studia Traditionis Theologiae 41. Turnhout: Brepols, 2020.</p>",
+      "line_text": "Rumsey, Patricia M. “Lest She Pollute the Sanctuary”: The Influence of the Protevangelium Iacobi on Women’s Status in Christianity. Studia Traditionis Theologiae 41. Turnhout: Brepols, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schöne, H. “Palimpsestblätter des Protevangelium Jacobi in Cesena.” Pages 263–76 in <em>Westfälische Studien: Beiträge zur Geschichte der Wissenschaft, Kunst, und Literatur in Westfalen, Alois Bömer zum 60. Geburtstag gewidment.</em> Leipzig: Verlag Karl W. Hiersemann, 1928.</p>",
+      "line_text": "Schöne, H. “Palimpsestblätter des Protevangelium Jacobi in Cesena.” Pages 263–76 in Westfälische Studien: Beiträge zur Geschichte der Wissenschaft, Kunst, und Literatur in Westfalen, Alois Bömer zum 60. Geburtstag gewidment. Leipzig: Verlag Karl W. Hiersemann, 1928.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schweigert, Thomas E. “<em>San Mauro</em> at Parentium, <em>Saint Sergius</em> at Gaza, <em>Hagia Sophia</em> in Kiev, and the <em>Protevangelium of James</em>.” <em>Hortus Artium Medievalium</em> 24 (2018): 181–90.</p>",
+      "line_text": "Schweigert, Thomas E. “San Mauro at Parentium, Saint Sergius at Gaza, Hagia Sophia in Kiev, and the Protevangelium of James.” Hortus Artium Medievalium 24 (2018): 181–90.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shanks, Hershel. “Where Mary Rested.”<em> BAR</em> 32 (2006): 44–51.</p>",
+      "line_text": "Shanks, Hershel. “Where Mary Rested.” BAR 32 (2006): 44–51.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shanzer, Danuta. “’Asino vectore virgo regia fugiens captivitatem’: Apuleius and the Tradition of the Protevangelium Jacobi.”<em> ZPE</em> 84 (1990): 221–29.</p>",
+      "line_text": "Shanzer, Danuta. “’Asino vectore virgo regia fugiens captivitatem’: Apuleius and the Tradition of the Protevangelium Jacobi.” ZPE 84 (1990): 221–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Smid, H. R. <em>Protevangelium Jacobi: A Commentary.</em> Translated by G. E. Van Baaren-Pape. Assen: Van Gorcum, 1965.</p>",
+      "line_text": "Smid, H. R. Protevangelium Jacobi: A Commentary. Translated by G. E. Van Baaren-Pape. Assen: Van Gorcum, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Toepel, Alexander. <em>Das Protevangelium des Jakobus: Ein Beitrag zur neueren Diskussion um Herkunft, Auslegung und theologische Einordnung.</em> Frankfurter Theologische Studien 71. Münster: Aschendorff, 2014.</p>",
+      "line_text": "Toepel, Alexander. Das Protevangelium des Jakobus: Ein Beitrag zur neueren Diskussion um Herkunft, Auslegung und theologische Einordnung. Frankfurter Theologische Studien 71. Münster: Aschendorff, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>van Stempvoort, P. A. “De bronnen van het thema en de stijl van het Protevangelium Jacobi en de datering daarvan.”<em> NedTTs</em> 16 (1961): 18–34.</p>",
+      "line_text": "van Stempvoort, P. A. “De bronnen van het thema en de stijl van het Protevangelium Jacobi en de datering daarvan.” NedTTs 16 (1961): 18–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Protevangelium Jacobi, the Sources of its Theme and Style and their Bearing on its Date.” Pages 410–26 in <em>Studia Evangelica 3</em>. Edited by F. L. Cross. Berlin: Akademie Verlag, 1964.</p>",
+      "line_text": "___________. “The Protevangelium Jacobi, the Sources of its Theme and Style and their Bearing on its Date.” Pages 410–26 in Studia Evangelica 3. Edited by F. L. Cross. Berlin: Akademie Verlag, 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vanden Eykel, Eric M. “Protevangelium Iacobi.” Pages 93-105 in <em>The Reception of Jesus in the First Three Centuries, Volume 2: From Thomas to Tertullian: Christian Literary Receptions of Jesus in the Second and Third Centuries CE.</em> Edited by Jens Schröter and Christine Jacobi. London: Bloomsbury T&amp;T Clark, 2020.</p>",
+      "line_text": "Vanden Eykel, Eric M. “Protevangelium Iacobi.” Pages 93-105 in The Reception of Jesus in the First Three Centuries, Volume 2: From Thomas to Tertullian: Christian Literary Receptions of Jesus in the Second and Third Centuries CE. Edited by Jens Schröter and Christine Jacobi. London: Bloomsbury T&amp;T Clark, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Protevangelium of James.” Pages 142–53 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "__________. “Protevangelium of James.” Pages 142–53 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “<em>But Their Faces Were All Looking Up”: Author and Reader in the Protevangelium of James</em>. The Reception of Jesus in the First Three Centuries 1. London: Bloomsbury T&amp;T Clark, 2016.</p>",
+      "line_text": "__________. “But Their Faces Were All Looking Up”: Author and Reader in the Protevangelium of James. The Reception of Jesus in the First Three Centuries 1. London: Bloomsbury T&amp;T Clark, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vorster, Willem S. “The Annunciation of the Birth of Jesus in the Protevangelium of James.” Pages 33–53 in <em>A South African Perspective on the New Testament: Essasys by South African New Testament Scholars presented to Bruce Manning Metzger during his Visit to South Africa in 1985.</em> Leiden: Brill, 1986.</p>",
+      "line_text": "Vorster, Willem S. “The Annunciation of the Birth of Jesus in the Protevangelium of James.” Pages 33–53 in A South African Perspective on the New Testament: Essasys by South African New Testament Scholars presented to Bruce Manning Metzger during his Visit to South Africa in 1985. Leiden: Brill, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Protevangelium of James and Intertextuality.” Pages 262–75 in <em>Text and Testimony: Essays in Honor of A. F. J. Klijn</em>. Edited by T. Baarda, A. Hilhorst, G. P. Luttikhuizen and A. S. van der Woude. Kampen: J. H. Kok, 1988.</p>",
+      "line_text": "___________. “The Protevangelium of James and Intertextuality.” Pages 262–75 in Text and Testimony: Essays in Honor of A. F. J. Klijn. Edited by T. Baarda, A. Hilhorst, G. P. Luttikhuizen and A. S. van der Woude. Kampen: J. H. Kok, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “James, Protevangelium of.” Pages 629–32 in volume 3 of <em>Anchor Bible Dictionary.</em> New York: Doubleday, 1992.</p>",
+      "line_text": "___________. “James, Protevangelium of.” Pages 629–32 in volume 3 of Anchor Bible Dictionary. New York: Doubleday, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Protevangelium of James and Intertextuality.” Pages 449–64 in <em>Speaking of Jesus: Essays on Biblical Language, Gospel Narrative &amp; the Historical Jesus</em>. Edited by J. Eugene Botha. NovTSup 92. Leiden: Brill, 1999.</p>",
+      "line_text": "___________. “The Protevangelium of James and Intertextuality.” Pages 449–64 in Speaking of Jesus: Essays on Biblical Language, Gospel Narrative &amp; the Historical Jesus. Edited by J. Eugene Botha. NovTSup 92. Leiden: Brill, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vuong, Lily. “ ‘Let Us Bring her Up to the Temple of the Lord’: Exploring the Boundaries of Jewish and Christian Relations through the Presentation of Mary in the <em>Protevangelium of James</em>.” Pages 418–32 in <em>Infancy Gospels: Stories and Identities</em>. Edited by Claire Clivaz, Andreas Dettwiler, Luc Devillers and Enrico Norelli. Tübingen: Mohr Siebeck, 2011.</p>",
+      "line_text": "Vuong, Lily. “ ‘Let Us Bring her Up to the Temple of the Lord’: Exploring the Boundaries of Jewish and Christian Relations through the Presentation of Mary in the Protevangelium of James.” Pages 418–32 in Infancy Gospels: Stories and Identities. Edited by Claire Clivaz, Andreas Dettwiler, Luc Devillers and Enrico Norelli. Tübingen: Mohr Siebeck, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Purity, Piety, and the Purposes of the <em>Protevangelium of James</em>.” Pages 205–21 in <em>“Non-canonical” Religious Texts in Early Judaism and Early Christianity. </em>Edited by Lee Martin McDonald and James H. Charlesworth. JCTC 14. London: Bloomsbury T&amp;T Clark, 2012.</p>",
+      "line_text": "___________. “Purity, Piety, and the Purposes of the Protevangelium of James.” Pages 205–21 in “Non-canonical” Religious Texts in Early Judaism and Early Christianity. Edited by Lee Martin McDonald and James H. Charlesworth. JCTC 14. London: Bloomsbury T&amp;T Clark, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>Gender and Purity in the Protevangelium of James</em>. Wissenschaftliche Untersuchungen zum Neuen Testament 2. 358. Tubingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "___________. Gender and Purity in the Protevangelium of James. Wissenschaftliche Untersuchungen zum Neuen Testament 2. 358. Tubingen: Mohr Siebeck, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zervos, George T. <em>The Protevangelium of James. </em>2 vols. Jewish and Christian Texts in Context and Related Studies 17–18. London: Bloomsbury T&amp;T Clark, 2019–2022 (vol. 1 is an extensive commentary).</p>",
+      "line_text": "Zervos, George T. The Protevangelium of James. 2 vols. Jewish and Christian Texts in Context and Related Studies 17–18. London: Bloomsbury T&amp;T Clark, 2019–2022 (vol. 1 is an extensive commentary).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Dating the <em>Protevangelium of James</em>: The Justin Martyr Connection.” Pages 415–34 in <em>Society of Biblical Literature 1994 Seminar Papers</em>. SBLSP 33. Atlanta: Scholars Press, 1994.</p>",
+      "line_text": "___________. “Dating the Protevangelium of James: The Justin Martyr Connection.” Pages 415–34 in Society of Biblical Literature 1994 Seminar Papers. SBLSP 33. Atlanta: Scholars Press, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “An Early Non-Canonical Annunciation Story.” Pages 664–91 in <em>Society of Biblical Literature 1997 Seminar Papers</em>. SBLSP 36. Atlanta: Scholars Press, 1997.</p>",
+      "line_text": "___________. “An Early Non-Canonical Annunciation Story.” Pages 664–91 in Society of Biblical Literature 1997 Seminar Papers. SBLSP 36. Atlanta: Scholars Press, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Seeking the Source of the Marian Myth: Have We Found the Missing Link?” Pages 107–20 in <em>Which Mary? The Marys of Early Christian Tradition</em>. Edited by F. Stanley Jones. Leiden: Brill, 2002.</p>",
+      "line_text": "___________. “Seeking the Source of the Marian Myth: Have We Found the Missing Link?” Pages 107–20 in Which Mary? The Marys of Early Christian Tradition. Edited by F. Stanley Jones. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Caught in the Act: Mary and the Adulteress.”<em> Apocrypha</em> 15 (2004): 57–114.</p>",
+      "line_text": "___________. “Caught in the Act: Mary and the Adulteress.” Apocrypha 15 (2004): 57–114.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Christmas with Salome.” Pages 77–98 in <em>Feminist Companion to Mariology</em>. Edited by Amy-Jill Levine. London: T&amp;T Clark, 2005.</p>",
+      "line_text": "___________. “Christmas with Salome.” Pages 77–98 in Feminist Companion to Mariology. Edited by Amy-Jill Levine. London: T&amp;T Clark, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The <em>Protevangelium of James</em> and the Composition of the Bodmer Miscellaneous Codex: Chronology, Theology, and Liturgy.” Pages 177–94 in <em>“Non-canonical” Religious Texts in Early Judaism and Early Christianity. </em>Edited by Lee Martin McDonald and James H. Charlesworth. JCTC 14. London: Bloomsbury T&amp;T Clark, 2012.</p>",
+      "line_text": "___________. “The Protevangelium of James and the Composition of the Bodmer Miscellaneous Codex: Chronology, Theology, and Liturgy.” Pages 177–94 in “Non-canonical” Religious Texts in Early Judaism and Early Christianity. Edited by Lee Martin McDonald and James H. Charlesworth. JCTC 14. London: Bloomsbury T&amp;T Clark, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

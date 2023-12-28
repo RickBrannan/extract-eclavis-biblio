@@ -1,0 +1,168 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-andrew-martyrium-prius/",
+  "nasscal_toc_title": "Martyrdom of Andrew (Martyrium prius)",
+  "filename": "martyrdom-of-andrew-martyrium-prius",
+  "latin_title": "Martyrium Andreae prius",
+  "abbrev": "Mart. Andr. (prius)",
+  "clavis_number": 904,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-807/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 807, fols. 312<sup>v</sup>–315<sup>v</sup> (9th/10th cent.)</p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 807, fols. 312v–315v (9th/10th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-807/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 094 (Granstrem 334) , fols. 58<sup>v</sup>–63<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57164/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "C  St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 094 (Granstrem 334) , fols. 58v–63v (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/57164/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Escorial, Real Biblioteca, Σ III. 09 (11th cent.) ~ portion of text on a single fourteenth-century folio added to the end of the codex; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15379/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "E  Escorial, Real Biblioteca, Σ III. 09 (11th cent.) ~ portion of text on a single fourteenth-century folio added to the end of the codex; Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15379/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1027, fols. 114<sup>r</sup>–118<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3323/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 1027, fols. 114r–118v (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3323/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong> Mount Athos, Monē Koutloumousiou, 176, fols. 30<sup>r</sup>–37<sup>r</sup> (1438/1439) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26205/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "K Mount Athos, Monē Koutloumousiou, 176, fols. 30r–37r (1438/1439) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26205/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Athens, Ethnikē Bibliothēkē tēs Hellados, Metochion tou Panagiou Taphou 245, fols. 1<sup>r</sup>–8<sup>r</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/6642/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "M  Athens, Ethnikē Bibliothēkē tēs Hellados, Metochion tou Panagiou Taphou 245, fols. 1r–8r (10th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/6642/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 535, fols. 52<sup>r</sup>–60<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58910/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279380691-ms\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "S  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 535, fols. 52r–60r (16th cent.) ~ Pinakes; IMAGES",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/58910/",
+        "https://www.loc.gov/item/00279380691-ms"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brescia, Biblioteca Queriniana, A. III. 03, fols. 81<sup>r</sup>–83<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9823/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Brescia, Biblioteca Queriniana, A. III. 03, fols. 81r–83v (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9823/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Metamorphōseōs, 513, fols. 24<sup>r</sup>–31<sup>v</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41923/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Metamorphōseōs, 513, fols. 24r–31v (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41923/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n521/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. <em>Acta apostolorum apocrypha</em>. 2 vols. in 3 parts. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959 (edition based on V and C, vol. 2.1, pp. xv–xix, 46–57).</p>",
+      "line_text": "Bonnet, Maximilien. Acta apostolorum apocrypha. 2 vols. in 3 parts. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959 (edition based on V and C, vol. 2.1, pp. xv–xix, 46–57).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n521/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc. <em>Acta Andreae.</em> 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (discussion, vol. 1, pp. 14–17, vol. 2, pp. 675–83; Greek edition based on VEACKS, vol. 2, pp. 684–703; parallel passages from the text and <em>Encom. Andr.</em> in Greek with facing French translation, vol. 2, pp. 708–27; synoptic chart of witnesses to the discourse on the cross, vol. 2, pp. 738–45).</p>",
+      "line_text": "Prieur, Jean-Marc. Acta Andreae. 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (discussion, vol. 1, pp. 14–17, vol. 2, pp. 675–83; Greek edition based on VEACKS, vol. 2, pp. 684–703; parallel passages from the text and Encom. Andr. in Greek with facing French translation, vol. 2, pp. 708–27; synoptic chart of witnesses to the discourse on the cross, vol. 2, pp. 738–45).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on VCEAK with facing Spanish translation, vol. 3, pp. 931–57).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on VCEAK with facing Spanish translation, vol. 3, pp. 931–57).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc. <em>Acta Andreae.</em> 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (discussion, vol. 1, pp. 14–17, vol. 2, pp. 675–83; Greek edition based on VEACKS, vol. 2, pp. 684–703; parallel passages from the text and <em>Encom. Andr.</em> in Greek with facing French translation, vol. 2, pp. 708–27; synoptic chart of witnesses to the discourse on the cross, vol. 2, pp. 738–45).</p>",
+      "line_text": "Prieur, Jean-Marc. Acta Andreae. 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (discussion, vol. 1, pp. 14–17, vol. 2, pp. 675–83; Greek edition based on VEACKS, vol. 2, pp. 684–703; parallel passages from the text and Encom. Andr. in Greek with facing French translation, vol. 2, pp. 708–27; synoptic chart of witnesses to the discourse on the cross, vol. 2, pp. 738–45).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi, ed. and trans. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (Italian trans. based on Bonnet, pp. 1406–13).</p>",
+      "line_text": "Moraldi, Luigi, ed. and trans. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (Italian trans. based on Bonnet, pp. 1406–13).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Bonnet with facing Spanish translation, vol. 3, pp. 931–57).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Bonnet with facing Spanish translation, vol. 3, pp. 931–57).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesactesapocryph00flam/page/56/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Flamion, Joseph. <em>Les Actes apocryphes de l’apôtre André: Les Actes d’André et de Matthias, de Pierre et d’André et les textes apparentés</em>. Leuven: Bureau du recueil, 1911 (pp. 57–62).</p>",
+      "line_text": "Flamion, Joseph. Les Actes apocryphes de l’apôtre André: Les Actes d’André et de Matthias, de Pierre et d’André et les textes apparentés. Leuven: Bureau du recueil, 1911 (pp. 57–62).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/lesactesapocryph00flam/page/56/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lanzillota, Fernando Lautero Roig. “The Apocryphal Acts of Andrew: A New Approach to the Character, Thought, and Meaning of the Primitive Text.” PhD. diss, Rijksuniversiteit Groningen, 2004 (see pp. 77, 97–104).</p>",
+      "line_text": "Lanzillota, Fernando Lautero Roig. “The Apocryphal Acts of Andrew: A New Approach to the Character, Thought, and Meaning of the Primitive Text.” PhD. diss, Rijksuniversiteit Groningen, 2004 (see pp. 77, 97–104).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap00lipsgoog/page/n45/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3. Braunschweig, 1883–1890 (Ergängzungsheft pp. 30–31).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3. Braunschweig, 1883–1890 (Ergängzungsheft pp. 30–31).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap00lipsgoog/page/n45/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

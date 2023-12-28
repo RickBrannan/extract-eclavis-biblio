@@ -1,0 +1,350 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/nativity-of-mary/",
+  "nasscal_toc_title": "Nativity of Mary",
+  "filename": "nativity-of-mary",
+  "latin_title": "De nativitate Mariae",
+  "abbrev": "Nat. Mary",
+  "clavis_number": 932,
+  "category": "Infancy Gospels",
+  "compiler": ": Brandon W. Hawk, Rhode Island College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Beyers lists over 150 manuscripts in her critical edition (CCSA 10). For each textual family, I list the earliest witnesses with Beyers’s sigla.</p>",
+      "line_text": "Beyers lists over 150 manuscripts in her critical edition (CCSA 10). For each textual family, I list the earliest witnesses with Beyers’s sigla.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>A</p>",
+      "line_text": "A",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>(A1a)</strong> Chartres, Bibliothèque municipale 162 (second half of 11th cent.), now lost (destroyed in a fire in 1944)</p>",
+      "line_text": "(A1a) Chartres, Bibliothèque municipale 162 (second half of 11th cent.), now lost (destroyed in a fire in 1944)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A<sup>4</sup>1</strong> Durham, Dean and Chapter Library, A.III.29 (end of 11th cent., Durham)</p>",
+      "line_text": "A41 Durham, Dean and Chapter Library, A.III.29 (end of 11th cent., Durham)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A1a5</strong> Paris, Bibliothèque nationale de France, lat. 3835 (11th cent., Vendôme)</p>",
+      "line_text": "A1a5 Paris, Bibliothèque nationale de France, lat. 3835 (11th cent., Vendôme)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A3a</strong> Paris, Bibliothèque nationale de France, Nouv. acq. lat. 1455 (second half of 11th cent., Cluny)</p>",
+      "line_text": "A3a Paris, Bibliothèque nationale de France, Nouv. acq. lat. 1455 (second half of 11th cent., Cluny)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A1a3</strong> Rouen, Bibliothèque municipale, A 271 (471) (11th cent., Holy Trinity Abbey, Fécamp)</p>",
+      "line_text": "A1a3 Rouen, Bibliothèque municipale, A 271 (471) (11th cent., Holy Trinity Abbey, Fécamp)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A1a1</strong> Rouen, Bibliothèque municipale, U 36 (1390) (end of 11th cent., Saint-Aubin d’Angers)</p>",
+      "line_text": "A1a1 Rouen, Bibliothèque municipale, U 36 (1390) (end of 11th cent., Saint-Aubin d’Angers)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A<sup>2</sup>1</strong> Rouen, Bibliothèque municipale, Y 109 (end of the 11th cent., Jumièges)</p>",
+      "line_text": "A21 Rouen, Bibliothèque municipale, Y 109 (end of the 11th cent., Jumièges)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Ax1</strong> Vatican, Bibliotheca Apostolica Vaticana, Vat. lat. 9668 (middle of 11th cent., Mont-Saint-Michel)</p>",
+      "line_text": "Ax1 Vatican, Bibliotheca Apostolica Vaticana, Vat. lat. 9668 (middle of 11th cent., Mont-Saint-Michel)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A1a4</strong> Vendôme, Bibliothèque municipale, 42 (end of 11th cent., Trinity Abbey, Vendôme)</p>",
+      "line_text": "A1a4 Vendôme, Bibliothèque municipale, 42 (end of 11th cent., Trinity Abbey, Vendôme)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>B</p>",
+      "line_text": "B",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B1e2</strong> Cambrai, Bibliothèque municipale, 528 (11th cent., prov. Abbey of Saint-Sépulcre, Cambrai)</p>",
+      "line_text": "B1e2 Cambrai, Bibliothèque municipale, 528 (11th cent., prov. Abbey of Saint-Sépulcre, Cambrai)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B1e1</strong> Cambrai, Bibliothèque municipale, 530 (11th cent., prov. Abbey of Saint-Sépulcre, Cambrai)</p>",
+      "line_text": "B1e1 Cambrai, Bibliothèque municipale, 530 (11th cent., prov. Abbey of Saint-Sépulcre, Cambrai)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B1a1</strong> Châlons-sur-Marne, Bibliothèque municipale, 73 (first half of 11th cent., Abbey of Saint-Pierre-aux-Monts, Châlons)</p>",
+      "line_text": "B1a1 Châlons-sur-Marne, Bibliothèque municipale, 73 (first half of 11th cent., Abbey of Saint-Pierre-aux-Monts, Châlons)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B2a1</strong> Douay, Bibliothèque municipale, 867 (11th cent., prov. Marchiennes)</p>",
+      "line_text": "B2a1 Douay, Bibliothèque municipale, 867 (11th cent., prov. Marchiennes)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>(B1a)</strong> Maredsous, Bibliothèque de l’Abbaye, 51 (beginning of the second half of the 11th cent., Abbey of Tholey sur la Sarre)</p>",
+      "line_text": "(B1a) Maredsous, Bibliothèque de l’Abbaye, 51 (beginning of the second half of the 11th cent., Abbey of Tholey sur la Sarre)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B1a4</strong> Trèves, Stadtbibliothek, 1379/143 (early 11th cent., Abbey of Saint-Martin, Trèves)</p>",
+      "line_text": "B1a4 Trèves, Stadtbibliothek, 1379/143 (early 11th cent., Abbey of Saint-Martin, Trèves)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>8</sup>3b2</strong> Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 39<sup>v</sup>–44<sup>v</sup> (ca. 1000, Tegernsee; fols. 32-44 added in 1482)</p>",
+      "line_text": "A83b2 Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 39v–44v (ca. 1000, Tegernsee; fols. 32-44 added in 1482)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/madrid-biblioteca-nacional-9783/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Madrid, Biblioteca nacional, 9783, fols. 110<sup>v</sup>–115<sup>v </sup>(13–15th cent.) ~ composite text of Gospel of<em> Pseudo-Matthew</em> with portions of <em>Nativity of Mary</em> and <em>Infancy Gospel of Thomas</em> (=Gijsel A<sup>4</sup>a6)<em><br/></em></p>",
+      "line_text": "Madrid, Biblioteca nacional, 9783, fols. 110v–115v (13–15th cent.) ~ composite text of Gospel of Pseudo-Matthew with portions of Nativity of Mary and Infancy Gospel of Thomas (=Gijsel A4a6)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/madrid-biblioteca-nacional-9783/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/leprotvangiled00aman\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Amann, Émil. <em>Le Protévangile de Jacques et ses remaniements latins</em>. Paris: Letouzey et Ané, 1910 (reprint and translation of Tischendorf’s text, except that he adds the preface as he found it in Chartres 162, pp. 340–64).</p>",
+      "line_text": "Amann, Émil. Le Protévangile de Jacques et ses remaniements latins. Paris: Letouzey et Ané, 1910 (reprint and translation of Tischendorf’s text, except that he adds the preface as he found it in Chartres 162, pp. 340–64).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/leprotvangiled00aman"
+      ]
+    },
+    {
+      "line_html": "<p>Beyers, Rita, ed. <em>Libri de nativitate Mariae: Libellus de nativitate sanctae Mariae, textux et commentarius</em>. CCSA 10. Turnhout: Brepols, 1997 (the only modern critical edition of <em>Nat. Mary</em>, based on 93 manuscripts of the A-text, accompanied by a textual apparatus, translation into French, biblical references, and commentary).</p>",
+      "line_text": "Beyers, Rita, ed. Libri de nativitate Mariae: Libellus de nativitate sanctae Mariae, textux et commentarius. CCSA 10. Turnhout: Brepols, 1997 (the only modern critical edition of Nat. Mary, based on 93 manuscripts of the A-text, accompanied by a textual apparatus, translation into French, biblical references, and commentary).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11116194_00039.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert, ed.<em> Codex apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Benjamin Schiller, 1703 (the <em>editio princeps </em>apart from those printings of <em>Nat. Mary</em> among Jerome’s letters, although it is uncertain which manuscripts he used; also includes the first commentary on <em>Nat. Mary</em>, at the foot of the page; vol. 1, pp. 19–38).</p>",
+      "line_text": "Fabricius, Johann Albert, ed. Codex apocryphus Novi Testamenti. 2 vols. Hamburg: Benjamin Schiller, 1703 (the editio princeps apart from those printings of Nat. Mary among Jerome’s letters, although it is uncertain which manuscripts he used; also includes the first commentary on Nat. Mary, at the foot of the page; vol. 1, pp. 19–38).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11116194_00039.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00jonegoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament</em>. 3 vols. London: J. Clark and R. Hett, 1722 (Fabricius’s text with translation, vol. 2, pp. 69–81).</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. 3 vols. London: J. Clark and R. Hett, 1722 (Fabricius’s text with translation, vol. 2, pp. 69–81).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00jonegoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.numistral.fr/ark:/12148/bpt6k9100033f/f517.image.r=thilo\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Thilo, Johann Karl, ed. <em>Codex apocryphus Novi Testamenti</em>. Leipzig: Vogel, 1832 (largely reliant upon Fabricius’s text, with some variants, but it is uncertain which manuscripts he used; he also relies on Fabricius’s commentary and expands on it, pp. 317–36).</p>",
+      "line_text": "Thilo, Johann Karl, ed. Codex apocryphus Novi Testamenti. Leipzig: Vogel, 1832 (largely reliant upon Fabricius’s text, with some variants, but it is uncertain which manuscripts he used; he also relies on Fabricius’s commentary and expands on it, pp. 317–36).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.numistral.fr/ark:/12148/bpt6k9100033f/f517.image.r=thilo"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/evangeliaapocry01tiscgoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin von, ed., <em>Evangelia Apocrypha</em>. Leipzig: Hermann Mendelsohn, 1853 (largely reliant upon Fabricius’s text, although he makes six changes; he notes that two of these come from Florence, Biblioteca Medicea Laurenziana, Gaddianus 208 [not in Beyers’s list of manuscripts], but it is uncertain which other manuscripts he used. In the second edition, Tischendorf makes fourteen additional changes to the text, relying on a certain <em>codex Parisiensis</em> that remains unidentified; pp. 106–14). 2d ed., 1876 (pp. 113–21).</p>",
+      "line_text": "Tischendorf, Constantin von, ed., Evangelia Apocrypha. Leipzig: Hermann Mendelsohn, 1853 (largely reliant upon Fabricius’s text, although he makes six changes; he notes that two of these come from Florence, Biblioteca Medicea Laurenziana, Gaddianus 208 [not in Beyers’s list of manuscripts], but it is uncertain which other manuscripts he used. In the second edition, Tischendorf makes fourteen additional changes to the text, relying on a certain codex Parisiensis that remains unidentified; pp. 106–14). 2d ed., 1876 (pp. 113–21).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/evangeliaapocry01tiscgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>A Synopsis of the Apocryphal Nativity and Infancy Narratives</em>. NTTS 34. Leiden and Boston: Brill, 2006; 2nd ed. 2016.</p>",
+      "line_text": "Elliott, J. K. A Synopsis of the Apocryphal Nativity and Infancy Narratives. NTTS 34. Leiden and Boston: Brill, 2006; 2nd ed. 2016.",
+      "language": "English",
+      "entry_type": ". Concordances and Synopses"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospel00cowp\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cowper, B. Harris. <em>The Apocryphal Gospels and Other Documents Relating to the History of Christ</em>. 7th ed. London: David Nutt, 1910 (pp. 84–98, based on Tischendorf’s text).</p>",
+      "line_text": "Cowper, B. Harris. The Apocryphal Gospels and Other Documents Relating to the History of Christ. 7th ed. London: David Nutt, 1910 (pp. 84–98, based on Tischendorf’s text).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospel00cowp"
+      ]
+    },
+    {
+      "line_html": "<p>Hawk, Brandon W. <em>The Gospel of Pseudo-Matthew and the Nativity of Mary</em>. Early Christian Apocrypha 8. Eugene, OR: Cascade Books, 2019 (translation of Beyers’s text).</p>",
+      "line_text": "Hawk, Brandon W. The Gospel of Pseudo-Matthew and the Nativity of Mary. Early Christian Apocrypha 8. Eugene, OR: Cascade Books, 2019 (translation of Beyers’s text).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><em><a href=\"https://archive.org/details/apocryphalgospel00cowp\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></em>Hone, William. <em>The Apocryphal New Testament.</em> London: William Hone, 1820 (pp. 17–24, reprinted from Jones).</p>",
+      "line_text": "Hone, William. The Apocryphal New Testament. London: William Hone, 1820 (pp. 17–24, reprinted from Jones).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospel00cowp"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00jonegoog\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament</em>. 3 vols. London: J. Clark and R. Hett, 1722 (see above; vol. 2, pp. 69–81, based on Fabricius’s text).</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. 3 vols. London: J. Clark and R. Hett, 1722 (see above; vol. 2, pp. 69–81, based on Fabricius’s text).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00jonegoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/leprotvangiled00aman\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Amann, Émil. <em>Le Protévangile de Jacques et ses remaniements latins</em>. Paris: Letouzey et Ané, 1910 (pp. 340–64, based on Tischendorf, except for the preface, based on Chartres 162).</p>",
+      "line_text": "Amann, Émil. Le Protévangile de Jacques et ses remaniements latins. Paris: Letouzey et Ané, 1910 (pp. 340–64, based on Tischendorf, except for the preface, based on Chartres 162).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/leprotvangiled00aman"
+      ]
+    },
+    {
+      "line_html": "<p>Beyers, Rita, trans. “Livre de la Nativitaté de Marie.” Pp. 141–61 in vol. 1 of <em>Écrits apocryphes chrétiens</em>. Ed. François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997 (based on her own edition in progress).</p>",
+      "line_text": "Beyers, Rita, trans. “Livre de la Nativitaté de Marie.” Pp. 141–61 in vol. 1 of Écrits apocryphes chrétiens. Ed. François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997 (based on her own edition in progress).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario, ed. <em>Gli Apocrifi del Nuovo Testamento</em>, Vol. I.2: <em>Vangeli: Infanzia e passione di Cristo, Assunzione di Maria</em>. Turin: Casale Monferrato, 1981 (pp. 71–77, based on Tischendorf’s text).</p>",
+      "line_text": "Erbetta, Mario, ed. Gli Apocrifi del Nuovo Testamento, Vol. I.2: Vangeli: Infanzia e passione di Cristo, Assunzione di Maria. Turin: Casale Monferrato, 1981 (pp. 71–77, based on Tischendorf’s text).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n47\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi, trans. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Turin: Piemme, 1971 (vol. 1, pp. 95–104, based on Tischendorf’s text).</p>",
+      "line_text": "Moraldi, Luigi, trans. Apocrifi del Nuovo Testamento. 2 vols. Turin: Piemme, 1971 (vol. 1, pp. 95–104, based on Tischendorf’s text).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n47"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/shrewsbury-shrewsbury-school-11/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Shrewsbury, Shrewsbury School, 11, pp. 1–52 (ca. 1375–1425)</p>",
+      "line_text": "Shrewsbury, Shrewsbury School, 11, pp. 1–52 (ca. 1375–1425)",
+      "language": "Middle Welsh",
+      "entry_type": "Translation",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/shrewsbury-shrewsbury-school-11/"
+      ]
+    },
+    {
+      "line_html": "<p>Bergua, Juan Bautista, and Edmundo González-Blanco, ed. and trans. <em>Los Evangelios Apocrifos</em>, Tomo 1. Madrid: Ediciones Ibéricas, 2012 (pp. 414–23, based on Tischendorf’s text).</p>",
+      "line_text": "Bergua, Juan Bautista, and Edmundo González-Blanco, ed. and trans. Los Evangelios Apocrifos, Tomo 1. Madrid: Ediciones Ibéricas, 2012 (pp. 414–23, based on Tischendorf’s text).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>De Santos Otero, Aurelio, trans. <em>Los Evangelios apócrifos</em>. 6th ed. Madrid: Editorial Católica, 1988 (pp. 243–58, based on Tischendorf’s text).</p>",
+      "line_text": "De Santos Otero, Aurelio, trans. Los Evangelios apócrifos. 6th ed. Madrid: Editorial Católica, 1988 (pp. 243–58, based on Tischendorf’s text).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Beyers, Rita. “De nativitate Mariae. Problèmes d’origine.” <em>Revue de théologie et de philosophie</em> 122 (1990): 171–88.</p>",
+      "line_text": "Beyers, Rita. “De nativitate Mariae. Problèmes d’origine.” Revue de théologie et de philosophie 122 (1990): 171–88.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “La réception médiévale du matériel apocryphe concernant la naissance et la jeunesse de Marie: Le <em>Speculum historiale</em> de Vincent de Beauvais et la <em>Legenda aurea</em> de Jacques de Voragine.” Pages 179–200 in <em>Marie dans les récits apocryphes chrétiens</em>, Tome 1:<em> Communications présentées à la 60e session de la Société Française d’Etudes mariales: Sanctuaire Notre-Dame-du-Chêne, Solesnes 2003</em>. Edited by Édouard Cothenet et al. Paris: Médiaspaul, 2004.</p>",
+      "line_text": "__________. “La réception médiévale du matériel apocryphe concernant la naissance et la jeunesse de Marie: Le Speculum historiale de Vincent de Beauvais et la Legenda aurea de Jacques de Voragine.” Pages 179–200 in Marie dans les récits apocryphes chrétiens, Tome 1: Communications présentées à la 60e session de la Société Française d’Etudes mariales: Sanctuaire Notre-Dame-du-Chêne, Solesnes 2003. Edited by Édouard Cothenet et al. Paris: Médiaspaul, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Transmission of Marian Apocrypha in the Latin Middle Ages.” <em>Apocrypha</em> 23 (2012): 117–40.</p>",
+      "line_text": "__________. “The Transmission of Marian Apocrypha in the Latin Middle Ages.” Apocrypha 23 (2012): 117–40.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dzon, Mary. <em>The Quest for the Christ Child in the Later Middle Ages</em>. Philadelphia, PA: University of Pennsylvania Press, 2017.</p>",
+      "line_text": "Dzon, Mary. The Quest for the Christ Child in the Later Middle Ages. Philadelphia, PA: University of Pennsylvania Press, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fassler, Margot. “Mary’s Nativity, Fulbert of Chartres, and the <em>Stirps Jesse</em>: Liturgical Innovation circa 1000 and Its Afterlife.” <em>Speculum</em> 75 (2000): 389–434.</p>",
+      "line_text": "Fassler, Margot. “Mary’s Nativity, Fulbert of Chartres, and the Stirps Jesse: Liturgical Innovation circa 1000 and Its Afterlife.” Speculum 75 (2000): 389–434.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>The Virgin of Chartres: Making History Through Liturgy and the Arts</em>. New Haven: Yale University Press, 2010.</p>",
+      "line_text": "__________. The Virgin of Chartres: Making History Through Liturgy and the Arts. New Haven: Yale University Press, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hawk, Brandon W. <em>Preaching Apocrypha in Anglo-Saxon England.</em> Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018.</p>",
+      "line_text": "Hawk, Brandon W. Preaching Apocrypha in Anglo-Saxon England. Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lambot, Cyrille. “L’homélie du pseudo-Jérôme sur l’Assomption et l’Evangile de la Nativité de</p>",
+      "line_text": "Lambot, Cyrille. “L’homélie du pseudo-Jérôme sur l’Assomption et l’Evangile de la Nativité de",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marie d’après une lettre inédite d’Hincmar.” <em>Revue bénédictine</em> 46 (1934): 265–82.</p>",
+      "line_text": "Marie d’après une lettre inédite d’Hincmar.” Revue bénédictine 46 (1934): 265–82.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

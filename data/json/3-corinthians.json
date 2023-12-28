@@ -1,0 +1,1434 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/3-corinthians/",
+  "nasscal_toc_title": "3 Corinthians",
+  "filename": "3-corinthians",
+  "latin_title": "Epistulae mutuae Corinthiorum et Pauli",
+  "abbrev": "3 Cor.",
+  "alt_titles": [
+    "Third Corinthians, ",
+    "Apocryphal Correspondence between Paul and the Corinthians"
+  ],
+  "clavis_number": 169,
+  "category": "Epistles",
+  "compiler": "Gregory Peter Fewster, University of Toronto",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S  </strong>Manuscript from Smyrna owned by one Mr. Gilbert North</p>",
+      "line_text": "S  Manuscript from Smyrna owned by one Mr. Gilbert North",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Editions:</p>",
+      "line_text": "Editions:",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=7ZEtbrdfavkC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wilkins, David. “Deux lettre armeniennes, une de St. Paul aux Corinthiens, et une autre des Corinthiens à St. Paul, avec une dissertation critique d’un inconnu sur ce mêmes lettres.” Pages 150–58 in <em>Histoire Critique de la République des Lettres, Tant Ancienne Que Moderne. Tome X</em>. Edited by S. Masson. Amsterdam: Jaques Desbordes, 1715 (edition with Latin translation).</p>",
+      "line_text": "Wilkins, David. “Deux lettre armeniennes, une de St. Paul aux Corinthiens, et une autre des Corinthiens à St. Paul, avec une dissertation critique d’un inconnu sur ce mêmes lettres.” Pages 150–58 in Histoire Critique de la République des Lettres, Tant Ancienne Que Moderne. Tome X. Edited by S. Masson. Amsterdam: Jaques Desbordes, 1715 (edition with Latin translation).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=7ZEtbrdfavkC&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Works claiming to have seen the manuscript:</p>",
+      "line_text": "Works claiming to have seen the manuscript:",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=IppkAAAAcAAJ&amp;pg=PA76&amp;dq=Gregory+Notes+and+Observations+upon+Some+Passages+of+Scripture&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj_kOuGlNnRAhUE6GMKHfYRAyYQ6AEIGjAA#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gregory, John. <em>Notes and Observations upon Some Passages of Scripture</em>. 2nd ed. London: Richard Roiston, 1650 (p. 2*)</p>",
+      "line_text": "Gregory, John. Notes and Observations upon Some Passages of Scripture. 2nd ed. London: Richard Roiston, 1650 (p. 2*)",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=IppkAAAAcAAJ&pg=PA76&dq=Gregory+Notes+and+Observations+upon+Some+Passages+of+Scripture&hl=en&sa=X&ved=0ahUKEwj_kOuGlNnRAhUE6GMKHfYRAyYQ6AEIGjAA#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=7X61_XvmFTsC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ussher, James. <em>In Polycarpianam epistolarum Ignatianarum syllogen annotationes</em>. Oxford: Henricus Hall, 1644 (p. 29).</p>",
+      "line_text": "Ussher, James. In Polycarpianam epistolarum Ignatianarum syllogen annotationes. Oxford: Henricus Hall, 1644 (p. 29).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=7X61_XvmFTsC&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/collectionofseve01tolauoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Toland, John. <em>A Collection of Several Pieces of John Toland, Now Publish’d from His Original Manuscripts: With Some Memoirs of His Life and Writings. Volume I</em>. London, 1726 (p. 377).</p>",
+      "line_text": "Toland, John. A Collection of Several Pieces of John Toland, Now Publish’d from His Original Manuscripts: With Some Memoirs of His Life and Writings. Volume I. London, 1726 (p. 377).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/collectionofseve01tolauoft"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H  </strong>Manuscript from Aleppo obtained by one Mr. Roland Sherman at the behest of William Whiston</p>",
+      "line_text": "H  Manuscript from Aleppo obtained by one Mr. Roland Sherman at the behest of William Whiston",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Edition (first done by W. Whiston 1728 in Latin, see below):</p>",
+      "line_text": "Edition (first done by W. Whiston 1728 in Latin, see below):",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YCtKAAAAMAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Whiston, W. and Whiston, G., ed. “Epistolae duae Armeniacae.” In <em>Mosis Chorenensis Historiae Armeniacae. Libri III</em>, 371–84. London, 1736. Updated and expanded in Carpzov, Johann Benedict. <em>Epistolae duae Apocryphae altera Corinthiorum ad Paulum Apost. altera Paulli Apost. ad Corinthios</em>. Lipsiae: Apud Ulric. Christian. Saalbachium, 1776.</p>",
+      "line_text": "Whiston, W. and Whiston, G., ed. “Epistolae duae Armeniacae.” In Mosis Chorenensis Historiae Armeniacae. Libri III, 371–84. London, 1736. Updated and expanded in Carpzov, Johann Benedict. Epistolae duae Apocryphae altera Corinthiorum ad Paulum Apost. altera Paulli Apost. ad Corinthios. Lipsiae: Apud Ulric. Christian. Saalbachium, 1776.",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=YCtKAAAAMAAJ&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Editions of Armenian text:</p>",
+      "line_text": "Editions of Armenian text:",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=JbRpSGWWNrQC&amp;pg=PA16&amp;lpg=PA16&amp;dq=aucher+armenian+grammar&amp;source=bl&amp;ots=RVMDat5Zpp&amp;sig=b7_wg8bZe-rvnGwCK4YqQTUmbjM&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiv-aOoscjUAhWf8oMKHbafD_EQ6AEISjAE#v=onepage&amp;q=corinthians&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Aucher, P. Paschal. <em>A Grammar Armenian and English</em>. Venice: Armenian Press of St. Lazarus, 1832 (pp. 144–61).</p>",
+      "line_text": "Aucher, P. Paschal. A Grammar Armenian and English. Venice: Armenian Press of St. Lazarus, 1832 (pp. 144–61).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=JbRpSGWWNrQC&pg=PA16&lpg=PA16&dq=aucher+armenian+grammar&source=bl&ots=RVMDat5Zpp&sig=b7_wg8bZe-rvnGwCK4YqQTUmbjM&hl=en&sa=X&ved=0ahUKEwiv-aOoscjUAhWf8oMKHbafD_EQ6AEISjAE#v=onepage&q=corinthians&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Hovhanessian, Vahan, <em>Third Corinthians: Reclaiming Paul for Christian Orthodoxy</em>. StBibLit 18. New York: Peter Lang, 2000 (reprint of Armenian text from Zohrapian, pp. 153–56).</p>",
+      "line_text": "Hovhanessian, Vahan, Third Corinthians: Reclaiming Paul for Christian Orthodoxy. StBibLit 18. New York: Peter Lang, 2000 (reprint of Armenian text from Zohrapian, pp. 153–56).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n23/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. <em>Der apokryphe dritte Korintherbrief</em>. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 41–52).</p>",
+      "line_text": "Vetter, Paul. Der apokryphe dritte Korintherbrief. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 41–52).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n23/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/astuatsashunchma00zohr/page/24/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Zohrapian, Hovhannes, ed. <em>Austuatsashunch’ Matean Hin ew Nor Ktakaranats</em>. Venice: Gortsarani Srboyn Ghazaru, 1805 (edition based on Armenian biblical manuscripts, Appendix, pp. 25–27). Facsimile edition: Claude Cox, ed. <em>Classical Armenian Bible: The Zohrab Bible</em>. Edited by Dr. H. Zohrabian<em>.</em> Delmar, NY: Caravan Books, 1984.</p>",
+      "line_text": "Zohrapian, Hovhannes, ed. Austuatsashunch’ Matean Hin ew Nor Ktakaranats. Venice: Gortsarani Srboyn Ghazaru, 1805 (edition based on Armenian biblical manuscripts, Appendix, pp. 25–27). Facsimile edition: Claude Cox, ed. Classical Armenian Bible: The Zohrab Bible. Edited by Dr. H. Zohrabian. Delmar, NY: Caravan Books, 1984.",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/astuatsashunchma00zohr/page/24/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P. Heid.</strong>  Heidelberg, Universitätsbibliothek, P. Heid. Inv. Kopt. 300+301 (6th cent.)</p>",
+      "line_text": "P. Heid.  Heidelberg, Universitätsbibliothek, P. Heid. Inv. Kopt. 300+301 (6th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301/"
+      ]
+    },
+    {
+      "line_html": "<p><em>Editio princeps:</em></p>",
+      "line_text": "Editio princeps:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actapauli00unkngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl. <em>Acta Pauli: Übersetzung, Untersuchungen und Koptischer Texte</em>. Leipzig: J. C. Hinrichs, 1905 (pp. 46–51).</p>",
+      "line_text": "Schmidt, Carl. Acta Pauli: Übersetzung, Untersuchungen und Koptischer Texte. Leipzig: J. C. Hinrichs, 1905 (pp. 46–51).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actapauli00unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Reprinted in:</p>",
+      "line_text": "Reprinted in:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. <em>Acta Pauli: Aus der heidelberger koptischen Payrushandschrift Nr. 1</em>. Hildesheim: Georg Olms Verlagsbuchhandlung, 1965 (pp. 40*–44* and plates 46–51).</p>",
+      "line_text": "Schmidt, Carl. Acta Pauli: Aus der heidelberger koptischen Payrushandschrift Nr. 1. Hildesheim: Georg Olms Verlagsbuchhandlung, 1965 (pp. 40*–44* and plates 46–51).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cologny-bodmer-library-miscellaneous-codex/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cologny, Bodmer Library, Bodmer Miscellaneous Codex, P. Bodmer X (3rd cent.)</p>",
+      "line_text": "Cologny, Bodmer Library, Bodmer Miscellaneous Codex, P. Bodmer X (3rd cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cologny-bodmer-library-miscellaneous-codex/"
+      ]
+    },
+    {
+      "line_html": "<p><em>Editio princeps</em>:</p>",
+      "line_text": "Editio princeps:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Testuz, Michel. <em>Papyrus Bodmer X-XII: Correspondance apocryphe des Corinthiens et de l’apôtre Paul; Onzième Ode de Salomon; XII: Fragment d’un Hymne liturgique. Manuscrit du IIIe siècle.</em> Cologny-Geneva: Bibliothèque Bodmer, 1959 (pp. 30–44).</p>",
+      "line_text": "Testuz, Michel. Papyrus Bodmer X-XII: Correspondance apocryphe des Corinthiens et de l’apôtre Paul; Onzième Ode de Salomon; XII: Fragment d’un Hymne liturgique. Manuscrit du IIIe siècle. Cologny-Geneva: Bibliothèque Bodmer, 1959 (pp. 30–44).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Reproduced in:</p>",
+      "line_text": "Reproduced in:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hovhanessian, Vahan. <em>Third Corinthians: Reclaiming Paul for Christian Orthodoxy</em>. StBibLit 18. New York: Peter Lang, 2000 (pp. 226–29).</p>",
+      "line_text": "Hovhanessian, Vahan. Third Corinthians: Reclaiming Paul for Christian Orthodoxy. StBibLit 18. New York: Peter Lang, 2000 (pp. 226–29).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Johnston, Steve. “La Correspondance apocryphe entre Paul et les Corinthiens: un pseudépigraphe paulinien au service de la polémique anti-gnostique de la fin du IIe siècle.” In <em>Colloque international “L’Évangile selon Thomas et les textes de Nag Hammadi,”</em> edited by Louis Painchaud and Paul-Hubert Poirier. Bibliothèque de Copte Nag Hammadi 8. Québec: Presses Université Laval, 2007 (pp. 226–29).</p>",
+      "line_text": "Johnston, Steve. “La Correspondance apocryphe entre Paul et les Corinthiens: un pseudépigraphe paulinien au service de la polémique anti-gnostique de la fin du IIe siècle.” In Colloque international “L’Évangile selon Thomas et les textes de Nag Hammadi,” edited by Louis Painchaud and Paul-Hubert Poirier. Bibliothèque de Copte Nag Hammadi 8. Québec: Presses Université Laval, 2007 (pp. 226–29).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wayment, Thomas A. <em>The Text of the New Testament Apocrypha (100–400 CE)</em>. New York: T&amp;T Clark, 2013 (new transcription and edition, pp. 12–17, pl. 215–22).</p>",
+      "line_text": "Wayment, Thomas A. The Text of the New Testament Apocrypha (100–400 CE). New York: T&amp;T Clark, 2013 (new transcription and edition, pp. 12–17, pl. 215–22).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-53-inf/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>M (L1)  </strong>Milan, Biblioteca Ambrosiana, Cod. Ambrose E 53 inf., fols. 169<sup>r</sup>–169<sup>v</sup> (10th cent.)</p>",
+      "line_text": "M (L1)  Milan, Biblioteca Ambrosiana, Cod. Ambrose E 53 inf., fols. 169r–169v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-53-inf/"
+      ]
+    },
+    {
+      "line_html": "<p><em>Editio princeps</em>:</p>",
+      "line_text": "Editio princeps:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://gallica.bnf.fr/ark:/12148/bpt6k64870j\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Carrière, Auguste, and Samuel Berger. <em>La correspondance apocryphe de saint Paul et des Corinthiens: ancienne version latine et traduction du texte arménien</em>. Paris: Fischbacher, 1891 (pp. 15–18).</p>",
+      "line_text": "Carrière, Auguste, and Samuel Berger. La correspondance apocryphe de saint Paul et des Corinthiens: ancienne version latine et traduction du texte arménien. Paris: Fischbacher, 1891 (pp. 15–18).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://gallica.bnf.fr/ark:/12148/bpt6k64870j"
+      ]
+    },
+    {
+      "line_html": "<p>——— . “La correspondance apocryphe de Saint Paul et les Corinthiens: Ancienne version latine et traduction du texte armenien.” <em>RTP </em>24 (1891): 333–51 (see pp. 343–45).</p>",
+      "line_text": "——— . “La correspondance apocryphe de Saint Paul et les Corinthiens: Ancienne version latine et traduction du texte armenien.” RTP 24 (1891): 333–51 (see pp. 343–45).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Reproduced in:</p>",
+      "line_text": "Reproduced in:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n33/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. <em>Der apokryphe dritte Korintbrief</em>. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 58–64).</p>",
+      "line_text": "Vetter, Paul. Der apokryphe dritte Korintbrief. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 58–64).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n33/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L (L2)  </strong>Laon, Bibliothèque municipale, 45 (13th cent.)</p>",
+      "line_text": "L (L2)  Laon, Bibliothèque municipale, 45 (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><em>Editio princeps</em>:</p>",
+      "line_text": "Editio princeps:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://idb.ub.uni-tuebingen.de/opendigi/thlz_017_1892\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bratke, Eduard. “Ein zweiter lateinischer Text des apokryphen Briefwechsels zwischen dem Apostel Paulus und den Korinthern.” <em>Theologische Literaturzeitung</em> 17 (1892): 585–88.</p>",
+      "line_text": "Bratke, Eduard. “Ein zweiter lateinischer Text des apokryphen Briefwechsels zwischen dem Apostel Paulus und den Korinthern.” Theologische Literaturzeitung 17 (1892): 585–88.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://idb.ub.uni-tuebingen.de/opendigi/thlz_017_1892"
+      ]
+    },
+    {
+      "line_html": "<p>Reproduced in:</p>",
+      "line_text": "Reproduced in:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n35/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. <em>Der apokryphe dritte Korintbrief</em>. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 64–69).</p>",
+      "line_text": "Vetter, Paul. Der apokryphe dritte Korintbrief. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 64–69).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n35/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Additional editions:</p>",
+      "line_text": "Additional editions:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenbr00harngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harnack, Adolf von. <em>Apocrypha IV: Die apocryphen Briefe des Paulus an die Laodicener und Korinther</em>. Kleine Texte für Vorlesungen und Übungen 12. Bonn: A. Marcus und H Weber’s Verlag, 1905 (pp. 8–22).</p>",
+      "line_text": "Harnack, Adolf von. Apocrypha IV: Die apocryphen Briefe des Paulus an die Laodicener und Korinther. Kleine Texte für Vorlesungen und Übungen 12. Bonn: A. Marcus und H Weber’s Verlag, 1905 (pp. 8–22).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenbr00harngoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sitzungsberichte1905deutsch\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harnack, Adolf von. “Untersuchungen über den apocryphen Briefwechsel der Korinther mit dem Apostel Paulus.” Pages 3–35 in <em>Sitzungsberichte der Koniglich preussischen Akademie der Wissenschaften</em>. Berlin, 1905 (pp. 7–15).</p>",
+      "line_text": "Harnack, Adolf von. “Untersuchungen über den apocryphen Briefwechsel der Korinther mit dem Apostel Paulus.” Pages 3–35 in Sitzungsberichte der Koniglich preussischen Akademie der Wissenschaften. Berlin, 1905 (pp. 7–15).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sitzungsberichte1905deutsch"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-preusischer-kulturbesitz-ms-ham-84/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>B  </strong>Berlin, Staatsbibliothek zu Berlin<strong> – </strong>Preußischer Kulturbesitz, Ham. 84, fol. 241<sup>r</sup>–241<sup>v</sup> (13th cent.)</p>",
+      "line_text": "B  Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, Ham. 84, fol. 241r–241v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-preusischer-kulturbesitz-ms-ham-84/"
+      ]
+    },
+    {
+      "line_html": "<p><em>Editio princeps</em>:</p>",
+      "line_text": "Editio princeps:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Boese, Helmut. “Über eine bisher unbekannte Handschrift des Briefwechsels zwischen Paulus und den Korinthern.” <em>ZNW</em> 44, no. 1 (1953): 66–76.</p>",
+      "line_text": "Boese, Helmut. “Über eine bisher unbekannte Handschrift des Briefwechsels zwischen Paulus und den Korinthern.” ZNW 44, no. 1 (1953): 66–76.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P  </strong>Paris, Bibliothèque nationale de France,  lat. 13069 + lat. 5288</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France,  lat. 13069 + lat. 5288",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-13069/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 13069, fol. 1 (17th/18th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 13069, fol. 1 (17th/18th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-13069/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5288/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France,  lat. 5288, fols. 32<sup>r</sup>–33<sup>r </sup>(10th/11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France,  lat. 5288, fols. 32r–33r (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5288/"
+      ]
+    },
+    {
+      "line_html": "<p><em>Editio princeps</em>:</p>",
+      "line_text": "Editio princeps:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>De Bruyne, D. “Un nouveau manuscrit de la troisième lettre de Saint Paul aux Corinthiens.” <em>RBén</em> 25 (1908): 431–34.</p>",
+      "line_text": "De Bruyne, D. “Un nouveau manuscrit de la troisième lettre de Saint Paul aux Corinthiens.” RBén 25 (1908): 431–34.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>B.N. lat. 13069 fol. 1 first mentioned in:</p>",
+      "line_text": "B.N. lat. 13069 fol. 1 first mentioned in:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Auger, Marie-Louise. “La Bibliothèque  de Saint-Bénigne de Dijon au XVIIe siècle: Le témoignage de dom Hugue Lanthenas.” <em>Scriptorium</em> 39.2 (1985): 234–64 (see pp. 240–41).</p>",
+      "line_text": "Auger, Marie-Louise. “La Bibliothèque  de Saint-Bénigne de Dijon au XVIIe siècle: Le témoignage de dom Hugue Lanthenas.” Scriptorium 39.2 (1985): 234–64 (see pp. 240–41).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Full edition:</p>",
+      "line_text": "Full edition:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Johnston, Steve. “Les témoins Latins de la correspondance apocryphe entre Paul et les Corinthiens conservés à La Bibliothèque Nationale de France.” <em>Apocrypha</em> 18 (2007): 139–66 (see pp. 150–55; photographs of MS, pp. 160–64).</p>",
+      "line_text": "Johnston, Steve. “Les témoins Latins de la correspondance apocryphe entre Paul et les Corinthiens conservés à La Bibliothèque Nationale de France.” Apocrypha 18 (2007): 139–66 (see pp. 150–55; photographs of MS, pp. 160–64).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z  </strong>Zürich, Zentralbibliotheque, Car. C. 14 (10th cent.)</p>",
+      "line_text": "Z  Zürich, Zentralbibliotheque, Car. C. 14 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><em>Editio Princeps</em>:</p>",
+      "line_text": "Editio Princeps:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>De Bruyne, D. “Un quatrième manuscript Latin de la correspondence apocryphe de Saint Paul avec les Corinthiens.” <em>RBén</em> 45 (1933): 189–95.</p>",
+      "line_text": "De Bruyne, D. “Un quatrième manuscript Latin de la correspondence apocryphe de Saint Paul avec les Corinthiens.” RBén 45 (1933): 189–95.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Additional editions:</p>",
+      "line_text": "Additional editions:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy. “Hérésie et orthodoxie selon la correspondance apocryphe entre les Corinthiens et l’Apôtre Paul.” <em>Cahiers de La Revue de Théologie et de Philosophie</em> 17 (1993): 60–63 (edition of M and P).</p>",
+      "line_text": "Rordorf, Willy. “Hérésie et orthodoxie selon la correspondance apocryphe entre les Corinthiens et l’Apôtre Paul.” Cahiers de La Revue de Théologie et de Philosophie 17 (1993): 60–63 (edition of M and P).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ActesDePaul/page/n251/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vouaux, Léon. <em>Les Actes de Paul et ses lettres apocryphes: Introduction, Textes, Traduction et Commentaire</em>. Les Apocryphes du Neuveau Testament. Paris: Librairie Letouzby et Anè, 1913  (full edition of Latin tradition corrected with Armenian and Coptic, pp. 248–74).</p>",
+      "line_text": "Vouaux, Léon. Les Actes de Paul et ses lettres apocryphes: Introduction, Textes, Traduction et Commentaire. Les Apocryphes du Neuveau Testament. Paris: Librairie Letouzby et Anè, 1913  (full edition of Latin tradition corrected with Armenian and Coptic, pp. 248–74).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ActesDePaul/page/n251/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>There is secondary evidence for <em>3 Corinthians</em> in Ephrem’s <em>Commentary on 3 Corinthians</em> and <em>Commentary on the Diatessaron </em>and in citations found in Aphrahat’s <em>Demonstrations</em>.</p>",
+      "line_text": "There is secondary evidence for 3 Corinthians in Ephrem’s Commentary on 3 Corinthians and Commentary on the Diatessaron and in citations found in Aphrahat’s Demonstrations.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Ephrem</strong></p>",
+      "line_text": "Ephrem",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Critical editions:</p>",
+      "line_text": "Critical editions:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/EphremWritings3Arm\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Patribus Mekitharistis, <em>Srboyn Ep’remi, Matenagrut’iwnk’</em>. Vol. 3. Venice, 1836.</p>",
+      "line_text": "Patribus Mekitharistis, Srboyn Ep’remi, Matenagrut’iwnk’. Vol. 3. Venice, 1836.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/EphremWritings3Arm"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Saint Éphrem, Commentaire de l’Évangile concordant, version arménienne</em>. CSCO 137, 145. Louvain: Durbecq, 1953–1954.</p>",
+      "line_text": "Leloir, Louis. Saint Éphrem, Commentaire de l’Évangile concordant, version arménienne. CSCO 137, 145. Louvain: Durbecq, 1953–1954.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. <em>Saint Éphrem, Commentaire de l’Évangile concordant. Texte syriaque (Manuscript Chester Beatty 709)</em>. Chester Beatty Monographs, 8. Dublin: Hidges Figgis, 1963. Expanded and rev. ed., Leuven: Peeters, 1990.</p>",
+      "line_text": "———. Saint Éphrem, Commentaire de l’Évangile concordant. Texte syriaque (Manuscript Chester Beatty 709). Chester Beatty Monographs, 8. Dublin: Hidges Figgis, 1963. Expanded and rev. ed., Leuven: Peeters, 1990.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. <em>Éphrem de Nisibe, Commentaire de l’Évangile concordant ou Diatessaron, traduit du syriaque et de l’arménien</em>. SC, 121. Paris Éditions du Cerf, 1966.</p>",
+      "line_text": "———. Éphrem de Nisibe, Commentaire de l’Évangile concordant ou Diatessaron, traduit du syriaque et de l’arménien. SC, 121. Paris Éditions du Cerf, 1966.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Latin translation:</p>",
+      "line_text": "Latin translation:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sephrmsyricomme00mechgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Patribus Mekitharistis, <em>S. Ephraem Syri, Commentarii in Epistolas D. Pauli: nunc primum ex armenio in latinum sermonem.</em> Venice, 1893 (pp. 117–24).</p>",
+      "line_text": "Patribus Mekitharistis, S. Ephraem Syri, Commentarii in Epistolas D. Pauli: nunc primum ex armenio in latinum sermonem. Venice, 1893 (pp. 117–24).",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sephrmsyricomme00mechgoog"
+      ]
+    },
+    {
+      "line_html": "<p>German translation:</p>",
+      "line_text": "German translation:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/p2geschichtedesn02zahnuoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Kanajanz in Zahn, Theodor. <em>Geschichte des Neutestamentlichen Kanons</em>. Zweiter Band: Zweiter hälft. Erlangen: Georg Bühme, 1892 (pp. 592–611 esp. 595–606).</p>",
+      "line_text": "Kanajanz in Zahn, Theodor. Geschichte des Neutestamentlichen Kanons. Zweiter Band: Zweiter hälft. Erlangen: Georg Bühme, 1892 (pp. 592–611 esp. 595–606).",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/p2geschichtedesn02zahnuoft"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n39/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. <em>Der apokryphe Dritte Korintbrief</em>. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 70–79).</p>",
+      "line_text": "Vetter, Paul. Der apokryphe Dritte Korintbrief. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 70–79).",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/DerApokrypheDritteKorintherbrief/Vetter#page/n39/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Studies:</p>",
+      "line_text": "Studies:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bundy, David. “The Pseudo-Ephremian Commentary on Third Corinthians: A Study in Exegesis and Anti-Bardaisanite Polemic.” In <em>After Bardaisan: Studies on Continuity and Change in Syriac Christianity in Honour of Professor Han J.W. Drijvers</em>, edited by Gerrit J. Reinink and Alexander Cornelis Klugkist. OLA 89. Louvain: Peeters, 1999.</p>",
+      "line_text": "Bundy, David. “The Pseudo-Ephremian Commentary on Third Corinthians: A Study in Exegesis and Anti-Bardaisanite Polemic.” In After Bardaisan: Studies on Continuity and Change in Syriac Christianity in Honour of Professor Han J.W. Drijvers, edited by Gerrit J. Reinink and Alexander Cornelis Klugkist. OLA 89. Louvain: Peeters, 1999.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hovhanessian, Vahan. “The Commentary of St. Ephrem the Syrian on the Apocryphal Third Corinthians: The School of Antioch.” Pages 69–84, 116–18 in <em>The School of Antioch: Biblical Theology in the Church in Syria</em>. Bible in the Christian Orthodox Tradition 6. New York: Peter Lang, 2016.</p>",
+      "line_text": "Hovhanessian, Vahan. “The Commentary of St. Ephrem the Syrian on the Apocryphal Third Corinthians: The School of Antioch.” Pages 69–84, 116–18 in The School of Antioch: Biblical Theology in the Church in Syria. Bible in the Christian Orthodox Tradition 6. New York: Peter Lang, 2016.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Johnston, Steve and Paul-Hubert Poirier. “Nouvelles citations chez Éphrem et Aphraate de la correspondance entre Paul et les Corinthiens.” <em>Apocrypha</em> 16 (2005): 137–47.</p>",
+      "line_text": "Johnston, Steve and Paul-Hubert Poirier. “Nouvelles citations chez Éphrem et Aphraate de la correspondance entre Paul et les Corinthiens.” Apocrypha 16 (2005): 137–47.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Aphrahat</strong></p>",
+      "line_text": "Aphrahat",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Critical editions:</p>",
+      "line_text": "Critical editions:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/homiliesaphraat00wriggoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William, ed. <em>The Homilies of Aphraates, the Persian Sage: Edited from Syriac Manuscripts of the Fifth and Sixth Centuries in the British Museum</em>. <em>Vol. 1. The Syriac Text</em>. London: Williams and Norgate, 1869.</p>",
+      "line_text": "Wright, William, ed. The Homilies of Aphraates, the Persian Sage: Edited from Syriac Manuscripts of the Fifth and Sixth Centuries in the British Museum. Vol. 1. The Syriac Text. London: Williams and Norgate, 1869.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/homiliesaphraat00wriggoog"
+      ]
+    },
+    {
+      "line_html": "<p>Parisot, D. Ioannes, ed. <em>Aphraatis Sapientis Persae. Demonstrationes I-XXII</em>. PS 1.1. Paris: Firmin-Didot, 1894.</p>",
+      "line_text": "Parisot, D. Ioannes, ed. Aphraatis Sapientis Persae. Demonstrationes I-XXII. PS 1.1. Paris: Firmin-Didot, 1894.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/patrologiasyria02grafgoog#page/n12/mode/1up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———, ed. <em>Aphraatis Sapientis Persae Demonstrationes XXIII</em>. PS 1.2. Paris: Firmin- Didot, 1907.</p>",
+      "line_text": "———, ed. Aphraatis Sapientis Persae Demonstrationes XXIII. PS 1.2. Paris: Firmin- Didot, 1907.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/patrologiasyria02grafgoog#page/n12/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p>French translation:</p>",
+      "line_text": "French translation:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pierre, M.-J. <em>Aphraate le Sage Persan. Les Exposés I-X. Traduction de syriaque, introduction et notes</em>. SC 349. Paris: Les Éditions du Cerf, 1988.</p>",
+      "line_text": "Pierre, M.-J. Aphraate le Sage Persan. Les Exposés I-X. Traduction de syriaque, introduction et notes. SC 349. Paris: Les Éditions du Cerf, 1988.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. <em>Aphraate le Sage Persan. Les Exposés, XI-XXIII. Traduction de syriaque, notes et index</em>. SC 359. Paris: Les Éditions du Cerf, 1989.</p>",
+      "line_text": "———. Aphraate le Sage Persan. Les Exposés, XI-XXIII. Traduction de syriaque, notes et index. SC 359. Paris: Les Éditions du Cerf, 1989.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>English translation:</p>",
+      "line_text": "English translation:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lehto, Adam. <em>The Demonstrations of Aphrahat, the Persian Sage</em>. Gorgias Eastern Christianity Series, 27. Piscataway, NJ: Gorgias, 2010.</p>",
+      "line_text": "Lehto, Adam. The Demonstrations of Aphrahat, the Persian Sage. Gorgias Eastern Christianity Series, 27. Piscataway, NJ: Gorgias, 2010.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Studies:</p>",
+      "line_text": "Studies:",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Johnston, Steve, and Paul-Hubert Poirier. “Nouvelles citations chez Éphrem et Aphraate de la correspondance entre Paul et les Corinthiens.” <em>Apocrypha</em> 16 (2005): 137–47.</p>",
+      "line_text": "Johnston, Steve, and Paul-Hubert Poirier. “Nouvelles citations chez Éphrem et Aphraate de la correspondance entre Paul et les Corinthiens.” Apocrypha 16 (2005): 137–47.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Walters, J. Edward. “Evidence for Citations of 3 Corinthians and Their Influence in the <em>Demonstrations</em> of Aphrahat.” <em>VC</em> 67.3 (2013): 248–62.</p>",
+      "line_text": "Walters, J. Edward. “Evidence for Citations of 3 Corinthians and Their Influence in the Demonstrations of Aphrahat.” VC 67.3 (2013): 248–62.",
+      "language": "Ancient Commentaries",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Unknown in Whiston, William. <em>A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II</em>. London, 1728, 594–602 (likely from Armenian MS H).</p>",
+      "line_text": "Unknown in Whiston, William. A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II. London, 1728, 594–602 (likely from Armenian MS H).",
+      "language": "Arabic",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From Greek:</p>",
+      "line_text": "From Greek:",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rist, Martin. “III Corinthians as a Pseudepigraphic Refutation of Marcionism.” <em>Iliff Review</em> 26.3 (1969): 49–58 (50–52).</p>",
+      "line_text": "Rist, Martin. “III Corinthians as a Pseudepigraphic Refutation of Marcionism.” Iliff Review 26.3 (1969): 49–58 (50–52).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Hovhanessian, Vahan. <em>Third Corinthians: Reclaiming Paul for Christian Orthodoxy</em>. StBibLit 18. New York: Peter Lang, 2000, 76–79.</p>",
+      "line_text": "Hovhanessian, Vahan. Third Corinthians: Reclaiming Paul for Christian Orthodoxy. StBibLit 18. New York: Peter Lang, 2000, 76–79.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>White, Benjamin. <em>Remembering Paul: Ancient and Modern Contests over the Image of the Apostle</em>. Oxford: Oxford University Press, 2014, 190–93.</p>",
+      "line_text": "White, Benjamin. Remembering Paul: Ancient and Modern Contests over the Image of the Apostle. Oxford: Oxford University Press, 2014, 190–93.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From Armenian:</p>",
+      "line_text": "From Armenian:",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"http://archive.org/details/worksoflordbyron11byro\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Byron, George Gordon. “Appendix I. Translations from the Armenian.” In <em>The Works of Lord Byron. Letters and Journals. Vol. IV.</em> Edited by Rowland E. Prothero, 429–36. London: J. Murray, 1905 (translation of Zohrapian’s text).</p>",
+      "line_text": "Byron, George Gordon. “Appendix I. Translations from the Armenian.” In The Works of Lord Byron. Letters and Journals. Vol. IV. Edited by Rowland E. Prothero, 429–36. London: J. Murray, 1905 (translation of Zohrapian’s text).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://archive.org/details/worksoflordbyron11byro"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=JbRpSGWWNrQC&amp;pg=PA16&amp;lpg=PA16&amp;dq=aucher+armenian+grammar&amp;source=bl&amp;ots=RVMDat5Zpp&amp;sig=b7_wg8bZe-rvnGwCK4YqQTUmbjM&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiv-aOoscjUAhWf8oMKHbafD_EQ6AEISjAE#v=onepage&amp;q=corinthians&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “Epistle of Paul to the Corinthians.” Pages 144–61 in P. Paschal Aucher, <em>A Grammar Armenian and English</em>. Venice: Armenian Press of St. Lazarus, 1832.</p>",
+      "line_text": "__________. “Epistle of Paul to the Corinthians.” Pages 144–61 in P. Paschal Aucher, A Grammar Armenian and English. Venice: Armenian Press of St. Lazarus, 1832.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=JbRpSGWWNrQC&pg=PA16&lpg=PA16&dq=aucher+armenian+grammar&source=bl&ots=RVMDat5Zpp&sig=b7_wg8bZe-rvnGwCK4YqQTUmbjM&hl=en&sa=X&ved=0ahUKEwiv-aOoscjUAhWf8oMKHbafD_EQ6AEISjAE#v=onepage&q=corinthians&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/anewandfullmeth03jonegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament. To Which Is Subjoined A Vindication of the Former Part of St. Matthew’s Gospel</em>. Vol. 1. Oxford: Clarendon, 1827, 130–32 (translation based on La Croze’s Latin translation of Armenian MS H).</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. To Which Is Subjoined A Vindication of the Former Part of St. Matthew’s Gospel. Vol. 1. Oxford: Clarendon, 1827, 130–32 (translation based on La Croze’s Latin translation of Armenian MS H).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/anewandfullmeth03jonegoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=2HVcAAAAcAAJ&amp;dq=Neue+Zeitungen+von+gelehrten+Sachen+1715&amp;q=wilkins#v=snippet&amp;q=wilkins&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Krause, Johann Gottlieb. <em>Neue Zeitungen von Gelehrten Sachen</em> no. 22 (Mai 31, 1715): 173–75. (translation based on David Wilkin’s Latin translation of the Armenian MS S).</p>",
+      "line_text": "Krause, Johann Gottlieb. Neue Zeitungen von Gelehrten Sachen no. 22 (Mai 31, 1715): 173–75. (translation based on David Wilkin’s Latin translation of the Armenian MS S).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=2HVcAAAAcAAJ&dq=Neue+Zeitungen+von+gelehrten+Sachen+1715&q=wilkins#v=snippet&q=wilkins&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://scholar.csl.edu/cgi/viewcontent.cgi?article=3665&amp;context=ctm\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Scharlemann, Martin H. “Third Corinthians.” <em>CTQ</em> 26 (1955): 518–29 (534–28) (translation based on Rinck’s German).</p>",
+      "line_text": "Scharlemann, Martin H. “Third Corinthians.” CTQ 26 (1955): 518–29 (534–28) (translation based on Rinck’s German).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://scholar.csl.edu/cgi/viewcontent.cgi?article=3665&context=ctm"
+      ]
+    },
+    {
+      "line_html": "<p>Whiston, William. <em>A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II</em>. London, 1728 (translation of Armenian MS H, pp. 595–603).</p>",
+      "line_text": "Whiston, William. A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II. London, 1728 (translation of Armenian MS H, pp. 595–603).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From <em>Acts of Paul</em> editions:</p>",
+      "line_text": "From Acts of Paul editions:",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. Keith. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation</em>. Oxford: Oxford University Press, 2005, 380–82.</p>",
+      "line_text": "Elliott, J. Keith. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Oxford: Oxford University Press, 2005, 380–82.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalactsof00pickuoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pick, Bernhard. <em>The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas</em>. Chicago: Open Court, 1909, 38–42.</p>",
+      "line_text": "Pick, Bernhard. The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas. Chicago: Open Court, 1909, 38–42.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalactsof00pickuoft"
+      ]
+    },
+    {
+      "line_html": "<p>James, M.R. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses, with Other Narratives and Translations.</em> Oxford: Clarendon, 1975, 288–90.</p>",
+      "line_text": "James, M.R. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses, with Other Narratives and Translations. Oxford: Clarendon, 1975, 288–90.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/earlierepistleso00lakeuoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lake, Kirsopp. <em>The Earlier Epistles of St. Paul</em>. London: Rivingtons, 1911, 236–40 (translation based on Harnack’s edition).</p>",
+      "line_text": "Lake, Kirsopp. The Earlier Epistles of St. Paul. London: Rivingtons, 1911, 236–40 (translation based on Harnack’s edition).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/earlierepistleso00lakeuoft"
+      ]
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm.  “Acts of Paul.” In <em>New Testament Apocrypha</em>, vol. 2:<em> Writings Relating to the Apostles; Apocalypses and Related Subjects</em>, edited by Wilhelm Schneemelcher. Trans. Robert McL. Wilson. Louisville: Westminster John Knox Press, 2003, 213–70 (254–56).</p>",
+      "line_text": "Schneemelcher, Wilhelm.  “Acts of Paul.” In New Testament Apocrypha, vol. 2: Writings Relating to the Apostles; Apocalypses and Related Subjects, edited by Wilhelm Schneemelcher. Trans. Robert McL. Wilson. Louisville: Westminster John Knox Press, 2003, 213–70 (254–56).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. <em>The Making of Paul: Constructions of the Apostle in Early Christianity</em>. Minneapolis: Fortress Press, 2010 (pp. 96–99).</p>",
+      "line_text": "Pervo, Richard I. The Making of Paul: Constructions of the Apostle in Early Christianity. Minneapolis: Fortress Press, 2010 (pp. 96–99).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. <em>The Acts of Paul: A New Translation with Introduction and Commentary</em>. Eugene, OR: Cascade, 2014 (pp. 258–59, 265–66).</p>",
+      "line_text": "———. The Acts of Paul: A New Translation with Introduction and Commentary. Eugene, OR: Cascade, 2014 (pp. 258–59, 265–66).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From Greek:</p>",
+      "line_text": "From Greek:",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Testuz, Michel. <em>Papyrus Bodmer X-XII</em>. Cologne: Bibliotheca Bodmeriana, 1959, 31–45.</p>",
+      "line_text": "Testuz, Michel. Papyrus Bodmer X-XII. Cologne: Bibliotheca Bodmeriana, 1959, 31–45.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From Armenian:</p>",
+      "line_text": "From Armenian:",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"http://gallica.bnf.fr/ark:/12148/bpt6k64870j\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Carrière, Auguste, and Samuel Berger. <em>La correspondance apocryphe de saint Paul et des Corinthiens: ancienne version latine et traduction du texte arménien</em>. Paris: Fischbacher, 1891 (pp. 19–23).</p>",
+      "line_text": "Carrière, Auguste, and Samuel Berger. La correspondance apocryphe de saint Paul et des Corinthiens: ancienne version latine et traduction du texte arménien. Paris: Fischbacher, 1891 (pp. 19–23).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://gallica.bnf.fr/ark:/12148/bpt6k64870j"
+      ]
+    },
+    {
+      "line_html": "<p>———. “La correspondance apocryphe de Saint Paul et les Corinthiens: Ancienne version latine et traduction du texte armenien.” <em>RTP</em> 24 (1891): 333–351 (see pp. 347–51).</p>",
+      "line_text": "———. “La correspondance apocryphe de Saint Paul et les Corinthiens: Ancienne version latine et traduction du texte armenien.” RTP 24 (1891): 333–351 (see pp. 347–51).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From Latin:</p>",
+      "line_text": "From Latin:",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Johnston, Steve. “Les témoins Latins de la correspondance apocryphe entre Paul et les Corinthiens conservés à La Bibliothèque Nationale de France.” <em>Apocrypha</em> 18 (2007): 139–66 (translation based on his edition of the Latin MS P, pp. 156–59).</p>",
+      "line_text": "Johnston, Steve. “Les témoins Latins de la correspondance apocryphe entre Paul et les Corinthiens conservés à La Bibliothèque Nationale de France.” Apocrypha 18 (2007): 139–66 (translation based on his edition of the Latin MS P, pp. 156–59).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From <em>Acts of Paul</em> editions:</p>",
+      "line_text": "From Acts of Paul editions:",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amiot, F. <em>La Bible Apocryphe: Évangiles apocryphe</em>. Paris: Librarie Arthème Fayard, 1952 (pp. 243–47).</p>",
+      "line_text": "Amiot, F. La Bible Apocryphe: Évangiles apocryphe. Paris: Librarie Arthème Fayard, 1952 (pp. 243–47).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy, with Pierre Cherix, and Rudolph Kasser. “Acte de Paul.” Pages 1117–77 in <em>Écrits apocryphes chrétiens, tome I.</em> Edited by François Bovon and Pierre Geoltrain. Collection Bibliothèque de la Pléiade 442. Paris: Gallimard, 1997.</p>",
+      "line_text": "Rordorf, Willy, with Pierre Cherix, and Rudolph Kasser. “Acte de Paul.” Pages 1117–77 in Écrits apocryphes chrétiens, tome I. Edited by François Bovon and Pierre Geoltrain. Collection Bibliothèque de la Pléiade 442. Paris: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ActesDePaul\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vouaux, Léon. <em>Les Actes de Paul et ses Lettres Apocryphes: Introduction, Textes, Traduction et Commentaire</em>. Les Apocryphes du Neuveau Testament. Paris: Librairie Letouzby et Anè, 1913 (pp. 249–75).</p>",
+      "line_text": "Vouaux, Léon. Les Actes de Paul et ses Lettres Apocryphes: Introduction, Textes, Traduction et Commentaire. Les Apocryphes du Neuveau Testament. Paris: Librairie Letouzby et Anè, 1913 (pp. 249–75).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ActesDePaul"
+      ]
+    },
+    {
+      "line_html": "<p>From Armenian:</p>",
+      "line_text": "From Armenian:",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=bjgAAAAAYAAJ&amp;pg=PP7&amp;dq=Das+Sendschreiben+der+Korinther+an+den+Apostel+Paulus&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Das%20Sendschreiben%20der%20Korinther%20an%20den%20Apostel%20Paulus&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rinck, Wilhelm Friedrich. <em>Das Sendschreiben der Korinther an den Apostel Paulus und das Dritte Sendschreiben Pauli an die Korinther</em>. Heidelberg: C. F. Winter, 1823 (pp. 228–43).</p>",
+      "line_text": "Rinck, Wilhelm Friedrich. Das Sendschreiben der Korinther an den Apostel Paulus und das Dritte Sendschreiben Pauli an die Korinther. Heidelberg: C. F. Winter, 1823 (pp. 228–43).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=bjgAAAAAYAAJ&pg=PP7&dq=Das+Sendschreiben+der+Korinther+an+den+Apostel+Paulus&hl=en&sa=X&redir_esc=y#v=onepage&q=Das%20Sendschreiben%20der%20Korinther%20an%20den%20Apostel%20Paulus&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digizeitschriften.de/dms/img/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-6970%7Clog00051\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. “Der apokryphe dritte Korintherbrief, neu Übersetzt seiner Entstehung untersucht.” <em>TQ</em> 72 (1890): 610–39 (translation based on Ephrem’s text, pp. 615–24).</p>",
+      "line_text": "Vetter, Paul. “Der apokryphe dritte Korintherbrief, neu Übersetzt seiner Entstehung untersucht.” TQ 72 (1890): 610–39 (translation based on Ephrem’s text, pp. 615–24).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.digizeitschriften.de/dms/img/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-6970%7Clog00051"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/DerApokrypheDritteKorintherbrief\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. <em>Der apokryphe dritte Korintbrief</em>. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 52–57).</p>",
+      "line_text": "Vetter, Paul. Der apokryphe dritte Korintbrief. Wien: Mechitharistenbuchdruckerei, 1894 (pp. 52–57).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/DerApokrypheDritteKorintherbrief"
+      ]
+    },
+    {
+      "line_html": "<p>From <em>Acts of Paul</em> traditions:</p>",
+      "line_text": "From Acts of Paul traditions:",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actapauli00unkngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl. <em>Acta Pauli: Übersetzung, Untersuchungen und Koptischer Texte</em>. Leipzig: J. C. Hinrichs, 1905, 74–82 (reprint of<em> Acta Pauli: Aus der heidelberger koptischen Payrushandschrift Nr. 1</em>. Hildescheim: Georg Olms Verlagsbuchhandlung, 1965, 74–82).</p>",
+      "line_text": "Schmidt, Carl. Acta Pauli: Übersetzung, Untersuchungen und Koptischer Texte. Leipzig: J. C. Hinrichs, 1905, 74–82 (reprint of Acta Pauli: Aus der heidelberger koptischen Payrushandschrift Nr. 1. Hildescheim: Georg Olms Verlagsbuchhandlung, 1965, 74–82).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/actapauli00unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm. “Paulusakten.” Pages 177–220 in <em>Neutestamentliche Apokryphen in Deutscher Übersetzung. II. Band. Apostolisches, Apokalypsen Und Verwandtes</em>, edited by Wilhelm. Schneemelcher and Edgar. Hennecke, 3rd ed. Tübingen: J.C.B. Mohr (Paul Siebeck), 1964  (pp. 258–61).</p>",
+      "line_text": "Schneemelcher, Wilhelm. “Paulusakten.” Pages 177–220 in Neutestamentliche Apokryphen in Deutscher Übersetzung. II. Band. Apostolisches, Apokalypsen Und Verwandtes, edited by Wilhelm. Schneemelcher and Edgar. Hennecke, 3rd ed. Tübingen: J.C.B. Mohr (Paul Siebeck), 1964  (pp. 258–61).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Attempts at retro-translation from Armenian:</p>",
+      "line_text": "Attempts at retro-translation from Armenian:",
+      "language": "Greek",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YCtKAAAAMAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Whiston, W. and Whiston, G., ed. “Epistolae duae Armeniacae.” In <em>Mosis Chorenensis Historiae Armeniacae. Libri III</em>, 371–84. London, 1786.</p>",
+      "line_text": "Whiston, W. and Whiston, G., ed. “Epistolae duae Armeniacae.” In Mosis Chorenensis Historiae Armeniacae. Libri III, 371–84. London, 1786.",
+      "language": "Greek",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=YCtKAAAAMAAJ&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenbr00harngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harnack, Adolf von. <em>Apocrypha IV: Die apocryphen Briefe des Paulus an die Laodicener und Korinther</em>. Kleine Texte für Vorlesungen und Übungen 12. Bonn: A. Marcus und H. Weber’s Verlag, 1905 (pp. 9–23).</p>",
+      "line_text": "Harnack, Adolf von. Apocrypha IV: Die apocryphen Briefe des Paulus an die Laodicener und Korinther. Kleine Texte für Vorlesungen und Übungen 12. Bonn: A. Marcus und H. Weber’s Verlag, 1905 (pp. 9–23).",
+      "language": "Greek",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenbr00harngoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sitzungsberichte1905deutsch\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harnack, Adolf von. “Untersuchungen über den apocryphen Briefwechsel der Korinther mit dem Apostel Paulus.” Pages 3–35 in <em>Sitzungsberichte der Koniglich preussischen Akademie der </em>Wissenschaften. Berlin, 1905 (pp. 18–28).</p>",
+      "line_text": "Harnack, Adolf von. “Untersuchungen über den apocryphen Briefwechsel der Korinther mit dem Apostel Paulus.” Pages 3–35 in Sitzungsberichte der Koniglich preussischen Akademie der Wissenschaften. Berlin, 1905 (pp. 18–28).",
+      "language": "Greek",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/sitzungsberichte1905deutsch"
+      ]
+    },
+    {
+      "line_html": "<p>Gregory indicates that he saw an Italian version alongside the Armenian MS S.</p>",
+      "line_text": "Gregory indicates that he saw an Italian version alongside the Armenian MS S.",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=IppkAAAAcAAJ&amp;pg=PA76&amp;dq=Gregory+Notes+and+Observations+upon+Some+Passages+of+Scripture&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj_kOuGlNnRAhUE6GMKHfYRAyYQ6AEIGjAA#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gregory, John. <em>Notes and Observations upon Some Passages of Scripture</em>. 2nd ed. London: Richard Roiston, 1650 (p. 2*).</p>",
+      "line_text": "Gregory, John. Notes and Observations upon Some Passages of Scripture. 2nd ed. London: Richard Roiston, 1650 (p. 2*).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=IppkAAAAcAAJ&pg=PA76&dq=Gregory+Notes+and+Observations+upon+Some+Passages+of+Scripture&hl=en&sa=X&ved=0ahUKEwj_kOuGlNnRAhUE6GMKHfYRAyYQ6AEIGjAA#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>From Greek:</p>",
+      "line_text": "From Greek:",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>D’Anna, Alberto. “La pseudepigrafa Corrispondenza tra Paolo e i Corinzi: il suo contesto e la sua funzione nella costruzione di un’identità dottrinale cristiana.” <em>Annali Di Storia Dell’esegesi</em> 20 (2003): 111–37 (pp. 111–13).</p>",
+      "line_text": "D’Anna, Alberto. “La pseudepigrafa Corrispondenza tra Paolo e i Corinzi: il suo contesto e la sua funzione nella costruzione di un’identità dottrinale cristiana.” Annali Di Storia Dell’esegesi 20 (2003): 111–37 (pp. 111–13).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>From <em>Acts of Paul</em> editions:</p>",
+      "line_text": "From Acts of Paul editions:",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetto, Mario. “Paolo.” Pages 241–304 in <em>Gli Apocrifi Del Nuovo Testamento. Vol. II. Atti E Leggende</em>. Genova: Marietti Editori, 1966 (pp. 279–82).</p>",
+      "line_text": "Erbetto, Mario. “Paolo.” Pages 241–304 in Gli Apocrifi Del Nuovo Testamento. Vol. II. Atti E Leggende. Genova: Marietti Editori, 1966 (pp. 279–82).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=lBKA3eJrJEAC&amp;dq=Codex+Apocryphus+Novi+Testamenti+1743&amp;q=De+Epistola+Pauli#v=snippet&amp;q=De%20Epistola%20Pauli&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a> Fabricius, Johann A. <em>Codicis Apocryphi Novi Testamenti, pars Tertia nunc Primum Edita</em>. Hamburg: Benjamin Schilleri &amp; Joh. Christoph. Kisneri, 1719 (reproduction of both Wilkins’ and La Croze’s translations of Armenian MS S, vol. 3, pp. 668–70, 681–83).</p>",
+      "line_text": " Fabricius, Johann A. Codicis Apocryphi Novi Testamenti, pars Tertia nunc Primum Edita. Hamburg: Benjamin Schilleri &amp; Joh. Christoph. Kisneri, 1719 (reproduction of both Wilkins’ and La Croze’s translations of Armenian MS S, vol. 3, pp. 668–70, 681–83).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=lBKA3eJrJEAC&dq=Codex+Apocryphus+Novi+Testamenti+1743&q=De+Epistola+Pauli#v=snippet&q=De%20Epistola%20Pauli&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=8HosAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>La Croze in Jo. Alberti Fabricii. <em>Bibliotheca Graecae. Volumen Decimum Quartum Ultimique</em>. Hamburg, 1728 (reproduction of La Croze’s translation of Armenian MS S, pp. 272–75).</p>",
+      "line_text": "La Croze in Jo. Alberti Fabricii. Bibliotheca Graecae. Volumen Decimum Quartum Ultimique. Hamburg, 1728 (reproduction of La Croze’s translation of Armenian MS S, pp. 272–75).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=8HosAAAAYAAJ&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>La Croze in Whiston, William. <em>A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II</em>. London, 1728 (translation from Armenian MS H, pp. 594–602).</p>",
+      "line_text": "La Croze in Whiston, William. A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II. London, 1728 (translation from Armenian MS H, pp. 594–602).",
+      "language": "Latin",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Negri in Whiston, William. <em>A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II</em>. London, 1728 (translation from Arabic translation of Armenian MS H, pp. 595–603).</p>",
+      "line_text": "Negri in Whiston, William. A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II. London, 1728 (translation from Arabic translation of Armenian MS H, pp. 595–603).",
+      "language": "Latin",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Masson, S. “Deux lettre armeniennes, une de St. Paul aux Corinthiens, et une autre des Corinthiens à St. Paul, avec une dissertation critique d’un iconnu sur ce mêmes lettres.” Pages 150–58 in <em>Histoire Critique de La République Des Lettres, Tant Ancienne Que Moderne. Tome X</em>. Amsterdam: Jaques Desbordes, 1715  (translation of Armenian MS S).</p>",
+      "line_text": "Masson, S. “Deux lettre armeniennes, une de St. Paul aux Corinthiens, et une autre des Corinthiens à St. Paul, avec une dissertation critique d’un iconnu sur ce mêmes lettres.” Pages 150–58 in Histoire Critique de La République Des Lettres, Tant Ancienne Que Moderne. Tome X. Amsterdam: Jaques Desbordes, 1715  (translation of Armenian MS S).",
+      "language": "Latin",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YCtKAAAAMAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>La Croze in Whiston, G. and Whiston, G., ed. “Epistolae duae Armeniacae.” Pages 371–84 in <em>Mosis Chorenensis Historiae Armeniacae. Libri III</em>. London, 1786 (translation of Armenian MS H).</p>",
+      "line_text": "La Croze in Whiston, G. and Whiston, G., ed. “Epistolae duae Armeniacae.” Pages 371–84 in Mosis Chorenensis Historiae Armeniacae. Libri III. London, 1786 (translation of Armenian MS H).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=YCtKAAAAMAAJ&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus01gilegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, J. A. de. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings, Referring to the First Ages of Christianity in the Original Languages. Collected Together from the Editions of Fabricus, Thilo, and Others. Part II</em>. London: D. Nutt, 1852 (reproduction of Fabricius, pp. 509–10).</p>",
+      "line_text": "Giles, J. A. de. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings, Referring to the First Ages of Christianity in the Original Languages. Collected Together from the Editions of Fabricus, Thilo, and Others. Part II. London: D. Nutt, 1852 (reproduction of Fabricius, pp. 509–10).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus01gilegoog"
+      ]
+    },
+    {
+      "line_html": "<p>Aasgaard, Reidar. “Paulus’ tredje brev til Korinterne.” Pages 251–56 in <em>Tidligkristne apokryfer</em>. Edited by Reidar Aasgaard. Verdens Hellige Skrifter. Oslo: De norske bokklubbene, 2011.</p>",
+      "line_text": "Aasgaard, Reidar. “Paulus’ tredje brev til Korinterne.” Pages 251–56 in Tidligkristne apokryfer. Edited by Reidar Aasgaard. Verdens Hellige Skrifter. Oslo: De norske bokklubbene, 2011.",
+      "language": "Norwegian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Asmussen, Jes Peter. “Der apokryphe dritte Korintherbrief in der armenischen Tradition.” <em>AcOr</em> 35 (1973): 51–55.</p>",
+      "line_text": "Asmussen, Jes Peter. “Der apokryphe dritte Korintherbrief in der armenischen Tradition.” AcOr 35 (1973): 51–55.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Berendts, A. “Zur Christologie des apokryphen dritten Korintherbriefes.” In <em>Abhandlungen Alexander von Öttingen</em>, 1–28. Munich: Beck, 1898.</p>",
+      "line_text": "Berendts, A. “Zur Christologie des apokryphen dritten Korintherbriefes.” In Abhandlungen Alexander von Öttingen, 1–28. Munich: Beck, 1898.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bundy, David. “The Pseudo-Ephremian Commentary on Third Corinthians: A Study in Exegesis and Anti-Bardaisanite Polemic.” In <em>After Bardaisan: Studies on Continuity and Change in Syriac Christianity in Honour of Professor Han J.W. Drijvers</em>, edited by Gerrit J. Reinink and Alexander Cornelis Klugkist. OLA 89. Louvain: Peeters, 1999.</p>",
+      "line_text": "Bundy, David. “The Pseudo-Ephremian Commentary on Third Corinthians: A Study in Exegesis and Anti-Bardaisanite Polemic.” In After Bardaisan: Studies on Continuity and Change in Syriac Christianity in Honour of Professor Han J.W. Drijvers, edited by Gerrit J. Reinink and Alexander Cornelis Klugkist. OLA 89. Louvain: Peeters, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"_5yl5\">Calhoun, Robert Matthew. “The Resurrection of the Flesh in Third Corinthians.” Pages 235–57 in <em>Christian Body, Christian Self</em>. Edited by Clare K. Rothschild and Trevor W. Thompson. WUNT 284. Tübingen: Mohr Siebeck, 2011.</span></p>",
+      "line_text": "Calhoun, Robert Matthew. “The Resurrection of the Flesh in Third Corinthians.” Pages 235–57 in Christian Body, Christian Self. Edited by Clare K. Rothschild and Trevor W. Thompson. WUNT 284. Tübingen: Mohr Siebeck, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Carrière, A., and S. Berger. <em>La correspondance apocryphe de saint Paul et des Corinthiens: ancienne version latine et traduction du texte arménien</em>. Paris: Fischbacher, 1891.</p>",
+      "line_text": "Carrière, A., and S. Berger. La correspondance apocryphe de saint Paul et des Corinthiens: ancienne version latine et traduction du texte arménien. Paris: Fischbacher, 1891.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Carrière, A., and S. Berger. “La correspondance apocryphe de Saint Paul et les Corinthiens: ancienne version latine et traduction du texte arménien.” <em>RTP</em> 24 (1891): 333–51.</p>",
+      "line_text": "Carrière, A., and S. Berger. “La correspondance apocryphe de Saint Paul et les Corinthiens: ancienne version latine et traduction du texte arménien.” RTP 24 (1891): 333–51.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Crowe, S. Peter. “Text Critical Investigation of the Armenian Version of <em>Third Corinthians</em>.” In <em>Apocryphes arméniens: transmission – traduction – creation – iconographie. Actes du colloque international sur la literature apocryphe en langue arménienne (Genève, 18-20 septembre 1997)</em>, edited by Valentina Calzolari Bouvier, et al., 91–102. Lausanne: Éditions du Zèbre, 1999.</p>",
+      "line_text": "Crowe, S. Peter. “Text Critical Investigation of the Armenian Version of Third Corinthians.” In Apocryphes arméniens: transmission – traduction – creation – iconographie. Actes du colloque international sur la literature apocryphe en langue arménienne (Genève, 18-20 septembre 1997), edited by Valentina Calzolari Bouvier, et al., 91–102. Lausanne: Éditions du Zèbre, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>D’Anna, Alberto. “La pseudepigrafa Corrispondenza tra Paolo e i Corinzi: il suo contesto e la sua funzione nella costruzione di un’identità dottrinale cristiana.” <em>Annali Di Storia Dell’esegesi</em> 20 (2003): 111–37.</p>",
+      "line_text": "D’Anna, Alberto. “La pseudepigrafa Corrispondenza tra Paolo e i Corinzi: il suo contesto e la sua funzione nella costruzione di un’identità dottrinale cristiana.” Annali Di Storia Dell’esegesi 20 (2003): 111–37.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Terza lettera ai Corinzi – Pseudo-Giustino, la risurrezione</em>. Milan: Paoline, 2009.</p>",
+      "line_text": "———. Terza lettera ai Corinzi – Pseudo-Giustino, la risurrezione. Milan: Paoline, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The New Testament and the Third Epistle to the Corinthians.” In <em>Christian Apocrypha: Receptions of the New Testament in Ancient Christian Apocrypha</em>, edited by Jean-Michel Roessli and Tobias Nicklas, 133–48. Novum Testamentum Patristicum 26. Göttingen: Vandenhoek &amp; Ruprecht, 2014.</p>",
+      "line_text": "———. “The New Testament and the Third Epistle to the Corinthians.” In Christian Apocrypha: Receptions of the New Testament in Ancient Christian Apocrypha, edited by Jean-Michel Roessli and Tobias Nicklas, 133–48. Novum Testamentum Patristicum 26. Göttingen: Vandenhoek &amp; Ruprecht, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dunn, Peter W. “Testing Pauline Pseudonymity: 3 Corinthians and the Pastorals Epistles Compared.” <em>Proceedings – Eastern Great Lakes and Midwest Bible Societies</em> 20 (2000): 63–70.</p>",
+      "line_text": "Dunn, Peter W. “Testing Pauline Pseudonymity: 3 Corinthians and the Pastorals Epistles Compared.” Proceedings – Eastern Great Lakes and Midwest Bible Societies 20 (2000): 63–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Acts of Paul and the Pauline Legacy in the Second Century.” Dissertation, Cambridge University, 1996.</p>",
+      "line_text": "———. “The Acts of Paul and the Pauline Legacy in the Second Century.” Dissertation, Cambridge University, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. <em>Forgery and Counterforgery:</em> <em>The Use of Literary Deceit in Early Christianity Polemics</em>. Oxford: Oxford University Press, 2013, 425–32.</p>",
+      "line_text": "Ehrman, Bart D. Forgery and Counterforgery: The Use of Literary Deceit in Early Christianity Polemics. Oxford: Oxford University Press, 2013, 425–32.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Erbetto, Mario. “Paolo.” In <em>Gli Apocrifi Del Nuovo Testamento. Vol. II. Atti E Leggende</em>, 241–304. Genova: Marietti Editori, 1966.</p>",
+      "line_text": "Erbetto, Mario. “Paolo.” In Gli Apocrifi Del Nuovo Testamento. Vol. II. Atti E Leggende, 241–304. Genova: Marietti Editori, 1966.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fewster, Gregory Peter. “Paul as Letter Writer and the Success of Pseudepigraphy: Constructing an Authorial Paul in the Apocryphal Corinthian Correspondence.” Pages 152–76 in <em>Fakes, Forgeries, and Fictions: Writing Ancient and Modern Christian Apocrypha. Proceedings from the 2015 York University Christian Apocrypha Symposium.</em> Edited by Tony Burke. Eugene, OR: Cascade,  2017.</p>",
+      "line_text": "Fewster, Gregory Peter. “Paul as Letter Writer and the Success of Pseudepigraphy: Constructing an Authorial Paul in the Apocryphal Corinthian Correspondence.” Pages 152–76 in Fakes, Forgeries, and Fictions: Writing Ancient and Modern Christian Apocrypha. Proceedings from the 2015 York University Christian Apocrypha Symposium. Edited by Tony Burke. Eugene, OR: Cascade,  2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gregory, Andrew. “Non-canonical Epistles and Related Literature.” In <em>The Oxford Handbook of Early Christian Apocrypha</em>, edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015, 90–114 (97–95).</p>",
+      "line_text": "Gregory, Andrew. “Non-canonical Epistles and Related Literature.” In The Oxford Handbook of Early Christian Apocrypha, edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015, 90–114 (97–95).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenbr00harngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harnack, Adolf von. <em>Apocrypha IV: Die apocryphen Briefe des Paulus an die Laodicener und Korinther</em>. Kleine Texte für Vorlesungen und Übungen 12. Bonn: A. Marcus und H Weber’s Verlag, 1905, 6–23.</p>",
+      "line_text": "Harnack, Adolf von. Apocrypha IV: Die apocryphen Briefe des Paulus an die Laodicener und Korinther. Kleine Texte für Vorlesungen und Übungen 12. Bonn: A. Marcus und H Weber’s Verlag, 1905, 6–23.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenbr00harngoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sitzungsberichte1905deutsch\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. “Untersuchungen über den apocryphen Briefwechsel der Korinther mit dem Apostel Paulus.” Pages 3–35 in <em>Sitzungsberichte der Koniglich preussischen Akademie der Wissenschaften</em>. Berlin, 1905.</p>",
+      "line_text": "———. “Untersuchungen über den apocryphen Briefwechsel der Korinther mit dem Apostel Paulus.” Pages 3–35 in Sitzungsberichte der Koniglich preussischen Akademie der Wissenschaften. Berlin, 1905.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sitzungsberichte1905deutsch"
+      ]
+    },
+    {
+      "line_html": "<p>Hovhanessian, Vahan. “Corinthians, Third.” In <em>The Encyclopedia of Ancient History</em>, edited by Roger S. Bagnall, et al. London: Wiley-Blackwell, 2012.</p>",
+      "line_text": "Hovhanessian, Vahan. “Corinthians, Third.” In The Encyclopedia of Ancient History, edited by Roger S. Bagnall, et al. London: Wiley-Blackwell, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Commentary of St. Ephrem the Syrian on the Apocryphal Third Corinthians: The School of Antioch.” In <em>The School of Antioch: Biblical Theology in the Church in Syria</em>, edited by Havan Hovhanessian, 69–84, 116–18. Bible in the Christian Orthodox Tradition 6. New York: Peter Lang, 2016.</p>",
+      "line_text": "———. “The Commentary of St. Ephrem the Syrian on the Apocryphal Third Corinthians: The School of Antioch.” In The School of Antioch: Biblical Theology in the Church in Syria, edited by Havan Hovhanessian, 69–84, 116–18. Bible in the Christian Orthodox Tradition 6. New York: Peter Lang, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Third Corinthians: Reclaiming Paul for Christian Orthodoxy</em>. StBibLit 18. New York: Peter Lang, 2000.</p>",
+      "line_text": "———. Third Corinthians: Reclaiming Paul for Christian Orthodoxy. StBibLit 18. New York: Peter Lang, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Johnston, Steve. “La Correspondance apocryphe entre Paul et les Corinthiens: un pseudépigraphe paulinien au service de la polémique anti-gnostique de la fin du IIe siècle.” In <em>Colloque international “L’Évangile selon Thomas et les textes de Nag Hammadi,”</em> edited by Louis Painchaud and Paul-Hubert Poirier, 187–230. Bibliothèque de Copte Nag Hammadi 8. Québec: Presses Université Laval, 2007.</p>",
+      "line_text": "Johnston, Steve. “La Correspondance apocryphe entre Paul et les Corinthiens: un pseudépigraphe paulinien au service de la polémique anti-gnostique de la fin du IIe siècle.” In Colloque international “L’Évangile selon Thomas et les textes de Nag Hammadi,” edited by Louis Painchaud and Paul-Hubert Poirier, 187–230. Bibliothèque de Copte Nag Hammadi 8. Québec: Presses Université Laval, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Les témoins Latins de la correspondance apocryphe entre Paul et les Corinthiens conservés à La Bibliothèque Nationale de France.” <em>Apocrypha</em> 18 (2007): 139–66.</p>",
+      "line_text": "———. “Les témoins Latins de la correspondance apocryphe entre Paul et les Corinthiens conservés à La Bibliothèque Nationale de France.” Apocrypha 18 (2007): 139–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Johnston, Steve, and Paul-Hubert Poirier. “Nouvelles citations chez Éphrem et Aphraate de la correspondance entre Paul et les Corinthiens.” <em>Apocrypha</em> 16 (2005): 137–47.</p>",
+      "line_text": "Johnston, Steve, and Paul-Hubert Poirier. “Nouvelles citations chez Éphrem et Aphraate de la correspondance entre Paul et les Corinthiens.” Apocrypha 16 (2005): 137–47.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://(https://archive.org/details/anewandfullmeth03jonegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament. To Which Is Subjoined A Vindication of the Former Part of St. Matthew’s Gospel</em>. Vol. 1. Oxford: Clarendon, 1827, 129–33.</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. To Which Is Subjoined A Vindication of the Former Part of St. Matthew’s Gospel. Vol. 1. Oxford: Clarendon, 1827, 129–33.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://(https://archive.org/details/anewandfullmeth03jonegoog"
+      ]
+    },
+    {
+      "line_html": "<p>Klijn, A. F. J. “The Apocryphal Correspondence between Paul and the Corinthians.” <em>VC</em> 17, no. 1 (1963): 2–23.</p>",
+      "line_text": "Klijn, A. F. J. “The Apocryphal Correspondence between Paul and the Corinthians.” VC 17, no. 1 (1963): 2–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lollar, Jacob A. “’The Marks of my Body, that I might Come to the Resurrection’: A Quotation of 3 Corinthians in the Syriac Martyrdom of Šarbēl.” <i>Apocrypha</i> 32 (2021): 71–83.</p>",
+      "line_text": "Lollar, Jacob A. “’The Marks of my Body, that I might Come to the Resurrection’: A Quotation of 3 Corinthians in the Syriac Martyrdom of Šarbēl.” Apocrypha 32 (2021): 71–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Luttikhuizen, Gerard. “The Apocryphal Correspondence with the Corinthians and Paul.” In <em>The Apocryphal Acts of Paul and Thecla</em>, edited by Jan Bremmer, 75–91. The Apocryphal Acts of the Apostles 2. Kampen: Pharos, 1996.</p>",
+      "line_text": "Luttikhuizen, Gerard. “The Apocryphal Correspondence with the Corinthians and Paul.” In The Apocryphal Acts of Paul and Thecla, edited by Jan Bremmer, 75–91. The Apocryphal Acts of the Apostles 2. Kampen: Pharos, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mackay, Thomas W. “Content and Style in Two Pseudo-Pauline Epistles (3 Corinthians and the Epistle to the Laodiceans).” In <em>Apocryphal Writings and the Latter-Day Saints</em>, edited by C. Wilfred Griggs. Provo, UT: Religious Studies Center, Brigham Young University, 1986.</p>",
+      "line_text": "Mackay, Thomas W. “Content and Style in Two Pseudo-Pauline Epistles (3 Corinthians and the Epistle to the Laodiceans).” In Apocryphal Writings and the Latter-Day Saints, edited by C. Wilfred Griggs. Provo, UT: Religious Studies Center, Brigham Young University, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Observations on P. Bodmer X. (Apocryphal Correspondence between Paul and the Corinthians Saints).” <em>Papyrologica Bruxellensia</em> 18 (1979): 119–28.</p>",
+      "line_text": "———. “Observations on P. Bodmer X. (Apocryphal Correspondence between Paul and the Corinthians Saints).” Papyrologica Bruxellensia 18 (1979): 119–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>MaGee, Gregory S. <em>Portrait of an Apostle: A Case for Paul’s Authorship of Colossians and Ephesians</em>. Eugene, OR: Wipf and Stock Publishers, 2013, 63–79.</p>",
+      "line_text": "MaGee, Gregory S. Portrait of an Apostle: A Case for Paul’s Authorship of Colossians and Ephesians. Eugene, OR: Wipf and Stock Publishers, 2013, 63–79.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Masson, S. “Deux Lettre Armeniennes, Une de St. Paul Aux Corinthiens, et Une Autre Des Corinthiens À St. Paul, Avec Une Dissertation Critique D’un Inconnu Sur Ce Mêmes Lettres.” In <em>Histoire Critique de La République Des Lettres, Tant Ancienne Que Moderne. Tome X</em>, 148–71. Amsterdam: Jaques Desbordes, 1715.</p>",
+      "line_text": "Masson, S. “Deux Lettre Armeniennes, Une de St. Paul Aux Corinthiens, et Une Autre Des Corinthiens À St. Paul, Avec Une Dissertation Critique D’un Inconnu Sur Ce Mêmes Lettres.” In Histoire Critique de La République Des Lettres, Tant Ancienne Que Moderne. Tome X, 148–71. Amsterdam: Jaques Desbordes, 1715.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. <em>The Acts of Paul: A New Translation with Introduction and Commentary</em>. Eugene, OR: Cascade, 2014, 258–74.</p>",
+      "line_text": "Pervo, Richard I. The Acts of Paul: A New Translation with Introduction and Commentary. Eugene, OR: Cascade, 2014, 258–74.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Making of Paul: Constructions of the Apostle in Early Christianity</em>. Minneapolis: Fortress Press, 2010, 96–104, 315–318.</p>",
+      "line_text": "———. The Making of Paul: Constructions of the Apostle in Early Christianity. Minneapolis: Fortress Press, 2010, 96–104, 315–318.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pink, Karl. “Die Pseudo-Paulinischen Briefe I.” <em>Biblica</em> 6.1 (January 1925): 68–91.</p>",
+      "line_text": "Pink, Karl. “Die Pseudo-Paulinischen Briefe I.” Biblica 6.1 (January 1925): 68–91.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=bjgAAAAAYAAJ&amp;pg=PP7&amp;dq=Das+Sendschreiben+der+Korinther+an+den+Apostel+Paulus&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Das%20Sendschreiben%20der%20Korinther%20an%20den%20Apostel%20Paulus&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rinck, Wilhelm Friedrich. <em>Das Sendschreiben der Korinther an den Apostel Paulus und das Dritte Sendschreiben Pauli an die Korinther</em>. Heidelberg: C. F. Winter, 1823.</p>",
+      "line_text": "Rinck, Wilhelm Friedrich. Das Sendschreiben der Korinther an den Apostel Paulus und das Dritte Sendschreiben Pauli an die Korinther. Heidelberg: C. F. Winter, 1823.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=bjgAAAAAYAAJ&pg=PP7&dq=Das+Sendschreiben+der+Korinther+an+den+Apostel+Paulus&hl=en&sa=X&redir_esc=y#v=onepage&q=Das%20Sendschreiben%20der%20Korinther%20an%20den%20Apostel%20Paulus&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Rist, Martin. “III Corinthians as a Pseudepigraphic Refutation of Marcionism.” <em>Iliff Review</em> 26.3 (1969): 49–58.</p>",
+      "line_text": "Rist, Martin. “III Corinthians as a Pseudepigraphic Refutation of Marcionism.” Iliff Review 26.3 (1969): 49–58.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy. “Hérésie et Orthodoxie Selon La Correspondance Apocryphe Entre Les Corinthiens et l’Apôtre Paul.” <em>CRTL</em> 17 (1993): 21–63.</p>",
+      "line_text": "Rordorf, Willy. “Hérésie et Orthodoxie Selon La Correspondance Apocryphe Entre Les Corinthiens et l’Apôtre Paul.” CRTL 17 (1993): 21–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy, with Pierre Cherix, and Rudolph Kasser. “Acte de Paul.” In <em>Écrits apocryphes chrétiens, tome I</em>, edited by François Bovon and Pierre Geoltrain, 1117–77. Collection Bibliothèque de la Pléiade 442. Paris: Gallimard, 1997.</p>",
+      "line_text": "Rordorf, Willy, with Pierre Cherix, and Rudolph Kasser. “Acte de Paul.” In Écrits apocryphes chrétiens, tome I, edited by François Bovon and Pierre Geoltrain, 1117–77. Collection Bibliothèque de la Pléiade 442. Paris: Gallimard, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rostalski, Friedrich. <em>Sprachliches zu den apokryphen Apostelgeschichten</em>. 2 vols. Rölle, 1909–1911.</p>",
+      "line_text": "Rostalski, Friedrich. Sprachliches zu den apokryphen Apostelgeschichten. 2 vols. Rölle, 1909–1911.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Scharlemann, Martin H. “Third Corinthians.” <em>CTQ</em> 26 (1955): 518–29.</p>",
+      "line_text": "Scharlemann, Martin H. “Third Corinthians.” CTQ 26 (1955): 518–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actapauli00unkngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmid, Carl. <em>Acta Pauli: Übersetzung, Untersuchungen und Koptischer Texte</em>. Leipzig: J. C. Hinrichs, 1905, 125–45.</p>",
+      "line_text": "Schmid, Carl. Acta Pauli: Übersetzung, Untersuchungen und Koptischer Texte. Leipzig: J. C. Hinrichs, 1905, 125–45.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/actapauli00unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm. “Acts of Paul.” In <em>New Testament Apocrypha</em>, vol. 1:<em> Writings Relating to the Apostles; Apocalypses and Related Subjects</em>, edited by Wilhelm Schneemelcher, translated by Robert McL. Wilson. Louisville: Westminster John Knox Press, 2003.</p>",
+      "line_text": "Schneemelcher, Wilhelm. “Acts of Paul.” In New Testament Apocrypha, vol. 1: Writings Relating to the Apostles; Apocalypses and Related Subjects, edited by Wilhelm Schneemelcher, translated by Robert McL. Wilson. Louisville: Westminster John Knox Press, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Paulusakten.” In <em>Neutestamentliche apokryphen in deutscher Übersetzung. II. Band. Apostolisches, Apokalypsen und Verwandtes</em>, edited by Wilhelm Schneemelcher and Edgar Hennecke, 3rd ed., 177–220. Tübingen: J.C.B. Mohr (Paul Siebeck), 1964.</p>",
+      "line_text": "———. “Paulusakten.” In Neutestamentliche apokryphen in deutscher Übersetzung. II. Band. Apostolisches, Apokalypsen und Verwandtes, edited by Wilhelm Schneemelcher and Edgar Hennecke, 3rd ed., 177–220. Tübingen: J.C.B. Mohr (Paul Siebeck), 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Glenn E. <em>Acts of Paul: The Formation of a Pauline Corpus</em>. WUNT, 2.352. Tübingen: Mohr Siebeck, 2013, 148–89.</p>",
+      "line_text": "Snyder, Glenn E. Acts of Paul: The Formation of a Pauline Corpus. WUNT, 2.352. Tübingen: Mohr Siebeck, 2013, 148–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Julia. “Acts of John, Acts of Peter, Acts of Thekla, 3 Corinthians, Martyrdom of Paul.” In <em>The Reception of Jesus in the First Three Centuries,</em> edited by Jens Schröter and Christine Jacobi, vol. 2, 363–385. London: Bloomsbury, 2019.</p>",
+      "line_text": "Snyder, Julia. “Acts of John, Acts of Peter, Acts of Thekla, 3 Corinthians, Martyrdom of Paul.” In The Reception of Jesus in the First Three Centuries, edited by Jens Schröter and Christine Jacobi, vol. 2, 363–385. London: Bloomsbury, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Paul as a Character in Early Christian Narratives.” In <em>The Oxford Handbook of Pauline Studies,</em> edited by Matthew V. Novenson and R. Barry Matlock, 109–25. Oxford: Oxford University Press, 2022.</p>",
+      "line_text": "———. “Paul as a Character in Early Christian Narratives.” In The Oxford Handbook of Pauline Studies, edited by Matthew V. Novenson and R. Barry Matlock, 109–25. Oxford: Oxford University Press, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Testuz, Michel. “La correspondance aporyphe de Saint Paul et des Corinthiens.” In <em>Littérature et Théologie Pauliniennes</em>, edited by A. Deschamps, et al., 217–23. RechBib 5. Bruges: Brouwer, 1960.</p>",
+      "line_text": "Testuz, Michel. “La correspondance aporyphe de Saint Paul et des Corinthiens.” In Littérature et Théologie Pauliniennes, edited by A. Deschamps, et al., 217–23. RechBib 5. Bruges: Brouwer, 1960.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Papyrus Bodmer X-XII: Correspondance apocryphe des Corinthiens et de l’apôtre Paul; Onzième Ode de Salomon; XII: Fragment d’un Hymne liturgique. Manuscrit du IIIe siècle.</em> Cologny-Geneva: Bibliothèque Bodmer, 1959.</p>",
+      "line_text": "———. Papyrus Bodmer X-XII: Correspondance apocryphe des Corinthiens et de l’apôtre Paul; Onzième Ode de Salomon; XII: Fragment d’un Hymne liturgique. Manuscrit du IIIe siècle. Cologny-Geneva: Bibliothèque Bodmer, 1959.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Thomason, Dana Andrew. “Corinthians, Third Epistle to the.” <em>Anchor Bible Dictionary</em>, edited by David Noel Freedman, 1154. New Haven: Yale University Press, 1992.</p>",
+      "line_text": "Thomason, Dana Andrew. “Corinthians, Third Epistle to the.” Anchor Bible Dictionary, edited by David Noel Freedman, 1154. New Haven: Yale University Press, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=tcECAAAAQAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ullmann, Carl. <em>Ueber den durch Wilhelm Friedrich Rinck aus Armenischer Uebersetzung bekannt gemacheten dritten Brief Pauli an die Korinther une das kurze Schreiben der Korinther, durch welches der apostol. Brief veranlasst worden.</em> Heidelberg: August Ofswald’s Universitäts-Buchhandlung, 1823.</p>",
+      "line_text": "Ullmann, Carl. Ueber den durch Wilhelm Friedrich Rinck aus Armenischer Uebersetzung bekannt gemacheten dritten Brief Pauli an die Korinther une das kurze Schreiben der Korinther, durch welches der apostol. Brief veranlasst worden. Heidelberg: August Ofswald’s Universitäts-Buchhandlung, 1823.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=tcECAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Vetter, Paul. <em>Der apokryphe dritte Korintbrief</em>. Wien: Mechitharistenbuchdruckerei, 1894.</p>",
+      "line_text": "Vetter, Paul. Der apokryphe dritte Korintbrief. Wien: Mechitharistenbuchdruckerei, 1894.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digizeitschriften.de/dms/img/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-6970%7Clog00051\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. “Der apokryphe dritte Korintherbrief, neu Übersetzt seiner Entstehung untersucht.” <em>TQ</em> 72 (1890): 610–39.</p>",
+      "line_text": "———. “Der apokryphe dritte Korintherbrief, neu Übersetzt seiner Entstehung untersucht.” TQ 72 (1890): 610–39.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.digizeitschriften.de/dms/img/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-6970%7Clog00051"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digizeitschriften.de/dms/img/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-7029%7Clog00076\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. “Eine rabbinische Quelle des apokryphen dritten Korintherbriefs.” <em>TQ</em> 77 (1895): 622–33.</p>",
+      "line_text": "———. “Eine rabbinische Quelle des apokryphen dritten Korintherbriefs.” TQ 77 (1895): 622–33.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.digizeitschriften.de/dms/img/?PID=urn%3Anbn%3Ade%3Absz%3A21-dt-7029%7Clog00076"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vouaux, Léon. <em>Les Actes de Paul et ses lettres apocryphes: Introduction, textes, traduction et commentaire</em>. Les Apocryphes du Nouveau Testament. Paris: Librairie Letouzby et Anè, 1913.</p>",
+      "line_text": "Vouaux, Léon. Les Actes de Paul et ses lettres apocryphes: Introduction, textes, traduction et commentaire. Les Apocryphes du Nouveau Testament. Paris: Librairie Letouzby et Anè, 1913.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p>Walters, J. Edward. “Evidence for Citations of 3 Corinthians and Their Influence in the <em>Demonstrations</em> of Aphrahat.” <em>VC</em> 67.3 (2013): 248–62.</p>",
+      "line_text": "Walters, J. Edward. “Evidence for Citations of 3 Corinthians and Their Influence in the Demonstrations of Aphrahat.” VC 67.3 (2013): 248–62.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Whiston, William. <em>A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II</em>. London, 1728.</p>",
+      "line_text": "Whiston, William. A Collection of Authentick Records Belonging to the Old and New Testament, Translated into English. Part II. London, 1728.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>White, Benjamin L. “Reclaiming Paul? Reconfiguration as Reclamation in <em>3 Corinthians</em>.” <em>JECS</em> 17.4 (2009): 497–523.</p>",
+      "line_text": "White, Benjamin L. “Reclaiming Paul? Reconfiguration as Reclamation in 3 Corinthians.” JECS 17.4 (2009): 497–523.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Remembering Paul: Ancient and Modern Contests over the Image of the Apostle</em>. Oxford: Oxford University Press, 2014 (pp. 108–34).</p>",
+      "line_text": "———. Remembering Paul: Ancient and Modern Contests over the Image of the Apostle. Oxford: Oxford University Press, 2014 (pp. 108–34).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/p2geschichtedesn02zahnuoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Zahn, Theodor. <em>Geschichte des Neutestamentlichen Kanons</em>. Zweiter Band: Zweiter hälft. Erlangen: Georg Bühme, 1892 (pp. 592–611).</p>",
+      "line_text": "Zahn, Theodor. Geschichte des Neutestamentlichen Kanons. Zweiter Band: Zweiter hälft. Erlangen: Georg Bühme, 1892 (pp. 592–611).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/p2geschichtedesn02zahnuoft"
+      ]
+    },
+    {
+      "line_html": "<p>Zwierlein, Otto. “Der Briefwechsel der Korinther mit dem Apostel Paulus (3Kor) im Papyrus Bodmer X und die Apokryphen Paulusakten.” <em>ZPE</em> 175 (2010): 73–97.</p>",
+      "line_text": "Zwierlein, Otto. “Der Briefwechsel der Korinther mit dem Apostel Paulus (3Kor) im Papyrus Bodmer X und die Apokryphen Paulusakten.” ZPE 175 (2010): 73–97.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-bartholomew/",
+  "nasscal_toc_title": "Passion of Bartholomew",
+  "filename": "passion-of-bartholomew",
+  "latin_title": "Passio Bartholomaei",
+  "abbrev": "Pass. Bart.",
+  "clavis_number": 617,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. Z. 362, fols. 117<sup>r</sup>–125<sup>r</sup> (1279) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69833/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. Z. 362, fols. 117r–125r (1279) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/69833/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n603/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Passio sancti Bartholomaei apostoli.” Pages 128–50 in vol. 2.1 of <em>Acta apostolorum apocrypha</em>. 2 vols. in 3 parts. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959 (parallel edition of Greek and Latin texts).</p>",
+      "line_text": "Bonnet, Maximilien. “Passio sancti Bartholomaei apostoli.” Pages 128–50 in vol. 2.1 of Acta apostolorum apocrypha. 2 vols. in 3 parts. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959 (parallel edition of Greek and Latin texts).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n603/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actaapostolorum00actsgoog/page/n336/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Tischendorf, Constantin. <em>Acta apostolorum apocrypha</em>. Leipzig: Avenarius et Mendelssohn, 1851 (introduction p. lxix–lxx; edition pp. 243–60).</p>",
+      "line_text": "Tischendorf, Constantin. Acta apostolorum apocrypha. Leipzig: Avenarius et Mendelssohn, 1851 (introduction p. lxix–lxx; edition pp. 243–60).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actaapostolorum00actsgoog/page/n336/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 175b–177a (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 175b–177a (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/PassionsHomiliesLeabharBreac/page/n109/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Atkinson, Robert, ed. and trans. <em>The Passions and the Homilies from Leabhar Breac</em>. Dublin: Royal Irish Academy, 1887 (text, pp. 95–101; English translation, pp. 339–46).</p>",
+      "line_text": "Atkinson, Robert, ed. and trans. The Passions and the Homilies from Leabhar Breac. Dublin: Royal Irish Academy, 1887 (text, pp. 95–101; English translation, pp. 339–46).",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/PassionsHomiliesLeabharBreac/page/n109/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscripts used by Bonnet:</p>",
+      "line_text": "Manuscripts used by Bonnet:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Bamberg, Staatsbibliothek Bamberg, Q IV 59 (11th cent.)</p>",
+      "line_text": "B  Bamberg, Staatsbibliothek Bamberg, Q IV 59 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Brussels, Staatsbibliothek Royale, 104, fols. 285<sup>v</sup>–288<sup>v</sup> (12th cent.)</p>",
+      "line_text": "C  Brussels, Staatsbibliothek Royale, 104, fols. 285v–288v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>M</strong>  Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 21<sup>v</sup>–25<sup>v </sup>(ca. 800)</p>",
+      "line_text": "M  Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 21v–25v (ca. 800)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, lat. 18298, fols. 67<sup>v</sup>–75<sup>v</sup> (9th cent.)</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, lat. 18298, fols. 67v–75v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>Q</strong>  Paris, Bibliothèque nationale de France, lat. 12604, fols. 60<sup>r</sup>–64<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 12604, fols. 60r–64r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque nationale de France, lat. 17002, fols. 55<sup>v</sup>–57<sup>v</sup> (10th cent.)</p>",
+      "line_text": "R  Paris, Bibliothèque nationale de France, lat. 17002, fols. 55v–57v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Paris, Bibliothèque nationale de France, lat. 5273, fols. 28<sup>v</sup>–33<sup>r</sup> (12th cent.)</p>",
+      "line_text": "S  Paris, Bibliothèque nationale de France, lat. 5273, fols. 28v–33r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 101<span class=\"s1\"><sup>v</sup></span>–107<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
+      "line_text": "W  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 101v–107v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Angers, Bibliothèque municipale de Angers, 281, fols. 139<sup>r</sup>–144<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Angers, Bibliothèque municipale de Angers, 281, fols. 139r–144v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 737, fols. 99<sup>v</sup>–106<sup>v</sup> (9th and 12th/13th cent.)</p>",
+      "line_text": "Dublin, Trinity College, 737, fols. 99v–106v (9th and 12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Engelberg, Stiftsbibliothek, 2, fols. 45<sup>r</sup>–48<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Engelberg, Stiftsbibliothek, 2, fols. 45r–48r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 4554, fols. 31<sup>r</sup>–34<sup>v </sup>(8th/9th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 4554, fols. 31r–34v (8th/9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 83<sup>v</sup>–89<sup>v</sup>; illustrations fol. 82<sup>v</sup>, 83<sup>r</sup> (1175)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 83v–89v; illustrations fol. 82v, 83r (1175)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 22020, fols. 41<sup>v</sup>–45<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 22020, fols. 41v–45v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-455/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 455, fols. 113<sup>v</sup>–121<sup>r</sup> (9th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 455, fols. 113v–121r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-455/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-534/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 534, fols. 172<sup>v</sup>–186<sup>v</sup> (9th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 534, fols. 172v–186v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-534/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Würzburg, Universitätsbibliothek, M.p.th.f. 78, fols. <span class=\"s1\">15<sup>v</sup>–20<sup>v</sup></span> (8th cent.)</p>",
+      "line_text": "Würzburg, Universitätsbibliothek, M.p.th.f. 78, fols. 15v–20v (8th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum39unse/page/n77/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Augusti</em>. Vol. 5. Antwerp: P. Jacobs 1741; 3rd ed. Paris: V. Palmé, 1868 (Latin text, pp. 34–39).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Augusti. Vol. 5. Antwerp: P. Jacobs 1741; 3rd ed. Paris: V. Palmé, 1868 (Latin text, pp. 34–39).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum39unse/page/n77/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n603/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Passio sancti Bartholomaei apostoli.” Pages 128–50 in vol. 2.1 of <em>Acta apostolorum apocrypha</em>. 2 vols. in 3 parts. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959 (edition based on BWQMPRSC; introduction, pp. xxiv–xxvi).</p>",
+      "line_text": "Bonnet, Maximilien. “Passio sancti Bartholomaei apostoli.” Pages 128–50 in vol. 2.1 of Acta apostolorum apocrypha. 2 vols. in 3 parts. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959 (edition based on BWQMPRSC; introduction, pp. xxiv–xxvi).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n603/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=783\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Lazius’ edition via Lefèvre in vol. 2, pp. 669–87).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Lazius’ edition via Lefèvre in vol. 2, pp. 669–87).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11116194?page=783"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus00gilegoog/page/n436/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Giles, J. A. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings</em>. London: D. Nutt, 1852 (reproduction of Fabricius, pp. 410–21).</p>",
+      "line_text": "Giles, J. A. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings. London: D. Nutt, 1852 (reproduction of Fabricius, pp. 410–21).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus00gilegoog/page/n436/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/en/view/bsb11117026?page=243\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lazius, Wolfgang. <em>Abdiae Babyloniae episcopi et apostolorum discipuli de historia certaminis apostolici libri decem.</em> Bale, 1552 (Repr. Paris: Guillard &amp; Belot, 1566; reprint by Jean Lefèvre in 1560) (based on ONB 455 and 534 but with some editorial glosses at the beginning of the texts, pp. 96r–102r).</p>",
+      "line_text": "Lazius, Wolfgang. Abdiae Babyloniae episcopi et apostolorum discipuli de historia certaminis apostolici libri decem. Bale, 1552 (Repr. Paris: Guillard &amp; Belot, 1566; reprint by Jean Lefèvre in 1560) (based on ONB 455 and 534 but with some editorial glosses at the beginning of the texts, pp. 96r–102r).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb11117026?page=243"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&amp;groesser=&amp;fip=xssdaseayasdaseayasdaseneayayzts&amp;no=13&amp;seite=33\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Nausea, Friedrich. <em>Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae</em>. Cologne: Peter Quentel, 1531 (Latin text from unidentified source, fols. 52v–56v).</p>",
+      "line_text": "Nausea, Friedrich. Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae. Cologne: Peter Quentel, 1531 (Latin text from unidentified source, fols. 52v–56v).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&groesser=&fip=xssdaseayasdaseayasdaseneayayzts&no=13&seite=33"
+      ]
+    },
+    {
+      "line_html": "<p>Philippart, Guy. <em>Les légendiers latins et autres manuscrits hagiographiques. </em>Typologie des sources du Moyen Age occidental 24–25. Turnhout: Brepols, 1977 (list of manuscripts, pp. 13–20)<em>.</em></p>",
+      "line_text": "Philippart, Guy. Les légendiers latins et autres manuscrits hagiographiques. Typologie des sources du Moyen Age occidental 24–25. Turnhout: Brepols, 1977 (list of manuscripts, pp. 13–20).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition utilizing Bonnet’s manuscripts with facing Spanish translation, vol. 3, pp. 847–73).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition utilizing Bonnet’s manuscripts with facing Spanish translation, vol. 3, pp. 847–73).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/PassionsHomiliesLeabharBreac/page/n353/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Atkinson, Robert. <em>The Passions and the Homilies from Leabhar Breac</em>. Dublin: Royal Irish Academy, 1887 (English translation from the <em>Leabhar breac</em>, pp. 339–46).</p>",
+      "line_text": "Atkinson, Robert. The Passions and the Homilies from Leabhar Breac. Dublin: Royal Irish Academy, 1887 (English translation from the Leabhar breac, pp. 339–46).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/PassionsHomiliesLeabharBreac/page/n353/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (summary, pp. 519–20).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (summary, pp. 519–20).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n491/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, pp. 467–68).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, pp. 467–68).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n491/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/428/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Walker, A. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s Greek edition, pp. 429–39).</p>",
+      "line_text": "Walker, A. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s Greek edition, pp. 429–39).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/428/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><em><a href=\"https://www.google.ca/books/edition/L_histoire_apostolique_tournee_d_Hebrieu/1zxJAAAAcAAJ?hl=en&amp;gbpv=1&amp;dq=Histoire+apostolique+d%E2%80%99Abdias+1564&amp;pg=PA8&amp;printsec=frontcover\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>L’Histoire apostolique d’Abdias, premier évêque de Babylon institué par les apostres, tournie d’hebreu en grec par Eutrope, puis en latin par Jule Africain . . . et nouvellement traduite en nostre vulgaire.</em> Paris: G. Guillard, 1564. Second ed. Lyon: B. Rigaud, 1582 (translation of the edition by Lazius, pp. 111r–118v).</p>",
+      "line_text": "L’Histoire apostolique d’Abdias, premier évêque de Babylon institué par les apostres, tournie d’hebreu en grec par Eutrope, puis en latin par Jule Africain . . . et nouvellement traduite en nostre vulgaire. Paris: G. Guillard, 1564. Second ed. Lyon: B. Rigaud, 1582 (translation of the edition by Lazius, pp. 111r–118v).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.google.ca/books/edition/L_histoire_apostolique_tournee_d_Hebrieu/1zxJAAAAcAAJ?hl=en&gbpv=1&dq=Histoire+apostolique+d%E2%80%99Abdias+1564&pg=PA8&printsec=frontcover"
+      ]
+    },
+    {
+      "line_html": "<p>Alibert, Dominique, Gisèle Besson, Michèle Brossard-Dandré, and Simon Claude Mimouni. “Passion de Barthélemy.” Pages 791–808 in volume 2 of <em>Écrits apocryphes chrétiens. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (French translation based on Wolfenbüttel 48, Angers 281, Dublin 737, and Paris lat. 12604).</p>",
+      "line_text": "Alibert, Dominique, Gisèle Besson, Michèle Brossard-Dandré, and Simon Claude Mimouni. “Passion de Barthélemy.” Pages 791–808 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (French translation based on Wolfenbüttel 48, Angers 281, Dublin 737, and Paris lat. 12604).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n75/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (translation of the edition by Fabricius, vol. 2, cols. 149–59).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (translation of the edition by Fabricius, vol. 2, cols. 149–59).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n75/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11346831?page=693\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Borberg, Karl Friedrich. <em>Bibliothek der neutestamentlichen Apokryphen, gesammelt, übersetzt, und erläutert</em>. Stuttgart: Literatur-Comptoir, 1841 (translation of the edition by Fabricius, vol. 1, pp. 657–72).</p>",
+      "line_text": "Borberg, Karl Friedrich. Bibliothek der neutestamentlichen Apokryphen, gesammelt, übersetzt, und erläutert. Stuttgart: Literatur-Comptoir, 1841 (translation of the edition by Fabricius, vol. 1, pp. 657–72).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11346831?page=693"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (translation of the edition by Fabricius, vol. 2, pp. 581–88).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (translation of the edition by Fabricius, vol. 2, pp. 581–88).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translation of the edition by Fabricius, vol. 2, pp. 1568–76).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translation of the edition by Fabricius, vol. 2, pp. 1568–76).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition with facing Spanish translation, vol. 3, pp. 847–73).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition with facing Spanish translation, vol. 3, pp. 847–73).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>See also works on the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/apostolic-histories-virtutes-apostolorum/\" target=\"_blank\" rel=\"noopener\"><em>Apostolic Histories</em></a> collection.</p>",
+      "line_text": "See also works on the Apostolic Histories collection.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/apostolic-histories-virtutes-apostolorum/"
+      ]
+    },
+    {
+      "line_html": "<p>Bonnet, Max. “La Passion de S. Barthélemy en quelle langue at-elle été écrite?” <em>AnBoll</em> 14 (1895): 353–66.</p>",
+      "line_text": "Bonnet, Max. “La Passion de S. Barthélemy en quelle langue at-elle été écrite?” AnBoll 14 (1895): 353–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Maggioni, Giovanni Paolo. “Le Molte Legende Aurée: Modiﬁcazioni testuali e itinerari narrativi.” Pages 5–40 in <em>De la sainteté à l’hagiographie: genèse et usage de la “Légende dorée.”</em> Edited by Barbara Fleith and Franco Morenzoni. Genève: Droz, 2001.</p>",
+      "line_text": "Maggioni, Giovanni Paolo. “Le Molte Legende Aurée: Modiﬁcazioni testuali e itinerari narrativi.” Pages 5–40 in De la sainteté à l’hagiographie: genèse et usage de la “Légende dorée.” Edited by Barbara Fleith and Franco Morenzoni. Genève: Droz, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Ricerche sulla composizione e sulla trasmis sione della “Legenda aurea.”</em> Spoleto: Centro italiano di studi sull’alto Medioevo, 1995 (pp. 71–73).</p>",
+      "line_text": "__________. Ricerche sulla composizione e sulla trasmis sione della “Legenda aurea.” Spoleto: Centro italiano di studi sull’alto Medioevo, 1995 (pp. 71–73).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kay, Sarah. “Original Skin: Flaying, Reading, and Thinking in the Legend of Saint Bartholomew and Other Works.” <em>Journal of Medieval and Early Modern Studies</em> 36 (2006): 35–74.</p>",
+      "line_text": "Kay, Sarah. “Original Skin: Flaying, Reading, and Thinking in the Legend of Saint Bartholomew and Other Works.” Journal of Medieval and Early Modern Studies 36 (2006): 35–74.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n69/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:65–67).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:65–67).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n69/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>McNamara, Martin. <em>Apocrypha in the Irish Church.</em> Dublin: Dublin Institute for Advanced Studies, 1975 (pp. 93–94).</p>",
+      "line_text": "McNamara, Martin. Apocrypha in the Irish Church. Dublin: Dublin Institute for Advanced Studies, 1975 (pp. 93–94).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. “Later Acts of the Apostles.” Pages 426–82  in <em>New Testament Apocrypha</em>. Vol. 2: <em>Writings Relating to the Apostles; Apocalypses and Related Subjects</em>. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (see pp. 452–53).</p>",
+      "line_text": "Santos Otero, Aurelio de. “Later Acts of the Apostles.” Pages 426–82  in New Testament Apocrypha. Vol. 2: Writings Relating to the Apostles; Apocalypses and Related Subjects. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (see pp. 452–53).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

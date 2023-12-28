@@ -1,0 +1,843 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-paul-and-seneca/",
+  "nasscal_toc_title": "Epistles of Paul and Seneca",
+  "filename": "epistles-of-paul-and-seneca",
+  "latin_title": "Epistulae Senecae ad Paulum et Pauli ad Senecam",
+  "abbrev": "Ep. Paul Sen.",
+  "alt_titles": [
+    "Letters of Paul and Seneca, Correspondence between Paul and Seneca"
+  ],
+  "clavis_number": 117,
+  "category": "Epistles",
+  "compiler": "Chance Bonar, Tufts University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, l’Arsenal 1086 (12th cent.) ~ <a href=\"http://archivesetmanuscrits.bnf.fr/ark:/12148/cc79101h\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, l’Arsenal 1086 (12th cent.) ~ IMAGES",
+      "language": "Old French",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://archivesetmanuscrits.bnf.fr/ark:/12148/cc79101h"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 251, fols. 223<sup>v</sup>–225<sup>v</sup> (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.251\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "A  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 251, fols. 223v–225v (11th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.251"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B  </strong>Brussels, Bibliothèque Royale, 2839–43, fols. 66<sup>v</sup>–74<sup>r</sup> (9th cent.)</p>",
+      "line_text": "B  Brussels, Bibliothèque Royale, 2839–43, fols. 66v–74r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>C  </strong>Berne, Stadt- und Hochschulbibliothek, 225, fols. 15<sup>r</sup>–16<sup>r</sup> and fols. 85<sup>v</sup>–87<sup>r</sup> (11th cent.)</p>",
+      "line_text": "C  Berne, Stadt- und Hochschulbibliothek, 225, fols. 15r–16r and fols. 85v–87r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D  </strong>Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 1637, fols. 69<sup>v</sup>–72<sup>r</sup> (12th cent.)</p>",
+      "line_text": "D  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 1637, fols. 69v–72r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>E  </strong>Einsiedeln, Stiftsbibliothek, 262, fols. 58<sup>r</sup>–65<sup>r</sup> (10th cent.) ~ <a href=\"http://www.e-codices.unifr.ch/en/list/one/sbe/0262\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "E  Einsiedeln, Stiftsbibliothek, 262, fols. 58r–65r (10th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://www.e-codices.unifr.ch/en/list/one/sbe/0262"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>F  </strong>Strasbourg, C. VI. 5, fols. 1<sup>r</sup>–4<sup>v</sup> (9th/10th cent.) ~ destroyed by fire in 1870 but collated in Kraus 1867</p>",
+      "line_text": "F  Strasbourg, C. VI. 5, fols. 1r–4v (9th/10th cent.) ~ destroyed by fire in 1870 but collated in Kraus 1867",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>G  </strong>Angers, Bibliothèque Publique, 284, fols. 65<sup>r</sup>–65<sup>v</sup> (11th cent.)</p>",
+      "line_text": "G  Angers, Bibliothèque Publique, 284, fols. 65r–65v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H  </strong>Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 119, fols. 86<sup>r</sup>–88<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.119\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "H  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 119, fols. 86r–88r (12th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.119"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>J  </strong>Strasbourg, C. VI. 17 (11th cent.) ~ destroyed by fire in 1870 but collated in Kraus 1867</p>",
+      "line_text": "J  Strasbourg, C. VI. 17 (11th cent.) ~ destroyed by fire in 1870 but collated in Kraus 1867",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>K  </strong>Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 147, fols. 29<sup>v</sup>–30<sup>v</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.147\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "K  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 147, fols. 29v–30v (12th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.147"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L  </strong>Milan, Biblioteca Ambrosiana, C 90 inf., fols. 88<sup>r</sup>–90<sup>r</sup> (11th cent.) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:29392\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "L  Milan, Biblioteca Ambrosiana, C 90 inf., fols. 88r–90r (11th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:29392"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M  </strong>Munich, Bayerische Staatsbibliothek, Clm. 14436, fols. 32<sup>v</sup>–33<sup>v</sup> (10th/11th cent.) ~<a href=\"https://mdz-nbn-resolving.de/details:bsb00033074\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "M  Munich, Bayerische Staatsbibliothek, Clm. 14436, fols. 32v–33v (10th/11th cent.) ~IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://mdz-nbn-resolving.de/details:bsb00033074"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>N  </strong>Munich, Bayerische Staatsbibliothek, Clm. 18467, fols. 2<sup>r</sup>–2<sup>v</sup> (11th–13th cent.) ~ <a href=\"https://mdz-nbn-resolving.de/details:bsb00051881\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "N  Munich, Bayerische Staatsbibliothek, Clm. 18467, fols. 2r–2v (11th–13th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://mdz-nbn-resolving.de/details:bsb00051881"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O</strong><em><strong>  </strong></em>Paris, Bibliothèque nationale de France, lat. 8539, fols. 1<sup>r</sup>–2<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10038991x\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "O  Paris, Bibliothèque nationale de France, lat. 8539, fols. 1r–2v (11th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10038991x"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P  </strong>Paris, Bibliothèque nationale de France, lat. 2772, fols. 50<sup>v</sup>–53<sup>v</sup> (10th cent.) ~ <a href=\"http://archivesetmanuscrits.bnf.fr/ark:/12148/cc60553c\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, lat. 2772, fols. 50v–53v (10th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://archivesetmanuscrits.bnf.fr/ark:/12148/cc60553c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q  </strong>Paris, Bibliothèque nationale de France, lat. 12295, fols. 151<sup>r</sup>–153<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 12295, fols. 151r–153v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R  </strong>Reims, Bibliothèque Municipale, 434, fols. 1<sup>r</sup>–2<sup>v</sup> (9th cent.)</p>",
+      "line_text": "R  Reims, Bibliothèque Municipale, 434, fols. 1r–2v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>S  </strong>St. Gall, Stiftsbibliothek, 197, fols. 87<sup>r</sup>–91<sup>v</sup> (9th/10th cent.)</p>",
+      "line_text": "S  St. Gall, Stiftsbibliothek, 197, fols. 87r–91v (9th/10th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>T  </strong>Metz, Bibliothèque Municipale, 500, fols. 6<sup>r</sup>–8<sup>v</sup> , 25<sup>r</sup>–27<sup>v</sup> (10th cent.)</p>",
+      "line_text": "T  Metz, Bibliothèque Municipale, 500, fols. 6r–8v , 25r–27v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>U  </strong>Zurich, Zentralbibliothek, C 129, fols. 97<sup>r</sup>–99<sup>v</sup> (9th cent.)</p>",
+      "line_text": "U  Zurich, Zentralbibliothek, C 129, fols. 97r–99v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V  </strong>Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 1424, fols. 1<sup>r</sup>–1<sup>v</sup> (10th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.1424\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 1424, fols. 1r–1v (10th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.1424"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>W  </strong>Wolfenbüttel, Herzogliche Bibliothek, 4642 (Gud. Lat. 335), fols. 59<sup>r</sup>–57<sup>v</sup> (11th cent.)</p>",
+      "line_text": "W  Wolfenbüttel, Herzogliche Bibliothek, 4642 (Gud. Lat. 335), fols. 59r–57v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>X  </strong>Vienna, Österreichische Nationalbibliothek, 969, fols. 70<sup>r</sup>–72<sup>v</sup> (9th cent.)</p>",
+      "line_text": "X  Vienna, Österreichische Nationalbibliothek, 969, fols. 70r–72v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Y  </strong>Vienna, Österreichische Nationalbibliothek, 751, fols. 162<sup>r</sup> (9th cent.) ~ fragment</p>",
+      "line_text": "Y  Vienna, Österreichische Nationalbibliothek, 751, fols. 162r (9th cent.) ~ fragment",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Z  </strong>Metz, Bibliothèque Municipale, 300, fols. 3<sup>r</sup>–5<sup>v</sup> (11th cent.) ~ <a href=\"http://archivesetmanuscrits.bnf.fr/ark:/12148/cc125264b/cN77419\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Z  Metz, Bibliothèque Municipale, 300, fols. 3r–5v (11th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://archivesetmanuscrits.bnf.fr/ark:/12148/cc125264b/cN77419"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>λ  </strong>Milan, Biblioteca Ambrosiana, C 72 inf. (11th cent.) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:29171\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "λ  Milan, Biblioteca Ambrosiana, C 72 inf. (11th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:29171"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>μ</strong>  Florence, Biblioteca Medicea Laurenziana, Plut. 45 cod. 26 (12th cent.)</p>",
+      "line_text": "μ  Florence, Biblioteca Medicea Laurenziana, Plut. 45 cod. 26 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><em><strong>ν  </strong>Riccardianus 391 </em>(14th cent.)</p>",
+      "line_text": "ν  Riccardianus 391 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>ξ  </strong>Oxford, Bodleian Library, 292 (14th cent.) ~ <a href=\"https://digital.bodleian.ox.ac.uk/objects/be03b459-7469-4859-a72e-6127a671d911/\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "ξ  Oxford, Bodleian Library, 292 (14th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digital.bodleian.ox.ac.uk/objects/be03b459-7469-4859-a72e-6127a671d911/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional Manuscripts:</p>",
+      "line_text": "Additional Manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-k-506/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Karlsruhe, Badische Landesbibliothek, K 506, fols. 18<sup>r</sup>–20<sup>v </sup>(12th/13th cent.)</p>",
+      "line_text": "Karlsruhe, Badische Landesbibliothek, K 506, fols. 18r–20v (12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-k-506/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, lat. 8717 (14th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10033473c\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 8717 (14th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10033473c"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/MN40033ucmf_1\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Barlow, Claude W. <em>Epistolae Senecae ad Paulum et Pauli ad Senecam quae vocantur. </em>Papers and Monographs of the American Academy in Rome 10. Horn, Austria: American Academy in Rome, 1938. (Barlow provides the numeration of the epistles. The majority of the MS sigla [A-Z] are assigned and used in the edition by Barlow. Barlow gives helpful information on MSS history and textual families, pp. 8–26).</p>",
+      "line_text": "Barlow, Claude W. Epistolae Senecae ad Paulum et Pauli ad Senecam quae vocantur. Papers and Monographs of the American Academy in Rome 10. Horn, Austria: American Academy in Rome, 1938. (Barlow provides the numeration of the epistles. The majority of the MS sigla [A-Z] are assigned and used in the edition by Barlow. Barlow gives helpful information on MSS history and textual families, pp. 8–26).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/MN40033ucmf_1"
+      ]
+    },
+    {
+      "line_html": "<p>Erasmus, Desiderius, ed. <em>L. Annaei Senecae Opera.</em> Basil, 1529<sup>2 </sup>(1515<sup>1</sup>) (<em>editio princeps</em>, pp. 679–82).</p>",
+      "line_text": "Erasmus, Desiderius, ed. L. Annaei Senecae Opera. Basil, 15292 (15151) (editio princeps, pp. 679–82).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=994\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert, ed. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Benjamin Schiller, 1703 (vol. 1, pp. 880–904).</p>",
+      "line_text": "Fabricius, Johann Albert, ed. Codex Apocryphus Novi Testamenti. 2 vols. Hamburg: Benjamin Schiller, 1703 (vol. 1, pp. 880–904).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11116194?page=994"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_yWD3e_qDzKYC/page/476/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Haase, Friedrich. <em>L. Annaei Senecae Opera quae supersunt.</em> 3 vols. and suppl. Leipzig: Teubner, 1853; 1872, repr. 1883, 1895, and Supplementum 1902 (text based on L and F, vol. 3, pp. 476–81).</p>",
+      "line_text": "Haase, Friedrich. L. Annaei Senecae Opera quae supersunt. 3 vols. and suppl. Leipzig: Teubner, 1853; 1872, repr. 1883, 1895, and Supplementum 1902 (text based on L and F, vol. 3, pp. 476–81).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_yWD3e_qDzKYC/page/476/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11059254_00500.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lefèvre d’Étaples, Jacques. <em>S. Pauli Epistolae xiv. ex vulgata editione, adjecta intelligentia ex Graeco cum commentariis</em>. Paris: H. Stephanus, 1512 (text and brief commentary, pp. 226–30).</p>",
+      "line_text": "Lefèvre d’Étaples, Jacques. S. Pauli Epistolae xiv. ex vulgata editione, adjecta intelligentia ex Graeco cum commentariis. Paris: H. Stephanus, 1512 (text and brief commentary, pp. 226–30).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11059254_00500.html"
+      ]
+    },
+    {
+      "line_html": "<p>Palagi, Laura Bocciolini. <em>Epistolario Apocrifo de Seneca e San Paulo.</em> Firenze: Nardini Editore: Centro Internazionale del Libro, 1985. (Some sigla [μ, ν, ξ] and MSS are assigned and used in the edition by Palagi, as well as Barlow’s other sigla and MSS.)</p>",
+      "line_text": "Palagi, Laura Bocciolini. Epistolario Apocrifo de Seneca e San Paulo. Firenze: Nardini Editore: Centro Internazionale del Libro, 1985. (Some sigla [μ, ν, ξ] and MSS are assigned and used in the edition by Palagi, as well as Barlow’s other sigla and MSS.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Sénèque et saint Paul.<em> Lettres.</em> Translated by Paul Aizpurua. Paris: Le Promeneur, 2000.</p>",
+      "line_text": "Sénèque et saint Paul. Lettres. Translated by Paul Aizpurua. Paris: Le Promeneur, 2000.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/derursprungders00westgoog/page/n54/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Westerburg, Eugen. Pages 42–50 in <em>Der Ursprung der Sage dass Seneca Christ gewesen sei.</em> Berlin: Eugen Grosser, 1881 (pp. 42–50).</p>",
+      "line_text": "Westerburg, Eugen. Pages 42–50 in Der Ursprung der Sage dass Seneca Christ gewesen sei. Berlin: Eugen Grosser, 1881 (pp. 42–50).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/derursprungders00westgoog/page/n54/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leipzig, Universitätsbibliothek Leipzig, Rep. I 30B (15th cent.)</p>",
+      "line_text": "Leipzig, Universitätsbibliothek Leipzig, Rep. I 30B (15th cent.)",
+      "language": "Spanish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Romero, Tomàs Martínez. “Una versión medieval del epistolario Séneca-San Pablo (con acompañamiento de Tácito).” <em>Zeitschrift für romanische Philologie </em>138.1 (2022): 65–86.</p>",
+      "line_text": "Romero, Tomàs Martínez. “Una versión medieval del epistolario Séneca-San Pablo (con acompañamiento de Tácito).” Zeitschrift für romanische Philologie 138.1 (2022): 65–86.",
+      "language": "Spanish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Berry, Paul. <em>Correspondence Between Paul and Seneca, A.D. </em>61-65. Ancient Near Eastern Texts and Studies 12. Lewiston, NY-Queenston, Ont.-Lampeter, UK: Mellen, 1999.</p>",
+      "line_text": "Berry, Paul. Correspondence Between Paul and Seneca, A.D. 61-65. Ancient Near Eastern Texts and Studies 12. Lewiston, NY-Queenston, Ont.-Lampeter, UK: Mellen, 1999.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. <em>Lost Scriptures: Books that Did Not Make It into the New Testament. </em>Oxford: Oxford University, 2003 (translation, pp. 160–64).</p>",
+      "line_text": "Ehrman, Bart D. Lost Scriptures: Books that Did Not Make It into the New Testament. Oxford: Oxford University, 2003 (translation, pp. 160–64).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. </em>Oxford: Clarendon, 1993 (translation pp. 547–54 based on Barlow’s Latin and epistolary numeration.)</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Oxford: Clarendon, 1993 (translation pp. 547–54 based on Barlow’s Latin and epistolary numeration.)",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewtes00unse/page/480/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, M.R. <em>The Apocryphal New Testament</em>. Oxford: Oxford University, 1924 (pp. 480–84).</p>",
+      "line_text": "James, M.R. The Apocryphal New Testament. Oxford: Oxford University, 1924 (pp. 480–84).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewtes00unse/page/480/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00jonegoog/page/n113/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament</em>. 1726. Repr., Buffalo: Salisbury, 1824 (translation based on text by Sixtus Senensis, pp. 111–17).</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. 1726. Repr., Buffalo: Salisbury, 1824 (translation based on text by Sixtus Senensis, pp. 111–17).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00jonegoog/page/n113/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Amann, É. “Correspondance entre Sénèque et saint Paul.” <em>DBSup. </em>1. Cols. 520–22.</p>",
+      "line_text": "Amann, É. “Correspondance entre Sénèque et saint Paul.” DBSup. 1. Cols. 520–22.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedes01brungoog/page/n469/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Aocryphes, ou collection de tous les livres apocryphes. </em>2 vols.  Paris: 1856 (vol. 2, cols. 923–30).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Aocryphes, ou collection de tous les livres apocryphes. 2 vols.  Paris: 1856 (vol. 2, cols. 923–30).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedes01brungoog/page/n469/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kappler, René. “Correspondance de Paul et Sénèque.” Pages 1579–94 in <em>Écrits apocryphes chrétiens</em>. Bibliothèque de la Pléiade 442. Edited by F. Bovon and P. Geoltrain. Paris: Gallimard, 1997.</p>",
+      "line_text": "Kappler, René. “Correspondance de Paul et Sénèque.” Pages 1579–94 in Écrits apocryphes chrétiens. Bibliothèque de la Pléiade 442. Edited by F. Bovon and P. Geoltrain. Paris: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Martin-Valat, Pierre. <em>La pourpre et la cendre: Lettres de Sénèque à saint Paul</em>. Paris: Mame, 1993.</p>",
+      "line_text": "Martin-Valat, Pierre. La pourpre et la cendre: Lettres de Sénèque à saint Paul. Paris: Mame, 1993.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ActesDePaul/page/n335/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vouaux, Léon. Pages 332–69 in <em>Les Actes de Paul et ses lettres apocryphes: introduction, textes, traduction et commentaire.</em> Paris: Letouzey et Ané, 1913 (introduction, pp. 332–47, translation, pp. 348–69).</p>",
+      "line_text": "Vouaux, Léon. Pages 332–69 in Les Actes de Paul et ses lettres apocryphes: introduction, textes, traduction et commentaire. Paris: Letouzey et Ané, 1913 (introduction, pp. 332–47, translation, pp. 348–69).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ActesDePaul/page/n335/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kurfess, Alfons. “Der apokryphe Briefweschel zwischen Seneca und Paulus.” Pages 84–89 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 2.  Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1959. English translation: “The Apocryphal Correspondence Between Seneca and Paul.” Pages 133–41 in <em>New Testament Apocrypha</em>, Vol. 2. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Translated by R. McL. Wilson. 3rd ed. London: Luttersworth Press, 1963.</p>",
+      "line_text": "Kurfess, Alfons. “Der apokryphe Briefweschel zwischen Seneca und Paulus.” Pages 84–89 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 2.  Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1959. English translation: “The Apocryphal Correspondence Between Seneca and Paul.” Pages 133–41 in New Testament Apocrypha, Vol. 2. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Translated by R. McL. Wilson. 3rd ed. London: Luttersworth Press, 1963.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 85–92).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 85–92).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, introduction, pp. 1730–32; translation, pp. 1749–55).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, introduction, pp. 1730–32; translation, pp. 1749–55).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Palagi, Laura Boccioloini. <em>Il carteggio apocrifo di Seneca e San Paulo: Introduzione, testo, commento. </em>Accademia Toscana di Scienze e Lettere La Colombaria 46. Florence, 1978.</p>",
+      "line_text": "Palagi, Laura Boccioloini. Il carteggio apocrifo di Seneca e San Paulo: Introduzione, testo, commento. Accademia Toscana di Scienze e Lettere La Colombaria 46. Florence, 1978.",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Østmoe, Tor Ivar. “Paulus og Senecas brevveksling.” Pages 299–309 in <em>Tidligkristne apokryfer</em>. Edited by Reidar Aasgaard. Verdens Hellige Skrifter. Oslo: De norske bokklubbene, 2011.</p>",
+      "line_text": "Østmoe, Tor Ivar. “Paulus og Senecas brevveksling.” Pages 299–309 in Tidligkristne apokryfer. Edited by Reidar Aasgaard. Verdens Hellige Skrifter. Oslo: De norske bokklubbene, 2011.",
+      "language": "Norwegian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://daten.digitale-sammlungen.de/~db/0000/bsb00002510/images/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Anon. <em>Insequentia in hoc libro continentur. Beatis Pauli Gentium Apostoli : Epistole : altissimis referte mysteriis : quas septem ecclesiis : catholicas et preterea : quas dsicipulis suis : privitas. sedulus Christi Orator : transmisit.</em> Vienna: Hieronymus Vietor and Johannes Singrenius, 1514. (this copy is cataloged as Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Res. 4 B. lat. 15b; <em>Ep. Paul Sen.</em> is found pp. lxxxvi<sup>v</sup>–lxxxix<sup>r</sup>).</p>",
+      "line_text": "Anon. Insequentia in hoc libro continentur. Beatis Pauli Gentium Apostoli : Epistole : altissimis referte mysteriis : quas septem ecclesiis : catholicas et preterea : quas dsicipulis suis : privitas. sedulus Christi Orator : transmisit. Vienna: Hieronymus Vietor and Johannes Singrenius, 1514. (this copy is cataloged as Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Res. 4 B. lat. 15b; Ep. Paul Sen. is found pp. lxxxviv–lxxxixr).",
+      "language": "English",
+      "entry_type": "Incunabula",
+      "other_urls": [
+        "https://daten.digitale-sammlungen.de/~db/0000/bsb00002510/images/"
+      ]
+    },
+    {
+      "line_html": "<p>Arnaud, E. “Sénèque le philosophe.” <em>RTQR </em>(1902): 64–75.</p>",
+      "line_text": "Arnaud, E. “Sénèque le philosophe.” RTQR (1902): 64–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/snqueetsain00aube/page/n7/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Aubertin, Charles. <em>Sénèque et St. Paul: Étude sur les rapports supposés entre </em><em>le philosophie et l’ap</em><em>ôtre. </em>3rd ed. Paris: Didier, 1869.</p>",
+      "line_text": "Aubertin, Charles. Sénèque et St. Paul: Étude sur les rapports supposés entre le philosophie et l’apôtre. 3rd ed. Paris: Didier, 1869.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/snqueetsain00aube/page/n7/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Bardenhewer, Otto. “Die Briefwechsel zwischen Paulus und Seneca.” <em>GAL: </em>606–10.</p>",
+      "line_text": "Bardenhewer, Otto. “Die Briefwechsel zwischen Paulus und Seneca.” GAL: 606–10.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Baur, Frederick C. “Seneka und Paulus: Das Verhältnis des Soitzimus zum Christentum nach des Schriften Senecas.” <em>ZWT </em>1 (1858): 161–246, 441–70.</p>",
+      "line_text": "Baur, Frederick C. “Seneka und Paulus: Das Verhältnis des Soitzimus zum Christentum nach des Schriften Senecas.” ZWT 1 (1858): 161–246, 441–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bauer, J. B. <em>Die neutestamentlichen Apokryphen</em>. Die Welt der Bibel 21. Düsseldrof, 1968 (pp. 90–93).</p>",
+      "line_text": "Bauer, J. B. Die neutestamentlichen Apokryphen. Die Welt der Bibel 21. Düsseldrof, 1968 (pp. 90–93).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Baumgarten, Michael. <em>Lucius Annäus Seneca und das Christentum in der tiefgesunkenen antiken Weltzeit.</em> Rostock: Nachgelassenes Werk, 1895.</p>",
+      "line_text": "Baumgarten, Michael. Lucius Annäus Seneca und das Christentum in der tiefgesunkenen antiken Weltzeit. Rostock: Nachgelassenes Werk, 1895.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Berry, Paul. <em>The Encounter Between Seneca and Christianity. </em>Lewiston: Edwin Mellen, 2002.</p>",
+      "line_text": "Berry, Paul. The Encounter Between Seneca and Christianity. Lewiston: Edwin Mellen, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Boissier, L. “Sénèque et St. Paul.” <em>La religion romaine d’Auguste aux Antonins. </em>Pages 52–104 of Vol. 2. Paris, 1884.</p>",
+      "line_text": "Boissier, L. “Sénèque et St. Paul.” La religion romaine d’Auguste aux Antonins. Pages 52–104 of Vol. 2. Paris, 1884.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_qIRQAAAAYAAJ/page/n95/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bräutigam, Ludwig. “Seneca und das Christentum.” <em>Ethische Kultur </em>4 (1896): 90–91.</p>",
+      "line_text": "Bräutigam, Ludwig. “Seneca und das Christentum.” Ethische Kultur 4 (1896): 90–91.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_qIRQAAAAYAAJ/page/n95/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Codara, Antonio. “Seneca filosofo e San Paulo.” <em>Rivista italiana di filosofia </em>12 (1897): 149–81, 341–64; (1898): 26–41, 179–90.</p>",
+      "line_text": "Codara, Antonio. “Seneca filosofo e San Paulo.” Rivista italiana di filosofia 12 (1897): 149–81, 341–64; (1898): 26–41, 179–90.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dodson, Joseph R. and David E. Briones, eds. <em>Paul and Seneca in Dialogue</em>. Leiden: Brill, 2017.</p>",
+      "line_text": "Dodson, Joseph R. and David E. Briones, eds. Paul and Seneca in Dialogue. Leiden: Brill, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/MN41482ucmf_17\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Deiszner, Kurt. <em>Paulus und Seneca. </em>Gütersloh: C. Bertelsmann, 1917.</p>",
+      "line_text": "Deiszner, Kurt. Paulus und Seneca. Gütersloh: C. Bertelsmann, 1917.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/MN41482ucmf_17"
+      ]
+    },
+    {
+      "line_html": "<p>Döpp, Siegmar and Wilhelm Geerlings. Page 462 of <em>Dictionary of Early Christian Literature. </em>Translated by Matthew O’Connell. New York: Crossroad, 1998.</p>",
+      "line_text": "Döpp, Siegmar and Wilhelm Geerlings. Page 462 of Dictionary of Early Christian Literature. Translated by Matthew O’Connell. New York: Crossroad, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. <em>Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics. </em>New York: Oxford University, 2013.</p>",
+      "line_text": "Ehrman, Bart D. Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics. New York: Oxford University, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Farel, P. “Pour Sénèque.” <em>RTQR </em>10 (1901): 342–57.</p>",
+      "line_text": "Farel, P. “Pour Sénèque.” RTQR 10 (1901): 342–57.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/saintpauletsnqu01fleugoog/page/n8/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fleury, Amédée. <em>St. Paul et </em><em>Sénèque : Recherches sur les rapports de philosophie avec l’ap</em><em>ôtre et sur l’infiltration du christianisme naissant à travere le paganisme. </em>2 vols. Paris: Ladrange, 1853 (<a href=\"https://archive.org/details/saintpauletsnqu04fleugoog/page/n8/mode/2up\" target=\"_blank\" rel=\"noopener\">vol. 2</a>).</p>",
+      "line_text": "Fleury, Amédée. St. Paul et Sénèque : Recherches sur les rapports de philosophie avec l’apôtre et sur l’infiltration du christianisme naissant à travere le paganisme. 2 vols. Paris: Ladrange, 1853 (vol. 2).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/saintpauletsnqu01fleugoog/page/n8/mode/2up",
+        "https://archive.org/details/saintpauletsnqu04fleugoog/page/n8/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Franceschini, E. “Un ignoto codice delle ‘Epistolae Senecae et Pauli.’” <em>Mélanges Joseph de Ghellinck.</em> Pages 149–70 of Vol. 1. Museum Lessianum––Section Historique 13. Gembioux, 1951.</p>",
+      "line_text": "Franceschini, E. “Un ignoto codice delle ‘Epistolae Senecae et Pauli.’” Mélanges Joseph de Ghellinck. Pages 149–70 of Vol. 1. Museum Lessianum––Section Historique 13. Gembioux, 1951.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Friedländer, L. “Der Philosoph Seneca.” <em>HZ </em>85 (1900): 193–249.</p>",
+      "line_text": "Friedländer, L. “Der Philosoph Seneca.” HZ 85 (1900): 193–249.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fürst, Alfons. “Pseudepigraphie und Apostolizität im apokryphen Briefwechsel zwischen Seneca und Paulus.” <em>JAC </em>41 (1998): 77–117.</p>",
+      "line_text": "Fürst, Alfons. “Pseudepigraphie und Apostolizität im apokryphen Briefwechsel zwischen Seneca und Paulus.” JAC 41 (1998): 77–117.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Grappone, Antonio. “Girolamo e l’epistolario tra Seneca e san Paolo.” <em>Augustianum</em> 50.1 (2010): 119–45.</p>",
+      "line_text": "Grappone, Antonio. “Girolamo e l’epistolario tra Seneca e san Paolo.” Augustianum 50.1 (2010): 119–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gregory, Andrew. “Correspondence of Paul and Seneca.” Pages 361–73 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Gregory, Andrew. “Correspondence of Paul and Seneca.” Pages 361–73 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf von. “Der Briefweschel zwischen Seneca und Paulus.” <em>Geschichte der altchristlichen Literatur bis Eusebius</em>. 2 vols., 1893–1897. Reprint: Leipzig: Hinrichs, 1958 (vol. 2.2, pp. 458f).</p>",
+      "line_text": "Harnack, Adolf von. “Der Briefweschel zwischen Seneca und Paulus.” Geschichte der altchristlichen Literatur bis Eusebius. 2 vols., 1893–1897. Reprint: Leipzig: Hinrichs, 1958 (vol. 2.2, pp. 458f).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Haussleiter, J. “Literatur zu der Frage ‘Seneca und das Christentum.’” <em>Jahresbericht über die Fortschritte der klassischen Altertumsurssenschaft </em>281 (1943): 1943.</p>",
+      "line_text": "Haussleiter, J. “Literatur zu der Frage ‘Seneca und das Christentum.’” Jahresbericht über die Fortschritte der klassischen Altertumsurssenschaft 281 (1943): 1943.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Herrmann, L. <em>Sénèque et les premiere chrétiens. </em>Collection Latomus 167. Brussels, 1979.</p>",
+      "line_text": "Herrmann, L. Sénèque et les premiere chrétiens. Collection Latomus 167. Brussels, 1979.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraus, F.X. “Der Briefwechsel Pauli mit Seneca: Ein Beitrag zur Apokryphenliteratur.” <em>TQ </em>49 (1867): 603–24.</p>",
+      "line_text": "Kraus, F.X. “Der Briefwechsel Pauli mit Seneca: Ein Beitrag zur Apokryphenliteratur.” TQ 49 (1867): 603–24.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kreyher, Johannes. <em>L. Annaeus Seneca und siene Beziehungen zum Urchristentum. </em>Berlin, 1887.</p>",
+      "line_text": "Kreyher, Johannes. L. Annaeus Seneca und siene Beziehungen zum Urchristentum. Berlin, 1887.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kurfess, Alfons. “Der Brand Roms und die Christenverfolgung im Jahre 64 n. Chr.” <em>Mnemosyne </em>3.6 (1938): 261–72.</p>",
+      "line_text": "Kurfess, Alfons. “Der Brand Roms und die Christenverfolgung im Jahre 64 n. Chr.” Mnemosyne 3.6 (1938): 261–72.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Zu dem apokryphen Briefweschel zwischen dem Philosophen Seneca und dem Apostel Paulus.”<em>Aevum </em>26 (1952): 42–48.</p>",
+      "line_text": "__________. “Zu dem apokryphen Briefweschel zwischen dem Philosophen Seneca und dem Apostel Paulus.”Aevum 26 (1952): 42–48.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Zu Pseudo-Paulus ad Senecam.” <em>ZNW </em>35 (1936): 307.</p>",
+      "line_text": "__________. “Zu Pseudo-Paulus ad Senecam.” ZNW 35 (1936): 307.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Zum apokryphen Briefweschel zwischen Seneca und Paulus.” <em>ThG1 </em>29 (1937): 317–22.</p>",
+      "line_text": "__________. “Zum apokryphen Briefweschel zwischen Seneca und Paulus.” ThG1 29 (1937): 317–22.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Zum apokryphen Briefweschel zwischen Seneca und Paulus.” <em>TQ </em>119 (1938): 318–31.</p>",
+      "line_text": "__________. “Zum apokryphen Briefweschel zwischen Seneca und Paulus.” TQ 119 (1938): 318–31.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Zum apokryphen Briefweschel zwischen Seneca und Paulus.” <em>ZRGG </em>2 (1949/50): 67–70.</p>",
+      "line_text": "__________. “Zum apokryphen Briefweschel zwischen Seneca und Paulus.” ZRGG 2 (1949/50): 67–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Labriolle, Pierre de. <em>Le réaction païenne. </em>Paris: Durand, 1934.</p>",
+      "line_text": "Labriolle, Pierre de. Le réaction païenne. Paris: Durand, 1934.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leclercq, H. “Sénèque et S. Paul.” <em>DACL </em>15. Cols. 1193–98.</p>",
+      "line_text": "Leclercq, H. “Sénèque et S. Paul.” DACL 15. Cols. 1193–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Liénard, E. “Alcuin et les Epistolae Senecae et Pauli.”<em> RBPH </em>20 (1941): 589–98.</p>",
+      "line_text": "Liénard, E. “Alcuin et les Epistolae Senecae et Pauli.” RBPH 20 (1941): 589–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Sur la correspondance apocryphe de Sénèque et de Saint Paul.” <em>RBPH </em>11 (1932): 5–23.</p>",
+      "line_text": "__________. “Sur la correspondance apocryphe de Sénèque et de Saint Paul.” RBPH 11 (1932): 5–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/stpaulsepistlet01lighgoog/page/268/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lightfoot, Joseph B. <em>St. Paul’s Epistle to the Philippians. </em>London: Macmillian and Co., 1873 (pp. 268–331).</p>",
+      "line_text": "Lightfoot, Joseph B. St. Paul’s Epistle to the Philippians. London: Macmillian and Co., 1873 (pp. 268–331).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/stpaulsepistlet01lighgoog/page/268/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dissertationsona00ligh/page/316/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________.  <em>Dissertations on the Apostolic Age. </em>London: Macmillian and Co., 1892 (pp. 317–22).</p>",
+      "line_text": "__________.  Dissertations on the Apostolic Age. London: Macmillian and Co., 1892 (pp. 317–22).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dissertationsona00ligh/page/316/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Malherbe, Abraham. “‘Seneca’ on Paul as Letter Writer.” Pages 414–21 in <em>The Future of Early Christianity: Essays in honor of Helmut Koester.</em> Edited by Birger A. Pearson. Minneapolis: Fortress, 1991.</p>",
+      "line_text": "Malherbe, Abraham. “‘Seneca’ on Paul as Letter Writer.” Pages 414–21 in The Future of Early Christianity: Essays in honor of Helmut Koester. Edited by Birger A. Pearson. Minneapolis: Fortress, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mitchell, David. <em>Legacy: The Apocryphal Correspondence between Seneca and Paul. </em>Philadelphia: Xlibris, 2010.</p>",
+      "line_text": "Mitchell, David. Legacy: The Apocryphal Correspondence between Seneca and Paul. Philadelphia: Xlibris, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Moreschini, Claudio and Enrico Norelli, eds. <em>Early Christian Greek and Latin Literature: A Literary History. </em>2 vols. Peabody, MA: Hendrickson, 2005.</p>",
+      "line_text": "Moreschini, Claudio and Enrico Norelli, eds. Early Christian Greek and Latin Literature: A Literary History. 2 vols. Peabody, MA: Hendrickson, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pascal, Carolus. “La falsa corrispondenza fra Seneca e S. Paolo.” <em>Rivista de filologia e d’instruzione  classica </em>35 (1907): 33–42.</p>",
+      "line_text": "Pascal, Carolus. “La falsa corrispondenza fra Seneca e S. Paolo.” Rivista de filologia e d’instruzione  classica 35 (1907): 33–42.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “La falsa corrispondenza tra Seneca e Paolo.” Pages 123–40 of <em>Letteratura latina medievale. </em>Catania: Francesco Battiato, 1909.</p>",
+      "line_text": "__________. “La falsa corrispondenza tra Seneca e Paolo.” Pages 123–40 of Letteratura latina medievale. Catania: Francesco Battiato, 1909.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pink, K. “Die pseudo-paulinischen Brief II.” <em>Bib </em>6.2 (1925): 179–200.</p>",
+      "line_text": "Pink, K. “Die pseudo-paulinischen Brief II.” Bib 6.2 (1925): 179–200.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ramelli, Ilaria. “L’epistolario apocrifo Seneca-san Paolo: alcune asservazioni.” <em>VetChr </em>34.2 (1997): 299–310.</p>",
+      "line_text": "Ramelli, Ilaria. “L’epistolario apocrifo Seneca-san Paolo: alcune asservazioni.” VetChr 34.2 (1997): 299–310.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “A Pseudepigraphon Inside a Pseudepigraphon?: The Seneca-Paul Correspondence and the Letters Added Afterwards.” <em>JSP </em>23.4 (2014): 259–89.</p>",
+      "line_text": "__________. “A Pseudepigraphon Inside a Pseudepigraphon?: The Seneca-Paul Correspondence and the Letters Added Afterwards.” JSP 23.4 (2014): 259–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Pseudepigraphical Correspondence between Paul and Seneca: A Reassessment.” Pages 319–36 in <em>Paul and Pseudepigraphy</em>. Edited by Stanley E. Porter and Gregory P. Fewster. PAST 8. Leiden: Brill. 2013.</p>",
+      "line_text": "__________. “The Pseudepigraphical Correspondence between Paul and Seneca: A Reassessment.” Pages 319–36 in Paul and Pseudepigraphy. Edited by Stanley E. Porter and Gregory P. Fewster. PAST 8. Leiden: Brill. 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reynolds, Leighton D. <em>The Medieval Tradition of Seneca’s Letters. </em>Leiden: Brill, 1965.</p>",
+      "line_text": "Reynolds, Leighton D. The Medieval Tradition of Seneca’s Letters. Leiden: Brill, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lannussenecader00ribbgoog/page/n8/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ribbeck, Walter. <em>L. Annäus Seneca der Philosoph und sein Verhältnis zu Epikur, Plato und dem Christentum. </em>Hannover, 1887.</p>",
+      "line_text": "Ribbeck, Walter. L. Annäus Seneca der Philosoph und sein Verhältnis zu Epikur, Plato und dem Christentum. Hannover, 1887.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/lannussenecader00ribbgoog/page/n8/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieethiksenecas01rubigoog\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rubin, Salomon. <em>Die Ethik Senecas in ihrem Verhältnis zur älteren und mittleren Stoa. </em>Munich: C. H. Beck, 1901.</p>",
+      "line_text": "Rubin, Salomon. Die Ethik Senecas in ihrem Verhältnis zur älteren und mittleren Stoa. Munich: C. H. Beck, 1901.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieethiksenecas01rubigoog"
+      ]
+    },
+    {
+      "line_html": "<p>Schanz, M. <em>Geschichte der römischen Literatur. </em>2 vols. Pages 414–17 of Vol. 2. Munich, 1898–1920 (vol. 2, pp. 414–17).</p>",
+      "line_text": "Schanz, M. Geschichte der römischen Literatur. 2 vols. Pages 414–17 of Vol. 2. Munich, 1898–1920 (vol. 2, pp. 414–17).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schreiner, T. <em>Seneca im Gegensatz zu Paulus: Ein Vergleich ihrer Welt- und Lebensanschauung. </em>Diss. Tübingen, 1936.</p>",
+      "line_text": "Schreiner, T. Seneca im Gegensatz zu Paulus: Ein Vergleich ihrer Welt- und Lebensanschauung. Diss. Tübingen, 1936.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schröter, Jens. “Der Briefwechsel Paulus-Seneca.” Pages 563-565 in <em>Paulus Handbuch. </em>Edited by Friedrich W. Horn. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "Schröter, Jens. “Der Briefwechsel Paulus-Seneca.” Pages 563-565 in Paulus Handbuch. Edited by Friedrich W. Horn. Tübingen: Mohr Siebeck, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sevenster, Jan N. <em>Paul and Seneca.</em> NovTSup 4. Leiden: Brill, 1961.</p>",
+      "line_text": "Sevenster, Jan N. Paul and Seneca. NovTSup 4. Leiden: Brill, 1961.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sledd, Andrew. “St Paul and Seneca.” <em>Methodist Review </em>49.2 (1900): 203–19.</p>",
+      "line_text": "Sledd, Andrew. “St Paul and Seneca.” Methodist Review 49.2 (1900): 203–19.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vladimirescu, Mihai Valentin. “New Lights on the Apocryphal Correspondence Between Seneca and the Apostle Paul.” <em>Anuarul Institutului de Cercetări Socio-Umane “C.S. Nicolăescu-Plop</em><em>ș</em><em>or” </em>23 (2022): 173–88.</p>",
+      "line_text": "Vladimirescu, Mihai Valentin. “New Lights on the Apocryphal Correspondence Between Seneca and the Apostle Paul.” Anuarul Institutului de Cercetări Socio-Umane “C.S. Nicolăescu-Plopșor” 23 (2022): 173–88.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Starowieyski, Marek. “St. Paul dans les apocryphes.” <em>StPatr</em> 65 (2013): 253–62.</p>",
+      "line_text": "Starowieyski, Marek. “St. Paul dans les apocryphes.” StPatr 65 (2013): 253–62.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Westerburg, E. <em>Der Ursprung der Sage, dass Seneca Christ gewesen sei: Eine Kritische Untersuchung nebst einer Rezension des apokryphen Briefweschels des Apostels Paulus mit Seneca. </em>Berlin, 1881.</p>",
+      "line_text": "Westerburg, E. Der Ursprung der Sage, dass Seneca Christ gewesen sei: Eine Kritische Untersuchung nebst einer Rezension des apokryphen Briefweschels des Apostels Paulus mit Seneca. Berlin, 1881.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wilson, R.McL. “Paul and Seneca, Letters of.” <em>ZPEB </em>4: 623.</p>",
+      "line_text": "Wilson, R.McL. “Paul and Seneca, Letters of.” ZPEB 4: 623.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zahn, T. “Der Briefswechsel zwischen Seneca und Paulus.” <em>Geschichte des Neutestamentlichen Kanons. </em>2 vols. Erlangen – Leipzig 1888–1892 (vol. 2, pp. 612–21).</p>",
+      "line_text": "Zahn, T. “Der Briefswechsel zwischen Seneca und Paulus.” Geschichte des Neutestamentlichen Kanons. 2 vols. Erlangen – Leipzig 1888–1892 (vol. 2, pp. 612–21).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

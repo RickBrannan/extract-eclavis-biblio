@@ -1,0 +1,55 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-aquila/",
+  "nasscal_toc_title": "Acts of Aquila",
+  "filename": "acts-of-aquila",
+  "latin_title": "Acta Aquilas",
+  "clavis_number": 764,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1219/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1219, fols. 37<sup>v</sup>–44<sup>v </sup>(11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1219, fols. 37v–44v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1219/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://dds.crl.edu/crldelivery/17525\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ebersolt, Jean. <em>Les Acts de S. Jacques et les Actes d’Aquilas: publiés d’après deux manuscrits de la B.N.</em> Paris: E. Leroux, 1902 (Greek edition, pp. 47–55).</p>",
+      "line_text": "Ebersolt, Jean. Les Acts de S. Jacques et les Actes d’Aquilas: publiés d’après deux manuscrits de la B.N. Paris: E. Leroux, 1902 (Greek edition, pp. 47–55).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://dds.crl.edu/crldelivery/17525"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://dds.crl.edu/crldelivery/17525\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ebersolt, Jean. <em>Les Acts de S. Jacques et les Actes d’Aquilas: publiés d’après deux manuscrits de la B.N.</em> Paris: E. Leroux, 1902 (translation, pp. 56–66; discussion, pp. 67–73).</p>",
+      "line_text": "Ebersolt, Jean. Les Acts de S. Jacques et les Actes d’Aquilas: publiés d’après deux manuscrits de la B.N. Paris: E. Leroux, 1902 (translation, pp. 56–66; discussion, pp. 67–73).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://dds.crl.edu/crldelivery/17525"
+      ]
+    },
+    {
+      "line_html": "<p> </p>",
+      "line_text": " ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

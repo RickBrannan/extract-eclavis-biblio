@@ -1,0 +1,251 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/miracles-of-andrew-by-gregory-of-tours/",
+  "nasscal_toc_title": "Miracles of Andrew by Gregory of Tours",
+  "filename": "miracles-of-andrew-by-gregory-of-tours",
+  "latin_title": "Liber de miraculis Andreas Apostoli, aucture Gregorio Turononsi",
+  "abbrev": "Mir. Andr.",
+  "clavis_number": 244,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>These manuscripts are used in the edition of Bonnet. For additional manuscripts and editions of the text incorporated into the <em>Apostolic Histories</em> collection, see <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-latin/\" target=\"_blank\" rel=\"noopener\"><em>Acts of Andrew (Latin)</em></a>.</p>",
+      "line_text": "These manuscripts are used in the edition of Bonnet. For additional manuscripts and editions of the text incorporated into the Apostolic Histories collection, see Acts of Andrew (Latin).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-latin/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bern, Burgerbibliothek, 48, fols. 60–72 (10th cent.)</p>",
+      "line_text": "Bern, Burgerbibliothek, 48, fols. 60–72 (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5339, fols. 32<sup>r</sup>–54<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5339, fols. 32r–54r (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12603, fols. 10<sup>r</sup>–11<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 12603, fols. 10r–11r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12604, fols. 19<sup>r</sup>–34<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 19r–34v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 18104, fols. 102<sup>r</sup>–113<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 18104, fols. 102r–113v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Montpellier, Bibliothèque de la Faculté de médecine, 1, vol. 1, fols. 179<sup>r</sup>–188<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Montpellier, Bibliothèque de la Faculté de médecine, 1, vol. 1, fols. 179r–188r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Montpellier, Bibliothèque de la Faculté de médecine, 30, fols. 227<sup>v</sup>–234<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Montpellier, Bibliothèque de la Faculté de médecine, 30, fols. 227v–234r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 28<sup>v</sup>–52<sup>r</sup>; illustrations fol. 27<sup>v</sup>, 28<sup>r</sup> (1175)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 28v–52r; illustrations fol. 27v, 28r (1175)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Valencia, Biblioteca Universitaria, 471, fols. 21–36 (12th cent.)</p>",
+      "line_text": "Valencia, Biblioteca Universitaria, 471, fols. 21–36 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1274, fols. 78–119 (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1274, fols. 78–119 (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36<span class=\"s1\"><sup>v</sup></span>–57<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
+      "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36v–57v (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_monumenta-germaniae-historica_1885_0/page/820/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilen. “Gregorii episcopi turonensis liber de miraculis beati Andreae apostoli.” Pages 821–46 in <em>Gregorii episcopi turonensis miracula et opera minora</em>. Edited by Bruno Krusch. Monumenta Germaniae historica, Scriptorum rerum Merovingicarum 1/2. Hanover: Hahn 1885; repr. 1969 (edition pp. 827–46; list of manuscripts used, p. 823).</p>",
+      "line_text": "Bonnet, Maximilen. “Gregorii episcopi turonensis liber de miraculis beati Andreae apostoli.” Pages 821–46 in Gregorii episcopi turonensis miracula et opera minora. Edited by Bruno Krusch. Monumenta Germaniae historica, Scriptorum rerum Merovingicarum 1/2. Hanover: Hahn 1885; repr. 1969 (edition pp. 827–46; list of manuscripts used, p. 823).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sim_monumenta-germaniae-historica_1885_0/page/820/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_IggXAAAAIAAJ/page/n45/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bordier, Henri Léonard. <em>Les Livres des Miracles et autres opuscules de Grégoire de Tours</em>. Paris: J. Renouard, 1857–1864 (edition in vol. 4, pp. 33–96).</p>",
+      "line_text": "Bordier, Henri Léonard. Les Livres des Miracles et autres opuscules de Grégoire de Tours. Paris: J. Renouard, 1857–1864 (edition in vol. 4, pp. 33–96).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_IggXAAAAIAAJ/page/n45/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaecurs21unkngoog/page/n521/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae Latinae.</em> 217 vols. Paris: Lutetiae Parisiorum, 1844–1864 (reprint of Ruinart, vol. 71, cols. 1099–1102).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae Latinae. 217 vols. Paris: Lutetiae Parisiorum, 1844–1864 (reprint of Ruinart, vol. 71, cols. 1099–1102).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaecurs21unkngoog/page/n521/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc. <em>Acta Andreae.</em> 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (reproduction of Bonnet’s introduction, vol. 2, pp. 556–63, and edition with Prieur’s facing French translation, 564–651; introductory notes, pp. 553–54).</p>",
+      "line_text": "Prieur, Jean-Marc. Acta Andreae. 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (reproduction of Bonnet’s introduction, vol. 2, pp. 556–63, and edition with Prieur’s facing French translation, 564–651; introductory notes, pp. 553–54).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://play.google.com/books/reader?id=n7xiAAAAcAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ruinart, Theodorus (Thierry). <em>Sancti Georgii Florentii Gregorii Opera omnia</em>. Paris: Lutetiae Parisiorum, 1699 (excerpt from a manuscript in the possession of St. Germain-des-Prés, pp. 1261–64).</p>",
+      "line_text": "Ruinart, Theodorus (Thierry). Sancti Georgii Florentii Gregorii Opera omnia. Paris: Lutetiae Parisiorum, 1699 (excerpt from a manuscript in the possession of St. Germain-des-Prés, pp. 1261–64).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://play.google.com/books/reader?id=n7xiAAAAcAAJ&hl=en"
+      ]
+    },
+    {
+      "line_html": "<p>See also <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-latin/\" target=\"_blank\" rel=\"noopener\"><em>Acts of Andrew (Latin)</em></a>.</p>",
+      "line_text": "See also Acts of Andrew (Latin).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-andrew-latin/"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (summary, pp. 272–83).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (summary, pp. 272–83).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n361/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, pp. 337–49).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, pp. 337–49).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n361/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>MacDonald, Dennis R. <em>The Acts of Andrew.</em> Salem, OR: Polebridge, 2005 (translation of chs. 2–33, pp. 43–76).</p>",
+      "line_text": "MacDonald, Dennis R. The Acts of Andrew. Salem, OR: Polebridge, 2005 (translation of chs. 2–33, pp. 43–76).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc, and Wilhelm Schneemelcher. “The Acts of Andrew.” Pages 101–51  in <em>New Testament Apocrypha</em>. Vol. 2:  <em>Writings Relating to the Apostles; Apocalypses and Related Subjects</em>. Edited by Wilhem Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (summary, pp. 118–23).</p>",
+      "line_text": "Prieur, Jean-Marc, and Wilhelm Schneemelcher. “The Acts of Andrew.” Pages 101–51  in New Testament Apocrypha. Vol. 2:  Writings Relating to the Apostles; Apocalypses and Related Subjects. Edited by Wilhem Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (summary, pp. 118–23).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc. “Vie d’André de Grégroire de Tours.” Pages 934–72 in vol. 1 of <em>Écrits apocryphes chr</em><em>é</em><em>tiens. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (reproduction of translation from CCSA 6).</p>",
+      "line_text": "Prieur, Jean-Marc. “Vie d’André de Grégroire de Tours.” Pages 934–72 in vol. 1 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (reproduction of translation from CCSA 6).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Adamik, Tamás. “Eroticism in the <em>Liber de miraculis beati Andrea apostoli</em> of Gregory of Tours.” Pages 35–46 in <em>The Apocryphal Acts of Andrew</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 5. Leuven: Peeters, 2000.</p>",
+      "line_text": "Adamik, Tamás. “Eroticism in the Liber de miraculis beati Andrea apostoli of Gregory of Tours.” Pages 35–46 in The Apocryphal Acts of Andrew. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 5. Leuven: Peeters, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesactesapocryph00flam/page/50/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Flamion, Joseph. <em>Les Actes apocryphes de l’apôtre André: Les Actes d’André et de Matthias, de Pierre et d’André et les textes apparentés</em>. Leuven: Bureau du recueil, 1911 (esp. pp. 50–55, 213–63).</p>",
+      "line_text": "Flamion, Joseph. Les Actes apocryphes de l’apôtre André: Les Actes d’André et de Matthias, de Pierre et d’André et les textes apparentés. Leuven: Bureau du recueil, 1911 (esp. pp. 50–55, 213–63).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/lesactesapocryph00flam/page/50/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kampen, Lieuwe van. “Acta Andreae and Gregory’s <em>De miraculis Andreae</em>.” <em>VC</em> 45 (1991):18–26.</p>",
+      "line_text": "Kampen, Lieuwe van. “Acta Andreae and Gregory’s De miraculis Andreae.” VC 45 (1991):18–26.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=JxUm5KDyaDUC&amp;pg=PA239&amp;lpg=PA239&amp;dq=Cannibals,+Myrmidonians,+Sinopeans+or+Jews&amp;source=bl&amp;ots=9LKMOB1D9F&amp;sig=ACfU3U1QIZHJoDRXv4KZNwJ-WPdMWIomZA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiZwJjo6e_0AhWDbc0KHbJtAc0Q6AF6BAgSEAM#v=onepage&amp;q=Cannibals%2C%20Myrmidonians%2C%20Sinopeans%20or%20Jews&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lanzillota, Fernando Lautaro Roig. “Cannibals, Myrmidonians, Sinopeans or Jews? The Five Versions of the Acts of Andrew and Matthias and Their Sources.” Pages 221–43 in <em>Wonders Never Cease: The Purpose of Narrating Miracle Stories in the New Testament and its Religious Environment</em>. Edited by Ed. M. Labahn and B. J. Lietaert Peerbolte. Library of New Testament Studies 288. London: T. &amp; T. Clark, 2006.</p>",
+      "line_text": "Lanzillota, Fernando Lautaro Roig. “Cannibals, Myrmidonians, Sinopeans or Jews? The Five Versions of the Acts of Andrew and Matthias and Their Sources.” Pages 221–43 in Wonders Never Cease: The Purpose of Narrating Miracle Stories in the New Testament and its Religious Environment. Edited by Ed. M. Labahn and B. J. Lietaert Peerbolte. Library of New Testament Studies 288. London: T. &amp; T. Clark, 2006.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=JxUm5KDyaDUC&pg=PA239&lpg=PA239&dq=Cannibals,+Myrmidonians,+Sinopeans+or+Jews&source=bl&ots=9LKMOB1D9F&sig=ACfU3U1QIZHJoDRXv4KZNwJ-WPdMWIomZA&hl=en&sa=X&ved=2ahUKEwiZwJjo6e_0AhWDbc0KHbJtAc0Q6AF6BAgSEAM#v=onepage&q=Cannibals%2C%20Myrmidonians%2C%20Sinopeans%20or%20Jews&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_ddJJAAAAMAAJ/page/n565/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 1, pp. 557–62).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 1, pp. 557–62).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_ddJJAAAAMAAJ/page/n565/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Peterson, Peter M. <em>Andrew, Brother of Simon Peter, his History and his Legends.</em> NovT Sup 1. Leiden: Brill, 1958.</p>",
+      "line_text": "Peterson, Peter M. Andrew, Brother of Simon Peter, his History and his Legends. NovT Sup 1. Leiden: Brill, 1958.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc. <em>Acta Andreae.</em> 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (esp. vol. 1, pp. 8–12, 40–55).</p>",
+      "line_text": "Prieur, Jean-Marc. Acta Andreae. 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (esp. vol. 1, pp. 8–12, 40–55).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>____________. “Les Actes apocryphes de l‘apôtre André: Présentation des diverses traditions apocryphes et état de la question.”<em>ANRW</em> II 25,6 (1988): 4384–4414.</p>",
+      "line_text": "____________. “Les Actes apocryphes de l‘apôtre André: Présentation des diverses traditions apocryphes et état de la question.”ANRW II 25,6 (1988): 4384–4414.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"Brrgq\">Zelzer, K. “Zur Frage des Autors der «Miracula b. Andreae apostoli» und zur Sprache des Gregors von Tours.” <em>Grazer Beiträge</em> 6 (1977): 217–41.</span></p>",
+      "line_text": "Zelzer, K. “Zur Frage des Autors der «Miracula b. Andreae apostoli» und zur Sprache des Gregors von Tours.” Grazer Beiträge 6 (1977): 217–41.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

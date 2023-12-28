@@ -1,0 +1,186 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-epistle-of-titus/",
+  "nasscal_toc_title": "(Apocryphal) Epistle of Titus",
+  "filename": "apocryphal-epistle-of-titus",
+  "latin_title": "Epistula Titi, discipuli Pauli, de dispositione sanctimonii",
+  "abbrev": "(Apocr.) Ep. Titus",
+  "alt_titles": [
+    "Epistle of Titus",
+    "Pseudo-Titus Epistle"
+  ],
+  "clavis_number": 0,
+  "category": "Epistles",
+  "compiler": ": Brandon W. Hawk, Rhode Island College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wurzburg-universitatsbibliothek-m-p-th-f-28/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Würzburg, Universitätsbibliothek, M.p.th.f. 28, fols. 84<sup>r</sup>–93<sup>v</sup> (8th cent., Bavaria?), the so-called Homiliary of Burchard</p>",
+      "line_text": "Würzburg, Universitätsbibliothek, M.p.th.f. 28, fols. 84r–93v (8th cent., Bavaria?), the so-called Homiliary of Burchard",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wurzburg-universitatsbibliothek-m-p-th-f-28/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuebenedictineabbmared37/page/46/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Donatien de Bruyne, D. “Epistula Titi, discipuli Pauli, de dispositione sanctimonii.” <em>RBén</em> 37 (1925): 47–72 (<em>Editio princeps</em>, 48–64).</p>",
+      "line_text": "Donatien de Bruyne, D. “Epistula Titi, discipuli Pauli, de dispositione sanctimonii.” RBén 37 (1925): 47–72 (Editio princeps, 48–64).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revuebenedictineabbmared37/page/46/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Bulhart, Vincenz. “Nochmals Textkritisches.” <em>RBén</em> 62 (1952): 297–99 (suggested corrections to the Latin text).</p>",
+      "line_text": "Bulhart, Vincenz. “Nochmals Textkritisches.” RBén 62 (1952): 297–99 (suggested corrections to the Latin text).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hamman, Adalbert-G. “Epistula in Tit de Dispositione Sanctimonii.” Migne, <em>PL</em>, Suppl. 2.4, cols. 1522–42 (reprinted from de Bruyne’s edition).</p>",
+      "line_text": "Hamman, Adalbert-G. “Epistula in Tit de Dispositione Sanctimonii.” Migne, PL, Suppl. 2.4, cols. 1522–42 (reprinted from de Bruyne’s edition).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>See the English translation of the German by de Santos Otero (below).</p>",
+      "line_text": "See the English translation of the German by de Santos Otero (below).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation</em>. Oxford: Clarendon Press, 1993 (summary, pp. 532–33).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Oxford: Clarendon Press, 1993 (summary, pp. 532–33).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Jean-François Cottier, “Épître du Pseudo-Tite.” Pages 1133–71 in volume 2 of <em>Écrits apocryphes chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Jean-François Cottier, “Épître du Pseudo-Tite.” Pages 1133–71 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. “Der Pseudo-Titus-Brief.” Pages 50–70 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 2. <em>Apostolisches, Apokalypsen und Verwandtes</em>. Edited by Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1989. English translation: “The Pseudo-Titus Epistle” Pages 53–74 in <em>The New Testament Apocrypha</em>, vol. 2, <em>Writings Related to the Apostles, Apocalypses and Related Subjects</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox Press, 2003.</p>",
+      "line_text": "Otero, Aurelio de Santos. “Der Pseudo-Titus-Brief.” Pages 50–70 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 2. Apostolisches, Apokalypsen und Verwandtes. Edited by Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1989. English translation: “The Pseudo-Titus Epistle” Pages 53–74 in The New Testament Apocrypha, vol. 2, Writings Related to the Apostles, Apocalypses and Related Subjects. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox Press, 2003.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli Apocrifi del Nuovo Testamento</em>. Vol. 3. Turin: Marietti, 1981 (pp. 93–110).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento. Vol. 3. Turin: Marietti, 1981 (pp. 93–110).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. Vol. 2. Turin: Unione Tipografico-Editrice Torinese, 1971 (pp. 1757–88).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. Vol. 2. Turin: Unione Tipografico-Editrice Torinese, 1971 (pp. 1757–88).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://repository.upenn.edu/dissertations/AAI3345911/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bucher, Debra Jean. “Ascetic Cohabitation and Authoritative Scriptures in the <em>Epistula Titi discipuli Pauli</em>.” Unpublished PhD dissertation, University of Pennsylvania, 2008.</p>",
+      "line_text": "Bucher, Debra Jean. “Ascetic Cohabitation and Authoritative Scriptures in the Epistula Titi discipuli Pauli.” Unpublished PhD dissertation, University of Pennsylvania, 2008.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://repository.upenn.edu/dissertations/AAI3345911/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuebenedictineabbmared25/page/148/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>De Bruyne, Donatien. “Nouveaux fragments des Actes de Pierre, de Paul, de Jean, d’Andre, et de l’Apocalypse d’Elie.” <em>RBén</em> 25 (1908): 149–60.</p>",
+      "line_text": "De Bruyne, Donatien. “Nouveaux fragments des Actes de Pierre, de Paul, de Jean, d’Andre, et de l’Apocalypse d’Elie.” RBén 25 (1908): 149–60.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/revuebenedictineabbmared25/page/148/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Gasparro, Giulia Sfameni. “L’<em>Epistula Titi discipuli Pauli de dispositione sanctimonii</em> e la tradizione dell’enkrateia.” Pages 4551–664 in <em>Aufstieg und Niedergang der römischen Welt</em>, II: Prinzipat, 25.6. Edited by Wolfgang Haase. Berlin: de Gruyter, 1988.</p>",
+      "line_text": "Gasparro, Giulia Sfameni. “L’Epistula Titi discipuli Pauli de dispositione sanctimonii e la tradizione dell’enkrateia.” Pages 4551–664 in Aufstieg und Niedergang der römischen Welt, II: Prinzipat, 25.6. Edited by Wolfgang Haase. Berlin: de Gruyter, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf von. “Der apokryphe <em>Brief des Paulusschülers Titus ‘</em>de dispositione sanctimonii.’” <em>Sitzungsberichte der königlichen preussischen Akademie der Wissenschaften</em> 17 (1925): 180–214.</p>",
+      "line_text": "Harnack, Adolf von. “Der apokryphe Brief des Paulusschülers Titus ‘de dispositione sanctimonii.’” Sitzungsberichte der königlichen preussischen Akademie der Wissenschaften 17 (1925): 180–214.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hawk, Brandon W. <em>Preaching Apocrypha in Anglo-Saxon England</em>. Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018 (pp. 42–43, 45, 49, 52, and 68).</p>",
+      "line_text": "Hawk, Brandon W. Preaching Apocrypha in Anglo-Saxon England. Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018 (pp. 42–43, 45, 49, 52, and 68).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hen, Yitzhak. “The Content and Aims of the So-Called Homiliary of Burchard of Würzburg.” Pages 127–52 in <em>Sermo doctorum: Compilers, Preachers and Their Audiences in the Early Middle Ages</em>. Edited by Maximilian Diesenberger, Yitzhak Hen, and Marianne Pollheimer. SERMO 9. Turnhout: Brepols, 2013.</p>",
+      "line_text": "Hen, Yitzhak. “The Content and Aims of the So-Called Homiliary of Burchard of Würzburg.” Pages 127–52 in Sermo doctorum: Compilers, Preachers and Their Audiences in the Early Middle Ages. Edited by Maximilian Diesenberger, Yitzhak Hen, and Marianne Pollheimer. SERMO 9. Turnhout: Brepols, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horn, Cornelia. “Suffering Children, Parental Authority and the Quest for Liberation? A Tale of Three Girls in the <em>Acts of Paul (and Thecla)</em>, the <em>Act(s) of Peter</em>, the <em>Acts of Nereus and Achilleus</em> and the <em>Epistle of Pseudo-Titus</em>.” Pages 118–45 in <em>A Feminist Companion to the New Testament Apocrypha</em>. Edited by Amy-Jill Levine and Maria Mayo Robbins. New York: T&amp;T Clark International, 2006.</p>",
+      "line_text": "Horn, Cornelia. “Suffering Children, Parental Authority and the Quest for Liberation? A Tale of Three Girls in the Acts of Paul (and Thecla), the Act(s) of Peter, the Acts of Nereus and Achilleus and the Epistle of Pseudo-Titus.” Pages 118–45 in A Feminist Companion to the New Testament Apocrypha. Edited by Amy-Jill Levine and Maria Mayo Robbins. New York: T&amp;T Clark International, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JamesMRTheLostApocryphaOfTheOldTestament1920/page/n65/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, M. R. <em>The Lost Apocrypha of the Old Testament</em>. London: Society for Promoting Christian Knowledge, 1920 (pp. 55–56).</p>",
+      "line_text": "James, M. R. The Lost Apocrypha of the Old Testament. London: Society for Promoting Christian Knowledge, 1920 (pp. 55–56).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/JamesMRTheLostApocryphaOfTheOldTestament1920/page/n65/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Koch, Hugo. “Zu Ps.-Titus, De dispositione sanctimonii.” <em>ZNW</em> 32 (1933): 131–44.</p>",
+      "line_text": "Koch, Hugo. “Zu Ps.-Titus, De dispositione sanctimonii.” ZNW 32 (1933): 131–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lapidge, Michael. <em>The Anglo-Saxon Library</em>. Oxford: Oxford University Press, 2006 (p. 162, no. 69).</p>",
+      "line_text": "Lapidge, Michael. The Anglo-Saxon Library. Oxford: Oxford University Press, 2006 (p. 162, no. 69).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Morin, Germain. “L’homéliaire de Burchard de Würzburg: Contribution à la critique de saint Césaire d’Arles.” <em>RBén</em> 13 (1896): 97–111.</p>",
+      "line_text": "Morin, Germain. “L’homéliaire de Burchard de Würzburg: Contribution à la critique de saint Césaire d’Arles.” RBén 13 (1896): 97–111.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. “Der apokryphe Titusbrief.” <em>ZKG</em> 74 (1963): 1–14.</p>",
+      "line_text": "Otero, Aurelio de Santos. “Der apokryphe Titusbrief.” ZKG 74 (1963): 1–14.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. “Studien zu den alten Petrusakten.” <em>ZKG </em>43 (1924): 321–48 (pp. 334–40).</p>",
+      "line_text": "Schmidt, Carl. “Studien zu den alten Petrusakten.” ZKG 43 (1924): 321–48 (pp. 334–40).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Van de Sandt, Huub, and David Flusser. <em>The Didache: Its Jewish Sources and its Place in Early Judaism and Christianity</em>. Jewish Traditions in Early Christian Literature 5. Assen: Royal Van Gorcum, 2002 (pp. 83–84).</p>",
+      "line_text": "Van de Sandt, Huub, and David Flusser. The Didache: Its Jewish Sources and its Place in Early Judaism and Christianity. Jewish Traditions in Early Christian Literature 5. Assen: Royal Van Gorcum, 2002 (pp. 83–84).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

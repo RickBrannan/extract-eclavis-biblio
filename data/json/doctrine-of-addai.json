@@ -1,0 +1,789 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/doctrine-of-addai/",
+  "nasscal_toc_title": "Doctrine of Addai",
+  "filename": "doctrine-of-addai",
+  "latin_title": "1. SUMMARY",
+  "alt_titles": [
+    "Doctrina Addai",
+    "Teaching of Addai"
+  ],
+  "clavis_number": 442,
+  "category": "Apocryphal Acts",
+  "compiler": ": Jacob A. Lollar, Abilene Christian University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 178 (ancien fonds 88), fols. 112<sup>v</sup>–124<sup>v</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100874360\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/bd6t5399160m/f133.item.r=Arm%C3%A9nien%20ancien%20fonds\" target=\"_blank\" rel=\"noopener\">Catalog</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 178 (ancien fonds 88), fols. 112v–124v (12th cent.) ~ Gallica; Catalog",
+      "language": ".1 Doctrine of Addai",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100874360",
+        "https://gallica.bnf.fr/ark:/12148/bd6t5399160m/f133.item.r=Arm%C3%A9nien%20ancien%20fonds"
+      ]
+    },
+    {
+      "line_html": "<p>Alichan, Léonce, ed. <em>Labubneay diwanagir dpri Edesioy t‘ught‘ Abgaru: yegheal yasorwoyn i dzeṛn s. t‘argmanch‘ats‘</em>. Venice: i S. Ghazar i Vans Mkhit‘aray, 1868 (edition of the Armenian text from Paris, BNF Arm. 178).</p>",
+      "line_text": "Alichan, Léonce, ed. Labubneay diwanagir dpri Edesioy t‘ught‘ Abgaru: yegheal yasorwoyn i dzeṛn s. t‘argmanch‘ats‘. Venice: i S. Ghazar i Vans Mkhit‘aray, 1868 (edition of the Armenian text from Paris, BNF Arm. 178).",
+      "language": ".1 Doctrine of Addai",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), I-a, p. 448<sup>r</sup> (1417)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), I-a, p. 448r (1417)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), 154-d (1737)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), 154-d (1737)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), 173 (1512)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), 173 (1512)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), 282 (1331)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), 282 (1331)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 110, fols. 532<sup>r</sup>–534<sup>v</sup> (1194)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 110, fols. 532r–534v (1194)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 180, fols. 261<sup>r</sup>–262<sup>v</sup> (no date given)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 180, fols. 261r–262v (no date given)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni monastery, 653 (228) (1847)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni monastery, 653 (228) (1847)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni monastery, 1307 (213) (11th/12th cent.)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni monastery, 1307 (213) (11th/12th cent.)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, San Lazzaro degli Armeni monastery, 1447 (223) (15th cent.)</p>",
+      "line_text": "Venice, San Lazzaro degli Armeni monastery, 1447 (223) (15th cent.)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 34, fol. 318<sup>r</sup> (1742)</p>",
+      "line_text": "Vienna, Mechitarist Library, 34, fol. 318r (1742)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 941 , fol. 194<sup>v</sup>–196<sup>r</sup> (1689)</p>",
+      "line_text": "Yerevan, Matenadaran, 941 , fol. 194v–196r (1689)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993, fols. 643<sup>v</sup>–654<sup>r</sup> (1456)</p>",
+      "line_text": "Yerevan, Matenadaran, 993, fols. 643v–654r (1456)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 2251 (1694–1698)</p>",
+      "line_text": "Yerevan, Matenadaran, 2251 (1694–1698)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4802 (15th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4802 (15th cent.)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7729, no. 304 (1200–1202)</p>",
+      "line_text": "Yerevan, Matenadaran, 7729, no. 304 (1200–1202)",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n479/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girk‘ aṛak‘elakank‘. T‘angaran haykakan hin ew nor dprut‘eants‘ 3. </em>Venice: Ghazar, 1904 (edition based on Venice 653 and 1307, pp. 453–61).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girk‘ aṛak‘elakank‘. T‘angaran haykakan hin ew nor dprut‘eants‘ 3. Venice: Ghazar, 1904 (edition based on Venice 653 and 1307, pp. 453–61).",
+      "language": ".2 Writing of Thaddaeus Concerning the First Discovery of the Cross",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n479/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), I-a, p. 226<sup>v</sup> (1417)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), I-a, p. 226v (1417)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), 154-a (1737)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), 154-a (1737)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 97, fols. 186<sup>r</sup>–186<sup>v</sup> (no date given)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 97, fols. 186r–186v (no date given)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 41 (226) (14th/15th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 41 (226) (14th/15th cent.)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 463 (212) (13th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 463 (212) (13th cent.)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 512 (202) (1637)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 512 (202) (1637)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 924 (395) (1607)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 924 (395) (1607)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 1352 (210) (1824)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 1352 (210) (1824)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 108, fol. 171<sup>r</sup>–171<sup>v</sup> (1418)</p>",
+      "line_text": "Vienna, Mechitarist Library, 108, fol. 171r–171v (1418)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 219, fol. 226<sup>r </sup>(1591)</p>",
+      "line_text": "Vienna, Mechitarist Library, 219, fol. 226r (1591)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 240, fol. 222<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Vienna, Mechitarist Library, 240, fol. 222v (11th/12th cent.)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993, fols. 241<sup>r</sup>–241<sup>v</sup> (1456)</p>",
+      "line_text": "Yerevan, Matenadaran, 993, fols. 241r–241v (1456)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 941, fol. 224<sup>r</sup> (1689)</p>",
+      "line_text": "Yerevan, Matenadaran, 941, fol. 224r (1689)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7729, no. 113 (1200–1202)</p>",
+      "line_text": "Yerevan, Matenadaran, 7729, no. 113 (1200–1202)",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n487/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girk‘ aṛak‘elakank‘. T‘angaran haykakan hin ew nor dprut‘eants‘ 3. </em>Venice: Ghazar, 1904 (edition based primarily on Venice 512, pp. 462–63).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girk‘ aṛak‘elakank‘. T‘angaran haykakan hin ew nor dprut‘eants‘ 3. Venice: Ghazar, 1904 (edition based primarily on Venice 512, pp. 462–63).",
+      "language": ".3 Instruction of Thaddaeus on the Subject of the Resurrection of the Dead",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n487/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/st-petersburg-national-library-of-russia-siriyskaya-novaya-seria-4/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>A</strong>  St. Petersburg, National Lib0rary of Russia, Siriyskaya novaya seria 4, fols. 1<sup>v</sup>–33<sup>r</sup> (6th cent.)</p>",
+      "line_text": "A  St. Petersburg, National Lib0rary of Russia, Siriyskaya novaya seria 4, fols. 1v–33r (6th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/st-petersburg-national-library-of-russia-siriyskaya-novaya-seria-4/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  London, British Library, Add. 14644, fols. 1<sup>r</sup>–9<sup>v</sup> (5th cent.) ~ fragmentary (chs. 41–104); <a href=\"https://archive.org/details/catalogueofsyria03brituoft/page/1082/mode/2up\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "B  London, British Library, Add. 14644, fols. 1r–9v (5th cent.) ~ fragmentary (chs. 41–104); catalog",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://archive.org/details/catalogueofsyria03brituoft/page/1082/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14654/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>C</strong>  London, British Library, Add. 14654, fols. 32 and 33 (5th cent.) ~ fragmentary (chs. 9–15, 20–24)</p>",
+      "line_text": "C  London, British Library, Add. 14654, fols. 32 and 33 (5th cent.) ~ fragmentary (chs. 9–15, 20–24)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14654/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D</strong>  London, British Library, Add. 14535, fol. 1<sup>r</sup> (9th cent.) (<a href=\"https://archive.org/stream/catalogueofsyria02brituoft#page/796/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">catalog entry</a>) ~ fragmentary (chs. 36–39)</p>",
+      "line_text": "D  London, British Library, Add. 14535, fol. 1r (9th cent.) (catalog entry) ~ fragmentary (chs. 36–39)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://archive.org/stream/catalogueofsyria02brituoft#page/796/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-93/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge Mass., Harvard Houghton Library, Syr. 93, fol. 58<sup>r</sup> (ca. 700) ~ fragment</p>",
+      "line_text": "Cambridge Mass., Harvard Houghton Library, Syr. 93, fol. 58r (ca. 700) ~ fragment",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-93/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Edgbaston, University of Birmingham, Mingana, Syr. 405, fol. 1<sup>r</sup> (ca. 1400) ~ <a href=\"https://archive.org/details/MinganaCatalogueOfTheMinganaCollection.I/page/n369/mode/2up\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana, Syr. 405, fol. 1r (ca. 1400) ~ catalog",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://archive.org/details/MinganaCatalogueOfTheMinganaCollection.I/page/n369/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Monastery of Saint Mark, 153 ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/126862\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Jerusalem, Monastery of Saint Mark, 153 ~ HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/126862"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Monastery of Saint Mark, 247, fols. 185r–18v (17th cent.) ~ Garshuni; <a href=\"https://w3id.org/vhmml/readingRoom/view/126862\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Jerusalem, Monastery of Saint Mark, 247, fols. 185r–18v (17th cent.) ~ Garshuni; HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/126862"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-320/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mardin, Church of the Forty Martyrs, 320, pp. 73–88 (20th cent.)</p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 320, pp. 73–88 (20th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-320/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mardin, Church of the Forty Martyrs, 327 ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/503673\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 327 ~ HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/503673"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mardin, Church of the Forty Martyrs, 411, pp. 41–60 (1871) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/502159\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 411, pp. 41–60 (1871) ~ HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/502159"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Midyat, Dayro d-Mor Gabriel, 17 (somewhere between fols. 81r-88r) (20th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/122827\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Midyat, Dayro d-Mor Gabriel, 17 (somewhere between fols. 81r-88r) (20th cent.) ~ HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/122827"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-sir-148/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Borg. sir. 148, fols. 107<sup>v</sup>–111<sup>r </sup>(1576) ~ fragments</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. sir. 148, fols. 107v–111r (1576) ~ fragments",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-sir-148/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-596/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 596, fols. 81<sup>v</sup>–83<sup>v</sup> (1917)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 596, fols. 81v–83v (1917)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-596/"
+      ]
+    },
+    {
+      "line_html": "<p>Uncomfirmed:</p>",
+      "line_text": "Uncomfirmed:",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Alqosh, Église paroissiale chaldéenne, cod. 87</p>",
+      "line_text": "Alqosh, Église paroissiale chaldéenne, cod. 87",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Damascus, Syrian Orthodox Patriarchat, cod. 8/11</p>",
+      "line_text": "Damascus, Syrian Orthodox Patriarchat, cod. 8/11",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Midyat, Église Mart Shmuni, Coll. Gülçe, cod. 4</p>",
+      "line_text": "Midyat, Église Mart Shmuni, Coll. Gülçe, cod. 4",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Dayr az-Za‘faran, cod. 2/1</p>",
+      "line_text": "Mardin, Dayr az-Za‘faran, cod. 2/1",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Siirt, Chaldean Episcopal Library, 69</p>",
+      "line_text": "Siirt, Chaldean Episcopal Library, 69",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14531, fols. 109–116v</p>",
+      "line_text": "London, British Library, Add. 14531, fols. 109–116v",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 12161, f. 1v (fgt)</p>",
+      "line_text": "London, British Library, Add. 12161, f. 1v (fgt)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14612, f. 165r (fgt)</p>",
+      "line_text": "London, British Library, Add. 14612, f. 165r (fgt)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ancientsyriacdo00wriggoog/page/n326/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cureton, William, ed. <em>Ancient Syriac Documents Relative to the Earliest Establishment of Christianity in Edessa and the Neighbouring Countries, from the Year after Our Lord’s Ascension to the Beginning of the Fourth Century</em>. London / Edinburgh: Williams and Norgate, 1864 (edition based on British Library Add. 14654 and Add. 14644, pp. 5–23 in Syriac numbering).</p>",
+      "line_text": "Cureton, William, ed. Ancient Syriac Documents Relative to the Earliest Establishment of Christianity in Edessa and the Neighbouring Countries, from the Year after Our Lord’s Ascension to the Beginning of the Fourth Century. London / Edinburgh: Williams and Norgate, 1864 (edition based on British Library Add. 14654 and Add. 14644, pp. 5–23 in Syriac numbering).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ancientsyriacdo00wriggoog/page/n326/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Le manuscrit syriaque Nouvelle Série 4 de Leningrad (Ve siècle).” Pages 211–19 in <em>Mélanges Antoine Guillaumont. </em><em>Contributions à l’étude des christianismes orientaux</em>. Cahiers d’Orientalisme 20. Genève: Patrick Cramer, 1988.</p>",
+      "line_text": "Esbroeck, Michel van. “Le manuscrit syriaque Nouvelle Série 4 de Leningrad (Ve siècle).” Pages 211–19 in Mélanges Antoine Guillaumont. Contributions à l’étude des christianismes orientaux. Cahiers d’Orientalisme 20. Genève: Patrick Cramer, 1988.",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Howard, George, <em>The Teaching of Addai</em>. SBLTT 16, Early Christian Literature Series 4. Chico, California: Scholars Press, 1981 (re-edition of Phillips with translation).</p>",
+      "line_text": "Howard, George, The Teaching of Addai. SBLTT 16, Early Christian Literature Series 4. Chico, California: Scholars Press, 1981 (re-edition of Phillips with translation).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Meshtcherskaya, Elena H. <em>Legenda ob Avgare. Rannesirijskij literaturnyi pamjatnik.</em> Moscow, 1984 (photographic facsimile of the St. Petersburg manuscript with translation into Russian).</p>",
+      "line_text": "Meshtcherskaya, Elena H. Legenda ob Avgare. Rannesirijskij literaturnyi pamjatnik. Moscow, 1984 (photographic facsimile of the St. Petersburg manuscript with translation into Russian).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/doctrineofaddaia00phil\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Phillips, George, ed. <em>The Doctrine of Addai, the Apostle, now First Edited in a Complete Form in the Original Syriac, with an English Translation and Notes</em>. London: Trübner &amp; Co., 1876 (edition based on St. Petersburg, Sir. 4).</p>",
+      "line_text": "Phillips, George, ed. The Doctrine of Addai, the Apostle, now First Edited in a Complete Form in the Original Syriac, with an English Translation and Notes. London: Trübner &amp; Co., 1876 (edition based on St. Petersburg, Sir. 4).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/doctrineofaddaia00phil"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ancientsyriacdo00wriggoog/page/n28/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cureton, William, ed. <em>Ancient Syriac Documents Relative to the Earliest Establishment of Christianity in Edessa and the Neighbouring Countries, from the Year after Our Lord’s Ascension to the Beginning of the Fourth Century</em>. London / Edinburgh: Williams and Norgate, 1864 (translation of Cureton’s edition, pp. 6–23).</p>",
+      "line_text": "Cureton, William, ed. Ancient Syriac Documents Relative to the Earliest Establishment of Christianity in Edessa and the Neighbouring Countries, from the Year after Our Lord’s Ascension to the Beginning of the Fourth Century. London / Edinburgh: Williams and Norgate, 1864 (translation of Cureton’s edition, pp. 6–23).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ancientsyriacdo00wriggoog/page/n28/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Howard, George, <em>The Teaching of Addai</em>. SBLTT 16, Early Christian Literature Series 4. Chico, California: Scholars Press, 1981.</p>",
+      "line_text": "Howard, George, The Teaching of Addai. SBLTT 16, Early Christian Literature Series 4. Chico, California: Scholars Press, 1981.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Lollar, Jacob. <em>The Doctrine of Addai</em>. Early Christian Apocrypha Series. Eugene, OR: Cascade Books, forthcoming.</p>",
+      "line_text": "Lollar, Jacob. The Doctrine of Addai. Early Christian Apocrypha Series. Eugene, OR: Cascade Books, forthcoming.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/doctrineofaddaia00phil\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Phillips, George, ed. <em>The Doctrine of Addai, the Apostle, now First Edited in a Complete Form in the Original Syriac, with an English Translation and Notes</em>. London: Trübner &amp; Co., 1876.</p>",
+      "line_text": "Phillips, George, ed. The Doctrine of Addai, the Apostle, now First Edited in a Complete Form in the Original Syriac, with an English Translation and Notes. London: Trübner &amp; Co., 1876.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/doctrineofaddaia00phil"
+      ]
+    },
+    {
+      "line_html": "<p>Walters, J. Edward, ed. and trans. “The Doctrine of Addai.” Pages 22–35 in <em>Eastern Christianity: A Reader.</em> Edited by J. Edward Walters. Grand Rapids, MI: Eerdmans, 2021 (excerpt).</p>",
+      "line_text": "Walters, J. Edward, ed. and trans. “The Doctrine of Addai.” Pages 22–35 in Eastern Christianity: A Reader. Edited by J. Edward Walters. Grand Rapids, MI: Eerdmans, 2021 (excerpt).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AlishanLettreDAbgar\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Alichan, Léonce, trans. <em>Lettre d’Abgar ou Histoire de la conversion des Édesséens: Par Laboubnia, écrivain contemporain des apôtres</em>: <em>Traduite sur la version arménienne du V<sup>e</sup> siècle</em>. Venice: Imprimerie Mekhitariste de S. Lazare, 1868 (translation of the Armenian text based on Paris, BNF Arm. 178).</p>",
+      "line_text": "Alichan, Léonce, trans. Lettre d’Abgar ou Histoire de la conversion des Édesséens: Par Laboubnia, écrivain contemporain des apôtres: Traduite sur la version arménienne du Ve siècle. Venice: Imprimerie Mekhitariste de S. Lazare, 1868 (translation of the Armenian text based on Paris, BNF Arm. 178).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/AlishanLettreDAbgar"
+      ]
+    },
+    {
+      "line_html": "<p>Beylot, Robert. “Une version éthiopienne de la légende d’Abgar.” Pages 147–52 in Alain Desreumaux, ed. <em>Histoire du roi Abgar et de Jésus</em>. Apocryphes 3. Paris: Brepols, 1993 (French translation of edition by Haile).</p>",
+      "line_text": "Beylot, Robert. “Une version éthiopienne de la légende d’Abgar.” Pages 147–52 in Alain Desreumaux, ed. Histoire du roi Abgar et de Jésus. Apocryphes 3. Paris: Brepols, 1993 (French translation of edition by Haile).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Desreumaux, Alain, ed. <em>Histoire du roi Abgar et de Jésus</em>. Apocryphes 3. Paris: Brepols, 1993 (translation of the Syriac text based on the St. Petersburg manuscript, pp. 53–117).</p>",
+      "line_text": "Desreumaux, Alain, ed. Histoire du roi Abgar et de Jésus. Apocryphes 3. Paris: Brepols, 1993 (translation of the Syriac text based on the St. Petersburg manuscript, pp. 53–117).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/collectiondeshis01lang/page/n357/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Langlois, Victor. <em>Collection des Historiens anciens et modernes de l’Arménie.</em> 2 vols. Paris: Didot, 1867 (translation of Armenian text  from Paris, BNF Arm. 178, in vol. 1, pp. 317–25; excerpt of the text from the history of Moses of Khoren, pp. 326–31).</p>",
+      "line_text": "Langlois, Victor. Collection des Historiens anciens et modernes de l’Arménie. 2 vols. Paris: Didot, 1867 (translation of Armenian text  from Paris, BNF Arm. 178, in vol. 1, pp. 317–25; excerpt of the text from the history of Moses of Khoren, pp. 326–31).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/collectiondeshis01lang/page/n357/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits apocryphes sur les apôtres.</em> CCSA 4–5. 2 vols. Turnhout: Brepols, 1992 (translation of translation of Armenian texts from the edition of Tchérakian, vol. 2, pp. 681–704).</p>",
+      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres. CCSA 4–5. 2 vols. Turnhout: Brepols, 1992 (translation of translation of Armenian texts from the edition of Tchérakian, vol. 2, pp. 681–704).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Illert, Martin, <em>Doctrina Addai. De imagine Edessena / Die Abgarlegende. </em><em>Das Christusbild von Edessa</em>. Fontes Christiani 45. Turnhout: Brepols, 2007.</p>",
+      "line_text": "Illert, Martin, Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa. Fontes Christiani 45. Turnhout: Brepols, 2007.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Casadei, Monica, <em>Didascalia di Addai. </em><em>Introduzione, traduzione e note</em>. Testi dei Padri della Chiesa 87. Monastero di Bose: Qiqajon, 2007.</p>",
+      "line_text": "Casadei, Monica, Didascalia di Addai. Introduzione, traduzione e note. Testi dei Padri della Chiesa 87. Monastero di Bose: Qiqajon, 2007.",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=bcthAAAAcAAJ&amp;redir_esc=y\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Octobris</em>. Vol. 12. Brussels: Francisci Vromant, 1867 (Latin translation of Cureton’s English translation, pp. 458–67).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Octobris. Vol. 12. Brussels: Francisci Vromant, 1867 (Latin translation of Cureton’s English translation, pp. 458–67).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=bcthAAAAcAAJ&redir_esc=y"
+      ]
+    },
+    {
+      "line_html": "<p>Мещерская, Елена Никитична, <em>Апокрифические деяния апостолов. Новозаветные апокрифы в сирийской литературе</em>. Москва: Присцельс, 1996.</p>",
+      "line_text": "Мещерская, Елена Никитична, Апокрифические деяния апостолов. Новозаветные апокрифы в сирийской литературе. Москва: Присцельс, 1996.",
+      "language": "Russian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>González Núñez, Jacinto, <em>La Leyenda del rey Abgar y Jesús: Orígenes del cristianismo en Edesa</em>. Apócrifos cristianos 1. Madrid: Ciudad Nueva, 1995.</p>",
+      "line_text": "González Núñez, Jacinto, La Leyenda del rey Abgar y Jesús: Orígenes del cristianismo en Edesa. Apócrifos cristianos 1. Madrid: Ciudad Nueva, 1995.",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Oez, Mikael. <em>I Malfonuto dAday u Şliḥo</em>. London: Modern Aramaic Press, 2019.</p>",
+      "line_text": "Oez, Mikael. I Malfonuto dAday u Şliḥo. London: Modern Aramaic Press, 2019.",
+      "language": "Syriac",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bauer, Walter, <em>Rechtgläubigkeit und Ketzerei im ältesten Christentum</em>. Beiträge zur historischen Theologie 10. Tübingen: J.C.B. Mohr (Paul Siebeck), 1934.</p>",
+      "line_text": "Bauer, Walter, Rechtgläubigkeit und Ketzerei im ältesten Christentum. Beiträge zur historischen Theologie 10. Tübingen: J.C.B. Mohr (Paul Siebeck), 1934.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Bonet Maury, G. “La légende d’Abgar et de Thaddée et les missions chrétiennes à Édesse.” <em>RHR</em> 16 (1887): 269-83.</p>",
+      "line_text": "Bonet Maury, G. “La légende d’Abgar et de Thaddée et les missions chrétiennes à Édesse.” RHR 16 (1887): 269-83.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Brock, Sebastian P. “Eusebius and Syriac Christianity.” Pages 212–34 in <em>Eusebius, Christianity, and Judaism</em>. Edited by Attridge, Harold W. and Hata, Gohei. Studia Post-Biblica 42. Leiden / New York / Köln: Brill, 1992.</p>",
+      "line_text": "Brock, Sebastian P. “Eusebius and Syriac Christianity.” Pages 212–34 in Eusebius, Christianity, and Judaism. Edited by Attridge, Harold W. and Hata, Gohei. Studia Post-Biblica 42. Leiden / New York / Köln: Brill, 1992.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Bruns, Peter. “Die Geschichte von König Abgar und das Christusbild in der syrischen Überlieferung.” Pages 105–20 in <em>Das Christusbild: Zu Herkunft und Entwicklung in Ost und West. Akten der Kongresse in Würzburg, 16.-18. Oktober 2014 und Wien, 17.-18. März 2015</em>. Edited by Karlheinz Dietz, Christian Hannick, Carolina Lutzka, and Elisabeth Maier. Das östliche Christentum, Neue Folge 62. Würzburg: Echter Verlag, 2016.</p>",
+      "line_text": "Bruns, Peter. “Die Geschichte von König Abgar und das Christusbild in der syrischen Überlieferung.” Pages 105–20 in Das Christusbild: Zu Herkunft und Entwicklung in Ost und West. Akten der Kongresse in Würzburg, 16.-18. Oktober 2014 und Wien, 17.-18. März 2015. Edited by Karlheinz Dietz, Christian Hannick, Carolina Lutzka, and Elisabeth Maier. Das östliche Christentum, Neue Folge 62. Würzburg: Echter Verlag, 2016.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Buffa, Adolphe. <em>La légende d’Abgar et les origines de l’Église d’Édesse. Étude historique et critique.</em> Genève : Jules-Guillaume Fiek, 1894.</p>",
+      "line_text": "Buffa, Adolphe. La légende d’Abgar et les origines de l’Église d’Édesse. Étude historique et critique. Genève : Jules-Guillaume Fiek, 1894.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. “Réécriture des textes apocryphes en arménien: l’exemple de la légende de l’apostolat de Thaddée en Arménie.” <em>Apocrypha</em> 8 (1997): 97–110.</p>",
+      "line_text": "Calzolari, Valentina. “Réécriture des textes apocryphes en arménien: l’exemple de la légende de l’apostolat de Thaddée en Arménie.” Apocrypha 8 (1997): 97–110.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “La transmission et la réception des apocryphes syriaques dans la tradition arménienne.”  Pages 169–95 in <em>Les apocryphes syriaques</em>. Edited by Muriél Debié, Alain Desreumaux, and Florence Jullien. Études syriaques 2. Paris: Geuthner, 2005.</p>",
+      "line_text": "__________. “La transmission et la réception des apocryphes syriaques dans la tradition arménienne.”  Pages 169–95 in Les apocryphes syriaques. Edited by Muriél Debié, Alain Desreumaux, and Florence Jullien. Études syriaques 2. Paris: Geuthner, 2005.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “‘Je ferai d’eux mon propre peuple.’ Les Arméniens, peuple élu selon la littérature apocryphe chrétienne en langue arménienne.” <em>RHPR</em> 90.2 (2010): 179–97.</p>",
+      "line_text": "__________. “‘Je ferai d’eux mon propre peuple.’ Les Arméniens, peuple élu selon la littérature apocryphe chrétienne en langue arménienne.” RHPR 90.2 (2010): 179–97.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Desreumaux, Alain. “La Doctrina Addaï: le chroniqueur et ses documents.” <em>Apocrypha</em> 1 (1990): 249–68.</p>",
+      "line_text": "Desreumaux, Alain. “La Doctrina Addaï: le chroniqueur et ses documents.” Apocrypha 1 (1990): 249–68.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “La figure du roi Abgar d’Édesse.” Pages 31–45 in <em>Edessa in hellenistisch-römischer Zeit: Religion, Kultur und Politik zwischen Ost und West. </em><em>Beiträge des internationalen Edessa-Symposiums in Halle an der Saale, 14.-17. Juli 2005</em>. Edited by Lutz Greisiger, Claudia Rammelt and Jürgen Tubach. Beiruter Texte und Studien 116. Beirut: Orient-Institut / Würzburg: Ergon Verlag, 2009.</p>",
+      "line_text": "__________. “La figure du roi Abgar d’Édesse.” Pages 31–45 in Edessa in hellenistisch-römischer Zeit: Religion, Kultur und Politik zwischen Ost und West. Beiträge des internationalen Edessa-Symposiums in Halle an der Saale, 14.-17. Juli 2005. Edited by Lutz Greisiger, Claudia Rammelt and Jürgen Tubach. Beiruter Texte und Studien 116. Beirut: Orient-Institut / Würzburg: Ergon Verlag, 2009.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “Das Neue Testament in der Doctrina Addaï.” Pages 233–48 in <em>Christian Apocrypha: Receptions of the New Testament in Ancient Christian Apocrypha</em>. Edited by Jean-Michel Roessli and Tobias Nicklas. Novum Testamentum Patristicum 26. Göttingen: Vandenhoeck &amp; Ruprecht, 2014.</p>",
+      "line_text": "__________. “Das Neue Testament in der Doctrina Addaï.” Pages 233–48 in Christian Apocrypha: Receptions of the New Testament in Ancient Christian Apocrypha. Edited by Jean-Michel Roessli and Tobias Nicklas. Novum Testamentum Patristicum 26. Göttingen: Vandenhoeck &amp; Ruprecht, 2014.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Carrière, Auguste. <em>La Légende d’Abgar dans l’“Histoire d’Arménie” de Moïse de Khoren</em>. Paris: Imprimerie nationale, 1895.</p>",
+      "line_text": "Carrière, Auguste. La Légende d’Abgar dans l’“Histoire d’Arménie” de Moïse de Khoren. Paris: Imprimerie nationale, 1895.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Devos, Paul. “Égérie à Edesse. S. Thomas l’apôtre. Le roi Abgar.” <em>AnBoll</em> 85 (1967): 381–400.</p>",
+      "line_text": "Devos, Paul. “Égérie à Edesse. S. Thomas l’apôtre. Le roi Abgar.” AnBoll 85 (1967): 381–400.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Drijvers, Han J.W. “Facts and Problems in Early Syriac-Speaking Christianity.” <em>SecCent</em> 2 (1982): 157–75.</p>",
+      "line_text": "Drijvers, Han J.W. “Facts and Problems in Early Syriac-Speaking Christianity.” SecCent 2 (1982): 157–75.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “Jews and Christians at Edessa.” <em>JJS</em> 36.1 (1985): 88–102.</p>",
+      "line_text": "__________. “Jews and Christians at Edessa.” JJS 36.1 (1985): 88–102.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “Apocryphal Literature in the Cultural Milieu of Osrhoëne.” <em>Apocrypha</em> (1990): 231–47.</p>",
+      "line_text": "__________. “Apocryphal Literature in the Cultural Milieu of Osrhoëne.” Apocrypha (1990): 231–47.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>__________. “The Image of Edessa in the Syriac Tradition.” Pages 13–31 in <em>The Holy Face and the Paradox of Representation: Papers from a Colloquium at the Bibliotheca Hertziana, Rome and the Villa Spelman</em>. Edited by Herbert L. Kessler and Gerhard Wolf. Villa Spelman Colloquia 6. Bologna: Nuova Alfa, 1998.</p>",
+      "line_text": "__________. “The Image of Edessa in the Syriac Tradition.” Pages 13–31 in The Holy Face and the Paradox of Representation: Papers from a Colloquium at the Bibliotheca Hertziana, Rome and the Villa Spelman. Edited by Herbert L. Kessler and Gerhard Wolf. Villa Spelman Colloquia 6. Bologna: Nuova Alfa, 1998.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Drijvers, Jan Willem. “The Protonike Legend, the Doctrina Addai and Bishop Rabbula of Edessa.” <em>VC</em> 51.3 (1997): 298–315.</p>",
+      "line_text": "Drijvers, Jan Willem. “The Protonike Legend, the Doctrina Addai and Bishop Rabbula of Edessa.” VC 51.3 (1997): 298–315.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Le roi Sanatrouk et l’apôtre Thaddée.” <em>Revue des études arméniennes</em> NS 9 (1972): 241–83.</p>",
+      "line_text": "Esbroeck, Michel van. “Le roi Sanatrouk et l’apôtre Thaddée.” Revue des études arméniennes NS 9 (1972): 241–83.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bethmardutho.org/index.php/hugoye/volume-index/152.html\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Griffith, Sidney Harrison. “The Doctrina Addai as a Paradigm of Christian Thought in Edessa in the Fifth Century.” <em>Hugoye: Journal of Syriac Studies</em> 6.2 (2003): 269–92.</p>",
+      "line_text": "Griffith, Sidney Harrison. “The Doctrina Addai as a Paradigm of Christian Thought in Edessa in the Fifth Century.” Hugoye: Journal of Syriac Studies 6.2 (2003): 269–92.",
+      "language": "English",
+      "entry_type": "General Studies",
+      "other_urls": [
+        "http://www.bethmardutho.org/index.php/hugoye/volume-index/152.html"
+      ]
+    },
+    {
+      "line_html": "<p>Jurasz, Izabela. “La légende syriaque de l’invention de la Croix (Doctrine d’Addai 16–30). Implication politiques et théologiques.” Pages 91–119 in <em>Apocryphes chrétiens des premiers siècles. Mémoire et traditions</em>. Edited by François-Marie Humann and Jacques-Noël Pérès. Théologie à l’université 7. Paris: Desclée de Brouwer, 2009.</p>",
+      "line_text": "Jurasz, Izabela. “La légende syriaque de l’invention de la Croix (Doctrine d’Addai 16–30). Implication politiques et théologiques.” Pages 91–119 in Apocryphes chrétiens des premiers siècles. Mémoire et traditions. Edited by François-Marie Humann and Jacques-Noël Pérès. Théologie à l’université 7. Paris: Desclée de Brouwer, 2009.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Kaufhold, Hubert. “Die ‘Lehre des Apostels Addai’ (‘Lehre der Apostel’). Zur Überlieferung pseudo-apostolischer Kanones in der syrischen Literatur.” Pages 102–28 in <em>Paul de Lagarde und die syrische Kirchengeschichte</em>. Göttingen: Göttinger Arbeitskreis für syrische Kirchengeschichte, 1968.</p>",
+      "line_text": "Kaufhold, Hubert. “Die ‘Lehre des Apostels Addai’ (‘Lehre der Apostel’). Zur Überlieferung pseudo-apostolischer Kanones in der syrischen Literatur.” Pages 102–28 in Paul de Lagarde und die syrische Kirchengeschichte. Göttingen: Göttinger Arbeitskreis für syrische Kirchengeschichte, 1968.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Krueger, Derek. “Textual Bodies: Plotinus, Syncletica, and the Teaching of Addai.” Pages 133–58 in <em>Writing and Holiness: The Practice of Authorship in the Early Christian East</em>. Edited by Idem. Divinations: Rereading Late Ancient Religion. Philadelphia: University of Pennsylvania Press, 2004.</p>",
+      "line_text": "Krueger, Derek. “Textual Bodies: Plotinus, Syncletica, and the Teaching of Addai.” Pages 133–58 in Writing and Holiness: The Practice of Authorship in the Early Christian East. Edited by Idem. Divinations: Rereading Late Ancient Religion. Philadelphia: University of Pennsylvania Press, 2004.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Mirkovic, Alexander, <em>Prelude to Constantine: The Abgar Tradition in Early Christianity</em>. Studies in the Religion and History of Early Christianity 15. Frankfurt am Main: Peter Lang, 2004.</p>",
+      "line_text": "Mirkovic, Alexander, Prelude to Constantine: The Abgar Tradition in Early Christianity. Studies in the Religion and History of Early Christianity 15. Frankfurt am Main: Peter Lang, 2004.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “King Abgar of Edessa, Eusebius, and Constantine.” Pages 3–30 in <em>The Sacred Centre as the Focus of Political Interest : Proceedings of the Symposium Held on the Occasion of the 375th Anniversary of the University of Groningen (5-8 March 1989)</em>. Edited by H.T. Bakker, A. W. Goudriaan Entwistle, and G.J. Meulenbeld. Groningen: Forsten, 1992.</p>",
+      "line_text": "Palmer, Andrew. “King Abgar of Edessa, Eusebius, and Constantine.” Pages 3–30 in The Sacred Centre as the Focus of Political Interest : Proceedings of the Symposium Held on the Occasion of the 375th Anniversary of the University of Groningen (5-8 March 1989). Edited by H.T. Bakker, A. W. Goudriaan Entwistle, and G.J. Meulenbeld. Groningen: Forsten, 1992.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Peppermüller, Rolf. “Griechische Papyrusfragmente der Doctrina Addai.” <em>VC</em> 25.4 (1971): 289–301.</p>",
+      "line_text": "Peppermüller, Rolf. “Griechische Papyrusfragmente der Doctrina Addai.” VC 25.4 (1971): 289–301.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Polański, Tomasz. “Translation, Amplification, Paraphrase: Some Comments on the Syriac, Greek and Coptic Versions of the Abgar Letter.” <em>Collectanea Christiana Orientalia</em> 13 (2016): 159–210.</p>",
+      "line_text": "Polański, Tomasz. “Translation, Amplification, Paraphrase: Some Comments on the Syriac, Greek and Coptic Versions of the Abgar Letter.” Collectanea Christiana Orientalia 13 (2016): 159–210.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bethmardutho.org/index.php/hugoye/volume-index/171.html\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ramelli, Ilaria L. “Possible Historical Traces in the Doctrina Addai.” <em>Hugoye: Journal of Syriac Studies</em> 9.1 (2006): 51–127.</p>",
+      "line_text": "Ramelli, Ilaria L. “Possible Historical Traces in the Doctrina Addai.” Hugoye: Journal of Syriac Studies 9.1 (2006): 51–127.",
+      "language": "English",
+      "entry_type": "General Studies",
+      "other_urls": [
+        "http://www.bethmardutho.org/index.php/hugoye/volume-index/171.html"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “The Narrative Continuity Between the Teaching of Addai and the Acts of Mari: Two Historical Novels?” Pages 411–50 in <em>Narratives of Egypt and the Ancient Near East: Literary and Linguistic Approaches</em>. Edited by Fredrik Norland Hagen, J. Johnston, W. Monkhouse, Kathryn Piquette, and J. Tait. OLA 189. Leuven: Peeters, 2011.</p>",
+      "line_text": "__________. “The Narrative Continuity Between the Teaching of Addai and the Acts of Mari: Two Historical Novels?” Pages 411–50 in Narratives of Egypt and the Ancient Near East: Literary and Linguistic Approaches. Edited by Fredrik Norland Hagen, J. Johnston, W. Monkhouse, Kathryn Piquette, and J. Tait. OLA 189. Leuven: Peeters, 2011.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bethmardutho.org/index.php/hugoye/volume-index/567.html\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “The Possible Origin of the Abgar-Addai Legend: Abgar the Black and Emperor Tiberius.” <em>Hugoye: Journal of Syriac Studies</em> 16.2 (2013): 211–23.</p>",
+      "line_text": "__________. “The Possible Origin of the Abgar-Addai Legend: Abgar the Black and Emperor Tiberius.” Hugoye: Journal of Syriac Studies 16.2 (2013): 211–23.",
+      "language": "English",
+      "entry_type": "General Studies",
+      "other_urls": [
+        "http://www.bethmardutho.org/index.php/hugoye/volume-index/567.html"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “Two Syriac ‘Apocryphal Acts of Apostles’: The Doctrina Addai and the Acta Maris.” Pages 77–94 in <em>In Mari Via Tua: Philological Studies in Honour of Antonio Piñero</em>. Edited by Israel M. Gallarte and Jesús Peláez. EFN 11. Córdoba: El Almendro, 2016.</p>",
+      "line_text": "__________. “Two Syriac ‘Apocryphal Acts of Apostles’: The Doctrina Addai and the Acta Maris.” Pages 77–94 in In Mari Via Tua: Philological Studies in Honour of Antonio Piñero. Edited by Israel M. Gallarte and Jesús Peláez. EFN 11. Córdoba: El Almendro, 2016.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Ross, Steven Kirk. <em>Roman Edessa: Politics and Culture on the Eastern Fringes of the Roman Empire, 114–242 CE</em>. London / New York: Routledge, 2001.</p>",
+      "line_text": "Ross, Steven Kirk. Roman Edessa: Politics and Culture on the Eastern Fringes of the Roman Empire, 114–242 CE. London / New York: Routledge, 2001.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Saint-Laurent, Jeanne-Nicole. <em>Missionary Stories and the Formation of the Syriac Churches</em>. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.</p>",
+      "line_text": "Saint-Laurent, Jeanne-Nicole. Missionary Stories and the Formation of the Syriac Churches. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Taylor, David G.K. “The Coming of Christianity to Mesopotamia.” Pages 68–87 in <em>The Syriac World</em>. Edited by Daniel King. London: Routledge, 2019.</p>",
+      "line_text": "Taylor, David G.K. “The Coming of Christianity to Mesopotamia.” Pages 68–87 in The Syriac World. Edited by Daniel King. London: Routledge, 2019.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesoriginesdel00tixeuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tixeront, Louis-Joseph. <em>Les origines de l’église d’Édesse et la légende d’Abgar</em>. Paris: Maisonneuve, 1888.</p>",
+      "line_text": "Tixeront, Louis-Joseph. Les origines de l’église d’Édesse et la légende d’Abgar. Paris: Maisonneuve, 1888.",
+      "language": "English",
+      "entry_type": "General Studies",
+      "other_urls": [
+        "https://archive.org/details/lesoriginesdel00tixeuoft"
+      ]
+    },
+    {
+      "line_html": "<p>Tubach, Jürgen, “Die Personennamen der Doctrina Addai.” Pages 193–212 in <em>Studia Syriaca: Beiträge des IX. Deutschen Syrologentages in Eichstätt 2016</em>. Edited by Peter Bruns and Thomas Kremer. Eichstätter Beiträge zum Christlichen Orient 6. Wiesbaden: Harrassowitz Verlag, 2018.</p>",
+      "line_text": "Tubach, Jürgen, “Die Personennamen der Doctrina Addai.” Pages 193–212 in Studia Syriaca: Beiträge des IX. Deutschen Syrologentages in Eichstätt 2016. Edited by Peter Bruns and Thomas Kremer. Eichstätter Beiträge zum Christlichen Orient 6. Wiesbaden: Harrassowitz Verlag, 2018.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "General Studies"
+    }
+  ]
+}

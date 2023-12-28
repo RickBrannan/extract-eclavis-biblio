@@ -1,0 +1,1416 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ascension-of-isaiah/",
+  "nasscal_toc_title": "Ascension of Isaiah",
+  "filename": "ascension-of-isaiah",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Asc. Isa.",
+  "alt_titles": [
+    "Martyrdom of Isaiah, Testament of Hezekiah, Vision of Isaiah, Martyrdom and Ascension of Isaiah"
+  ],
+  "clavis_number": 983,
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>U</strong>  Moscow, State Historical Museum, 1063/1604, fols. 90<sup>r</sup>–95<sup>r</sup> (12th/13th cent.)</p>",
+      "line_text": "U  Moscow, State Historical Museum, 1063/1604, fols. 90r–95r (12th/13th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>Sf  </strong>St. Petersburg, Saltykov-Ščedrin Library, 1488, fols. 1<sup>v</sup>–10<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Sf  St. Petersburg, Saltykov-Ščedrin Library, 1488, fols. 1v–10v (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>Ch  </strong>Moscow, State Historical Museum, 195, fols. 348–352 (14th cent.)</p>",
+      "line_text": "Ch  Moscow, State Historical Museum, 195, fols. 348–352 (14th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>G  </strong>St Petersburg, Saltykov-Ščedrin Library, M. 33. fols. 336<sup>v</sup>–341<sup>v</sup> (16th cent.)</p>",
+      "line_text": "G  St Petersburg, Saltykov-Ščedrin Library, M. 33. fols. 336v–341v (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>Ja  </strong>St Petersburg, Library of the Russian Academy of Sciences, 13.3.19 (1448), fols. 191<sup>v</sup>–200<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Ja  St Petersburg, Library of the Russian Academy of Sciences, 13.3.19 (1448), fols. 191v–200v (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>Bc  </strong>Bucharest, Library of the Academy of Romania, 171, fols. 298–302<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Bc  Bucharest, Library of the Academy of Romania, 171, fols. 298–302v (15th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>Z  </strong>Zagreb, Croatian Academy of Sciences and Arts, III.22, fols. 257–260<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Z  Zagreb, Croatian Academy of Sciences and Arts, III.22, fols. 257–260v (14th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/cu31924014590529\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Charles, Robert H. <em>The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices.</em> London: Adam &amp; Charles Black, 1900 (includes Latin translation of the Church Slavic text by G. N. Bonwetsch based on Popov’s manuscripts, pp. 98–139).</p>",
+      "line_text": "Charles, Robert H. The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices. London: Adam &amp; Charles Black, 1900 (includes Latin translation of the Church Slavic text by G. N. Bonwetsch based on Popov’s manuscripts, pp. 98–139).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/cu31924014590529"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Giambelluca Kossova, Alda. “Visio Isaiae Versione paleobulgara: Introduzione, edizione critica e traduzione.” Pages 235–319 in <em>Ascensio Isaiae: Textus. </em>Edited by P. Bettiolo et al. CCSA 7. Turnhout: Brepols, 1995.</p>",
+      "line_text": "Giambelluca Kossova, Alda. “Visio Isaiae Versione paleobulgara: Introduzione, edizione critica e traduzione.” Pages 235–319 in Ascensio Isaiae: Textus. Edited by P. Bettiolo et al. CCSA 7. Turnhout: Brepols, 1995.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Kulik, Alexander. “Slavonic.” Pages 49–72 in <em>A Guide to Early Jewish Texts and Traditions in Christian Transmission</em>. Edited by Alexander Kulik et al. Oxford; Oxford University Press, 2019.</p>",
+      "line_text": "Kulik, Alexander. “Slavonic.” Pages 49–72 in A Guide to Early Jewish Texts and Traditions in Christian Transmission. Edited by Alexander Kulik et al. Oxford; Oxford University Press, 2019.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Popov, Andrej N. “Bibliografičeskie Materialy.” <em>Č</em><em>OIDR </em>1 (1879): 1.13–22.</p>",
+      "line_text": "Popov, Andrej N. “Bibliografičeskie Materialy.” ČOIDR 1 (1879): 1.13–22.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Opisanie rukopisej i katalog knig cerkovnoj pečati biblioteki A. I. Chludova.” Moscow, 1872, 414–19.</p>",
+      "line_text": "__________. “Opisanie rukopisej i katalog knig cerkovnoj pečati biblioteki A. I. Chludova.” Moscow, 1872, 414–19.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Šachmatov, Aleksej A. and Petr A. Lavrov. <em>Sbornik XII veka Moskovskago Sobora</em>. Vol. 1 Moscow, 1899.</p>",
+      "line_text": "Šachmatov, Aleksej A. and Petr A. Lavrov. Sbornik XII veka Moskovskago Sobora. Vol. 1 Moscow, 1899.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Turdeanu, Émile. “La Vision d’Isaïe: Tradition orthodoxe et tradition hérétique.” Pages 145–72 in <em>Apocryphes slaves et roumains</em> <em>de l’Ancien Testament.</em> SVTP 5. Leiden: Brill, 1981.</p>",
+      "line_text": "Turdeanu, Émile. “La Vision d’Isaïe: Tradition orthodoxe et tradition hérétique.” Pages 145–72 in Apocryphes slaves et roumains de l’Ancien Testament. SVTP 5. Leiden: Brill, 1981.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Vaillant, André. <em>Textes vieux-slaves.</em> 2 vols. Textes publiés par l’Institut d’études slaves 8. Paris: Institut d’études slaves, 1968 (vol. 1, pp. 87–98; vol. 2, pp. 73–82).</p>",
+      "line_text": "Vaillant, André. Textes vieux-slaves. 2 vols. Textes publiés par l’Institut d’études slaves 8. Paris: Institut d’études slaves, 1968 (vol. 1, pp. 87–98; vol. 2, pp. 73–82).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Un apocryphe pseudo-bogomile: La Vision d’Isaie.” <em>RESl </em>42 (1963): 109–21.</p>",
+      "line_text": "__________. “Un apocryphe pseudo-bogomile: La Vision d’Isaie.” RESl 42 (1963): 109–21.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>A  </strong>Leuven, Katholieke Universiteit, 12.1–2 (4th cent.) ~ Sahidic; <a href=\"https://atlas.paths-erc.eu/manuscripts/755\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry; fr. I<sup>r</sup> (3:3–6), I<sup>v</sup> (3:9–12); II<sup>r</sup>(11:24–32), II<sup>v</sup> (11:35–40); destroyed in fire, 1940</p>",
+      "line_text": "A  Leuven, Katholieke Universiteit, 12.1–2 (4th cent.) ~ Sahidic; PAThs entry; fr. Ir (3:3–6), Iv (3:9–12); IIr(11:24–32), IIv (11:35–40); destroyed in fire, 1940",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/755"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>B  </strong>Leiden, Rijksmuseum van Oudheden, F1949.4.1 + Cairo, Institut Français d’Archéologie Orientale, Grec 379 (= von Scherling 126) (4th cent.) ~ Akhmimic; <a href=\"https://atlas.paths-erc.eu/manuscripts/1157\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry</p>",
+      "line_text": "B  Leiden, Rijksmuseum van Oudheden, F1949.4.1 + Cairo, Institut Français d’Archéologie Orientale, Grec 379 (= von Scherling 126) (4th cent.) ~ Akhmimic; PAThs entry",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1157"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Fr. A<sup>v</sup> (1:1–5), Fr. B<sup>v</sup> (3:25–28), Fr. C<sup>v</sup> (5:7–8), Fr. D<sup>v</sup> (6:7–11), Fr. E<sup>v</sup> (7:10–15); Fr. F<sup>v</sup> (7:28–32), Fr. G<sup>v</sup> (8:16–17), Fr. H<sup>v</sup> (9:9–11), Fr. I<sup>v</sup> (9:28–30), Fr. J<sup>v</sup> (10:9–10), Fr. K<sup>v</sup> (10:27), Fr. L<sup>v</sup>(11:14–16), Fr. M<sup>v</sup> (11:35–37).</p>",
+      "line_text": "Fr. Av (1:1–5), Fr. Bv (3:25–28), Fr. Cv (5:7–8), Fr. Dv (6:7–11), Fr. Ev (7:10–15); Fr. Fv (7:28–32), Fr. Gv (8:16–17), Fr. Hv (9:9–11), Fr. Iv (9:28–30), Fr. Jv (10:9–10), Fr. Kv (10:27), Fr. Lv(11:14–16), Fr. Mv (11:35–37).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bettiolo, Paolo. “Ascensione di Isaia Versioni Copte: Introduzione, edizione e traduzione.” Pages 147–187 in <em>Ascensio Isaiae: Textus. </em>Edited by P. Bettiolo <em>et al.</em> CCSA 7. Turnhout: Brepols, 1995 (edition of A and B).</p>",
+      "line_text": "Bettiolo, Paolo. “Ascensione di Isaia Versioni Copte: Introduzione, edizione e traduzione.” Pages 147–187 in Ascensio Isaiae: Textus. Edited by P. Bettiolo et al. CCSA 7. Turnhout: Brepols, 1995 (edition of A and B).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Lefort, Louis-Théophile. “Coptica Lovaniensia.” <em>Mus</em> 51 (1938): 24–30, pl. iv (edition of A).</p>",
+      "line_text": "Lefort, Louis-Théophile. “Coptica Lovaniensia.” Mus 51 (1938): 24–30, pl. iv (edition of A).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Fragments d’apocryphes en copte-akhmîmique.” <em>Mus</em> 52 (1939): 1–10, pl. ii (edition of B).</p>",
+      "line_text": "__________. “Fragments d’apocryphes en copte-akhmîmique.” Mus 52 (1939): 1–10, pl. ii (edition of B).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Lacau, Pierre. “Fragments de l’Ascension d’Isaïe en copte.” <em>Muséon</em> 59 (1946): 453–67 (edition of B).</p>",
+      "line_text": "Lacau, Pierre. “Fragments de l’Ascension d’Isaïe en copte.” Muséon 59 (1946): 453–67 (edition of B).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>A  </strong>Oxford, Bodleian Library, Aeth. d. 13, fols. 95<sup>r</sup>–115<sup>r </sup>(15th cent.)</p>",
+      "line_text": "A  Oxford, Bodleian Library, Aeth. d. 13, fols. 95r–115r (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>B</strong>  London, British Library, Or. 501, fols. 62<sup>r</sup>–69<sup>v</sup> (15th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/FullDisplay.aspx?index=88&amp;ref=Or_501\" target=\"_blank\" rel=\"noopener\">BL</a></p>",
+      "line_text": "B  London, British Library, Or. 501, fols. 62r–69v (15th cent.) ~ BL",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/FullDisplay.aspx?index=88&ref=Or_501"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>C</strong>  London, British Library, Or. 503, fols. 57<sup>r</sup>–62<sup>v</sup> (18th cent.) ~ <a href=\"https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_503&amp;index=90\" target=\"_blank\" rel=\"noopener\">BL</a></p>",
+      "line_text": "C  London, British Library, Or. 503, fols. 57r–62v (18th cent.) ~ BL",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_503&index=90"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>D  </strong>Abbâ Garima, EMML 2, fol. 307 (12th–14th cent.)</p>",
+      "line_text": "D  Abbâ Garima, EMML 2, fol. 307 (12th–14th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>E</strong>  Ḥayq, Esṭifānos Monastery, EMML 1768, fols. 83<sup>r</sup>–88<sup>v </sup>(15th cent.)</p>",
+      "line_text": "E  Ḥayq, Esṭifānos Monastery, EMML 1768, fols. 83r–88v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>F</strong>  Ankobar, Madḫānē Ālam, EMML 3067, fols. 99<sup>r</sup>–117<sup>v </sup>(15th cent.)</p>",
+      "line_text": "F  Ankobar, Madḫānē Ālam, EMML 3067, fols. 99r–117v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>G  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. et. 263 fols. 85<sup>v</sup>–104<sup>v</sup> (14th/15th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.et.263\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
+      "line_text": "G  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 263 fols. 85v–104v (14th/15th cent.) ~ DVL",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.et.263"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>H  </strong>Paris, Bibliothèque nationale de France, Ethiopen d’Abbadie 195, fols. 74<sup>r</sup>–87<sup>r</sup> (17th/18th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10093284b\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "H  Paris, Bibliothèque nationale de France, Ethiopen d’Abbadie 195, fols. 74r–87r (17th/18th cent.) ~ Gallica",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10093284b"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>I  </strong>Paris, Bibliothèque nationale de France, Ethiopen d’Abbadie 156, fols. 46<sup>r</sup>–52<sup>v</sup> (18th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100873516\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "I  Paris, Bibliothèque nationale de France, Ethiopen d’Abbadie 156, fols. 46r–52v (18th cent.) ~ Gallica",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100873516"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>L  </strong>Munich, Bavarian State Library, Aeth. 63, fols. 107<sup>v</sup>–115<sup>v </sup>(18th/19th cent.)</p>",
+      "line_text": "L  Munich, Bavarian State Library, Aeth. 63, fols. 107v–115v (18th/19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>M</strong>  Amba Gəsän (Wallo), Church of Gəsän Maryam, EMML 9009 (15th/16th cent.)</p>",
+      "line_text": "M  Amba Gəsän (Wallo), Church of Gəsän Maryam, EMML 9009 (15th/16th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>N</strong>  Mäqäle (Tigray), Abunä Yohannəs Museum, EMDL 668 fols. 1<sup>r</sup>, 4<sup>r</sup>–57<sup>v</sup> (1925–1926).</p>",
+      "line_text": "N  Mäqäle (Tigray), Abunä Yohannəs Museum, EMDL 668 fols. 1r, 4r–57v (1925–1926).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Asmara (Eritrea), Cloister of Däbrä Bizän. 1491–1492. Uncatalogued Bible manuscript, incl. <em>1 Enoch</em>, <em>Jubilees</em>, and <em>Asc. Isa.</em></p>",
+      "line_text": "Asmara (Eritrea), Cloister of Däbrä Bizän. 1491–1492. Uncatalogued Bible manuscript, incl. 1 Enoch, Jubilees, and Asc. Isa.",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bausi, Alessandro. “Su alcuni manoscritti presso communità monastische dell’Eritrea. Parte Seconda.” <em>Rassegna di stud etiopici</em> 39 (1995): 25–48 (description of Däbrä Bizän MS, pp. 34–39).</p>",
+      "line_text": "Bausi, Alessandro. “Su alcuni manoscritti presso communità monastische dell’Eritrea. Parte Seconda.” Rassegna di stud etiopici 39 (1995): 25–48 (description of Däbrä Bizän MS, pp. 34–39).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Brown, Dexter, and Aaron Michael Butts, “Ascension of Isaiah 6–11 (Ethiopic Version): Introduction and Translation.” Pages 3–15 in <em>The Cambridge Edition of Early Christian Writings, Volume 3. Christ Through the Nestorian Controversy</em>. Edited by Mark DelCogliano. Cambridge: Cambridge University Press, 2022.</p>",
+      "line_text": "Brown, Dexter, and Aaron Michael Butts, “Ascension of Isaiah 6–11 (Ethiopic Version): Introduction and Translation.” Pages 3–15 in The Cambridge Edition of Early Christian Writings, Volume 3. Christ Through the Nestorian Controversy. Edited by Mark DelCogliano. Cambridge: Cambridge University Press, 2022.",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/cu31924014590529\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Charles, Robert H. <em>The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices.</em> London: Adam &amp; Charles Black, 1900.</p>",
+      "line_text": "Charles, Robert H. The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices. London: Adam &amp; Charles Black, 1900.",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/cu31924014590529"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/ascensioisaiaeae00dill\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dillmann, Augusto. <em>Ascensio Isaiae, aethiopice et latine, cum Prolegomenis Adnotationibus criticis et exegeticis, additis Versionum Latinarum Reliquiis edita.</em> Lepizig: Brockhaus, 1877 (edition of A–C).</p>",
+      "line_text": "Dillmann, Augusto. Ascensio Isaiae, aethiopice et latine, cum Prolegomenis Adnotationibus criticis et exegeticis, additis Versionum Latinarum Reliquiis edita. Lepizig: Brockhaus, 1877 (edition of A–C).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ascensioisaiaeae00dill"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Erho, Ted M. “New Ethiopic Witnesses to Some Old Testament Pseudepigrapha.” <em>BSOAS</em> 76 (2013): 75–97 (descriptions of MSS EMML 9009 and EMDL 668).</p>",
+      "line_text": "Erho, Ted M. “New Ethiopic Witnesses to Some Old Testament Pseudepigrapha.” BSOAS 76 (2013): 75–97 (descriptions of MSS EMML 9009 and EMDL 668).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/ascensioisaiaeva00laur\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Laurence, Richard. <em>Ascensio Isaiae vatis, opusculum pseudepigraphum . . . cum Versione Latina Anglicanaque publici juris factum.</em> Oxford 1819 (edition of A, Latin translation, pp. 1–80; Engish translation, pp. 99–139).</p>",
+      "line_text": "Laurence, Richard. Ascensio Isaiae vatis, opusculum pseudepigraphum . . . cum Versione Latina Anglicanaque publici juris factum. Oxford 1819 (edition of A, Latin translation, pp. 1–80; Engish translation, pp. 99–139).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ascensioisaiaeva00laur"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Lusini, Gianfrancesco. “Ascensione di Isaia: concordanza della versione etiopica.” Aethiopistische Forschungen 62. Wiesbaden: Harrassowitz, 2003.</p>",
+      "line_text": "Lusini, Gianfrancesco. “Ascensione di Isaia: concordanza della versione etiopica.” Aethiopistische Forschungen 62. Wiesbaden: Harrassowitz, 2003.",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Perrone, Lorenzo. “Ascensione di Isaia Profeta Versione Etiopica: Introduzione ed edizione critica.” Pages 1–129 in <em>Ascensio Isaiae: Textus.</em> Edited by Paolo Bettiolo, <em>et al. </em>CCSA 7. Turnhout: Brepols, 1995 (edition of A–L).</p>",
+      "line_text": "Perrone, Lorenzo. “Ascensione di Isaia Profeta Versione Etiopica: Introduzione ed edizione critica.” Pages 1–129 in Ascensio Isaiae: Textus. Edited by Paolo Bettiolo, et al. CCSA 7. Turnhout: Brepols, 1995 (edition of A–L).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Piovanelli, Pierluigi L. “Un nouveau témoin éthiopien de l’<em>Ascension d’Isaïe </em>et de la <em>Vie de Jérémie</em> (Paris, BN Abb. 195).” <em>Henoch</em> 12 (1990): 347–63.</p>",
+      "line_text": "Piovanelli, Pierluigi L. “Un nouveau témoin éthiopien de l’Ascension d’Isaïe et de la Vie de Jérémie (Paris, BN Abb. 195).” Henoch 12 (1990): 347–63.",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-amh-gr-pap-1/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, Amh. Gr. Pap. 1.1–4 (6th/7th cent.) ~ comprises chs. 2:4–4:4</p>",
+      "line_text": "New York, Morgan Library and Museum, Amh. Gr. Pap. 1.1–4 (6th/7th cent.) ~ comprises chs. 2:4–4:4",
+      "language": ".1",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-amh-gr-pap-1/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/cu31924022695054/page/n13/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfel, Bernard P., and Arthur. S. Hunt. <em>The Amherst Papyri . . . Part I: The Ascension of Isaiah, and Other Theological Fragments, with Nine Plates.</em> London: Oxford University Press, 1900 (Greek text, pp. 4–14, English translation, pp. 15–17; plates III–IX).</p>",
+      "line_text": "Grenfel, Bernard P., and Arthur. S. Hunt. The Amherst Papyri . . . Part I: The Ascension of Isaiah, and Other Theological Fragments, with Nine Plates. London: Oxford University Press, 1900 (Greek text, pp. 4–14, English translation, pp. 15–17; plates III–IX).",
+      "language": ".1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/cu31924022695054/page/n13/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Norelli, Enrico. “Frammento greco –Ascensione di Isaia (Papiro Amherst 1): Introduzione, edizione e traduzione.” Pages 131–145 in <em>Ascensio Isaiae: Textus.</em> Edited by Paolo Bettiolo, <em>et al. </em>CCSA 7. Turnhout: Brepols, 1995.</p>",
+      "line_text": "Norelli, Enrico. “Frammento greco –Ascensione di Isaia (Papiro Amherst 1): Introduzione, edizione e traduzione.” Pages 131–145 in Ascensio Isaiae: Textus. Edited by Paolo Bettiolo, et al. CCSA 7. Turnhout: Brepols, 1995.",
+      "language": ".1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1534/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1534, fols. fols. 245<sup>r</sup>–251<sup>r</sup> (11th/2th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1534, fols. fols. 245r–251r (11th/2th cent.)",
+      "language": ".2 Greek Legend",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1534/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-gr-27/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 27, fols. 86<sup>r</sup>–89<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 27, fols. 86r–89v (11th cent.)",
+      "language": ".2 Greek Legend",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-gr-27/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=hvd.hnfysr&amp;view=1up&amp;seq=360\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gebhardt, Oscar von. “Die Ascensio Isaiae als Heiligenlegende. Aus Cod. Gr. 1534 der Nationalbibliothek zu Paris.” <em>ZWT</em> 21 (1878): 330–53 (<em>editio princeps</em> of the Greek Legend based on the Paris manuscript, pp. 341–53).</p>",
+      "line_text": "Gebhardt, Oscar von. “Die Ascensio Isaiae als Heiligenlegende. Aus Cod. Gr. 1534 der Nationalbibliothek zu Paris.” ZWT 21 (1878): 330–53 (editio princeps of the Greek Legend based on the Paris manuscript, pp. 341–53).",
+      "language": ".2 Greek Legend",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=hvd.hnfysr&view=1up&seq=360"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>L<sup>1</sup></strong>  Vatican, Biblioteca Apostolica Vaticana. Vat. lat. 5750 (palimpsest; chs. 2:14–3:13; 7:1–19); <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.5750\" target=\"_blank\" rel=\"noopener noreferrer\">DigiVatLib</a></p>",
+      "line_text": "L1  Vatican, Biblioteca Apostolica Vaticana. Vat. lat. 5750 (palimpsest; chs. 2:14–3:13; 7:1–19); DigiVatLib",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.5750"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>L<sup>2</sup>  </strong>Venice. I. de Leuco, 1522 ~ chs. 6–11; lost</p>",
+      "line_text": "L2  Venice. I. de Leuco, 1522 ~ chs. 6–11; lost",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/cu31924014590529\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Charles, Robert H. <em>The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices.</em> London: Adam &amp; Charles Black, 1900 (edition of L<sup>1</sup>, pp. 87–92, 102–108; and L<sup>2</sup>, pp. 98–139).</p>",
+      "line_text": "Charles, Robert H. The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices. London: Adam &amp; Charles Black, 1900 (edition of L1, pp. 87–92, 102–108; and L2, pp. 98–139).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/cu31924014590529"
+      ]
+    },
+    {
+      "line_html": "<p><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></p>",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Dillmann, Augusto. <em>Ascensio Isaiae, aethiopice et latine, cum Prolegomenis </em><em>Adnotationibus criticis et exegeticis, additis </em><em>Versionum Latinarum Reliquiis edita.</em> Lepizig: Brockhaus, 1877 (edition of Ethiopic with L<sup>2</sup> in an appendix, pp. 77–83, followed by L<sup>1</sup>, pp. 83–85).</p>",
+      "line_text": "Dillmann, Augusto. Ascensio Isaiae, aethiopice et latine, cum Prolegomenis Adnotationibus criticis et exegeticis, additis Versionum Latinarum Reliquiis edita. Lepizig: Brockhaus, 1877 (edition of Ethiopic with L2 in an appendix, pp. 77–83, followed by L1, pp. 83–85).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books/about/Opera_nuper_in_lucem_prodeuntia.html?id=Q5RbAAAAQAAJ&amp;redir_esc=y\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fantis, Antonius de. <em>Opera Nuper in lucem prodeuntia. Liber Gratiae spiritualis Visionum et Revelationum Beate Methildis Virginis . . .</em> Venice: I. de Leuco, 1522 (<em>editio princeps</em> based on L<sup>2</sup>).</p>",
+      "line_text": "Fantis, Antonius de. Opera Nuper in lucem prodeuntia. Liber Gratiae spiritualis Visionum et Revelationum Beate Methildis Virginis . . . Venice: I. de Leuco, 1522 (editio princeps based on L2).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books/about/Opera_nuper_in_lucem_prodeuntia.html?id=Q5RbAAAAQAAJ&redir_esc=y"
+      ]
+    },
+    {
+      "line_html": "<p>Gieseler, Johann K. L. <em>Vetus translatio latina Visionis Iesaiae.</em> Göttingen, 1832 (a reprint of L<sup>2</sup>).</p>",
+      "line_text": "Gieseler, Johann K. L. Vetus translatio latina Visionis Iesaiae. Göttingen, 1832 (a reprint of L2).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Leonardi, Claudio. “La Tradizione Latina dell’Ascensione d’Isaia.” Pages 189–233 in <em>Ascensio Isaiae: Textus.</em> Edited by Paolo Bettiolo et al. CCSA 7. Brepols: Turnhout, 1995 (edition of L<sup>1 </sup>and L<sup>2</sup>).</p>",
+      "line_text": "Leonardi, Claudio. “La Tradizione Latina dell’Ascensione d’Isaia.” Pages 189–233 in Ascensio Isaiae: Textus. Edited by Paolo Bettiolo et al. CCSA 7. Brepols: Turnhout, 1995 (edition of L1 and L2).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Il testo dell’‘Ascensio Isaiae’ nel Vat. lat. 5750.” <em>Cristianesimo nella Storia</em> i (1980): 59–74.</p>",
+      "line_text": "__________. “Il testo dell’‘Ascensio Isaiae’ nel Vat. lat. 5750.” Cristianesimo nella Storia i (1980): 59–74.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books/about/Scriptorum_veterum_nova_collectio_e_vati.html?id=u2gKhf-AGLsC&amp;redir_esc=y\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mai, Angelo. <em>Scriptorum veterum nova collectio e Vaticanis codicibus edita.</em> 10 vols. Rome: Burliaeum, 1825–1838 (edition of L<sup>1</sup>, vol. 3.2, pp. 238–39).</p>",
+      "line_text": "Mai, Angelo. Scriptorum veterum nova collectio e Vaticanis codicibus edita. 10 vols. Rome: Burliaeum, 1825–1838 (edition of L1, vol. 3.2, pp. 238–39).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books/about/Scriptorum_veterum_nova_collectio_e_vati.html?id=u2gKhf-AGLsC&redir_esc=y"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Brown, Dexter, and Aaron Michael Butts, “Ascension of Isaiah 6–11 (Ethiopic Version): Introduction and Translation.” Pages 3–15 in <em>The Cambridge Edition of Early Christian Writings, Volume 3. Christ Through the Nestorian Controversy</em>. Edited by Mark DelCogliano. Cambridge: Cambridge University Press, 2022.</p>",
+      "line_text": "Brown, Dexter, and Aaron Michael Butts, “Ascension of Isaiah 6–11 (Ethiopic Version): Introduction and Translation.” Pages 3–15 in The Cambridge Edition of Early Christian Writings, Volume 3. Christ Through the Nestorian Controversy. Edited by Mark DelCogliano. Cambridge: Cambridge University Press, 2022.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Barton, John M. T. “The Ascension of Isaiah.” Pages 785–812 in <em>The Apocryphal Old Testament I</em>. Edited by H. F. D. Sparks. Oxford: Clarendon, 1984.</p>",
+      "line_text": "Barton, John M. T. “The Ascension of Isaiah.” Pages 785–812 in The Apocryphal Old Testament I. Edited by H. F. D. Sparks. Oxford: Clarendon, 1984.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/cu31924014590529\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Charles, Robert H. <em>The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices.</em> London: Adam &amp; Charles Black, 1900.</p>",
+      "line_text": "Charles, Robert H. The Ascension of Isaiah: Translated from the Ethiopic Version, Which, Together with the New Greek Fragment, the Latin Versions, and the Latin Translation of the Slavonic, Is Here Published in Full; Edited with Introduction, Notes, and Indices. London: Adam &amp; Charles Black, 1900.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/cu31924014590529"
+      ]
+    },
+    {
+      "line_html": "<p>Knibb, Michael A. “Martyrdom and Ascension of Isaiah.” Pages 143–46 in vol. 2 of <em>The Old Testament Pseudepigrapha</em>. Edited by James H. Charlesworth. 2 vols. ABRL. New York: Doubleday, 1983–1985 (utilizes two Ethiopic manuscripts unknown to previous editors).</p>",
+      "line_text": "Knibb, Michael A. “Martyrdom and Ascension of Isaiah.” Pages 143–46 in vol. 2 of The Old Testament Pseudepigrapha. Edited by James H. Charlesworth. 2 vols. ABRL. New York: Doubleday, 1983–1985 (utilizes two Ethiopic manuscripts unknown to previous editors).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Müller, C. Detlef G. “The Ascension of Isaiah.” Pages 603–20 in vol. 2 of <em>New Testament Apocrypha</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. 2 vols. rev. ed. Louisville: Westminster/John Knox Press, 1991–1992. (German ed. pp. 547–62).</p>",
+      "line_text": "Müller, C. Detlef G. “The Ascension of Isaiah.” Pages 603–20 in vol. 2 of New Testament Apocrypha. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. 2 vols. rev. ed. Louisville: Westminster/John Knox Press, 1991–1992. (German ed. pp. 547–62).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=8785RkjNVtIC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Basset, René. <em>Les Apocryphes Ethiopiens, traduits en français</em>. Vol. 3: <em>L’Ascension d’Isaïe</em>. Paris: <span dir=\"ltr\">Librairie de l’art indépendan</span>, 1894 (Dillman’s edition translated into French).</p>",
+      "line_text": "Basset, René. Les Apocryphes Ethiopiens, traduits en français. Vol. 3: L’Ascension d’Isaïe. Paris: Librairie de l’art indépendan, 1894 (Dillman’s edition translated into French).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=8785RkjNVtIC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Caquot, André. “Martyre d’Isaïe.” Pages 1017–1033 in <em>La Bible: Écrits intertestamentaires. </em>Edited by André Dupont-Sommer and Marc Philonenko. Bibliothèque de la Pléiade 337. Paris: Gallimard, 1987.</p>",
+      "line_text": "Caquot, André. “Martyre d’Isaïe.” Pages 1017–1033 in La Bible: Écrits intertestamentaires. Edited by André Dupont-Sommer and Marc Philonenko. Bibliothèque de la Pléiade 337. Paris: Gallimard, 1987.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Norelli, Enrico. “Ascension d’Isaïe.” Pages 501–45 in vol. 1 of <em>Écrits apocryphes chrétiens</em>. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997 (translation based on the CCSA edition of the Ethiopic text).</p>",
+      "line_text": "Norelli, Enrico. “Ascension d’Isaïe.” Pages 501–45 in vol. 1 of Écrits apocryphes chrétiens. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997 (translation based on the CCSA edition of the Ethiopic text).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Norelli, Enrico. <em>Ascension du prophète Isaïe</em>. Apocryphes: Collection de poche de l’AELAC 2. Turnhout: Brepols, 1993 (translation based on the CCSA edition of the Ethiopic text, pp. 103–50; Legend, pp. 151–65).</p>",
+      "line_text": "Norelli, Enrico. Ascension du prophète Isaïe. Apocryphes: Collection de poche de l’AELAC 2. Turnhout: Brepols, 1993 (translation based on the CCSA edition of the Ethiopic text, pp. 103–50; Legend, pp. 151–65).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ascensiondisaiet00tiss\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tisserant, Eugène. <em>Ascension d’Isaïe. Traduction de la version éthiopienne avec les principales variantes des versions grecque, latines et slave, introduction et notes.</em>  Documents pour l’étude de la Bible. Paris: Letouzey et Ané, 1909 (Ethiopic, pp. 85–215; Greek Legend, pp. 217–26).</p>",
+      "line_text": "Tisserant, Eugène. Ascension d’Isaïe. Traduction de la version éthiopienne avec les principales variantes des versions grecque, latines et slave, introduction et notes.  Documents pour l’étude de la Bible. Paris: Letouzey et Ané, 1909 (Ethiopic, pp. 85–215; Greek Legend, pp. 217–26).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ascensiondisaiet00tiss"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/dieapokryphenund0000unse_o7l5/page/118/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Beer, Georg. “Das Martyrium das Propheten Jesaja.” Pages 119–27 in <em>Die Apokryphen und Pseudepigraphen des Alten Testaments</em> II. Edited by Emil Kautzsch. Tübingen: Mohr, 1900.</p>",
+      "line_text": "Beer, Georg. “Das Martyrium das Propheten Jesaja.” Pages 119–27 in Die Apokryphen und Pseudepigraphen des Alten Testaments II. Edited by Emil Kautzsch. Tübingen: Mohr, 1900.",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenund0000unse_o7l5/page/118/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Hammershaimb, Erling. “Das Martyrium Jesajas.” <em>JSHRZ</em> 2 (1973): 1–34.</p>",
+      "line_text": "Hammershaimb, Erling. “Das Martyrium Jesajas.” JSHRZ 2 (1973): 1–34.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Müller, C. Detlef G. “Die Himmelfahrt des Jesajas.” Pages 547–562 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung. 6. Aufl. Bd. 2: Apostolisches, Apokalypsen und Verwandtes. </em>Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1990.</p>",
+      "line_text": "Müller, C. Detlef G. “Die Himmelfahrt des Jesajas.” Pages 547–562 in Neutestamentliche Apokryphen in deutscher Übersetzung. 6. Aufl. Bd. 2: Apostolisches, Apokalypsen und Verwandtes. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1990.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://archive.org/details/AltjudischesSchrifttumAusserhalbDerBibel/page/n477/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Riessler, Paul. “Die Himmelfahrt des Jesajas.” Pages 481–84 in <em>Altjüdisches Schrifttum außerhalb der Bibel</em>. Augsburg: 1928. Repr. Heidelberg: Kerle, 1966.</p>",
+      "line_text": "Riessler, Paul. “Die Himmelfahrt des Jesajas.” Pages 481–84 in Altjüdisches Schrifttum außerhalb der Bibel. Augsburg: 1928. Repr. Heidelberg: Kerle, 1966.",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/AltjudischesSchrifttumAusserhalbDerBibel/page/n477/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span style=\"font-weight: 400;\">Bettiolo, Paolo, <em>et al</em>. <em>Ascensio Isaiae: Textus. </em>CCSA 7. Turnhout: Brepols, 1995. Ethiopic MSS: Enrico Norelli (45–129), Greek MSS: Enrico Norelli (136–46), Coptic MSS: Paolo Bettiolo (154–87), Latin MSS: Claudio Leonardi (204–209, 214–33), Slavonic MSS: Alda Giambelluca Kossova (286–319), Greek Legend MSS: Enrico Norelli (328–51).</span></p>",
+      "line_text": "Bettiolo, Paolo, et al. Ascensio Isaiae: Textus. CCSA 7. Turnhout: Brepols, 1995. Ethiopic MSS: Enrico Norelli (45–129), Greek MSS: Enrico Norelli (136–46), Coptic MSS: Paolo Bettiolo (154–87), Latin MSS: Claudio Leonardi (204–209, 214–33), Slavonic MSS: Alda Giambelluca Kossova (286–319), Greek Legend MSS: Enrico Norelli (328–51).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Acerbi, A. <em>L’Ascensione di lsaia. Cristologia e profeti-smo in Siria nei primi decenni del Il secolo.</em> Studia patristica Mediolanensia 17. Milan, 1989.</p>",
+      "line_text": "Acerbi, A. L’Ascensione di lsaia. Cristologia e profeti-smo in Siria nei primi decenni del Il secolo. Studia patristica Mediolanensia 17. Milan, 1989.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Serra lignea. Studi sulla fortuna della Ascensione di Isaia.</em> Rome, 1984.</p>",
+      "line_text": "__________. Serra lignea. Studi sulla fortuna della Ascensione di Isaia. Rome, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">de Aldama, José Antonio. <em>Maria en la patristica de los siglos I y II. </em>BAC. 300<em>. </em>Madrid: Editorial Católica, 1970.</p>",
+      "line_text": "de Aldama, José Antonio. Maria en la patristica de los siglos I y II. BAC. 300. Madrid: Editorial Católica, 1970.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Barbel, Joseph. <em>Christos Angelos. Die Anschauung von Christus als Bote und Engel in der gelehrten und volkstümlichen Literatur des christlichen Altertums. </em>Theophaneia 3. Bonn: Hanstein, 1941.</p>",
+      "line_text": "Barbel, Joseph. Christos Angelos. Die Anschauung von Christus als Bote und Engel in der gelehrten und volkstümlichen Literatur des christlichen Altertums. Theophaneia 3. Bonn: Hanstein, 1941.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Barton, John M. T. “The Ascension of Isaiah.” Pages 785–812 in <em>The Apocryphal Old Testament</em>. Edited by H. F. D. Sparks. Oxford: Clarendon, 1984.</p>",
+      "line_text": "Barton, John M. T. “The Ascension of Isaiah.” Pages 785–812 in The Apocryphal Old Testament. Edited by H. F. D. Sparks. Oxford: Clarendon, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bauckham, Richard. “How the Author of the <em>Ascension of Isaiah </em>Created Its Cosmological Version of the Story of Jesus.” Pages 23–44 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Bauckham, Richard. “How the Author of the Ascension of Isaiah Created Its Cosmological Version of the Story of Jesus.” Pages 23–44 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=MKMJnnpbYxAC&amp;pg=PA363&amp;lpg=PA363&amp;dq=Norelli,+Enrico.+Ascensio+Isaiae:+Textus.+CCSA+7.+Turnhout:+Brepols,+1995.&amp;source=bl&amp;ots=7gYRSOD4cP&amp;sig=ACfU3U3xWTEBHe9ZgSN1Jxq5gGMz_R02HA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwj4iqWgwrjqAhVkkeAKHetgAAgQ6AEwBHoECAkQAQ#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bauckham, Richard. “The Ascension of Isaiah: Genre, Unity and Date.” Pages 363–90 in <em>The Fate of the Dead. Studies on the Jewish and Christian Apocalypses</em>. Leiden and Boston, 1998.</p>",
+      "line_text": "Bauckham, Richard. “The Ascension of Isaiah: Genre, Unity and Date.” Pages 363–90 in The Fate of the Dead. Studies on the Jewish and Christian Apocalypses. Leiden and Boston, 1998.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=MKMJnnpbYxAC&pg=PA363&lpg=PA363&dq=Norelli,+Enrico.+Ascensio+Isaiae:+Textus.+CCSA+7.+Turnhout:+Brepols,+1995.&source=bl&ots=7gYRSOD4cP&sig=ACfU3U3xWTEBHe9ZgSN1Jxq5gGMz_R02HA&hl=en&sa=X&ved=2ahUKEwj4iqWgwrjqAhVkkeAKHetgAAgQ6AEwBHoECAkQAQ#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Baynes, Leslie. <em>The Heavenly Book Motif in Judeo-Christian Apocalypses 200 B.C.E.</em><em>–</em><em>200 C.E. </em>JSJSup 152. Leiden and Boston: Brill, 2012 (pp. 180–85).</p>",
+      "line_text": "Baynes, Leslie. The Heavenly Book Motif in Judeo-Christian Apocalypses 200 B.C.E.–200 C.E. JSJSup 152. Leiden and Boston: Brill, 2012 (pp. 180–85).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bianchi, Ugo. “L’Ascensione di Isaia. Tematiche soteriologiche di descensus/ascensus.” Pages 155–83 in <em>Isaia, il Diletto e la Chiesa. Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia.</em> Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.</p>",
+      "line_text": "Bianchi, Ugo. “L’Ascensione di Isaia. Tematiche soteriologiche di descensus/ascensus.” Pages 155–83 in Isaia, il Diletto e la Chiesa. Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bori, Pier Cesare. “L’esperienza profetica nell’Ascensione di Isaia.” Pages 133–54 in <em>Isaia, il Diletto e la Chiesa. Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia. </em>Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.</p>",
+      "line_text": "Bori, Pier Cesare. “L’esperienza profetica nell’Ascensione di Isaia.” Pages 133–54 in Isaia, il Diletto e la Chiesa. Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “L’estasi del profeta: ‘Ascensio Isaiae’ 6 e l’antico profetismo Cristiano.” <em>Cristianesimo nella storia </em>1 (1980): 367–89.</p>",
+      "line_text": "__________. “L’estasi del profeta: ‘Ascensio Isaiae’ 6 e l’antico profetismo Cristiano.” Cristianesimo nella storia 1 (1980): 367–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bosse, Alfred. “Zur Erklärung der Apokalypse der Asc. Jesaiae.” <em>ZNW </em>10 (1909): 320–23.</p>",
+      "line_text": "Bosse, Alfred. “Zur Erklärung der Apokalypse der Asc. Jesaiae.” ZNW 10 (1909): 320–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bousset, William. “Die Himmelreise der Seele.” Pages 136–69 in <em>Archiv f</em><em>ü</em><em>r Religionswissenschaft IV</em>. Tübingen: Mohr Siebeck, 1901.</p>",
+      "line_text": "Bousset, William. “Die Himmelreise der Seele.” Pages 136–69 in Archiv für Religionswissenschaft IV. Tübingen: Mohr Siebeck, 1901.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bremmer, Jan N., Thomas R. Karmann, Tobias Nicklas. <em>The Ascension of Isaiah</em>. Studies on Early Christian Apocrypha 11. Leuven: Peeters, 2015.</p>",
+      "line_text": "Bremmer, Jan N., Thomas R. Karmann, Tobias Nicklas. The Ascension of Isaiah. Studies on Early Christian Apocrypha 11. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Descents to Hell and Ascents to Heaven in Apocalyptic Literature.” Pages 340–57 in <em>The Oxford Handbook of Apocalyptic Literature. </em>Edited by John J. Collins. Oxford: Oxford University Press, 2014.</p>",
+      "line_text": "__________. “Descents to Hell and Ascents to Heaven in Apocalyptic Literature.” Pages 340–57 in The Oxford Handbook of Apocalyptic Literature. Edited by John J. Collins. Oxford: Oxford University Press, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Buck, Fidelis. “Are the ‘Ascension of Isaiah’ and the ‘Odes of Solomon’ witnesses to an early cult of Mary?” Pages 371–399 in <em>De primordiis cultus Mariani IV. </em>Rome: Pontificia Academia Mariana Internationalis, 1970.</p>",
+      "line_text": "Buck, Fidelis. “Are the ‘Ascension of Isaiah’ and the ‘Odes of Solomon’ witnesses to an early cult of Mary?” Pages 371–399 in De primordiis cultus Mariani IV. Rome: Pontificia Academia Mariana Internationalis, 1970.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Burch, Vacher. “The Literary Unity of the Ascensio Isaiae.” <em>JTS </em>20 (1919): 17–23.</p>",
+      "line_text": "Burch, Vacher. “The Literary Unity of the Ascensio Isaiae.” JTS 20 (1919): 17–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Material for the Interpretation of the Ascensio Isaiae.” <em>JTS </em>21 (1920): 249–65.</p>",
+      "line_text": "__________. “Material for the Interpretation of the Ascensio Isaiae.” JTS 21 (1920): 249–65.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.ancientjewreview.com/read/2021/11/10/the-ascension-of-isaiah-through-the-prism-of-papyrus-amherst-1\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Campbell, Warren. “The Ascension of Isaiah Through the Prism of Papyrys Amherst 1.” <em>Ancient Jew Review</em>. Posted 14 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/10/the-ascension-of-isaiah-through-the-prism-of-papyrus-amherst-1.</p>",
+      "line_text": "Campbell, Warren. “The Ascension of Isaiah Through the Prism of Papyrys Amherst 1.” Ancient Jew Review. Posted 14 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/10/the-ascension-of-isaiah-through-the-prism-of-papyrus-amherst-1.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.ancientjewreview.com/read/2021/11/10/the-ascension-of-isaiah-through-the-prism-of-papyrus-amherst-1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Residue of Matthean Polemics in the <em>Ascension of Isaiah</em>.” <em>NTS </em>66 (2020): 454–70.</p>",
+      "line_text": "__________. “The Residue of Matthean Polemics in the Ascension of Isaiah.” NTS 66 (2020): 454–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Caquot, André. “Bref commentaire du ‘Martyre d’Isaïe.’” <em>Semitica </em>23 (1973): 65–93.</p>",
+      "line_text": "Caquot, André. “Bref commentaire du ‘Martyre d’Isaïe.’” Semitica 23 (1973): 65–93.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Carey, Greg. “The Ascension of Isaiah: An Example of Early Christian Narrative Polemic.” <em>JSP </em>17 (1998): 65–78.</p>",
+      "line_text": "Carey, Greg. “The Ascension of Isaiah: An Example of Early Christian Narrative Polemic.” JSP 17 (1998): 65–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Early Christian Apocalyptic Rhetoric.” Pages 218–34 in <em>The Oxford Handbook of Apocalyptic Literature. </em>Edited by John J. Collins. Oxford: Oxford University Press, 2014.</p>",
+      "line_text": "__________. “Early Christian Apocalyptic Rhetoric.” Pages 218–34 in The Oxford Handbook of Apocalyptic Literature. Edited by John J. Collins. Oxford: Oxford University Press, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Corriente Córdoba, Federico, and Luis Vegas Montaner. “Ascensión de Isaías.” Pages 543–627 in <em>Apócrifos del Antiguo Testamento VI</em>. Edited by A. Díez Macho and A. Piñero. Madrid: Cristiandad, 2009.</p>",
+      "line_text": "Corriente Córdoba, Federico, and Luis Vegas Montaner. “Ascensión de Isaías.” Pages 543–627 in Apócrifos del Antiguo Testamento VI. Edited by A. Díez Macho and A. Piñero. Madrid: Cristiandad, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Culianu, Ioan P. “La <em>Visione di Isaia </em>e la tematica della <em>Himmelsreise.</em> Pages 95–111 in <em>Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia</em>. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.</p>",
+      "line_text": "Culianu, Ioan P. “La Visione di Isaia e la tematica della Himmelsreise. Pages 95–111 in Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Czachesz, István. “Religious Experience behind the Account of Isaiah’s Ascent to Heaven: Insights from Cognitive Science.” Pages 235–258 in <em>The Ascension of Isaiah. </em>SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Czachesz, István. “Religious Experience behind the Account of Isaiah’s Ascent to Heaven: Insights from Cognitive Science.” Pages 235–258 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Dean-Otting, Mary. <em>Heavenly Journeys. A Study of the Motif in Hellenistic Jewish Literature. </em>JU 8. Frankfurt: Peter Lang, 1984.</p>",
+      "line_text": "Dean-Otting, Mary. Heavenly Journeys. A Study of the Motif in Hellenistic Jewish Literature. JU 8. Frankfurt: Peter Lang, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Denis, Albert-Marie. <em>Introduction aux pseud</em><em>é</em><em>pigraphes grecs d’Ancien Testament. </em>SVTP 1. Leiden: Brill, 1970.</p>",
+      "line_text": "Denis, Albert-Marie. Introduction aux pseudépigraphes grecs d’Ancien Testament. SVTP 1. Leiden: Brill, 1970.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Denis, Albert-Marie, and Jean-Claude Haelewycj, <em>Introduction à la littérature religieuse judéo-hellénistique</em>. Pseudépigraphes de l’Ancien Testament. Turnhout: Brepols, 2000.</p>",
+      "line_text": "Denis, Albert-Marie, and Jean-Claude Haelewycj, Introduction à la littérature religieuse judéo-hellénistique. Pseudépigraphes de l’Ancien Testament. Turnhout: Brepols, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Destro, Adriana, and Mauro Pesce. “The Ascension of Isaiah and the Johannist Constellation.” Pages 199–234 in <em>The Ascension of Isaiah. </em>SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Destro, Adriana, and Mauro Pesce. “The Ascension of Isaiah and the Johannist Constellation.” Pages 199–234 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Díez Macho, Alejandro, ed. <em>Apócrifos del Antiguo Testamento</em> <em>I. </em>Madrid: Ediciones Cristiandad, 1984 (pp. 258–65).</p>",
+      "line_text": "Díez Macho, Alejandro, ed. Apócrifos del Antiguo Testamento I. Madrid: Ediciones Cristiandad, 1984 (pp. 258–65).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Dochhorn, Jan. “The Trial of Isaiah: On Alleged Jewish Backgrounds of the Ascension of Isaiah.” Pages 85–96 in <em>Beyond Canon: Early Christianity and the Ethiopic Textual Tradition. </em>Edited by Meron T. Gebreananaye, Logan Williams, and Francis Watson. Edinburgh: T&amp;T Clark, 2021.</p>",
+      "line_text": "Dochhorn, Jan. “The Trial of Isaiah: On Alleged Jewish Backgrounds of the Ascension of Isaiah.” Pages 85–96 in Beyond Canon: Early Christianity and the Ethiopic Textual Tradition. Edited by Meron T. Gebreananaye, Logan Williams, and Francis Watson. Edinburgh: T&amp;T Clark, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “‘World’ (ዓለም) in the ‘Ascension of Isaiah.’” <em>Ephemerides theologicae Lovanienses </em>94/2 (2018): 241–56.</p>",
+      "line_text": "__________. “‘World’ (ዓለም) in the ‘Ascension of Isaiah.’” Ephemerides theologicae Lovanienses 94/2 (2018): 241–56.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Die Ascensio Isaiae und das Jesajabuch.” Pages 359–72 in <em>Transmission and Interpretation of the Book of Isaiah in the Context of Intra- and Interreligious Debates. </em>Edited by Florian Wilk and Peter Gemeinhardt. BETL 280. Leuven: Peeters, 2016.</p>",
+      "line_text": "__________. “Die Ascensio Isaiae und das Jesajabuch.” Pages 359–72 in Transmission and Interpretation of the Book of Isaiah in the Context of Intra- and Interreligious Debates. Edited by Florian Wilk and Peter Gemeinhardt. BETL 280. Leuven: Peeters, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Beliar als Endtyrann in der Ascensio Isaiae: Ein Beitrag zur Eschatologie und Satanologie des frühen Christentums sowie zur Erforschung de Apokalypse des Johannes.” Pages 293–315 in <em>Die Johannesapokalypse: Kontexte</em><em>—</em><em>Konzepte</em><em>—</em><em>Rezeption. </em>Edited by Jörg Frey, James A. Kelhoffer and Franz Tóth. WUNT 287. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "__________. “Beliar als Endtyrann in der Ascensio Isaiae: Ein Beitrag zur Eschatologie und Satanologie des frühen Christentums sowie zur Erforschung de Apokalypse des Johannes.” Pages 293–315 in Die Johannesapokalypse: Kontexte—Konzepte—Rezeption. Edited by Jörg Frey, James A. Kelhoffer and Franz Tóth. WUNT 287. Tübingen: Mohr Siebeck, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Die Ascensio Isaiae.” Pages 1–48 in <em>Einführung zu den Jüdischen Schriften aus hellenistisch-römischer Zeit. Unterweisung in erz</em><em>ä</em><em>hlender Form (J</em><em>üdischer Schriften aus hellenistisch-römischer Zeit </em>6.1.2. Edited by Gerbern S. Oegema. Güttersloh: Gütersloher, 2005.</p>",
+      "line_text": "__________. “Die Ascensio Isaiae.” Pages 1–48 in Einführung zu den Jüdischen Schriften aus hellenistisch-römischer Zeit. Unterweisung in erzählender Form (Jüdischer Schriften aus hellenistisch-römischer Zeit 6.1.2. Edited by Gerbern S. Oegema. Güttersloh: Gütersloher, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Erbetta, Mario. <em>Gli Apocrifi del Nuovo Testamento III. Lettere e apocalissi: Versione e commento. </em>Mariotti: Torini, 1969 (pp. 176–208).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento III. Lettere e apocalissi: Versione e commento. Mariotti: Torini, 1969 (pp. 176–208).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Ascensione di Isaia IV 3 è la testimonianza più antica del martirio di Pietro?” <em>ED </em>19 (1966): 427–36.</p>",
+      "line_text": "__________. “Ascensione di Isaia IV 3 è la testimonianza più antica del martirio di Pietro?” ED 19 (1966): 427–36.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Farrar, Thomas J. “The Intimate and Ultimate Adversary: Satanology in Early Second-Century Christian Literature.” <em>JECS </em>26 (2018): 517–46.</p>",
+      "line_text": "Farrar, Thomas J. “The Intimate and Ultimate Adversary: Satanology in Early Second-Century Christian Literature.” JECS 26 (2018): 517–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Flusser, David. “The Apocryphal Book of <em>Ascensio Isaiae</em> and the Dead Sea sect.” <em>IEJ</em> 3 (1953): 34–47.</p>",
+      "line_text": "Flusser, David. “The Apocryphal Book of Ascensio Isaiae and the Dead Sea sect.” IEJ 3 (1953): 34–47.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"><a href=\"https://www.ancientjewreview.com/read/2021/11/19/the-ascension-of-isaiah-some-thoughts\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Frankfurter, David. “The Ascension of Isaiah: Some Thoughts.” <em>Ancient Jew Review</em>. Posted 21 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/19/the-ascension-of-isaiah-some-thoughts.</p>",
+      "line_text": "Frankfurter, David. “The Ascension of Isaiah: Some Thoughts.” Ancient Jew Review. Posted 21 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/19/the-ascension-of-isaiah-some-thoughts.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.ancientjewreview.com/read/2021/11/19/the-ascension-of-isaiah-some-thoughts"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Beyond ‘Jewish Christianity’: Continuing Religious Sub-Cultures of the Second and Third Centuries and Their Documents.” Pages 131–43 in <em>The Ways That Never Parted: Jews and Christians in Late Antiquity and the Early Middle Ages. </em>Edited by Adam H. Becker and Annette Yoshiko Reed. Tübingen: Mohr Siebeck, 2003.</p>",
+      "line_text": "__________. “Beyond ‘Jewish Christianity’: Continuing Religious Sub-Cultures of the Second and Third Centuries and Their Documents.” Pages 131–43 in The Ways That Never Parted: Jews and Christians in Late Antiquity and the Early Middle Ages. Edited by Adam H. Becker and Annette Yoshiko Reed. Tübingen: Mohr Siebeck, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Legacy of Jewish Apocalypses in Early Christianity: Regional Trajectories.” Pages 129–200 in <em>The Jewish Apocalyptic Heritage in Early Christianity</em>. Edited by James C. VanderKam and William Adler. CRINT 3.4. Minneapolis: Fortress, 1996.</p>",
+      "line_text": "__________. “The Legacy of Jewish Apocalypses in Early Christianity: Regional Trajectories.” Pages 129–200 in The Jewish Apocalyptic Heritage in Early Christianity. Edited by James C. VanderKam and William Adler. CRINT 3.4. Minneapolis: Fortress, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.ancientjewreview.com/read/2021/11/10/special-delivery-the-hidden-birth-of-jesus-in-the-ascension-of-isaiah-11\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gathergood, Emily. “Special Delivery: The Hidden Birth of Jesus in Ascension of Isaiah 11.” <em>Ancient Jew Review</em>. Posted 16 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/10/special-delivery-the-hidden-birth-of-jesus-in-the-ascension-of-isaiah-11.</p>",
+      "line_text": "Gathergood, Emily. “Special Delivery: The Hidden Birth of Jesus in Ascension of Isaiah 11.” Ancient Jew Review. Posted 16 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/10/special-delivery-the-hidden-birth-of-jesus-in-the-ascension-of-isaiah-11.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.ancientjewreview.com/read/2021/11/10/special-delivery-the-hidden-birth-of-jesus-in-the-ascension-of-isaiah-11"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Gieschen, Charles A. “The Ascension of Isaiah.” Pages 229–44 in <em>Angelomorphic Christology: Antecedents and Early Evidence</em>. AGJU 42. Leiden and Boston: Brill, 1998.</p>",
+      "line_text": "Gieschen, Charles A. “The Ascension of Isaiah.” Pages 229–44 in Angelomorphic Christology: Antecedents and Early Evidence. AGJU 42. Leiden and Boston: Brill, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Glancy, Jennifer A. “Mary in Childbirth.” Pages 81–136 in <em>Corporal Knowledge: Early Christian Bodies.</em> New York/Oxford: Oxford University Press, 2010.</p>",
+      "line_text": "Glancy, Jennifer A. “Mary in Childbirth.” Pages 81–136 in Corporal Knowledge: Early Christian Bodies. New York/Oxford: Oxford University Press, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Gnoli, “Questioni comparative sull’<em>Ascensione di Isaia</em>: la tradizione iranica.” Pages 117–28 in <em>Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia</em>.<em> </em>Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Maura Pesce. Brescia: Paideia, 1983.</p>",
+      "line_text": "Gnoli, “Questioni comparative sull’Ascensione di Isaia: la tradizione iranica.” Pages 117–28 in Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Maura Pesce. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Gooder, Paula R. <em>Only The Third Heaven: 2 Corinthians 12:1</em><em>–</em><em>10 and Heavenly Ascent. </em>LNTS. London: T. &amp; T. Clark, 2006 (pp. 104<em>–</em>20).</p>",
+      "line_text": "Gooder, Paula R. Only The Third Heaven: 2 Corinthians 12:1–10 and Heavenly Ascent. LNTS. London: T. &amp; T. Clark, 2006 (pp. 104–20).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Hall, Robert G. “Isaiah, Martyrdom and Ascension of.” <em>Encyclopedia of the Bible and Its Reception </em>13<em>.</em> Edited by Dale C. Allison, <em>et al.</em> Berlin, Boston: De Gruyter, 2016.</p>",
+      "line_text": "Hall, Robert G. “Isaiah, Martyrdom and Ascension of.” Encyclopedia of the Bible and Its Reception 13. Edited by Dale C. Allison, et al. Berlin, Boston: De Gruyter, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Subtleties of Translation and Ancient Interpretation: Cues for Understanding the Ascension of Isaiah.” Pages 145–74 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "__________. “Subtleties of Translation and Ancient Interpretation: Cues for Understanding the Ascension of Isaiah.” Pages 145–74 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Disjunction of Heavenly and Earthly Times in the <em>Ascension of Isaiah</em>.” <em>JSJ </em>35 (2004): 17–26.</p>",
+      "line_text": "__________. “The Disjunction of Heavenly and Earthly Times in the Ascension of Isaiah.” JSJ 35 (2004): 17–26.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Astonishment in the Firmament: The Worship of Jesus and Soteriology in Ignatius and the <em>Ascension of Isaiah.</em>” Pages 148–55 in <em>The Jewish Roots of Christological Monotheism. </em>Edited by Carey C. Newman et al. Leiden: Brill, 1999.</p>",
+      "line_text": "__________. “Astonishment in the Firmament: The Worship of Jesus and Soteriology in Ignatius and the Ascension of Isaiah.” Pages 148–55 in The Jewish Roots of Christological Monotheism. Edited by Carey C. Newman et al. Leiden: Brill, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hall, R. G. “Isaiah’s Ascent to See the Beloved: An Ancient Jewish Source for the <em>Ascension of Isaiah</em>?” <em>JBL</em> 113 (1994): 463–84.</p>",
+      "line_text": "Hall, R. G. “Isaiah’s Ascent to See the Beloved: An Ancient Jewish Source for the Ascension of Isaiah?” JBL 113 (1994): 463–84.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Ascension of Isaiah: Community Situation, Date and Place in Early Christianity.” <em>JBL</em> 109 (1990): 289–306.</p>",
+      "line_text": "__________. “The Ascension of Isaiah: Community Situation, Date and Place in Early Christianity.” JBL 109 (1990): 289–306.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hammershaimb, Erling. “Das Martyrium Jesajas.” <em>JSHRZ</em> 2 (1973): 15–34.</p>",
+      "line_text": "Hammershaimb, Erling. “Das Martyrium Jesajas.” JSHRZ 2 (1973): 15–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Himmelfarb, Martha. <em>Ascent to Heaven in Jewish and Christian Apocalypses</em>. New York and Oxford: Oxford University Press, 1993.</p>",
+      "line_text": "Himmelfarb, Martha. Ascent to Heaven in Jewish and Christian Apocalypses. New York and Oxford: Oxford University Press, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Experience of the Visionary and Genre in the <em>Ascension of Isaiah</em> 6–11 and the <em>Apocalypse of Paul.</em>” Pages 97–111 in <em>Early Christian Apocalypticism: Genre and Social Setting</em>. Edited by Adele Yarbro Collins. Semeia 36. Atlanta: Scholars Press, 1986.</p>",
+      "line_text": "__________. “The Experience of the Visionary and Genre in the Ascension of Isaiah 6–11 and the Apocalypse of Paul.” Pages 97–111 in Early Christian Apocalypticism: Genre and Social Setting. Edited by Adele Yarbro Collins. Semeia 36. Atlanta: Scholars Press, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Hannah, Darrel D. “The Ascension of Isaiah and Docetic Christology.” <em>VC</em> 53 (1999): 165–96.</p>",
+      "line_text": "Hannah, Darrel D. “The Ascension of Isaiah and Docetic Christology.” VC 53 (1999): 165–96.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Isaiah’s Vision in the Ascension of Isaiah and the Early Church.” <em>JTS </em>50 (1999): 80–101.</p>",
+      "line_text": "__________. “Isaiah’s Vision in the Ascension of Isaiah and the Early Church.” JTS 50 (1999): 80–101.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Helmbold, Andrew K. “Gnostic Elements in the ‘Ascension of Isaiah.’” <em>NTS</em> 18 (1972): 222–27.</p>",
+      "line_text": "Helmbold, Andrew K. “Gnostic Elements in the ‘Ascension of Isaiah.’” NTS 18 (1972): 222–27.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.ancientjewreview.com/read/2021/11/3/what-does-the-ascension-of-isaiah-do\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Henning, Meghan. “What Does the Ascension of Isaiah Do?.” <em>Ancient Jew Review</em>. Posted 10 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/3/what-does-the-ascension-of-isaiah-do.</p>",
+      "line_text": "Henning, Meghan. “What Does the Ascension of Isaiah Do?.” Ancient Jew Review. Posted 10 November 2021. Online: https://www.ancientjewreview.com/read/2021/11/3/what-does-the-ascension-of-isaiah-do.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.ancientjewreview.com/read/2021/11/3/what-does-the-ascension-of-isaiah-do"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________, and Tobias Nicklas, “Questions of Self-Designation in the Ascension of Isaiah.” Pages 175–98 in <em>The Ascension of Isaiah. </em>SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "__________, and Tobias Nicklas, “Questions of Self-Designation in the Ascension of Isaiah.” Pages 175–98 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">van Henten, Jan Willem. “Early Jewish and Christian Martyrdom.” Pages 72–87 in <em>The Wiley Blackwell Companion to Christian Martyrdom</em>. Edited by Paul Middleton. Hoboken: Wiley, 2020.</p>",
+      "line_text": "van Henten, Jan Willem. “Early Jewish and Christian Martyrdom.” Pages 72–87 in The Wiley Blackwell Companion to Christian Martyrdom. Edited by Paul Middleton. Hoboken: Wiley, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">van Henten, Jan Willem, and Friedrich Avemarie. <em>Martyrdom and Noble Death: Selected Texts from Graeco-Roman, Jewish and Christian Antiquity.</em> London: Routledge, 2002.</p>",
+      "line_text": "van Henten, Jan Willem, and Friedrich Avemarie. Martyrdom and Noble Death: Selected Texts from Graeco-Roman, Jewish and Christian Antiquity. London: Routledge, 2002.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Heussi, Karl. “Die Ascensio Isaiae und ihr vermeintliches Zeugnis für ein römisches Martyrium des Apostels Petrus.” <em>WZ(J) </em>12 (1963): 269–74.</p>",
+      "line_text": "Heussi, Karl. “Die Ascensio Isaiae und ihr vermeintliches Zeugnis für ein römisches Martyrium des Apostels Petrus.” WZ(J) 12 (1963): 269–74.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Hogeterp, Albert L. A. “The Descent of Jesus Christ in the<em> Ascension of Isaiah</em>.” Pages 289–304 in <em>The Ascension of Isaiah. </em>SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Hogeterp, Albert L. A. “The Descent of Jesus Christ in the Ascension of Isaiah.” Pages 289–304 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Kalmin, Richard. “‘Manasseh Sawed Isaiah with a Saw of Wood’: An Ancient Legend in Jewish, Christian, Muslim, and Persian Sources.” Pages  29–52 in <em>Migrating Tales: The Talmud’s Narratives and Their Historical Context</em>. Berkeley: University of California Press, 2014.</p>",
+      "line_text": "Kalmin, Richard. “‘Manasseh Sawed Isaiah with a Saw of Wood’: An Ancient Legend in Jewish, Christian, Muslim, and Persian Sources.” Pages  29–52 in Migrating Tales: The Talmud’s Narratives and Their Historical Context. Berkeley: University of California Press, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Karmann, Thomas R. “Die Jungfrauengeburt in der Ascensio Isaiae und in anderen Texten des frühen Christentums.” Pages 347–86 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Karmann, Thomas R. “Die Jungfrauengeburt in der Ascensio Isaiae und in anderen Texten des frühen Christentums.” Pages 347–86 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Katz, E. “Das Martyrium Isaias.” <em>CV </em>11 (1968): 169–74.</p>",
+      "line_text": "Katz, E. “Das Martyrium Isaias.” CV 11 (1968): 169–74.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Kiel, Nikolai. “Die polymorphe Christologie und ihre soteriologischen Implikationen in der Ascensio Isaiae.” <em>EC </em>13/2 (2022): 163–87.</p>",
+      "line_text": "Kiel, Nikolai. “Die polymorphe Christologie und ihre soteriologischen Implikationen in der Ascensio Isaiae.” EC 13/2 (2022): 163–87.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Knight, Jonathan. <em>Disciples of the Beloved One: The Christology, Social Setting and Theological Context of the Ascension of Isaiah.</em> JSPSup 18. Sheffield: Sheffield Academic Press, 1996.</p>",
+      "line_text": "Knight, Jonathan. Disciples of the Beloved One: The Christology, Social Setting and Theological Context of the Ascension of Isaiah. JSPSup 18. Sheffield: Sheffield Academic Press, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Knight, Jonathan. “The ‘Community Setting’ of the Ascension of Isaiah: A New Analysis.” <em>JBL </em>141/4 (2022): 785–805.</p>",
+      "line_text": "Knight, Jonathan. “The ‘Community Setting’ of the Ascension of Isaiah: A New Analysis.” JBL 141/4 (2022): 785–805.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Descent into Hell: Its Origin and First Development.” <em>JTS </em>72 (2021): 155–91.</p>",
+      "line_text": "__________. “The Descent into Hell: Its Origin and First Development.” JTS 72 (2021): 155–91.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Portrayal of Evil in the <em>Ascension of Isaiah.</em>” Pages 299–320 in <em>Evil in Second Temple Judaism and Early Christianity</em>. WUNT II/417. Edited by Chris Keith and Loren T. Stuckenbruck. Tübingen: Mohr Siebeck, 2016.</p>",
+      "line_text": "__________. “The Portrayal of Evil in the Ascension of Isaiah.” Pages 299–320 in Evil in Second Temple Judaism and Early Christianity. WUNT II/417. Edited by Chris Keith and Loren T. Stuckenbruck. Tübingen: Mohr Siebeck, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Christology of the <em>Ascension of Isaiah</em>: Docetic or Polymorphic?” Pages 144–64 in <em>The Open Mind: Essays in Honour of Christopher Rowland</em>. Edited by Jonathan Knight and Keith Sullivan. LNTS. London and New York: T. &amp; T. Clark, 2015.</p>",
+      "line_text": "__________. “The Christology of the Ascension of Isaiah: Docetic or Polymorphic?” Pages 144–64 in The Open Mind: Essays in Honour of Christopher Rowland. Edited by Jonathan Knight and Keith Sullivan. LNTS. London and New York: T. &amp; T. Clark, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________.  “The Ascension of Isaiah: A New(er) Interpretation.” Pages 45–74 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "__________.  “The Ascension of Isaiah: A New(er) Interpretation.” Pages 45–74 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The <em>Ascension of Isaiah</em>: A New Theory of Composition.” <em>Cristianesimo nella storia </em>35 (2014): 33–75.</p>",
+      "line_text": "__________. “The Ascension of Isaiah: A New Theory of Composition.” Cristianesimo nella storia 35 (2014): 33–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Political Issue of the <em>Ascension of Isaiah</em>: A Response to Enrico Norelli.” <em>JSNT </em>35 (2013): 355–79.</p>",
+      "line_text": "__________. “The Political Issue of the Ascension of Isaiah: A Response to Enrico Norelli.” JSNT 35 (2013): 355–79.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Origin and Significance of the Angelomorphic Christology in the <em>Ascension of Isaiah</em>.” <em>JTS </em>63 (2012): 66–105.</p>",
+      "line_text": "__________. “The Origin and Significance of the Angelomorphic Christology in the Ascension of Isaiah.” JTS 63 (2012): 66–105.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Portrait of Mary in the Ascension of Isaiah.” Pages 91–105 in <em>Which Mary? The Marys of Early Christian Tradition. </em>Edited by F. Stanley Jones. Leiden: Brill, 2003.</p>",
+      "line_text": "__________. “The Portrait of Mary in the Ascension of Isaiah.” Pages 91–105 in Which Mary? The Marys of Early Christian Tradition. Edited by F. Stanley Jones. Leiden: Brill, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Mystical Understanding in the <em>Ascension of Isaiah</em>.” Pages 103–29 in <em>SBL Seminar Papers </em>136<em>. </em>Atlanta: Scholars Press, 2000.</p>",
+      "line_text": "__________. “The Mystical Understanding in the Ascension of Isaiah.” Pages 103–29 in SBL Seminar Papers 136. Atlanta: Scholars Press, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>The Ascension of Isaiah.</em> Guides to Apocrypha and Pseudepigrapha. Sheffield: Sheffield Academic Press, 1995.</p>",
+      "line_text": "__________. The Ascension of Isaiah. Guides to Apocrypha and Pseudepigrapha. Sheffield: Sheffield Academic Press, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kossova, A. “Osservazioni sulla tradizione paleosla-va della Visione di lsaia : coincidenze e divergenze con la tradizione testuale dell’Asœnsione di Isaia.” Pages 167–86 in <em>Atti del 8° Congresso internazionale di studi sull’alto medioevo. Spoleto 3–6 novembre 1981.</em> Spoleto 1983.</p>",
+      "line_text": "Kossova, A. “Osservazioni sulla tradizione paleosla-va della Visione di lsaia : coincidenze e divergenze con la tradizione testuale dell’Asœnsione di Isaia.” Pages 167–86 in Atti del 8° Congresso internazionale di studi sull’alto medioevo. Spoleto 3–6 novembre 1981. Spoleto 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Kraus, Thomas J. “The P.Amh.I 1 (Ascension of Isaiah): What a Manuscript Tells about a Text its World.” Pages 387–402 in <em>The Ascension of Isaiah. </em>SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Kraus, Thomas J. “The P.Amh.I 1 (Ascension of Isaiah): What a Manuscript Tells about a Text its World.” Pages 387–402 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Littmann, E. “Isaiah, Ascension of.” <em>JE </em>6 (1902): 642–43.</p>",
+      "line_text": "Littmann, E. “Isaiah, Ascension of.” JE 6 (1902): 642–43.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Martin, François. “Ascension d’Isaïe, chap. I. v. 8.” <em>OLZ </em>11 (1908): 220–22.</p>",
+      "line_text": "Martin, François. “Ascension d’Isaïe, chap. I. v. 8.” OLZ 11 (1908): 220–22.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Moss. Candida R. <em>The Other Christs: Imitating Jesus in Ancient Christian Ideologies of Martyrdom</em>. Oxford: Oxford University Press, 2010 (pp. 113–48).</p>",
+      "line_text": "Moss. Candida R. The Other Christs: Imitating Jesus in Ancient Christian Ideologies of Martyrdom. Oxford: Oxford University Press, 2010 (pp. 113–48).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Nicklas, Tobias. “Der Philipperbrief in der Hand der ‘Häretikern’: <em>Ascensio Isaiae </em>und <em>Evangelium Veritatis</em>.” Pages 327–47 in<em> Der Philipperbrief des Paulus in der hellenistisch-r</em><em>ö</em><em>mischen Welt. </em>Edited by Jörg Frey and Benjamin Schließer. WUNT 353. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "Nicklas, Tobias. “Der Philipperbrief in der Hand der ‘Häretikern’: Ascensio Isaiae und Evangelium Veritatis.” Pages 327–47 in Der Philipperbrief des Paulus in der hellenistisch-römischen Welt. Edited by Jörg Frey and Benjamin Schließer. WUNT 353. Tübingen: Mohr Siebeck, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Ascension of Isaiah.” Pages 810–11 in <em>The Encyclopedia of Ancient History II. </em>Edited by Roger S. Bagnall, et al. Oxford: Wiley-Blackwell, 2012.</p>",
+      "line_text": "__________. “Ascension of Isaiah.” Pages 810–11 in The Encyclopedia of Ancient History II. Edited by Roger S. Bagnall, et al. Oxford: Wiley-Blackwell, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Nicklas, Tobias, with Luigi Walt. “Anti-Urban Sentiments in Early Christianity? Revelation and the Ascension of Isaiah.” Pages 251–68 in <em>Early Christian Encounters with Town and Countryside: Essays on the Urban and Rural Worlds of Early Christianity. </em>Edited by Markus Tiwald and Jürgen K. Zangenberg. Göttingen: Vandenhoeck &amp; Ruprecht, 2021.</p>",
+      "line_text": "Nicklas, Tobias, with Luigi Walt. “Anti-Urban Sentiments in Early Christianity? Revelation and the Ascension of Isaiah.” Pages 251–68 in Early Christian Encounters with Town and Countryside: Essays on the Urban and Rural Worlds of Early Christianity. Edited by Markus Tiwald and Jürgen K. Zangenberg. Göttingen: Vandenhoeck &amp; Ruprecht, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Nordheim, Eckhard von. <em>Die Lehre der Alten I. Das Testament als Literaturgattung im Judentum der hellenistisch-römischen Zeit. </em>ALGHJ 13. Leiden: Brill, 1980.</p>",
+      "line_text": "Nordheim, Eckhard von. Die Lehre der Alten I. Das Testament als Literaturgattung im Judentum der hellenistisch-römischen Zeit. ALGHJ 13. Leiden: Brill, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Norelli, Enrico. <em>Ascension of Isaiah.</em> Hermeneia. Minneapolis: Fortress Press (in process).</p>",
+      "line_text": "Norelli, Enrico. Ascension of Isaiah. Hermeneia. Minneapolis: Fortress Press (in process).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Political Issue of the Ascension of Isaiah: Some Remarks on Jonathan Knight’s Thesis, and Some Methodological Problems.” Pages 267–79 in <em>Early Christian Voices in Texts, Traditions, and Symbols: Essays in Honor of François Bovon</em>. Edited by David H. Warren, Ann Graham Brock, and David W. Pao. Biblical Interpretation Series 66. Boston and Leiden: Brill, 2003.</p>",
+      "line_text": "__________. “The Political Issue of the Ascension of Isaiah: Some Remarks on Jonathan Knight’s Thesis, and Some Methodological Problems.” Pages 267–79 in Early Christian Voices in Texts, Traditions, and Symbols: Essays in Honor of François Bovon. Edited by David H. Warren, Ann Graham Brock, and David W. Pao. Biblical Interpretation Series 66. Boston and Leiden: Brill, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “L’‘Ascensione di Isaia’ dipende dalle lettere di Paolo? Una discussione con Richard Bauckham e Tobias Nicklas.” <em>Cristianesimo nella storia</em> 40/3 (2019): 487–543.</p>",
+      "line_text": "__________. “L’‘Ascensione di Isaia’ dipende dalle lettere di Paolo? Una discussione con Richard Bauckham e Tobias Nicklas.” Cristianesimo nella storia 40/3 (2019): 487–543.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “L’Ascension d’Esaïe est-elle vraiment un écrit unitaire? une discussion avec Richard Bauckham.” <em>Annali di storia dell’esegesi</em> 32 (2015): 11–37.</p>",
+      "line_text": "__________. “L’Ascension d’Esaïe est-elle vraiment un écrit unitaire? une discussion avec Richard Bauckham.” Annali di storia dell’esegesi 32 (2015): 11–37.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Modelli carismatici di Chiesa e loro tramonto nella Siria occidentale del II secolo: ciò chi ci insegnano l’‘Ascensione di Isaia’ e Ignazio di Antiochia.” Pages 31–52 in <em>Profeti e profezia: Figure profetiche nel cristianesimo del II secolo. </em>Edited by Anna Carfora and Enrico Cattaneo. Trapani: Il pozzo di Giacobbe, 2007.</p>",
+      "line_text": "__________. “Modelli carismatici di Chiesa e loro tramonto nella Siria occidentale del II secolo: ciò chi ci insegnano l’‘Ascensione di Isaia’ e Ignazio di Antiochia.” Pages 31–52 in Profeti e profezia: Figure profetiche nel cristianesimo del II secolo. Edited by Anna Carfora and Enrico Cattaneo. Trapani: Il pozzo di Giacobbe, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Political Issue of the Ascension of Isaiah: Some Remarks on Jonathan Knight’s Thesis, and Some Methodological Problems.” Pages 267–79 in <em>Early Christian Voices in Texts, Traditions, and Symbols: Essays in Honor of François Bovon</em>. Edited by David H. Warren, Ann Graham Brock, and David W. Pao. BibInt 66. Boston and Leiden: Brill, 2003.</p>",
+      "line_text": "__________. “The Political Issue of the Ascension of Isaiah: Some Remarks on Jonathan Knight’s Thesis, and Some Methodological Problems.” Pages 267–79 in Early Christian Voices in Texts, Traditions, and Symbols: Essays in Honor of François Bovon. Edited by David H. Warren, Ann Graham Brock, and David W. Pao. BibInt 66. Boston and Leiden: Brill, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Profetismo e profeti cristiani nella ‘Ascensione di Isaia’.” in: <em>Rivista di storia e letteratura religiosa</em> 35 (1999): 362–76.</p>",
+      "line_text": "__________. “Profetismo e profeti cristiani nella ‘Ascensione di Isaia’.” in: Rivista di storia e letteratura religiosa 35 (1999): 362–76.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Ascensio Isaiae: Commentarius.</em> CCSA 8. Turnhout: Brepols, 1995.</p>",
+      "line_text": "__________. Ascensio Isaiae: Commentarius. CCSA 8. Turnhout: Brepols, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>L’Ascensione di Isaia: Studi su un apocrifo al crocevia dei cristianesimi.</em> Origini NS 1. Bologna: Centro editoriale dehoniano, 1994.</p>",
+      "line_text": "__________. L’Ascensione di Isaia: Studi su un apocrifo al crocevia dei cristianesimi. Origini NS 1. Bologna: Centro editoriale dehoniano, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Studi in margine all’Ascensione di Isaia (Origini).</em> Genova, 1993.</p>",
+      "line_text": "__________. Studi in margine all’Ascensione di Isaia (Origini). Genova, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “L’Ascensione di Isaia nel Quadro del Profetismo Cristiano.” Pages 123–48 in <em>Il profetismo da Ges</em><em>ù</em><em> di Nazaret al Montanismo. Convegno di Studi Neotestamentari 4 1991, Perugia. </em>Edited by Romano Penna. Ricerche storico-bibliche 5. Bologna: Associazione Biblica Italiana, 1993.</p>",
+      "line_text": "__________. “L’Ascensione di Isaia nel Quadro del Profetismo Cristiano.” Pages 123–48 in Il profetismo da Gesù di Nazaret al Montanismo. Convegno di Studi Neotestamentari 4 1991, Perugia. Edited by Romano Penna. Ricerche storico-bibliche 5. Bologna: Associazione Biblica Italiana, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Interprétations nouvelles de l’Ascension d’Isaïe.” <em>Revue des REAug</em> 37 (1991): 11–22.</p>",
+      "line_text": "__________. “Interprétations nouvelles de l’Ascension d’Isaïe.” Revue des REAug 37 (1991): 11–22.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Sulla pneumatologia dell’<em>Ascensione di Isaia.</em>” Pages 211–76 in <em>Isaia, il Diletto e la chiesa: Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia.</em> <em>Atti del convegno di Roma, 9–10 aprile 1981</em>. TRSR 20. Brescia: Paideia, 1983.</p>",
+      "line_text": "__________. “Sulla pneumatologia dell’Ascensione di Isaia.” Pages 211–76 in Isaia, il Diletto e la chiesa: Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “La resurrezione de Gesù nell’Ascensione di Isaia.” <em>CrSt </em>1 (1980): 315–66.</p>",
+      "line_text": "__________. “La resurrezione de Gesù nell’Ascensione di Isaia.” CrSt 1 (1980): 315–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Parkhouse, Sarah. “The Canon of the Pistis Sophia Books 1–3.” <em>JTS </em>73/2 (2022): 649–75. (Argues for the author’s knowledge and use of <em>Asc. Isa.</em>)</p>",
+      "line_text": "Parkhouse, Sarah. “The Canon of the Pistis Sophia Books 1–3.” JTS 73/2 (2022): 649–75. (Argues for the author’s knowledge and use of Asc. Isa.)",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Perrone, Lorenzo. “Note critiche (e ‘autocritiche’) sull’edizione del testo etioptico dell’<em>Ascensione di Isaia.</em>” Pages 77–93 in <em>Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia.</em> Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Ed. Mauro Pesce. Brescia: Paideia, 1983.</p>",
+      "line_text": "Perrone, Lorenzo. “Note critiche (e ‘autocritiche’) sull’edizione del testo etioptico dell’Ascensione di Isaia.” Pages 77–93 in Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Ed. Mauro Pesce. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pesce, Mauro, ed. <em>Isaia, il Diletto e la chiesa: Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia</em>.<em> Atti del convegno di Roma, 9–10 aprile 1981</em>. TRSR 20. Brescia: Paideia, 1983.</p>",
+      "line_text": "Pesce, Mauro, ed. Isaia, il Diletto e la chiesa: Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Pesce, Mauro, “Isaia disse queste cose perché vide la sua gloria e parlò di lui (Gv 12,41): Il <em>Vangelo di Giovanni </em>et l’<em>Ascensione di Isaia</em>.” <em>StPatr </em>50 (2003): 649–66.</p>",
+      "line_text": "Pesce, Mauro, “Isaia disse queste cose perché vide la sua gloria e parlò di lui (Gv 12,41): Il Vangelo di Giovanni et l’Ascensione di Isaia.” StPatr 50 (2003): 649–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Presupposti per l’utilizzazione storica dell’Ascensione di Isaia.” Pages 13–76 in <em>Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia.</em> Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Brescia: Paideia, 1983.</p>",
+      "line_text": "__________. “Presupposti per l’utilizzazione storica dell’Ascensione di Isaia.” Pages 13–76 in Isaia, il Diletto e la Chiesa: Visione ed esegesi profetica Cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Philoneko, M. “Le Martyre d’Ésaïe et l’histoire de la secte de Qoumrân.” Pages 1–10 in <em>Pseudépigraphes de l’Ancien Testament et manuscrits de la mer Morte I</em>. Edited by M. Philonenki, J.-C. Picard, J.-M. Rosenstiehl, F. Schmidt. Paris 1967.</p>",
+      "line_text": "Philoneko, M. “Le Martyre d’Ésaïe et l’histoire de la secte de Qoumrân.” Pages 1–10 in Pseudépigraphes de l’Ancien Testament et manuscrits de la mer Morte I. Edited by M. Philonenki, J.-C. Picard, J.-M. Rosenstiehl, F. Schmidt. Paris 1967.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Piovanelli, Pierluigi. “‘A Door into an Alien World’: Reading the Ascension of Isaiah as a Jewish Mystical Text.” Pages 119–44 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Piovanelli, Pierluigi. “‘A Door into an Alien World’: Reading the Ascension of Isaiah as a Jewish Mystical Text.” Pages 119–44 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Les aventures des apocryphes en Éthiopie.” <em>Apocrypha</em> 4 (1993): 197–224, at 199–202 (ET: “The Adventures of the Apocrypha in Ethiopia.” Pages 87–109 in <em>Languages and Cultures of Eastern Christianity: Ethiopian.</em> Edited by Alessandro Bausi. London: Routledge, 2012.</p>",
+      "line_text": "__________. “Les aventures des apocryphes en Éthiopie.” Apocrypha 4 (1993): 197–224, at 199–202 (ET: “The Adventures of the Apocrypha in Ethiopia.” Pages 87–109 in Languages and Cultures of Eastern Christianity: Ethiopian. Edited by Alessandro Bausi. London: Routledge, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Peterson, Erik. <em>Fr</em><em>ü</em><em>hkirke, Judentum und Gnosis. Studien und Untersuchungen. </em>Rome: Herder, 1959 (pp. 88ff.).</p>",
+      "line_text": "Peterson, Erik. Frühkirke, Judentum und Gnosis. Studien und Untersuchungen. Rome: Herder, 1959 (pp. 88ff.).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Playoust, Catherine Anne. “Lifted Up From the Earth: The Ascension of Jesus and the Heavenly Ascents of Early Christians.” Th.D. diss., Harvard Divinity School, 2006.</p>",
+      "line_text": "Playoust, Catherine Anne. “Lifted Up From the Earth: The Ascension of Jesus and the Heavenly Ascents of Early Christians.” Th.D. diss., Harvard Divinity School, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Written in the Book that I Prophesied Publicly: The Discernment of Apocalyptic Wisdom According to the Ascension of Isaiah.” <em>Society of Biblical Literature: Seminar Papers</em>, 2006.</p>",
+      "line_text": "__________. “Written in the Book that I Prophesied Publicly: The Discernment of Apocalyptic Wisdom According to the Ascension of Isaiah.” Society of Biblical Literature: Seminar Papers, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Renoux, Charles. “Note sur L’<em>ascension d’Isa</em><em>ï</em><em>e</em> dans la tradition liturgique hiérosolymitaine.” <em>Cristianesimo nella storia </em>2 (1981): 367–70.</p>",
+      "line_text": "Renoux, Charles. “Note sur L’ascension d’Isaïe dans la tradition liturgique hiérosolymitaine.” Cristianesimo nella storia 2 (1981): 367–70.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Rist. M. “Isaiah, Ascension of.” Pages 744–46 in <em>Interpreter’s Dictionary of the Bible II</em>. Edited by George A. Buttrick. New York: Abingdon, 1962.</p>",
+      "line_text": "Rist. M. “Isaiah, Ascension of.” Pages 744–46 in Interpreter’s Dictionary of the Bible II. Edited by George A. Buttrick. New York: Abingdon, 1962.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Roig Lanzillotta, Lautaro. “The Cosmology of the Ascension of Isaiah: Analysis and Re-Assessment of the Text’s Cosmological Framework.” Pages 259–88 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "Roig Lanzillotta, Lautaro. “The Cosmology of the Ascension of Isaiah: Analysis and Re-Assessment of the Text’s Cosmological Framework.” Pages 259–88 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Rowland, Christopher. “The Ascension of Isaiah and the Road to Gnosticism.” Pages 189–201 in <em>The Mystery of God: Early Jewish Mysticism and the New Testament</em>. Edited by Christopher Rowland and Christopher R. A. Morray-Jones. CRINT 12. Leiden: Brill, 2009.</p>",
+      "line_text": "Rowland, Christopher. “The Ascension of Isaiah and the Road to Gnosticism.” Pages 189–201 in The Mystery of God: Early Jewish Mysticism and the New Testament. Edited by Christopher Rowland and Christopher R. A. Morray-Jones. CRINT 12. Leiden: Brill, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Russell, James R. “The <em>Ascensio Isaiae </em>and Iran.” Pages 63–71 in <em>Irano-Judaica III: Studies Relating to Jewish Contacts with Persian Culture Throughout the Ages. </em>Edited by Shaul Shaked and Amnon Netzer. Jerusalem: Ben Zvi Institute, 1994.</p>",
+      "line_text": "Russell, James R. “The Ascensio Isaiae and Iran.” Pages 63–71 in Irano-Judaica III: Studies Relating to Jewish Contacts with Persian Culture Throughout the Ages. Edited by Shaul Shaked and Amnon Netzer. Jerusalem: Ben Zvi Institute, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Segal, Alan F. “Heavenly Ascent in Hellenistic Judaism, Early Christianity, and Their Environment.” <em>ANRW </em>23.2 (1980): 1333–94.</p>",
+      "line_text": "Segal, Alan F. “Heavenly Ascent in Hellenistic Judaism, Early Christianity, and Their Environment.” ANRW 23.2 (1980): 1333–94.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Simonetti, Manilo. “Note sulla cristologia dell’Ascensione di Isaia.’” Pages 207–30 in <em>Isaia, il Diletto e la Chiesa. Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia.</em> Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.</p>",
+      "line_text": "Simonetti, Manilo. “Note sulla cristologia dell’Ascensione di Isaia.’” Pages 207–30 in Isaia, il Diletto e la Chiesa. Visione ed esegesi profetica cristiano-primitiva nell’Ascensione di Isaia. Atti del convegno di Roma, 9–10 aprile 1981. TRSR 20. Edited by Mauro Pesce. Brescia: Paideia, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Souza Nogueira, Paulo Augusto de. “Celestial Worship and Ecstatic-Visionary Experience.” <em>JSNT </em>25/2 (2002): 165–84.</p>",
+      "line_text": "Souza Nogueira, Paulo Augusto de. “Celestial Worship and Ecstatic-Visionary Experience.” JSNT 25/2 (2002): 165–84.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Stone, Michael E. “Isaiah, Martyrdom of.” Pages 71–72 in <em>Encyclopaedia Judaica</em> 9<em>. </em>Jerusalem: Keter, 1972.</p>",
+      "line_text": "Stone, Michael E. “Isaiah, Martyrdom of.” Pages 71–72 in Encyclopaedia Judaica 9. Jerusalem: Keter, 1972.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Stuckenbruck, Loren T. “The Holy Spirit in the <em>Ascension of Isaiah</em>.” Pages 308–20 in <em>The Holy Spirit and Christian origins: Essays in Honor of James D. G. Dunn</em>. Grand Rapids: Eerdmans, 2004.</p>",
+      "line_text": "Stuckenbruck, Loren T. “The Holy Spirit in the Ascension of Isaiah.” Pages 308–20 in The Holy Spirit and Christian origins: Essays in Honor of James D. G. Dunn. Grand Rapids: Eerdmans, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Worship and Monotheism in the <em>Ascension of Isaiah.” </em>Pages 70–89 in <em>The Jewish Roots of Christological Monotheism: Papers from the St. Andrews Conference on the Historical Origins of the Worship of Jesus. </em>JSJSup 63. Edited by Carey C. Newman <em>et al</em>. Leiden: Brill, 1999.</p>",
+      "line_text": "__________. “Worship and Monotheism in the Ascension of Isaiah.” Pages 70–89 in The Jewish Roots of Christological Monotheism: Papers from the St. Andrews Conference on the Historical Origins of the Worship of Jesus. JSJSup 63. Edited by Carey C. Newman et al. Leiden: Brill, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Ulmer, Rivka. “Apocalypticism in the Homiletic Text of Pesiqta Rabbati: Catastrophic Events at the End of Time.” <em>JSJ </em>50 (2019): 101–39.</p>",
+      "line_text": "Ulmer, Rivka. “Apocalypticism in the Homiletic Text of Pesiqta Rabbati: Catastrophic Events at the End of Time.” JSJ 50 (2019): 101–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Vaillant, A. “Un apocryphe pseudo-bogomile: la Vision d’Isaïe.” <em>Revue des Études Slaves</em> 42 (1963): 109–21.</p>",
+      "line_text": "Vaillant, A. “Un apocryphe pseudo-bogomile: la Vision d’Isaïe.” Revue des Études Slaves 42 (1963): 109–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">VanderKam, James C. “The Ascension of Isaiah.” Pages 221–37 in <em>R. H. Charles: A Biography</em>. Oxford: Oxford University Press, 2023.</p>",
+      "line_text": "VanderKam, James C. “The Ascension of Isaiah.” Pages 221–37 in R. H. Charles: A Biography. Oxford: Oxford University Press, 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Vegas Montaner, Luis. “La <em>Leyenda Griega </em>sobre el martirio de Isaias.” <em>Sefarad </em>52 (1992): 261–67.</p>",
+      "line_text": "Vegas Montaner, Luis. “La Leyenda Griega sobre el martirio de Isaias.” Sefarad 52 (1992): 261–67.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Verheyden, Joseph. “All Mysteries Revealed? On the Interplay between Hiding and Revealing and the Dangers of Heavenly Journeys according to the Ascension of Isaiah.” Pages 70–87 in <em>Apocryphal and Esoteric Sources in the Development of Christianity and Judaism: The Eastern Mediterranean, the Near East, and Beyond</em>. Edited by Igor Dorfmann-Lazarev. Texts and Studies in Eastern Christianity 21. Leiden and Boston: Brill, 2021.</p>",
+      "line_text": "Verheyden, Joseph. “All Mysteries Revealed? On the Interplay between Hiding and Revealing and the Dangers of Heavenly Journeys according to the Ascension of Isaiah.” Pages 70–87 in Apocryphal and Esoteric Sources in the Development of Christianity and Judaism: The Eastern Mediterranean, the Near East, and Beyond. Edited by Igor Dorfmann-Lazarev. Texts and Studies in Eastern Christianity 21. Leiden and Boston: Brill, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “The Greek Legend of the Ascension of Isaiah.” Pages 671–700 in <em>Philomathestatos: Studies in Greek and Byzantine Texts Presented to Jacques Noret for his Sixty-Fifth Birthday. </em>Orientalia Lovaniensia Analecta 137. Edited by Bart Janssens <em>et al.</em> Leuven: Peeters, 1989.</p>",
+      "line_text": "__________. “The Greek Legend of the Ascension of Isaiah.” Pages 671–700 in Philomathestatos: Studies in Greek and Byzantine Texts Presented to Jacques Noret for his Sixty-Fifth Birthday. Orientalia Lovaniensia Analecta 137. Edited by Bart Janssens et al. Leuven: Peeters, 1989.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “Pessimism in All Its Glory: The Ascension of Isaiah on the Church in the Last Days.” Pages 305–46 in <em>The Ascension of Isaiah.</em> SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.</p>",
+      "line_text": "__________. “Pessimism in All Its Glory: The Ascension of Isaiah on the Church in the Last Days.” Pages 305–46 in The Ascension of Isaiah. SECA 11. Edited by Jan N. Bremmer, Thomas R. Karmann, and Tobias Nicklas. Leuven: Peeters, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">__________. “L’Ascension d’Isaïe et l’Évangile de Matthieu: Examen de AI 3, 13–18.” Pages 247–74 in <em>The New Testament in Early Christianity: La réception des écrits néotestamentaires dans le christianisme primitif.</em> Edited by Jean-Marie Sevrin. Leuven: Leuven University Press, 1989.</p>",
+      "line_text": "__________. “L’Ascension d’Isaïe et l’Évangile de Matthieu: Examen de AI 3, 13–18.” Pages 247–74 in The New Testament in Early Christianity: La réception des écrits néotestamentaires dans le christianisme primitif. Edited by Jean-Marie Sevrin. Leuven: Leuven University Press, 1989.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\"> __________. <em>Ascensio Isaiae. Inleiding en studie von AI 4,13 en context. </em>Leuven: 1982.</p>",
+      "line_text": " __________. Ascensio Isaiae. Inleiding en studie von AI 4,13 en context. Leuven: 1982.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Vegas Montaner, L. “La <em>Leyenda griega </em>sobre el martirio de Isaías.” <em>Sefarad </em>52 (1992): 261–68.</p>",
+      "line_text": "Vegas Montaner, L. “La Leyenda griega sobre el martirio de Isaías.” Sefarad 52 (1992): 261–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Vinzent, Markus. “Give and Take amongst Second Century Authors: The <em>Ascension of Isaiah</em>, the <em>Epistle of the Apostles</em> and Marcion of Sinope.” <em>StPatr</em> 50 (2010): 105–29.</p>",
+      "line_text": "Vinzent, Markus. “Give and Take amongst Second Century Authors: The Ascension of Isaiah, the Epistle of the Apostles and Marcion of Sinope.” StPatr 50 (2010): 105–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Wandrey, Irina. “Himmelfahrt und Martyrium des Jesaja.” Pages 1754f. in <em>Religion in Geschichte und Gegenwart III</em>. 4th ed. Tübingen: Mohr Siebeck, 2000.</p>",
+      "line_text": "Wandrey, Irina. “Himmelfahrt und Martyrium des Jesaja.” Pages 1754f. in Religion in Geschichte und Gegenwart III. 4th ed. Tübingen: Mohr Siebeck, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Yarbro Collins, Adela. <em>Cosmology and Eschatology in Jewish and Christian Apocalypticism. </em>JSJSup 50. Leiden: Brill, 1996, 39–42.</p>",
+      "line_text": "Yarbro Collins, Adela. Cosmology and Eschatology in Jewish and Christian Apocalypticism. JSJSup 50. Leiden: Brill, 1996, 39–42.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Zsengellér, József. “Was He A Bad Samaritan? <em>Ascensio Isaiae </em>and the Early Jewish and Early Christian Anti-Samaritan Polemic.” Pages 73–90 in <em>Samaritans</em><em>—</em><em>Past and Present: Current Studies. </em>Edited by Menachem Mor and Friedrich V. Reiterer. Berlin and New York: de Gruyter, 2010.</p>",
+      "line_text": "Zsengellér, József. “Was He A Bad Samaritan? Ascensio Isaiae and the Early Jewish and Early Christian Anti-Samaritan Polemic.” Pages 73–90 in Samaritans—Past and Present: Current Studies. Edited by Menachem Mor and Friedrich V. Reiterer. Berlin and New York: de Gruyter, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

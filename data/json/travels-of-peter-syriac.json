@@ -1,0 +1,65 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/travels-of-peter-syriac/",
+  "nasscal_toc_title": "Travels of Peter (Syriac)",
+  "filename": "travels-of-peter-syriac",
+  "latin_title": "Peregrinationes Petri (syriace)",
+  "abbrev": "Trav. Pet. Syr.",
+  "clavis_number": 699,
+  "category": "Apocryphal Acts",
+  "compiler": "J. Edward Walters, Rochester College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-biblotheque-nationale-de-france-syr-179/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Biblothèque nationale de France, syr. 179, fols. 56<sup>r</sup>–57<sup>r</sup> (1574/1575)</p>",
+      "line_text": "Paris, Biblothèque nationale de France, syr. 179, fols. 56r–57r (1574/1575)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-biblotheque-nationale-de-france-syr-179/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-537/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 537, fol. 1<sup>r</sup>–1<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 537, fol. 1r–1v (16th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-537/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch141909pari/page/130\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François. “Fragment Syriaque des ‘Voyages’ de Saint Pierre.” <em>Review de l’Orient Chrétien</em> 2nd series, 14 (1909): 131–34 (<em>editio princeps </em>based on Paris, BNF syr. 179, pp. 132–33).</p>",
+      "line_text": "Nau, François. “Fragment Syriaque des ‘Voyages’ de Saint Pierre.” Review de l’Orient Chrétien 2nd series, 14 (1909): 131–34 (editio princeps based on Paris, BNF syr. 179, pp. 132–33).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch141909pari/page/130"
+      ]
+    },
+    {
+      "line_html": "<p>Walters, J. Edward. “Travels of Peter: A new translation and introduction.” Pages 288–92 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures. </em>Edited by Tony Burke<em>. </em>Grand Rapids, MI: Eerdmans, 2020.</p>",
+      "line_text": "Walters, J. Edward. “Travels of Peter: A new translation and introduction.” Pages 288–92 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke. Grand Rapids, MI: Eerdmans, 2020.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch141909pari/page/130\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François. “Fragment Syriaque des ‘Voyages’ de Saint Pierre.” <em>Revue de l’Orient Chrétien</em> 2nd series, 14 (1909): 131–34 (translation, pp. 133–34).</p>",
+      "line_text": "Nau, François. “Fragment Syriaque des ‘Voyages’ de Saint Pierre.” Revue de l’Orient Chrétien 2nd series, 14 (1909): 131–34 (translation, pp. 133–34).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch141909pari/page/130"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-lentulus/",
+  "nasscal_toc_title": "Epistle of Lentulus",
+  "filename": "epistle-of-lentulus",
+  "latin_title": "Epistula Lentuli",
+  "abbrev": " Ep. Lent.",
+  "alt_titles": [
+    "Letter of Lentulus"
+  ],
+  "clavis_number": 507,
+  "category": "Epistles",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Tayec‘i, E. <em>Ankanon girk‘ nor ktakaranac‘ </em>(Libri spurii Noui Testamenti). 2 vols. Venice, 1898 (vol. 2, pp. 381–82)<em>.</em></p>",
+      "line_text": "Tayec‘i, E. Ankanon girk‘ nor ktakaranac‘ (Libri spurii Noui Testamenti). 2 vols. Venice, 1898 (vol. 2, pp. 381–82).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscripts and incunabula listed in von Dobschütz, <em>Christusbilder</em>, 310.</p>",
+      "line_text": "Manuscripts and incunabula listed in von Dobschütz, Christusbilder, 310.",
+      "language": "French",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscripts and incunabula listed in von Dobschütz, <em>Christusbilder</em>, 310.</p>",
+      "line_text": "Manuscripts and incunabula listed in von Dobschütz, Christusbilder, 310.",
+      "language": "German",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-jean-de-vernon-icp-ifeb-19/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque Jean de Vernon, ICP, IFEB 19, pp. 727–730 (18th cent.)</p>",
+      "line_text": "Paris, Bibliothèque Jean de Vernon, ICP, IFEB 19, pp. 727–730 (18th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-jean-de-vernon-icp-ifeb-19/"
+      ]
+    },
+    {
+      "line_html": "<p>Noret, Jacques. “Catalogues récents de manuscrits cinquième série (Fonds grecs).” <em>AnBoll</em> 91 (1973): 419–32 at 430.</p>",
+      "line_text": "Noret, Jacques. “Catalogues récents de manuscrits cinquième série (Fonds grecs).” AnBoll 91 (1973): 419–32 at 430.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Flower, Robin. “Epistola Lentuli.” Pages 25–27 in<em> Féil-Sgribhinn Eóin Mhic Néill: </em><em>Essays and Studies Presented to Professor Eoin MacNeill on the Occasion of his Seventieth Birthday, May 15th 1938</em>. Edited by John Ryan. Dublin: Three Candles, 1940.</p>",
+      "line_text": "Flower, Robin. “Epistola Lentuli.” Pages 25–27 in Féil-Sgribhinn Eóin Mhic Néill: Essays and Studies Presented to Professor Eoin MacNeill on the Occasion of his Seventieth Birthday, May 15th 1938. Edited by John Ryan. Dublin: Three Candles, 1940.",
+      "language": "Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>McNamara, Martin. <em>The Apocrypha in the Irish Church.</em> Dublin: Dublin Institute for Advanced Studies, 1975 (pp. 59–60).</p>",
+      "line_text": "McNamara, Martin. The Apocrypha in the Irish Church. Dublin: Dublin Institute for Advanced Studies, 1975 (pp. 59–60).",
+      "language": "Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscripts and incunabula listed in von Dobschütz, <em>Christusbilder</em>, 310.</p>",
+      "line_text": "Manuscripts and incunabula listed in von Dobschütz, Christusbilder, 310.",
+      "language": "Italian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscripts up to 1899 listed in von Dobschütz, <em>Christusbilder</em>, 308–10 with additional sources (and Manuscriptorum apocryphorum entries) below. Von Dobschütz divided the materials into seven recensions, with <em>d</em> considered the “received text” even though <em>a</em>, which lacks mention of Lentulus, is believed to be earlier.</p>",
+      "line_text": "Manuscripts up to 1899 listed in von Dobschütz, Christusbilder, 308–10 with additional sources (and Manuscriptorum apocryphorum entries) below. Von Dobschütz divided the materials into seven recensions, with d considered the “received text” even though a, which lacks mention of Lentulus, is believed to be earlier.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://digi.ub.uni-heidelberg.de/diglit/dobschuetz1899\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dobschütz, Ernst von. <em>Christusbilder: Untersuchungen zur christlichen Legende.</em> 3 vols. Leipzig: J.C. Hinrichs, 1899 (pp. 308–30).</p>",
+      "line_text": "Dobschütz, Ernst von. Christusbilder: Untersuchungen zur christlichen Legende. 3 vols. Leipzig: J.C. Hinrichs, 1899 (pp. 308–30).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digi.ub.uni-heidelberg.de/diglit/dobschuetz1899"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>a<sup>1</sup></strong> Vienna, Österreichische Nationalbibliothek, pal. 509, fol. 1 (15th cent.)</p>",
+      "line_text": "a1 Vienna, Österreichische Nationalbibliothek, pal. 509, fol. 1 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>a<sup>2</sup></strong> Vienna, Österreichische Nationalbibliothek, pal. 4781, fol. 24 (15th cent.)</p>",
+      "line_text": "a2 Vienna, Österreichische Nationalbibliothek, pal. 4781, fol. 24 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>a<sup>3</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 9022, fol. 370 (1411)</p>",
+      "line_text": "a3 Munich, Bayerische Staatsbibliothek, lat. 9022, fol. 370 (1411)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>a<sup>4</sup></strong> Brussels, Bibliothèque Royale Albert Ier, lat. 2659, fol. 111 (15th cent.)</p>",
+      "line_text": "a4 Brussels, Bibliothèque Royale Albert Ier, lat. 2659, fol. 111 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>a<sup>5</sup></strong> Zwettl, Zisterzienserstift, 11, fol. 182 (14th cent.)</p>",
+      "line_text": "a5 Zwettl, Zisterzienserstift, 11, fol. 182 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>a<sup>1v</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> Fideicomm. 7915, fol. 8 (15th cent.)</p>",
+      "line_text": "a1vVienna, Österreichische Nationalbibliothek, Fideicomm. 7915, fol. 8 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>1</sup></strong> London, British Library, Harl. 2729, fol. 1 (12th cent.)<a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-2729/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></p>",
+      "line_text": "b1 London, British Library, Harl. 2729, fol. 1 (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-2729/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>2</sup></strong> Leipzig, Leipziger Städtische Bibliotheken, Lat. 92, fol. 87 (1439)</p>",
+      "line_text": "b2 Leipzig, Leipziger Städtische Bibliotheken, Lat. 92, fol. 87 (1439)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>3</sup></strong> Paris, Bibliothèque nationale de France, lat. 3159, fol. 5 (15th cent.)</p>",
+      "line_text": "b3 Paris, Bibliothèque nationale de France, lat. 3159, fol. 5 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>4</sup></strong>Paris, Bibliothèque nationale de France, lat. 18089, fol. 28 (1467)</p>",
+      "line_text": "b4Paris, Bibliothèque nationale de France, lat. 18089, fol. 28 (1467)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>5</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 6722, fol. 170 (15th cent.)</p>",
+      "line_text": "b5Munich, Bayerische Staatsbibliothek, lat. 6722, fol. 170 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>6 </sup></strong>Florence, Biblioteca Medicea Laurenziana, Plutei 19.29, p. 235 (15th cent.)</p>",
+      "line_text": "b6 Florence, Biblioteca Medicea Laurenziana, Plutei 19.29, p. 235 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>7</sup></strong> Florence, Biblioteca Medicea Laurenziana, pal. 52, p. 188 (15th/17th cent.)</p>",
+      "line_text": "b7 Florence, Biblioteca Medicea Laurenziana, pal. 52, p. 188 (15th/17th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>b<sup>sm</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 15227, fol. 220 (1528)</p>",
+      "line_text": "bsmMunich, Bayerische Staatsbibliothek, lat. 15227, fol. 220 (1528)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>1</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 557(1), fol. 80 (1447)</p>",
+      "line_text": "c1Vienna, Österreichische Nationalbibliothek, pal. 557(1), fol. 80 (1447)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>2</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4576, fol. 104 (15th cent.)</p>",
+      "line_text": "c2Vienna, Österreichische Nationalbibliothek, pal. 4576, fol. 104 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>3</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 557(3), fol. 81 (ca. 1447)</p>",
+      "line_text": "c3Vienna, Österreichische Nationalbibliothek, pal. 557(3), fol. 81 (ca. 1447)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>4</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 557(2), fol. 80 (ca. 1447)</p>",
+      "line_text": "c4Vienna, Österreichische Nationalbibliothek, pal. 557(2), fol. 80 (ca. 1447)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>5</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 5056, fol. 249 (15th cent.)</p>",
+      "line_text": "c5Vienna, Österreichische Nationalbibliothek, pal. 5056, fol. 249 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>6</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 1354, fol. 218 (16th cent.)</p>",
+      "line_text": "c6Vienna, Österreichische Nationalbibliothek, pal. 1354, fol. 218 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>7 </sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 960, fol. 5 (15th cent.)</p>",
+      "line_text": "c7 Vienna, Österreichische Nationalbibliothek, pal. 960, fol. 5 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>8</sup></strong> Paris, Bibliothèque nationale de France, n. a. l. 1151, fol. 71 (15th/16th cent.)</p>",
+      "line_text": "c8 Paris, Bibliothèque nationale de France, n. a. l. 1151, fol. 71 (15th/16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>9</sup></strong> Munich, Bayerische Staatsbibliothek, 443, fol. 114 (1479/85)</p>",
+      "line_text": "c9 Munich, Bayerische Staatsbibliothek, 443, fol. 114 (1479/85)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>1</sup><sup>0 </sup></strong>Paris, Bibliothèque nationale de France, lat. 3158, fol. 24 (16th cent.)</p>",
+      "line_text": "c10 Paris, Bibliothèque nationale de France, lat. 3158, fol. 24 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>11</sup></strong> Vienna, Österreichische Nationalbibliothek<strong>,</strong>  pal. 4119, fol. 170 (ca. 1548) ~ <a href=\"http://data.onb.ac.at/rep/10B814FA\" target=\"_blank\" rel=\"noopener noreferrer\">ONB</a></p>",
+      "line_text": "c11 Vienna, Österreichische Nationalbibliothek,  pal. 4119, fol. 170 (ca. 1548) ~ ONB",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rep/10B814FA"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>12</sup></strong> Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 618, fol. 22 (1439/1440)</p>",
+      "line_text": "c12 Vienna, Österreichische Nationalbibliothek, pal. 618, fol. 22 (1439/1440)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>13</sup></strong> Jena, Bibliotheca Electoralis, Fol. 1 (ca. 1500)</p>",
+      "line_text": "c13 Jena, Bibliotheca Electoralis, Fol. 1 (ca. 1500)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>14</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 249, fol. 198 (15th cent.)</p>",
+      "line_text": "c14 Munich, Bayerische Staatsbibliothek, lat. 249, fol. 198 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>15</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 850, fol. 85 (15th cent.)</p>",
+      "line_text": "c15 Munich, Bayerische Staatsbibliothek, lat. 850, fol. 85 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>16 </sup></strong>Paris, Bibliothèque nationale de France, lat. 3282, fol. 18<sup>v</sup> (16th cent.)</p>",
+      "line_text": "c16 Paris, Bibliothèque nationale de France, lat. 3282, fol. 18v (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>17</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 504, fol. 306 (15th cent.)</p>",
+      "line_text": "c17 Munich, Bayerische Staatsbibliothek, lat. 504, fol. 306 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>18</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 426, fol. 25 (16th cent.)</p>",
+      "line_text": "c18 Munich, Bayerische Staatsbibliothek, lat. 426, fol. 25 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>19</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 6975 (ca. 1486)</p>",
+      "line_text": "c19Munich, Bayerische Staatsbibliothek, lat. 6975 (ca. 1486)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>20</sup></strong> Munich, Bayerische Staatsbibliothek, l.13182, fol. 51 (15th cent.)</p>",
+      "line_text": "c20 Munich, Bayerische Staatsbibliothek, l.13182, fol. 51 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>21</sup></strong> Munich, Bayerische Staatsbibliothek, 1.15612, fol. 90 (15th cent.)</p>",
+      "line_text": "c21 Munich, Bayerische Staatsbibliothek, 1.15612, fol. 90 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>22 </sup></strong>Paris, Bibliothèque nationale de France, lat. 8619, fol. 121 (15th/16th cent.)</p>",
+      "line_text": "c22 Paris, Bibliothèque nationale de France, lat. 8619, fol. 121 (15th/16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>2</sup><sup>3 </sup></strong>Paris, Bibliothèque nationale de France, lat. 17730, fol. 7 (15th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b90672210.r=17730?rk=21459;2\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a></p>",
+      "line_text": "c23 Paris, Bibliothèque nationale de France, lat. 17730, fol. 7 (15th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b90672210.r=17730?rk=21459;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>24 </sup></strong>Clermont-Ferrand, Bibliothèque municipale,  104, fol. 69 (15th/16th cent.)</p>",
+      "line_text": "c24 Clermont-Ferrand, Bibliothèque municipale,  104, fol. 69 (15th/16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c</strong><sup><strong>25</strong> </sup>Oxford, Brasenose College, 7, fol. 134</p>",
+      "line_text": "c25 Oxford, Brasenose College, 7, fol. 134",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>26</sup></strong> Brussels, Bibliothèque Royale Albert Ier, lat. 1144, fol. 107<sup>v</sup> (14th cent.)</p>",
+      "line_text": "c26 Brussels, Bibliothèque Royale Albert Ier, lat. 1144, fol. 107v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>27</sup></strong> St. Gallen, Stiftsbibliothek, Cod. Sang. 583, p. 3 (14th cent.)</p>",
+      "line_text": "c27 St. Gallen, Stiftsbibliothek, Cod. Sang. 583, p. 3 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>d<sup>1</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4453, fol. 383 (1437/62)</p>",
+      "line_text": "d1Vienna, Österreichische Nationalbibliothek, pal. 4453, fol. 383 (1437/62)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>d<sup>2</sup></strong><sup>  </sup>Vat. ? (no other information provided)</p>",
+      "line_text": "d2  Vat. ? (no other information provided)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>d<sup>3</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 19608, fol. 201 (1482)</p>",
+      "line_text": "d3 Munich, Bayerische Staatsbibliothek, lat. 19608, fol. 201 (1482)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>d<sup>4</sup></strong> Munich, Bayerische Staatsbibliothek, lat. 11748, fol. 54 (15th cent.)</p>",
+      "line_text": "d4 Munich, Bayerische Staatsbibliothek, lat. 11748, fol. 54 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>e<sup>1</sup></strong>Jena, Bibliotheca Electoralis, F. 76, fol. 326 (15th cent.)</p>",
+      "line_text": "e1Jena, Bibliotheca Electoralis, F. 76, fol. 326 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>e<sup>2 </sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4899, fol. 368 (1452)</p>",
+      "line_text": "e2 Vienna, Österreichische Nationalbibliothek, pal. 4899, fol. 368 (1452)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>1</sup></strong> Vatican, Biblioteca Apostolica Vaticana, Vat. pal. 327, fol. 229 (15th cent.)</p>",
+      "line_text": "f1 Vatican, Biblioteca Apostolica Vaticana, Vat. pal. 327, fol. 229 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>2</sup></strong>Paris, Bibliothèque nationale de France, lat. 2962, fol. 174 (15th/16th cent.)</p>",
+      "line_text": "f2Paris, Bibliothèque nationale de France, lat. 2962, fol. 174 (15th/16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>3</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 5350, fol. 112 (15th cent.)</p>",
+      "line_text": "f3Munich, Bayerische Staatsbibliothek, lat. 5350, fol. 112 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>4</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 5613, fol. 261 (1477)</p>",
+      "line_text": "f4Munich, Bayerische Staatsbibliothek, lat. 5613, fol. 261 (1477)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f</strong><sup><strong>5</strong> </sup>Munich, Bayerische Staatsbibliothek, lat. 24878, fol. 36 (1473)</p>",
+      "line_text": "f5 Munich, Bayerische Staatsbibliothek, lat. 24878, fol. 36 (1473)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>6</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 6007, fol. 122 (1500)</p>",
+      "line_text": "f6Munich, Bayerische Staatsbibliothek, lat. 6007, fol. 122 (1500)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>7</sup></strong>Vienna, Österreichische Nationalbibliothek<strong>,</strong> 6249, fol. 105 (17th cent.)</p>",
+      "line_text": "f7Vienna, Österreichische Nationalbibliothek, 6249, fol. 105 (17th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>g </strong>ms. Goldasti (private collection of Melchior Goldast)</p>",
+      "line_text": "g ms. Goldasti (private collection of Melchior Goldast)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Unclassified Manuscripts:</p>",
+      "line_text": "Unclassified Manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>1</sup></strong>Augsburg IX q<sup>6 </sup>3 (Reiser 50) (no other information provided)</p>",
+      "line_text": "x1Augsburg IX q6 3 (Reiser 50) (no other information provided)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>2</sup></strong>Basel, Universitätsbibliothek, A. IX 12</p>",
+      "line_text": "x2Basel, Universitätsbibliothek, A. IX 12",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>3 </sup></strong>Casiu. 437 (no other information provided)</p>",
+      "line_text": "x3 Casiu. 437 (no other information provided)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>4 </sup></strong>Donaueschingen, Stadtbibliothek, 30, fol. 10 (15th cent.)</p>",
+      "line_text": "x4 Donaueschingen, Stadtbibliothek, 30, fol. 10 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>6</sup></strong>Florence, Biblioteca Medicea Laurenziana, Gadd. 38, p. 154 (15th cent.)</p>",
+      "line_text": "x6Florence, Biblioteca Medicea Laurenziana, Gadd. 38, p. 154 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>7</sup></strong> Florence, Biblioteca S. Marci, I D 9 (before 1481)</p>",
+      "line_text": "x7 Florence, Biblioteca S. Marci, I D 9 (before 1481)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>10 </sup></strong>Hohenfurth, Cisterciácký klášter, 132, fol. 343 (15th cent.)</p>",
+      "line_text": "x10 Hohenfurth, Cisterciácký klášter, 132, fol. 343 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>11</sup></strong> London, British Library, Arund. 128 (15th cent.)</p>",
+      "line_text": "x11 London, British Library, Arund. 128 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>12</sup></strong>London, British Library, Cotton Vit. E VIII n. 11</p>",
+      "line_text": "x12London, British Library, Cotton Vit. E VIII n. 11",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>13 </sup></strong>London, British Library, Cotton Vespasian D.18 n. 9</p>",
+      "line_text": "x13 London, British Library, Cotton Vespasian D.18 n. 9",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>14</sup></strong> London, British Library, Cotton Titus D XIX n. 17</p>",
+      "line_text": "x14 London, British Library, Cotton Titus D XIX n. 17",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>15</sup></strong> London, British Library, Cinnus 11 (Bernard 8720)</p>",
+      "line_text": "x15 London, British Library, Cinnus 11 (Bernard 8720)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>16</sup></strong> London, British Library, Harl. 2471, fol. 39<sup>v</sup> (14th cent.)</p>",
+      "line_text": "x16 London, British Library, Harl. 2471, fol. 39v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>17 </sup></strong>Marseille, Archives départementales des Bouches-du-Rhône, A 69</p>",
+      "line_text": "x17 Marseille, Archives départementales des Bouches-du-Rhône, A 69",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>18</sup></strong> Padua, Monastery of Saint John de Viridario, Pluteo 21 (https://sdbm.library.upenn.edu/entries/188448)</p>",
+      "line_text": "x18 Padua, Monastery of Saint John de Viridario, Pluteo 21 (https://sdbm.library.upenn.edu/entries/188448)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>19 </sup></strong>Paris, Abbey of Saint Victor (Montf. bibl. bibl. 1373a)</p>",
+      "line_text": "x19 Paris, Abbey of Saint Victor (Montf. bibl. bibl. 1373a)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>x<sup>20</sup></strong> Paris, Bibliothèque nationale de France, reg. 1604</p>",
+      "line_text": "x20 Paris, Bibliothèque nationale de France, reg. 1604",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Additional Manuscripts:</p>",
+      "line_text": "Additional Manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Harley 2472, fols. 37<sup>v</sup>–38<sup>r </sup>(15th cent.)      <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-marston-49/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></p>",
+      "line_text": "London, British Library, Harley 2472, fols. 37v–38r (15th cent.)      ",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-marston-49/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">New Haven, Beinecke Rare Book and Manuscript <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-2472/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Library, Marston 49, fols. 74<sup>v</sup>–75<sup>v</sup> (1476)</p>",
+      "line_text": "New Haven, Beinecke Rare Book and Manuscript Library, Marston 49, fols. 74v–75v (1476)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-2472/"
+      ]
+    },
+    {
+      "line_html": "<p>Flacius, Matthias, et al. <em>Ecclesiastica historia integram Ecclesiae Christi … in urbe Magdeburgica</em>. 13 vols. Basel: Oporinus, 1559–1574 (incorporates Latin text from an unidentified manuscript).</p>",
+      "line_text": "Flacius, Matthias, et al. Ecclesiastica historia integram Ecclesiae Christi … in urbe Magdeburgica. 13 vols. Basel: Oporinus, 1559–1574 (incorporates Latin text from an unidentified manuscript).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11298327_00429.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grynaeus, Johann J. <em>Monumenta S. Patrum Orthodoxographa, hoc est Theologiae sacrosanctae ac syncerioris fidei Doctores, numero circiter LXXXV.</em> 2 vols. Basel: Henric Petrina, 1569 (vol. 1, p. 1).</p>",
+      "line_text": "Grynaeus, Johann J. Monumenta S. Patrum Orthodoxographa, hoc est Theologiae sacrosanctae ac syncerioris fidei Doctores, numero circiter LXXXV. 2 vols. Basel: Henric Petrina, 1569 (vol. 1, p. 1).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11298327_00429.html"
+      ]
+    },
+    {
+      "line_html": "<p>Gundermann, Gotthold. <em>“Der Brief des P. Lentulus über Jesum.”</em> ZWT 29 (1886): 241 (edition of Harley 2729).</p>",
+      "line_text": "Gundermann, Gotthold. “Der Brief des P. Lentulus über Jesum.” ZWT 29 (1886): 241 (edition of Harley 2729).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11108801_00046.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Heroldus, Johannes. <em>Orthodoxographa Theologiae Sacrosanctae ac syncerioris fidei Doctores Numero LXXVI</em>. Basil: Heinrich Petri 1555 (see p. 2).</p>",
+      "line_text": "Heroldus, Johannes. Orthodoxographa Theologiae Sacrosanctae ac syncerioris fidei Doctores Numero LXXVI. Basil: Heinrich Petri 1555 (see p. 2).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11108801_00046.html"
+      ]
+    },
+    {
+      "line_html": "<p>Lutz, Cora E. “The Letter of Lentulus Describing Christ.” <em>Yale University Gazette </em>50.2 (1975): 91–97 (edition and translation of Beinecke Marston 49).</p>",
+      "line_text": "Lutz, Cora E. “The Letter of Lentulus Describing Christ.” Yale University Gazette 50.2 (1975): 91–97 (edition and translation of Beinecke Marston 49).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10800111-3\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mylius, Johann Christopher. <em>Memorabilia Bibliothecae Academiae Jenensis.</em> Jenna: Johann Christopher Croeker, 1746 (publication of Jena manuscript, now lost).</p>",
+      "line_text": "Mylius, Johann Christopher. Memorabilia Bibliothecae Academiae Jenensis. Jenna: Johann Christopher Croeker, 1746 (publication of Jena manuscript, now lost).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10800111-3"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://digitale.bibliothek.uni-halle.de/vd16/content/pageview/4002199\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Neander, Michel, ed. <em>Catechesis Martini Lutheri parva graeco-latina. </em>Basel: Ioannis Oporinum, 1557 (2nd ed. 1564; 3rd ed. 1567) (pp. 410-–11).</p>",
+      "line_text": "Neander, Michel, ed. Catechesis Martini Lutheri parva graeco-latina. Basel: Ioannis Oporinum, 1557 (2nd ed. 1564; 3rd ed. 1567) (pp. 410-–11).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digitale.bibliothek.uni-halle.de/vd16/content/pageview/4002199"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10524859-3\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Reiske, Johan. <em>Exercitationes historicae de imaginibus Jesu Christi.</em> 1672. Jena: <span dir=\"ltr\">Joh. Christi Wolffartii,</span> 1685 (Latin text from Grynaeus and unidentified Jena manuscript, pp. 151–54).</p>",
+      "line_text": "Reiske, Johan. Exercitationes historicae de imaginibus Jesu Christi. 1672. Jena: Joh. Christi Wolffartii, 1685 (Latin text from Grynaeus and unidentified Jena manuscript, pp. 151–54).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10524859-3"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cursor mundi, sc. XIV, Ausg. der. EETS, S. 1079, z. 18817–59.</p>",
+      "line_text": "Cursor mundi, sc. XIV, Ausg. der. EETS, S. 1079, z. 18817–59.",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ashmol. B 45 (Bernard 8462, Add. 20)</p>",
+      "line_text": "Ashmol. B 45 (Bernard 8462, Add. 20)",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Add. 14974, fol. 97 (ca. 1640)</p>",
+      "line_text": "London, British Library, Add. 14974, fol. 97 (ca. 1640)",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Bowers, R. H. “The Letter of Lentulus in Middle English.” <em>Notes and Queries</em> 203.10 (1958): 423–24.</p>",
+      "line_text": "Bowers, R. H. “The Letter of Lentulus in Middle English.” Notes and Queries 203.10 (1958): 423–24.",
+      "language": "Middle English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Xavier, Jerome, ed. and trans. <em>Historia Christi Persice Conscripta simulque multis modis contaminata. </em>Leiden: Elzevir, 1639 (p. 532–36).</p>",
+      "line_text": "Xavier, Jerome, ed. and trans. Historia Christi Persice Conscripta simulque multis modis contaminata. Leiden: Elzevir, 1639 (p. 532–36).",
+      "language": "Persian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscripts and incunabula listed in von Dobschütz, <em>Christusbilder</em>, 311.</p>",
+      "line_text": "Manuscripts and incunabula listed in von Dobschütz, Christusbilder, 311.",
+      "language": "Spanish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Alqoš, Notre-Dame des Semences, Scher 326, fol. 97 (ca. 1900)</p>",
+      "line_text": "Alqoš, Notre-Dame des Semences, Scher 326, fol. 97 (ca. 1900)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patrarchate-of-baghdad-377/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Chaldean Patriarchate of Baghdad, 377, <span class=\"\">fols. 20<sup>r</sup>–21<sup>r</sup></span> (1894)</p>",
+      "line_text": "Baghdad, Chaldean Patriarchate of Baghdad, 377, fols. 20r–21r (1894)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patrarchate-of-baghdad-377/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45 (1907)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45 (1907)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Brock, Sebastian. P. “A Syriac Version of the Letters of Lentulus and Pilate.” <em>OCP</em> 35 (1969): 45–62 (edition and translation of Mingana Syr. 47, pp. 48–50).</p>",
+      "line_text": "Brock, Sebastian. P. “A Syriac Version of the Letters of Lentulus and Pilate.” OCP 35 (1969): 45–62 (edition and translation of Mingana Syr. 47, pp. 48–50).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Elliott, J.K. <em>The Apocryphal New Testament. </em>Oxford: Clarendon Press, 1993 (pp. 542-43).</p>",
+      "line_text": "Elliott, J.K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 542-43).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 477–78).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 477–78).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Backus, Irena. “Lettre de Lentulus.” Pages 1123–29 in vol. 2 of <em>Écrits apocryphes chrétiens</em>. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Backus, Irena. “Lettre de Lentulus.” Pages 1123–29 in vol. 2 of Écrits apocryphes chrétiens. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedes03migngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 454–56).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 454–56).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedes03migngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 137–38).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 137–38).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1651–56).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1651–56).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Backus, Irena. “Christoph Scheurl and his Anthology of ‘New Testament Apocrypha’ (1506, 1513, 1515).” <em>Apocrypha</em> 9 (1998): 133–56 esp. 145–149.</p>",
+      "line_text": "Backus, Irena. “Christoph Scheurl and his Anthology of ‘New Testament Apocrypha’ (1506, 1513, 1515).” Apocrypha 9 (1998): 133–56 esp. 145–149.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cavalcaselle, Giovanni Battista, Joseph Archer Crowe and Anna Jameson. <em>Early Italian Painting. </em>New York: Parkstone International, 2011 (p. 27).</p>",
+      "line_text": "Cavalcaselle, Giovanni Battista, Joseph Archer Crowe and Anna Jameson. Early Italian Painting. New York: Parkstone International, 2011 (p. 27).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Charlesworth, James H. <em>The Historical Jesus an Essential Guide.</em> Nashville: Abingdon Press, 2008.</p>",
+      "line_text": "Charlesworth, James H. The Historical Jesus an Essential Guide. Nashville: Abingdon Press, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gregory, Andrew. “Non-Canonical Epistles and Related Literature.” Pages 90–114 in <em>The Oxford Handbook of Early Christian Apocrypha. </em>Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015 (pp. 106–107).</p>",
+      "line_text": "Gregory, Andrew. “Non-Canonical Epistles and Related Literature.” Pages 90–114 in The Oxford Handbook of Early Christian Apocrypha. Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015 (pp. 106–107).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Inglis, Erik. <em>Faces of Power and Piety.</em> London: British Library, 2008 (p. 23).</p>",
+      "line_text": "Inglis, Erik. Faces of Power and Piety. London: British Library, 2008 (p. 23).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jones, Mark, et al. <em>Fake? The Art of Deception. </em>Berkeley and Los Angeles: University of California Press, 1990 (p 79).</p>",
+      "line_text": "Jones, Mark, et al. Fake? The Art of Deception. Berkeley and Los Angeles: University of California Press, 1990 (p 79).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kessel, Elsje van. <em>The Lives of Paintings Presence, Agency and Likeness in Venetian Art of the Sixteenth Century.</em> Leiden: Leiden University Press, 2017 (pp. 231–32).</p>",
+      "line_text": "Kessel, Elsje van. The Lives of Paintings Presence, Agency and Likeness in Venetian Art of the Sixteenth Century. Leiden: Leiden University Press, 2017 (pp. 231–32).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Münter, Friedrich. <em>Die Sinnbilder und Kunstvorstellungen der alten Christen. </em>Altona: K. Busch, 1825 ( p. 9).</p>",
+      "line_text": "Münter, Friedrich. Die Sinnbilder und Kunstvorstellungen der alten Christen. Altona: K. Busch, 1825 ( p. 9).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pérès, Jacques-Noel. “Untersuchungen im Zusammenhang mit der sogenannten <em>Epistula Lentuli</em>.” <em>Apocrypha</em> 11 (2000): 59–75.</p>",
+      "line_text": "Pérès, Jacques-Noel. “Untersuchungen im Zusammenhang mit der sogenannten Epistula Lentuli.” Apocrypha 11 (2000): 59–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/biblicalreposit07repogoog/page/n382\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Robinson, Edward. “On the Letter Attributed to Publius Lentulus, Respecting the Personal Appearance of Christ.” <em>Biblical Repository and Classical Review </em>2.6 (1832): 367–93 (text of Grynaeus, with readings from the Jena and Vatican manuscripts, with commentary).</p>",
+      "line_text": "Robinson, Edward. “On the Letter Attributed to Publius Lentulus, Respecting the Personal Appearance of Christ.” Biblical Repository and Classical Review 2.6 (1832): 367–93 (text of Grynaeus, with readings from the Jena and Vatican manuscripts, with commentary).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/biblicalreposit07repogoog/page/n382"
+      ]
+    },
+    {
+      "line_html": "<p>Taylor, Joan E. <em>What Did Jesus Look Like. </em>Edinburgh: T &amp; T Clark, 1988.</p>",
+      "line_text": "Taylor, Joan E. What Did Jesus Look Like. Edinburgh: T &amp; T Clark, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

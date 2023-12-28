@@ -1,0 +1,309 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-transitus-latin-w/",
+  "nasscal_toc_title": "Dormition of the Virgin Transitus Latin W",
+  "filename": "dormition-of-the-virgin-transitus-latin-w",
+  "latin_title": "Liber de dormitione, transitus latinus W",
+  "abbrev": "Dorm. Vir. Trans. W",
+  "alt_titles": [
+    "Transitus W"
+  ],
+  "clavis_number": 701,
+  "category": "Dormition Accounts",
+  "compiler": "Brandon W. Hawk, Rhode Island College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, Baluze 270, fols. 167<sup>r</sup>–174<sup>r</sup> (8th/9th cent.) ~ <a href=\"https://portail.biblissima.fr/fr/ark:/43093/mdata0c0b335b542a3a286032531206a568530fe08338\" target=\"_blank\" rel=\"noopener\">Biblissima</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10316417x\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, Baluze 270, fols. 167r–174r (8th/9th cent.) ~ Biblissima; Gallica",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://portail.biblissima.fr/fr/ark:/43093/mdata0c0b335b542a3a286032531206a568530fe08338",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10316417x"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>F</strong>  Paris, Bibliothèque nationale de France, Nouv. acq. lat. 1605, fols. 22<sup>v</sup> and 27<sup>r</sup>–30<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "F  Paris, Bibliothèque nationale de France, Nouv. acq. lat. 1605, fols. 22v and 27r–30v (10th/11th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>G</strong>  St. Gall, Stiftsbibliothek, 732, fols. 115<sup>r</sup>–142<sup>r</sup> (11th cent.) ~ <a href=\"https://www.e-codices.unifr.ch/en/list/one/csg/0732\" target=\"_blank\" rel=\"noopener\">e-Codices</a></p>",
+      "line_text": "G  St. Gall, Stiftsbibliothek, 732, fols. 115r–142r (11th cent.) ~ e-Codices",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.e-codices.unifr.ch/en/list/one/csg/0732"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Paris, Bibliothèque nationale de France, lat. 13781, fols. 20<sup>r</sup>–24<sup>r</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b9066687t.r=13781?rk=21459;2\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "M  Paris, Bibliothèque nationale de France, lat. 13781, fols. 20r–24r (13th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b9066687t.r=13781?rk=21459;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-430/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>P</strong>  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 430, fols. 109<sup>r</sup>–110<sup>v</sup> (ca. 840)</p>",
+      "line_text": "P  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 430, fols. 109r–110v (ca. 840)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-430/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 119, fols. 133<sup>r</sup>–135<sup>v</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.119\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "R  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 119, fols. 133r–135v (12th cent.) ~ DigiVatLib",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.119"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>S</strong>  Rome, Biblioteca Nazionale, Sessoriano 121, fols. 83<sup>v</sup>–93<sup>r</sup> (13th cent.)</p>",
+      "line_text": "S  Rome, Biblioteca Nazionale, Sessoriano 121, fols. 83v–93r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>T</strong>  Troyes, Bibliothèque municipale, 1396, fols. 45<sup>v</sup>–48<sup>r</sup> (13th cent.) ~ <a href=\"https://bvmm.irht.cnrs.fr/consult/consult.php?REPRODUCTION_ID=1822\" target=\"_blank\" rel=\"noopener\">BVMM</a></p>",
+      "line_text": "T  Troyes, Bibliothèque municipale, 1396, fols. 45v–48r (13th cent.) ~ BVMM",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://bvmm.irht.cnrs.fr/consult/consult.php?REPRODUCTION_ID=1822"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V</strong>  Silos, fonds reconstitué, 2, fols. 188<sup>r</sup>–205<sup>r</sup> (11th cent.)</p>",
+      "line_text": "V  Silos, fonds reconstitué, 2, fols. 188r–205r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, Pembroke College, 25 (11th cent.) ~ <a href=\"https://schoenberginstitute.org/pembroke25/\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Cambridge, Pembroke College, 25 (11th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://schoenberginstitute.org/pembroke25/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Dublin, Trinity College, F.05.03, fols. 143–144 (15th cent.)</p>",
+      "line_text": "Dublin, Trinity College, F.05.03, fols. 143–144 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ivrea, Biblioteca Capitolare, 59, fols. 10<sup>v</sup>–12<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Ivrea, Biblioteca Capitolare, 59, fols. 10v–12r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ivrea, Biblioteca Capitolare, 105, fols. 51<sup>r</sup>–56<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Ivrea, Biblioteca Capitolare, 105, fols. 51r–56r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Lyon, Bibliothèque municipale, 788, fol. 34<sup>v</sup> (9th cent.) ~ <a href=\"https://florus.bm-lyon.fr/description.php?cn=MS0788&amp;saisie=#\" target=\"_blank\" rel=\"noopener\">Lyon</a></p>",
+      "line_text": "Lyon, Bibliothèque municipale, 788, fol. 34v (9th cent.) ~ Lyon",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://florus.bm-lyon.fr/description.php?cn=MS0788&saisie=#"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, lat. 3550, fols. 1<sup>r</sup>–11<sup>r</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10032479q.r=latin%203550?rk=64378;0\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 3550, fols. 1r–11r (13th cent.) ~ Gallica",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10032479q.r=latin%203550?rk=64378;0"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Spoleto, ArchDuomo, légendier de San Felice di Narco, vol. 2, fols. 242<sup>r</sup>–243<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Spoleto, ArchDuomo, légendier de San Felice di Narco, vol. 2, fols. 242r–243r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-550-1538/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Trier, Stadtbibliotek, 550/1538, fols. 52<sup>r</sup>–57<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Trier, Stadtbibliotek, 550/1538, fols. 52r–57v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-550-1538/"
+      ]
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England</em>. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (edition of abridged version in Cambridge, Pembroke 25, pp. 328–33).</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (edition of abridged version in Cambridge, Pembroke 25, pp. 328–33).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Marocco, G. “Nuovi documenti sull’Assunzione del Medio Evo latino: due ‘transitus’ dai codici 59 et 105 di Ivrea.” <em>Marianum</em> 12 (1950): 449–52 (editions of fragmentary versions in Ivrea 59 and 105).</p>",
+      "line_text": "Marocco, G. “Nuovi documenti sull’Assunzione del Medio Evo latino: due ‘transitus’ dai codici 59 et 105 di Ivrea.” Marianum 12 (1950): 449–52 (editions of fragmentary versions in Ivrea 59 and 105).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (edition of fragment in Lyon 788, p. 257, and edition of Paris lat. 3550, pp. 258–59).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (edition of fragment in Lyon 788, p. 257, and edition of Paris lat. 3550, pp. 258–59).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wilmart, André. “L’ancien récit latin de l’Assomption.” Pages 323–62 in <em>Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican</em>. Studi e Testi 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition based on BFGMPRSTV).</p>",
+      "line_text": "Wilmart, André. “L’ancien récit latin de l’Assomption.” Pages 323–62 in Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican. Studi e Testi 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition based on BFGMPRSTV).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-198/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College 198, pp. 350–59 (9th–11th cent.)</p>",
+      "line_text": "Cambridge, Corpus Christi College 198, pp. 350–59 (9th–11th cent.)",
+      "language": ".1 Corpus 198",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-198/"
+      ]
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>Apocryphal Gospels of Mary in Anglo-Saxon England.</em> Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).</p>",
+      "line_text": "Clayton, Mary. Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).",
+      "language": ".1 Corpus 198",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Princeton, Princeton University Library, W.H. Scheide Collection 71 (the <em>Blickling Book</em>), fols. 84<sup>v</sup>–98<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Princeton, Princeton University Library, W.H. Scheide Collection 71 (the Blickling Book), fols. 84v–98v (10th cent.)",
+      "language": ".2 Blicking Homily 13",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/"
+      ]
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England</em>. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).",
+      "language": ".2 Blicking Homily 13",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kelly, Richard J., ed. and trans. <i>The Blickling Homilies.</i> 2 vols. London and New York: Continuum, 2003–2009.</p>",
+      "line_text": "Kelly, Richard J., ed. and trans. The Blickling Homilies. 2 vols. London and New York: Continuum, 2003–2009.",
+      "language": ".2 Blicking Homily 13",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/blicklinghomili01morrgoog/page/n161/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Morris, Richard, ed. <em>The Blickling Homilies.</em> Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 136–59).</p>",
+      "line_text": "Morris, Richard, ed. The Blickling Homilies. Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 136–59).",
+      "language": ".2 Blicking Homily 13",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/blicklinghomili01morrgoog/page/n161/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Mimouni, Simon Claude.<em> Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (translation of Wilmart’s edition and variants, including the ending with the torments of hell from Wenger’s edition of Paris lat. 3550, pp. 184–96).</p>",
+      "line_text": "Mimouni, Simon Claude. Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (translation of Wilmart’s edition and variants, including the ending with the torments of hell from Wenger’s edition of Paris lat. 3550, pp. 184–96).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bover, José Maria. “La Asunción de María en el Transitus ‘W’ y en Juan de Tesalónica.” <em>Estudios Eclesiásticos</em> 20 (1946): 415–36.</p>",
+      "line_text": "Bover, José Maria. “La Asunción de María en el Transitus ‘W’ y en Juan de Tesalónica.” Estudios Eclesiásticos 20 (1946): 415–36.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Capelle, D. B. “Les anciens récits de l’Assomption et Jean de Thessalonique.” <em>Revue de Théologie Ancienne et Médiévale</em> 12 (1940): 209–35.</p>",
+      "line_text": "Capelle, D. B. “Les anciens récits de l’Assomption et Jean de Thessalonique.” Revue de Théologie Ancienne et Médiévale 12 (1940): 209–35.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England</em>. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (pp. 278–97).</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (pp. 278–97).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Transitus Mariae: The Tradition and Its Origins.” <em>Apocrypha</em> 10 (1999): 74–98 (esp. 94–98).</p>",
+      "line_text": "__________. “The Transitus Mariae: The Tradition and Its Origins.” Apocrypha 10 (1999): 74–98 (esp. 94–98).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Faerber, Robert. “La tradition littéraire de la dormition et de l’assomption de Marie en anglais ancien.” <em>Apocrypha</em> 10 (1999): 99–138.</p>",
+      "line_text": "Faerber, Robert. “La tradition littéraire de la dormition et de l’assomption de Marie en anglais ancien.” Apocrypha 10 (1999): 99–138.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kabir, Ananya Jahanara. <em>Paradise, Death and Doomsday in Anglo-Saxon Literature</em>. Cambridge Studies in Anglo-Saxon England 32. Cambridge: Cambridge University Press, 2001 (pp. 59­–64).</p>",
+      "line_text": "Kabir, Ananya Jahanara. Paradise, Death and Doomsday in Anglo-Saxon Literature. Cambridge Studies in Anglo-Saxon England 32. Cambridge: Cambridge University Press, 2001 (pp. 59­–64).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simon Claude. <em>Dormition et Assumption de Marie. Histoire des traditions anciennes</em>. Théologie Historique 98. Paris: Beauchesne, 1995 (see esp. pp. 261–64 and 281–86).</p>",
+      "line_text": "Mimouni, Simon Claude. Dormition et Assumption de Marie. Histoire des traditions anciennes. Théologie Historique 98. Paris: Beauchesne, 1995 (see esp. pp. 261–64 and 281–86).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (see esp. pp. 18–19, 165–96, and 184–96).</p>",
+      "line_text": "__________. Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (see esp. pp. 18–19, 165–96, and 184–96).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rivière, Jean. “Le plus ancien Transitus latin et son dérivé grec.” <em>Revue de Théologie Ancienne et Médiévale</em> 8 (1936): 1–33.</p>",
+      "line_text": "Rivière, Jean. “Le plus ancien Transitus latin et son dérivé grec.” Revue de Théologie Ancienne et Médiévale 8 (1936): 1–33.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YuQTDAAAQBAJ&amp;pg=PA36&amp;lpg=PA36&amp;dq=assumption+melito&amp;source=bl&amp;ots=LG3w97lJwh&amp;sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&amp;q=assumption%20melito&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (pp. 35–37).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (pp. 35–37).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=YuQTDAAAQBAJ&pg=PA36&lpg=PA36&dq=assumption+melito&source=bl&ots=LG3w97lJwh&sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&hl=en&sa=X&ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&q=assumption%20melito&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (esp. pp. 20–21, 30, 58, and 88).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (esp. pp. 20–21, 30, 58, and 88).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Willard, Rudolph. “La ville d’Agathé? Note sur le Transitus Mariae C.” <em>Échos d’Orient</em> 38, no. 195–196 (1939): 346–54.</p>",
+      "line_text": "Willard, Rudolph. “La ville d’Agathé? Note sur le Transitus Mariae C.” Échos d’Orient 38, no. 195–196 (1939): 346–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

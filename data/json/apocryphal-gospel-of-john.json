@@ -1,0 +1,55 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/apocryphal-gospel-of-john/",
+  "nasscal_toc_title": "Apocryphal Gospel of John",
+  "filename": "apocryphal-gospel-of-john",
+  "latin_title": "Iohannis Euangelium apocryphorum",
+  "alt_titles": [
+    "(Apocryphal) Gospel of John"
+  ],
+  "clavis_number": 518,
+  "category": "Gospels",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Manuscripts: earliest Ms is believed to be MS Sinai Arabic 441 (late 12th c.).</p>",
+      "line_text": "Manuscripts: earliest Ms is believed to be MS Sinai Arabic 441 (late 12th c.).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>I. Galbiati, <em>Iohannis evangelium apocryphum arabice </em>(Mediolani: In aedibus Mondadorianis, 1957)</p>",
+      "line_text": "I. Galbiati, Iohannis evangelium apocryphum arabice (Mediolani: In aedibus Mondadorianis, 1957)",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>L. Moraldi, <em>Vangelo Arabo apocrifo dell’Apostolo Giovanni da un Manoscritto della Biblioteca Ambrosiana</em>, Biblioteca di Cultura Medievale (Milan: Editoriale Jaca Book, 1991).</p>",
+      "line_text": "L. Moraldi, Vangelo Arabo apocrifo dell’Apostolo Giovanni da un Manoscritto della Biblioteca Ambrosiana, Biblioteca di Cultura Medievale (Milan: Editoriale Jaca Book, 1991).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>M. Van Esbroeck, “À propos de l’Évangile apocryphe arabe attribute à Saint Jean,” <em>Mélanges de l’Université Saint-Joseph </em>49 (<em>Mélanges offerts au R. P. Henri Fleisch, S.J.</em>) (1975-1976): 597-603</p>",
+      "line_text": "M. Van Esbroeck, “À propos de l’Évangile apocryphe arabe attribute à Saint Jean,” Mélanges de l’Université Saint-Joseph 49 (Mélanges offerts au R. P. Henri Fleisch, S.J.) (1975-1976): 597-603",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>C. Horn, “Syriac and Arabic Perspectives on the Structural and Motif Parallels Regarding Jesus’ Childhood in Christian Apocrypha and Early Islamic Literature: The ‘Book of Mary,’ the <em>Arabic Apocryphal Gospel of John</em>, and the <em>Qur’an</em>,” <em>Apocrypha</em> 19 (2008): 267-291.</p>",
+      "line_text": "C. Horn, “Syriac and Arabic Perspectives on the Structural and Motif Parallels Regarding Jesus’ Childhood in Christian Apocrypha and Early Islamic Literature: The ‘Book of Mary,’ the Arabic Apocryphal Gospel of John, and the Qur’an,” Apocrypha 19 (2008): 267-291.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/hospitality-of-dysmas/",
+  "nasscal_toc_title": "Hospitality of Dysmas",
+  "filename": "hospitality-of-dysmas",
+  "latin_title": "Hospitium Dusmas",
+  "abbrev": "Hosp. Dysmas",
+  "alt_titles": [
+    "De bono latrone"
+  ],
+  "clavis_number": 0,
+  "category": "Infancy Gospels",
+  "compiler": ": Mark G. Bilby, independent scholar",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-808/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>B</strong>  Paris, Bibliothèque nationale de France, gr. 808 (<em>olim</em> Regius 2342<sup>2</sup>), fols. 270<sup>rb</sup>–271<sup>ra</sup> (16th cent.)</p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, gr. 808 (olim Regius 23422), fols. 270rb–271ra (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-808/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>C</strong>  Venice, Biblioteca Nazionale Marciana, gr. app. II, 87 (coll. 1258; <em>olim</em> Nanianus CIX), fols. 244<sup>r</sup>–246<sup>v</sup> (16th cent.)</p>",
+      "line_text": "C  Venice, Biblioteca Nazionale Marciana, gr. app. II, 87 (coll. 1258; olim Nanianus CIX), fols. 244r–246v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D</strong> Oxford, Bodleian Library, Holkham gr. 24 (olim 90), fols. 270<sup>v</sup>–272<sup>r </sup>(14th-15th cent.)</p>",
+      "line_text": "D Oxford, Bodleian Library, Holkham gr. 24 (olim 90), fols. 270v–272r (14th-15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>I </strong> Mount Athos, Monē Ibērōn, 692 (Lambros 4812), fols. 113<sup>r</sup>–114<sup>v</sup> (16th cent.)</p>",
+      "line_text": "I  Mount Athos, Monē Ibērōn, 692 (Lambros 4812), fols. 113r–114v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H1</strong>  Earliest retrievable text (collated edition of B, D and Tb)</p>",
+      "line_text": "H1  Earliest retrievable text (collated edition of B, D and Tb)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H2</strong>  Hyperarchetype of B and D</p>",
+      "line_text": "H2  Hyperarchetype of B and D",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong> Mount Athos, M. Megistes Lavras, H 31 (Eustratiades 686), fols. 78<sup>v</sup>–80<sup>v </sup>(18th-19th cent.)</p>",
+      "line_text": "L Mount Athos, M. Megistes Lavras, H 31 (Eustratiades 686), fols. 78v–80v (18th-19th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-suppl-gr-1169/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P</strong> Paris, Bibliothèque nationale de France, suppl. gr. 1169, fols. 18<sup>r</sup>–19<sup>v</sup> (1685)</p>",
+      "line_text": "P Paris, Bibliothèque nationale de France, suppl. gr. 1169, fols. 18r–19v (1685)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-suppl-gr-1169/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Tb</strong> Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 411, fols. 152<sup>v</sup>–153<sup>v</sup> (start of 15th cent.)</p>",
+      "line_text": "Tb Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 411, fols. 152v–153v (start of 15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>X</strong> Mount Athos, Monē Hagiou Pantelēmonos, 742 (Lambros 6249), fols. 11<sup>v</sup>–13<sup>r</sup> (19th cent.)</p>",
+      "line_text": "X Mount Athos, Monē Hagiou Pantelēmonos, 742 (Lambros 6249), fols. 11v–13r (19th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Y</strong> Mount Athos, Monē Hagiou Pantelēmonos, 744 (Lambros 6251), fols. 89<sup>v</sup>–90<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Y Mount Athos, Monē Hagiou Pantelēmonos, 744 (Lambros 6251), fols. 89v–90v (19th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Most of the sigla above are those used by Gounelle in his reconstructions of the <em>Gospel of Nicodemas </em>in two of its medieval recensions (M2, 12th–14th century; and M3, 14th–15th century). <em>Hosp. Dysmas </em>appears in two witnesses to the M2 recension, B and Tb, and most of the witnesses to the M3 recension, i.e., CDILPXY but not M or O.</p>",
+      "line_text": "Most of the sigla above are those used by Gounelle in his reconstructions of the Gospel of Nicodemas in two of its medieval recensions (M2, 12th–14th century; and M3, 14th–15th century). Hosp. Dysmas appears in two witnesses to the M2 recension, B and Tb, and most of the witnesses to the M3 recension, i.e., CDILPXY but not M or O.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bilby, Mark Glen. “The Hospitality of Dysmas.” Pages 39–51 in vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016 (translation and notes based on a collated critical edition of the three major witnesses—B, D and Tb—and thus represents the <em>editio princeps</em>).</p>",
+      "line_text": "Bilby, Mark Glen. “The Hospitality of Dysmas.” Pages 39–51 in vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016 (translation and notes based on a collated critical edition of the three major witnesses—B, D and Tb—and thus represents the editio princeps).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Gounelle, Rémi. “Une légende apocryphe relatant la rencontre du bon larron et de la sainte famille en Égypte (<em>BHG </em>2119y).” <em>AnBoll </em>121 (2003): 241–72 (two separate editions of <em>Hosp. Dysmas </em>alongside each other: a diplomatic version of the story in Tb, and a collated hyperarchetype of D and B, to which Bilby assigns the siglum H2).</p>",
+      "line_text": "Gounelle, Rémi. “Une légende apocryphe relatant la rencontre du bon larron et de la sainte famille en Égypte (BHG 2119y).” AnBoll 121 (2003): 241–72 (two separate editions of Hosp. Dysmas alongside each other: a diplomatic version of the story in Tb, and a collated hyperarchetype of D and B, to which Bilby assigns the siglum H2).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Gounelle, Rémi. <em>Les recensions byzantines de l’Évangile de Nicodeme. </em>CCSA Instrumenta 3.Turnhout: Brepols, 2008 (diplomatic edition of the B text, pp. 244–48 even; a diplomatic version of the D text, pp. 247–51 odd).</p>",
+      "line_text": "Gounelle, Rémi. Les recensions byzantines de l’Évangile de Nicodeme. CCSA Instrumenta 3.Turnhout: Brepols, 2008 (diplomatic edition of the B text, pp. 244–48 even; a diplomatic version of the D text, pp. 247–51 odd).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Huidekoper, Frederic. <em>Acts of Pilate from a Transcript of the Codex designated by Thilo as Paris D. </em>Cambridge: Cambridge University Press, 1887 (this book only contains the B version of the story).</p>",
+      "line_text": "Huidekoper, Frederic. Acts of Pilate from a Transcript of the Codex designated by Thilo as Paris D. Cambridge: Cambridge University Press, 1887 (this book only contains the B version of the story).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bilby, Mark Glen. “The Hospitality of Dysmas.” Pages 39–51 in vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016.</p>",
+      "line_text": "Bilby, Mark Glen. “The Hospitality of Dysmas.” Pages 39–51 in vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016.",
+      "language": "English",
+      "entry_type": ". Modern Translations"
+    },
+    {
+      "line_html": "<p>Gounelle, Rémi. “Une légende apocryphe relatant la rencontre du bon larron et de la sainte famille en Égypte (<em>BHG </em>2119y).” <em>AnBoll </em>121 (2003): 241–72 (contains a French translation of H2, the hyperarchetype of B and D, pp. 263–69 odd, and notes on the translation pp. 268–70).</p>",
+      "line_text": "Gounelle, Rémi. “Une légende apocryphe relatant la rencontre du bon larron et de la sainte famille en Égypte (BHG 2119y).” AnBoll 121 (2003): 241–72 (contains a French translation of H2, the hyperarchetype of B and D, pp. 263–69 odd, and notes on the translation pp. 268–70).",
+      "language": "French",
+      "entry_type": ". Modern Translations"
+    },
+    {
+      "line_html": "<p>Bilby, Mark Glen. <em>As the Bandit Will I Confess You: Luke 23, 39–43 in Early Christian Interpretation. </em>Turnhout: Brepols; Strasbourg: University of Strasbourg, 2013 (a critical overview of patristic interpretations of the so-called good bandit).</p>",
+      "line_text": "Bilby, Mark Glen. As the Bandit Will I Confess You: Luke 23, 39–43 in Early Christian Interpretation. Turnhout: Brepols; Strasbourg: University of Strasbourg, 2013 (a critical overview of patristic interpretations of the so-called good bandit).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bilby, Mark Glen. “The Hospitality of Dysmas.” Pages 39–51 in vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016.</p>",
+      "line_text": "Bilby, Mark Glen. “The Hospitality of Dysmas.” Pages 39–51 in vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke and Brent Landau. Grand Rapids: Eerdmans, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dzon, Mary. “Out of Egypt, Into England: Tales of the Good Thief for Medieval English Audiences.” Pages 147–241 in <em>Devotional Culture in Late Medieval England and Europe: Diverse Imaginations of Christ’s Life</em>. Edited by Stephen Kelly and Ryan Perry. Medieval Church Studies 31. Turnhout: Brepols, 2014.</p>",
+      "line_text": "Dzon, Mary. “Out of Egypt, Into England: Tales of the Good Thief for Medieval English Audiences.” Pages 147–241 in Devotional Culture in Late Medieval England and Europe: Diverse Imaginations of Christ’s Life. Edited by Stephen Kelly and Ryan Perry. Medieval Church Studies 31. Turnhout: Brepols, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Geerard, Maurits. “Gute Schächer: Ein neues unediertes Apokryphon.” Pages 85–89 in <em>La spiritualité de l’univers byzantin dans le verbe et l’image. </em>Edited by Kristoffel Demoen and Jeannine Vereecken. Instrumenta Patristica 30. Steenbrugis: In Abbatia S. Petri; Turnhout: Brepols, 1997.</p>",
+      "line_text": "Geerard, Maurits. “Gute Schächer: Ein neues unediertes Apokryphon.” Pages 85–89 in La spiritualité de l’univers byzantin dans le verbe et l’image. Edited by Kristoffel Demoen and Jeannine Vereecken. Instrumenta Patristica 30. Steenbrugis: In Abbatia S. Petri; Turnhout: Brepols, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Geerard, Maurits. “Le bon larron, un apocryphe inédit.” Pages 355–63 in vol. 2 of <em>Philologia Sacra: Biblische und patristische studien für Hermann J. Frede und Walter Thiele zu ihrem siebzigsten Geburtstag. </em>Edited by Roger Gryson. 2 vols. Vetus Latina: Aus der Geschichte der lateinischen Bibel 24. Freiburg: Herder, 1993.</p>",
+      "line_text": "Geerard, Maurits. “Le bon larron, un apocryphe inédit.” Pages 355–63 in vol. 2 of Philologia Sacra: Biblische und patristische studien für Hermann J. Frede und Walter Thiele zu ihrem siebzigsten Geburtstag. Edited by Roger Gryson. 2 vols. Vetus Latina: Aus der Geschichte der lateinischen Bibel 24. Freiburg: Herder, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gounelle, Rémi. “Une légende apocryphe relatant la rencontre du bon larron et de la sainte famille en Égypte (<em>BHG </em>2119y).” <em>AnBoll</em> 121 (2003): 241–72 (recounts many of the legends about the bandit and shows their respective affinities with the edited and translated text).</p>",
+      "line_text": "Gounelle, Rémi. “Une légende apocryphe relatant la rencontre du bon larron et de la sainte famille en Égypte (BHG 2119y).” AnBoll 121 (2003): 241–72 (recounts many of the legends about the bandit and shows their respective affinities with the edited and translated text).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klapisch-Zuber, Christiane. <em>Le Voleur De Paradis: Le Bon Larron Dans L’art Et La Société (XIVe-XVIe Siècles).</em> Paris: Alma, 2015.</p>",
+      "line_text": "Klapisch-Zuber, Christiane. Le Voleur De Paradis: Le Bon Larron Dans L’art Et La Société (XIVe-XVIe Siècles). Paris: Alma, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kretzenbacher, Leopold. “St. Dismas, der rechte Schächter: Legenden, Kultstätten und Verehrungsformen in Innerösterreich.”<em> Zeitschrift des Historischen Vereines für Steiermark </em>42 (1951): 119–39.</p>",
+      "line_text": "Kretzenbacher, Leopold. “St. Dismas, der rechte Schächter: Legenden, Kultstätten und Verehrungsformen in Innerösterreich.” Zeitschrift des Historischen Vereines für Steiermark 42 (1951): 119–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Merback, Mitchell B. <em>The Thief, the Cross, and the Wheel. Pain and the Spectacle of Punishment in Medieval and Renaissance Europe</em>. Chicago: University of Chicago Press, 1999.</p>",
+      "line_text": "Merback, Mitchell B. The Thief, the Cross, and the Wheel. Pain and the Spectacle of Punishment in Medieval and Renaissance Europe. Chicago: University of Chicago Press, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://bcs.fltr.ucl.ac.be/FE/28/Egypt_MM/Egyptien/Larrons.htm\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Poucet, Jacques. “La Fuite de la Sainte-Famille en Égypte chez Jean d’Outremeuse: Un episode de l’Évangile vu par un chroniqueur liégeois du XIVe siècle.” <em>Folia Electronica Classica (Louvain-la-Neuve) </em>28 (2014 July-December). Accessed July 6, 2016. http://bcs.fltr.ucl.ac.be/FE/28/Egypt_MM/Egyptien/Larrons.htm,</p>",
+      "line_text": "Poucet, Jacques. “La Fuite de la Sainte-Famille en Égypte chez Jean d’Outremeuse: Un episode de l’Évangile vu par un chroniqueur liégeois du XIVe siècle.” Folia Electronica Classica (Louvain-la-Neuve) 28 (2014 July-December). Accessed July 6, 2016. http://bcs.fltr.ucl.ac.be/FE/28/Egypt_MM/Egyptien/Larrons.htm,",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://bcs.fltr.ucl.ac.be/FE/28/Egypt_MM/Egyptien/Larrons.htm"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

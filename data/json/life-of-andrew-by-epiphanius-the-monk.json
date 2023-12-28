@@ -1,0 +1,413 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-andrew-by-epiphanius-the-monk/",
+  "nasscal_toc_title": "Life of Andrew by Epiphanius the Monk",
+  "filename": "life-of-andrew-by-epiphanius-the-monk",
+  "latin_title": "Vita Andreae, auctore Epiphanio mon. CP.",
+  "abbrev": "Life Andr.",
+  "alt_titles": [
+    "Life of Andrew, by Epiphanius the Monk"
+  ],
+  "clavis_number": 557,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, Central State Historical Archive, Svj. Pravitel’stvuju’ščij Sinod 1504, fols. 225–252 (15th cent.) = Otero 7</p>",
+      "line_text": "St. Petersburg, Central State Historical Archive, Svj. Pravitel’stvuju’ščij Sinod 1504, fols. 225–252 (15th cent.) = Otero 7",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1359 fols. 517–531 (16th cent.) = Otero 10</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1359 fols. 517–531 (16th cent.) = Otero 10",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1336 fols. 204–218 (16th cent.) = Otero 11</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1336 fols. 204–218 (16th cent.) = Otero 11",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1355, fols. 202–225 (16th cent.) = Otero 12</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1355, fols. 202–225 (16th cent.) = Otero 12",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1395, fols. 58<sup>v</sup>–93 (17th cent.) = Otero 23</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 573), Petersburgskaja Duchovnaja Akademija (Sofisjskaja biblioteka), 1395, fols. 58v–93 (17th cent.) = Otero 23",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 304), Trinity Lavra of St. Sergius 669 (1616), fols. 338–350 (15th cent.) =Otero 34 (used in Vinogradov’s Greek edition)</p>",
+      "line_text": "Moscow, Russian State Library (F. 304), Trinity Lavra of St. Sergius 669 (1616), fols. 338–350 (15th cent.) =Otero 34 (used in Vinogradov’s Greek edition)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, 1319, fols. 740<sup>v</sup>–747<sup>v </sup>(15th cent.) (used in Vinogradov’s Greek edition)</p>",
+      "line_text": "Moscow, Russian State Library, 1319, fols. 740v–747v (15th cent.) (used in Vinogradov’s Greek edition)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 173), Moskovskaja D. Akademija Volokolamsk 194 (592) (15th/16th cent.) = Otero 35</p>",
+      "line_text": "Moscow, Russian State Library (F. 173), Moskovskaja D. Akademija Volokolamsk 194 (592) (15th/16th cent.) = Otero 35",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 37), T. F. Bol’šakov 20, fols. 324–345 (16th/17th cent.) = Otero 40</p>",
+      "line_text": "Moscow, Russian State Library (F. 37), T. F. Bol’šakov 20, fols. 324–345 (16th/17th cent.) = Otero 40",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 304), Trinity Lavra of St. Sergius 671 (1620), fols. 217–45 (1629) =Otero 44</p>",
+      "line_text": "Moscow, Russian State Library (F. 304), Trinity Lavra of St. Sergius 671 (1620), fols. 217–45 (1629) =Otero 44",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 37), T. F. Bol’šakov 112, fols. 72–120 (17th cent.) = Otero 45</p>",
+      "line_text": "Moscow, Russian State Library (F. 37), T. F. Bol’šakov 112, fols. 72–120 (17th cent.) = Otero 45",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, P. I Ščukin 372, fols. 24–57 (17th cent.) = Otero 46</p>",
+      "line_text": "Moscow, State Historical Museum, P. I Ščukin 372, fols. 24–57 (17th cent.) = Otero 46",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. S. Uvarov 1055 (280), fols. 41–82<sup>v </sup> (17th cent.) = Otero 48</p>",
+      "line_text": "Moscow, State Historical Museum, A. S. Uvarov 1055 (280), fols. 41–82v  (17th cent.) = Otero 48",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum (F. 80370), 798 (176), fols. 1634–1645 (16th cent.) = Otero 61</p>",
+      "line_text": "Moscow, State Historical Museum (F. 80370), 798 (176), fols. 1634–1645 (16th cent.) = Otero 61",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum (F. 80370), 786 (988), fols. 1272<sup>v</sup>–1281<sup>v </sup> (16th cent.) = Otero 63</p>",
+      "line_text": "Moscow, State Historical Museum (F. 80370), 786 (988), fols. 1272v–1281v  (16th cent.) = Otero 63",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 717), Solovetsky Monastery 622 (507), fols. 288–308<sup>v </sup> (16th cent.) = Otero 65</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 717), Solovetsky Monastery 622 (507), fols. 288–308v  (16th cent.) = Otero 65",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 717), Solovetsky Monastery 650 (815), fols. 3–27 (17th cent.) = Otero 68</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 717), Solovetsky Monastery 650 (815), fols. 3–27 (17th cent.) = Otero 68",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 351), Kirillo-Belozerskij Monatery 47 (1124), fols. 193–224<sup>v </sup> (15th cent.) = Otero 69</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 351), Kirillo-Belozerskij Monatery 47 (1124), fols. 193–224v  (15th cent.) = Otero 69",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia (F. 351), Kirillo-Belozerskij Monatery 53 (1130), fols. 10–33<sup>v </sup> (15th cent.) = Otero 70</p>",
+      "line_text": "St. Petersburg, National Library of Russia (F. 351), Kirillo-Belozerskij Monatery 53 (1130), fols. 10–33v  (15th cent.) = Otero 70",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed<em>,</em> vol. 1, pp. 69–83 and vol. 2, pp. 243–44).</p>",
+      "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1, pp. 69–83 and vol. 2, pp. 243–44).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Review of Aurelio de Santos Otero, <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>, vol. 1. <em>Slavonic and East European Review</em> 58.2 (1980): 256–68 at 258 (with corrections to de Santos Otero).</p>",
+      "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handscriftliche Überlieferung der altslavischen Apokryphen, vol. 1. Slavonic and East European Review 58.2 (1980): 256–68 at 258 (with corrections to de Santos Otero).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Mount Athos, Monē Megistēs Lauras, Δ 56 (Eustratiades 139), fols. 46<sup>r</sup>–73<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27367/\">Pinakes</a>; text starts at ch. 10 after chs. 1–7 of <em>Story Andr.</em></p>",
+      "line_text": "A  Mount Athos, Monē Megistēs Lauras, Δ 56 (Eustratiades 139), fols. 46r–73v (11th cent.) ~ Pinakes; text starts at ch. 10 after chs. 1–7 of Story Andr.",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27367/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Escorial, Real Biblioteca, Υ.II.6 (gr. 314), fols. 226<sup>v</sup>–246<sup>r</sup> (12th cent.) = BHG 95b; without title; ending has similarities with <em>Encom. Andr.</em>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15527/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "E  Escorial, Real Biblioteca, Υ.II.6 (gr. 314), fols. 226v–246r (12th cent.) = BHG 95b; without title; ending has similarities with Encom. Andr.; Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15527/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Meteroa, Monē Metamorphōseōs, 549, fols. 29<sup>r</sup>–34<sup>v</sup> (10th cent.) = BHG 95b; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41959/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "M  Meteroa, Monē Metamorphōseōs, 549, fols. 29r–34v (10th cent.) = BHG 95b; Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41959/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>m</strong>  Meteora, Monē Metamorphōseōs, 81, fols. 162<sup>v</sup>–163<sup>r</sup> + Monē Metamorphōseōs, 513, fols. 24<sup>r</sup>–31<sup>v</sup> (17th cent.)= BHG 95b; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41492/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; copy of M</p>",
+      "line_text": "m  Meteora, Monē Metamorphōseōs, 81, fols. 162v–163r + Monē Metamorphōseōs, 513, fols. 24r–31v (17th cent.)= BHG 95b; Pinakes; copy of M",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41492/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1510/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P  </strong>Paris, Bibliothèque nationale de France, gr. 1510, fols. 1<sup>r</sup>–19<sup>v </sup>(10th/11th cent.) ~ BHG 94d; brief ending</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, gr. 1510, fols. 1r–19v (10th/11th cent.) ~ BHG 94d; brief ending",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1510/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Escorial, Real Biblioteca, Σ.III.9 (13th cent.) =BHG 95c; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15379/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Escorial, Real Biblioteca, Σ.III.9 (13th cent.) =BHG 95c; Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15379/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Batopediou, 767 (1823) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18911/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Batopediou, 767 (1823) ~ Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18911/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, B 19 (Eustratiades 139), fols. 1–56 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27071/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, B 19 (Eustratiades 139), fols. 1–56 (12th cent.) ~ Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27071/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Barlaam, 129, fols. 367<sup>r</sup>–386<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41024/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Barlaam, 129, fols. 367r–386v (16th cent.) ~ Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41024/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Metamorphōseōs, 515, fols. 24–31 (17th cent.) = BHG 95d; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41925/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Metamorphōseōs, 515, fols. 24–31 (17th cent.) = BHG 95d; Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41925/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 418, fols. 311<sup>v</sup>–312<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65661/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 418, fols. 311v–312v (15th/16th cent.) ~ Pinakes",
+      "language": ".1 Recension A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65661/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Mezzojuzo, Biblioteca dell’Istituto “A. Reres,” 2 (Mioni 95), fols. 189<sup>r</sup>–199<sup>v</sup> (14th cent.)</p>",
+      "line_text": "S  Mezzojuzo, Biblioteca dell’Istituto “A. Reres,” 2 (Mioni 95), fols. 189r–199v (14th cent.)",
+      "language": ".2 Recension B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Mount Athos, Monē Koutloumousiou, 38, fols. 74<sup>r</sup>–88<sup>v</sup> (Lambros 3107) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26063/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "K  Mount Athos, Monē Koutloumousiou, 38, fols. 74r–88v (Lambros 3107) ~ Pinakes",
+      "language": ".2 Recension B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26063/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Mount Athos, Monē Megistēs Lauras, B 19 (Eustratiades 139), fols. 55<sup>v</sup>–96<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27071/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "L  Mount Athos, Monē Megistēs Lauras, B 19 (Eustratiades 139), fols. 55v–96r (11th cent.) ~ Pinakes",
+      "language": ".2 Recension B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27071/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 824, fols. 105<sup>v</sup>–123<sup>v</sup> (11th cent.) ~ ending (42–43) replaced with <em>Story Andr. </em>23–38; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67455/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 824, fols. 105v–123v (11th cent.) ~ ending (42–43) replaced with Story Andr. 23–38; Pinakes",
+      "language": ".2 Recension B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67455/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Ibērōn, 1491, fols. 223–226 (19th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25086/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Ibērōn, 1491, fols. 223–226 (19th cent.) ~ Pinakes",
+      "language": ".2 Recension B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25086/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_MbERdI_KGSwC/page/n57/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dressel, Albert. <em>Epiphanii monachi et presbyteri edita et inedita.</em> Paris and Leipzig: Brockhaus et Avenarius, 1843 (<em>editio princeps</em> of the text based on Vat. gr. 824, pp. 45–82).</p>",
+      "line_text": "Dressel, Albert. Epiphanii monachi et presbyteri edita et inedita. Paris and Leipzig: Brockhaus et Avenarius, 1843 (editio princeps of the text based on Vat. gr. 824, pp. 45–82).",
+      "language": ".2 Recension B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_MbERdI_KGSwC/page/n57/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kahl, Gerhard. “Die geographischen Angaben des Andreasbios (BHG 95b und 102).” PhD. diss., Stuttgart, 1989 (new edition of Rec. A drawing on SKLV, part 3, pp. 1–29).</p>",
+      "line_text": "Kahl, Gerhard. “Die geographischen Angaben des Andreasbios (BHG 95b und 102).” PhD. diss., Stuttgart, 1989 (new edition of Rec. A drawing on SKLV, part 3, pp. 1–29).",
+      "language": ".2 Recension B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus17migngoog/page/n112/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca</em>. Vol. 120. Paris: Cerf, 1880 (reproduction of edition by Dressel, cols. 216–60).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 120. Paris: Cerf, 1880 (reproduction of edition by Dressel, cols. 216–60).",
+      "language": ".2 Recension B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus17migngoog/page/n112/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em iv3no6db jq4qci2q a3bd9o3v b1v8xokw oo9gr5id\" dir=\"auto\" lang=\"ru-RU\">Vinogradov, Andrey. Греческие предания о св. апостоле Андрее. [Greek Legends about St. Apostle Andrew]. Библиотека “Христианского Востока” 3. St. Petersburg: St. Petersburg University Press, 2005 (overview, pp. 38–46; manuscript descriptions, 67–80; edition of Rec. A, pp. 117–56, Rec. B, pp. 157–85; Russian translation, pp. 281–319).</span></p>",
+      "line_text": "Vinogradov, Andrey. Греческие предания о св. апостоле Андрее. [Greek Legends about St. Apostle Andrew]. Библиотека “Христианского Востока” 3. St. Petersburg: St. Petersburg University Press, 2005 (overview, pp. 38–46; manuscript descriptions, 67–80; edition of Rec. A, pp. 117–56, Rec. B, pp. 157–85; Russian translation, pp. 281–319).",
+      "language": ".2 Recension B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>MacDonald, Dennis. R. <em>The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals. </em>SBLTT 33. Atlanta: Scholars Press, 1990 (English translations of the Sinope, pp. 200–201, and Nicaea episodes, pp. 207–209).</p>",
+      "line_text": "MacDonald, Dennis. R. The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals. SBLTT 33. Atlanta: Scholars Press, 1990 (English translations of the Sinope, pp. 200–201, and Nicaea episodes, pp. 207–209).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Summary in Flamion (see below).</p>",
+      "line_text": "Summary in Flamion (see below).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Summary in Lipsius (see below).</p>",
+      "line_text": "Summary in Lipsius (see below).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 d3f4x2em iv3no6db jq4qci2q a3bd9o3v b1v8xokw oo9gr5id\" dir=\"auto\" lang=\"ru-RU\">Vinogradov, Andrey. Греческие предания о св. апостоле Андрее. [Greek Legends about St. Apostle Andrew]. Библиотека “Христианского Востока” 3. St. Petersburg: St. Petersburg University Press, 2005 (pp. 281–319).</span></p>",
+      "line_text": "Vinogradov, Andrey. Греческие предания о св. апостоле Андрее. [Greek Legends about St. Apostle Andrew]. Библиотека “Христианского Востока” 3. St. Petersburg: St. Petersburg University Press, 2005 (pp. 281–319).",
+      "language": "Russian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwilj8LLzeP_AhX_ADQIHdNsDtUQFnoECA8QAQ&amp;url=https%3A%2F%2Fjournal.ibsu.edu.ge%2Findex.php%2Fibsusj%2Farticle%2Fview%2F12%2F12&amp;usg=AOvVaw0y_Ei0q_H6HZMHrnVYP6ZG&amp;opi=89978449\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Alasania, Giuli. “Twenty Centuries of Christianity in Georgia.” <em>IBSU International Refereed Multi-Disiplinary Scientific Journal</em> 1 (2006): 117–29.</p>",
+      "line_text": "Alasania, Giuli. “Twenty Centuries of Christianity in Georgia.” IBSU International Refereed Multi-Disiplinary Scientific Journal 1 (2006): 117–29.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwilj8LLzeP_AhX_ADQIHdNsDtUQFnoECA8QAQ&url=https%3A%2F%2Fjournal.ibsu.edu.ge%2Findex.php%2Fibsusj%2Farticle%2Fview%2F12%2F12&usg=AOvVaw0y_Ei0q_H6HZMHrnVYP6ZG&opi=89978449"
+      ]
+    },
+    {
+      "line_html": "<p>Diekamp, Franz. <em>Hippolytos von Theben: Texte und Untersuchungen</em>. Münster: Aschendorff, 1898 (pp. 143–45).</p>",
+      "line_text": "Diekamp, Franz. Hippolytos von Theben: Texte und Untersuchungen. Münster: Aschendorff, 1898 (pp. 143–45).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesactesapocryph00flam/page/70/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Flamion, Joseph. <em>Les Actes apocryphes de l’apôtre André: Les Actes d’André et de Matthias, de Pierre et d’André et les textes apparentés</em>. Leuven: Bureau du recueil, 1911 (pp. 70–78).</p>",
+      "line_text": "Flamion, Joseph. Les Actes apocryphes de l’apôtre André: Les Actes d’André et de Matthias, de Pierre et d’André et les textes apparentés. Leuven: Bureau du recueil, 1911 (pp. 70–78).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/lesactesapocryph00flam/page/70/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=JxUm5KDyaDUC&amp;pg=PA239&amp;lpg=PA239&amp;dq=Cannibals,+Myrmidonians,+Sinopeans+or+Jews&amp;source=bl&amp;ots=9LKMOB1D9F&amp;sig=ACfU3U1QIZHJoDRXv4KZNwJ-WPdMWIomZA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiZwJjo6e_0AhWDbc0KHbJtAc0Q6AF6BAgSEAM#v=onepage&amp;q=Cannibals%2C%20Myrmidonians%2C%20Sinopeans%20or%20Jews&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lanzillota, Fernando Lautaro Roig. “Cannibals, Myrmidonians, Sinopeans or Jews? The Five Versions of the Acts of Andrew and Matthias and Their Sources.” Pages 221–43 in <em>Wonders Never Cease: The Purpose of Narrating Miracle Stories in the New Testament and its Religious Environment</em>. Edited by Ed. M. Labahn and B. J. Lietaert Peerbolte. Library of New Testament Studies 288. London: T. &amp; T. Clark, 2006.</p>",
+      "line_text": "Lanzillota, Fernando Lautaro Roig. “Cannibals, Myrmidonians, Sinopeans or Jews? The Five Versions of the Acts of Andrew and Matthias and Their Sources.” Pages 221–43 in Wonders Never Cease: The Purpose of Narrating Miracle Stories in the New Testament and its Religious Environment. Edited by Ed. M. Labahn and B. J. Lietaert Peerbolte. Library of New Testament Studies 288. London: T. &amp; T. Clark, 2006.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=JxUm5KDyaDUC&pg=PA239&lpg=PA239&dq=Cannibals,+Myrmidonians,+Sinopeans+or+Jews&source=bl&ots=9LKMOB1D9F&sig=ACfU3U1QIZHJoDRXv4KZNwJ-WPdMWIomZA&hl=en&sa=X&ved=2ahUKEwiZwJjo6e_0AhWDbc0KHbJtAc0Q6AF6BAgSEAM#v=onepage&q=Cannibals%2C%20Myrmidonians%2C%20Sinopeans%20or%20Jews&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>____________. “The Apocryphal Acts of Andrew: A New Approach to the Character, Thought, and Meaning of the Primitive Text.” PhD. diss, Rijksuniversiteit Groningen, 2004 (see pp. 6, 83–84, 100–103).</p>",
+      "line_text": "____________. “The Apocryphal Acts of Andrew: A New Approach to the Character, Thought, and Meaning of the Primitive Text.” PhD. diss, Rijksuniversiteit Groningen, 2004 (see pp. 6, 83–84, 100–103).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/566/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3. Braunschweig, 1883–1890 (see vol. 1:567–84).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3. Braunschweig, 1883–1890 (see vol. 1:567–84).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/566/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Peterson<em>, </em>Peter M.<em> Andrew, Brother of Simon Peter</em>: <em>His History and his Legend. </em>NovT Sup 1. Leiden: Brill, 1958. Repr. 1963 (pp. 18–19).</p>",
+      "line_text": "Peterson, Peter M. Andrew, Brother of Simon Peter: His History and his Legend. NovT Sup 1. Leiden: Brill, 1958. Repr. 1963 (pp. 18–19).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Prieur, Jean-Marc. <em>Acta Andreae.</em> 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (vol. 1, pp. 15, 18–20).</p>",
+      "line_text": "Prieur, Jean-Marc. Acta Andreae. 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (vol. 1, pp. 15, 18–20).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>____________. “Les Actes apocryphes de l’apôtre André: Présentation des diverses traditions apocryphes et état de la question.”<em>ANRW</em> II 25,6 (1988): 4384–4414 (at 4401–4402).</p>",
+      "line_text": "____________. “Les Actes apocryphes de l’apôtre André: Présentation des diverses traditions apocryphes et état de la question.”ANRW II 25,6 (1988): 4384–4414 (at 4401–4402).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

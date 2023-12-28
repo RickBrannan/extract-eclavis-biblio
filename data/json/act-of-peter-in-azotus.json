@@ -1,0 +1,71 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/act-of-peter-in-azotus/",
+  "nasscal_toc_title": "Act of Peter in Azotus",
+  "filename": "act-of-peter-in-azotus",
+  "latin_title": "Actus Petri Azoti",
+  "abbrev": "Act Pet. Az.",
+  "alt_titles": [
+    "From the Acts of the Holy Apostle Peter"
+  ],
+  "clavis_number": 690,
+  "category": "Apocryphal Acts",
+  "compiler": "Cambry G. Pardee, Pepperdine University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 266<sup>v</sup>–269<sup>r</sup> (11/12th cent.)</p>",
+      "line_text": "Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 266v–269r (11/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
+      ]
+    },
+    {
+      "line_html": "<p>Bovon, François, and Bertrand Bouvier. “Un fragment grec inédit des Actes de Pierre?” <em>Apocrypha </em>17 (2006): 9–54.</p>",
+      "line_text": "Bovon, François, and Bertrand Bouvier. “Un fragment grec inédit des Actes de Pierre?” Apocrypha 17 (2006): 9–54.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pardee, Cambry. “Act of Peter in Ashdod.” Pages 264–77 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Volume 2. Edited by Tony Burke. Grand Rapids: Eerdmans, 2017.</p>",
+      "line_text": "Pardee, Cambry. “Act of Peter in Ashdod.” Pages 264–77 in New Testament Apocrypha: More Noncanonical Scriptures. Volume 2. Edited by Tony Burke. Grand Rapids: Eerdmans, 2017.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bovon, François, and Bertrand Bouvier. “Un fragment grec inédit des Actes de Pierre?” <em>Apocrypha </em>17 (2006): 9–54.</p>",
+      "line_text": "Bovon, François, and Bertrand Bouvier. “Un fragment grec inédit des Actes de Pierre?” Apocrypha 17 (2006): 9–54.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap05lipsgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard Adelbert. <em>Die apokryphen Apostelgeschichten und Apostellegenden</em>. 2 vols. Braunschweig: Schwetschke und Sohn, 1883–1887 (vol. 2, pp. 233–35).</p>",
+      "line_text": "Lipsius, Richard Adelbert. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. Braunschweig: Schwetschke und Sohn, 1883–1887 (vol. 2, pp. 233–35).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap05lipsgoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap03lipsgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard Adelbert. <em>Die apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ergänzungsheft</em>. Braunschweig: Schwetschke und Sohn, 1890 (pp. 225–28).</p>",
+      "line_text": "Lipsius, Richard Adelbert. Die apokryphen Apostelgeschichten und Apostellegenden. Ergänzungsheft. Braunschweig: Schwetschke und Sohn, 1890 (pp. 225–28).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap03lipsgoog"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

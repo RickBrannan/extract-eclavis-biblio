@@ -1,0 +1,546 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-four-bodiless-creatures-by-pseudo-john-chrysostom/",
+  "nasscal_toc_title": "Encomium on the Four Bodiless Creatures by Pseudo-John Chrysostom",
+  "filename": "encomium-on-the-four-bodiless-creatures-by-pseudo-john-chrysostom",
+  "latin_title": "In quattuor animalia",
+  "abbrev": "Encom. 4 Creat.",
+  "alt_titles": [
+    "Encomium on the Four Bodiless Creatures by Ps.-John Chrysostom",
+    "On the Four Bodiless Creatures"
+  ],
+  "clavis_number": 685,
+  "category": "Pseudo-Apostolic Memoirs",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 24, fols. 89<sup>v</sup>–98<sup>r</sup> (1360) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n327/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB 11-2</a>)</p>",
+      "line_text": "Cairo, Coptic Museum, 24, fols. 89v–98r (1360) (CMB 11-2)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n327/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 187 (Graf 23), fols. 3<sup>r</sup>–15<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, 187 (Graf 23), fols. 3r–15v (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 632 (Graf 445), fols.  267<sup>r</sup>–272<sup>v</sup> (1693)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 632 (Graf 445), fols.  267r–272v (1693)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 615 (Graf 447), n. 10</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 615 (Graf 447), n. 10",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 465(BB), fol. 97 (17th cent.) ~ single page fragment</p>",
+      "line_text": "Cairo, Coptic Museum, 465(BB), fol. 97 (17th cent.) ~ single page fragment",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 443 (Graf 454), fols. 256<sup>v</sup>–270<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 443 (Graf 454), fols. 256v–270r (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 617 (Graf 463), fols. 160<sup>r</sup>–169<sup>r</sup> (18/19th cent.)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 617 (Graf 463), fols. 160r–169r (18/19th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 646 (Graf 467), fols. 1<sup>r</sup>–8<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 646 (Graf 467), fols. 1r–8v (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 663 (Graf 493), fols. 142<sup>v</sup>–160<sup>r</sup> (14th cent.) ~ fragmentary</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 663 (Graf 493), fols. 142v–160r (14th cent.) ~ fragmentary",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, 660 (Graf 498), fols. 140<sup>r</sup>–149<sup>r</sup> (17th cent.)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, 660 (Graf 498), fols. 140r–149r (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 98 (Graf 719), fols. 119<sup>v</sup>–121<sup>v</sup>, 123<sup>r</sup>–128<sup>v</sup> (undated)</p>",
+      "line_text": "Cairo, Coptic Museum, 98 (Graf 719), fols. 119v–121v, 123r–128v (undated)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maryut, Mar Mina Monastery (digital copy catalogued as Los Angeles, St. Shenouda the Archimandrite Coptic Society, Ms.Mar.Mena.2), fols. 57<sup>r</sup>–62<sup>r</sup> (1766/1777)</p>",
+      "line_text": "Maryut, Mar Mina Monastery (digital copy catalogued as Los Angeles, St. Shenouda the Archimandrite Coptic Society, Ms.Mar.Mena.2), fols. 57r–62r (1766/1777)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 145, fols. 161<sup>v</sup>–179<sup>r</sup> (1641)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 145, fols. 161v–179r (1641)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-148/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, arabe 148, fols. 81<sup>r</sup>–108<sup>r</sup> (1654–1655)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 148, fols. 81r–108r (1654–1655)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-148/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zaß 388 (Hag. 22)</p>",
+      "line_text": "Zaß 388 (Hag. 22)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zaß 403 (Hag. 37)</p>",
+      "line_text": "Zaß 403 (Hag. 37)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zaß 413 (Hag. 347; 13/14th cent.)</p>",
+      "line_text": "Zaß 413 (Hag. 347; 13/14th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zaß 414 (Hag. 48)</p>",
+      "line_text": "Zaß 414 (Hag. 48)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Girgis, Murqus. <em>Kitāb at-ta‘hazā ar-rūhīyā.</em> Cairo, 1926 (from unidentified manuscript, pp. 67–81).</p>",
+      "line_text": "Girgis, Murqus. Kitāb at-ta‘hazā ar-rūhīyā. Cairo, 1926 (from unidentified manuscript, pp. 67–81).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n585/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Studi e testi 118, 133, 146–147, 172. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (survey of Arabic manuscripts, vol. 1, p. 545).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Studi e testi 118, 133, 146–147, 172. Rome: Biblioteca Apostolica Vaticana, 1944–1953 (survey of Arabic manuscripts, vol. 1, p. 545).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n585/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=7WLRNFtaT_4C&amp;pg=PA75&amp;lpg=PA75&amp;dq=chrysostom+bodiless+creatures+qasr+ibrim&amp;source=bl&amp;ots=NimdHu-Ke_&amp;sig=ACfU3U31KOkv2znxaFzE83VzNSw64MSENQ&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjQ06u7jvHiAhUNXa0KHffYC44Q6AEwC3oECAkQAQ#v=onepage&amp;q=chrysostom%20bodiless%20creatures%20qasr%20ibrim&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Proverbio, Delio Vania. <i>La recensione etiopica dell’omelia pseudocrisostomica de ficu exarata ed il suo tréfonds oriental.</i> Aethiopostische Forschungen 50. Wiesbaden: Harrassowitz, 1998 (updated list of Arabic sources, p. 76).</p>",
+      "line_text": "Proverbio, Delio Vania. La recensione etiopica dell’omelia pseudocrisostomica de ficu exarata ed il suo tréfonds oriental. Aethiopostische Forschungen 50. Wiesbaden: Harrassowitz, 1998 (updated list of Arabic sources, p. 76).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=7WLRNFtaT_4C&pg=PA75&lpg=PA75&dq=chrysostom+bodiless+creatures+qasr+ibrim&source=bl&ots=NimdHu-Ke_&sig=ACfU3U31KOkv2znxaFzE83VzNSw64MSENQ&hl=en&sa=X&ved=2ahUKEwjQ06u7jvHiAhUNXa0KHffYC44Q6AEwC3oECAkQAQ#v=onepage&q=chrysostom%20bodiless%20creatures%20qasr%20ibrim&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mich-at/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MICH.AT (892/893)</p>",
+      "line_text": "MICH.AT (892/893)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mich-at/"
+      ]
+    },
+    {
+      "line_html": "<p>MONB.PA (<a href=\"https://atlas.paths-erc.eu/manuscripts/588\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "MONB.PA (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/588"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 3581A.122</p>",
+      "line_text": "London, British Library, Or. 3581A.122",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Copt. c. 60 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1727\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry ~ assigned to MONB.PA by Alin Suciu)</p>",
+      "line_text": "Oxford, Bodleian Library, Copt. c. 60 (PAThs entry ~ assigned to MONB.PA by Alin Suciu)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1727"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Musée du Louvre, E. 10089</p>",
+      "line_text": "Paris, Musée du Louvre, E. 10089",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek – Papyrussamlung, K 9770–9771</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek – Papyrussamlung, K 9770–9771",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>SIUD.AA (formerly MONB.NO) (<a href=\"https://atlas.paths-erc.eu/manuscripts/6284\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "SIUD.AA (formerly MONB.NO) (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/6284"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">9–14: Paris, Bibliothèque nationale de France, Copte 129.18.116–118</p>",
+      "line_text": "9–14: Paris, Bibliothèque nationale de France, Copte 129.18.116–118",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">25: London, British Library, Or. 6954.50</p>",
+      "line_text": "25: London, British Library, Or. 6954.50",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">29–30: Napoli, Biblioteca Nazionale Vittorio Emanuele III, IB, 11.061</p>",
+      "line_text": "29–30: Napoli, Biblioteca Nazionale Vittorio Emanuele III, IB, 11.061",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">31: Paris, Bibliothèque nationale de France, Copte 131.7.20</p>",
+      "line_text": "31: Paris, Bibliothèque nationale de France, Copte 131.7.20",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">31: Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, MS. or. fol., BS.FOL1614bis.cat03</p>",
+      "line_text": "31: Berlin, Staatsbibliothek zu Berlin – Preußischer Kulturbesitz, MS. or. fol., BS.FOL1614bis.cat03",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">35–44: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 28.157.1–5</p>",
+      "line_text": "35–44: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 28.157.1–5",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">45–46: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 28.157.6</p>",
+      "line_text": "45–46: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 28.157.6",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">55–58: Cairo, Coptic Museum, C8018.1–2</p>",
+      "line_text": "55–58: Cairo, Coptic Museum, C8018.1–2",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">61–62: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 25.123.1</p>",
+      "line_text": "61–62: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 25.123.1",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">63–64: Cairo, Coptic Museum, C9234.1</p>",
+      "line_text": "63–64: Cairo, Coptic Museum, C9234.1",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">65–66: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 25.123.2</p>",
+      "line_text": "65–66: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109 cass 25.123.2",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">65–66: Paris, Bibliothèque nationale de France, Copte 129.18.120</p>",
+      "line_text": "65–66: Paris, Bibliothèque nationale de France, Copte 129.18.120",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">95–96: Vienna, Österreichische Nationalbibliothek – Papyrussamlung, K 9492</p>",
+      "line_text": "95–96: Vienna, Österreichische Nationalbibliothek – Papyrussamlung, K 9492",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">99–100: Paris, Bibliothèque nationale de France, Copte 131.5.43</p>",
+      "line_text": "99–100: Paris, Bibliothèque nationale de France, Copte 131.5.43",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">100–110: Paris, Bibliothèque nationale de France, Copte 131.5.81–85</p>",
+      "line_text": "100–110: Paris, Bibliothèque nationale de France, Copte 131.5.81–85",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">129–144: Vatican, Biblioteca Apostolica Vaticana, Vat. copt. 111.1.1–8</p>",
+      "line_text": "129–144: Vatican, Biblioteca Apostolica Vaticana, Vat. copt. 111.1.1–8",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">163–164: Vienna, Österreichische Nationalbibliothek – Papyrussamlung, K 9493</p>",
+      "line_text": "163–164: Vienna, Österreichische Nationalbibliothek – Papyrussamlung, K 9493",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">— : London, British Library, Or. 3581B.86</p>",
+      "line_text": "— : London, British Library, Or. 3581B.86",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">— : Cairo, Coptic Museum, 9234.2</p>",
+      "line_text": "— : Cairo, Coptic Museum, 9234.2",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Cairo, Coptic Museum, JdE 48085 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1725\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "Cairo, Coptic Museum, JdE 48085 (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1725"
+      ]
+    },
+    {
+      "line_html": "<p>Oxford, Bodleian Library, Clarend. B25.1–2.INF (<a href=\"https://atlas.paths-erc.eu/manuscripts/1726\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs </a>entry)</p>",
+      "line_text": "Oxford, Bodleian Library, Clarend. B25.1–2.INF (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1726"
+      ]
+    },
+    {
+      "line_html": "<p>Cambridge, Cambridge University Library, registration no. 64/33 (DBMNT 1483) (two leaves numbered 1, 2, 7, and 8 found in Qasr Ibrim; <a href=\"https://atlas.paths-erc.eu/manuscripts/6401\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) (8th–10th cent.)</p>",
+      "line_text": "Cambridge, Cambridge University Library, registration no. 64/33 (DBMNT 1483) (two leaves numbered 1, 2, 7, and 8 found in Qasr Ibrim; PAThs entry) (8th–10th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/6401"
+      ]
+    },
+    {
+      "line_html": "<p>Wansink, Craig S., ed. “Encomium on the Four Bodiless Living Creatures.” Pages 27–46 in <em>Homiletica From the Pierpont Morgan Library</em>. Edited by Leo Depuydt. CSCO 524. Louvain: Peeters, 1993 (edition based on MICH.AT).</p>",
+      "line_text": "Wansink, Craig S., ed. “Encomium on the Four Bodiless Living Creatures.” Pages 27–46 in Homiletica From the Pierpont Morgan Library. Edited by Leo Depuydt. CSCO 524. Louvain: Peeters, 1993 (edition based on MICH.AT).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Recension A</p>",
+      "line_text": "Recension A",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1833, fols. 73<sup>r</sup>–84<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1833, fols. 73r–84v (14th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 619, fols. 106<sup>r</sup>–126<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 619, fols. 106r–126v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 691, fols. 91<sup>v</sup>–106<sup>r</sup> (1293)</p>",
+      "line_text": "London, British Library, Or. 691, fols. 91v–106r (1293)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-ethiopien-dabbadie-54/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Ethiopien d’Abbadie 54, fols. 66<sup>r</sup>–80<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Ethiopien d’Abbadie 54, fols. 66r–80r (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-ethiopien-dabbadie-54/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Ethiopien d’Abbadie 92, fols. 67<sup>r</sup>–76<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Ethiopien d’Abbadie 92, fols. 67r–76v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 6892, fols. 20<sup>r</sup>–47<sup>v</sup></p>",
+      "line_text": "EMML 6892, fols. 20r–47v",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 7636, fols. 180<sup>r</sup>–189<sup>r</sup></p>",
+      "line_text": "EMML 7636, fols. 180r–189r",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 7840, fols. 11<sup>v</sup>–33<sup>r</sup></p>",
+      "line_text": "EMML 7840, fols. 11v–33r",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Recension B</p>",
+      "line_text": "Recension B",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1763, fols. 48<sup>v</sup>–56<sup>v</sup> (1336–1340)</p>",
+      "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1763, fols. 48v–56v (1336–1340)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Ethiopien d’Abbadie 123, fols. 140<sup>r</sup>–152<sup>v</sup> (18/19th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Ethiopien d’Abbadie 123, fols. 140r–152v (18/19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Unassigned:</p>",
+      "line_text": "Unassigned:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Royal Library, Windsor Castle, Eth. Windsor III, 2<sup>r</sup>–10<sup>v</sup></p>",
+      "line_text": "Royal Library, Windsor Castle, Eth. Windsor III, 2r–10v",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dasē (Wallo), Church of Dasē Madhānē ‘Ālam, EMML 4800, fols. 98<sup>v</sup>–107<sup>v</sup> (18th cent.) ~ <a href=\"https://archive.org/details/EMMLCatalog10/page/n323/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
+      "line_text": "Dasē (Wallo), Church of Dasē Madhānē ‘Ālam, EMML 4800, fols. 98v–107v (18th cent.) ~ CATALOG",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/EMMLCatalog10/page/n323/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lusini, <span class=\"st\">Gianfrancesco</span>. “Appunti sulla patristica greca di tradizione etiopica.” <em>Studi classici e orientali</em> 38 (1988): 469–93 (discussion of sources, pp. 487–88).</p>",
+      "line_text": "Lusini, Gianfrancesco. “Appunti sulla patristica greca di tradizione etiopica.” Studi classici e orientali 38 (1988): 469–93 (discussion of sources, pp. 487–88).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=7WLRNFtaT_4C&amp;pg=PA75&amp;lpg=PA75&amp;dq=chrysostom+bodiless+creatures+qasr+ibrim&amp;source=bl&amp;ots=NimdHu-Ke_&amp;sig=ACfU3U31KOkv2znxaFzE83VzNSw64MSENQ&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjQ06u7jvHiAhUNXa0KHffYC44Q6AEwC3oECAkQAQ#v=onepage&amp;q=chrysostom%20bodiless%20creatures%20qasr%20ibrim&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Proverbio, Delio Vania. <i>La recensione etiopica dell’omelia pseudocrisostomica de ficu exarata ed il suo tréfonds oriental.</i> Aethiopostische Forschungen 50. Wiesbaden: Harrassowitz, 1998 (list of Ethiopic sources, pp. 76–77).</p>",
+      "line_text": "Proverbio, Delio Vania. La recensione etiopica dell’omelia pseudocrisostomica de ficu exarata ed il suo tréfonds oriental. Aethiopostische Forschungen 50. Wiesbaden: Harrassowitz, 1998 (list of Ethiopic sources, pp. 76–77).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=7WLRNFtaT_4C&pg=PA75&lpg=PA75&dq=chrysostom+bodiless+creatures+qasr+ibrim&source=bl&ots=NimdHu-Ke_&sig=ACfU3U31KOkv2znxaFzE83VzNSw64MSENQ&hl=en&sa=X&ved=2ahUKEwjQ06u7jvHiAhUNXa0KHffYC44Q6AEwC3oECAkQAQ#v=onepage&q=chrysostom%20bodiless%20creatures%20qasr%20ibrim&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 232, fols. 109<sup>v</sup>–120<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 232, fols. 109v–120v (16th cent.)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Khartoum, National Museum of Sudan, 20345 (DBMNT 1390) (11th/12th cent.)</p>",
+      "line_text": "Khartoum, National Museum of Sudan, 20345 (DBMNT 1390) (11th/12th cent.)",
+      "language": "Old Nubian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Browne, Gerald M. “An Old Nubian Version of Ps.-Chrysostom, <em>In quattuor animalia</em>.” <em>Altorientalische Forschungen</em> 15 (1988): 215–19 (text and translation of fragment, pp. 217–18).</p>",
+      "line_text": "Browne, Gerald M. “An Old Nubian Version of Ps.-Chrysostom, In quattuor animalia.” Altorientalische Forschungen 15 (1988): 215–19 (text and translation of fragment, pp. 217–18).",
+      "language": "Old Nubian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Browne, Gerald M. <em>Literary Texts in Old Nubian.</em> Beiträge zur Sudanforschung 5. Vienna: Verein der Förderer der Sudanforschung, 1989 (text and translation, pp. 78-79, 93–94).</p>",
+      "line_text": "Browne, Gerald M. Literary Texts in Old Nubian. Beiträge zur Sudanforschung 5. Vienna: Verein der Förderer der Sudanforschung, 1989 (text and translation, pp. 78-79, 93–94).",
+      "language": "Old Nubian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wansink, Craig S., trans. “Encomium on the Four Bodiless Living Creatures.” Pages 27–47 in <em>Homiletica From the Pierpont Morgan Library</em>. Edited by Leo Depuydt. CSCO 525. Louvain: Peeters, 1993 (based on Wansink’s edition of MICH.AT).</p>",
+      "line_text": "Wansink, Craig S., trans. “Encomium on the Four Bodiless Living Creatures.” Pages 27–47 in Homiletica From the Pierpont Morgan Library. Edited by Leo Depuydt. CSCO 525. Louvain: Peeters, 1993 (based on Wansink’s edition of MICH.AT).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Hagen, Joost L. “The Diaries of the Apostles: ‘Manuscript Find’ and ‘Manuscript Fiction’ in Coptic Homilies and Other Literary Texts.” Pages 349–67 in vol. 1 of <em>Coptic Studies on the Threshold of a New Millennium: Proceedings of the Seventh International Congress of Coptic Studies, Leiden, 27 August–2 September 2000</em>. Edited by Mat Immerzeel and Jacques van der Vliet. 2 vols. OLA 133. Leuven: Peeters, 2004.</p>",
+      "line_text": "Hagen, Joost L. “The Diaries of the Apostles: ‘Manuscript Find’ and ‘Manuscript Fiction’ in Coptic Homilies and Other Literary Texts.” Pages 349–67 in vol. 1 of Coptic Studies on the Threshold of a New Millennium: Proceedings of the Seventh International Congress of Coptic Studies, Leiden, 27 August–2 September 2000. Edited by Mat Immerzeel and Jacques van der Vliet. 2 vols. OLA 133. Leuven: Peeters, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=oz_0H1G_9oEC&amp;pg=PA467&amp;lpg=PA467&amp;dq=The+Great+Cherub%E2%80%99+and+His+Brothers.+Adam,+Enoch+and+Michael&amp;source=bl&amp;ots=juva6wUl_9&amp;sig=ACfU3U0wbvD6ESvuamjhwYHg6OoGmIToaQ&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwi5qquKztfhAhVOnKwKHUPxBlsQ6AEwEnoECAgQAQ#v=onepage&amp;q=The%20Great%20Cherub%E2%80%99%20and%20His%20Brothers.%20Adam%2C%20Enoch%20and%20Michael&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “‘The Great Cherub’ and His Brothers. Adam, Enoch and Michael and the Names, Deeds and Faces of the Creatures in Ps.-Chrysostom, On the Four Creatures.” Pages 467–80 in volume 2 of <em>Actes du huitème Congrés International d’études coptes. Paris, 28 juin – juillet 2004. </em>Edited by N. Boson and A. Boud’hors. 2 vols. OLA 162–63; Louvain: Peeters, 2007.</p>",
+      "line_text": "__________. “‘The Great Cherub’ and His Brothers. Adam, Enoch and Michael and the Names, Deeds and Faces of the Creatures in Ps.-Chrysostom, On the Four Creatures.” Pages 467–80 in volume 2 of Actes du huitème Congrés International d’études coptes. Paris, 28 juin – juillet 2004. Edited by N. Boson and A. Boud’hors. 2 vols. OLA 162–63; Louvain: Peeters, 2007.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=oz_0H1G_9oEC&pg=PA467&lpg=PA467&dq=The+Great+Cherub%E2%80%99+and+His+Brothers.+Adam,+Enoch+and+Michael&source=bl&ots=juva6wUl_9&sig=ACfU3U0wbvD6ESvuamjhwYHg6OoGmIToaQ&hl=en&sa=X&ved=2ahUKEwi5qquKztfhAhVOnKwKHUPxBlsQ6AEwEnoECAgQAQ#v=onepage&q=The%20Great%20Cherub%E2%80%99%20and%20His%20Brothers.%20Adam%2C%20Enoch%20and%20Michael&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><em>__________. “</em>‘Mens en dier verlost Gij. HERE’ De lofrede voor de feestdag van de Vier Wezens, toegeschreven aan Johannes Chrysostomos.” MA thesis, University of Leiden 2003.</p>",
+      "line_text": "__________. “‘Mens en dier verlost Gij. HERE’ De lofrede voor de feestdag van de Vier Wezens, toegeschreven aan Johannes Chrysostomos.” MA thesis, University of Leiden 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lucchesi, Enzo. “Fausses attributions en hagiographie copte.” <em>Mus</em> 113 (2006): 233–54 (esp. 243–47).</p>",
+      "line_text": "Lucchesi, Enzo. “Fausses attributions en hagiographie copte.” Mus 113 (2006): 233–54 (esp. 243–47).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Müller, Caspar Detlef Gustav. <em>Die Engellehre der koptischen Kirche: Untersuchungen zur Geschichte der christlichen Frömmigkeit in Ägypten</em>. Wiesbaden: Otto Harawotiz, 1959 (pp. 270–72).</p>",
+      "line_text": "Müller, Caspar Detlef Gustav. Die Engellehre der koptischen Kirche: Untersuchungen zur Geschichte der christlichen Frömmigkeit in Ägypten. Wiesbaden: Otto Harawotiz, 1959 (pp. 270–72).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (esp. pp. 80–81).</p>",
+      "line_text": "Suciu, Alin. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (esp. pp. 80–81).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

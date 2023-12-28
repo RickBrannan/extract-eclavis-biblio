@@ -1,0 +1,147 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/hypomnema-on-peter-and-paul/",
+  "nasscal_toc_title": "Hypomnema on Peter and Paul",
+  "filename": "hypomnema-on-peter-and-paul",
+  "latin_title": "Commentarius Petri et Pauli",
+  "abbrev": "Hypom. Pet. Paul",
+  "clavis_number": 526,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bucharest, Biblioteci Academiei R.P.R., 156, fols. 434<sup>v</sup>–444<sup>r</sup> (15th cent.) (=de Santos Otero 1)</p>",
+      "line_text": "Bucharest, Biblioteci Academiei R.P.R., 156, fols. 434v–444r (15th cent.) (=de Santos Otero 1)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Bucharest, Biblioteci Academiei R.P.R., 153, fols. 343<sup>r</sup>–362<sup>v</sup> (15th cent.) (=de Santos Otero 2)</p>",
+      "line_text": "Bucharest, Biblioteci Academiei R.P.R., 153, fols. 343r–362v (15th cent.) (=de Santos Otero 2)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, Library of the Russian Academy of Sciences, 32.I.6 (Nov. 110), fols. 1<sup>r</sup>–21<sup>v</sup> (16th cent.) (=de Santos Otero 5b)</p>",
+      "line_text": "St. Petersburg, Library of the Russian Academy of Sciences, 32.I.6 (Nov. 110), fols. 1r–21v (16th cent.) (=de Santos Otero 5b)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library (F. 152), Lukaševič and Markevič 89 (1073), fols. 341<sup>r</sup>–352<sup>r</sup> (17th cent.) (=de Santos Otero 32)</p>",
+      "line_text": "Moscow, Russian State Library (F. 152), Lukaševič and Markevič 89 (1073), fols. 341r–352r (17th cent.) (=de Santos Otero 32)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1 pp. 60–66).</p>",
+      "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1 pp. 60–66).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Review of Aurelio de Santos Otero, <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>, vol. 1. <em>Slavonic and East European Review</em> 58 (1980): 256–68 at 258 (with corrections to de Santos Otero).</p>",
+      "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handscriftliche Überlieferung der altslavischen Apokryphen, vol. 1. Slavonic and East European Review 58 (1980): 256–68 at 258 (with corrections to de Santos Otero).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-144-sup/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, F 144 sup., fols. 1<sup>r</sup>–9<sup>r </sup>(10th/11th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 144 sup., fols. 1r–9r (10th/11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-144-sup/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1474/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1474, fols. 62<sup>v</sup>–75<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1474, fols. 62v–75v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1474/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1528, fols. 47<sup>v</sup>–62<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1528, fols. 47v–62v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1608/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1608, fols. 137<sup>r</sup>–156<sup>r </sup>(14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1608, fols. 137r–156r (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1608/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum27unse/page/n557/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Iunii</em>. <a href=\"https://books.google.ca/books?id=jvdIAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\">Vol. 5</a>. Antwerp: P. Jacobs, 1709 (pp. 411–24); 3rd ed. vol. 7. Paris: V. Palmé, 1867 (Greek text from an unidentified manuscript from the Biblioteca Medicea Laurenziana in parallel with an incomplete Latin translation by Jacob Sirletus from a Vatican manuscript completed with a portion from Lippomano/Surius,  pp. 374–86).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Iunii. Vol. 5. Antwerp: P. Jacobs, 1709 (pp. 411–24); 3rd ed. vol. 7. Paris: V. Palmé, 1867 (Greek text from an unidentified manuscript from the Biblioteca Medicea Laurenziana in parallel with an incomplete Latin translation by Jacob Sirletus from a Vatican manuscript completed with a portion from Lippomano/Surius,  pp. 374–86).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum27unse/page/n557/mode/2up",
+        "https://books.google.ca/books?id=jvdIAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=dZEeNdvTevAC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Lippomano, Luigi (Aloisius Lipomanus). <em>Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta</em>. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei,  1551–1560 (Latin translation from an unidentified source, vol. 6, pp. 78<sup>r</sup>–83<sup>r</sup>).</p>",
+      "line_text": "Lippomano, Luigi (Aloisius Lipomanus). Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei,  1551–1560 (Latin translation from an unidentified source, vol. 6, pp. 78r–83r).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=dZEeNdvTevAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=ucm.5325300826&amp;view=1up&amp;seq=899\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Surius, Laurentius. <em>De probatis Sanctorum historiis partim ex tomis Aloysii Lipomani. </em>6 vols. Cologne: Calenius and Quentel, 1570–1575 (reprint of Lippomano’s Latin translation in vol. 3, pp. 859–67; attributed here to Symeon Metaphrastes).</p>",
+      "line_text": "Surius, Laurentius. De probatis Sanctorum historiis partim ex tomis Aloysii Lipomani. 6 vols. Cologne: Calenius and Quentel, 1570–1575 (reprint of Lippomano’s Latin translation in vol. 3, pp. 859–67; attributed here to Symeon Metaphrastes).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=ucm.5325300826&view=1up&seq=899"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.persee.fr/doc/mefr_0223-5110_1986_num_98_2_2884\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Backus, Irena, and Benoît Gain. “Le cardinal Guglielmo Sirletto (1514–1585), sa bibliothèque et ses traductions de saint Basile.” <em>Mélanges de lécole française de Rome</em> 98.2 (1986): 889–955 (at 909–10; the text is here erroneously [?] identified as the Commentary on Peter and Paul by Sophronius of Jerusalem [=BHG 1495]).</p>",
+      "line_text": "Backus, Irena, and Benoît Gain. “Le cardinal Guglielmo Sirletto (1514–1585), sa bibliothèque et ses traductions de saint Basile.” Mélanges de lécole française de Rome 98.2 (1986): 889–955 (at 909–10; the text is here erroneously [?] identified as the Commentary on Peter and Paul by Sophronius of Jerusalem [=BHG 1495]).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.persee.fr/doc/mefr_0223-5110_1986_num_98_2_2884"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap05lipsgoog/page/n230/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard Adelbert. <em>Die apokryphen Apostelgeschichten und Apostellegenden</em>. 2 vols. Braunschweig: Schwetschke und Sohn, 1883–1887 (vol. 2.1, pp. 217–27).</p>",
+      "line_text": "Lipsius, Richard Adelbert. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. Braunschweig: Schwetschke und Sohn, 1883–1887 (vol. 2.1, pp. 217–27).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap05lipsgoog/page/n230/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Vouaux, Leon. <em>Les actes de Pierre: Introduction, textes, traduction et commentaire</em>. Les apocryphes du Nouveau Testament; Documents pour servir a l’étude des origines chretiennes. Paris: Letouzey et Ane, 1922 (pp. 194–95).</p>",
+      "line_text": "Vouaux, Leon. Les actes de Pierre: Introduction, textes, traduction et commentaire. Les apocryphes du Nouveau Testament; Documents pour servir a l’étude des origines chretiennes. Paris: Letouzey et Ane, 1922 (pp. 194–95).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

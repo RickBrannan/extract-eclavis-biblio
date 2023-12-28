@@ -1,0 +1,30 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
+  "nasscal_toc_title": "Epistle of Pilate to Tiberius",
+  "filename": "epistle-of-pilate-to-tiberius",
+  "latin_title": "1. SUMMARY",
+  "clavis_number": 585,
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-bibliotheke-tes-boules-45/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Athens, Bibliothēke tēs Boulēs, 45, fols. 189<sup>r</sup>–193<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Athens, Bibliothēke tēs Boulēs, 45, fols. 189r–193r (16th cent.)",
+      "language": "English",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-bibliotheke-tes-boules-45/"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

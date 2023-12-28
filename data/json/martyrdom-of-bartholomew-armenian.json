@@ -1,0 +1,449 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-bartholomew-armenian/",
+  "nasscal_toc_title": "Martyrdom of Bartholomew (Armenian)",
+  "filename": "martyrdom-of-bartholomew-armenian",
+  "latin_title": "Passio Bartholomaei",
+  "abbrev": "Mart. Bart. (Arm.)",
+  "clavis_number": 200,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 201 (olim 1014), fols. 66<sup>r</sup>–71<sup>r</sup> (12th/13th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 201 (olim 1014), fols. 66r–71r (12th/13th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 212 (olim 463), fols. 443<sup>r</sup>–447<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 212 (olim 463), fols. 443r–447r (13th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 222 (olim 239), fols. 389<sup>v</sup>–396<sup>r</sup> (1335)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 222 (olim 239), fols. 389v–396r (1335)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 228 (olim 653) (1847) ~ copied from M7729</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 228 (olim 653) (1847) ~ copied from M7729",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Additional manuscripts listed by Calzolari (pp. 194–98):</p>",
+      "line_text": "Additional manuscripts listed by Calzolari (pp. 194–98):",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), I-d, pp. 729–734 (1419)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), I-d, pp. 729–734 (1419)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), 154-d, no. 430 (1737)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), 154-d, no. 430 (1737)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), 282, pp. 215–226 (1331)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), 282, pp. 215–226 (1331)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">New Julfa, Holy Savior Monastery,  229, fols. 543<sup>r</sup>–548<sup>r</sup> (16th cent.)</p>",
+      "line_text": "New Julfa, Holy Savior Monastery,  229, fols. 543r–548r (16th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 110, fol. 544<sup>r</sup>–548<sup>v</sup> (1194)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 110, fol. 544r–548v (1194)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 115, fols. 155<sup>r</sup>–158<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 115, fols. 155r–158v (13th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 120, fol. 208<sup>r</sup>–212<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 120, fol. 208r–212r (14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 2, fols. 234<sup>r</sup>–239<sup>v</sup> (ante 1506)</p>",
+      "line_text": "Vienna, Mechitarist Library, 2, fols. 234r–239v (ante 1506)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 2383, fol. 71<sup>v</sup> (1828)</p>",
+      "line_text": "Vienna, Mechitarist Library, 2383, fol. 71v (1828)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 941, fols. 196<sup>v</sup>–199<sup>v</sup> (1689)</p>",
+      "line_text": "Yerevan, Matenadaran, 941, fols. 196v–199v (1689)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993, fols. 668<sup>r</sup>–671<sup>r</sup> (1456)</p>",
+      "line_text": "Yerevan, Matenadaran, 993, fols. 668r–671r (1456)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 1520, fols. 172<sup>r</sup>–176<sup>v</sup> (1404)</p>",
+      "line_text": "Yerevan, Matenadaran, 1520, fols. 172r–176v (1404)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 1524, fols. 736<sup>r</sup>–740<sup>v</sup> (1401/1402)</p>",
+      "line_text": "Yerevan, Matenadaran, 1524, fols. 736r–740v (1401/1402)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 1525, fols. 493<sup>r</sup>–498<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 1525, fols. 493r–498v (13th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 2601, fols. 194<sup>r</sup>–197<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 2601, fols. 194r–197v (13th/14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3779, fols. 95<sup>r</sup>–99<sup>v</sup> (1227)</p>",
+      "line_text": "Yerevan, Matenadaran, 3779, fols. 95r–99v (1227)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3782, fols. 219<sup>v</sup>–223<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 3782, fols. 219v–223r (12th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3787, fols. 599<sup>v</sup>–604<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 3787, fols. 599v–604v (14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3791, fols. 641<sup>r</sup>–644<sup>v</sup> (ante 1453)</p>",
+      "line_text": "Yerevan, Matenadaran, 3791, fols. 641r–644v (ante 1453)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3797, fols. 447<sup>v</sup>–453<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 3797, fols. 447v–453v (14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4670, fols. 728<sup>v</sup>–733<sup>r</sup> (1401)</p>",
+      "line_text": "Yerevan, Matenadaran, 4670, fols. 728v–733r (1401)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4676, fols. 608r–614r (14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4676, fols. 608r–614r (14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4771, fols. 776<sup>r</sup>–779<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4771, fols. 776r–779v (14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4802 (post 1404)</p>",
+      "line_text": "Yerevan, Matenadaran, 4802 (post 1404)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4871, fols. 429<sup>r</sup>–453<sup>r</sup> (13th/14th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4871, fols. 429r–453r (13th/14th cent.)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7441, fols. 287<sup>r</sup>–291<sup>v</sup> (1322)</p>",
+      "line_text": "Yerevan, Matenadaran, 7441, fols. 287r–291v (1322)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7729, no. 310 (1200–1202)</p>",
+      "line_text": "Yerevan, Matenadaran, 7729, no. 310 (1200–1202)",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/LiakatarVark09/page/n475/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Aucher, Iohannes Baptista. <em>Sanctorum Acta pleniora </em>(=Mkrtič Awgerean, <em>Liakatar varkʿew vkayabanutʿ twnkʿ srbocʿ</em>). 12 vols. Venice: Presse de Saint-Lazare, 1810–1814 (edition based on V1014, vol. 9, pp. 447–49).</p>",
+      "line_text": "Aucher, Iohannes Baptista. Sanctorum Acta pleniora (=Mkrtič Awgerean, Liakatar varkʿew vkayabanutʿ twnkʿ srbocʿ). 12 vols. Venice: Presse de Saint-Lazare, 1810–1814 (edition based on V1014, vol. 9, pp. 447–49).",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/LiakatarVark09/page/n475/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/Soperk19/page/n5/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ališan, Łevond. <em>Sopʿerkʿ Haykakankʿ.</em> 22 vols. Venice: Presse de Saint-Lazare, 1853–1861 (vol. 19, pp. 5–30).</p>",
+      "line_text": "Ališan, Łevond. Sopʿerkʿ Haykakankʿ. 22 vols. Venice: Presse de Saint-Lazare, 1853–1861 (vol. 19, pp. 5–30).",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/Soperk19/page/n5/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/VarkEwVkayabanutiwnkSrbotslivesAndMartyrdomsOfTheSaintsVol.1/page/n217/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ališan, Łevond. <em>Varkʿew vkayabanutʿiwnkʿ Srbocʿ hatɘntir kʿtałealkʿ i čaṙɘntracʿ.</em> 2 vols. Venice: Mxit<em>ʿ</em>arean tparan, 1874 (edition based on V1014, vol. 1, pp. 200–11).</p>",
+      "line_text": "Ališan, Łevond. Varkʿew vkayabanutʿiwnkʿ Srbocʿ hatɘntir kʿtałealkʿ i čaṙɘntracʿ. 2 vols. Venice: Mxitʿarean tparan, 1874 (edition based on V1014, vol. 1, pp. 200–11).",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/VarkEwVkayabanutiwnkSrbotslivesAndMartyrdomsOfTheSaintsVol.1/page/n217/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Ališan, Łevond. <em>Hayapatum, parmutʿiwn Hayoc.</em> Venice: Presse de Saint-Lazare, 1901 (extract, pp. 53–54).</p>",
+      "line_text": "Ališan, Łevond. Hayapatum, parmutʿiwn Hayoc. Venice: Presse de Saint-Lazare, 1901 (extract, pp. 53–54).",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n359/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition based on V1014 with variant readings from V633, V239, and V463, pp. 333–57).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (edition based on V1014 with variant readings from V633, V239, and V463, pp. 333–57).",
+      "language": ".1 Martyrdom of Bartholomew",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n359/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 223 (olim 1447), fols. 376<sup>v</sup>–379<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 223 (olim 1447), fols. 376v–379r (15th cent.)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Additional manuscripts listed by Calzolari (pp. 199–200):</p>",
+      "line_text": "Additional manuscripts listed by Calzolari (pp. 199–200):",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), J-9, pp. 172–176 (16th cent.)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), J-9, pp. 172–176 (16th cent.)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Armenian Patriarchate (Monastery of Saint James), J-173, pp. 116, 143 (1512)</p>",
+      "line_text": "Jerusalem, Armenian Patriarchate (Monastery of Saint James), J-173, pp. 116, 143 (1512)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 118, fols. 231<sup>v</sup>–234<sup>v</sup> (1307)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 118, fols. 231v–234v (1307)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Mechitarist Library, 224, fol. 39<sup>v</sup>–41<sup>r</sup> (1428)</p>",
+      "line_text": "Vienna, Mechitarist Library, 224, fol. 39v–41r (1428)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 789, no. 5 (16th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 789, no. 5 (16th cent.)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 992, fols. 155<sup>r</sup>–157<sup>v</sup> (1651)</p>",
+      "line_text": "Yerevan, Matenadaran, 992, fols. 155r–157v (1651)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4677, no. 91 (15th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4677, no. 91 (15th cent.)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4716, no. 103 (1581)</p>",
+      "line_text": "Yerevan, Matenadaran, 4716, no. 103 (1581)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4774, fols. 23<sup>r</sup>–26<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4774, fols. 23r–26v (16th cent.)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4822, fols. 53<sup>v</sup>–57<sup>r</sup> (1491)</p>",
+      "line_text": "Yerevan, Matenadaran, 4822, fols. 53v–57r (1491)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 4925, no. 5 (15th cent.)</p>",
+      "line_text": "Yerevan, Matenadaran, 4925, no. 5 (15th cent.)",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. <em>Les apôtres Thaddée et Barthélemy. Aux origines du christianisme arménien.</em> Apocryphes 13. Turnhout: Brepols, 2011 (list of unpublished manuscripts, pp. 199–200).</p>",
+      "line_text": "Calzolari, Valentina. Les apôtres Thaddée et Barthélemy. Aux origines du christianisme arménien. Apocryphes 13. Turnhout: Brepols, 2011 (list of unpublished manuscripts, pp. 199–200).",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n383/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition based on V1447, pp. 358–64).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (edition based on V1447, pp. 358–64).",
+      "language": ".2 Abridged Martyrdom of Bartholomew and Jude",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n383/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient18pariuoft/page/22/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bayan, George. “Les synaxaire arménien de ter-Israel V: Mois de Kalotz.” <em>Patrologia Orientalis</em> 18.1 (1924): 5–208 (pp. 23–27).</p>",
+      "line_text": "Bayan, George. “Les synaxaire arménien de ter-Israel V: Mois de Kalotz.” Patrologia Orientalis 18.1 (1924): 5–208 (pp. 23–27).",
+      "language": ".2 Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient18pariuoft/page/22/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Hatityan, Artun. “Սուրբ Բարթողիﬔոս առաքյալի վկայությունը.” Էջﬕածին [<em>Etchmiadzine</em>] 8–9 (1982): 53–60.</p>",
+      "line_text": "Hatityan, Artun. “Սուրբ Բարթողիﬔոս առաքյալի վկայությունը.” Էջﬕածին [Etchmiadzine] 8–9 (1982): 53–60.",
+      "language": "Armenian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/TheLifeAndTimesOfSGregory/page/n115/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Malan, Solomon C. <em>The Life and Times of S. Gregory the Illuminator, the Founder and Patron Saint of the Armenian Church.</em> London, Oxford, Cambridge: Rivingtons, 1868 (chs. 16–20 of BHO 156 from Ališan 1874, pp. 99–103).</p>",
+      "line_text": "Malan, Solomon C. The Life and Times of S. Gregory the Illuminator, the Founder and Patron Saint of the Armenian Church. London, Oxford, Cambridge: Rivingtons, 1868 (chs. 16–20 of BHO 156 from Ališan 1874, pp. 99–103).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/TheLifeAndTimesOfSGregory/page/n115/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. <em>Les apôtres Thaddée et Barthélemy. Aux origines du christianisme arménien.</em> Apocryphes 13. Turnhout: Brepols, 2011 (translation of BHO 156 based on the edition by Tchérakian, pp. 123–150).</p>",
+      "line_text": "Calzolari, Valentina. Les apôtres Thaddée et Barthélemy. Aux origines du christianisme arménien. Apocryphes 13. Turnhout: Brepols, 2011 (translation of BHO 156 based on the edition by Tchérakian, pp. 123–150).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits apocryphes sur les apôtres.</em> CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (translation of the texts from Tchérakian, vol. 2:490–514 [BHO 156], 515–24 [BHO 160]).</p>",
+      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres. CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (translation of the texts from Tchérakian, vol. 2:490–514 [BHO 156], 515–24 [BHO 160]).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (summary in vol. 2, pp. 1623–24).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (summary in vol. 2, pp. 1623–24).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/vitaetmartyrium00bartgoog/page/n15/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moesinger, Georgio. <em>Vitae et Martyrium sancti Bartholomaei apostoli, ex sinceris fontibus Armeniacis in linguam latinam conversa.</em> Salisburgi: Typographia Zaunrithiana, 1877 (translation of edition of BHO 156 by Awgerean, pp. 1–19).</p>",
+      "line_text": "Moesinger, Georgio. Vitae et Martyrium sancti Bartholomaei apostoli, ex sinceris fontibus Armeniacis in linguam latinam conversa. Salisburgi: Typographia Zaunrithiana, 1877 (translation of edition of BHO 156 by Awgerean, pp. 1–19).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/vitaetmartyrium00bartgoog/page/n15/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. <em>The Apocryphal Acts of the Apostles in Armenian.</em> Studies on Early Christian Apocrypha 18. Leuven: Peeters, 2022 (pp. 48–67).</p>",
+      "line_text": "Calzolari, Valentina. The Apocryphal Acts of the Apostles in Armenian. Studies on Early Christian Apocrypha 18. Leuven: Peeters, 2022 (pp. 48–67).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Notes sur le Martyre de Barthélemy aménien inédit conservé dans le ms. 7753 du Matenadaran.” Pages 301–20 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by L. DiTommaso, M. Henze, and W. Adler. </em> SVTP 26. Leiden and Boston: Brill, 2018.</p>",
+      "line_text": "__________. “Notes sur le Martyre de Barthélemy aménien inédit conservé dans le ms. 7753 du Matenadaran.” Pages 301–20 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by L. DiTommaso, M. Henze, and W. Adler.  SVTP 26. Leiden and Boston: Brill, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/vanEsbroeck_1983_Saint_Bartholomew/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Esbroeck, Michel van. “The Rise of Saint Barthomolew’s Cult in Armenia from the Seventh to the Thirteenth Centuries.” Pages 161–78 in <em>Medieval Armenian Culture</em>. Edited by Thomas J. Samuelian and Michael E. Stone. University of Pennsylvania Armenian Texts and Studies 6. Chico, CA: Scholars Press, 1984.</p>",
+      "line_text": "Esbroeck, Michel van. “The Rise of Saint Barthomolew’s Cult in Armenia from the Seventh to the Thirteenth Centuries.” Pages 161–78 in Medieval Armenian Culture. Edited by Thomas J. Samuelian and Michael E. Stone. University of Pennsylvania Armenian Texts and Studies 6. Chico, CA: Scholars Press, 1984.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/vanEsbroeck_1983_Saint_Bartholomew/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Chronique arménienne.” <em>AnBoll</em> 80 (1962): 423–45, esp. 425–29.</p>",
+      "line_text": "Esbroeck, Michel van. “Chronique arménienne.” AnBoll 80 (1962): 423–45, esp. 425–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap01lipsgoog/page/n101/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:92–101).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:92–101).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap01lipsgoog/page/n101/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>McDowell, Sean. <em>The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus.</em> Abindgon: Ashgate, 2008. Repr. London and New York: Routledge, 2015 (pp. 216–18).</p>",
+      "line_text": "McDowell, Sean. The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus. Abindgon: Ashgate, 2008. Repr. London and New York: Routledge, 2015 (pp. 216–18).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Otero, Aurelio de Santos.  “Later Acts of Apostles.” Pages 426–82  in <em>New Testament Apocrypha</em>. Vol. 2:  <em>Writings Relating to the Apostles; Apocalypses and Related Subjects</em>. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (see p. 452–53).</p>",
+      "line_text": "Otero, Aurelio de Santos.  “Later Acts of Apostles.” Pages 426–82  in New Testament Apocrypha. Vol. 2:  Writings Relating to the Apostles; Apocalypses and Related Subjects. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (see p. 452–53).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

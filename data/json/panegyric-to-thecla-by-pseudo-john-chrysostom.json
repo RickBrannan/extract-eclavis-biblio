@@ -1,0 +1,188 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/panegyric-to-thecla-by-pseudo-john-chrysostom/",
+  "nasscal_toc_title": "Panegyric to Thecla, by Pseudo-John Chrysostom",
+  "filename": "panegyric-to-thecla-by-pseudo-john-chrysostom",
+  "latin_title": "Laudatio Theclae,",
+  "abbrev": " Pan. Thec.",
+  "alt_titles": [
+    "Panegyric to Thecla"
+  ],
+  "clavis_number": 475,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Hagiou  (Lambros 5564), fols. 58<sup>v</sup>–60<sup>v</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/22195/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Hagiou  (Lambros 5564), fols. 58v–60v (13th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/22195/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-759/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 759, fols. 74<sup>r</sup>–75<sup>v</sup> (10th cent.) ~ incomplete at end</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 759, fols. 74r–75v (10th cent.) ~ incomplete at end",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-759/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiae_cursus_completus_gr_vol_050/page/n341/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca</em>. Vol. 50. Paris: Cerf, 1862 (reprint of du Duc’s text with Latin translation, cols. 745–48).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 50. Paris: Cerf, 1862 (reprint of du Duc’s text with Latin translation, cols. 745–48).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiae_cursus_completus_gr_vol_050/page/n341/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Aubineau, Michel. “Le panégyrique de Thècle, attribué à Jean Chrysostome <em>(BHG </em>1720): la fin retrouvée d’un texte mutilé.” <em>AnBoll</em> 93 (1975): 349–62 (text and French translation of three concluding paragraphs from Panteleēmonos 58, pp. 351–52).</p>",
+      "line_text": "Aubineau, Michel. “Le panégyrique de Thècle, attribué à Jean Chrysostome (BHG 1720): la fin retrouvée d’un texte mutilé.” AnBoll 93 (1975): 349–62 (text and French translation of three concluding paragraphs from Panteleēmonos 58, pp. 351–52).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Fronton du Duc. <em>S. Ioannis Chrysostomi . . . panegyrici tractatus XVII.</em> Bordeaux: Simonem Millangium, 1601 (<em>editio princeps</em> based on Paris, BNF 759, pp. 171–79).</p>",
+      "line_text": "Fronton du Duc. S. Ioannis Chrysostomi . . . panegyrici tractatus XVII. Bordeaux: Simonem Millangium, 1601 (editio princeps based on Paris, BNF 759, pp. 171–79).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Montfaucon, Bernard de. <em>Ioannis Chrysostomi opera.</em> Paris: Gaume, 1835–1839 (reprint of du Duc’s text in vol. 2, pp. 749–51).</p>",
+      "line_text": "Montfaucon, Bernard de. Ioannis Chrysostomi opera. Paris: Gaume, 1835–1839 (reprint of du Duc’s text in vol. 2, pp. 749–51).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Savile, Henry. <em>S. Ioannis Chrysostomi opera graece.</em> 8 vols. Eton, 1613 (reprint of du Duc’s text in vol. 5, pp. 835–36).</p>",
+      "line_text": "Savile, Henry. S. Ioannis Chrysostomi opera graece. 8 vols. Eton, 1613 (reprint of du Duc’s text in vol. 5, pp. 835–36).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>MacDonald, Dennis Ronald and A. D. Scrimgeour. “Pseudo-Chrysostom’s Panegyric to Thecla: The Heroine of the <em>Acts of Paul</em> in Homily and Art.” Pages 151–59 in <em>Semeia 38: The Apocryphal Acts of the Apostles</em>. Atlanta: Scholars Press, 1986 (translation based on editions in PG and Aubineau, pp. 154–57).</p>",
+      "line_text": "MacDonald, Dennis Ronald and A. D. Scrimgeour. “Pseudo-Chrysostom’s Panegyric to Thecla: The Heroine of the Acts of Paul in Homily and Art.” Pages 151–59 in Semeia 38: The Apocryphal Acts of the Apostles. Atlanta: Scholars Press, 1986 (translation based on editions in PG and Aubineau, pp. 154–57).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Aubineau, Michel. “Le panéyrique de Thècle, attribué à Jean Chrysostome <em>(BHG </em>1720): la fin retrouvée d’un texte motile.” <em>AnBoll</em> 93 (1975): 349–62 (translation of three concluding paragraphs, pp. 351–52).</p>",
+      "line_text": "Aubineau, Michel. “Le panéyrique de Thècle, attribué à Jean Chrysostome (BHG 1720): la fin retrouvée d’un texte motile.” AnBoll 93 (1975): 349–62 (translation of three concluding paragraphs, pp. 351–52).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ChrysostomeOeuvresCompltesT2/page/n641/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bareille, Jean-François. <em>Oeuvres complètes de saint Jean Chrysostome. Nouvelle traduction française</em>. 21 vols. Paris: Louis Vives, 1865–1878 (vol. 2, pp. 641–43).</p>",
+      "line_text": "Bareille, Jean-François. Oeuvres complètes de saint Jean Chrysostome. Nouvelle traduction française. 21 vols. Paris: Louis Vives, 1865–1878 (vol. 2, pp. 641–43).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ChrysostomeOeuvresCompltesT2/page/n641/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Albrecht, Ruth. “Thekla.” Page 298 in <em>Der Neue Pauly Enzyklopädie der Antike.</em> Edited by Hubert Cancik and Helmuth Schneider. Alterum Vol 12/1, Tam-Vel. Stuttgart and Weimar: J. B. Metzler, 2000.</p>",
+      "line_text": "Albrecht, Ruth. “Thekla.” Page 298 in Der Neue Pauly Enzyklopädie der Antike. Edited by Hubert Cancik and Helmuth Schneider. Alterum Vol 12/1, Tam-Vel. Stuttgart and Weimar: J. B. Metzler, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gwynn, J. “Thecla.” Pages 882-96 in vol. 4 of <em>Dictionary of Christian Biography,</em><em> Literature, Sects and Doctrines: being a continuation of </em>“<em>The dictionary of the Bible</em>”<em>.</em> Edited by William George Smith and Henry Wace. London: J. Murray, 1877-87.</p>",
+      "line_text": "Gwynn, J. “Thecla.” Pages 882-96 in vol. 4 of Dictionary of Christian Biography, Literature, Sects and Doctrines: being a continuation of “The dictionary of the Bible”. Edited by William George Smith and Henry Wace. London: J. Murray, 1877-87.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jensen, Anne. “Thekla, Vergessene Verkündingerin.” Pages 173–79 in <em>Zwischen Ohnmacht und Befreiung: Biblische Frauengestalten</em>. Edited by Karin Walter. Freiburg, Basel, and Wien: Herder, 1988.</p>",
+      "line_text": "Jensen, Anne. “Thekla, Vergessene Verkündingerin.” Pages 173–79 in Zwischen Ohnmacht und Befreiung: Biblische Frauengestalten. Edited by Karin Walter. Freiburg, Basel, and Wien: Herder, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Thekla –</em> <em>die Apostelin: Ein apokrypher Text neu entdeckt: Übersetzt und kommentiert. </em>Freiburg, Basel, and Wien: Herder, 1995.</p>",
+      "line_text": "———. Thekla – die Apostelin: Ein apokrypher Text neu entdeckt: Übersetzt und kommentiert. Freiburg, Basel, and Wien: Herder, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Johnson, Scott Fitzgerald. <em>The Life and Miracles of Thekla, A Literary Study.</em> Hellenic Studies 13. Cambridge, MA: Harvard University Press, 2006 (see pp. 231–34).</p>",
+      "line_text": "Johnson, Scott Fitzgerald. The Life and Miracles of Thekla, A Literary Study. Hellenic Studies 13. Cambridge, MA: Harvard University Press, 2006 (see pp. 231–34).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe. “Acta Pauli 1959.” <em>Revue d’histoire et de philosophie religieuses</em> 40 (1959): 45–57 (see p. 49).</p>",
+      "line_text": "Kasser, Rodolphe. “Acta Pauli 1959.” Revue d’histoire et de philosophie religieuses 40 (1959): 45–57 (see p. 49).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klauck, Hans-Josef. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005 (see pp. 76–77).</p>",
+      "line_text": "Klauck, Hans-Josef. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005 (see pp. 76–77).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leclercq, Henri. “Thècle (sainte).” <em>DACL</em> 15.2. Paris: Letouzey &amp; Ané, 1953 (cols. 2225–36).</p>",
+      "line_text": "Leclercq, Henri. “Thècle (sainte).” DACL 15.2. Paris: Letouzey &amp; Ané, 1953 (cols. 2225–36).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Naureth, Claudia, and Warns, Rudiger<em>. Thekla: Ihre Bilder in der frühchristlichen Kunst</em>. Wiesbaden: Harrassowitz, 1981 (see pp. 72–81).</p>",
+      "line_text": "Naureth, Claudia, and Warns, Rudiger. Thekla: Ihre Bilder in der frühchristlichen Kunst. Wiesbaden: Harrassowitz, 1981 (see pp. 72–81).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. <em>The Acts of Paul: A New Translation with Introduction and Commentary</em>. Eugene: Cascade Books, 2014 (pp. 140–41).</p>",
+      "line_text": "Pervo, Richard I. The Acts of Paul: A New Translation with Introduction and Commentary. Eugene: Cascade Books, 2014 (pp. 140–41).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pesthy, Monika. “Thecla among the Fathers of the Church.” Pages 164–78 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Kok Pharos, 1996 (see pp. 171–73).</p>",
+      "line_text": "Pesthy, Monika. “Thecla among the Fathers of the Church.” Pages 164–78 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Kok Pharos, 1996 (see pp. 171–73).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reinach, Salomon. “Thekla.” <em>Annales du Musee Guimet </em>35 (1910): 103–40.</p>",
+      "line_text": "Reinach, Salomon. “Thekla.” Annales du Musee Guimet 35 (1910): 103–40.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———.  Pages 229–51 in <em>Cultes, Mythes et Religions IV.</em> Paris: Ernest Leroux, 1912.</p>",
+      "line_text": "———.  Pages 229–51 in Cultes, Mythes et Religions IV. Paris: Ernest Leroux, 1912.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Varalda, Paolo. “Sulla datazione dell’omelia pseudocrisostomica De sancta Thecla martyre (BHG 1720).” <i>Medioevo Greco</i> 16 (2016): 303–10.</p>",
+      "line_text": "Varalda, Paolo. “Sulla datazione dell’omelia pseudocrisostomica De sancta Thecla martyre (BHG 1720).” Medioevo Greco 16 (2016): 303–10.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Warns, Rüdiger. “Weitere Darstellungen der heiligen Thekla,” Pages 75–131 in<em>.</em> <em>Studien</em><em> zur frühchristilichen Kunst II</em>. Edited by Guntram Koch. Studien zur spätantiken und frühchristlichen Kunst und Kultur des Orients. Wiesbaden: Otto Harrassowitz, 1986.</p>",
+      "line_text": "Warns, Rüdiger. “Weitere Darstellungen der heiligen Thekla,” Pages 75–131 in. Studien zur frühchristilichen Kunst II. Edited by Guntram Koch. Studien zur spätantiken und frühchristlichen Kunst und Kultur des Orients. Wiesbaden: Otto Harrassowitz, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

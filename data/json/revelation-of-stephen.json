@@ -1,0 +1,53 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/revelation-of-stephen/",
+  "nasscal_toc_title": "Revelation of Stephen",
+  "filename": "revelation-of-stephen",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Rev. Steph.",
+  "clavis_number": 864,
+  "category": "Apocalypses",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 493, fols. 97<sup>v</sup>–114<sup>r</sup> (8th/9th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 493, fols. 97v–114r (8th/9th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 113<sup>r</sup>–117<sup>v</sup> (11/12th cent.)</p>",
+      "line_text": "Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 113r–117v (11/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
+      ]
+    },
+    {
+      "line_html": "<p>Lagrange, M. J. <em>Saint Étienne et son sanctuaire à Jérusalem</em> (Paris: Picard, 1894), p. 43-52 (Latin).</p>",
+      "line_text": "Lagrange, M. J. Saint Étienne et son sanctuaire à Jérusalem (Paris: Picard, 1894), p. 43-52 (Latin).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://ecclesia.relig-museum.ru/pdf/stephan.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bovon, François. “The Dossier on Stephen the First Martyr.” <em>HTR</em> 96 (203): 279–315.</p>",
+      "line_text": "Bovon, François. “The Dossier on Stephen the First Martyr.” HTR 96 (203): 279–315.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://ecclesia.relig-museum.ru/pdf/stephan.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

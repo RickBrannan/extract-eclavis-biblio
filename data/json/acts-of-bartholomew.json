@@ -1,0 +1,92 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-bartholomew/",
+  "nasscal_toc_title": "Acts of Bartholomew",
+  "filename": "acts-of-bartholomew",
+  "latin_title": "Acta Bartholomaei",
+  "abbrev": "Acts Bart.",
+  "clavis_number": 709,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7853, fols. 374<sup>v</sup>–380<sup>r</sup> (1366)</p>",
+      "line_text": "Yerevan, Matenadaran, 7853, fols. 374v–380r (1366)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Antonelli, Cecilia. <em>Acta et Martyrium Bartholomaei.</em> CCSA 22. Turnhout: Brepols (forthcoming).</p>",
+      "line_text": "Antonelli, Cecilia. Acta et Martyrium Bartholomaei. CCSA 22. Turnhout: Brepols (forthcoming).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. “Notes sur le Martyre de Barthélemy arménien inédit conservé dans le ms. 7853 du Matenadaran.” Pages 301–20 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone.</em> Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018.</p>",
+      "line_text": "Calzolari, Valentina. “Notes sur le Martyre de Barthélemy arménien inédit conservé dans le ms. 7853 du Matenadaran.” Pages 301–20 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018.",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Muradyan, Gohar. “T’adewos ew Bardułimeos aṙak’yalneri masin legendi tarberakner miǰnadaryan bnagrerum” [= Variations of the Legend on the Apostles Thaddeus and Bartholomew in Medieval Texts]. Pages 133–40 in <em>Aršaluys K’ristoneut’yan Hayoc’</em> (At the Dawn of Armenian Christianity, International Conference, 2016). Edited by Vladimir Barxudaryan, Hayk Hakobyan, Hakob Muradyan, and Alfred Šahnazaryan. Yerevan: HH GAA “Gitutʻyun” hratarakchʻutʻyun, 2017 (transcription of the Armenian text).</p>",
+      "line_text": "Muradyan, Gohar. “T’adewos ew Bardułimeos aṙak’yalneri masin legendi tarberakner miǰnadaryan bnagrerum” [= Variations of the Legend on the Apostles Thaddeus and Bartholomew in Medieval Texts]. Pages 133–40 in Aršaluys K’ristoneut’yan Hayoc’ (At the Dawn of Armenian Christianity, International Conference, 2016). Edited by Vladimir Barxudaryan, Hayk Hakobyan, Hakob Muradyan, and Alfred Šahnazaryan. Yerevan: HH GAA “Gitutʻyun” hratarakchʻutʻyun, 2017 (transcription of the Armenian text).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 173<sup>r</sup>–180<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 173r–180r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/"
+      ]
+    },
+    {
+      "line_html": "<p>Antonelli, Cecilia. <em>Acta et Martyrium Bartholomaei.</em> CCSA 22. Turnhout: Brepols (forthcoming).</p>",
+      "line_text": "Antonelli, Cecilia. Acta et Martyrium Bartholomaei. CCSA 22. Turnhout: Brepols (forthcoming).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Antonelli, Cecilia. <em>Acta et Martyrium Bartholomaei.</em> CCSA 22. Turnhout: Brepols (forthcoming).</p>",
+      "line_text": "Antonelli, Cecilia. Acta et Martyrium Bartholomaei. CCSA 22. Turnhout: Brepols (forthcoming).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Antonelli, Cecilia. <em>Les aventures de l’apôtre Barthélemy dans le monde chrétien ancien et les Actes et martyre de Barthélemy grecs et arméniens</em>. Rimini: GuaraldiLAB, 2021.</p>",
+      "line_text": "Antonelli, Cecilia. Les aventures de l’apôtre Barthélemy dans le monde chrétien ancien et les Actes et martyre de Barthélemy grecs et arméniens. Rimini: GuaraldiLAB, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Calzolari, Valentina. <em>The Apocryphal Acts of the Apostles in Armenian.</em> Studies on Early Christian Apocrypha 18. Leuven: Peeters, 2022 (updated English version of “Notes sur le Martyre de Barthélemy arménien,” pp. 68–80).</p>",
+      "line_text": "Calzolari, Valentina. The Apocryphal Acts of the Apostles in Armenian. Studies on Early Christian Apocrypha 18. Leuven: Peeters, 2022 (updated English version of “Notes sur le Martyre de Barthélemy arménien,” pp. 68–80).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Notes sur le Martyre de Barthélemy arménien inédit conservé dans le ms. 7853 du Matenadaran.” Pages 301–20 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone.</em> Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018.</p>",
+      "line_text": "__________. “Notes sur le Martyre de Barthélemy arménien inédit conservé dans le ms. 7853 du Matenadaran.” Pages 301–20 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “La naissance du culte de S. Barthélemy en Arméie.” <em>Revue des Études Arméniennes</em> NS 17 (1983): 171–95.</p>",
+      "line_text": "Esbroeck, Michel van. “La naissance du culte de S. Barthélemy en Arméie.” Revue des Études Arméniennes NS 17 (1983): 171–95.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

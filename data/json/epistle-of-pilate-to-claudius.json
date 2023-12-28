@@ -1,0 +1,276 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-claudius/",
+  "nasscal_toc_title": "Epistle of Pilate to Claudius",
+  "filename": "epistle-of-pilate-to-claudius",
+  "latin_title": "Epistula Pilati ad Claudium",
+  "abbrev": "Ep. Pil. Claud.",
+  "alt_titles": [
+    "Letter of Pilate to Claudius",
+    " Report of Pilate to the Emperor Claudius"
+  ],
+  "clavis_number": 0,
+  "category": "Pilate Cycle",
+  "compiler": "Joshua E. Harris, Indiana University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Ehrman, Bart D., and Zlatko Pleše. <em>The Other Gospels: Accounts of Jesus from Outside the New Testament</em>. Oxford: Oxford University Press, 2013 (from <em>Acts Pet. Paul</em> 40–42, with English translation, pp. 276–77).</p>",
+      "line_text": "Ehrman, Bart D., and Zlatko Pleše. The Other Gospels: Accounts of Jesus from Outside the New Testament. Oxford: Oxford University Press, 2013 (from Acts Pet. Paul 40–42, with English translation, pp. 276–77).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/alencon-bibliotheque-municipale-17/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Alençon, Bibliothèque municipale, 17, <span lang=\"EN-US\">fols. 175<sup>v</sup> (</span>13th cent.)</p>",
+      "line_text": "Alençon, Bibliothèque municipale, 17, fols. 175v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/alencon-bibliotheque-municipale-17/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-royal-ms-1-e-ix/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Royal 1 E. IX, fols. 286<sup>r</sup>–286<sup>v</sup> (15th cent.) = Izydorczyk, <em>Census</em> no. 157</p>",
+      "line_text": "London, British Library, Royal 1 E. IX, fols. 286r–286v (15th cent.) = Izydorczyk, Census no. 157",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-royal-ms-1-e-ix/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 17730, fol. 8<sup>r</sup> (15th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b90672210.r=17730?rk=21459;2\" target=\"_blank\" rel=\"noopener noreferrer\">Gallica</a> (as <em>Ep. Tiberius</em>)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 17730, fol. 8r (15th cent.) ~ Gallica (as Ep. Tiberius)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b90672210.r=17730?rk=21459;2"
+      ]
+    },
+    {
+      "line_html": "<p>Not yet confirmed:</p>",
+      "line_text": "Not yet confirmed:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jena, Bibliotheca Electoralis, F. 76 (15th cent.)</p>",
+      "line_text": "Jena, Bibliotheca Electoralis, F. 76 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, lat. 6722 (15th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, lat. 6722 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, lat. 19608 (1482)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, lat. 19608 (1482)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3158 (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 3158 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 3282 (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 3282 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 18089 (1467)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 18089 (1467)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4576 (15th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 4576 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 557(3) ca. 1447)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 557(3) ca. 1447)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 1354 (16th cent.)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 1354 (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek<strong>,</strong> pal. 4453 (1437/1462)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, pal. 4453 (1437/1462)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Alqoš, Notre-Dame des Semences, Scher 326, fol. 98<sup>r</sup>–100<sup>r </sup>(ca. 1900)</p>",
+      "line_text": "Alqoš, Notre-Dame des Semences, Scher 326, fol. 98r–100r (ca. 1900)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-377/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Chaldean Patriarchate of Baghdad, 377, <span class=\"\">fols. 21<sup>r</sup>–22<sup>r</sup></span> (1894)</p>",
+      "line_text": "Baghdad, Chaldean Patriarchate of Baghdad, 377, fols. 21r–22r (1894)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-377/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45<sup>v</sup>–46<sup>r</sup> (1907)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 47, fol. 45v–46r (1907)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Brock, Sebastian. P. “A Syriac Version of the Letters of Lentulus and Pilate.” <em>OCP</em> 35 (1969): 45–62 (edition and translation of Mingana Syr. 47, with readings from the Greek and Latin editions for comparison, pp. 57–61).</p>",
+      "line_text": "Brock, Sebastian. P. “A Syriac Version of the Letters of Lentulus and Pilate.” OCP 35 (1969): 45–62 (edition and translation of Mingana Syr. 47, with readings from the Greek and Latin editions for comparison, pp. 57–61).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>See also translations of <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-pilate-gospel-of-nicodemus/\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Acts of Pilate/Gospel of Nicodemus</em></a>, <em><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-the-holy-apostles-peter-and-paul/\" target=\"_blank\" rel=\"noopener noreferrer\">Acts of the Holy Apostles Peter and Paul</a>, <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/healing-of-tiberius/\" target=\"_blank\" rel=\"noopener noreferrer\">Healing of Tiberius</a></em>, and <em><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-the-holy-apostles-peter-and-paul-ps-marcellus/\" target=\"_blank\" rel=\"noopener noreferrer\">Passion of the Holy Apostles Peter and Paul</a></em>.</p>",
+      "line_text": "See also translations of Acts of Pilate/Gospel of Nicodemus, Acts of the Holy Apostles Peter and Paul, Healing of Tiberius, and Passion of the Holy Apostles Peter and Paul.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-pilate-gospel-of-nicodemus/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-the-holy-apostles-peter-and-paul/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/healing-of-tiberius/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-the-holy-apostles-peter-and-paul-ps-marcellus/"
+      ]
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D., and Zlatko Pleše. <em>The Other Gospels: Accounts of Jesus from Outside the New Testament</em>. Oxford: Oxford University Press, 2013 (from Ps.-Marcellus chs. 40–42, with English translation, pp. 276–77).</p>",
+      "line_text": "Ehrman, Bart D., and Zlatko Pleše. The Other Gospels: Accounts of Jesus from Outside the New Testament. Oxford: Oxford University Press, 2013 (from Ps.-Marcellus chs. 40–42, with English translation, pp. 276–77).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, James Keith. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation</em>. Oxford: Oxford University Press, 2005 (from the <em>Gospel of Nicodemus</em>, pp. 205–206).</p>",
+      "line_text": "Elliott, James Keith. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Oxford: Oxford University Press, 2005 (from the Gospel of Nicodemus, pp. 205–206).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, M.R. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1924 (based on from Ps.-Marcellus chs. 40–42, p. 146).</p>",
+      "line_text": "James, M.R. The Apocryphal New Testament. Oxford: Clarendon Press, 1924 (based on from Ps.-Marcellus chs. 40–42, p. 146).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Dubois, Jean-Daniel, and Rémi Gounelle. “Lettre de Pilate à l’empereur Claude.” Pages 357–67 in vol. 2 of <em>Écrits apocryphes chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Paris: Gallimard 2005 (based on <em>Passion of the Holy Apostles Peter and Paul</em> 19–21).</p>",
+      "line_text": "Dubois, Jean-Daniel, and Rémi Gounelle. “Lettre de Pilate à l’empereur Claude.” Pages 357–67 in vol. 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Paris: Gallimard 2005 (based on Passion of the Holy Apostles Peter and Paul 19–21).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Gounelle, Rémi, and Zbigniew Izydorczyk. <em>L’Evangile de Nicodeme ou les Actes faits sous Ponce Pilate (recension latine A), suivi de La lettre de Pilate à l’empereur Claude.</em> Apocryphes 9. Turnhout: Brepols, 1997 (pp. 211–13).</p>",
+      "line_text": "Gounelle, Rémi, and Zbigniew Izydorczyk. L’Evangile de Nicodeme ou les Actes faits sous Ponce Pilate (recension latine A), suivi de La lettre de Pilate à l’empereur Claude. Apocryphes 9. Turnhout: Brepols, 1997 (pp. 211–13).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ddneutestament00hennuoft/page/76/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Hennecke, Edgar, ed. <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>. Edited by Edgar Hennecke. Tübingen: J. C. B. Mohr, 1904 (p. 76).</p>",
+      "line_text": "Hennecke, Edgar, ed. Neutestamentliche Apokryphen in deutscher Übersetzung. Edited by Edgar Hennecke. Tübingen: J. C. B. Mohr, 1904 (p. 76).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ddneutestament00hennuoft/page/76/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Scheidweiler, Felix. “The Gospel of Nicodemus / Acts of Pilate and Christ’s Descent into Hell.” Pages 501–36 in <em>New Testament Apocrypha</em>, Vol. 1,<em> Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox, 1991 (English trans. of <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 1. <em>Evangelien und Verwandtes</em>. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990) (see pp. 526–27).</p>",
+      "line_text": "Scheidweiler, Felix. “The Gospel of Nicodemus / Acts of Pilate and Christ’s Descent into Hell.” Pages 501–36 in New Testament Apocrypha, Vol. 1, Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox, 1991 (English trans. of Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1. Evangelien und Verwandtes. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990) (see pp. 526–27).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 131–32).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 3, pp. 131–32).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n325/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 641–42).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 641–42).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n325/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Cross, J. E. <em>Two Old English Apocrypha and their Manuscript Source</em>. Cambridge: Cambridge University Press, 1996 (see pp. 64–68).</p>",
+      "line_text": "Cross, J. E. Two Old English Apocrypha and their Manuscript Source. Cambridge: Cambridge University Press, 1996 (see pp. 64–68).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Izydorczyk, Zbigniew. <em>Manuscripts of the “Evangelium Nicodemi,” A Census</em>. Subsidia Mediaevalia 21. Toronto: University of Toronto Press, 1993.</p>",
+      "line_text": "Izydorczyk, Zbigniew. Manuscripts of the “Evangelium Nicodemi,” A Census. Subsidia Mediaevalia 21. Toronto: University of Toronto Press, 1993.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lémonon, Jean-Pierre. <em>Pilate et le gouvernement de la Judée. Textes et monuments.</em> Études bibliques. Paris: J. Gabalda &amp; Co., 1981. (pp. 264–65).</p>",
+      "line_text": "Lémonon, Jean-Pierre. Pilate et le gouvernement de la Judée. Textes et monuments. Études bibliques. Paris: J. Gabalda &amp; Co., 1981. (pp. 264–65).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Longland, Sabrina. “Pilate Answered: What I Have Written I Have Written.” <em>Metropolitan Museum of Art Bulletin</em> 26.10 (1968): 410–29.</p>",
+      "line_text": "Longland, Sabrina. “Pilate Answered: What I Have Written I Have Written.” Metropolitan Museum of Art Bulletin 26.10 (1968): 410–29.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pfeiffenberger, Selma. “Notes on the Iconology of Donatello’s Judgment of Pilate at San Lorenzo.” <em>Renaissance Quarterly</em> 20.4 (1967): 437–54.</p>",
+      "line_text": "Pfeiffenberger, Selma. “Notes on the Iconology of Donatello’s Judgment of Pilate at San Lorenzo.” Renaissance Quarterly 20.4 (1967): 437–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/cultesmythesetre03reinuoft/page/16/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Reinach, Salomon. “A propos de la curiosité de Tibère.” Pages 16–23 in vol. 3 of <em>Cultes, myths et religions</em>. Paris: Ernest Leroux, 1908.</p>",
+      "line_text": "Reinach, Salomon. “A propos de la curiosité de Tibère.” Pages 16–23 in vol. 3 of Cultes, myths et religions. Paris: Ernest Leroux, 1908.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/cultesmythesetre03reinuoft/page/16/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Speyer, Wolfgang. “Neue Pilatus-Apokryphen.” <em>VC</em> 32 (1978): 53–59.</p>",
+      "line_text": "Speyer, Wolfgang. “Neue Pilatus-Apokryphen.” VC 32 (1978): 53–59.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Winter, Paul. “A Letter from Pontius Pilate.” <em>NovT </em>7.1 (1964): 37–43.</p>",
+      "line_text": "Winter, Paul. “A Letter from Pontius Pilate.” NovT 7.1 (1964): 37–43.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

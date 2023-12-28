@@ -1,0 +1,103 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-peter-and-paul-coptic/",
+  "nasscal_toc_title": "Acts of Peter and Paul (Coptic)",
+  "filename": "acts-of-peter-and-paul-coptic",
+  "latin_title": "Acta Petri et Pauli",
+  "clavis_number": 242,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 8802 (10th cent.) ~ <a href=\"https://atlas.paths-erc.eu/manuscripts/3928\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a></p>",
+      "line_text": "London, British Library, Or. 8802 (10th cent.) ~ PAThs",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/3928"
+      ]
+    },
+    {
+      "line_html": "<p>Vienna 2941 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1034\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a>)</p>",
+      "line_text": "Vienna 2941 (PAThs)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1034"
+      ]
+    },
+    {
+      "line_html": "<p>Strasbourg Bibl. Nat. Univ. cop. 7a, 8, 9 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1999\" target=\"_blank\" rel=\"noopener noreferrer\">Paths</a>) 10, 11, 12, 13, 14</p>",
+      "line_text": "Strasbourg Bibl. Nat. Univ. cop. 7a, 8, 9 (Paths) 10, 11, 12, 13, 14",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1999"
+      ]
+    },
+    {
+      "line_html": "<p>Strasbourg 532 (<a href=\"https://atlas.paths-erc.eu/manuscripts/2000\" target=\"_blank\" rel=\"noopener noreferrer\">PAths</a>)</p>",
+      "line_text": "Strasbourg 532 (PAths)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/2000"
+      ]
+    },
+    {
+      "line_html": "<p>Paris 131(7) fol. 7</p>",
+      "line_text": "Paris 131(7) fol. 7",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Munich 152</p>",
+      "line_text": "Munich 152",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Heidelberg Kopt 286 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1997\" target=\"_blank\" rel=\"noopener noreferrer\">PAths</a>) ~ not in Cherix</p>",
+      "line_text": "Heidelberg Kopt 286 (PAths) ~ not in Cherix",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1997"
+      ]
+    },
+    {
+      "line_html": "<p>BL Or. 7561 (111-113, 128) – martydom (<a href=\"https://atlas.paths-erc.eu/manuscripts/812\" target=\"_blank\" rel=\"noopener noreferrer\">PATHs</a>)</p>",
+      "line_text": "BL Or. 7561 (111-113, 128) – martydom (PATHs)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/812"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lantschoot, A. van. “Les textes palimpsestes de B. M. Or. 8802.” <em>Mus</em> 41 (1928): 225–47 (text, pp. 230–32, and translation, pp. 242–44, of BL Or. 8802).</p>",
+      "line_text": "Lantschoot, A. van. “Les textes palimpsestes de B. M. Or. 8802.” Mus 41 (1928): 225–47 (text, pp. 230–32, and translation, pp. 242–44, of BL Or. 8802).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Layton 1987, 215 (catalog)</p>",
+      "line_text": "Layton 1987, 215 (catalog)",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

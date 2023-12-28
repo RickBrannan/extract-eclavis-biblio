@@ -1,0 +1,532 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/ever-new-tongue/",
+  "nasscal_toc_title": "Ever-New Tongue",
+  "filename": "ever-new-tongue",
+  "latin_title": "In tenga bithnúa",
+  "abbrev": "TB",
+  "clavis_number": 209,
+  "category": "Revelation Dialogues",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Chatsworth (Derbyshire), Book of Lismore (<em>Leabhar Leasa Móir</em>), fols. 88<sup>r</sup>–94<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Chatsworth_(Derbyshire),_Book_of_Lismore\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "L  Chatsworth (Derbyshire), Book of Lismore (Leabhar Leasa Móir), fols. 88r–94v (15th/16th cent.) ~ Codecs",
+      "language": ".1 Recension 1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Chatsworth_(Derbyshire),_Book_of_Lismore"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 C 6 (261) (1844–1845) ~ copy of L</p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 C 6 (261) (1844–1845) ~ copy of L",
+      "language": ".1 Recension 1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 H (478) (1868) ~ copy of L</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 H (478) (1868) ~ copy of L",
+      "language": ".1 Recension 1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Rennes, Bibliothèque de Rennes Métropole, 598 (15489), fols. 70<sup>r</sup>–74<sup>r</sup> (16th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Rennes,_Biblioth%C3%A8que_de_Rennes_M%C3%A9tropole,_MS_598\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "M  Rennes, Bibliothèque de Rennes Métropole, 598 (15489), fols. 70r–74r (16th cent.) ~ Codecs",
+      "language": ".2 Recension 2",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Rennes,_Biblioth%C3%A8que_de_Rennes_M%C3%A9tropole,_MS_598"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Dublin, Royal Irish Academy, 23 O 48a–b (<em>Liber Flavus Fergusiorum</em>), fols. 35<sup>r</sup>–37<sup>r</sup> (ca. 1435–1440) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_23_O_48a\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "O  Dublin, Royal Irish Academy, 23 O 48a–b (Liber Flavus Fergusiorum), fols. 35r–37r (ca. 1435–1440) ~ Codecs",
+      "language": ".2 Recension 2",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_23_O_48a"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque nationale de France, Celtique et Basque, fols. 24<sup>r</sup>–27<sup>v</sup> (ca. 1473) ~ <a href=\"https://codecs.vanhamel.nl/Paris,_Biblioth%C3%A8que_nationale_de_France,_MS_celtique_1/I,_IV_(ff._1-8,_22-29)\" target=\"_blank\" rel=\"noopener\">Codecs</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100378503\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, Celtique et Basque, fols. 24r–27v (ca. 1473) ~ Codecs; Gallica",
+      "language": ".2 Recension 2",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Paris,_Biblioth%C3%A8que_nationale_de_France,_MS_celtique_1/I,_IV_(ff._1-8,_22-29)",
+        "https://gallica.bnf.fr/ark:/12148/btv1b100378503"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y </strong> Dublin, Trinity College, H.2.16 (1318) (<em>Yellow Book of Lecan</em>), pp. 81<sup>r</sup>–86<sup>v</sup> (14th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Trinity_College,_MS_1318/16_(cols_573-958)\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "Y  Dublin, Trinity College, H.2.16 (1318) (Yellow Book of Lecan), pp. 81r–86v (14th cent.) ~ Codecs",
+      "language": ".2 Recension 2",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Dublin,_Trinity_College,_MS_1318/16_(cols_573-958)"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 9, fols. 7<sup>r</sup>–8<sup>r</sup> (15th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_National_Library_of_Ireland,_MS_G_9\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "Dublin, National Library of Ireland, G 9, fols. 7r–8r (15th cent.) ~ Codecs",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Dublin,_National_Library_of_Ireland,_MS_G_9"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 36, pp. 113 ff. (19th cent.) ~ copy of G 9</p>",
+      "line_text": "Dublin, National Library of Ireland, G 36, pp. 113 ff. (19th cent.) ~ copy of G 9",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 P 25 (475) (<em><span id=\"Dublin.2C_Royal_Irish_Academy.2C_MS_24_P_25_Leabhar_Chlainne_Suibhne\" class=\"mw-headline\"><span class=\"descriptor\">Leabhar Chlainne Suibhne</span></span></em>), fols. 65<sup>r</sup>–65<sup>v</sup> (1513–1514) ~ <a href=\"https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_24_P_25\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 P 25 (475) (Leabhar Chlainne Suibhne), fols. 65r–65v (1513–1514) ~ Codecs",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Dublin,_Royal_Irish_Academy,_MS_24_P_25"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 136, fols. 53–56 (1630) ~ <a href=\"https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&amp;ms=London,%20British%20Library,%20MS%20Egerton%20136&amp;search-phrase=London,%20British%20Library,%20MS%20Egerton%20136\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "London, British Library, Egerton 136, fols. 53–56 (1630) ~ Codecs",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&ms=London,%20British%20Library,%20MS%20Egerton%20136&search-phrase=London,%20British%20Library,%20MS%20Egerton%20136"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, 73, pp. 213 ff. (18th cent.) ~ <a href=\"https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&amp;ms=Maynooth,%20Russell%20Library,%20MS%20R%2073&amp;search-phrase=R\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "Maynooth, Russell Library, 73, pp. 213 ff. (18th cent.) ~ Codecs",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&ms=Maynooth,%20Russell%20Library,%20MS%20R%2073&search-phrase=R"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, MS G 36, pp. 113–121 ~ <a href=\"https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&amp;ms=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036&amp;search-phrase=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036\" target=\"_blank\" rel=\"noopener\">Codecs</a></p>",
+      "line_text": "Dublin, National Library of Ireland, MS G 36, pp. 113–121 ~ Codecs",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/index.php?title=Show:Manuscripts/Search&ms=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036&search-phrase=Dublin,%20National%20Library%20of%20Ireland,%20MS%20G%2036"
+      ]
+    },
+    {
+      "line_html": "<p>Carey, John, ed. and trans. <em>Apocrypha Hiberniae 2, Apocalyptica 1. In tenga bithnua: The Ever-New Tongue.</em> CCSA 16. Turnhout: Brepols, 2009 (parallel texts and English translations of recensions 1 and 2, pp. 100–231).</p>",
+      "line_text": "Carey, John, ed. and trans. Apocrypha Hiberniae 2, Apocalyptica 1. In tenga bithnua: The Ever-New Tongue. CCSA 16. Turnhout: Brepols, 2009 (parallel texts and English translations of recensions 1 and 2, pp. 100–231).",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Cataldi, Melita, trans. <em>La lingua semprenuova – In tenga bithnua.</em> Turin: <span aria-labelledby=\"publisher-868284524\"><span data-testid=\"publisher-868284524\">Tirrenia Stampatori,</span></span> 1999 (Irish text and Italian translation).</p>",
+      "line_text": "Cataldi, Melita, trans. La lingua semprenuova – In tenga bithnua. Turin: Tirrenia Stampatori, 1999 (Irish text and Italian translation).",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revueceltiqu24pari/page/364/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dottin, Georges, ed. and trans. “Le Teanga bithnua du manuscrit de Rennes.” <em>Revue Celtique</em> 24 (1903): 365–403 (Irish text of M, pp. 369–84; French translation, pp. 385–403).</p>",
+      "line_text": "Dottin, Georges, ed. and trans. “Le Teanga bithnua du manuscrit de Rennes.” Revue Celtique 24 (1903): 365–403 (Irish text of M, pp. 369–84; French translation, pp. 385–403).",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revueceltiqu24pari/page/364/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Nic Énri, Úna, and Gearóid Mac Niocaill, eds. “The second recension of the Evernew Tongue.” <em>Celtica</em> 9 (1971): 1–60 (<em>editio princeps</em> of recension 2; edition of the short recension, pp. 54–59).</p>",
+      "line_text": "Nic Énri, Úna, and Gearóid Mac Niocaill, eds. “The second recension of the Evernew Tongue.” Celtica 9 (1971): 1–60 (editio princeps of recension 2; edition of the short recension, pp. 54–59).",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/riujournalschoo00acadgoog/page/n108/mode/2up?view=theater\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Stokes, Whitley, ed. and trans. “The Evernew Tongue.” <em>Ériu</em> 2 (1905): 96–162 (<em>editio princeps </em>of recension 1).</p>",
+      "line_text": "Stokes, Whitley, ed. and trans. “The Evernew Tongue.” Ériu 2 (1905): 96–162 (editio princeps of recension 1).",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/riujournalschoo00acadgoog/page/n108/mode/2up?view=theater"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/riufoundedasjou00irelgoog/page/n48/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “Notes on the Evernew tongue.” <i>Ériu</i> 3 (1907): 34–35.</p>",
+      "line_text": "__________. “Notes on the Evernew tongue.” Ériu 3 (1907): 34–35.",
+      "language": ".3 Short Recension",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/riufoundedasjou00irelgoog/page/n48/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cork, University College, Murphy 26 (19th cent.)</p>",
+      "line_text": "Cork, University College, Murphy 26 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 32 (18th cent.)</p>",
+      "line_text": "Dublin, National Library of Ireland, G 32 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 365 (19th cent.)</p>",
+      "line_text": "Dublin, National Library of Ireland, G 365 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 432 (19th cent.)</p>",
+      "line_text": "Dublin, National Library of Ireland, G 432 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 501 (18th cent.)</p>",
+      "line_text": "Dublin, National Library of Ireland, G 501 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, National Library of Ireland, G 656 (19th cent.)</p>",
+      "line_text": "Dublin, National Library of Ireland, G 656 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 3 C 15 (1021) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 3 C 15 (1021) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 12 F 7 (235) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 12 F 7 (235) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 B 1 (225) (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 B 1 (225) (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 B 2 (1002) (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 B 2 (1002) (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 D 8 (503) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 D 8 (503) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 I 25 (412) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 I 25 (412) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 I 44 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 I 44 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 6 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 L 6 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 24 (29) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 L 24 (29) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 29 (109) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 L 29 (109) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 L 35 (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 L 35 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 M 1 (329) (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 M 1 (329) (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 N 18 (981) (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 N 18 (981) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 23 N 23 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 N 23 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 A 20 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 A 20 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 A 22 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 A 22 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 B 29 (18th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 B 29 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 C 16 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 C 16 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Royal Irish Academy, 24 L 20 (19th cent.)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 24 L 20 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 1287 (H 1. 13) (18th cent.)</p>",
+      "line_text": "Dublin, Trinity College, 1287 (H 1. 13) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 1413 (H 6. 9) (1777–1781)</p>",
+      "line_text": "Dublin, Trinity College, 1413 (H 6. 9) (1777–1781)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trinity College, 1414 (H 6. 10) (18th cent.)</p>",
+      "line_text": "Dublin, Trinity College, 1414 (H 6. 10) (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edinburgh, National Library of Scotland, Adv. 72.1.47 (15th cent.) ~ <a href=\"https://codecs.vanhamel.nl/Edinburgh,_National_Library_of_Scotland,_Adv._MS_72.1.47\" target=\"_blank\" rel=\"noopener\">Codecs</a>; two leaves, mostly illegible</p>",
+      "line_text": "Edinburgh, National Library of Scotland, Adv. 72.1.47 (15th cent.) ~ Codecs; two leaves, mostly illegible",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://codecs.vanhamel.nl/Edinburgh,_National_Library_of_Scotland,_Adv._MS_72.1.47"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edinburgh, National Library of Scotland, Adv. 72.2.5 (18th cent.)</p>",
+      "line_text": "Edinburgh, National Library of Scotland, Adv. 72.2.5 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 18945 (19th cent.)</p>",
+      "line_text": "London, British Library, Add. 18945 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 171 (18th cent.)</p>",
+      "line_text": "London, British Library, Egerton 171 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 174 (18th cent.)</p>",
+      "line_text": "London, British Library, Egerton 174 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, B 2 (19th cent.)</p>",
+      "line_text": "Maynooth, Russell Library, B 2 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 39 (19th cent.)</p>",
+      "line_text": "Maynooth, Russell Library, M 39 (19th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 52 (18th cent.)</p>",
+      "line_text": "Maynooth, Russell Library, M 52 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 73 (1824)</p>",
+      "line_text": "Maynooth, Russell Library, M 73 (1824)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Maynooth, Russell Library, M 95 (18th cent.)</p>",
+      "line_text": "Maynooth, Russell Library, M 95 (18th cent.)",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revueceltiqu28pari/page/276/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dottin, Georges, ed. and trans. “Une rédaction moderne du Teanga Bithnua.” <em>Revue Celtique</em> 28 (1907): 277–307 (text and parallel French translation from an unidentified manuscript, pp. 380–307).</p>",
+      "line_text": "Dottin, Georges, ed. and trans. “Une rédaction moderne du Teanga Bithnua.” Revue Celtique 28 (1907): 277–307 (text and parallel French translation from an unidentified manuscript, pp. 380–307).",
+      "language": ".4 Recension 3",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revueceltiqu28pari/page/276/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Carey, John, trans. <em>The Ever-New Tongue – In Tenga Bithnua: The Text in the Book of Lismore</em>. Apocryphes 15. Turnhout: Brepols, 2018.</p>",
+      "line_text": "Carey, John, trans. The Ever-New Tongue – In Tenga Bithnua: The Text in the Book of Lismore. Apocryphes 15. Turnhout: Brepols, 2018.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________, ed. and trans. <em>Apocrypha Hiberniae 2, Apocalyptica 1. In tenga bithnua: The Ever-New Tongue.</em> CCSA 16. Turnhout: Brepols, 2009 (parallel texts and English translations of recensions 1 and 2, pp. 100–231).</p>",
+      "line_text": "__________, ed. and trans. Apocrypha Hiberniae 2, Apocalyptica 1. In tenga bithnua: The Ever-New Tongue. CCSA 16. Turnhout: Brepols, 2009 (parallel texts and English translations of recensions 1 and 2, pp. 100–231).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Herbert, Máire and Martin McNamara. <em>Irish Biblical Apocrypha</em>. Edinburgh: T. &amp; T. Clark, 1989 (English translation of selections from L, pp. 109–18).</p>",
+      "line_text": "Herbert, Máire and Martin McNamara. Irish Biblical Apocrypha. Edinburgh: T. &amp; T. Clark, 1989 (English translation of selections from L, pp. 109–18).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Stokes, Whitley, ed. and trans. “The Evernew Tongue.” <em>Ériu</em> 2 (1905): 96–162.</p>",
+      "line_text": "Stokes, Whitley, ed. and trans. “The Evernew Tongue.” Ériu 2 (1905): 96–162.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revueceltiqu24pari/page/364/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dottin, Georges, ed. and trans. “Le Teanga bithnua du manuscrit de Rennes.” <em>Revue Celtique</em> 24 (1903): 365–403 (Irish text of M, pp. 369–84; French translation, pp. 385–403).</p>",
+      "line_text": "Dottin, Georges, ed. and trans. “Le Teanga bithnua du manuscrit de Rennes.” Revue Celtique 24 (1903): 365–403 (Irish text of M, pp. 369–84; French translation, pp. 385–403).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revueceltiqu24pari/page/364/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revueceltiqu28pari/page/276/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________, ed. and trans. “Une rédaction moderne du Teanga Bithnua.” <em>Revue Celtique</em> 28 (1907): 277–307 (text and parallel French translation, pp. 380–307).</p>",
+      "line_text": "__________, ed. and trans. “Une rédaction moderne du Teanga Bithnua.” Revue Celtique 28 (1907): 277–307 (text and parallel French translation, pp. 380–307).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revueceltiqu28pari/page/276/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Cataldi, Melita. <em>La lingua semprenuova – In tenga bithnua.</em> Turin: <span aria-labelledby=\"publisher-868284524\"><span data-testid=\"publisher-868284524\">Tirrenia Stampatori,</span></span> 1999 (Irish text and Italian translation).</p>",
+      "line_text": "Cataldi, Melita. La lingua semprenuova – In tenga bithnua. Turin: Tirrenia Stampatori, 1999 (Irish text and Italian translation).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Matsuoka, Toshio, trans. <em>Celtic Biblical Stories.</em> Tokyo, 1999 (pp. 3–32).</p>",
+      "line_text": "Matsuoka, Toshio, trans. Celtic Biblical Stories. Tokyo, 1999 (pp. 3–32).",
+      "language": "Japanese",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Carey, John. “<em>In tenga bithnua</em> and the days of Creation.” <em>Apocrypha</em> 18 (2007): 231–46.</p>",
+      "line_text": "Carey, John. “In tenga bithnua and the days of Creation.” Apocrypha 18 (2007): 231–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>King of Mysteries: Early Irish Religious Writings.</em> 2nd ed. Dublin: Four Courts Press, 2000.</p>",
+      "line_text": "__________. King of Mysteries: Early Irish Religious Writings. 2nd ed. Dublin: Four Courts Press, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “<em>In tenga bithnua</em>: FromApocalypse to Homily?” Pages 51–68 in  <em>The Scriptures and Early Medieval Ireland: Proceedings of the 1993 Conference of the Society for Hiberno-Latin Studies on Early Irish Exegesis and Homilectics</em>, 31. Edited by Thomas OʼLoughlin. Turnhout: Brepols, 1999.</p>",
+      "line_text": "__________. “In tenga bithnua: FromApocalypse to Homily?” Pages 51–68 in  The Scriptures and Early Medieval Ireland: Proceedings of the 1993 Conference of the Society for Hiberno-Latin Studies on Early Irish Exegesis and Homilectics, 31. Edited by Thomas OʼLoughlin. Turnhout: Brepols, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.persee.fr/doc/abpo_0003-391x_1919_num_34_2_1524\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dottin, Georges, ed. “Un traité irlandais du moyen âge. La langue toujours nouvelle.” <em>Annales de Bretagne</em> 34 (1920): 190–207, <a href=\"http://www.persee.fr/web/revues/home/prescript/article/abpo_0003-391x_1919_num_34_3_1529\" target=\"_blank\" rel=\"noopener\">278–98</a>.</p>",
+      "line_text": "Dottin, Georges, ed. “Un traité irlandais du moyen âge. La langue toujours nouvelle.” Annales de Bretagne 34 (1920): 190–207, 278–98.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.persee.fr/doc/abpo_0003-391x_1919_num_34_2_1524",
+        "http://www.persee.fr/web/revues/home/prescript/article/abpo_0003-391x_1919_num_34_3_1529"
+      ]
+    },
+    {
+      "line_html": "<p>Ivanov, Sergey. “Three Colours of the Tree.” <em>Zeitschrift für celtische Philologie</em> 59 (2012): 119–28.</p>",
+      "line_text": "Ivanov, Sergey. “Three Colours of the Tree.” Zeitschrift für celtische Philologie 59 (2012): 119–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_journal-of-theological-studies_1918-10_20_77/page/8/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, M. R. “Irish Apocrypha.” <em>JTS</em> 20 (1918–1919): 9–16.</p>",
+      "line_text": "James, M. R. “Irish Apocrypha.” JTS 20 (1918–1919): 9–16.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_journal-of-theological-studies_1918-10_20_77/page/8/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>McNamara, Martin. “The bird <em>hiruath</em> of the Ever-New Tongue and <em>hirodius</em> of gloss on Ps. 103:17 in Vatican Codex Pal. Lat. 68.” <em>Ériu</em> 39 (1988): 87–97.</p>",
+      "line_text": "McNamara, Martin. “The bird hiruath of the Ever-New Tongue and hirodius of gloss on Ps. 103:17 in Vatican Codex Pal. Lat. 68.” Ériu 39 (1988): 87–97.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nic Cárthaigh, Emma, “The Seven Heavens in the modern recension of <em>In tenga bithnua</em>.” Pages 211–83 in <em>The End and Beyond: Medieval Irish Eschatology.</em> Vol. 1, 17.1. Edited by John Carey, Emma Nic Cárthaigh, and Caitríona Ó Dochartaigh. Aberystwyth: Celtic Studies Publications, 2014.</p>",
+      "line_text": "Nic Cárthaigh, Emma, “The Seven Heavens in the modern recension of In tenga bithnua.” Pages 211–83 in The End and Beyond: Medieval Irish Eschatology. Vol. 1, 17.1. Edited by John Carey, Emma Nic Cárthaigh, and Caitríona Ó Dochartaigh. Aberystwyth: Celtic Studies Publications, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ó Corráin, Donnchadh. <em>Clavis litterarum Hibernensium: medieval Irish books &amp; texts (c. 400–c. 1600).</em> 3 vols. Corpus Christianorum. Turnhout: Brepols, 2017 (vol. 1, pp. 190–92).</p>",
+      "line_text": "Ó Corráin, Donnchadh. Clavis litterarum Hibernensium: medieval Irish books &amp; texts (c. 400–c. 1600). 3 vols. Corpus Christianorum. Turnhout: Brepols, 2017 (vol. 1, pp. 190–92).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

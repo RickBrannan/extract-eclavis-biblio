@@ -1,0 +1,419 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-matthias/",
+  "nasscal_toc_title": "Martyrdom of Matthias",
+  "filename": "martyrdom-of-matthias",
+  "latin_title": "Martyrium Matthaei",
+  "abbrev": "Mart. Mth.",
+  "clavis_number": 482,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-1426/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 1426 (1855)  ~ contents unconfirmed</p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 1426 (1855)  ~ contents unconfirmed",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-1426/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-graf-472/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Graf 472 (18th  cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Graf 472 (18th  cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-graf-472/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-1/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 1 (13th/14th  cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 1 (13th/14th  cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-1/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 2 (14th  cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 2 (14th  cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-2/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-3/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 3 (1626)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 3 (1626)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-3/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Catholic Patriarchate Library, Hist. 6 (not dated) ~ contents unconfirmed</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 6 (not dated) ~ contents unconfirmed",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-7/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 7 (14th  cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 7 (14th  cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-7/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-16/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 16 (15th cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 16 (15th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-16/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-60/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 60, fols. 237<sup>r</sup>–240<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, 60, fols. 237r–240r (19th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-60/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/florence-biblioteca-nazionale-centrale-di-firenze-magl-iii-29/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Florence, Biblioteca Nazionale Centrale di Firenze, Magl. III 29, fols. 197<sup>v</sup>–200<sup>v</sup> (ante 1664)</p>",
+      "line_text": "Florence, Biblioteca Nazionale Centrale di Firenze, Magl. III 29, fols. 197v–200v (ante 1664)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/florence-biblioteca-nazionale-centrale-di-firenze-magl-iii-29/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/leipzig-universitatsbibliothek-or-1067/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Leipzig, Universitätsbibliothek, Or. 1067 (Tischendorf 32) (15th cent.)</p>",
+      "line_text": "Leipzig, Universitätsbibliothek, Or. 1067 (Tischendorf 32) (15th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/leipzig-universitatsbibliothek-or-1067/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 194<sup>r</sup>–196<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 194r–196v (12th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-bodl-ar-541/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Oxford, Bodleian Library, Bodl. Ar. 541 (Nicoll 49), fols. 76<sup>v</sup>–77<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Bodl. Ar. 541 (Nicoll 49), fols. 76v–77v (18th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-bodl-ar-541/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-81/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Arabe 81, fols. 157<sup>v</sup>–160<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 81, fols. 157v–160v (16th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-81/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4770/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Arabe 4770, fols. 322<sup>v</sup>–326<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 4770, fols. 322v–326r (19th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4770/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-ar-223/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 223 (1729)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 223 (1729)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-ar-223/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-500/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Sbath 500, fols. 173<sup>v</sup>–176<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 500, fols. 173v–176v (15th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-500/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-171/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 171, fols. 65<sup>v</sup>–67<sup>r</sup> (17th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 171, fols. 65v–67r (17th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-171/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-694/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 694, fols. 144<sup>r</sup>–146<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 694, fols. 144r–146v (14th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-694/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wadi-al-natrun-monastery-of-the-syrians-dayr-al-suryan-no-shelf-number/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Wadi El-Natrun, Monastery of the Syrians (Dayr al-Suryān), no shelf number, fols. 140<sup>r</sup><strong>–</strong>142<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Wadi El-Natrun, Monastery of the Syrians (Dayr al-Suryān), no shelf number, fols. 140r–142r (14th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wadi-al-natrun-monastery-of-the-syrians-dayr-al-suryan-no-shelf-number/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-40/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Edgbaston, University of Birmingham, Mingana Syr. 40, fols. 194<sup>r</sup>–197<sup>r</sup> (ca. 1750)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 40, fols. 194r–197r (ca. 1750)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-40/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, Syr. 232, fols. 300<sup>v</sup>–301<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Syr. 232, fols. 300v–301v (17th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-124/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Sbath 124, fols. 172<sup>v</sup>–175<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 124, fols. 172v–175v (16th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-124/"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “Alcune osservazioni sul <em>Gadla ḥawāryāt</em>.” <em>Annali dell’Istituto Orientale di Napoli</em> 60–61 (2001–2002): 77–114 (list of 31 Arabic manuscripts of the collection, pp. 97–101).</p>",
+      "line_text": "Bausi, Alessandro. “Alcune osservazioni sul Gadla ḥawāryāt.” Annali dell’Istituto Orientale di Napoli 60–61 (2001–2002): 77–114 (list of 31 Arabic manuscripts of the collection, pp. 97–101).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n303/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1, p. 260–62, 265).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1, p. 260–62, 265).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n303/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actamythologica00guidgoog/page/n152/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lewis, Agnes Smith, ed. <em>Acta Mythologica Apostolorum, Transcribed from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine, on Mount Sinai</em>. Horae Semiticae 3. London: C.J. Clay and Sons, 1904 (Arabic text based on unidentified Deir al-Suryān MS, pp. 118–20).</p>",
+      "line_text": "Lewis, Agnes Smith, ed. Acta Mythologica Apostolorum, Transcribed from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine, on Mount Sinai. Horae Semiticae 3. London: C.J. Clay and Sons, 1904 (Arabic text based on unidentified Deir al-Suryān MS, pp. 118–20).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actamythologica00guidgoog/page/n152/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/clm-2879/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>CLM 2879, pp. 727–728 (13th cent.)</p>",
+      "line_text": "CLM 2879, pp. 727–728 (13th cent.)",
+      "language": ".1 Bohairic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/clm-2879/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Evelyn White, Hugh G. <em>The Monasteries of the Wadi ‘n Natrûn</em>. Part 1:<em> New Coptic Texts from the Monastery of Saint Macarius</em>. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation of CLM 2879, p. 45).</p>",
+      "line_text": "Evelyn White, Hugh G. The Monasteries of the Wadi ‘n Natrûn. Part 1: New Coptic Texts from the Monastery of Saint Macarius. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation of CLM 2879, p. 45).",
+      "language": ".1 Bohairic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-mr/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.MR, pp. [59]–60 (ca. 10th cent.)</p>",
+      "line_text": "MONB.MR, pp. [59]–60 (ca. 10th cent.)",
+      "language": ".2 Sahidic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-mr/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m635/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>New York, Morgan Library and Museum, M635 (=MICH.CG), fols. <span class=\"subfieldData\">18<sup>r</sup>–19<sup>v</sup> (10th cent.)</span></p>",
+      "line_text": "New York, Morgan Library and Museum, M635 (=MICH.CG), fols. 18r–19v (10th cent.)",
+      "language": ".2 Sahidic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m635/"
+      ]
+    },
+    {
+      "line_html": "<p>The Copto-Arabic Synaxarion includes some details of the story for March 4 (8 Baramhāt).</p>",
+      "line_text": "The Copto-Arabic Synaxarion includes some details of the story for March 4 (8 Baramhāt).",
+      "language": "Copto-Arabic Synaxarion",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient00fnau_577/page/n219/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Basset, René. “Le Synaxaire arabe jacobite (rédaction copte) IV: Les mois de Barmahat, Barmoudah et Bachons.” <em>Patrologia orientalis</em> 16 (1922): 186–424 (edition and translation, pp. 212–13).</p>",
+      "line_text": "Basset, René. “Le Synaxaire arabe jacobite (rédaction copte) IV: Les mois de Barmahat, Barmoudah et Bachons.” Patrologia orientalis 16 (1922): 186–424 (edition and translation, pp. 212–13).",
+      "language": "Copto-Arabic Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient00fnau_577/page/n219/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 678, fols. 108<sup>v</sup><strong>–</strong>110<sup>v</sup> (15th cent.)</p>",
+      "line_text": "London, British Library, Or. 678, fols. 108v–110v (15th cent.)",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 683, fols. 219<sup>r</sup><strong>–</strong>220<sup>v</sup> (17th cent.)</p>",
+      "line_text": "London, British Library, Or. 683, fols. 219r–220v (17th cent.)",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-685/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>London, British Library, Or. 685, fols. 118<sup>v</sup>–119<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 685, fols. 118v–119v (18th cent.)",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-685/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-university-library-eth-6/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Manchester, John Rylands University Library, Eth. 6, fols. 164<sup>r</sup>–168<sup>r </sup>(19th cent.)</p>",
+      "line_text": "Manchester, John Rylands University Library, Eth. 6, fols. 164r–168r (19th cent.)",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-university-library-eth-6/"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “Alcune osservazioni sul <em>Gadla ḥawāryāt</em>.” <em>Annali dell’Istituto Orientale di Napoli</em> 60–61 (2001–2002): 77–114 (list of 31 Ethiopic manuscripts of the collection, pp. 93–97).</p>",
+      "line_text": "Bausi, Alessandro. “Alcune osservazioni sul Gadla ḥawāryāt.” Annali dell’Istituto Orientale di Napoli 60–61 (2001–2002): 77–114 (list of 31 Ethiopic manuscripts of the collection, pp. 93–97).",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo00budg/page/242/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 1. London: Henry Frowde, 1899 (Ethiopic text based on British Library, Or. 678 and 683, pp. 243–46).</p>",
+      "line_text": "Budge, Ernest A. W. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 1. London: Henry Frowde, 1899 (Ethiopic text based on British Library, Or. 678 and 683, pp. 243–46).",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo00budg/page/242/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Pisani, Vitagrazia. “The apocryphal Acts of the Apostles: unknown witnesses from East Tәgray.” Pages 75–93 in <i>Essays in Ethiopian Manuscript Studies. Proceedings of the International Conference Manuscripts and Texts, Languages and Contexts: the Transmission of Knowledge in the Horn of Africa. Hamburg, 17–19 July 2014</i>. Edited by Alessandro Bausi, Alessandro Gori, and Denis Nosnitsin. Supplements to Aethiopica 4. Wiesbaden: Harrassowitz, 2015 (descriptions of ten Ethiopic manuscripts cataloged for the Ethio-SPaRe project).</p>",
+      "line_text": "Pisani, Vitagrazia. “The apocryphal Acts of the Apostles: unknown witnesses from East Tәgray.” Pages 75–93 in Essays in Ethiopian Manuscript Studies. Proceedings of the International Conference Manuscripts and Texts, Languages and Contexts: the Transmission of Knowledge in the Horn of Africa. Hamburg, 17–19 July 2014. Edited by Alessandro Bausi, Alessandro Gori, and Denis Nosnitsin. Supplements to Aethiopica 4. Wiesbaden: Harrassowitz, 2015 (descriptions of ten Ethiopic manuscripts cataloged for the Ethio-SPaRe project).",
+      "language": ".1 Martyrdom of Matthias",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>The Ethiopian Synaxarion includes a summary of the text for Maggabit 8 (March 14).</p>",
+      "line_text": "The Ethiopian Synaxarion includes a summary of the text for Maggabit 8 (March 14).",
+      "language": ".2 Ethiopic Synaxarion",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bookofsaintsofet00yait/page/n219/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. Wallis. <em>The Book of the Saints of the Ethiopian Church.</em> 2 vols. Cambridge: Cambridge University Press, 1928 (vol. 2, pp. 680–81).</p>",
+      "line_text": "Budge, E. A. Wallis. The Book of the Saints of the Ethiopian Church. 2 vols. Cambridge: Cambridge University Press, 1928 (vol. 2, pp. 680–81).",
+      "language": ".2 Ethiopic Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bookofsaintsofet00yait/page/n219/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo02budguoft/page/288/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Budge, E. Wallis. <em>Gadla Ḥawâryât: The </em><em>Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 2 (English translations). London: Henry Frowde, 1901 (English translation of the Ethiopic text, pp. 289–94).</p>",
+      "line_text": "Budge, E. Wallis. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 2 (English translations). London: Henry Frowde, 1901 (English translation of the Ethiopic text, pp. 289–94).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo02budguoft/page/288/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Evelyn White, Hugh G. <em>The Monasteries of the Wadi ‘n Natrûn</em>. Part 1:<em> New Coptic Texts from the Monastery of Saint Macarius</em>. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation of the Bohairic text, p. 45).</p>",
+      "line_text": "Evelyn White, Hugh G. The Monasteries of the Wadi ‘n Natrûn. Part 1: New Coptic Texts from the Monastery of Saint Macarius. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation of the Bohairic text, p. 45).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actamythologica00guidgoog/page/n464/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith.<em> The Mythological Acts of the Apostles, Translated from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine on Mount Sinai and in the Vatican Library.</em> Horae Semiticae 4. London: C.J. Clay and Sons, 1904 (English translation of the Arabic text from the Dayr al-Suryān manuscript, pp. 137–39).</p>",
+      "line_text": "Lewis, Agnes Smith. The Mythological Acts of the Apostles, Translated from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine on Mount Sinai and in the Vatican Library. Horae Semiticae 4. London: C.J. Clay and Sons, 1904 (English translation of the Arabic text from the Dayr al-Suryān manuscript, pp. 137–39).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/actamythologica00guidgoog/page/n464/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=nnc1.cr59928590&amp;view=1up&amp;seq=183\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Malan, Solomon C. <em>The Conflicts of the Holy Apostles, An Apocryphal Book of the Early Eastern Church</em>. London: D. Nutt, 1871 (English translation of the Ethiopic text based on Rylands Eth. 6, pp. 163–67).</p>",
+      "line_text": "Malan, Solomon C. The Conflicts of the Holy Apostles, An Apocryphal Book of the Early Eastern Church. London: D. Nutt, 1871 (English translation of the Ethiopic text based on Rylands Eth. 6, pp. 163–67).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=nnc1.cr59928590&view=1up&seq=183"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n265/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:260–61).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:260–61).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n265/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>McDowell, Sean. <em>The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus.</em> Abingdon: Ashgate, 2008. Repr. London and New York: Routledge, 2015 (p. 255).</p>",
+      "line_text": "McDowell, Sean. The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus. Abingdon: Ashgate, 2008. Repr. London and New York: Routledge, 2015 (p. 255).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

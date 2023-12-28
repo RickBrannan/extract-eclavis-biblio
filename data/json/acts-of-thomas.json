@@ -1,0 +1,849 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas/",
+  "nasscal_toc_title": "Acts of Thomas",
+  "filename": "acts-of-thomas",
+  "latin_title": "Acta Thomae",
+  "abbrev": "Acts Thom.",
+  "alt_titles": [
+    "Acts of Judas Thomas",
+    " Acts and Consummation of the Holy Apostle Thomas"
+  ],
+  "clavis_number": 125,
+  "category": "Apocryphal Acts",
+  "compiler": "Jonathan Henry, Princeton University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Bremmer, Jan N. “Bibliography of the Acts of Thomas.” Pages 171–75 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Bremmer, Jan N. “Bibliography of the Acts of Thomas.” Pages 171–75 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Acts of Thomas: Place, Date and Women.” Pages 74–90 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan. N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "———. “The Acts of Thomas: Place, Date and Women.” Pages 74–90 in The Apocryphal Acts of Thomas. Edited by Jan. N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———, ed. <em>The Apocryphal Acts of Thomas</em>. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "———, ed. The Apocryphal Acts of Thomas. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Five Major Apocryphal Acts: Authors, Place, Time and Readership.” Pages 149–70 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "———. “The Five Major Apocryphal Acts: Authors, Place, Time and Readership.” Pages 149–70 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burch, Vacher. “A Commentary on the ‘Syriac Hymn of the Soul.’” JTS 19.74/75 (1918): 145–61.</p>",
+      "line_text": "Burch, Vacher. “A Commentary on the ‘Syriac Hymn of the Soul.’” JTS 19.74/75 (1918): 145–61.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burkitt, Francis Crawford. “Another Indication of the Syriac Origin of the Acts of Thomas.” <em>JTS</em> 3 (1902): 94–95.</p>",
+      "line_text": "Burkitt, Francis Crawford. “Another Indication of the Syriac Origin of the Acts of Thomas.” JTS 3 (1902): 94–95.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Review of E. Preuschen, Zwei Gnostische Hymnen.” <em>Theologisch Tijdschrift</em> 39 (1905): 270–82.</p>",
+      "line_text": "———. “Review of E. Preuschen, Zwei Gnostische Hymnen.” Theologisch Tijdschrift 39 (1905): 270–82.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Sarbôg, Shuruppak.” <em>JTS</em> 4.13 (1902): 125–27.</p>",
+      "line_text": "———. “Sarbôg, Shuruppak.” JTS 4.13 (1902): 125–27.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Hymn of Bardaisan Rendered into English</em>. London: Edward Arnold, Essex House, 1899.</p>",
+      "line_text": "———. The Hymn of Bardaisan Rendered into English. London: Edward Arnold, Essex House, 1899.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Hymn of the Soul.” <em>The Quest</em> 5.2 (1914): 617–28.</p>",
+      "line_text": "———. “The Hymn of the Soul.” The Quest 5.2 (1914): 617–28.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Name Habban in the Acts of Thomas.” <em>JTS</em> 2 (1901): 429.</p>",
+      "line_text": "———. “The Name Habban in the Acts of Thomas.” JTS 2 (1901): 429.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Original Language of the Acts of Judas Thomas.” <em>JTS</em> 1 [2] (1900): 280–90.</p>",
+      "line_text": "———. “The Original Language of the Acts of Judas Thomas.” JTS 1 [2] (1900): 280–90.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burns, Dylan M. “‘The Garment Poured Its Entire Self over Me’: Christian Baptismal Traditions and the Origins of the Hymn of the Pearl.” Pages 261–73 in <em>Gnosticism, Platonism and the Late Ancient World: Essays in Honour of John D. Turner</em>. Edited by John Douglas. Turner, Kevin. Corrigan, and Tuomas. Rasimus. Nag Hammadi and Manichaean Studies 82. Leiden: Brill, 2013.</p>",
+      "line_text": "Burns, Dylan M. “‘The Garment Poured Its Entire Self over Me’: Christian Baptismal Traditions and the Origins of the Hymn of the Pearl.” Pages 261–73 in Gnosticism, Platonism and the Late Ancient World: Essays in Honour of John D. Turner. Edited by John Douglas. Turner, Kevin. Corrigan, and Tuomas. Rasimus. Nag Hammadi and Manichaean Studies 82. Leiden: Brill, 2013.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burrus, Virginia, and Karen Jo Torjesen. “The Story of Mygdonia and Tertia from the Acts of Thomas.” <em>Ascetic Behavior in Greco-Roman Antiquity: A Sourcebook</em>. Edited by Vincent Wimbush. SAC. Minneapolis: Fortress Press, 1990.</p>",
+      "line_text": "Burrus, Virginia, and Karen Jo Torjesen. “The Story of Mygdonia and Tertia from the Acts of Thomas.” Ascetic Behavior in Greco-Roman Antiquity: A Sourcebook. Edited by Vincent Wimbush. SAC. Minneapolis: Fortress Press, 1990.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bussagli, Mario. “The Apostle St. Thomas and India.” <em>East and West</em> 3.2 (1952): 88–94.</p>",
+      "line_text": "Bussagli, Mario. “The Apostle St. Thomas and India.” East and West 3.2 (1952): 88–94.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cartlidge, David R. “Transfigurations of Metamorphosis Traditions in the Acts of John, Thomas, and Peter.” <em>Semeia</em> 38 (1986): 53–66.</p>",
+      "line_text": "Cartlidge, David R. “Transfigurations of Metamorphosis Traditions in the Acts of John, Thomas, and Peter.” Semeia 38 (1986): 53–66.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Casiday, Augustine. “Royal Virgins: Aldhelm of Malmesbury’s Use of the Passio Sancti Thomae.” Pages 301–306 in <em>Studia Patristica Vol. XXXIX – Historica, Biblica, Ascetica et Hagiographica</em>. Edited by Frances Young, Mark Edwards, and Paul Parvis. Leuven: Peeters, 2006.</p>",
+      "line_text": "Casiday, Augustine. “Royal Virgins: Aldhelm of Malmesbury’s Use of the Passio Sancti Thomae.” Pages 301–306 in Studia Patristica Vol. XXXIX – Historica, Biblica, Ascetica et Hagiographica. Edited by Frances Young, Mark Edwards, and Paul Parvis. Leuven: Peeters, 2006.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Centore, Giuseppe. “Lo Gnosticismo E Il Canto Dell Perla.” <em>Studi Storici E Religiosi</em> 5.2 (1996): 153–76.</p>",
+      "line_text": "Centore, Giuseppe. “Lo Gnosticismo E Il Canto Dell Perla.” Studi Storici E Religiosi 5.2 (1996): 153–76.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Colless, Brian E. “The Letter to the Hebrews and the Song of the Pearl.” <em>Abr-Nahrain</em> 25 (1987): 40–55.</p>",
+      "line_text": "Colless, Brian E. “The Letter to the Hebrews and the Song of the Pearl.” Abr-Nahrain 25 (1987): 40–55.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Connolly, R. H. “A Negative Golden Rule in the Syriac Acts of Thomas.” <em>JTS</em> 36.144 (1935): 353–56.</p>",
+      "line_text": "Connolly, R. H. “A Negative Golden Rule in the Syriac Acts of Thomas.” JTS 36.144 (1935): 353–56.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Original Language of the Syriac Acts of Thomas.” <em>JTS</em> 8 (1907): 249–61.</p>",
+      "line_text": "———. “The Original Language of the Syriac Acts of Thomas.” JTS 8 (1907): 249–61.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Conybeare, Frederick C. “The Idea of Sleep in the ‘Hymn of the Soul.’” <em>JTS </em>6.24 (1905): 609–10.</p>",
+      "line_text": "Conybeare, Frederick C. “The Idea of Sleep in the ‘Hymn of the Soul.’” JTS 6.24 (1905): 609–10.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Conzelmann, Hans. “Zu Mythos, Mythologie Und Formgeschichte, Geprüft an Der Dritten Praxis Der Thomas-Akten.” <em>ZNW</em> 67.1–2 (1976): 111–22.</p>",
+      "line_text": "Conzelmann, Hans. “Zu Mythos, Mythologie Und Formgeschichte, Geprüft an Der Dritten Praxis Der Thomas-Akten.” ZNW 67.1–2 (1976): 111–22.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cosgrove, Charles H. “Singing Thomas: Anatomy of a Sympotic Scene in Acts of Thomas.” <em>VC </em>69.3 (2015): 256–75.</p>",
+      "line_text": "Cosgrove, Charles H. “Singing Thomas: Anatomy of a Sympotic Scene in Acts of Thomas.” VC 69.3 (2015): 256–75.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Culianu, I. “Erzählung Und Mythos Im ‘Lied von Der Perle.’” <em>Kairos</em> 21 (1979): 60–71.</p>",
+      "line_text": "Culianu, I. “Erzählung Und Mythos Im ‘Lied von Der Perle.’” Kairos 21 (1979): 60–71.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Czachesz, István. “The Bride of the Demon. Narrative Strategies of Self-Definition in the Acts of Thomas.” Pages 36–52 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Czachesz, István. “The Bride of the Demon. Narrative Strategies of Self-Definition in the Acts of Thomas.” Pages 36–52 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts</em>. Leuven: Peeters, 2007 (pp. 123–39).</p>",
+      "line_text": "———. Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts. Leuven: Peeters, 2007 (pp. 123–39).",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Speaking Asses in the Acts of Thomas: An Intertextual and Cognitive Perspective.” Pages 275–85 in <em>The Prestige of the Pagan Prophet Balaam in Judaism, Early Christianity and Islam</em>. Edited by George H. van Kooten and Jacques van Ruiten. TBN 11. Leiden/Boston: Brill, 2008.</p>",
+      "line_text": "———. “Speaking Asses in the Acts of Thomas: An Intertextual and Cognitive Perspective.” Pages 275–85 in The Prestige of the Pagan Prophet Balaam in Judaism, Early Christianity and Islam. Edited by George H. van Kooten and Jacques van Ruiten. TBN 11. Leiden/Boston: Brill, 2008.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Delaunay, Jacques-Amaury. “Rite et Symbolique En Acta Thomae Vers. Syr. I, 2a et Ss.” Pages 11–34 in <em>Mémorial Jean de Menasce</em>. Edited by Philippe Gignoux and Ahmad Tafazzoli. Fondation culturelle iranienne 185. Louvain: Imprimerie orientalisme, 1974.</p>",
+      "line_text": "Delaunay, Jacques-Amaury. “Rite et Symbolique En Acta Thomae Vers. Syr. I, 2a et Ss.” Pages 11–34 in Mémorial Jean de Menasce. Edited by Philippe Gignoux and Ahmad Tafazzoli. Fondation culturelle iranienne 185. Louvain: Imprimerie orientalisme, 1974.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dell’Isola, Maria. “How Temporality Shapes Social Structure in the Acts of Thomas.” <em>Vigiliae Christianae </em>(2022): 1–21.</p>",
+      "line_text": "Dell’Isola, Maria. “How Temporality Shapes Social Structure in the Acts of Thomas.” Vigiliae Christianae (2022): 1–21.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Devos, Paul. “Le Miracle Posthume de Saint Thomas L’apôtre.” <em>AnBoll</em> 66 (1948): 231–75.</p>",
+      "line_text": "Devos, Paul. “Le Miracle Posthume de Saint Thomas L’apôtre.” AnBoll 66 (1948): 231–75.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Actes de Thomas et Actes de Paul.” <em>AnBoll</em> 69 (1951): 119–30.</p>",
+      "line_text": "———. “Actes de Thomas et Actes de Paul.” AnBoll 69 (1951): 119–30.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dihle, Albrecht. “Neues Zur Thomas-Tradition.” <em>JAC </em>6 (1963): 54–70.</p>",
+      "line_text": "Dihle, Albrecht. “Neues Zur Thomas-Tradition.” JAC 6 (1963): 54–70.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Doerfler, Maria, Emanuel Fiano, and Kyle Smith. “When Judas Thomas the Apostle Prays: Intercessory Prayer in Early Syriac Literature.” Pages 277–94 in <em>Syriac encounters: papers from the sixth North American Syriac Symposium, Duke University, 26-29 June 2011</em>. Eastern Christian Studies 20. Leuven: Peeters, 2015.</p>",
+      "line_text": "Doerfler, Maria, Emanuel Fiano, and Kyle Smith. “When Judas Thomas the Apostle Prays: Intercessory Prayer in Early Syriac Literature.” Pages 277–94 in Syriac encounters: papers from the sixth North American Syriac Symposium, Duke University, 26-29 June 2011. Eastern Christian Studies 20. Leuven: Peeters, 2015.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dognini, Cristiano, and Ilaria Ramelli. <em>Gli Apostoli in India Nella Patristica E Nella Letteratura Sanscrita</em>. Milano: Edizioni Medusa, 2001.</p>",
+      "line_text": "Dognini, Cristiano, and Ilaria Ramelli. Gli Apostoli in India Nella Patristica E Nella Letteratura Sanscrita. Milano: Edizioni Medusa, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Drijvers, Han J. W. <em>East of Antioch: Studies in Early Syriac Christianity</em>. Collected Studies Series 198.  London: Variorum Reprints, 1984.</p>",
+      "line_text": "Drijvers, Han J. W. East of Antioch: Studies in Early Syriac Christianity. Collected Studies Series 198.  London: Variorum Reprints, 1984.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Apocryphal Literature in the Cultural Milieu of Osrhoëne.” <em>Apocrypha</em> 1 (1990): 231–47.</p>",
+      "line_text": "———. “Apocryphal Literature in the Cultural Milieu of Osrhoëne.” Apocrypha 1 (1990): 231–47.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Drower, E. S. “Hibil-Ziwa and the Parthian Prince.” <em>JRAS</em> 3/4 (1954): 152–56.</p>",
+      "line_text": "Drower, E. S. “Hibil-Ziwa and the Parthian Prince.” JRAS 3/4 (1954): 152–56.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Duncan-Jones, Arthur Stuart. “Review of Preuschen, Zwei Gnostische Hymnen.” <em>JTS</em> 6 (1905): 448–51.</p>",
+      "line_text": "Duncan-Jones, Arthur Stuart. “Review of Preuschen, Zwei Gnostische Hymnen.” JTS 6 (1905): 448–51.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ernst, Carl W. “Fragmentary Versions of the Apocryphal ‘Hymn of the Pearl’ in Arabic, Turkish, Persian, and Urdu.” <em>JSAI</em> 32 (2006): 144–88.</p>",
+      "line_text": "Ernst, Carl W. “Fragmentary Versions of the Apocryphal ‘Hymn of the Pearl’ in Arabic, Turkish, Persian, and Urdu.” JSAI 32 (2006): 144–88.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ferreira, Johan. “A Comparison of the Clothing Metaphor in the Hymn of the Pearl and the Chinese Manichaean Hymnscroll.” Pages 209–19 in <em>Studia Manichaica: IV. Internationaler Kongress zum Manichäismus, Berlin, 14.-18. juli 1997</em>. Edited by R. E. Emmerick, Werner Sundermann, and Peter Zieme. Berichte und Abhandlungen. Sonderband 4. Berlin: Akademie Verlag, 2000.</p>",
+      "line_text": "Ferreira, Johan. “A Comparison of the Clothing Metaphor in the Hymn of the Pearl and the Chinese Manichaean Hymnscroll.” Pages 209–19 in Studia Manichaica: IV. Internationaler Kongress zum Manichäismus, Berlin, 14.-18. juli 1997. Edited by R. E. Emmerick, Werner Sundermann, and Peter Zieme. Berichte und Abhandlungen. Sonderband 4. Berlin: Akademie Verlag, 2000.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Hymn of the Pearl. The Syriac and Greek Texts with Introduction, Translation, and Notes</em>. Early Christian Studies 3. Sydney: St. Pauls Publications Sydney, 2002.</p>",
+      "line_text": "———. The Hymn of the Pearl. The Syriac and Greek Texts with Introduction, Translation, and Notes. Early Christian Studies 3. Sydney: St. Pauls Publications Sydney, 2002.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fiaccadori, Gianfranco. “Tommaso in Etiopia.” <em>SCO</em> 34 (1984): 298–307.</p>",
+      "line_text": "Fiaccadori, Gianfranco. “Tommaso in Etiopia.” SCO 34 (1984): 298–307.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fredrikson, Nadia Ibrahim. “La Perle, Entre L’océan et Le Ciel. Origines et Évolution D’un Symbole Chrétien.” <em>RHR</em> 220.3 (2003): 283–317.</p>",
+      "line_text": "Fredrikson, Nadia Ibrahim. “La Perle, Entre L’océan et Le Ciel. Origines et Évolution D’un Symbole Chrétien.” RHR 220.3 (2003): 283–317.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Garitte, Gérard. “La Passion Arménienne de S. Thomas L’apôtre et Son Modèle Grec.” <em>Mus</em> 84 (1971): 151–95.</p>",
+      "line_text": "Garitte, Gérard. “La Passion Arménienne de S. Thomas L’apôtre et Son Modèle Grec.” Mus 84 (1971): 151–95.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Le Martyre Géorgien de L’apôtre Thomas.” <em>Mus</em> 83 (1970): 497–532.</p>",
+      "line_text": "———. “Le Martyre Géorgien de L’apôtre Thomas.” Mus 83 (1970): 497–532.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Germond, Paul. “A Rhetoric of Gender in Early Christianity: Sex and Salvation in the Acts of Thomas.” Pages 350–68 in <em>Rhetoric, Scripture, and Theology: Essays from the 1994 Pretoria Conference</em>. Edited by Stanley E. Porter and Thomas H. Olbricht. Sheffield, England: Sheffield Academic Press, 1996.</p>",
+      "line_text": "Germond, Paul. “A Rhetoric of Gender in Early Christianity: Sex and Salvation in the Acts of Thomas.” Pages 350–68 in Rhetoric, Scripture, and Theology: Essays from the 1994 Pretoria Conference. Edited by Stanley E. Porter and Thomas H. Olbricht. Sheffield, England: Sheffield Academic Press, 1996.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Glancy, Jennifer A. “Slavery in the Acts of Thomas.” <em>JECS</em> 2.2 (2012): 3–21.</p>",
+      "line_text": "Glancy, Jennifer A. “Slavery in the Acts of Thomas.” JECS 2.2 (2012): 3–21.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gunther, John. J. “The Meaning and Origin of the Name ‘Judas Thomas.’” <em>Mus</em> 93 (1980): 113–48.</p>",
+      "line_text": "Gunther, John. J. “The Meaning and Origin of the Name ‘Judas Thomas.’” Mus 93 (1980): 113–48.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hamman, Adalbert Gauthier. “Le Sitz Im Leben Des Actes de Thomas.” <em>Studia Evangelica</em> 3 (1964): 383–89.</p>",
+      "line_text": "Hamman, Adalbert Gauthier. “Le Sitz Im Leben Des Actes de Thomas.” Studia Evangelica 3 (1964): 383–89.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hartin, Patrick J. “The Role and Significance of the Character of Thomas in the Acts of Thomas.” Pages 239–53 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Asgeirsson, April D. DeConick, and Risto Uro. Nag Hammadi and Manichaean Studies 59. Leiden/Boston: Brill, 2006.</p>",
+      "line_text": "Hartin, Patrick J. “The Role and Significance of the Character of Thomas in the Acts of Thomas.” Pages 239–53 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Asgeirsson, April D. DeConick, and Risto Uro. Nag Hammadi and Manichaean Studies 59. Leiden/Boston: Brill, 2006.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Henry, Jonathan K. “The Acts of Thomas as Sacred Text.” Pages 152–70 in <em>Sacra Scriptura: How “Non-Canonical” Texts Functioned in Early Judaism and Early Christianity</em>. Jewish and Christian Texts in Contexts and Related Studies 20. London/New York: T&amp;T Clark, 2014.</p>",
+      "line_text": "Henry, Jonathan K. “The Acts of Thomas as Sacred Text.” Pages 152–70 in Sacra Scriptura: How “Non-Canonical” Texts Functioned in Early Judaism and Early Christianity. Jewish and Christian Texts in Contexts and Related Studies 20. London/New York: T&amp;T Clark, 2014.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hilgenfeld, Adolf. “Der Königssohn Und Die Perle.” <em>ZKT</em> 47 (1904): 229–41.</p>",
+      "line_text": "Hilgenfeld, Adolf. “Der Königssohn Und Die Perle.” ZKT 47 (1904): 229–41.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hilhorst, Anthony. “The Heavenly Palace in the Acts of Thomas.” Pages 53–64 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Hilhorst, Anthony. “The Heavenly Palace in the Acts of Thomas.” Pages 53–64 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hoffman, Georg. “Zwei Hymnen Der Thomasakten.” <em>ZNW</em> 4 (1903): 273–309.</p>",
+      "line_text": "Hoffman, Georg. “Zwei Hymnen Der Thomasakten.” ZNW 4 (1903): 273–309.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Huxley, George. “Geography in the Acts of Thomas.” <em>GRBS</em> 24 (1983): 71–80.</p>",
+      "line_text": "Huxley, George. “Geography in the Acts of Thomas.” GRBS 24 (1983): 71–80.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dell’Isola, Maria. “Violence Against Women in the Apocryphal Acts of the Apostles: Some Insights on the ‘Acts of Thomas’ and the ‘Acts of John.’” <em>Vetera Christianorum</em> 59 (2022): 107–20.</p>",
+      "line_text": "Dell’Isola, Maria. “Violence Against Women in the Apocryphal Acts of the Apostles: Some Insights on the ‘Acts of Thomas’ and the ‘Acts of John.’” Vetera Christianorum 59 (2022): 107–20.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Johnson, Caroline. “Ritual Epicleses in the Acts of Thomas.” Pages 171–204 in <em>The Apocryphal Acts of the Apostles</em>. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Cambridge: Harvard University Press, 1999.</p>",
+      "line_text": "Johnson, Caroline. “Ritual Epicleses in the Acts of Thomas.” Pages 171–204 in The Apocryphal Acts of the Apostles. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Cambridge: Harvard University Press, 1999.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jonas, Hans. “The ‘Hymn of the Pearl.’” Pages 112–29 in <em>The Gnostic Religion: The Message of the Alien God &amp; the Beginnings of Christianity</em>. By Hans Jonas. 3rd ed. Boston: Beacon, 2001.</p>",
+      "line_text": "Jonas, Hans. “The ‘Hymn of the Pearl.’” Pages 112–29 in The Gnostic Religion: The Message of the Alien God &amp; the Beginnings of Christianity. By Hans Jonas. 3rd ed. Boston: Beacon, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klijn, Albertus F. J.  “The So-Called Hymn of the Pearl (Acts of Thomas Ch. 108–113).” <em>VC</em> 14.3 (1960): 154–64.</p>",
+      "line_text": "Klijn, Albertus F. J.  “The So-Called Hymn of the Pearl (Acts of Thomas Ch. 108–113).” VC 14.3 (1960): 154–64.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Acts of Thomas Revisited.” Pages 1–10 in <em>The Apocryphal Acts of Thomas</em>. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "———. “The Acts of Thomas Revisited.” Pages 1–10 in The Apocryphal Acts of Thomas. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. Acts of Thomas: Introduction – Text – Commentary</em>. NovTSupp 5. 2nd ed. Leiden: Brill, 2003.</p>",
+      "line_text": "———. Acts of Thomas: Introduction – Text – Commentary. NovTSupp 5. 2nd ed. Leiden: Brill, 2003.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Köbert, Raimund. “Das Perlenlied.” <em>Orientalia</em> 38.3 (1969): 447–456.</p>",
+      "line_text": "Köbert, Raimund. “Das Perlenlied.” Orientalia 38.3 (1969): 447–456.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kruse, Heinz. “The Return of the Prodigal: Fortunes of a Parable on Its Way to the Far East.” <em>Orientalia</em> 47.2 (1978): 163–214.</p>",
+      "line_text": "Kruse, Heinz. “The Return of the Prodigal: Fortunes of a Parable on Its Way to the Far East.” Orientalia 47.2 (1978): 163–214.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Das Brautlied Der Syrischen Thomas-Akten.” <em>OrChrPer </em>50.2 (1984): 291–330.</p>",
+      "line_text": "———. “Das Brautlied Der Syrischen Thomas-Akten.” OrChrPer 50.2 (1984): 291–330.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Zwei Geist-Epiklesen Der Syrischen Thomasakten.” <em>OrChr</em> 69 (1985): 33–53.</p>",
+      "line_text": "———. “Zwei Geist-Epiklesen Der Syrischen Thomasakten.” OrChr 69 (1985): 33–53.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>LaFargue, Michael. <em>Language and Gnosis: The Opening Scenes of the Acts of Thomas.</em> HDR 18. Philadelphia: Fortress Press, 1985.</p>",
+      "line_text": "LaFargue, Michael. Language and Gnosis: The Opening Scenes of the Acts of Thomas. HDR 18. Philadelphia: Fortress Press, 1985.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lanzillotta, L. Roig. “A Syriac Original for the Acts of Thomas? The Hypothesis of Syriac Priority Revisited.” Pages 105–34 in <em>Early Christian and Jewish Narrative: The Role of Religion in Shaping Narrative Forms</em>. Edited by Ilaria Ramelli and Judith Perkins. WUNT 348. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "Lanzillotta, L. Roig. “A Syriac Original for the Acts of Thomas? The Hypothesis of Syriac Priority Revisited.” Pages 105–34 in Early Christian and Jewish Narrative: The Role of Religion in Shaping Narrative Forms. Edited by Ilaria Ramelli and Judith Perkins. WUNT 348. Tübingen: Mohr Siebeck, 2015.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leloir, Louis. “Le baptême du Roi Gundaphor.” <em>Mus</em> 100 (1987): 225–33.</p>",
+      "line_text": "Leloir, Louis. “Le baptême du Roi Gundaphor.” Mus 100 (1987): 225–33.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leonhard, Clemens. “Wer ist der Jüngling? Die Taufe des Gundaphor in den Thomasakten und der Kult des Asklepios.” <em>ZAC </em>19.2 (2015): 237–59.</p>",
+      "line_text": "Leonhard, Clemens. “Wer ist der Jüngling? Die Taufe des Gundaphor in den Thomasakten und der Kult des Asklepios.” ZAC 19.2 (2015): 237–59.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n241/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ein Beitrag zur altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 1, pp. 225–347).</p>",
+      "line_text": "Lipsius, Richard A. Die Apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 1, pp. 225–347).",
+      "language": "Acts of Thomas",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/n241/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Luttikhuizen, Gerard P. “The Hymn of Jude Thomas, the Apostle, in the Country of the Indians.” Pages 101–14 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Luttikhuizen, Gerard P. “The Hymn of Jude Thomas, the Apostle, in the Country of the Indians.” Pages 101–14 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Markovich, Miroslav. “The Wedding Hymn of Act Thomae.” Pages 156–73 in <em>Studies in Graeco-Roman Religions and Gnosticism</em>. Leiden: Brill, 1988.</p>",
+      "line_text": "Markovich, Miroslav. “The Wedding Hymn of Act Thomae.” Pages 156–73 in Studies in Graeco-Roman Religions and Gnosticism. Leiden: Brill, 1988.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McGrath, James F. “History and Fiction in the Acts of Thomas: The State of the Question.” <em>JSP</em> 17.4 (2008): 297–311.</p>",
+      "line_text": "McGrath, James F. “History and Fiction in the Acts of Thomas: The State of the Question.” JSP 17.4 (2008): 297–311.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques E. “Le ‘Chant de La Perle.’” <em>RevScRel</em> 42.4 (1968): 289–325.</p>",
+      "line_text": "Ménard, Jacques E. “Le ‘Chant de La Perle.’” RevScRel 42.4 (1968): 289–325.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Merrill, Eugene H. “Odes of Solomon and the Acts of Thomas: A Comparative Study.” <em>JETS</em> 17.4 (1974): 231–34.</p>",
+      "line_text": "Merrill, Eugene H. “Odes of Solomon and the Acts of Thomas: A Comparative Study.” JETS 17.4 (1974): 231–34.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meßner, Reinhard. “Zur Eucharistie in den Thomasakten. Zugleich ein Beitrag zur Frühgeschichte der eucharistischen Epiklese.” Pages 493–513 in <em>Crossroad of Cultures: Studies in Liturgy and Patristics in Honor of Gabriele Winkler</em>. Edited by Hans-Jürgen Feulner, et al. OrChrAn 260. Roma: Pontificio Istituto Orientale, 2000.</p>",
+      "line_text": "Meßner, Reinhard. “Zur Eucharistie in den Thomasakten. Zugleich ein Beitrag zur Frühgeschichte der eucharistischen Epiklese.” Pages 493–513 in Crossroad of Cultures: Studies in Liturgy and Patristics in Honor of Gabriele Winkler. Edited by Hans-Jürgen Feulner, et al. OrChrAn 260. Roma: Pontificio Istituto Orientale, 2000.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Morrison, Craig E. “The Text of the New Testament in the Acts of Judas Thomas.” Pages 187–205 in <em>The Peshitta: Its Use in Literature and Liturgy. Papers Read at the Third Peshitta Symposium.</em> Edited by Robert Bas ter Haar Romeny. Monographs of the Peshitta Institute Leiden 15. Leiden/Boston: Brill, 2006.</p>",
+      "line_text": "Morrison, Craig E. “The Text of the New Testament in the Acts of Judas Thomas.” Pages 187–205 in The Peshitta: Its Use in Literature and Liturgy. Papers Read at the Third Peshitta Symposium. Edited by Robert Bas ter Haar Romeny. Monographs of the Peshitta Institute Leiden 15. Leiden/Boston: Brill, 2006.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Function of <em>qṭal hwā</em> in the Acts of Judas Thomas.” Pages 257–85 in <em>Aramaic in its Historical and Linguistic Setting.</em> Edited by Holger Gzella and Margaretha Folmer. Veröffentlichungen der Orientalischen Kommission 50. Wiesbaden: Harrassowitz Verlag, 2008.</p>",
+      "line_text": "__________. “The Function of qṭal hwā in the Acts of Judas Thomas.” Pages 257–85 in Aramaic in its Historical and Linguistic Setting. Edited by Holger Gzella and Margaretha Folmer. Veröffentlichungen der Orientalischen Kommission 50. Wiesbaden: Harrassowitz Verlag, 2008.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “When Judas Thomas the Apostle Prays: Intercessory Prayer in Early Syriac Literature.” Pages 277–94 in <em>Syriac Encounters: Papers from the Sixth North American Syriac Symposium, Duke University, 26-29 June 2011.</em> Edited by Maria Doerfler, et al. Eastern Christian Studies 20. Leuven: Peeters, 2015.</p>",
+      "line_text": "__________. “When Judas Thomas the Apostle Prays: Intercessory Prayer in Early Syriac Literature.” Pages 277–94 in Syriac Encounters: Papers from the Sixth North American Syriac Symposium, Duke University, 26-29 June 2011. Edited by Maria Doerfler, et al. Eastern Christian Studies 20. Leuven: Peeters, 2015.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Most, Glenn W. <em>Doubting Thomas</em>. Cambridge, MA: Harvard University Press, 2005.</p>",
+      "line_text": "Most, Glenn W. Doubting Thomas. Cambridge, MA: Harvard University Press, 2005.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Myers, Susan E. “‘Come, Hidden Mother’: Spirit Epicleses in the Acts of Thomas.” Ph.D. dissertation, University of Notre Dame, 2003.</p>",
+      "line_text": "Myers, Susan E. “‘Come, Hidden Mother’: Spirit Epicleses in the Acts of Thomas.” Ph.D. dissertation, University of Notre Dame, 2003.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Revisiting Preliminary Issues in the Acts of Thomas.” <em>Apocrypha</em> 17 (2006): 95–112.</p>",
+      "line_text": "__________. “Revisiting Preliminary Issues in the Acts of Thomas.” Apocrypha 17 (2006): 95–112.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Spirit Epicleses in the Acts of Thomas</em>. WUNT 2 Reiche 281. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "__________. Spirit Epicleses in the Acts of Thomas. WUNT 2 Reiche 281. Tübingen: Mohr Siebeck, 2010.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Spirit as Mother in Early Syriac-Speaking Christianity.” Pages 427–62 in <em>Women and Gender in Ancient Religions: Interdisciplinary Approaches</em>. Edited by Stephen P. Ahearne-Kroll, Paul A. Holloway, and James Kelhoffer. WUNT 1/263. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "__________. “The Spirit as Mother in Early Syriac-Speaking Christianity.” Pages 427–62 in Women and Gender in Ancient Religions: Interdisciplinary Approaches. Edited by Stephen P. Ahearne-Kroll, Paul A. Holloway, and James Kelhoffer. WUNT 1/263. Tübingen: Mohr Siebeck, 2010.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Antecedents of the Feminine Imagery of Spirit in the Acts of Thomas.” <em>Apocrypha</em> 26 (2015): 103–18.</p>",
+      "line_text": "__________. “Antecedents of the Feminine Imagery of Spirit in the Acts of Thomas.” Apocrypha 26 (2015): 103–18.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Narro, Ángel, and Israel Munoz Gallarte. “The First Two Acts of the Apostle Thomas and His Martyrdom in the Greek Manuscript Tradition of the Apocryphal Acts of Thomas.” <em>Annali di storia dell’esegesi</em> 39.2 (2022):</p>",
+      "line_text": "Narro, Ángel, and Israel Munoz Gallarte. “The First Two Acts of the Apostle Thomas and His Martyrdom in the Greek Manuscript Tradition of the Apocryphal Acts of Thomas.” Annali di storia dell’esegesi 39.2 (2022):",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nedungatt, George. “The Apocryphal ‘Acts of Thomas’ and Christian Origins in India.” <em>Gregorianum</em> 92.3 (2011): 533–57.</p>",
+      "line_text": "Nedungatt, George. “The Apocryphal ‘Acts of Thomas’ and Christian Origins in India.” Gregorianum 92.3 (2011): 533–57.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Omodeo, A. “I Miti Gnostici Degli Atti Di Tommaso.” <em>La Parola Del Passato</em> 1 (1946): 323–37.</p>",
+      "line_text": "Omodeo, A. “I Miti Gnostici Degli Atti Di Tommaso.” La Parola Del Passato 1 (1946): 323–37.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Parpola, Simo. “Mesopotamian Precursors to the Hymn of the Pearl.” Pages 181–94 in <em>Mythology and Mythologies: Methodological Approaches to Intercultural Influences: Proceedings of the Second Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project Held in Paris, France, Oct. 4-7, 1999</em>. Edited by Robert Whiting. Melammu Symposia 2. Helsinki: Neo-Assyrian Text Corpus Project, 2001.</p>",
+      "line_text": "Parpola, Simo. “Mesopotamian Precursors to the Hymn of the Pearl.” Pages 181–94 in Mythology and Mythologies: Methodological Approaches to Intercultural Influences: Proceedings of the Second Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project Held in Paris, France, Oct. 4-7, 1999. Edited by Robert Whiting. Melammu Symposia 2. Helsinki: Neo-Assyrian Text Corpus Project, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pesthy, Monika. “Thomas, the Slave of the Lord.” Pages 65–73 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Pesthy, Monika. “Thomas, the Slave of the Lord.” Pages 65–73 in The Apocryphal Acts of Thomas. Edited by Jan Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Playoust, Catherine. “The Beauty of Jesus and His Twin: Redirected Erotics in the Acts of Thomas.” Pages 35–63 in <em>The Levant: Crossroads of Late Antiquity</em>. <em>History, Religion and Archaeology / Le Levant: Carrefour de l’Antiquité tardive. Histoire, religion et archéologie.</em> Edited by Ellen Bradshaw Aitken and John M. Fossey. McGill University Monographs in Classical Archaeology and History 22. Leiden/Boston: Brill, 2014.</p>",
+      "line_text": "Playoust, Catherine. “The Beauty of Jesus and His Twin: Redirected Erotics in the Acts of Thomas.” Pages 35–63 in The Levant: Crossroads of Late Antiquity. History, Religion and Archaeology / Le Levant: Carrefour de l’Antiquité tardive. Histoire, religion et archéologie. Edited by Ellen Bradshaw Aitken and John M. Fossey. McGill University Monographs in Classical Archaeology and History 22. Leiden/Boston: Brill, 2014.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Plümacher, Eckhard. “Thomasakten.” Pages 34–43 in <em>Paulys Realencyclopädie der classischen Altertumswissenschaft, Supplementum </em>15. Stuttgart: Alfred Druckenmüller, 1978.</p>",
+      "line_text": "Plümacher, Eckhard. “Thomasakten.” Pages 34–43 in Paulys Realencyclopädie der classischen Altertumswissenschaft, Supplementum 15. Stuttgart: Alfred Druckenmüller, 1978.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Poirier, Paul-Hubert. “L’hymne de La Perle Des Actes de Thomas: Étude de La Tradition Manuscrite.” <em>Orientalia Christiana Analecta</em> 205. Symposium Syriacum 1976: Célebré du 13 au 17 septembre 1976 au Centre Culturel “Les Fontaines” de Chantilly (1978): 19–29.</p>",
+      "line_text": "Poirier, Paul-Hubert. “L’hymne de La Perle Des Actes de Thomas: Étude de La Tradition Manuscrite.” Orientalia Christiana Analecta 205. Symposium Syriacum 1976: Célebré du 13 au 17 septembre 1976 au Centre Culturel “Les Fontaines” de Chantilly (1978): 19–29.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>L’Hymne de La Perle Des Actes de Thomas: Introduction, Texte, Traduction, Commentaire</em>. 2nd ed. Turnhout: Brepols, 2021.</p>",
+      "line_text": "———. L’Hymne de La Perle Des Actes de Thomas: Introduction, Texte, Traduction, Commentaire. 2nd ed. Turnhout: Brepols, 2021.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>La Version Copte de La Prédication et Du Martyre Du Thomas</em>. Subsidia hagiographica 67. Brussels: Société des Bollandistes, 1984.</p>",
+      "line_text": "———. La Version Copte de La Prédication et Du Martyre Du Thomas. Subsidia hagiographica 67. Brussels: Société des Bollandistes, 1984.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “L’Hymne de La Perle et Le Manichéisme À La Lumière Du Codex Manichéen de Cologne.” Pages 235–48 in <em>Codex Manichaicus Coloniensis: Atti Del Simposio Internazionale (Rende-Amantea 3-7 Settembre 1984)</em>. Edited by Luigi Cirillo. Cosenza: Marra Editore, 1986.</p>",
+      "line_text": "———. “L’Hymne de La Perle et Le Manichéisme À La Lumière Du Codex Manichéen de Cologne.” Pages 235–48 in Codex Manichaicus Coloniensis: Atti Del Simposio Internazionale (Rende-Amantea 3-7 Settembre 1984). Edited by Luigi Cirillo. Cosenza: Marra Editore, 1986.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Ἀπουσία. Note sur un mot des Actes de Thomas.” <em>ARAM</em> 5 (1993): 427–35.</p>",
+      "line_text": "———. “Ἀπουσία. Note sur un mot des Actes de Thomas.” ARAM 5 (1993): 427–35.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Évangile de Thomas, Actes de Thomas, Livre de Thomas: une tradition et ses transformations.” <em>Apocrypha</em> 7 (1996): 9–26.</p>",
+      "line_text": "__________. “Évangile de Thomas, Actes de Thomas, Livre de Thomas: une tradition et ses transformations.” Apocrypha 7 (1996): 9–26.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Writings Ascribed to Thomas and the Thomas Tradition.” Pages 295–307 in <em>The Nag Hammadi Library after Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration.</em> Edited by John D. Turner and Anne McGuire. Nag Hammadi and Manichaean Studies 44. Leiden/New York/Köln: Brill, 1997.</p>",
+      "line_text": "__________. “The Writings Ascribed to Thomas and the Thomas Tradition.” Pages 295–307 in The Nag Hammadi Library after Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration. Edited by John D. Turner and Anne McGuire. Nag Hammadi and Manichaean Studies 44. Leiden/New York/Köln: Brill, 1997.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Les Actes de Thomas et le manichéisme.” <em>Apocrypha</em> 9 (1998): 263–90.</p>",
+      "line_text": "__________. “Les Actes de Thomas et le manichéisme.” Apocrypha 9 (1998): 263–90.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Mystère et mystères dans les Actes de Thomas.” Pages 303–25 in <em>Mystery and Secrecy in the Nag Hammadi Collection and Other Ancient Literature: Ideas and Practices. Studies for Einar Thomassen at Sixty.</em> Edited by Christian H. Bull, Liv Ingeborg Lied, and John D. Turner. Nag Hammadi and Manichaean Studies 76. Leiden/Boston: Brill, 2012.</p>",
+      "line_text": "__________. “Mystère et mystères dans les Actes de Thomas.” Pages 303–25 in Mystery and Secrecy in the Nag Hammadi Collection and Other Ancient Literature: Ideas and Practices. Studies for Einar Thomassen at Sixty. Edited by Christian H. Bull, Liv Ingeborg Lied, and John D. Turner. Nag Hammadi and Manichaean Studies 76. Leiden/Boston: Brill, 2012.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.ancientjewreview.com/read/2020/11/11/retelling-thomas-story-reception-of-the-apocryphal-acts-of-thomas-in-the-synaxarion-of-the-liturgical-thomas-feast\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Procop, Cosmin. “Retelling Thomas’ Story: Reception of the Apocryphal Acts of Thomas in the Synaxarion of the Liturgical Thomas-Feast.” <em>Ancient Jew Review.</em> Posted 11 November 2020. Online: https://www.ancientjewreview.com/read/2020/11/11/retelling-thomas-story-reception-of-the-apocryphal-acts-of-thomas-in-the-synaxarion-of-the-liturgical-thomas-feast.</p>",
+      "line_text": "Procop, Cosmin. “Retelling Thomas’ Story: Reception of the Apocryphal Acts of Thomas in the Synaxarion of the Liturgical Thomas-Feast.” Ancient Jew Review. Posted 11 November 2020. Online: https://www.ancientjewreview.com/read/2020/11/11/retelling-thomas-story-reception-of-the-apocryphal-acts-of-thomas-in-the-synaxarion-of-the-liturgical-thomas-feast.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.ancientjewreview.com/read/2020/11/11/retelling-thomas-story-reception-of-the-apocryphal-acts-of-thomas-in-the-synaxarion-of-the-liturgical-thomas-feast"
+      ]
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. <em>Makarius, Das Thomasevangelium Und Das Lied von Der Perle von G. Quispel</em>. Leiden: Brill, 1967.</p>",
+      "line_text": "Quispel, Gilles. Makarius, Das Thomasevangelium Und Das Lied von Der Perle von G. Quispel. Leiden: Brill, 1967.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Makarius und das Lied von der Perle.” Pages 625–44 in <em>Le origini dello gnosticismo: Colloquio di Messina, 13-18 Aprile 1966 = The origins of gnosticism: Colloquium of Messina, 13-18 April 1966</em>. Edited by Ugo. Bianchi. Studies in the history of religions: supplements to Numen 12. Leiden: Brill, 1970.</p>",
+      "line_text": "———. “Makarius und das Lied von der Perle.” Pages 625–44 in Le origini dello gnosticismo: Colloquio di Messina, 13-18 Aprile 1966 = The origins of gnosticism: Colloquium of Messina, 13-18 April 1966. Edited by Ugo. Bianchi. Studies in the history of religions: supplements to Numen 12. Leiden: Brill, 1970.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reger, Gary. “On the Road to India with Apollonios of Tyana and Thomas the Apostle.” <em>Mediterranean Historical Review</em> 22.2 (2007): 257–71.</p>",
+      "line_text": "Reger, Gary. “On the Road to India with Apollonios of Tyana and Thomas the Apostle.” Mediterranean Historical Review 22.2 (2007): 257–71.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reinink, Gerrit J., and Han J. W. Drijvers. “Taufe und Licht: Tatian, Ebionäerevangelium und Thomasakten.” <em>Text and Testimony: Essays on New Testament and Aprocryphal Literature in Honour of A.F.J. Klijn</em>. Edited by Albertus Frederik Johannes Klijn and Tjitze Baarda. Kampen: Kok, 1988.</p>",
+      "line_text": "Reinink, Gerrit J., and Han J. W. Drijvers. “Taufe und Licht: Tatian, Ebionäerevangelium und Thomasakten.” Text and Testimony: Essays on New Testament and Aprocryphal Literature in Honour of A.F.J. Klijn. Edited by Albertus Frederik Johannes Klijn and Tjitze Baarda. Kampen: Kok, 1988.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Riley, Gregory J. “Thomas Tradition and the Acts of Thomas.” <em>SBL Seminar Papers</em> 30 (1991): 533–42.</p>",
+      "line_text": "Riley, Gregory J. “Thomas Tradition and the Acts of Thomas.” SBL Seminar Papers 30 (1991): 533–42.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rouwhorst, Gerard A. M. “La Célébration de L’eucharistie Selon Les Actes de Thomas.” Pages 51–77 in <em>Omnes Circumadstantes: Contributions towards a History of the Role of the People in the Liturgy</em>. Kampen, Netherlands: J H Kok, 1990.</p>",
+      "line_text": "Rouwhorst, Gerard A. M. “La Célébration de L’eucharistie Selon Les Actes de Thomas.” Pages 51–77 in Omnes Circumadstantes: Contributions towards a History of the Role of the People in the Liturgy. Kampen, Netherlands: J H Kok, 1990.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Hymns and Prayers in the Apocryphal Acts of Thomas.” <em>Literature or Liturgy?: Early Christian Hymns and Prayers in Their Literary and Liturgical Context in Antiquity</em>. Edited by Clemens Leonhard and Hermut Löhr. WUNT 2/363. Tübingen: Mohr Siebeck, 2014.</p>",
+      "line_text": "———. “Hymns and Prayers in the Apocryphal Acts of Thomas.” Literature or Liturgy?: Early Christian Hymns and Prayers in Their Literary and Liturgical Context in Antiquity. Edited by Clemens Leonhard and Hermut Löhr. WUNT 2/363. Tübingen: Mohr Siebeck, 2014.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ruffatto, Kristine J. “The Concept of Rest in the Greek Acts of Thomas.” <em>OCP </em>75.1 (2009): 133–55.</p>",
+      "line_text": "Ruffatto, Kristine J. “The Concept of Rest in the Greek Acts of Thomas.” OCP 75.1 (2009): 133–55.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Russell, James R. “The Epic of the Pearl.” <em>Revue Des Études Arméniennes</em> 28 (2001): 29–100.</p>",
+      "line_text": "Russell, James R. “The Epic of the Pearl.” Revue Des Études Arméniennes 28 (2001): 29–100.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Saint-Laurent, Jeanne-Nicole. <em>Missionary Stories and the Formation of the Syriac Churches.</em> Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.</p>",
+      "line_text": "Saint-Laurent, Jeanne-Nicole. Missionary Stories and the Formation of the Syriac Churches. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sandnes, Karl Olav. “Seal and Baptism in Early Christianity.” Pages 1441–81 in <em>Ablution, Initiation, and Baptism: Late Antiquity, Early Judaism, and Early Christianity</em>. Edited by David Hellholm, et al. BZNW 176. Berlin/New York: Walter de Gruyter, 2011.</p>",
+      "line_text": "Sandnes, Karl Olav. “Seal and Baptism in Early Christianity.” Pages 1441–81 in Ablution, Initiation, and Baptism: Late Antiquity, Early Judaism, and Early Christianity. Edited by David Hellholm, et al. BZNW 176. Berlin/New York: Walter de Gruyter, 2011.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schimitz, Bertram. “Das Indienbild in Der Syrischen Thomasliteratur – The Three Poems of Jacob of Sarug about the Apostle Thomas in India.” <em>The Harp</em> 8/9 (1995): 105–16.</p>",
+      "line_text": "Schimitz, Bertram. “Das Indienbild in Der Syrischen Thomasliteratur – The Three Poems of Jacob of Sarug about the Apostle Thomas in India.” The Harp 8/9 (1995): 105–16.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schröter, R. “Gedicht Des Jakob von Sarug Über Den Palast Den Der Apostel Thomas in Indien Baute.” <em>ZDMG</em> 25 (1871): 321–77.</p>",
+      "line_text": "Schröter, R. “Gedicht Des Jakob von Sarug Über Den Palast Den Der Apostel Thomas in Indien Baute.” ZDMG 25 (1871): 321–77.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sellew, Philip. “Thomas Christianity: Scholars in Quest of a Community.” Pages 11–35 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Sellew, Philip. “Thomas Christianity: Scholars in Quest of a Community.” Pages 11–35 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Seppälä, Serafim. “Deacons in Acts of Thomas and Related Syriac Literature.” Pages 227–44 in <em>Deacons and Diakonia in Early Christianity: The First Two Centuries</em>. Edited by Bart J. Koet, Edwina Murphy, and Esko Ryökäs. WUNT 2/479. Tübingen: Mohr Siebeck, 2018.</p>",
+      "line_text": "Seppälä, Serafim. “Deacons in Acts of Thomas and Related Syriac Literature.” Pages 227–44 in Deacons and Diakonia in Early Christianity: The First Two Centuries. Edited by Bart J. Koet, Edwina Murphy, and Esko Ryökäs. WUNT 2/479. Tübingen: Mohr Siebeck, 2018.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Siegert, Folker. “Analyses Rhétoriques et Stylistiques Portant Sur Les Actes de Jean et Les Actes de Thomas.” <em>Apocrypha</em> 8 (1997): 231–50.</p>",
+      "line_text": "Siegert, Folker. “Analyses Rhétoriques et Stylistiques Portant Sur Les Actes de Jean et Les Actes de Thomas.” Apocrypha 8 (1997): 231–50.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Smelik, K. A. D. “Aliquanta Ipsius Sancti Thomae.” <em>VC</em> 28.4 (1974): 290–94.</p>",
+      "line_text": "Smelik, K. A. D. “Aliquanta Ipsius Sancti Thomae.” VC 28.4 (1974): 290–94.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Spittler, Janet E. “The Anthropology of the Acts of Thomas.” Pages 203–16 in <em>Christian Body, Christian Self: Concepts of Early Christian Personhood.</em> Edited by Clare Rothschild and Trevor Thompson. WUNT 284. Tübingen: Mohr Siebeck, 2011.</p>",
+      "line_text": "Spittler, Janet E. “The Anthropology of the Acts of Thomas.” Pages 203–16 in Christian Body, Christian Self: Concepts of Early Christian Personhood. Edited by Clare Rothschild and Trevor Thompson. WUNT 284. Tübingen: Mohr Siebeck, 2011.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tissot, Yves. “Les Actes de Thomas: exemple de recueil composite.” Pages 223–32 in <em>Les Actes apocryphes des apôtres. Christianisme et monde païen.</em> Edited by François Bovon, et al., Publications de la Faculté de Théologie de l’Université de Genève 4. Paris: Labor et Fides, 1981.</p>",
+      "line_text": "Tissot, Yves. “Les Actes de Thomas: exemple de recueil composite.” Pages 223–32 in Les Actes apocryphes des apôtres. Christianisme et monde païen. Edited by François Bovon, et al., Publications de la Faculté de Théologie de l’Université de Genève 4. Paris: Labor et Fides, 1981.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “L’encratisme des Actes de Thomas.” <em>ANRW</em> II.25.6 (1988): 4415–30.</p>",
+      "line_text": "__________. “L’encratisme des Actes de Thomas.” ANRW II.25.6 (1988): 4415–30.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “L’Inde des Actes de Thomas: une contrée parmi d’autres.” <em>Religions et Histoire</em> 27 (2009): 30–33.</p>",
+      "line_text": "__________. “L’Inde des Actes de Thomas: une contrée parmi d’autres.” Religions et Histoire 27 (2009): 30–33.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Les Actes de Thomas: des pérégrinations au martyre.” <em>Religions et Histoire</em> 27 (2009): 33.</p>",
+      "line_text": "__________. “Les Actes de Thomas: des pérégrinations au martyre.” Religions et Histoire 27 (2009): 33.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tubach, Jürgen. “Der Weg Des Prinzen Im Perlenlied.” <em>Orientalia Christiana Periodica</em> 24 (1993): 87–111.</p>",
+      "line_text": "Tubach, Jürgen. “Der Weg Des Prinzen Im Perlenlied.” Orientalia Christiana Periodica 24 (1993): 87–111.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Four World Empires in the Hymn of the Pearl.” <em>Journal of Eastern Christian Studies</em> 56.1–4 (2004): 145–54.</p>",
+      "line_text": "———. “The Four World Empires in the Hymn of the Pearl.” Journal of Eastern Christian Studies 56.1–4 (2004): 145–54.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Zur Interpretation des Perlenliedes. Exegetische Prämissen und ihre Schlussfolgerungen.” Pages 231–58 in <em>Syrien im 1.-7. Jahrhundert nach Christus: Akten der 1. Tübinger Tagung zum Christlichen Orient (15.-16. Juni 2007)</em>. Edited by Dmitrij Bumazhnov and Hans Reinhard Seeliger. Studien und Texte zu Antike und Christentum 62. Tübingen: Mohr Siebeck, 2011.</p>",
+      "line_text": "———. “Zur Interpretation des Perlenliedes. Exegetische Prämissen und ihre Schlussfolgerungen.” Pages 231–58 in Syrien im 1.-7. Jahrhundert nach Christus: Akten der 1. Tübinger Tagung zum Christlichen Orient (15.-16. Juni 2007). Edited by Dmitrij Bumazhnov and Hans Reinhard Seeliger. Studien und Texte zu Antike und Christentum 62. Tübingen: Mohr Siebeck, 2011.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Turner, John D. “A New Link in the Syrian Judas Thomas Tradition.” Pages 109–19 in <em>Essays on the Nag Hammadi Texts in Honour of Alexander Böhlig</em>. Edited by Martin Krause. NHS 3. Leiden: E.J. Brill, 1972.</p>",
+      "line_text": "Turner, John D. “A New Link in the Syrian Judas Thomas Tradition.” Pages 109–19 in Essays on the Nag Hammadi Texts in Honour of Alexander Böhlig. Edited by Martin Krause. NHS 3. Leiden: E.J. Brill, 1972.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Valantasis, Richard. “The Nuptial Chamber Revisited: The Acts of Thomas and Cultural Intertextuality.” <em>Semeia</em> 80 (1997): 261–76.</p>",
+      "line_text": "Valantasis, Richard. “The Nuptial Chamber Revisited: The Acts of Thomas and Cultural Intertextuality.” Semeia 80 (1997): 261–76.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>van den Bosch, Lourens P. “India and the Apostolate of St. Thomas.” Pages 125–48 in  <em>The Apocryphal Acts of Thomas</em>. Edited by Jan Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "van den Bosch, Lourens P. “India and the Apostolate of St. Thomas.” Pages 125–48 in  The Apocryphal Acts of Thomas. Edited by Jan Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Varghese, Baby. “Eucharist in the Syriac Acts of Thomas.” <em>The Harp</em> 21 (2006): 239–50.</p>",
+      "line_text": "Varghese, Baby. “Eucharist in the Syriac Acts of Thomas.” The Harp 21 (2006): 239–50.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Acts of Judas Thomas and Early Syriac Liturgy.” Pages 77–94 in <em>Sur les pas des Araméens chrétiens. Mélanges offerts à Alain Desreumaux</em>. Edited by Françoise Briquel-Chatonnet and Muriél Debié. Cahiers d’études syriaques 1. Paris: Geuthner, 2010.</p>",
+      "line_text": "__________. “Acts of Judas Thomas and Early Syriac Liturgy.” Pages 77–94 in Sur les pas des Araméens chrétiens. Mélanges offerts à Alain Desreumaux. Edited by Françoise Briquel-Chatonnet and Muriél Debié. Cahiers d’études syriaques 1. Paris: Geuthner, 2010.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Waldmann, Helmut. <em>Das Christentum in Indien Und Der Königsweg Der Apostel in Edessa, Indien Und Rom</em>. Tübingen: Verl. der Tübinger Ges., 1996.</p>",
+      "line_text": "Waldmann, Helmut. Das Christentum in Indien Und Der Königsweg Der Apostel in Edessa, Indien Und Rom. Tübingen: Verl. der Tübinger Ges., 1996.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Young, Robin Darling. “Notes on Divesting and Vesting in The Hymn of the Pearl.” Pages 201–14 in <em>Reading Religions in the Ancient World Essays Presented to Robert McQueen Grant on His 90th Birthday</em>. Edited by David E. Aune and Robin Darling. Young. NovTSup 125. Leiden: Brill, 2007.</p>",
+      "line_text": "Young, Robin Darling. “Notes on Divesting and Vesting in The Hymn of the Pearl.” Pages 201–14 in Reading Religions in the Ancient World Essays Presented to Robert McQueen Grant on His 90th Birthday. Edited by David E. Aune and Robin Darling. Young. NovTSup 125. Leiden: Brill, 2007.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zur, Yiphtah. “Parallels between Acts of Thomas 6-7 and 4Q184.” <em>RevQ</em> 16.1 (1993): 103–107.</p>",
+      "line_text": "Zur, Yiphtah. “Parallels between Acts of Thomas 6-7 and 4Q184.” RevQ 16.1 (1993): 103–107.",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "Acts of Thomas",
+      "entry_type": "Other"
+    }
+  ]
+}

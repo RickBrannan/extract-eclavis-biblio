@@ -1,0 +1,239 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-bartholomew/",
+  "nasscal_toc_title": "Book of Bartholomew",
+  "filename": "book-of-bartholomew",
+  "latin_title": "Liber Bartholomaei",
+  "abbrev": "Bk. Bart.",
+  "alt_titles": [
+    "Book on the Resurrection of Christ"
+  ],
+  "clavis_number": 195,
+  "category": "Apostolic Memoirs",
+  "compiler": "Christian H. Bull, MF Norwegian School of Theology",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Manuscript A (see link for editions):</p>",
+      "line_text": "Manuscript A (see link for editions):",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-ez/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.EZ (10th cent.)</p>",
+      "line_text": "MONB.EZ (10th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-ez/"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript B (see link for editions):</p>",
+      "line_text": "Manuscript B (see link for editions):",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-fp/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.FP (9th/10th cent.)</p>",
+      "line_text": "MONB.FP (9th/10th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-fp/"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript C (MERC.AO):</p>",
+      "line_text": "Manuscript C (MERC.AO):",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-6804/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 6804 (10th/11th cent.)</p>",
+      "line_text": "London, British Library, Or. 6804 (10th/11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-6804/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticapocryphai00budguoft/page/n17\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>Coptic Apocrypha in the Dialect of Upper Egypt</em>. London: British Museum, 1913 (introduction, pp. xiv–xxix, edition, pp. 1–48, photographs, and English translation, pp. 179–215 of BL Or. 6804; English translation of Lacau’s Paris fragments, pp. 216–30).</p>",
+      "line_text": "Budge, Ernest A. W. Coptic Apocrypha in the Dialect of Upper Egypt. London: British Museum, 1913 (introduction, pp. xiv–xxix, edition, pp. 1–48, photographs, and English translation, pp. 179–215 of BL Or. 6804; English translation of Lacau’s Paris fragments, pp. 216–30).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/copticapocryphai00budguoft/page/n17"
+      ]
+    },
+    {
+      "line_html": "<p>Crum, Walter E. “8. Paper MS in Coptic.” Pages 110–36 in Robert de Rustafjaell.<em> The Light of Egypt from Recently Discovered Predynastic and Early Christian Records</em>. London: Kegan Paul, 1909 (English translation of BL Or. 6804).</p>",
+      "line_text": "Crum, Walter E. “8. Paper MS in Coptic.” Pages 110–36 in Robert de Rustafjaell. The Light of Egypt from Recently Discovered Predynastic and Early Christian Records. London: Kegan Paul, 1909 (English translation of BL Or. 6804).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscript D:</p>",
+      "line_text": "Manuscript D:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Berlin, Ägyptisches Museum und Papyrussammlung, uncataloged</p>",
+      "line_text": "Berlin, Ägyptisches Museum und Papyrussammlung, uncataloged",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Gardner, Iain. “A Codex Leaf from a Short Recension (Rec. D) of the Liber Bartholomaei (LB).” Pages 19–28 in <em>Sixty-Five Papyrological Texts Presented To Klaas A. Worp on the Occasion of His 65th Birthday</em>. Edited by Francisca A. J. Hoogendijk and Brian P. Muhs. Papyrologica Lugduno-Batava 33. Leiden: Brill, 2008.</p>",
+      "line_text": "Gardner, Iain. “A Codex Leaf from a Short Recension (Rec. D) of the Liber Bartholomaei (LB).” Pages 19–28 in Sixty-Five Papyrological Texts Presented To Klaas A. Worp on the Occasion of His 65th Birthday. Edited by Francisca A. J. Hoogendijk and Brian P. Muhs. Papyrologica Lugduno-Batava 33. Leiden: Brill, 2008.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Westerhoff, Matthias. <em>Auferstehung und Jenseits im koptischen “Buch der Auferstehung Jesu Christi, unseres Herrn”. </em>Orientalia Biblica et Christiana 11. Wiesbaden: Harrassowitz, 1999 (critical edition based on ABC discoveries up to 1999).</p>",
+      "line_text": "Westerhoff, Matthias. Auferstehung und Jenseits im koptischen “Buch der Auferstehung Jesu Christi, unseres Herrn”. Orientalia Biblica et Christiana 11. Wiesbaden: Harrassowitz, 1999 (critical edition based on ABC discoveries up to 1999).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bull, Christian H. and Alexander Tsakos. “The Book of Bartholomew.” Pages 87–126 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke<em>. </em>Grand Rapids, MI: Eerdmans, 2020 (translation based on all available manuscript evidence).</p>",
+      "line_text": "Bull, Christian H. and Alexander Tsakos. “The Book of Bartholomew.” Pages 87–126 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke. Grand Rapids, MI: Eerdmans, 2020 (translation based on all available manuscript evidence).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. Keith, trans. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (summary only, pp. 668–72).</p>",
+      "line_text": "Elliott, J. Keith, trans. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (summary only, pp. 668–72).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, Montague Rhodes. <em>The Apocryphal New Testament. </em>Oxford: Clarendon, 1925. 2nd. ed. 1953 (summary only, pp. 147–52, 181–86).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament. Oxford: Clarendon, 1925. 2nd. ed. 1953 (summary only, pp. 147–52, 181–86).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel, and Pierre Cherix. <em>L’évangile de Barthélemy d’après deux écrits apocryphes</em>. Apocryphes. Turnhout: Brepols, 1993.</p>",
+      "line_text": "Kaestli, Jean-Daniel, and Pierre Cherix. L’évangile de Barthélemy d’après deux écrits apocryphes. Apocryphes. Turnhout: Brepols, 1993.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________. “Livre de la résurrection de Jésus-Christ par l’apôtre Barthélemy.” Pages 299–356 in volume 1 of <em>Écrits apocryphes chrétiens</em>. Edited by François Bovon and Pierre Geoltrain. Bibliothèque de la Pléiade 515. Paris: Gallimard, 1997.</p>",
+      "line_text": "__________. “Livre de la résurrection de Jésus-Christ par l’apôtre Barthélemy.” Pages 299–356 in volume 1 of Écrits apocryphes chrétiens. Edited by François Bovon and Pierre Geoltrain. Bibliothèque de la Pléiade 515. Paris: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/MIFAO9/page/n33/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lacau, Pierre. <em>Fragments d’apocryphes coptes. </em>Mémoires publiés par les membres de l’Institut français d’archéologie orientale 9. Cairo: Imprimerie de l’IFAO, Paris: Firmin Didot, 1904 (editions and translations of Paris, Copte 129<sup>17</sup>, fol. 32 and Copte 78, pp. 57–66; French translation, pp. 67–77).</p>",
+      "line_text": "Lacau, Pierre. Fragments d’apocryphes coptes. Mémoires publiés par les membres de l’Institut français d’archéologie orientale 9. Cairo: Imprimerie de l’IFAO, Paris: Firmin Didot, 1904 (editions and translations of Paris, Copte 12917, fol. 32 and Copte 78, pp. 57–66; French translation, pp. 67–77).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/MIFAO9/page/n33/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://coptica.ch/revillout-1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Revillout, Eugène. <em>Les apocryphes coptes.</em> <em>Première partie: Les Évangiles des douze apôtres et de saint Barthélemy</em>. PO 2/2. Paris: Firmin Didot, 1904 (edition and translation of BNF Copte 129<sup>17</sup> fol. 59 and 63 on pp. 185–86, 195–96).</p>",
+      "line_text": "Revillout, Eugène. Les apocryphes coptes. Première partie: Les Évangiles des douze apôtres et de saint Barthélemy. PO 2/2. Paris: Firmin Didot, 1904 (edition and translation of BNF Copte 12917 fol. 59 and 63 on pp. 185–86, 195–96).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://coptica.ch/revillout-1.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. “Die koptischen Bartholomaeustexte: ‘Das Buch der auferstehung Jesu Christi, unseres Herrn.’” Pages 852–85 in vol. 1 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Schenke, Hans-Martin. “Die koptischen Bartholomaeustexte: ‘Das Buch der auferstehung Jesu Christi, unseres Herrn.’” Pages 852–85 in vol. 1 of Antike christliche Apokryphen in deutscher Übersetzung. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli Apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966–1981 (vol. 1.2: 301–19).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (vol. 1.2: 301–19).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n195\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle Religioni 24.5. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1:387–405).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle Religioni 24.5. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1:387–405).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n195"
+      ]
+    },
+    {
+      "line_html": "<p>Emmel, Stephen. “The Recently Published <em>Gospel of the Savior </em>(‘Unbekanntes Berliner Evangelium’): Righting the Order of Pages and Events.” <em>HTR </em>95 (2002): 45–72.</p>",
+      "line_text": "Emmel, Stephen. “The Recently Published Gospel of the Savior (‘Unbekanntes Berliner Evangelium’): Righting the Order of Pages and Events.” HTR 95 (2002): 45–72.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Preliminary Reedition and Translation of the <em>Gospel of the Savior: </em>New Light on the <em>Strasbourg Coptic Gospel </em>and the <em>Stauros-Text </em>from Nubia.” <em>Apocrypha </em>14 (2003):9–53.</p>",
+      "line_text": "__________. “Preliminary Reedition and Translation of the Gospel of the Savior: New Light on the Strasbourg Coptic Gospel and the Stauros-Text from Nubia.” Apocrypha 14 (2003):9–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Haase, Felix. “Zur Rekonstruktion des Bartholomäusevangeliums.” <em>ZNW</em> 16 (1915): 93–112.</p>",
+      "line_text": "Haase, Felix. “Zur Rekonstruktion des Bartholomäusevangeliums.” ZNW 16 (1915): 93–112.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel. “Où en est l’étude de l’Évangile de Barthélemy?” <em>RB</em> 95 (1988):5–33.</p>",
+      "line_text": "Kaestli, Jean-Daniel. “Où en est l’étude de l’Évangile de Barthélemy?” RB 95 (1988):5–33.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lucchesi, Enzo. “Feuillets coptes non identifiés du prétendu Évangile de Barthélemy.” <em>VC</em> 51 (1997): 273–75.</p>",
+      "line_text": "Lucchesi, Enzo. “Feuillets coptes non identifiés du prétendu Évangile de Barthélemy.” VC 51 (1997): 273–75.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Encore un fragment copte de l’‘Évangile de Barthélemy.’” <em>OLP</em> 31 (2000–2005): 79–81.</p>",
+      "line_text": "__________. “Encore un fragment copte de l’‘Évangile de Barthélemy.’” OLP 31 (2000–2005): 79–81.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Piankoff, Alexandre. “La descente aux enfers dans les textes égyptiens et dans les apocryphes coptes.” <em>BSAC</em> 7 (1941): 33–46.</p>",
+      "line_text": "Piankoff, Alexandre. “La descente aux enfers dans les textes égyptiens et dans les apocryphes coptes.” BSAC 7 (1941): 33–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm. “Coptic Bartholomew Texts.” Pages 553–37 in <em>New Testament Apocrypha</em>. Vol. 1:  <em>Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson. 2 vols. Rev. ed. Louisville, KY: Westminster John Knox, 1991–1992.</p>",
+      "line_text": "Schneemelcher, Wilhelm. “Coptic Bartholomew Texts.” Pages 553–37 in New Testament Apocrypha. Vol. 1:  Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McLachlan Wilson. 2 vols. Rev. ed. Louisville, KY: Westminster John Knox, 1991–1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suciu, Alin. “The Book of Bartholomew: A Coptic Apostolic Memoir.” <em>Apocrypha</em> 26 (2015):211–37.</p>",
+      "line_text": "Suciu, Alin. “The Book of Bartholomew: A Coptic Apostolic Memoir.” Apocrypha 26 (2015):211–37.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017.</p>",
+      "line_text": "__________. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

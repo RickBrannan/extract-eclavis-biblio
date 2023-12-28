@@ -1,0 +1,52 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-john-the-baptist/",
+  "nasscal_toc_title": "Passion of John the Baptist",
+  "filename": "passion-of-john-the-baptist",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Pass. Bapt.",
+  "clavis_number": 952,
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 187b–189r (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 187b–189r (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/PassionsHomiliesLeabharBreac/page/63/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Atkinson, Robert, ed. and trans. <em>The Passions and the Homilies from Leabhar Breac</em>. Dublin: Royal Irish Academy, 1887 (text, pp. 64–68; English translation, pp. 304–309).</p>",
+      "line_text": "Atkinson, Robert, ed. and trans. The Passions and the Homilies from Leabhar Breac. Dublin: Royal Irish Academy, 1887 (text, pp. 64–68; English translation, pp. 304–309).",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/PassionsHomiliesLeabharBreac/page/63/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>also GL; AA SS June iv, 687 (BHL 4315?); finding of head in AA SS June iv, 716 (=BHL 4290)</p>",
+      "line_text": "also GL; AA SS June iv, 687 (BHL 4315?); finding of head in AA SS June iv, 716 (=BHL 4290)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p> </p>",
+      "line_text": " ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

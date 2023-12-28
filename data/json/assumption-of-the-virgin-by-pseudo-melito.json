@@ -1,0 +1,348 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/assumption-of-the-virgin-by-pseudo-melito/",
+  "nasscal_toc_title": "Assumption of the Virgin, by Pseudo-Melito",
+  "filename": "assumption-of-the-virgin-by-pseudo-melito",
+  "latin_title": "Liber de transitu, auctore Pseudo-Melitone",
+  "abbrev": "Assum. Vir. Mel.",
+  "alt_titles": [
+    "Assumption of the Virgin by Pseudo-Melito",
+    "Transitus B"
+  ],
+  "clavis_number": 657,
+  "category": "Dormition Accounts",
+  "compiler": "Adiaha Hunte",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>A total of 46 manuscripts from the 8th to 15th cent., listed in Mimouni, <em>Dormition et Assumption de Marie</em>, 264–66, and in Haibach-Reinisch, <em>Ein neuer ‘Transitus Mariae’</em>, 31–32.</p>",
+      "line_text": "A total of 46 manuscripts from the 8th to 15th cent., listed in Mimouni, Dormition et Assumption de Marie, 264–66, and in Haibach-Reinisch, Ein neuer ‘Transitus Mariae’, 31–32.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Recension B<sup>1</sup></p>",
+      "line_text": "Recension B1",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Berlin, Staatsbibliothek zu Berlin–Preußischer Kulturbesitz, theol. lat. qu. 372, fols. 104r–107r (14th cent.)</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin–Preußischer Kulturbesitz, theol. lat. qu. 372, fols. 104r–107r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/einsiedeln-stiftsbibliothek-250-382/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Einsiedeln, Stiftsbibliothek, 250 (382), pp. 362–75 (ca. 1150)</p>",
+      "line_text": "Einsiedeln, Stiftsbibliothek, 250 (382), pp. 362–75 (ca. 1150)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/einsiedeln-stiftsbibliothek-250-382/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Fritzlar, Dombibliothek, 83, fols. 136<sup>r</sup>–138<sup>r</sup> (14th/15th cent.)</p>",
+      "line_text": "Fritzlar, Dombibliothek, 83, fols. 136r–138r (14th/15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Leipzig, Universitätsbibliothek Leipzig, 443, fols. 193<sup>r</sup>–193<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Leipzig, Universitätsbibliothek Leipzig, 443, fols. 193r–193v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Munich, Bayerische Staatsbibliothek, Clm 10157, fols. 9<sup>v</sup>–14<sup>v</sup> (13th and 17th cent.)</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 10157, fols. 9v–14v (13th and 17th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Stuttgart, Württembergische Landesbibliothek, Cod. theol. et. phil. 8º 57, fols. 32<sup>r</sup>–45<sup>v</sup> (1125–1135)</p>",
+      "line_text": "Stuttgart, Württembergische Landesbibliothek, Cod. theol. et. phil. 8º 57, fols. 32r–45v (1125–1135)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-430/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 430, fols. 109<sup>r</sup>–110<sup>v </sup>(ca. 840)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 430, fols. 109r–110v (ca. 840)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-430/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-4753/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 4753, fols. 116<sup>r</sup>–117<sup>r</sup> (1315–1329)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 4753, fols. 116r–117r (1315–1329)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-4753/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/bub_gb_1YavoFD2pjMC#page/n235/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>La Bigne, Marguerin de. <em>Maxima bibliotheca veterum patrum et antiqorum scriptorum ecclesiasticorum.</em> Vol. 2.2. Lugduni: apud Anissonios, 1677 (editio princeps based on Vienna 4753, pp. 212–16).</p>",
+      "line_text": "La Bigne, Marguerin de. Maxima bibliotheca veterum patrum et antiqorum scriptorum ecclesiasticorum. Vol. 2.2. Lugduni: apud Anissonios, 1677 (editio princeps based on Vienna 4753, pp. 212–16).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/bub_gb_1YavoFD2pjMC#page/n235/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/patrologiaecurs92migngoog#page/n605/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca</em>. Vol. 5. Paris: Cerf, 1857 (edition of Vienna 4753 reproduced from La Bigne, cols. 1231–50).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 5. Paris: Cerf, 1857 (edition of Vienna 4753 reproduced from La Bigne, cols. 1231–50).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/patrologiaecurs92migngoog#page/n605/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocalypsesapoc00perkgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Apocalypses Apocryphae</em>. Leipzig, 1866; Repr., Hildesheim: Georg Olms, 1966 (edition of Vienna 4753, pp. xxxiv–xlvi, 124–36).</p>",
+      "line_text": "Tischendorf, Constantin. Apocalypses Apocryphae. Leipzig, 1866; Repr., Hildesheim: Georg Olms, 1966 (edition of Vienna 4753, pp. xxxiv–xlvi, 124–36).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocalypsesapoc00perkgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Recension B<sup>2</sup></p>",
+      "line_text": "Recension B2",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Haibach-Reinisch, Monika. <em>Ein neuer ‘Transitus Mariae’ des Pseudo-Melito.</em> Bibliotheca assumptionis B. Virginis Mariae 5. Rome: Pontificia Acad. Mariana Internat., 1962 (edition based on 18 MSS, pp. 63–87).</p>",
+      "line_text": "Haibach-Reinisch, Monika. Ein neuer ‘Transitus Mariae’ des Pseudo-Melito. Bibliotheca assumptionis B. Virginis Mariae 5. Rome: Pontificia Acad. Mariana Internat., 1962 (edition based on 18 MSS, pp. 63–87).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>Apocryphal Gospels of Mary in Anglo-Saxon England.</em> Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (reprint of Haibach-Reinisch’s text without apparatus, pp. 334–43).</p>",
+      "line_text": "Clayton, Mary. Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (reprint of Haibach-Reinisch’s text without apparatus, pp. 334–43).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Uncertain category (BHL 5351)</p>",
+      "line_text": "Uncertain category (BHL 5351)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 97<sup>v</sup>–101<sup>r </sup>(ca. 800)</p>",
+      "line_text": "Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 97v–101r (ca. 800)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-582/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Rheims, Bibliothèque municipale, 582, fols. 88<sup>v</sup>–90<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Rheims, Bibliothèque municipale, 582, fols. 88v–90r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-582/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-1395/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Rheims, Bibliothèque municipale, 1395, fols. 18<sup>r</sup>–25<sup>v</sup>; another copy at fols. 64<sup>r</sup>–67<sup>v </sup>(ca. 850, Rheims)</p>",
+      "line_text": "Rheims, Bibliothèque municipale, 1395, fols. 18r–25v; another copy at fols. 64r–67v (ca. 850, Rheims)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-1395/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-41/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College, 41, pp. 280–287 (11th cent.)<strong>                                </strong></p>",
+      "line_text": "Cambridge, Corpus Christi College, 41, pp. 280–287 (11th cent.)                                ",
+      "language": ".1 Corpus 41",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-41/"
+      ]
+    },
+    {
+      "line_html": "<p>Tristram, Hildegard L. C., ed. “Vier altenglische Predigten aus der heterodoxen Tradition.” PhD diss., University of Freiburg, 1970.</p>",
+      "line_text": "Tristram, Hildegard L. C., ed. “Vier altenglische Predigten aus der heterodoxen Tradition.” PhD diss., University of Freiburg, 1970.",
+      "language": ".1 Corpus 41",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Grant, Raymond S., ed. <em>Three Homilies from Cambridge, Corpus Christi College, 41</em>. Ottawa: Tecumseh Press, 1982.</p>",
+      "line_text": "Grant, Raymond S., ed. Three Homilies from Cambridge, Corpus Christi College, 41. Ottawa: Tecumseh Press, 1982.",
+      "language": ".1 Corpus 41",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>Apocryphal Gospels of Mary in Anglo-Saxon England.</em> Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 216–36).</p>",
+      "line_text": "Clayton, Mary. Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 216–36).",
+      "language": ".1 Corpus 41",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-198/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College 198, pp. 350–59 (9th–11th cent.)</p>",
+      "line_text": "Cambridge, Corpus Christi College 198, pp. 350–59 (9th–11th cent.)",
+      "language": ".2 Corpus 198",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-198/"
+      ]
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>Apocryphal Gospels of Mary in Anglo-Saxon England.</em> Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).</p>",
+      "line_text": "Clayton, Mary. Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).",
+      "language": ".2 Corpus 198",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Princeton, Princeton University Library, W.H. Scheide Collection 71 (the <em>Blickling Book</em>), fols. 84<sup>v</sup>–98<sup>v</sup> (10th cent.)</p>",
+      "line_text": "Princeton, Princeton University Library, W.H. Scheide Collection 71 (the Blickling Book), fols. 84v–98v (10th cent.)",
+      "language": ".3 Blicking Homily 13",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/princeton-princeton-university-library-w-h-scheide-collection-71/"
+      ]
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England</em>. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998 (text and translation with commentary, pp. 246–72).",
+      "language": ".3 Blicking Homily 13",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kelly, Richard J., ed. and trans. <i>The Blickling Homilies.</i> 2 vols. London and New York: Continuum, 2003–2009.</p>",
+      "line_text": "Kelly, Richard J., ed. and trans. The Blickling Homilies. 2 vols. London and New York: Continuum, 2003–2009.",
+      "language": ".3 Blicking Homily 13",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/blicklinghomili01morrgoog/page/n161/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Morris, Richard, ed. <em>The Blickling Homilies.</em> Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 136–59).</p>",
+      "line_text": "Morris, Richard, ed. The Blickling Homilies. Early English Text Society, o.s. 58, 63, 73. London: Oxford University Press, 1874–1880; repr. in 1 vol. 1967 (edition and facing English translation, pp. 136–59).",
+      "language": ".3 Blicking Homily 13",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/blicklinghomili01morrgoog/page/n161/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 5, fols. 38<sup>r</sup>–40<sup>r</sup> (ca. 1350)</p>",
+      "line_text": "Aberystywth, National Library of Wales, Peniarth 5, fols. 38r–40r (ca. 1350)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-15/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 15, pp. 1–7 (ca. 1375–1425)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, Peniarth 15, pp. 1–7 (ca. 1375–1425)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-15/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-27-iii/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 27.iii, pp. 29–42 (ca. 1450–1500)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, Peniarth 27.iii, pp. 29–42 (ca. 1450–1500)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-27-iii/"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (translation of B<sup>1</sup> pp. 691–723, esp. 708–14).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (translation of B1 pp. 691–723, esp. 708–14).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (translation of B<sup>1</sup>, pp. 209–16).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (translation of B1, pp. 209–16).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873 (translation of B<sup>1</sup>, pp. 522–30). Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883.</p>",
+      "line_text": "Walker, Alexander. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873 (translation of B1, pp. 522–30). Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Amiot, F. <em>La Bible Apocryphe: Évangiles apocryphe</em>. Paris: Librarie Arthème Fayard, 1952 (pp. 112–34).</p>",
+      "line_text": "Amiot, F. La Bible Apocryphe: Évangiles apocryphe. Paris: Librarie Arthème Fayard, 1952 (pp. 112–34).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/dictionnairedes01brungoog#page/n301/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 587–98.)</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 587–98.)",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/stream/dictionnairedes01brungoog#page/n301/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 1.2, pp. 492–510).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 1.2, pp. 492–510).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 863–878).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 863–878).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bagatti, Bellarmino. “Le due redazioni del ‘Transitus Mariae.’” <em>Marianum</em> 32 (1970): 5–13.</p>",
+      "line_text": "Bagatti, Bellarmino. “Le due redazioni del ‘Transitus Mariae.’” Marianum 32 (1970): 5–13.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simon C. <em>Dormition et Assumption de Marie. Histoire des traditions anciennes</em>. Théologie Historique 98. Paris: Beauchesne, 1995 (see esp. 118–27).</p>",
+      "line_text": "Mimouni, Simon C. Dormition et Assumption de Marie. Histoire des traditions anciennes. Théologie Historique 98. Paris: Beauchesne, 1995 (see esp. 118–27).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YuQTDAAAQBAJ&amp;pg=PA36&amp;lpg=PA36&amp;dq=assumption+melito&amp;source=bl&amp;ots=LG3w97lJwh&amp;sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&amp;q=assumption%20melito&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (pp. 35-36).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (pp. 35-36).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=YuQTDAAAQBAJ&pg=PA36&lpg=PA36&dq=assumption+melito&source=bl&ots=LG3w97lJwh&sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&hl=en&sa=X&ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&q=assumption%20melito&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (pp. 66 and 90–91).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (pp. 66 and 90–91).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

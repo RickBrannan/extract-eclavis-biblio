@@ -1,0 +1,407 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dialogue-between-jesus-and-the-devil/",
+  "nasscal_toc_title": "Dialogue between Jesus and the Devil",
+  "filename": "dialogue-between-jesus-and-the-devil",
+  "latin_title": "Iesu contentio cum diabolo",
+  "abbrev": "Dial. Devil",
+  "clavis_number": 395,
+  "category": "Revelatory Dialogues",
+  "compiler": ": Chance Bonar, PhD candidate, Tufts University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Group α</p>",
+      "line_text": "Group α",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>J1  </strong>Kyiv, National Academy of Sciences, Institute for Literature, 4713, fols. 83–88 (16th/17th cent.; =Otero 4)</p>",
+      "line_text": "J1  Kyiv, National Academy of Sciences, Institute for Literature, 4713, fols. 83–88 (16th/17th cent.; =Otero 4)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>J2</strong> Saint Petersburg, National Library of Russia (F. 784), F. A. Tolstoj, Otd. II, 229 (Q. XVII, 82), fols. 41–45 (1602=Otero 3)</p>",
+      "line_text": "J2 Saint Petersburg, National Library of Russia (F. 784), F. A. Tolstoj, Otd. II, 229 (Q. XVII, 82), fols. 41–45 (1602=Otero 3)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L </strong> Lemberg (?), manuscript owned by Father Jaremecǐkij-Bîlachevič, fols. 87–91 (16th/17th cent.; =Otero 5)</p>",
+      "line_text": "L  Lemberg (?), manuscript owned by Father Jaremecǐkij-Bîlachevič, fols. 87–91 (16th/17th cent.; =Otero 5)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong> Moscow, State Historical Museum, A. S. Uvarov 66 (18th cent.; =Otero 6)</p>",
+      "line_text": "M Moscow, State Historical Museum, A. S. Uvarov 66 (18th cent.; =Otero 6)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Group β</p>",
+      "line_text": "Group β",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, Slav. 34, fols. 72<sup>r</sup>–77<sup>r</sup> (12th/13th cent.; =Otero 14) ~ <a href=\"https://www.loc.gov/resource/amedmonastery.00279385627-ms/?sp=74.\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "A  Mount Sinai, Monē tēs Hagias Aikaterinēs, Slav. 34, fols. 72r–77r (12th/13th cent.; =Otero 14) ~ LOC",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.loc.gov/resource/amedmonastery.00279385627-ms/?sp=74."
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Vienna, Österreichische Nationalbibliothek, Cod. Slav. 137, fols. 177<sup>r</sup>–178<sup>v</sup> (14th cent.; =Otero 10)</p>",
+      "line_text": "B  Vienna, Österreichische Nationalbibliothek, Cod. Slav. 137, fols. 177r–178v (14th cent.; =Otero 10)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Nikojac monastery, near Bijelo Polje, Montenegro, 52, fols. 66r–71r (15th cent.)</p>",
+      "line_text": "C  Nikojac monastery, near Bijelo Polje, Montenegro, 52, fols. 66r–71r (15th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D  </strong>Sofia, SS. Cyril and Methodius National Library, 433 (629), fols. 101<sup>r</sup>–105<sup>v</sup> (16th cent.; =Otero 9) ~ <a href=\"http://macedonia.kroraina.com/bg_ap/dp_28.html\" target=\"_blank\" rel=\"noopener\">online edition</a></p>",
+      "line_text": "D  Sofia, SS. Cyril and Methodius National Library, 433 (629), fols. 101r–105v (16th cent.; =Otero 9) ~ online edition",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://macedonia.kroraina.com/bg_ap/dp_28.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E  </strong>Vienna, Österreichische Nationalbibliothek, Cod. Slav. 149, fols. 113<sup>r</sup>–117<sup>v</sup> (16th cent.; Otero 11)</p>",
+      "line_text": "E  Vienna, Österreichische Nationalbibliothek, Cod. Slav. 149, fols. 113r–117v (16th cent.; Otero 11)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F  </strong> Belgrade, Museum of Serbian Orthodox Church, 100, fols. 84<sup>r</sup>–87<sup>v</sup> (1628)</p>",
+      "line_text": "F   Belgrade, Museum of Serbian Orthodox Church, 100, fols. 84r–87v (1628)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Sofia, SS. Cyril and Methodius National Library, 326 (509), fols. 41<sup>r</sup>–44<sup>r</sup> (17th/18th cent.; =Otero 8)</p>",
+      "line_text": "G  Sofia, SS. Cyril and Methodius National Library, 326 (509), fols. 41r–44r (17th/18th cent.; =Otero 8)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H </strong> Belgrade, National Library of Serbia, 273, fols. 137<sup>v</sup>–143<sup>r</sup> (16th/17th cent.; =Otero 1) ~  destroyed in WWII</p>",
+      "line_text": "H  Belgrade, National Library of Serbia, 273, fols. 137v–143r (16th/17th cent.; =Otero 1) ~  destroyed in WWII",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong>  Prague, National Museum, IX.H.16 (Šafařík Collection 19), fols. 227<sup>r</sup>–231<sup>r</sup> (1646; =Otero 7)</p>",
+      "line_text": "I  Prague, National Museum, IX.H.16 (Šafařík Collection 19), fols. 227r–231r (1646; =Otero 7)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N </strong> Belgrade, National Library of Serbia, 760, fols. 61<sup>r</sup>–68<sup>v</sup> (16th cent.)</p>",
+      "line_text": "N  Belgrade, National Library of Serbia, 760, fols. 61r–68v (16th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Cavtat (Croatia), Archive of Baltazar Bogišić, 2a, fols. 35<sup>r</sup>–38<sup>v</sup> (16th/17th cent.)</p>",
+      "line_text": "O  Cavtat (Croatia), Archive of Baltazar Bogišić, 2a, fols. 35r–38v (16th/17th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Group γ</p>",
+      "line_text": "Group γ",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K1</strong>  Saint Petersburg, National Library of Russia (F. 67), I. Bercic 5, fols. 62–64 (15th cent.; =Otero 2)</p>",
+      "line_text": "K1  Saint Petersburg, National Library of Russia (F. 67), I. Bercic 5, fols. 62–64 (15th cent.; =Otero 2)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K2</strong> Zagreb, Croatian Academy of Sciences and Arts, IV.a.48, fols. 93<sup>r</sup>–94<sup>v</sup> (15th cent.; =Otero 12)</p>",
+      "line_text": "K2 Zagreb, Croatian Academy of Sciences and Arts, IV.a.48, fols. 93r–94v (15th cent.; =Otero 12)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K3</strong>  Zagreb, Croatian Academy of Sciences and Arts, Cod. glagoliticus VII a 30, fols. 1–3 (16th cent.; =Otero 13)</p>",
+      "line_text": "K3  Zagreb, Croatian Academy of Sciences and Arts, Cod. glagoliticus VII a 30, fols. 1–3 (16th cent.; =Otero 13)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K4</strong>  Oxford, Bodleian Library, M. S. Can. Lit. 414, fols. 50<sup>r</sup>–51<sup>v</sup> (15th. cent.)</p>",
+      "line_text": "K4  Oxford, Bodleian Library, M. S. Can. Lit. 414, fols. 50r–51v (15th. cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K5</strong>  Zagreb, Croatian Academy of Sciences and Arts, Fragm. glagol. 80, several disjointed lines (14th cent.)</p>",
+      "line_text": "K5  Zagreb, Croatian Academy of Sciences and Arts, Fragm. glagol. 80, several disjointed lines (14th cent.)",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://elib.nlu.org.ua/view.html?id=7676\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Franko, Ivan. <em>Apokrifi î legendy z ukraïnsǐkich rukopisiv</em>. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (publication of J1 [vol. 2, pp. 196–200] and L [vol. 2, pp. 200–203).</p>",
+      "line_text": "Franko, Ivan. Apokrifi î legendy z ukraïnsǐkich rukopisiv. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (publication of J1 [vol. 2, pp. 196–200] and L [vol. 2, pp. 200–203).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://elib.nlu.org.ua/view.html?id=7676"
+      ]
+    },
+    {
+      "line_html": "<p>Ivanov, Jordan. <em>Bogomilski knigi i legendi.</em> Sofia: Pridvorna Pečatnica, 1925. Repr. Izdat. Nauka i Izkustvo, 1970 (edition of Vienna, Österreichische Nationalbibliothek, slav. 137, pp. 249–53).</p>",
+      "line_text": "Ivanov, Jordan. Bogomilski knigi i legendi. Sofia: Pridvorna Pečatnica, 1925. Repr. Izdat. Nauka i Izkustvo, 1970 (edition of Vienna, Österreichische Nationalbibliothek, slav. 137, pp. 249–53).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://publications.anubih.ba/bitstream/handle/123456789/674/Godisnjak%2016.PDF?sequence=1&amp;isAllowed=y\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jovanović, Tomislav. “The Devil’s Argument with Jesus Christ in a Serbian Copy Dating from the End of the 15th Century” (in Serbian). <em>Godisnjak</em> 16 (2021): 85–115 (edition based on C with readings from GHIN, pp. 96–115).</p>",
+      "line_text": "Jovanović, Tomislav. “The Devil’s Argument with Jesus Christ in a Serbian Copy Dating from the End of the 15th Century” (in Serbian). Godisnjak 16 (2021): 85–115 (edition based on C with readings from GHIN, pp. 96–115).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://publications.anubih.ba/bitstream/handle/123456789/674/Godisnjak%2016.PDF?sequence=1&isAllowed=y"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://brill.com/view/journals/scri/14/1/article-p273_18.xml\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Miltenova, Anissava. “Slavonic Apocrypha: New Discoveries, New Perusals: The Cases of the Dispute between Our Lord Jesus Christ and the Antichrist and the Story about Beautiful Joseph.” <em>Scrinium</em> 14.1 (2018): 273–88 (revised list of Slavonic MSS, pp. 273–82).</p>",
+      "line_text": "Miltenova, Anissava. “Slavonic Apocrypha: New Discoveries, New Perusals: The Cases of the Dispute between Our Lord Jesus Christ and the Antichrist and the Story about Beautiful Joseph.” Scrinium 14.1 (2018): 273–88 (revised list of Slavonic MSS, pp. 273–82).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://brill.com/view/journals/scri/14/1/article-p273_18.xml"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://dizbi.hazu.hr/a/?pr=iiif.v.a&amp;id=10916&amp;tify={%22pages%22:[88],%22panX%22:0.474,%22panY%22:0.795,%22view%22:%22scan%22,%22zoom%22:0.795}\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Novaković, Stojan. “Apokrif o prepiranju Isusa Hrista sa djavolom.” <em>Starine</em> 16 (1884): 86–89 (edition of Belgrade, National Library of Serbia, 273).</p>",
+      "line_text": "Novaković, Stojan. “Apokrif o prepiranju Isusa Hrista sa djavolom.” Starine 16 (1884): 86–89 (edition of Belgrade, National Library of Serbia, 273).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://dizbi.hazu.hr/a/?pr=iiif.v.a&id=10916&tify={%22pages%22:[88],%22panX%22:0.474,%22panY%22:0.795,%22view%22:%22scan%22,%22zoom%22:0.795}"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://dizbi.hazu.hr/a/?pr=iiif.v.a&amp;id=16349\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Polivka, Jiri. “Opisi i izvodi iz nekoliko jugoslavenskih rukopisa u Pragu.” <em>Starine</em> 22 (1890): 200–203 (edition of Prague, National Museum, IX.H.16).</p>",
+      "line_text": "Polivka, Jiri. “Opisi i izvodi iz nekoliko jugoslavenskih rukopisa u Pragu.” Starine 22 (1890): 200–203 (edition of Prague, National Museum, IX.H.16).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://dizbi.hazu.hr/a/?pr=iiif.v.a&id=16349"
+      ]
+    },
+    {
+      "line_html": "<p>Pypin, Alexander N. <em>Lo</em>ž<em>nyia i otrečennyja knigi russkoj stariny. </em>Pamjatniki starinnoj russkoj literatury 3<em>. </em>St. Petersburg: <span class=\"tojvnm2t a6sixzi8 abs2jz4q a8s20v7p t1p8iaqh k5wvi7nf q3lfd5jv pk4s997a bipmatt0 cebpdrjk qowsmv63 owwhemhu dp1hu0rb dhp61c6y iyyx5f41\">Tipografîja P.A. Kuliša</span>, 1862 (edition of St. Petersburg, F. A. Tolstoj, Otd. II, 229, pp. 86–88).</p>",
+      "line_text": "Pypin, Alexander N. Ložnyia i otrečennyja knigi russkoj stariny. Pamjatniki starinnoj russkoj literatury 3. St. Petersburg: Tipografîja P.A. Kuliša, 1862 (edition of St. Petersburg, F. A. Tolstoj, Otd. II, 229, pp. 86–88).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Radčenko, K. F. “Zametki o pergamennom sbornike XIV veka Venskoi Prodvornoi Biblioteki.” Pages 196–98 in <em>Sbornik otdelenija russkogo jazyka i slovesnosti VIII/4.</em> St. Petersburg, 1903 (edition of Vienna, Österreichische Nationalbibliothek, slav. 137).</p>",
+      "line_text": "Radčenko, K. F. “Zametki o pergamennom sbornike XIV veka Venskoi Prodvornoi Biblioteki.” Pages 196–98 in Sbornik otdelenija russkogo jazyka i slovesnosti VIII/4. St. Petersburg, 1903 (edition of Vienna, Österreichische Nationalbibliothek, slav. 137).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977 (discussion of the Slavonic tradition, vol. 2 pp. 156–60).</p>",
+      "line_text": "Santos Otero, Aurelio de. Die handscriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977 (discussion of the Slavonic tradition, vol. 2 pp. 156–60).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Štefanić, V. <em>Glagoljski rukopisi Jugoslavenske Akademije.</em> 2 vols. Zagreb, 1969–1970 (edition of Zagreb, Croatian Academy of Sciences and Arts, Cod. glagoliticus VII 30, vol. 1:50–51).</p>",
+      "line_text": "Štefanić, V. Glagoljski rukopisi Jugoslavenske Akademije. 2 vols. Zagreb, 1969–1970 (edition of Zagreb, Croatian Academy of Sciences and Arts, Cod. glagoliticus VII 30, vol. 1:50–51).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://library.foi.hr/knjige/knjiga1.aspx?B=1&amp;C=X01648&amp;fl=t-\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Strohal, Rudolf. <em>Stare hrvatske apokrifne priče i legendi. Sabrao iz starih hrvatskih glagolskih rukopisa od 14–18 vijeka Rudolf Strohal</em>. Bjelovar: Tisak i naklada Lav. Weiss-a, 1917 (edition of Zagreb, Croatian Academy of Sciences and Arts, IV.a.48, pp. 54–56).</p>",
+      "line_text": "Strohal, Rudolf. Stare hrvatske apokrifne priče i legendi. Sabrao iz starih hrvatskih glagolskih rukopisa od 14–18 vijeka Rudolf Strohal. Bjelovar: Tisak i naklada Lav. Weiss-a, 1917 (edition of Zagreb, Croatian Academy of Sciences and Arts, IV.a.48, pp. 54–56).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://library.foi.hr/knjige/knjiga1.aspx?B=1&C=X01648&fl=t-"
+      ]
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Review of Aurelio de Santos Otero, <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>, vol. 2. <em>Slavonic and East European Review</em> 63.1 [1985]: 73–98 at 88-89 (with corrections to de Santos Otero).</p>",
+      "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handscriftliche Überlieferung der altslavischen Apokryphen, vol. 2. Slavonic and East European Review 63.1 [1985]: 73–98 at 88-89 (with corrections to de Santos Otero).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=sgRKAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Tichonravov, Nikolai S. <em>Pamjatniki otre</em><em>č</em><em>ennoj russkoj literatury.</em> 2 vols. Moscow: Obščestv. Polǐza, 1863 (<em>editio princeps</em> of Slavic J2 and M, vol. 2, pp. 282–88).</p>",
+      "line_text": "Tichonravov, Nikolai S. Pamjatniki otrečennoj russkoj literatury. 2 vols. Moscow: Obščestv. Polǐza, 1863 (editio princeps of Slavic J2 and M, vol. 2, pp. 282–88).",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=sgRKAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Recension A</p>",
+      "line_text": "Recension A",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Venice, Biblioteca Nazionale Marciana, gr. II. 42 (coll. 1123), fols. 255<sup>r</sup>–257<sup>r </sup>(12th cent.)</p>",
+      "line_text": "M  Venice, Biblioteca Nazionale Marciana, gr. II. 42 (coll. 1123), fols. 255r–257r (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-panagios-taphos-66/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i1.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a><strong>J </strong> Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos gr. 66, <span lang=\"EN-US\">fols. 178<sup>r</sup>–182<sup>r</sup></span> (15th/16th cent.)</p>",
+      "line_text": "J  Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos gr. 66, fols. 178r–182r (15th/16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-panagios-taphos-66/"
+      ]
+    },
+    {
+      "line_html": "<p>Recension B</p>",
+      "line_text": "Recension B",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-hist-gr-67/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>V</strong>  Vienna, Österreichische Nationalbibliothek, hist. gr. 67 (Lambeck 33), fols. 18<sup>r</sup>–19<sup>v </sup>(13th cent.)</p>",
+      "line_text": "V  Vienna, Österreichische Nationalbibliothek, hist. gr. 67 (Lambeck 33), fols. 18r–19v (13th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-hist-gr-67/"
+      ]
+    },
+    {
+      "line_html": "<p>Casey, Robert P. and Robert W. Thomson. “A Dialogue between Christ and the Devil.” <em>JTS</em> N.S. 6.1 (1955): 49–65 (editions of Rec. A and B and translations of Slavic J2 and M).</p>",
+      "line_text": "Casey, Robert P. and Robert W. Thomson. “A Dialogue between Christ and the Devil.” JTS N.S. 6.1 (1955): 49–65 (editions of Rec. A and B and translations of Slavic J2 and M).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/anecdotagraecoby00vass/page/4\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vassiliev, Athanasius. <em>Anecdota graeco-byzantina, pars prior. </em>Moscow: Imperial University, 1893 (<em>editio princeps</em> of Rec. A and B., pp. 4–10; introduction pp. v–vii).</p>",
+      "line_text": "Vassiliev, Athanasius. Anecdota graeco-byzantina, pars prior. Moscow: Imperial University, 1893 (editio princeps of Rec. A and B., pp. 4–10; introduction pp. v–vii).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/anecdotagraecoby00vass/page/4"
+      ]
+    },
+    {
+      "line_html": "<p>Fuchs, Albert. <em>Konkordanz zu Gespräch Jesu mit dem Teufel, Version A und B. </em>Linz: Fuchs, 1983.</p>",
+      "line_text": "Fuchs, Albert. Konkordanz zu Gespräch Jesu mit dem Teufel, Version A und B. Linz: Fuchs, 1983.",
+      "language": "English",
+      "entry_type": "Concordances"
+    },
+    {
+      "line_html": "<p>Bonar, Chance, and Slavomir Čéplö. “Dialogue between Jesus and the Devil.” Pages 36–64 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures. </em>3 vols. Edited by Tony Burke. Grand Rapids: Eerdmans, 2023 (translation of the Greek manuscript J and the Church Slavic manuscript A).</p>",
+      "line_text": "Bonar, Chance, and Slavomir Čéplö. “Dialogue between Jesus and the Devil.” Pages 36–64 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke. Grand Rapids: Eerdmans, 2023 (translation of the Greek manuscript J and the Church Slavic manuscript A).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Casey, Robert P. and Robert W. Thomson. “A Dialogue between Christ and the Devil.” <em>JTS</em> N.S. 6.1 (1955): 49–65 (translations of R1 and R2).</p>",
+      "line_text": "Casey, Robert P. and Robert W. Thomson. “A Dialogue between Christ and the Devil.” JTS N.S. 6.1 (1955): 49–65 (translations of R1 and R2).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Berger, Klaus. <em>Die greichische Daniel-Diegese: eine altkirchliche Apoclaypse. </em>Leiden: Brill, 1976.</p>",
+      "line_text": "Berger, Klaus. Die greichische Daniel-Diegese: eine altkirchliche Apoclaypse. Leiden: Brill, 1976.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Geller, Florentina Badalanova. “Slavonic Redactions of the Apocryphal <em>Homily of John Chrysostom on How Archangel Michael Defeated Satanail</em>: Some Considerations.” Pages 96–131 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone</em>. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018 (see esp. pp. 103–104, which include an excerpt from Sofia, Narodna Biblioteka, 433).</p>",
+      "line_text": "Geller, Florentina Badalanova. “Slavonic Redactions of the Apocryphal Homily of John Chrysostom on How Archangel Michael Defeated Satanail: Some Considerations.” Pages 96–131 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018 (see esp. pp. 103–104, which include an excerpt from Sofia, Narodna Biblioteka, 433).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “<em>The Sea of Tiberias: </em>Between Apocryphal Literature and Oral  Tradition.” Pages 13-157 in <em>The Old Testament Apocrypha in the Slavonic Tradition. </em>Edited by Lorenzo DiTommaso and Christfried Böttrich. Texts and Studies in Ancient Judaism 140. Tübingen: Mohr Siebeck, 2011. (see esp. pp. 81–85).</p>",
+      "line_text": "__________. “The Sea of Tiberias: Between Apocryphal Literature and Oral  Tradition.” Pages 13-157 in The Old Testament Apocrypha in the Slavonic Tradition. Edited by Lorenzo DiTommaso and Christfried Böttrich. Texts and Studies in Ancient Judaism 140. Tübingen: Mohr Siebeck, 2011. (see esp. pp. 81–85).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harris, J. Rendel. <em>The Rest of the Words of Baruch: A Christian Apocalypse of the Year 136 A.D. The Text Revised with an Introduction.</em> Cambridge: Cambridge University Press, 1889 (detailed description of J, but incomplete and using old folio numbering, pp. 27–29).</p>",
+      "line_text": "Harris, J. Rendel. The Rest of the Words of Baruch: A Christian Apocalypse of the Year 136 A.D. The Text Revised with an Introduction. Cambridge: Cambridge University Press, 1889 (detailed description of J, but incomplete and using old folio numbering, pp. 27–29).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Miltenova, Anissava. “Slavonic Apocrypha: New Discoveries, New Perusals: The Cases of the Dispute between Our Lord Jesus Christ and the Antichrist and the Story about Beautiful Joseph.” <em>Scrinium</em> 14.1 (2018): 273–88 (revised list of Church Slavic MSS, pp. 273–82).</p>",
+      "line_text": "Miltenova, Anissava. “Slavonic Apocrypha: New Discoveries, New Perusals: The Cases of the Dispute between Our Lord Jesus Christ and the Antichrist and the Story about Beautiful Joseph.” Scrinium 14.1 (2018): 273–88 (revised list of Church Slavic MSS, pp. 273–82).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Za Sinajskija prepis na ‘Prenie na Iisus Christos s djavola’ i negovija kontekst.” Pages 21–33 in <em>“Slova i zolota vjazǐ. . .” Sbornik statej pamjati Vjačeslava Michajloviča Zagrebina (1942–2004)</em>. Edited by Z. L. Levšina. St. Petersburg: Izdatelǐstvo Rossijskaja nacionalǐnaja biblioteka, 2016.</p>",
+      "line_text": "———. “Za Sinajskija prepis na ‘Prenie na Iisus Christos s djavola’ i negovija kontekst.” Pages 21–33 in “Slova i zolota vjazǐ. . .” Sbornik statej pamjati Vjačeslava Michajloviča Zagrebina (1942–2004). Edited by Z. L. Levšina. St. Petersburg: Izdatelǐstvo Rossijskaja nacionalǐnaja biblioteka, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Petkov, Julian. <em>Altslavische Eschatologie: Texte und Studien zur apokalyptischen Literatur in kirchenslavischer Überlieferung. </em>Tübingen: Narr Francke Attempto, 2016 (pp. 163–165).</p>",
+      "line_text": "Petkov, Julian. Altslavische Eschatologie: Texte und Studien zur apokalyptischen Literatur in kirchenslavischer Überlieferung. Tübingen: Narr Francke Attempto, 2016 (pp. 163–165).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Radčenko, Konstantin. “Etjudy po bogomilǐstvu.” Pages 29–38 in <em>Izbornik Kievskij posvjaščennyj T. D. Florinskomu</em>. Kyiv: Tip. T. G. Mejnandera, P. A Barskogo, I. I. Čokolova i Kievo-Pečersk. lavry 1904.</p>",
+      "line_text": "Radčenko, Konstantin. “Etjudy po bogomilǐstvu.” Pages 29–38 in Izbornik Kievskij posvjaščennyj T. D. Florinskomu. Kyiv: Tip. T. G. Mejnandera, P. A Barskogo, I. I. Čokolova i Kievo-Pečersk. lavry 1904.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://jean-marc-rosenstiehl.com/armenie/armenian-witnesses-of-three-eschatological-motifs.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rosenstiehl, Jean-Marc. “Armenian Witnesses of Three Eschatological Motifs.” Pages 254–82 in <em>The Armenian Apocalyptic Tradition: A Comparative Perspective.</em> Edited by Kevork B. Bardakjian and Sergio La Porta. Leiden: Brill, 2014.</p>",
+      "line_text": "Rosenstiehl, Jean-Marc. “Armenian Witnesses of Three Eschatological Motifs.” Pages 254–82 in The Armenian Apocalyptic Tradition: A Comparative Perspective. Edited by Kevork B. Bardakjian and Sergio La Porta. Leiden: Brill, 2014.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://jean-marc-rosenstiehl.com/armenie/armenian-witnesses-of-three-eschatological-motifs.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=7lYf2QcPhwcC&amp;pg=PA1&amp;lpg=PA1&amp;dq=Turdeanu,+%C3%89mil.+%E2%80%9CApocryphes+bogomiles+et+apocryphes+pseudo-bogomiles.%E2%80%9D&amp;source=bl&amp;ots=S6t-rzyPVS&amp;sig=ACfU3U0sDz_sN-RbcwljGkhgpuOG0sD8Xw&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjMg9HE3b3gAhWVnoMKHcK9BMMQ6AEwBnoECAkQAQ#v=onepage&amp;q=Turdeanu%2C%20%C3%89mil.%20%E2%80%9CApocryphes%20bogomiles%20et%20apocryphes%20pseudo-bogomiles.%E2%80%9D&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Turdeanu, Émil. “Apocryphes bogomiles et apocryphes pseudo-bogomiles.” <em>RHR</em> 138 (1950): 22–52, 176–218 (see pp. 203–13). Reprinted as pages 1–74 in<em> Apocryphes Slaves et Roumains de l’Ancien Testament.</em> Leiden: Brill, 1981.</p>",
+      "line_text": "Turdeanu, Émil. “Apocryphes bogomiles et apocryphes pseudo-bogomiles.” RHR 138 (1950): 22–52, 176–218 (see pp. 203–13). Reprinted as pages 1–74 in Apocryphes Slaves et Roumains de l’Ancien Testament. Leiden: Brill, 1981.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=7lYf2QcPhwcC&pg=PA1&lpg=PA1&dq=Turdeanu,+%C3%89mil.+%E2%80%9CApocryphes+bogomiles+et+apocryphes+pseudo-bogomiles.%E2%80%9D&source=bl&ots=S6t-rzyPVS&sig=ACfU3U0sDz_sN-RbcwljGkhgpuOG0sD8Xw&hl=en&sa=X&ved=2ahUKEwjMg9HE3b3gAhWVnoMKHcK9BMMQ6AEwBnoECAkQAQ#v=onepage&q=Turdeanu%2C%20%C3%89mil.%20%E2%80%9CApocryphes%20bogomiles%20et%20apocryphes%20pseudo-bogomiles.%E2%80%9D&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Van der Vliet, J. “Une Vierge de Daphné: Notes sur un Thème Apocalyptique.” <em>Byzantion </em>64.2 (1994): 377–90.</p>",
+      "line_text": "Van der Vliet, J. “Une Vierge de Daphné: Notes sur un Thème Apocalyptique.” Byzantion 64.2 (1994): 377–90.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

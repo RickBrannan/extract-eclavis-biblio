@@ -1,0 +1,475 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-dormition-of-the-virgin-by-evodius-of-rome/",
+  "nasscal_toc_title": "Homily on the Dormition of the Virgin by Evodius of Rome",
+  "filename": "homily-on-the-dormition-of-the-virgin-by-evodius-of-rome",
+  "latin_title": "Oratione de dormitione B. V. Mariae, auctore Pseudo-Euodio ep. Romae",
+  "abbrev": "Hom. Dorm. Vir.",
+  "alt_titles": [
+    "Homily on the Dormition of the Virgin"
+  ],
+  "clavis_number": 664,
+  "category": "Pseudo-Apostolic Memoirs, Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Franciscan Center of Christian Oriental Studies, 213</p>",
+      "line_text": "Cairo, Franciscan Center of Christian Oriental Studies, 213",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Macomber, William F. <em>Catalogue of the Christian Arabic Manuscripts of the Franciscan Center of Christian Oriental Studies, Muski, Cairo.</em> Studia Orientalia Christiana. Jerusalem: Franciscan Printing Press, 1984 (see p. 45).</p>",
+      "line_text": "Macomber, William F. Catalogue of the Christian Arabic Manuscripts of the Franciscan Center of Christian Oriental Studies, Muski, Cairo. Studia Orientalia Christiana. Jerusalem: Franciscan Printing Press, 1984 (see p. 45).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, M596 (872)  (=MICH.BI; <a href=\"https://atlas.paths-erc.eu/manuscripts/234\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)<a href=\"#_ftn1\" name=\"_ftnref1\"/></p>",
+      "line_text": "New York, Morgan Library and Museum, M596 (872)  (=MICH.BI; PAThs entry)",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/234",
+        "#_ftn1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, M 598 (9th cent.) (=MICH.BJ; <a href=\"https://atlas.paths-erc.eu/manuscripts/234\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "New York, Morgan Library and Museum, M 598 (9th cent.) (=MICH.BJ; PAThs entry)",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/234"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Strasbourg, Biblioithèque nationale et universitaire, Copte 413–414 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1718\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "Strasbourg, Biblioithèque nationale et universitaire, Copte 413–414 (PAThs entry)",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1718"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/recueildetravaux25masp/page/n1/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Spiegelberg, Wilhelm. “Eine sahidische Version der Dormitio Mariae.” <em>Recueil de travaux relatifs a la philology et a l’archéologie égyptiennes et assyriennes </em>25 (1903): 1–4 (edition of the Strasbourg manuscript).</p>",
+      "line_text": "Spiegelberg, Wilhelm. “Eine sahidische Version der Dormitio Mariae.” Recueil de travaux relatifs a la philology et a l’archéologie égyptiennes et assyriennes 25 (1903): 1–4 (edition of the Strasbourg manuscript).",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/recueildetravaux25masp/page/n1/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “The Sahidic Coptic Homily on the Dormition of the Virgin Attributed to Evodius of Rome: An Edition of Morgan MSS 596 &amp; 598 with Translation.” <em>AnBoll</em> 117 (1999): 241–83 (with variants from the Strasbourg fragment).</p>",
+      "line_text": "Shoemaker, Stephen. “The Sahidic Coptic Homily on the Dormition of the Virgin Attributed to Evodius of Rome: An Edition of Morgan MSS 596 &amp; 598 with Translation.” AnBoll 117 (1999): 241–83 (with variants from the Strasbourg fragment).",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Jakobielski, Stefan. “Monastery of the Holy Trinity at Old Dongola – A Short Archeological Report.” Pages 35–45 in <em>The Spirituality of Ancient Monasticism: Acts of the International Colloquium Cracow-Tyniec, 16-19.11.1994.</em> Edited by Marek Starowieyski. Tyniec: Wydawnictwo Benedyktynów, 1995 (portion of text found on the wall of a tomb in Old Dongola).</p>",
+      "line_text": "Jakobielski, Stefan. “Monastery of the Holy Trinity at Old Dongola – A Short Archeological Report.” Pages 35–45 in The Spirituality of Ancient Monasticism: Acts of the International Colloquium Cracow-Tyniec, 16-19.11.1994. Edited by Marek Starowieyski. Tyniec: Wydawnictwo Benedyktynów, 1995 (portion of text found on the wall of a tomb in Old Dongola).",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Vliet, Jacques van der. “Literature, Liturgy, Magic: A Dynamic Continuum.” Pages 555–74 in <em>Christianity in Egypt: Literary Production and Intellectual Trends. Studies in Honor of Tito Orlandi</em>. Edited by Paolo Buzi and Alberto Camplani. SEAug 125. Rome: Institutum Patristicum Augustinianum, 2011 (discussion of the Old Dongola inscription 562–64).</p>",
+      "line_text": "Vliet, Jacques van der. “Literature, Liturgy, Magic: A Dynamic Continuum.” Pages 555–74 in Christianity in Egypt: Literary Production and Intellectual Trends. Studies in Honor of Tito Orlandi. Edited by Paolo Buzi and Alberto Camplani. SEAug 125. Rome: Institutum Patristicum Augustinianum, 2011 (discussion of the Old Dongola inscription 562–64).",
+      "language": ".1 Sahidic A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Clarend. B 3, fols. 5–8b (10th cent.) ~ Robinson calls this B 3 15</p>",
+      "line_text": "Oxford, Bodleian Library, Clarend. B 3, fols. 5–8b (10th cent.) ~ Robinson calls this B 3 15",
+      "language": ".2 Sahidic B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 3581 B(16)</p>",
+      "line_text": "London, British Library, Or. 3581 B(16)",
+      "language": ".2 Sahidic B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/catalogueofcopti00brituoft/page/134/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Crum, Walter E. <em>Catalogue of the Coptic Manuscripts in the British Museum</em>. London: British Museum, 1905 (description of BL Or. 3581 B(16), pp. 133).</p>",
+      "line_text": "Crum, Walter E. Catalogue of the Coptic Manuscripts in the British Museum. London: British Museum, 1905 (description of BL Or. 3581 B(16), pp. 133).",
+      "language": ".2 Sahidic B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/catalogueofcopti00brituoft/page/134/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticapocrypha00robigoog/page/n203/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Robinson, Forbes. <em>Coptic Apocryphal Gospels.</em> <em>Translations Together with the Texts of Some of Them</em>. TS 4.2. Cambridge: Cambridge University Press, 1896 (text and English translation of Clarend. B 3, pp. 70–87; and Or. 3581 B(16), pp. 164–67).</p>",
+      "line_text": "Robinson, Forbes. Coptic Apocryphal Gospels. Translations Together with the Texts of Some of Them. TS 4.2. Cambridge: Cambridge University Press, 1896 (text and English translation of Clarend. B 3, pp. 70–87; and Or. 3581 B(16), pp. 164–67).",
+      "language": ".2 Sahidic B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/copticapocrypha00robigoog/page/n203/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript 1: MONB.NV (<a href=\"https://atlas.paths-erc.eu/manuscripts/557\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "Manuscript 1: MONB.NV (PAThs entry)",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/557"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 27–30: Ann Arbor, University of Michigan Library, 158.35, a–d</p>",
+      "line_text": "pp. 27–30: Ann Arbor, University of Michigan Library, 158.35, a–d",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 35–36: Vienna, Österreichische Nationalbibliothek, 9400 ~ <a href=\"https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21241787370003338&amp;context=L&amp;vid=ONB&amp;lang=de_DE&amp;search_scope=ONB_gesamtbestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,K%2009400&amp;offset=0\" target=\"_blank\" rel=\"noopener noreferrer\">ONB</a></p>",
+      "line_text": "pp. 35–36: Vienna, Österreichische Nationalbibliothek, 9400 ~ ONB",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21241787370003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,K%2009400&offset=0"
+      ]
+    },
+    {
+      "line_html": "<p>Wessely, Carl. <em>Griechische und koptische Texte theologischen Inhalts</em>. 5 vols. Studien zur Paläographie und Papyruskunde 9, 11–12, 15, 18. Leipzig: Avenarius, 1909–1917 (edition of Vienna K9400, vol. 4, pp. 123–40).</p>",
+      "line_text": "Wessely, Carl. Griechische und koptische Texte theologischen Inhalts. 5 vols. Studien zur Paläographie und Papyruskunde 9, 11–12, 15, 18. Leipzig: Avenarius, 1909–1917 (edition of Vienna K9400, vol. 4, pp. 123–40).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Manuscript 2: MONB.GA, pp. [1]–65 (10/11th cent.; <a href=\"https://atlas.paths-erc.eu/manuscripts/398\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "Manuscript 2: MONB.GA, pp. [1]–65 (10/11th cent.; PAThs entry)",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/398"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 9–10: Vienna, Österreichische Nationalbibliothek, 9783</p>",
+      "line_text": "pp. 9–10: Vienna, Österreichische Nationalbibliothek, 9783",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 21–22: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 13, fol. 60</p>",
+      "line_text": "pp. 21–22: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 13, fol. 60",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 31–32: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 18 = Borg 258</p>",
+      "line_text": "pp. 31–32: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 18 = Borg 258",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 41–42: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 19</p>",
+      "line_text": "pp. 41–42: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 19",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 43–44: Paris, Bibliothèque nationale de France, Copte 131<sup>6</sup>, fol. 52</p>",
+      "line_text": "pp. 43–44: Paris, Bibliothèque nationale de France, Copte 1316, fol. 52",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 63–74: Paris, Bibliothèque nationale de France, Copte 131<sup>1</sup>, fols. 59–64</p>",
+      "line_text": "pp. 63–74: Paris, Bibliothèque nationale de France, Copte 1311, fols. 59–64",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. [81]–[88]: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fols. 21–24</p>",
+      "line_text": "pp. [81]–[88]: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fols. 21–24",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 103–104: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 20</p>",
+      "line_text": "pp. 103–104: Naples, Biblioteca Nazionale Vittotio Emanuelle III, IB 12, fol. 20",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 107–108: Paris, Bibliothèque nationale de France, Copte 131<sup>1</sup>, fol. 65</p>",
+      "line_text": "pp. 107–108: Paris, Bibliothèque nationale de France, Copte 1311, fol. 65",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kosack, Wolfgang. <em>Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. </em>Berlin: Christoph Brunner, 2014.</p>",
+      "line_text": "Kosack, Wolfgang. Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. Berlin: Christoph Brunner, 2014.",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Revillout, Eugène. A<em>pocryphes coptes du Nouveau Testament.</em> Vol. 1: <em>Textes.</em> Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Naples IB 13, fol. 60, pp. 72–74).</p>",
+      "line_text": "Revillout, Eugène. Apocryphes coptes du Nouveau Testament. Vol. 1: Textes. Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Naples IB 13, fol. 60, pp. 72–74).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticapocrypha00robigoog/page/n203/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Robinson, Forbes. <em>Coptic Apocryphal Gospels.</em> <em>Translations Together with the Texts of Some of Them</em>. TS 4.2. Cambridge: Cambridge University Press, 1896 (text and English translation of Naples IB 12, fol. 18, pp. 66–69; and Naples IB 13, fol. 60, pp. 80–87).</p>",
+      "line_text": "Robinson, Forbes. Coptic Apocryphal Gospels. Translations Together with the Texts of Some of Them. TS 4.2. Cambridge: Cambridge University Press, 1896 (text and English translation of Naples IB 12, fol. 18, pp. 66–69; and Naples IB 13, fol. 60, pp. 80–87).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/copticapocrypha00robigoog/page/n203/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript 3:</p>",
+      "line_text": "Manuscript 3:",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-nt/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.NT, p. 117 (10/11th cent.)</p>",
+      "line_text": "MONB.NT, p. 117 (10/11th cent.)",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-nt/"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript 4: a longer Sahidic Version mentioned by Suciu (2011) but Shoemaker (1999: 242 n. 5) believes it is a different text.</p>",
+      "line_text": "Manuscript 4: a longer Sahidic Version mentioned by Suciu (2011) but Shoemaker (1999: 242 n. 5) believes it is a different text.",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. [41]–[44]: Paris, Bibliothèque nationale de France, Copte 129<sup>17</sup>, fol. 28–29</p>",
+      "line_text": "pp. [41]–[44]: Paris, Bibliothèque nationale de France, Copte 12917, fol. 28–29",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Förster, Hans.<em> Transitus Mariae. Beiträge zur koptischen Überlieferung. Mit einen Edition von P. Vindob. K 7589, Cambridge Add 1876 8 und Paris BN Copte 129<sup>17</sup> ff. 28 und 29</em>. GCS, 14. Neutestamentliche Apockryphen 2. Berlin – New York: Walter de Gruyter, 2006 (edition and German translation of the Paris fragments).</p>",
+      "line_text": "Förster, Hans. Transitus Mariae. Beiträge zur koptischen Überlieferung. Mit einen Edition von P. Vindob. K 7589, Cambridge Add 1876 8 und Paris BN Copte 12917 ff. 28 und 29. GCS, 14. Neutestamentliche Apockryphen 2. Berlin – New York: Walter de Gruyter, 2006 (edition and German translation of the Paris fragments).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://coptica.ch/revillout-1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Revillout, Eugène. “Lettre à M. le rédacteur du <em>Journal Asiatique</em> sur de nouveaux Évangiles apocryphes relatifs à la Vierge.” <em>Journal Asiatique </em>10 (1903): 162–74 (French translation of the Paris fragments).</p>",
+      "line_text": "Revillout, Eugène. “Lettre à M. le rédacteur du Journal Asiatique sur de nouveaux Évangiles apocryphes relatifs à la Vierge.” Journal Asiatique 10 (1903): 162–74 (French translation of the Paris fragments).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://coptica.ch/revillout-1.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://alinsuciu.com/2011/09/15/coptic-fragments-on-the-dormition-of-the-virgin/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “About Some Coptic Fragments on the Dormition of the Virgin.” Alin Suciu. Posted 15 September 2011. Online: https://alinsuciu.com/2011/09/15/coptic-fragments-on-the-dormition-of-the-virgin/.</p>",
+      "line_text": "Suciu, Alin. “About Some Coptic Fragments on the Dormition of the Virgin.” Alin Suciu. Posted 15 September 2011. Online: https://alinsuciu.com/2011/09/15/coptic-fragments-on-the-dormition-of-the-virgin/.",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://alinsuciu.com/2011/09/15/coptic-fragments-on-the-dormition-of-the-virgin/"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript 5: Alin Suciu suggests this may be a different text as it does not have parallel in the other witnesses</p>",
+      "line_text": "Manuscript 5: Alin Suciu suggests this may be a different text as it does not have parallel in the other witnesses",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 19–20: Paris, Bibliothèque nationale de France, Copte 131<sup>7</sup>, fol. 37</p>",
+      "line_text": "pp. 19–20: Paris, Bibliothèque nationale de France, Copte 1317, fol. 37",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 39–42: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109, cass. xxv, fasc. 119</p>",
+      "line_text": "pp. 39–42: Vatican, Biblioteca Apostolica Vaticana, Borg. copt. 109, cass. xxv, fasc. 119",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 73–74: Cambridge, Cambridge University Library, Or. 1699U</p>",
+      "line_text": "pp. 73–74: Cambridge, Cambridge University Library, Or. 1699U",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 85–86: Naples, Biblioteca Nazionale Vittotio Emanuele III, IB 12, fol. 25</p>",
+      "line_text": "pp. 85–86: Naples, Biblioteca Nazionale Vittotio Emanuele III, IB 12, fol. 25",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Revillout, Eugène. A<em>pocryphes coptes du Nouveau Testament.</em> Vol. 1: <em>Textes.</em> Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Vat. Borg. 119, pp. 12–14).</p>",
+      "line_text": "Revillout, Eugène. Apocryphes coptes du Nouveau Testament. Vol. 1: Textes. Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Vat. Borg. 119, pp. 12–14).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticapocrypha00robigoog/page/n203/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Robinson, Forbes. <em>Coptic Apocryphal Gospels.</em> <em>Translations Together with the Texts of Some of Them</em>. TS 4.2. Cambridge: Cambridge University Press, 1896 (text and English translation Vat. Borg. 119, pp. 22–25; and Naples IB 12, pp. 70–73, 82–89).</p>",
+      "line_text": "Robinson, Forbes. Coptic Apocryphal Gospels. Translations Together with the Texts of Some of Them. TS 4.2. Cambridge: Cambridge University Press, 1896 (text and English translation Vat. Borg. 119, pp. 22–25; and Naples IB 12, pp. 70–73, 82–89).",
+      "language": ".3 Additional Sahidic Manuscripts",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/copticapocrypha00robigoog/page/n203/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, Abu Maaqar 31, 31<sup>Add </sup>i (<a href=\"https://atlas.paths-erc.eu/manuscripts/1715\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) and ii (<a href=\"https://atlas.paths-erc.eu/manuscripts/1716\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry) (9th–11th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Abu Maaqar 31, 31Add i (PAThs entry) and ii (PAThs entry) (9th–11th cent.)",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1715",
+        "https://atlas.paths-erc.eu/manuscripts/1716"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. copt. 62.5, fols. 90–119 (950) (=MACA.BR;<a href=\"https://atlas.paths-erc.eu/manuscripts/108\" target=\"_blank\" rel=\"noopener noreferrer\"> PAThs</a> entry)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. copt. 62.5, fols. 90–119 (950) (=MACA.BR; PAThs entry)",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/108"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Evelyn White, Hugh G. <em>The Monasteries of the Wadi ‘n Natrûn</em>. Part 1:<em> New Coptic Texts from the Monastery of Saint Macarius</em>. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (collation of the Cairo fragments against de Lagarde’s edition of Vat. Copt. 62, pp. 59–60).</p>",
+      "line_text": "Evelyn White, Hugh G. The Monasteries of the Wadi ‘n Natrûn. Part 1: New Coptic Texts from the Monastery of Saint Macarius. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (collation of the Cairo fragments against de Lagarde’s edition of Vat. Copt. 62, pp. 59–60).",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/06/evelyn-white-the-monasteries-of-the-wadi-natrun-new-coptic-texts.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Kosack, Wolfgang. <em>Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. </em>Berlin: Christoph Brunner, 2014 (parallel translations of all available manuscripts; short version, pp. 146–191; long version, pp. 192–234).</p>",
+      "line_text": "Kosack, Wolfgang. Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. Berlin: Christoph Brunner, 2014 (parallel translations of all available manuscripts; short version, pp. 146–191; long version, pp. 192–234).",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/aegyptiaca01lagagoog/page/n50\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lagarde, Paul de. <i>Ægyptiaca</i>. Göttingen: D. A. Hoter, 1883 (edition of MACA.BR, pp. 38–63).</p>",
+      "line_text": "Lagarde, Paul de. Ægyptiaca. Göttingen: D. A. Hoter, 1883 (edition of MACA.BR, pp. 38–63).",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/aegyptiaca01lagagoog/page/n50"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Revillout, Eugène. A<em>pocryphes coptes du Nouveau Testament.</em> Vol. 1: <em>Textes.</em> Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Vat. copt. 62.5, pp. 75–112).</p>",
+      "line_text": "Revillout, Eugène. Apocryphes coptes du Nouveau Testament. Vol. 1: Textes. Études Égyptologiques 7. Paris: F. Vieweg, 1876 (transcription of Vat. copt. 62.5, pp. 75–112).",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/apocryphescopte00rvgoog#page/n90/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticapocrypha00robigoog/page/n83\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Robinson, Forbes. <em>Coptic Apocryphal Gospels.</em> <em>Translations Together with the Texts of Some of Them</em>. TS 4.2. Cambridge: Cambridge University Press, 1896 (English translation of MACA.BR, pp. 44–67).</p>",
+      "line_text": "Robinson, Forbes. Coptic Apocryphal Gospels. Translations Together with the Texts of Some of Them. TS 4.2. Cambridge: Cambridge University Press, 1896 (English translation of MACA.BR, pp. 44–67).",
+      "language": ".3 Bohairic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/copticapocrypha00robigoog/page/n83"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford: Oxford University Press, 2002 (pp. 397–407).</p>",
+      "line_text": "Shoemaker, Stephen. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: Oxford University Press, 2002 (pp. 397–407).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “The Sahidic Coptic Homily on the Dormition of the Virgin Attributed to Evodius of Rome: An Edition of Morgan MSS 596 &amp; 598 with Translation.” <em>AnBoll</em> 117 (1999): 241–83.</p>",
+      "line_text": "Shoemaker, Stephen. “The Sahidic Coptic Homily on the Dormition of the Virgin Attributed to Evodius of Rome: An Edition of Morgan MSS 596 &amp; 598 with Translation.” AnBoll 117 (1999): 241–83.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kosack, Wolfgang. <em>Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. </em>Berlin: Christoph Brunner, 2014 (short version, pp. 235–246; long version, pp. 247–72).</p>",
+      "line_text": "Kosack, Wolfgang. Basilios, De archangelo Michael, sahidice; Pseudo-Euhodios, De resurrection, sahidice; Pseudo-Euhodios, De dormitione Mariae virginis, sahidice &amp; bohairice: &lt;Papyruskodex Turin, Mus. Egizio Cat. 63000 XI&gt; nebst Varianten und Fragmente. Berlin: Christoph Brunner, 2014 (short version, pp. 235–246; long version, pp. 247–72).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (translation of the Bohairic text, vol. 1.2, pp. 593–603).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (translation of the Bohairic text, vol. 1.2, pp. 593–603).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Aranda Pérez, Gonzalo. <em>Dormición de la Virgen. Relatos de la tradución copta.</em> Apócrifos cristianos 2. Madrid: Editorial Ciudad Nueva, 1995 (translations of Sahidic and Bohairic texts, pp. 91–176).</p>",
+      "line_text": "Aranda Pérez, Gonzalo. Dormición de la Virgen. Relatos de la tradución copta. Apócrifos cristianos 2. Madrid: Editorial Ciudad Nueva, 1995 (translations of Sahidic and Bohairic texts, pp. 91–176).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Lantschoot, Arnold van. “L’Assumption de la Sainte Vierge chez les Coptes.” <em>Gregorianum</em> 27 (1946): 493–526 (see pp. 503–504).</p>",
+      "line_text": "Lantschoot, Arnold van. “L’Assumption de la Sainte Vierge chez les Coptes.” Gregorianum 27 (1946): 493–526 (see pp. 503–504).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.mathnet.ru/links/d2bfed133666ea2ebea2e3393e7c33b4/im6981.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lemm, Oscar von. “Koptische Miscellen. CVI–CVIII.” <em>Bulletin de l’Académie Impériale des Sciences de St.-Pétersbourg</em>, VI série, 5:16 (1911): 1135–1158 (see pp. 1135–1139).</p>",
+      "line_text": "Lemm, Oscar von. “Koptische Miscellen. CVI–CVIII.” Bulletin de l’Académie Impériale des Sciences de St.-Pétersbourg, VI série, 5:16 (1911): 1135–1158 (see pp. 1135–1139).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.mathnet.ru/links/d2bfed133666ea2ebea2e3393e7c33b4/im6981.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Lucchesi, Enzo. “Un évangile apocryphe imaginaire.” <em>OLP </em>28 (1997): 167–78.</p>",
+      "line_text": "Lucchesi, Enzo. “Un évangile apocryphe imaginaire.” OLP 28 (1997): 167–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simone C. “Genèse et évolution des traditions anciennes sur le sort final de Marie: Étude de la tradition littéraire copt.” <em>Marianum</em> 42 (1991): 69–143 (see pp. 123–33).</p>",
+      "line_text": "Mimouni, Simone C. “Genèse et évolution des traditions anciennes sur le sort final de Marie: Étude de la tradition littéraire copt.” Marianum 42 (1991): 69–143 (see pp. 123–33).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Orlandi, Tito. “Cycle” (3:666–68); “Evodius of Rome” (4:1078–79) in <em>The Coptic Encyclopedia</em>. Edited by Aziz S. Atiya. 8 vols. New York: Macmillan, 1991.</p>",
+      "line_text": "Orlandi, Tito. “Cycle” (3:666–68); “Evodius of Rome” (4:1078–79) in The Coptic Encyclopedia. Edited by Aziz S. Atiya. 8 vols. New York: Macmillan, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sheridan, Mark. “A Homily on the Death of the Virgin Mary attributed to Evodius of Rome.” Pages 135–47 in Mark Sheridan, <em>From the Nile to the Rhone and Beyond: Studies in Early Monastic Literature and Scriptural Interpretation</em>. SA 156. Rome: Editions Sankt Ottilien, 2012. Reprinted from pages 393–406 in vol. 1 of <em>Coptic Studies on the Threshold of a New Millennium</em>. <em>Proceedings of the Seventh International Congress of Coptic Studies, Leiden 27 Aug.–2 Sept. 2000</em>. 2 vols. Edited by Matt Immerzeel, Jacques van der Vliet, Maarten Kersten, and Carolien van Zoest. OLA 133. Leuven: Peeters, 2004.</p>",
+      "line_text": "Sheridan, Mark. “A Homily on the Death of the Virgin Mary attributed to Evodius of Rome.” Pages 135–47 in Mark Sheridan, From the Nile to the Rhone and Beyond: Studies in Early Monastic Literature and Scriptural Interpretation. SA 156. Rome: Editions Sankt Ottilien, 2012. Reprinted from pages 393–406 in vol. 1 of Coptic Studies on the Threshold of a New Millennium. Proceedings of the Seventh International Congress of Coptic Studies, Leiden 27 Aug.–2 Sept. 2000. 2 vols. Edited by Matt Immerzeel, Jacques van der Vliet, Maarten Kersten, and Carolien van Zoest. OLA 133. Leuven: Peeters, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strausbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (pp. 102–103).</p>",
+      "line_text": "Suciu, Alin. The Berlin-Strausbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (pp. 102–103).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

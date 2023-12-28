@@ -1,0 +1,140 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pelagia/",
+  "nasscal_toc_title": "Epistle of Pelagia",
+  "filename": "epistle-of-pelagia",
+  "latin_title": "Narratio de leone baptizato ",
+  "abbrev": "Ep. Pelag.",
+  "clavis_number": 0,
+  "category": "Apocryphal Acts",
+  "compiler": "Slavomír Čéplö",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Group α:</p>",
+      "line_text": "Group α:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A:</strong> London, British Library, Or. 689 (Wright 253), fol. 54<sup>r</sup> (15th cent.)</p>",
+      "line_text": "A: London, British Library, Or. 689 (Wright 253), fol. 54r (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B:</strong> Eritrea, Eritrea Parish Church, EMML 1479, fols. 94<sup>r</sup>–95<sup>v</sup> (1459/1460)</p>",
+      "line_text": "B: Eritrea, Eritrea Parish Church, EMML 1479, fols. 94r–95v (1459/1460)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C:</strong> Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97<sup>r</sup>–99<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "C: Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97r–99v (14th/15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/"
+      ]
+    },
+    {
+      "line_html": "<p>Group β:</p>",
+      "line_text": "Group β:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>K (Goodspeed’s C):</strong> London, British Library, Or. 686 (Wright 257), fol. 49<sup>r</sup> (18th cent.)</p>",
+      "line_text": "K (Goodspeed’s C): London, British Library, Or. 686 (Wright 257), fol. 49r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L (Goodspeed’s B):</strong> London, British Library, Or. 687–688 (Wright 258), fol. 68<sup>r</sup> (18 cent.)</p>",
+      "line_text": "L (Goodspeed’s B): London, British Library, Or. 687–688 (Wright 258), fol. 68r (18 cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/jstor-527799\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Goodspeed, Edgar J. “The Epistle of Pelagia.” <em>AJSL</em> 20.2 (1904): 95–108 (e<em>ditio princeps</em> based on A, K, and L).</p>",
+      "line_text": "Goodspeed, Edgar J. “The Epistle of Pelagia.” AJSL 20.2 (1904): 95–108 (editio princeps based on A, K, and L).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/jstor-527799"
+      ]
+    },
+    {
+      "line_html": "<p>Čéplö, Slavomír. “The Epistle of Pelagia.” Pages 343–52 in <em>New Testament Apocrypha: More Noncanonical Scriptures</em><em>. V</em>ol. 2. Edited by Tony Burke<em>. </em>Grand Rapids, MI: Eerdmans, 2020.</p>",
+      "line_text": "Čéplö, Slavomír. “The Epistle of Pelagia.” Pages 343–52 in New Testament Apocrypha: More Noncanonical Scriptures. Vol. 2. Edited by Tony Burke. Grand Rapids, MI: Eerdmans, 2020.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/jstor-527799\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Goodspeed, Edgar J. “The Epistle of Pelagia.” <em>AJSL</em> 20.2 (1904): 95–108 (English translation on pp. 105–108).</p>",
+      "line_text": "Goodspeed, Edgar J. “The Epistle of Pelagia.” AJSL 20.2 (1904): 95–108 (English translation on pp. 105–108).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/jstor-527799"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Spanish translation of Goodspeed’s English translation, vol. 2, pp. 856–59).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Spanish translation of Goodspeed’s English translation, vol. 2, pp. 856–59).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Adamik, Tamás. “The Baptized Lion in the Acts of Paul.” Pages 60–74 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Kampen: Kok Pharos, 1996.</p>",
+      "line_text": "Adamik, Tamás. “The Baptized Lion in the Acts of Paul.” Pages 60–74 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Kampen: Kok Pharos, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe and Philippe Luisier. “Le Papyrus Bodmer XLI en édition princeps. L’épisode d’Éphèse des <em>Acta Pauli</em> en copte et en traduction.” <em>Mus</em> 117 (2004): 281–384.</p>",
+      "line_text": "Kasser, Rodolphe and Philippe Luisier. “Le Papyrus Bodmer XLI en édition princeps. L’épisode d’Éphèse des Acta Pauli en copte et en traduction.” Mus 117 (2004): 281–384.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klauck, Hans-Josef. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 78–79).</p>",
+      "line_text": "Klauck, Hans-Josef. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 78–79).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Metzger, Bruce M. “St. Paul and the Baptized Lion.” <em>PSB</em> 39.20 (1945): 11–21.</p>",
+      "line_text": "Metzger, Bruce M. “St. Paul and the Baptized Lion.” PSB 39.20 (1945): 11–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. <em>The Acts of Paul: A New Translation with Introduction and Commentary</em>. Eugene, OR: Cascade Books, 2014.</p>",
+      "line_text": "Pervo, Richard I. The Acts of Paul: A New Translation with Introduction and Commentary. Eugene, OR: Cascade Books, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl (ed.). <em>Acta Pauli. Übersetzung, Untersuchungen und koptischer Text. Zweite erweiterte Ausgabe ohne Tafeln.</em> Leipzig: J. C. Hinrichs’sche Buchhandlung, 1905.</p>",
+      "line_text": "Schmidt, Carl (ed.). Acta Pauli. Übersetzung, Untersuchungen und koptischer Text. Zweite erweiterte Ausgabe ohne Tafeln. Leipzig: J. C. Hinrichs’sche Buchhandlung, 1905.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl (ed.). <em>ΠΡΑΞΕΙΣ</em> <em>ΠΑΥΛΟΥ</em>; <em>Acta Pauli. Nach dem Papyrus der Hamburger Staats- und Universitäts-Bibliothek</em>. Glückstadt und Hamburg: J. J. Augustin, 1936.</p>",
+      "line_text": "Schmidt, Carl (ed.). ΠΡΑΞΕΙΣ ΠΑΥΛΟΥ; Acta Pauli. Nach dem Papyrus der Hamburger Staats- und Universitäts-Bibliothek. Glückstadt und Hamburg: J. J. Augustin, 1936.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

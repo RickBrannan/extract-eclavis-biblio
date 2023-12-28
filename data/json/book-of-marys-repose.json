@@ -1,0 +1,243 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-marys-repose/",
+  "nasscal_toc_title": "Book of Mary’s Repose",
+  "filename": "book-of-marys-repose",
+  "clavis_number": 299,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Sellew, Philip. “An Early Coptic Witness to the Dormitio Mariae at Yale: P. CtYBR inv. 1788 Revisisted.” <em>BASP</em> 37 (2000): 37–69.</p>",
+      "line_text": "Sellew, Philip. “An Early Coptic Witness to the Dormitio Mariae at Yale: P. CtYBR inv. 1788 Revisisted.” BASP 37 (2000): 37–69.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>MacCoull, Leslie S. B. “More Coptic Papyri from the Beinecke Collection.” <em>APF</em> 35 (1989): 25–35 and pl. 4 (preliminary edition).</p>",
+      "line_text": "MacCoull, Leslie S. B. “More Coptic Papyri from the Beinecke Collection.” APF 35 (1989): 25–35 and pl. 4 (preliminary edition).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. eth. 268, fols. 64<sup>r</sup>–72<sup>v</sup> (14th cent.) ~ portion of chs. 105–31<em><br/></em></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. eth. 268, fols. 64r–72v (14th cent.) ~ portion of chs. 105–31",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Arras, V. <em>De Transitu Mariae Aethiopice</em>. 1. CSCO 342–43. Leuven: Secrétariat du CorpusSCO, 1973 (CSCO 342 Ethiopic text, pp. 1–84; CSCO 343 Latin trans., pp. 1–54)</p>",
+      "line_text": "Arras, V. De Transitu Mariae Aethiopice. 1. CSCO 342–43. Leuven: Secrétariat du CorpusSCO, 1973 (CSCO 342 Ethiopic text, pp. 1–84; CSCO 343 Latin trans., pp. 1–54)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lantschoot, A. van. “Contribution aux Actes de S. Pierre et de S. Paul.” <em>Mus</em> 68 (1955): 17–46 (text based on Vat. eth. 268, pp. 22–35; French translation, pp. 35–46).</p>",
+      "line_text": "Lantschoot, A. van. “Contribution aux Actes de S. Pierre et de S. Paul.” Mus 68 (1955): 17–46 (text based on Vat. eth. 268, pp. 22–35; French translation, pp. 35–46).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Apocryphes géorgiens de la Dormition.” <em>AnBoll</em> 92 (1973): 55–75</p>",
+      "line_text": "Esbroeck, Michel van. “Apocryphes géorgiens de la Dormition.” AnBoll 92 (1973): 55–75",
+      "language": "Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14484/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 14484, fols. 1<sup>r</sup>–8<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "London, British Library, Add. 14484, fols. 1r–8v (10th/11th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14484/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14665, fols. 21–24</p>",
+      "line_text": "London, British Library, Add. 14665, fols. 21–24",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 17137, fols. 6–7, 9 (underwriting ca. 5th/6th cent. overwriting ca. 12th cent.)</p>",
+      "line_text": "London, British Library, Add. 17137, fols. 6–7, 9 (underwriting ca. 5th/6th cent. overwriting ca. 12th cent.)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Two folios mentioned in Wright 1865 (London, British Library, Add. 14669, fol. 39 and London, British Library, Add. 17216, fol. 17) as possible witnesses actually do not contain the text. The folios have been rebound; their present shelf numbers are not known (via Christa Müller-Kessler, email correspondence, 13 March 2020)</p>",
+      "line_text": "Two folios mentioned in Wright 1865 (London, British Library, Add. 14669, fol. 39 and London, British Library, Add. 17216, fol. 17) as possible witnesses actually do not contain the text. The folios have been rebound; their present shelf numbers are not known (via Christa Müller-Kessler, email correspondence, 13 March 2020)",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv23n1muller-kessler\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” <em>Hugoye</em> 23 (2020): 31–59 (edition and English translation of all three fols., pp. 43–57).</p>",
+      "line_text": "Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” Hugoye 23 (2020): 31–59 (edition and English translation of all three fols., pp. 43–57).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://hugoye.bethmardutho.org/article/hv23n1muller-kessler"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and the British Library.” <em>Mus</em> 124 (2011): 259–78 (Syriac and English translation of fol. 9<sup>r</sup> from BL 17137 side-by-side, p. 267).</p>",
+      "line_text": "Shoemaker, Stephen. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and the British Library.” Mus 124 (2011): 259–78 (Syriac and English translation of fol. 9r from BL 17137 side-by-side, p. 267).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=nnc1.0040440435&amp;view=1up&amp;seq=11\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William. <em>Contributions to the Apocryphal Literature of the New Testament.</em> London: Williams &amp; Norgate, 1865 (edition of BL 14484, pp. 55–65 [Syriac numbering], and English translation, pp. 42–51; readings from BL 14669 and 17216, pp. 11–13).</p>",
+      "line_text": "Wright, William. Contributions to the Apocryphal Literature of the New Testament. London: Williams &amp; Norgate, 1865 (edition of BL 14484, pp. 55–65 [Syriac numbering], and English translation, pp. 42–51; readings from BL 14669 and 17216, pp. 11–13).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=nnc1.0040440435&view=1up&seq=11"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 1</strong>  Taylor-Schechter Collection, 16.327, fols. 1–2 + 16.351 + NS 258.140 (underwriting 5th/6th cent.)</p>",
+      "line_text": "CP 1  Taylor-Schechter Collection, 16.327, fols. 1–2 + 16.351 + NS 258.140 (underwriting 5th/6th cent.)",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 2</strong> Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 8–9 (underwriting 5th/6th cent.)</p>",
+      "line_text": "CP 2 Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 8–9 (underwriting 5th/6th cent.)",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 3</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 4–5 (underwriting 5th/6th cent.)</p>",
+      "line_text": "CP 3  Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 4–5 (underwriting 5th/6th cent.)",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Washington (D.C.), Museum of the Bible, MS.000149.1–86, fols. 9, 12 (=CCR 4) + Mount Sinai, Monē tēs Hagias Aikaterinēs, NF 38 (underwriting 5th/6th cent.) (=Codex Climaci Rescriptus) ~ <a href=\"https://www.museumofthebible.org/collections/artifacts/32858-codex-climaci-rescriptus-uncial-0250?&amp;tab=description\" target=\"_blank\" rel=\"noopener noreferrer\">MOB</a></p>",
+      "line_text": "Washington (D.C.), Museum of the Bible, MS.000149.1–86, fols. 9, 12 (=CCR 4) + Mount Sinai, Monē tēs Hagias Aikaterinēs, NF 38 (underwriting 5th/6th cent.) (=Codex Climaci Rescriptus) ~ MOB",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.museumofthebible.org/collections/artifacts/32858-codex-climaci-rescriptus-uncial-0250?&tab=description"
+      ]
+    },
+    {
+      "line_html": "<p>Lewis, Agnes Smith, ed. <em>Codex Climaci rescriptus</em>. Horae Semiticae 8. Cambridge: Cambridge University Press, 1909 (pp. 190–93) ~ from the Washington manuscript, fols. 9 and 12 (comprising portion of the text on Peter and Paul).</p>",
+      "line_text": "Lewis, Agnes Smith, ed. Codex Climaci rescriptus. Horae Semiticae 8. Cambridge: Cambridge University Press, 1909 (pp. 190–93) ~ from the Washington manuscript, fols. 9 and 12 (comprising portion of the text on Peter and Paul).",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Müller-Kessler, Christa. “An Overlooked Christian Palestinian Aramaic Witness of the Dormition of Mary in Codex Climaci Rescriptus (CCR IV).” <em>Collectanea Christiana Orientalia</em> 16 (2019): 81–98 (transliteration and English translation pp. 89–98).</p>",
+      "line_text": "Müller-Kessler, Christa. “An Overlooked Christian Palestinian Aramaic Witness of the Dormition of Mary in Codex Climaci Rescriptus (CCR IV).” Collectanea Christiana Orientalia 16 (2019): 81–98 (transliteration and English translation pp. 89–98).",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Müller-Kessler, Christa. “Three Early Witnesses of the «Dormition of Mary» in Christian Palestinian Aramaic. Palimpsests from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” <em>Apocrypha</em> 29 (2018): 69–95 (transliterations and English translations of CP 1, CP 2, and CP 3, pp. 77–95).</p>",
+      "line_text": "Müller-Kessler, Christa. “Three Early Witnesses of the «Dormition of Mary» in Christian Palestinian Aramaic. Palimpsests from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” Apocrypha 29 (2018): 69–95 (transliterations and English translations of CP 1, CP 2, and CP 3, pp. 77–95).",
+      "language": "Palestinian Aramaic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv23n1muller-kessler\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” <em>Hugoye</em> 23 (2020): 31–59 (edition and English translation of all three fols., pp. 43–57).</p>",
+      "line_text": "Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” Hugoye 23 (2020): 31–59 (edition and English translation of all three fols., pp. 43–57).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://hugoye.bethmardutho.org/article/hv23n1muller-kessler"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford: Oxford University Press, 2002 (Ethiopic with Georgian and Syriac, pp. 290–350).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: Oxford University Press, 2002 (Ethiopic with Georgian and Syriac, pp. 290–350).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=nnc1.0040440435&amp;view=1up&amp;seq=11\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William. <em>Contributions to the Apocryphal Literature of the New Testament.</em> London: Williams &amp; Norgate, 1865 (edition of BL 14484, pp. 27–33 [Syriac numbering], and English translation, pp. 18–41).</p>",
+      "line_text": "Wright, William. Contributions to the Apocryphal Literature of the New Testament. London: Williams &amp; Norgate, 1865 (edition of BL 14484, pp. 27–33 [Syriac numbering], and English translation, pp. 18–41).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=nnc1.0040440435&view=1up&seq=11"
+      ]
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (partial translation of Wright’s text, pp. 63–64 and 260–61).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (partial translation of Wright’s text, pp. 63–64 and 260–61).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (translation of Ethiopic, 1.2:421–56; Syriac, vol. 1.2: 457–62).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (translation of Ethiopic, 1.2:421–56; Syriac, vol. 1.2: 457–62).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel-Jean van. “Les textes litteraires sur l’Assomption avant le X<sup>e  </sup>siècle.” Pages 265–85 in <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.</p>",
+      "line_text": "Esbroeck, Michel-Jean van. “Les textes litteraires sur l’Assomption avant le Xe  siècle.” Pages 265–85 in Les actes apocryphes des apôtres. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meshcherskaya, Elena. “Apocryphal Stories in Ancient Syriac Manuscripts” (in Russian). Pages 94–108 in <em>Albo dies notanda lapillo</em>. Edited by V. Yakubsky. Kollegi i ucheniki G. E. Lebedevoy. St. Petersburg, 2005 (includes a reordering of the Syriac <em>Obsequies</em> fragments).</p>",
+      "line_text": "Meshcherskaya, Elena. “Apocryphal Stories in Ancient Syriac Manuscripts” (in Russian). Pages 94–108 in Albo dies notanda lapillo. Edited by V. Yakubsky. Kollegi i ucheniki G. E. Lebedevoy. St. Petersburg, 2005 (includes a reordering of the Syriac Obsequies fragments).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meshcherskaya, Elena. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in <em>Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev.</em> St. Petersburg, 2011.</p>",
+      "line_text": "Meshcherskaya, Elena. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev. St. Petersburg, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Apocrypha about Moses and Mary’s Dormition” (in Russian). Pages 124–38 in<em> Jewish Studies and Bible Studies. Materials of the Second Conference on Jewish and Oriental Studies.</em> Edited by K. Bitner and L. Lukincova. St. Petersburg, 2013.</p>",
+      "line_text": "__________. “Apocrypha about Moses and Mary’s Dormition” (in Russian). Pages 124–38 in Jewish Studies and Bible Studies. Materials of the Second Conference on Jewish and Oriental Studies. Edited by K. Bitner and L. Lukincova. St. Petersburg, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Solomon and the the Theotokos. Formation of the Prototype Traditions” (in Russian). Pages 174–86 in<em> Jewish Studies and Bible Studies. Materials of the Second Conference on Jewish and Oriental Studies.</em> Edited by K. Bitner and L. Lukincova. St. Petersburg, 2013.</p>",
+      "line_text": "__________. “Solomon and the the Theotokos. Formation of the Prototype Traditions” (in Russian). Pages 174–86 in Jewish Studies and Bible Studies. Materials of the Second Conference on Jewish and Oriental Studies. Edited by K. Bitner and L. Lukincova. St. Petersburg, 2013.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=iPiR0YOnWFkC&amp;pg=PA214&amp;lpg=PA214&amp;dq=Le+Saint-Macaire+488+(Hag.+75)&amp;source=bl&amp;ots=tCbqKUbyqv&amp;sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&amp;q=Le%20Saint-Macaire%20488%20(Hag.%2075)&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mimouni, Simon. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995 (pp. 87–88).</p>",
+      "line_text": "Mimouni, Simon. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995 (pp. 87–88).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv23n1muller-kessler\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” <em>Hugoye</em> 23 (2020): 31–59.</p>",
+      "line_text": "Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” Hugoye 23 (2020): 31–59.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://hugoye.bethmardutho.org/article/hv23n1muller-kessler"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford: Oxford University Press, 2002 (pp. 32–33).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: Oxford University Press, 2002 (pp. 32–33).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

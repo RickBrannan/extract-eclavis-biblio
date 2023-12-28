@@ -1,0 +1,38 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-thomas-the-contender/",
+  "nasscal_toc_title": "Book of Thomas the Contender",
+  "filename": "book-of-thomas-the-contender",
+  "latin_title": "Liber Thomas Athletae",
+  "abbrev": "Bk. Thom.",
+  "clavis_number": 615,
+  "category": "Revelatory Dialogues",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10544-nag-hammadi-codex-ii/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Cairo, Coptic Museum, Inv. 10544 (Nag Hammadi Codex II), pp. 138–145 (4th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Inv. 10544 (Nag Hammadi Codex II), pp. 138–145 (4th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10544-nag-hammadi-codex-ii/"
+      ]
+    },
+    {
+      "line_html": "<p>Krause, Martin, and Pahor Labib. <em>Gnostische und hermetische Schriften aus Codex II und Codex VI</em>. Abhandlungen des Deutschen Archäologischen Instituts Kairo, Kosptische Reihe 2. Glückstadt: Augustin, 1971 (Coptic edition with facing German translation, pp. 88–106).</p>",
+      "line_text": "Krause, Martin, and Pahor Labib. Gnostische und hermetische Schriften aus Codex II und Codex VI. Abhandlungen des Deutschen Archäologischen Instituts Kairo, Kosptische Reihe 2. Glückstadt: Augustin, 1971 (Coptic edition with facing German translation, pp. 88–106).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,882 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-pseudo-matthew/",
+  "nasscal_toc_title": "Gospel of Pseudo-Matthew",
+  "filename": "gospel-of-pseudo-matthew",
+  "latin_title": "Pseudo-Matthaei evangelium",
+  "abbrev": "Ps.-Mt.",
+  "clavis_number": 545,
+  "category": "Infancy Gospels",
+  "compiler": ": Brandon W. Hawk, Rhode Island College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Gijsel lists 290 manuscripts in his critical edition (CCSA 9), plus another 7 in “Nouveaux témoins”; Hawk identifies a further manuscript in “New Witness.” For each textual family, I list the earliest witnesses with Gijsel’s sigla.</p>",
+      "line_text": "Gijsel lists 290 manuscripts in his critical edition (CCSA 9), plus another 7 in “Nouveaux témoins”; Hawk identifies a further manuscript in “New Witness.” For each textual family, I list the earliest witnesses with Gijsel’s sigla.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>A</p>",
+      "line_text": "A",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A<sup>2</sup>a1</strong>  London, British Library, Add. 11880 (ca.820, Regensburg)</p>",
+      "line_text": "A2a1  London, British Library, Add. 11880 (ca.820, Regensburg)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A<sup>3</sup>a1</strong>  Budapest, Széchényi Bibl. Nat., Clmae 316 (9th cent., Salzburg)</p>",
+      "line_text": "A3a1  Budapest, Széchényi Bibl. Nat., Clmae 316 (9th cent., Salzburg)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>c1</strong>  Paris, Bibliothèque nationale de France, lat. 5327, <strong><span lang=\"EN-US\" style=\"font-weight: normal;\">fols. 61<sup>v</sup>–73<sup>r</sup> and fols. 191<sup>v</sup>–197<sup>v</sup> and 202<sup>v</sup></span></strong>(10th cent., Saint-Amand-les-Eaux)</p>",
+      "line_text": "A1c1  Paris, Bibliothèque nationale de France, lat. 5327, fols. 61v–73r and fols. 191v–197v and 202v(10th cent., Saint-Amand-les-Eaux)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-1395/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>a2</strong>  Rheims, Bibliothèque municipale, 1395, fols. 2<sup>r</sup>–17<sup>r</sup> (ca. 850, Rheims)</p>",
+      "line_text": "A1a2  Rheims, Bibliothèque municipale, 1395, fols. 2r–17r (ca. 850, Rheims)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-1395/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-550/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>a1</strong>  Vienna, Österreichische Nationalbibliothek, 550, fols. 85<sup>r</sup>–93<sup>v</sup> (9th cent., Northern France)</p>",
+      "line_text": "A1a1  Vienna, Österreichische Nationalbibliothek, 550, fols. 85r–93v (9th cent., Northern France)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-550/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A<sup>3</sup>a3</strong>  Vienna, Österreichische Nationalbibliothek 289 (10th cent., Salzburg)</p>",
+      "line_text": "A3a3  Vienna, Österreichische Nationalbibliothek 289 (10th cent., Salzburg)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>P</p>",
+      "line_text": "P",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P<sup>1</sup>y1</strong>  Karlsruhe, Badische Landesbibliothek, Fragmentum 94 (Aug. 248) (ca.850, Reichenau)</p>",
+      "line_text": "P1y1  Karlsruhe, Badische Landesbibliothek, Fragmentum 94 (Aug. 248) (ca.850, Reichenau)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P<sup>1</sup>b3</strong>  Paris, Bibliothèque nationale de France, nouv. acq. lat. 1605 (9th cent., Orleans)</p>",
+      "line_text": "P1b3  Paris, Bibliothèque nationale de France, nouv. acq. lat. 1605 (9th cent., Orleans)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-430/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P<sup>1</sup>c1</strong>  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 430, fols. 133<sup>r</sup>–139<sup>v</sup>) (ca. 840, South-Western Germany)</p>",
+      "line_text": "P1c1  Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 430, fols. 133r–139v) (ca. 840, South-Western Germany)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-430/"
+      ]
+    },
+    {
+      "line_html": "<p>Q</p>",
+      "line_text": "Q",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-648/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>1</sup>a1</strong>  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 648, fols. 7<sup>r</sup>–23<sup>v</sup> (12th/13th cent., Rheims)</p>",
+      "line_text": "Q1a1  Vatican, Biblioteca Apostolica Vaticana, Reg. lat. 648, fols. 7r–23v (12th/13th cent., Rheims)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-648/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-288/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>4</sup>a1</strong>  Cambridge, Corpus Christi College, 288, fols. 65<sup>v</sup>–78<sup>v</sup> (12/13th cent., Cambridge)</p>",
+      "line_text": "Q4a1  Cambridge, Corpus Christi College, 288, fols. 65v–78v (12/13th cent., Cambridge)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-288/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-4578/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>4</sup>a2  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 4578, fols. 32<sup>r</sup>–35<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Q4a2  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 4578, fols. 32r–35r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-4578/"
+      ]
+    },
+    {
+      "line_html": "<p>R</p>",
+      "line_text": "R",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R<sup>1</sup>b4</strong>  Berlin, Staatsbibliothek, Preußischer Kulturbesitz, Theol. lat. qu. 369 (13th cent., Northern France)</p>",
+      "line_text": "R1b4  Berlin, Staatsbibliothek, Preußischer Kulturbesitz, Theol. lat. qu. 369 (13th cent., Northern France)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R<sup>2</sup>c1</strong>  Paris, Bibliothèque nationale de France, lat. 5560 (13th/14th cent.)</p>",
+      "line_text": "R2c1  Paris, Bibliothèque nationale de France, lat. 5560 (13th/14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Also significant is the earliest witness to the “J Compilation,” which combines a Latin version of <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/protevangelium-of-james/\" target=\"_blank\" rel=\"noopener\"><em>Protevangelium of James</em></a> with the <em>Gospel of Pseudo-Matthew</em> and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/\" target=\"_blank\" rel=\"noopener\"><em>Book of the Nativity of the Savior</em></a> (fols. 94<sup>r</sup>–97<sup>v</sup>):</p>",
+      "line_text": "Also significant is the earliest witness to the “J Compilation,” which combines a Latin version of Protevangelium of James with the Gospel of Pseudo-Matthew and the Book of the Nativity of the Savior (fols. 94r–97v):",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/protevangelium-of-james/",
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-nativity-of-the-savior/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ja1 (M<sup>1</sup>)</strong> Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 94<sup>r</sup>–97<sup>v</sup> (ca. 800, likely Metz or Worms), including synthesis of Latin translation of <em>Prot. Jas.</em> 1:1–7:3 and <em>Ps.-Mt.</em> 1–4. This is the earliest witness to the text of <em>Ps.-Mt.</em></p>",
+      "line_text": "Ja1 (M1) Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 94r–97v (ca. 800, likely Metz or Worms), including synthesis of Latin translation of Prot. Jas. 1:1–7:3 and Ps.-Mt. 1–4. This is the earliest witness to the text of Ps.-Mt.",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional Manuscripts:</p>",
+      "line_text": "Additional Manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-582/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>a4  </strong>Rheims, Bibliothèque municipale, 582, fols. 86<sup>r</sup>–88<sup>v</sup> (13th cent.)</p>",
+      "line_text": "A1a4  Rheims, Bibliothèque municipale, 582, fols. 86r–88v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rheims-bibliotheque-municipale-582/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-4265/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>a7  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 4265, fols. 220<sup>r</sup>–227<sup>v</sup> (14th cent.)</p>",
+      "line_text": "A1a7  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 4265, fols. 220r–227v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-4265/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-28189/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>f5  </strong>Munich, Bayerische Staatsbibliothek, Clm 28189, fols. 260<sup>r</sup>–261<sup>r</sup> (12/13th cent.), chs. 1–5 only</p>",
+      "line_text": "A1f5  Munich, Bayerische Staatsbibliothek, Clm 28189, fols. 260r–261r (12/13th cent.), chs. 1–5 only",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-28189/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><span lang=\"EN-US\" style=\"color: #222222;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/einsiedeln-stiftsbibliothek-250-382\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>2</sup>b1  </span></strong><span lang=\"EN-US\" style=\"color: #222222;\">Einsiedeln, Stiftsbibliothek, 250 (382), pp. 332–62</span> <span lang=\"EN-US\" style=\"color: #222222;\">(ca. 1150)</span><strong><span lang=\"EN-US\" style=\"color: #222222;\"><br/></span></strong></p>",
+      "line_text": "A2b1  Einsiedeln, Stiftsbibliothek, 250 (382), pp. 332–62 (ca. 1150)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/einsiedeln-stiftsbibliothek-250-382"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>3</sup>b1</strong>  Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 1–32<sup>r</sup> (ca. 1000)</p>",
+      "line_text": "A3b1  Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 1–32r (ca. 1000)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong><span lang=\"EN-US\" style=\"color: #222222;\">A<sup>4</sup>a1  </span></strong>Engelberg, Stiftsbibliothek, 2, fols. 94<sup>v</sup>–99<sup>v</sup> (12th cent.)</p>",
+      "line_text": "A4a1  Engelberg, Stiftsbibliothek, 2, fols. 94v–99v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/madrid-biblioteca-nacional-9783/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>4</sup>a6</strong>  Madrid, Biblioteca nacional, 9783, fols. 110<sup>v</sup>–115<sup>v </sup>(13–15th cent.) ~ composite text with portions of <em>Nativity of Mary</em> and <em>Infancy Gospel of Thomas</em></p>",
+      "line_text": "A4a6  Madrid, Biblioteca nacional, 9783, fols. 110v–115v (13–15th cent.) ~ composite text with portions of Nativity of Mary and Infancy Gospel of Thomas",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/madrid-biblioteca-nacional-9783/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><span lang=\"EN-US\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berkeley-university-of-california-bancroft-library-ucb-020/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>4</sup>a8</span></strong>  Berkeley, University of California, Bancroft Library, UCB 020, fols. 1<sup>r</sup>–20<sup>v</sup> (12th cent.)</p>",
+      "line_text": "A4a8  Berkeley, University of California, Bancroft Library, UCB 020, fols. 1r–20v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berkeley-university-of-california-bancroft-library-ucb-020/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/copenhagen-arnamagnaean-institute-am-76-8vo/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>e2</strong>  Copenhagen, Arnamagnaean Institute, AM 76 8vo, fols. 94<sup>v</sup>–104<sup>v </sup>(ca. 1460–1480)</p>",
+      "line_text": "A1e2  Copenhagen, Arnamagnaean Institute, AM 76 8vo, fols. 94v–104v (ca. 1460–1480)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/copenhagen-arnamagnaean-institute-am-76-8vo/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><span lang=\"EN-US\" style=\"color: #222222;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/graz-universitatsbibliothek-65/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>f2  </span></strong><span lang=\"EN-US\" style=\"color: #222222;\">Graz, Universitätsbibliothek, 65, fols. 194<sup>r</sup>–195<sup>v</sup></span><span lang=\"EN-US\" style=\"color: #222222;\"> (ca. 1200; additions 14/15th ce</span><span lang=\"EN-US\" style=\"color: #222222;\">nt.)</span><strong><span lang=\"EN-US\" style=\"color: #222222;\"><br/></span></strong></p>",
+      "line_text": "A1f2  Graz, Universitätsbibliothek, 65, fols. 194r–195v (ca. 1200; additions 14/15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/graz-universitatsbibliothek-65/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><span lang=\"EN-US\" style=\"color: #222222;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/graz-universitatsbibliothek-83/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A<sup>1</sup>f3  </span></strong><span lang=\"EN-US\" style=\"color: #222222;\">Graz, Universitätsbibliothek, 83, fols. </span><span lang=\"EN-US\" style=\"color: #222222;\">3<sup>r</sup>–5<sup>r</sup> (</span><span lang=\"EN-US\" style=\"color: #222222;\">12th cent., additions from 14th cent.)</span></p>",
+      "line_text": "A1f3  Graz, Universitätsbibliothek, 83, fols. 3r–5r (12th cent., additions from 14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/graz-universitatsbibliothek-83/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><span lang=\"EN-US\" style=\"color: #222222;\"><strong>P<sup>1</sup>a5</strong>  Vercelli, Biblioteca Capitolare LXXIII, fols. 182<sup>r</sup>–189<sup>v</sup> (12th cent.)</span><strong><span lang=\"EN-US\" style=\"color: #222222;\"><br/></span></strong></p>",
+      "line_text": "P1a5  Vercelli, Biblioteca Capitolare LXXIII, fols. 182r–189v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong> <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-k-506/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P<sup>1</sup>c2  </strong>Karlsruhe, Badische Landesbibliothek, K 506, fols. 1<sup>r</sup>–11<sup>v </sup>(12th-13th cent.)</p>",
+      "line_text": " P1c2  Karlsruhe, Badische Landesbibliothek, K 506, fols. 1r–11v (12th-13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-k-506/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><span lang=\"EN-US\" style=\"color: #222222;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-13707/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P<sup>2</sup>bx3/Ja6  </span></strong><span lang=\"EN-US\" style=\"color: #222222;\">Vienna, Österreichische Nationalbibliothek, Cod. 13707, fols. 203<sup>r</sup>–207<sup>r </sup>(1472)</span><strong><span lang=\"EN-US\" style=\"color: #222222;\"><br/></span></strong></p>",
+      "line_text": "P2bx3/Ja6  Vienna, Österreichische Nationalbibliothek, Cod. 13707, fols. 203r–207r (1472)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-13707/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"background: white none repeat scroll 0% 0%; padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-fragment-94/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P<sup>1</sup>y1  </strong>Karlsruhe, Badische Landesbibliothek, Fragment 94 (ca. 850)<strong><br/></strong></p>",
+      "line_text": "P1y1  Karlsruhe, Badische Landesbibliothek, Fragment 94 (ca. 850)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-fragment-94/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><span lang=\"EN-US\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-4753/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>1</sup>b1  </span></strong><span lang=\"EN-US\">Vienna, Österreichische Nationalbibliothek, Cod. 4753, fols. 116<sup>r</sup>–117<sup>r</sup> (1315–1329, France)</span></p>",
+      "line_text": "Q1b1  Vienna, Österreichische Nationalbibliothek, Cod. 4753, fols. 116r–117r (1315–1329, France)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-4753/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-441/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong><span lang=\"EN-US\">Q<sup>2</sup>b1 </span></strong>Cambridge, Corpus Christi College, 441, pp. 415–438 (13th cent., Canterbury)</p>",
+      "line_text": "Q2b1 Cambridge, Corpus Christi College, 441, pp. 415–438 (13th cent., Canterbury)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-441/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-6300/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>3</sup>a7</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. Lat. 6300, fols. 87<sup>r</sup>–127<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Q3a7  Vatican, Biblioteca Apostolica Vaticana, Vat. Lat. 6300, fols. 87r–127v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-6300/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-3199/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>3</sup>a5  </strong>London, British Library, Harley 3199, fols. 95<sup>v</sup>–109<sup>v</sup> (14th cent.)<strong><br/></strong></p>",
+      "line_text": "Q3a5  London, British Library, Harley 3199, fols. 95v–109v (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-3199/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11867/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>4</sup>b5</strong>  Paris, Bibliothèque nationale de France, lat. 11867, fols. 166<sup>r</sup>–170<sup>r </sup>(13th cent.)</p>",
+      "line_text": "Q4b5  Paris, Bibliothèque nationale de France, lat. 11867, fols. 166r–170r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11867/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-930/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>Q<sup>6</sup>a2</strong> Vienna, Österreichische Nationalbibliothek, Cod. 930, fols. 206<sup>r</sup>–216<sup>r </sup>(1488)</p>",
+      "line_text": "Q6a2 Vienna, Österreichische Nationalbibliothek, Cod. 930, fols. 206r–216r (1488)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-930/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-348/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>6</sup>b2 </strong><strong> </strong>Vatican, Biblioteca Apostolica  Vaticana, Vat. lat. 348 fols. 442<sup>r</sup>–450<sup>r</sup> (1449)</p>",
+      "line_text": "Q6b2  Vatican, Biblioteca Apostolica  Vaticana, Vat. lat. 348 fols. 442r–450r (1449)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-lat-348/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-2688/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>Q<sup>6</sup>b6 </strong>Paris, Bibliothèque nationale de France, lat. 2688, fols. 1<sup>r</sup>–64<sup>v</sup> (15th cent.) ~ lavishly illuminated</p>",
+      "line_text": "Q6b6 Paris, Bibliothèque nationale de France, lat. 2688, fols. 1r–64v (15th cent.) ~ lavishly illuminated",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-2688/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong> <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-aug-63/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q<sup>8</sup>a1  </strong>Karlsruhe, Badische Landesbibliothek, Aug. 63, fols. 25<sup>r</sup>–31<sup>r</sup> (1385)</p>",
+      "line_text": " Q8a1  Karlsruhe, Badische Landesbibliothek, Aug. 63, fols. 25r–31r (1385)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-aug-63/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-trivulziana-n-430/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ja2 </strong> Milan, Biblioteca Trivulziana, N 430, fols. 37<span lang=\"EN-US\"><sup>r</sup>–</span>57<span lang=\"EN-US\"><sup>r</sup></span> (12th cent.)</p>",
+      "line_text": "Ja2  Milan, Biblioteca Trivulziana, N 430, fols. 37r–57r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-trivulziana-n-430/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong> <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-arundel-404/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ja3  </strong>London, British Library, Arundel 404, fols. 1<sup>r</sup>–19<sup>r</sup> (14th cent.)</p>",
+      "line_text": " Ja3  London, British Library, Arundel 404, fols. 1r–19r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-arundel-404/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-550-1538/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ja4</strong>  Trier, Stadtbibliotek, 550/1538, fols. 9<span lang=\"EN-US\"><sup>r</sup>–</span>47<span lang=\"EN-US\"><sup>v</sup></span> (end 14th cent.)</p>",
+      "line_text": "Ja4  Trier, Stadtbibliotek, 550/1538, fols. 9r–47v (end 14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-550-1538/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-615-1558/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ja5 </strong> Trèves, Stadtbibliotek, 615/1558, fols. 47<span lang=\"EN-US\"><sup>r</sup>–63</span><span lang=\"EN-US\"><sup>r</sup></span> (15th cent.)</p>",
+      "line_text": "Ja5  Trèves, Stadtbibliotek, 615/1558, fols. 47r–63r (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/trier-stadtbibliothek-615-1558/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/hereford-hereford-cathedral-library-o-3-9/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jb1 (J<span lang=\"EN-US\"><sup>H</sup></span>)</strong>  Hereford, Cathedral Library, O.III.9, <span lang=\"EN-US\">fols. 114<sup>v</sup>–133<sup>v </sup></span> (13th cent.)</p>",
+      "line_text": "Jb1 (JH)  Hereford, Cathedral Library, O.III.9, fols. 114v–133v  (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/hereford-hereford-cathedral-library-o-3-9/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/alencon-bibliotheque-municipale-17/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jb2</strong>  Alençon, Bibliothèque municipale, 17, <span lang=\"EN-US\">fols. 99<sup>r</sup>–121<sup>r</sup> (</span>13th cent.)</p>",
+      "line_text": "Jb2  Alençon, Bibliothèque municipale, 17, fols. 99r–121r (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/alencon-bibliotheque-municipale-17/"
+      ]
+    },
+    {
+      "line_html": "<p>Dimier-Paupert, Catherine. <em>Livre de l’Enfance du Sauveur: Une version médiévale de l’Évangile de l’Enfance du </em>Pseudo-Matthieu<em> (XIII<sup>e</sup> siècle)</em>. Paris: Éditions du Cerf, 2006. Edition of an expanded Q-text (Paris, BnF lat. 11867, see above), including the <em>pars altera</em> and added episodes from a later Latin translation of <em>Inf. Gos. Thom.</em></p>",
+      "line_text": "Dimier-Paupert, Catherine. Livre de l’Enfance du Sauveur: Une version médiévale de l’Évangile de l’Enfance du Pseudo-Matthieu (XIIIe siècle). Paris: Éditions du Cerf, 2006. Edition of an expanded Q-text (Paris, BnF lat. 11867, see above), including the pars altera and added episodes from a later Latin translation of Inf. Gos. Thom.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Gijsel, Jan, ed. <em>Libri de nativitate Mariae: Pseudo-Matthaei Evangelium, textus et commentarius, Libellus de nativitate sanctae Mariae, textux et commentarius</em>. CCSA 9. Turnhout: Brepols, 1997.</p>",
+      "line_text": "Gijsel, Jan, ed. Libri de nativitate Mariae: Pseudo-Matthaei Evangelium, textus et commentarius, Libellus de nativitate sanctae Mariae, textux et commentarius. CCSA 9. Turnhout: Brepols, 1997.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00jonegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jones, Jeremiah. <em>A New and Full Method of Settling the Canonical Authority of the New Testament</em>. 3 vols. 1726. Repr., Oxford: Clarendon Press, 1827, 2:101–27.</p>",
+      "line_text": "Jones, Jeremiah. A New and Full Method of Settling the Canonical Authority of the New Testament. 3 vols. 1726. Repr., Oxford: Clarendon Press, 1827, 2:101–27.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00jonegoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=-T8he8_FGEAC&amp;pg=PA10-IA3&amp;lpg=PA10-IA3&amp;dq=Schade,+O.+Liber+de+Infantia+Mariae+et+Christi+Salvatoris&amp;source=bl&amp;ots=k684Vcre5J&amp;sig=BQwNlsX2BrpdNfJqVMWPNyEU1eo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj2spXu99rSAhVR92MKHarUAPcQ6AEIPzAJ#v=onepage&amp;q=Schade%2C%20O.%20Liber%20de%20Infantia%20Mariae%20et%20Christi%20Salvatoris&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schade, Oscar. <em>Liber de Infantia Mariae et Christi Salvatoris, ex codice Stuttgartensi Descripsit.</em> Halle an der Saale: Libraria Orphanotrophei, 1869.</p>",
+      "line_text": "Schade, Oscar. Liber de Infantia Mariae et Christi Salvatoris, ex codice Stuttgartensi Descripsit. Halle an der Saale: Libraria Orphanotrophei, 1869.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=-T8he8_FGEAC&pg=PA10-IA3&lpg=PA10-IA3&dq=Schade,+O.+Liber+de+Infantia+Mariae+et+Christi+Salvatoris&source=bl&ots=k684Vcre5J&sig=BQwNlsX2BrpdNfJqVMWPNyEU1eo&hl=en&sa=X&ved=0ahUKEwj2spXu99rSAhVR92MKHarUAPcQ6AEIPzAJ#v=onepage&q=Schade%2C%20O.%20Liber%20de%20Infantia%20Mariae%20et%20Christi%20Salvatoris&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Schneider, Gerhard. <em>Apokryphe Kindheitsevangelien</em>. New York: Herder, 1995, 213–55.</p>",
+      "line_text": "Schneider, Gerhard. Apokryphe Kindheitsevangelien. New York: Herder, 1995, 213–55.",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.numistral.fr/ark:/12148/bpt6k9100033f/f517.image.r=thilo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Thilo, Johann Karl. <em>Codex apocryphus Novi Testamenti</em>. Leipzig: Vogel, 1832, 337–400.</p>",
+      "line_text": "Thilo, Johann Karl. Codex apocryphus Novi Testamenti. Leipzig: Vogel, 1832, 337–400.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.numistral.fr/ark:/12148/bpt6k9100033f/f517.image.r=thilo"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/evangeliaapocry00tiscgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin von, ed. <em>Evangelia Apocrypha</em>. Leipzig: Hermann Mendelsohn, 1853; 2nd ed., 1876, 52–112.</p>",
+      "line_text": "Tischendorf, Constantin von, ed. Evangelia Apocrypha. Leipzig: Hermann Mendelsohn, 1853; 2nd ed., 1876, 52–112.",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/evangeliaapocry00tiscgoog"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vercelli, Biblioteca Capitolare di Vercelli, MS CXVII (the <em>Vercelli Book</em>), fols. 54<sup>v</sup>–56<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Vercelli, Biblioteca Capitolare di Vercelli, MS CXVII (the Vercelli Book), fols. 54v–56r (10th cent.)",
+      "language": "Old English",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vercelli-biblioteca-capitolare-di-vercelli-ms-cxvii/"
+      ]
+    },
+    {
+      "line_html": "<p>Förster, Max, ed. Die<em> Vercelli-Homilien zum ersten Male herausgegeben.</em> Bibliothek der angelsächsischen Prosa 12. Hamburg: Grand, 1932. Repr. as <em>Die Vercelli-Homilien, I.—VIII. Homilie</em>. Edited by Max Förster. Darmstadt: Wissenschaftliche Buchgesellschaft, 1964.</p>",
+      "line_text": "Förster, Max, ed. Die Vercelli-Homilien zum ersten Male herausgegeben. Bibliothek der angelsächsischen Prosa 12. Hamburg: Grand, 1932. Repr. as Die Vercelli-Homilien, I.—VIII. Homilie. Edited by Max Förster. Darmstadt: Wissenschaftliche Buchgesellschaft, 1964.",
+      "language": "Old English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kemble, J. M., ed. and trans. <em>The Poetry of the Codex Vercellensis, with an English Translation</em>. London: Aelfric Society, 1856.</p>",
+      "line_text": "Kemble, J. M., ed. and trans. The Poetry of the Codex Vercellensis, with an English Translation. London: Aelfric Society, 1856.",
+      "language": "Old English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Krapp, George Philip, ed. <em>The Vercelli Book.</em> The Anglo-Saxon Poetic Records 2. New York: Columbia University Press, 1932.</p>",
+      "line_text": "Krapp, George Philip, ed. The Vercelli Book. The Anglo-Saxon Poetic Records 2. New York: Columbia University Press, 1932.",
+      "language": "Old English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Scragg, D. G., ed. <em>The Vercelli Homilies and Related Texts.</em> Early English Text Society, o.s. 300. Oxford: Oxford University Press, 1992.</p>",
+      "line_text": "Scragg, D. G., ed. The Vercelli Homilies and Related Texts. Early English Text Society, o.s. 300. Oxford: Oxford University Press, 1992.",
+      "language": "Old English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 5, fols. 14<sup>r</sup>–20<sup>r</sup> (ca. 1350)</p>",
+      "line_text": "Aberystywth, National Library of Wales, Peniarth 5, fols. 14r–20r (ca. 1350)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-14/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 14, pp. 116–136 (ca. 1250–1350)</p>",
+      "line_text": "Aberystywth, National Library of Wales, Peniarth 14, pp. 116–136 (ca. 1250–1350)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-14/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-27-iii/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 27.iii, pp. 1–17 (ca. 1450–1500)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, Peniarth 27.iii, pp. 1–17 (ca. 1450–1500)",
+      "language": "Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-27-iii/"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>A Synopsis of the Apocryphal Nativity and Infancy Narratives</em>. NTTS 34. Leiden and Boston: Brill, 2006; 2nd ed. 2016.</p>",
+      "line_text": "Elliott, J. K. A Synopsis of the Apocryphal Nativity and Infancy Narratives. NTTS 34. Leiden and Boston: Brill, 2006; 2nd ed. 2016.",
+      "language": "English",
+      "entry_type": ". Concordances and Synopses"
+    },
+    {
+      "line_html": "<p>Tukker, C. A. <em>Enige Nieuwtestamentische apocriefe geschriften.</em> Utrecht: De Banier, 1984 (pp. 26–48).</p>",
+      "line_text": "Tukker, C. A. Enige Nieuwtestamentische apocriefe geschriften. Utrecht: De Banier, 1984 (pp. 26–48).",
+      "language": "Dutch",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospel00cowp\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cowper, B. Harris. <em>The Apocryphal Gospels and Other Documents Relating to the History of Christ</em>. 7th ed. London: David Nutt, 1910 (translation of Tischendorf’s text, pp. 27–83).</p>",
+      "line_text": "Cowper, B. Harris. The Apocryphal Gospels and Other Documents Relating to the History of Christ. 7th ed. London: David Nutt, 1910 (translation of Tischendorf’s text, pp. 27–83).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospel00cowp"
+      ]
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D., and Zlatko Pleše. <em>The Apocryphal Gospels: Texts and Translations</em>. Oxford: Oxford UP, 2011 (translation of A-text with notes for biblical sources, pp. 73–113).</p>",
+      "line_text": "Ehrman, Bart D., and Zlatko Pleše. The Apocryphal Gospels: Texts and Translations. Oxford: Oxford UP, 2011 (translation of A-text with notes for biblical sources, pp. 73–113).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation</em>. Oxford: Oxford UP, 1993; rev. repr. 1999 (translation of the spurious prefatory letters, <em>Ps.-Mt.</em> 13–14, 18–25, and <em>pars altera</em> 35–36, 40, and 42, pp. 84–99).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Oxford: Oxford UP, 1993; rev. repr. 1999 (translation of the spurious prefatory letters, Ps.-Mt. 13–14, 18–25, and pars altera 35–36, 40, and 42, pp. 84–99).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus00gilegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, J. A. <em>The Uncanonical Gospels and Other Writings, Referring to the First Ages of Christianity</em>. 2 vols. London: D. Nutt, 1852 (translation of Thilo’s text, vol. 1 pp. 66–89).</p>",
+      "line_text": "Giles, J. A. The Uncanonical Gospels and Other Writings, Referring to the First Ages of Christianity. 2 vols. London: D. Nutt, 1852 (translation of Thilo’s text, vol. 1 pp. 66–89).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus00gilegoog"
+      ]
+    },
+    {
+      "line_html": "<p>Hawk, Brandon W. <em>The Gospel of Pseudo-Matthew and the Nativity of Mary</em>. Early Christian Apocrypha 8. Eugene, OR: Cascade Books, 2019 (translation of the spurious prefatory letters, Gijsel’s A-text, Tischendorf’s <em>pars altera</em>, and other later additions in Dimier-Paupert, with commentary).</p>",
+      "line_text": "Hawk, Brandon W. The Gospel of Pseudo-Matthew and the Nativity of Mary. Early Christian Apocrypha 8. Eugene, OR: Cascade Books, 2019 (translation of the spurious prefatory letters, Gijsel’s A-text, Tischendorf’s pars altera, and other later additions in Dimier-Paupert, with commentary).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________. “Miracles in Apocryphal Infancy Narratives.” Pages 138–46 in <em>Medieval Disability Sourcebook: Western Europe</em>. Edited by Cameron Hunt McNabb. Earth, Milky Way: punctum books, 2020 (selections from <em>Ps.-Mt.</em> 13, <em>pars altera</em> 31, and later additions in Dimier-Paupert 58 and 61).</p>",
+      "line_text": "__________. “Miracles in Apocryphal Infancy Narratives.” Pages 138–46 in Medieval Disability Sourcebook: Western Europe. Edited by Cameron Hunt McNabb. Earth, Milky Way: punctum books, 2020 (selections from Ps.-Mt. 13, pars altera 31, and later additions in Dimier-Paupert 58 and 61).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalnewte00wakegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hone, William. <em>The Apocryphal New Testament</em>. 4th ed. 1820. Repr., Philadelphia, Gebbie &amp; Co., 1890 (reprinting of Jeremiah Jones’s translation, pp. 17–24).</p>",
+      "line_text": "Hone, William. The Apocryphal New Testament. 4th ed. 1820. Repr., Philadelphia, Gebbie &amp; Co., 1890 (reprinting of Jeremiah Jones’s translation, pp. 17–24).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalnewte00wakegoog"
+      ]
+    },
+    {
+      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. Oxford: Oxford UP, 1924 (translation of the spurious prefatory letters and summary of <em>Ps.-Mt.</em> including the <em>pars altera</em>, pp. 70–80).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. Oxford: Oxford UP, 1924 (translation of the spurious prefatory letters and summary of Ps.-Mt. including the pars altera, pp. 70–80).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander, trans. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1870 (translation of Tischendorf’s text including the <em>pars altera</em>, pp. 16–52).</p>",
+      "line_text": "Walker, Alexander, trans. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1870 (translation of Tischendorf’s text including the pars altera, pp. 16–52).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Gijsel, Jan. “Évangile de l’Enfance du Pseudo–Matthieu.” Pages 105–40 in volume 1 of <em>Écrits apocryphes chrétiens</em>. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997 (translation of the A-text).</p>",
+      "line_text": "Gijsel, Jan. “Évangile de l’Enfance du Pseudo–Matthieu.” Pages 105–40 in volume 1 of Écrits apocryphes chrétiens. Edited by François Bovon and Pierre Geoltrain. Paris: Gallimard, 1997 (translation of the A-text).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Michel, Charles. <em>Évangiles apocryphes</em>, 2nd ed. Paris: Librairie Alphonse Picard &amp; Fils, 1924 (pp. 54–158).</p>",
+      "line_text": "Michel, Charles. Évangiles apocryphes, 2nd ed. Paris: Librairie Alphonse Picard &amp; Fils, 1924 (pp. 54–158).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedes03unkngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 1, col. 1059–88).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 1, col. 1059–88).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedes03unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p>Bock, Emil. <em>Die Kindheit Jesu: Zwei apocryphe Evangelien</em><em>. </em>Munich, 1924.</p>",
+      "line_text": "Bock, Emil. Die Kindheit Jesu: Zwei apocryphe Evangelien. Munich, 1924.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Cullman, Oscar. “Kindheistevangelien.” Pages 330–72 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 1. <em>Evangelien und Verwandtes</em>. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990 (extracts translated pp. 363–69). English translation: “Infancy Gospels: Later Infancy Gospels.” Pages 456–65 of <em>New Testament Apocrypha</em>, vol. 1, <em>Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. 2 vols. Louisville, KY: Westminster/John Knox Press, 1991 (extracts translated pp. 462–65).</p>",
+      "line_text": "Cullman, Oscar. “Kindheistevangelien.” Pages 330–72 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1. Evangelien und Verwandtes. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990 (extracts translated pp. 363–69). English translation: “Infancy Gospels: Later Infancy Gospels.” Pages 456–65 of New Testament Apocrypha, vol. 1, Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. 2 vols. Louisville, KY: Westminster/John Knox Press, 1991 (extracts translated pp. 462–65).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Ehlen, Oliver. “Das Pseudo-Matthäusevangelium.” Pages 983–1002 in vol. 1.2 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Ehlen, Oliver. “Das Pseudo-Matthäusevangelium.” Pages 983–1002 in vol. 1.2 of Antike christliche Apokryphen in deutscher Übersetzung. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Schneider, Gerhard. <em>Apokryphe Kindheitsevangelien.</em> New York: Herder, 1995 (pp. 213–55).</p>",
+      "line_text": "Schneider, Gerhard. Apokryphe Kindheitsevangelien. New York: Herder, 1995 (pp. 213–55).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. Gli <em>Apocrifi del Nuovo Testamento</em>. 3 vols. Turin: Casale Monferrato, 1981 (vol. 1.2, pp. 44–70).</p>",
+      "line_text": "Erbetta, Mario. Gli Apocrifi del Nuovo Testamento. 3 vols. Turin: Casale Monferrato, 1981 (vol. 1.2, pp. 44–70).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n97\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1:195–239).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1:195–239).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n97"
+      ]
+    },
+    {
+      "line_html": "<p>De Santos Otero, Aurelio. <em>Los Evangelios apócrifos</em>. 6th ed. Madrid: Editorial Católica, 1988 (pp. 171–216).</p>",
+      "line_text": "De Santos Otero, Aurelio. Los Evangelios apócrifos. 6th ed. Madrid: Editorial Católica, 1988 (pp. 171–216).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amann, Émile. <em>Le Protévangile de Jacques et ses remaniements latins: Introduction, textes, traduction et commentaire</em>. Les apocryphes du Nouveau Testament. Paris: Letouzey et Ané, 1910 (pp. 272–339).</p>",
+      "line_text": "Amann, Émile. Le Protévangile de Jacques et ses remaniements latins: Introduction, textes, traduction et commentaire. Les apocryphes du Nouveau Testament. Paris: Letouzey et Ané, 1910 (pp. 272–339).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Berthold, Michael. “Zur Datierung des Pseudo-Matthäus-Evangeliums.” <em>Wiener Studien</em> 102 (1989): 247–49.</p>",
+      "line_text": "Berthold, Michael. “Zur Datierung des Pseudo-Matthäus-Evangeliums.” Wiener Studien 102 (1989): 247–49.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Beyers, Rita. “La règle de Marie: caractère littéraire et inspiration monastique.” <em>Apocrypha</em> 22 (2011): 49–86.</p>",
+      "line_text": "Beyers, Rita. “La règle de Marie: caractère littéraire et inspiration monastique.” Apocrypha 22 (2011): 49–86.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Transmission of Marian Apocrypha in the Latin Middle Ages.” <em>Apocrypha</em> 23 (2012): 117–40.</p>",
+      "line_text": "__________. “The Transmission of Marian Apocrypha in the Latin Middle Ages.” Apocrypha 23 (2012): 117–40.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Boulton, M. B. M. <em>The Old French Évangile de l’Enfance</em>. Studies and Texts 70. Toronto: Pontifical Institute of Medieval Studies, 1984.</p>",
+      "line_text": "Boulton, M. B. M. The Old French Évangile de l’Enfance. Studies and Texts 70. Toronto: Pontifical Institute of Medieval Studies, 1984.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burke, Tony. <em>De infantia Iesu euangelium Thomae graece</em>. CCSA 17. Turnhout: Brepols, 2010.</p>",
+      "line_text": "Burke, Tony. De infantia Iesu euangelium Thomae graece. CCSA 17. Turnhout: Brepols, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Canal, José M. “Antiguas Versiones Latinas del Protoevangelio de Santiago.” <em>Ephemerides Mariologicae</em> 18 (1968): 431–73.</p>",
+      "line_text": "Canal, José M. “Antiguas Versiones Latinas del Protoevangelio de Santiago.” Ephemerides Mariologicae 18 (1968): 431–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “En torno al Evangelio del Pseudo–Mateo.” <em>Marianum</em> 60 (1998): 197–237.</p>",
+      "line_text": "__________. “En torno al Evangelio del Pseudo–Mateo.” Marianum 60 (1998): 197–237.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England</em>. Cambridge Studies in Anglo-Saxon England 2. Cambridge: Cambridge UP, 1998.</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 2. Cambridge: Cambridge UP, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://scans.library.utoronto.ca/pdf/9/35/lesapocryphesdan00duri/lesapocryphesdan00duri.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Duriez, Georges. <em>Les Apocryphes dans la drame religieux en Allemagne au Moyen Age</em>. Lille: J. Tallandier, 1914 (pp. 69–111).</p>",
+      "line_text": "Duriez, Georges. Les Apocryphes dans la drame religieux en Allemagne au Moyen Age. Lille: J. Tallandier, 1914 (pp. 69–111).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://scans.library.utoronto.ca/pdf/9/35/lesapocryphesdan00duri/lesapocryphesdan00duri.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Dzon, Mary. <em>The Quest for the Christ Child in the Later Middle Ages.</em> The Middle Ages. Philadelphia: University of Pennsylvania Press, 2017.</p>",
+      "line_text": "Dzon, Mary. The Quest for the Christ Child in the Later Middle Ages. The Middle Ages. Philadelphia: University of Pennsylvania Press, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. “Christian Apocrypha and the Developing Role of Mary.” Pages 269–88 in <em>The Oxford Handbook of Early Christian Apocrypha</em>. Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford UP, 2015.</p>",
+      "line_text": "Elliott, J. K. “Christian Apocrypha and the Developing Role of Mary.” Pages 269–88 in The Oxford Handbook of Early Christian Apocrypha. Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford UP, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gijsel, Jan. <em>Die unmittelbare Textüberlieferung des sogenannten Pseudo–Matthäus</em>. Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van België, Klasse der Letteren 96. Brussels: Paleis der Academiën, 1981.</p>",
+      "line_text": "Gijsel, Jan. Die unmittelbare Textüberlieferung des sogenannten Pseudo–Matthäus. Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van België, Klasse der Letteren 96. Brussels: Paleis der Academiën, 1981.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Nouveaux témoins du pseudo–Matthieu.” <em>Sacris Erudiri</em> 41 (2002): 273–300.</p>",
+      "line_text": "__________. “Nouveaux témoins du pseudo–Matthieu.” Sacris Erudiri 41 (2002): 273–300.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hawk, Brandon W. “Bede’s ‘Adesto, Christe, uocibus’ and the <em>Gospel of Pseudo-Matthew</em>.” <em>Notes and Queries</em> ns 69 (2022): 173–76.</p>",
+      "line_text": "Hawk, Brandon W. “Bede’s ‘Adesto, Christe, uocibus’ and the Gospel of Pseudo-Matthew.” Notes and Queries ns 69 (2022): 173–76.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Biblical Apocrypha as Medieval World Literature.” <em>The Medieval Globe</em> 6.2 (2020): 49–83.</p>",
+      "line_text": "__________. “Biblical Apocrypha as Medieval World Literature.” The Medieval Globe 6.2 (2020): 49–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The <em>Gospel of Pseudo-Matthew</em>, the <em>Rule of the Master</em>, and the <em>Rule of Benedict.</em>” <em>Revue Bénédictine</em> 128.2 (2018): 281–93.</p>",
+      "line_text": "__________. “The Gospel of Pseudo-Matthew, the Rule of the Master, and the Rule of Benedict.” Revue Bénédictine 128.2 (2018): 281–93.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “A New Witness to the <em>Gospel of Pseudo-Matthew</em>: A Sermon in Vercelli, Biblioteca Capitolare LXXIII.” <em>Sacris Erudiri</em> 59 (2020): 183–200.</p>",
+      "line_text": "__________. “A New Witness to the Gospel of Pseudo-Matthew: A Sermon in Vercelli, Biblioteca Capitolare LXXIII.” Sacris Erudiri 59 (2020): 183–200.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Preaching Apocrypha in Anglo-Saxon England.</em> Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018.</p>",
+      "line_text": "__________. Preaching Apocrypha in Anglo-Saxon England. Toronto Anglo-Saxon Series 30. Toronto: University of Toronto Press, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Preaching the <em>Gospel of Pseudo–Matthew</em> in Anglo–Saxon England.” Pages 207–30 in <em>Fakes, Forgeries, and Fictions: Writing Ancient and Modern Christian Apocrypha, Proceedings from the 2015 York University Christian Apocrypha Symposium</em>. Edited by Tony Burke. Eugene, OR: Cascade, 2017.</p>",
+      "line_text": "__________. “Preaching the Gospel of Pseudo–Matthew in Anglo–Saxon England.” Pages 207–30 in Fakes, Forgeries, and Fictions: Writing Ancient and Modern Christian Apocrypha, Proceedings from the 2015 York University Christian Apocrypha Symposium. Edited by Tony Burke. Eugene, OR: Cascade, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Versions of the <em>Gospel of Pseudo-Matthew</em> in Early England.” <em>Philological Quarterly</em> 99.3 (2020): 99 (2020): 245–67.</p>",
+      "line_text": "__________. “Versions of the Gospel of Pseudo-Matthew in Early England.” Philological Quarterly 99.3 (2020): 99 (2020): 245–67.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jastrzebowska, Elisabeth. <em>Bild und Wort: Mareienleben und die Kindheit Jesu in der christlichen Kunst vom 4. bis 8. Jh und ihre apocryphen Quellen</em>. Vorabdruck der Habilitationsschrift. Varsovie, 1992.</p>",
+      "line_text": "Jastrzebowska, Elisabeth. Bild und Wort: Mareienleben und die Kindheit Jesu in der christlichen Kunst vom 4. bis 8. Jh und ihre apocryphen Quellen. Vorabdruck der Habilitationsschrift. Varsovie, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel. “Le Protévangile de Jacques en latin. État de la question et perspectives nouvelles.” <em>Revue de l’Histoire des Textes</em> 26 (1996): 41–102.</p>",
+      "line_text": "Kaestli, Jean-Daniel. “Le Protévangile de Jacques en latin. État de la question et perspectives nouvelles.” Revue de l’Histoire des Textes 26 (1996): 41–102.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nils-Arvid, Bringéus. “The Rest on the Flight into Egypt: A Motif in Scandanavian Folk Art.” <em>Folklore</em> 114 (2003): 323–33.</p>",
+      "line_text": "Nils-Arvid, Bringéus. “The Rest on the Flight into Egypt: A Motif in Scandanavian Folk Art.” Folklore 114 (2003): 323–33.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Philippart, Guy. “Le <em>Pseudo-Matthieu</em> au risque de la critique textuelle.” <em>Scriptorium</em> 38 (1984): 121–31.</p>",
+      "line_text": "Philippart, Guy. “Le Pseudo-Matthieu au risque de la critique textuelle.” Scriptorium 38 (1984): 121–31.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=o_LjjQFacDAC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Reinsch, Robert. <em>Die Pseudo-Evangelien von Jesu und Maria’s Kindheit in der romanischen und germanischen Literatur</em>. Halle: Max Niemeyer, 1879.</p>",
+      "line_text": "Reinsch, Robert. Die Pseudo-Evangelien von Jesu und Maria’s Kindheit in der romanischen und germanischen Literatur. Halle: Max Niemeyer, 1879.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=o_LjjQFacDAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p class=\"p1\">Stipčević, Vesna Badurina. “The Gospel of Pseudo-Matthew in Croatian Glagolitic Texts.” <em>Palaeobulgarica</em> 4 (2022): 165–82.</p>",
+      "line_text": "Stipčević, Vesna Badurina. “The Gospel of Pseudo-Matthew in Croatian Glagolitic Texts.” Palaeobulgarica 4 (2022): 165–82.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Voicu, Sever J. “La tadition latine des <em>Paidika</em>.” <em>Bulletin de l’AELAC</em> 14 (2004): 13–21.</p>",
+      "line_text": "Voicu, Sever J. “La tadition latine des Paidika.” Bulletin de l’AELAC 14 (2004): 13–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

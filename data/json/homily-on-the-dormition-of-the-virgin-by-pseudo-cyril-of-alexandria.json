@@ -1,0 +1,62 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-dormition-of-the-virgin-by-pseudo-cyril-of-alexandria/",
+  "nasscal_toc_title": "Homily on the Dormition of the Virgin, by Pseudo-Cyril of Alexandria",
+  "filename": "homily-on-the-dormition-of-the-virgin-by-pseudo-cyril-of-alexandria",
+  "latin_title": "Homilia de dormitione Pseudo-Cyrillo Alexandrino adscripta",
+  "abbrev": "Hom. Dorm. Vir.",
+  "alt_titles": [
+    "Homily on the Dormition of the Virgin"
+  ],
+  "clavis_number": 823,
+  "category": "Dormition, Pseudo-Apostolic Memoirs",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-25/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Cairo, Coptic Museum, 25 (Graf 720), fols. 125<sup>r</sup>–142<sup>r</sup> (1687)</p>",
+      "line_text": "Cairo, Coptic Museum, 25 (Graf 720), fols. 125r–142r (1687)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-25/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, arabe 155, fols. 23<sup>v</sup>–38<sup>v</sup> (1486)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 155, fols. 23v–38v (1486)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-155/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 170, fols. 287<sup>r</sup>–317<sup>r </sup>(1719)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 170, fols. 287r–317r (1719)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-170/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ḥunayn, Girgis. <em>Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam</em>. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (edition from an unidentified manuscript, pp. 143–68). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927.</p>",
+      "line_text": "Ḥunayn, Girgis. Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (edition from an unidentified manuscript, pp. 143–68). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927.",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-longinus-the-centurion-by-symeon-metaphrastes/",
+  "nasscal_toc_title": "Martyrdom of Longinus the Centurion, by Symeon Metaphrastes",
+  "filename": "martyrdom-of-longinus-the-centurion-by-symeon-metaphrastes",
+  "latin_title": "Commentarius, auctore Symeone Metaphrasta",
+  "abbrev": "Mart. Longin.",
+  "alt_titles": [
+    "Martyrdom of Longinus the Centurion"
+  ],
+  "clavis_number": 730,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 774, fols. 205<sup>r</sup>–214<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50358/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107239856\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 774, fols. 205r–214r (15th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50358/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107239856"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1611/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1611, fols. 165<sup>r</sup>–169<sup>v</sup> (1553) ~ BHG 988b</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1611, fols. 165r–169v (1553) ~ BHG 988b",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1611/"
+      ]
+    },
+    {
+      "line_html": "<p><i><a href=\"https://archive.org/details/patrologiaecurs49migngoog/page/n18/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></i>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca</em>. Vol. 115. Paris: Cerf, 1899 (edition from Paris, BNF 774 and Latin translation from Surius, cols. 32–44).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 115. Paris: Cerf, 1899 (edition from Paris, BNF 774 and Latin translation from Surius, cols. 32–44).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaecurs49migngoog/page/n18/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/TheLegendOfLonginus/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Peebles, Rose Jeffries. <em>The Legend of Longinus in Ecclesiastical Tradition and in English Literature.</em> Baltimore: Furst, 1911.</p>",
+      "line_text": "Peebles, Rose Jeffries. The Legend of Longinus in Ecclesiastical Tradition and in English Literature. Baltimore: Furst, 1911.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/TheLegendOfLonginus/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

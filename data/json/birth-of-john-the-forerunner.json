@@ -1,0 +1,41 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/birth-of-john-the-forerunner/",
+  "nasscal_toc_title": "Birth of John the Forerunner",
+  "filename": "birth-of-john-the-forerunner",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Birth John Bapt.",
+  "alt_titles": [
+    "Birth of John, the Forerunner"
+  ],
+  "clavis_number": 381,
+  "category": "Hagiographa",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/studienberzacha00beregoog\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Berendts, Alexander. <em>Studien über Zacharia-Apokryphen und Zacharias-Legenden.</em> Leipzig: A. Deichert’sche, 1895.</p>",
+      "line_text": "Berendts, Alexander. Studien über Zacharia-Apokryphen und Zacharias-Legenden. Leipzig: A. Deichert’sche, 1895.",
+      "language": "English",
+      "entry_type": "General Bibliography",
+      "other_urls": [
+        "https://archive.org/details/studienberzacha00beregoog"
+      ]
+    },
+    {
+      "line_html": "<p>Burke, Tony. “The New Testament and Other Early Christian Traditions in Serapion’s <em>Life of John the Baptist</em>.” Pages 281–300 in <em>Christian Apocrypha. Receptions of the New Testament in Ancient Christian Apocrypha.</em> Edited by Jean-Michel Roessli and Tobias Nicklas. Göttingen: Vandenhoeck &amp; Ruprecht, 2014.</p>",
+      "line_text": "Burke, Tony. “The New Testament and Other Early Christian Traditions in Serapion’s Life of John the Baptist.” Pages 281–300 in Christian Apocrypha. Receptions of the New Testament in Ancient Christian Apocrypha. Edited by Jean-Michel Roessli and Tobias Nicklas. Göttingen: Vandenhoeck &amp; Ruprecht, 2014.",
+      "language": "English",
+      "entry_type": "General Bibliography"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "General Bibliography"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "General Bibliography"
+    }
+  ]
+}

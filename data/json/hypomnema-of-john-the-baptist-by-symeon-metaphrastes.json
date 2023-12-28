@@ -1,0 +1,470 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/hypomnema-of-john-the-baptist-by-symeon-metaphrastes/",
+  "nasscal_toc_title": "Hypomnema on John the Baptist, by Symeon Metaphrastes",
+  "filename": "hypomnema-of-john-the-baptist-by-symeon-metaphrastes",
+  "latin_title": "Commentarius, auctore Symeone Metaphrasta",
+  "abbrev": "Hypom. Bapt.",
+  "alt_titles": [
+    "Hypomnema on John the Baptist"
+  ],
+  "clavis_number": 530,
+  "category": "Hagiographa",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 282, fols. 383<sup>v</sup>–406 (16th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 282, fols. 383v–406 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 998, fols. 193–210<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 998, fols. 193–210v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2471, fols. 378–394 (14th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2471, fols. 378–394 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2628, fols. 71–83<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2628, fols. 71–83v (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, Metochion tou Panagiou Taphou 852, fol. 1 (10th cent.)</p>",
+      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, Metochion tou Panagiou Taphou 852, fol. 1 (10th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Basel, Universitätsbibliotek, A.III.12, fols. 29–33 (14th/15th c.)</p>",
+      "line_text": "Basel, Universitätsbibliotek, A.III.12, fols. 29–33 (14th/15th c.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Escorial, Real Biblioteca, y.II.11 (Andrés 319), fols. 135–149<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Escorial, Real Biblioteca, y.II.11 (Andrés 319), fols. 135–149v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Firenze, Biblioteca Medicea Laurenziana, Plut. 9.33, fols. 426<sup>v</sup> –443<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Firenze, Biblioteca Medicea Laurenziana, Plut. 9.33, fols. 426v –443v (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Genova, Biblioteca Franzoniana, Urbani 35, fols. 1–21<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Genova, Biblioteca Franzoniana, Urbani 35, fols. 1–21v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Grottaferrata, Biblioteca Statale del Monumento Nazionale, B.α.23.9 (gr. 98), fols. 15–22<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Grottaferrata, Biblioteca Statale del Monumento Nazionale, B.α.23.9 (gr. 98), fols. 15–22v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Batopediou, 425, fols. 99–105 (14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Batopediou, 425, fols. 99–105 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Batopediou, 435, fols. 47–57 (16th cent.)</p>",
+      "line_text": "Mount Athos, Monê Batopediou, 435, fols. 47–57 (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Batopediou, 632, fols. 256–264 (1422)</p>",
+      "line_text": "Mount Athos, Monê Batopediou, 632, fols. 256–264 (1422)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Batopediou, 634, fols. 215–243 (1422)</p>",
+      "line_text": "Mount Athos, Monê Batopediou, 634, fols. 215–243 (1422)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Batopediou, 788, fols. 89<sup>v</sup>–112 (14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Batopediou, 788, fols. 89v–112 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Batopediou, 826, fols. 33–56 (18th cent.)</p>",
+      "line_text": "Mount Athos, Monê Batopediou, 826, fols. 33–56 (18th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Dionusiou, 52 (Lambros 3586) (13th cent.)</p>",
+      "line_text": "Mount Athos, Monê Dionusiou, 52 (Lambros 3586) (13th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Dionusiou, 54 (Lambros 3588) (11th/12th cent.)</p>",
+      "line_text": "Mount Athos, Monê Dionusiou, 54 (Lambros 3588) (11th/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Dionusiou, 181 (Lambros 3715), fols. 173<sup>v</sup>–189 (14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Dionusiou, 181 (Lambros 3715), fols. 173v–189 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Dionusiou, 501 (Lambros 4035) (16th cent.)</p>",
+      "line_text": "Mount Athos, Monê Dionusiou, 501 (Lambros 4035) (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Dionusiou, 641 (1594)</p>",
+      "line_text": "Mount Athos, Monê Dionusiou, 641 (1594)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Docheiariou, 69 (Lambros 2743), fols. 171–186<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Docheiariou, 69 (Lambros 2743), fols. 171–186v (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Ibêrôn, 16 (Lambros 4136), fols. 259<sup>v</sup>–282<sup>v</sup> (1042)</p>",
+      "line_text": "Mount Athos, Monê Ibêrôn, 16 (Lambros 4136), fols. 259v–282v (1042)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Koutloumousiou, 109 (Lambros 3182), fols. 61–79 (15th cent.)</p>",
+      "line_text": "Mount Athos, Monê Koutloumousiou, 109 (Lambros 3182), fols. 61–79 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Megistês Lauras, Δ53 (Eustratiades 429), fols. 255–272 (11th/12th cent.)</p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Δ53 (Eustratiades 429), fols. 255–272 (11th/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Megistês Lauras, Δ62 (Eustratiades 438), fols. 35–37 (14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Δ62 (Eustratiades 438), fols. 35–37 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Megistês Lauras, Ε182 (Eustratiades 644), fols. 312–341 (12th cent.)</p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Ε182 (Eustratiades 644), fols. 312–341 (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Megistês Lauras, Η179 (Eustratiades 834), fols. 359–378 (14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Η179 (Eustratiades 834), fols. 359–378 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Megistês Lauras, Ω154 (Eustratiades 1966), fols. 727–734 (1668)</p>",
+      "line_text": "Mount Athos, Monê Megistês Lauras, Ω154 (Eustratiades 1966), fols. 727–734 (1668)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Pantokratos, 6 (Lambros 1040), fols. 305–313<sup>v</sup> (1301–1325)</p>",
+      "line_text": "Mount Athos, Monê Pantokratos, 6 (Lambros 1040), fols. 305–313v (1301–1325)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Philotheou, 87 (Lambros 1851), fols. 433–454 (1340)</p>",
+      "line_text": "Mount Athos, Monê Philotheou, 87 (Lambros 1851), fols. 433–454 (1340)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Stauronikêta, 18 (Lambros 883), fols. 340<sup>v</sup>–354<sup>v</sup> (13th/14th cent.)</p>",
+      "line_text": "Mount Athos, Monê Stauronikêta, 18 (Lambros 883), fols. 340v–354v (13th/14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Xêropotamou, 39 (Lambros 2372), fols. 144<sup>v</sup>–167<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Mount Athos, Monê Xêropotamou, 39 (Lambros 2372), fols. 144v–167v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Istanbul, Patriarchikê Bibliothêkê, Theologikê scholê, 40</p>",
+      "line_text": "Istanbul, Patriarchikê Bibliothêkê, Theologikê scholê, 40",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 105, fols. 272–288 (14th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 105, fols. 272–288 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 134, fols. 303<sup>v</sup>–325 (1582)</p>",
+      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 134, fols. 303v–325 (1582)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 135 (14th cent.)</p>",
+      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 135 (14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Manchester, John Rylands University Library, gr. 8, fols. 139–160 (11th cent.)</p>",
+      "line_text": "Manchester, John Rylands University Library, gr. 8, fols. 139–160 (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Messina, Biblioteca Regionale Universitaria, S. Salv. 49, fols. 244–266<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Messina, Biblioteca Regionale Universitaria, S. Salv. 49, fols. 244–266v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meterora, Monê Metamorphôseôs, 552, fols. 188<sup>v</sup> (13/14th cent.)</p>",
+      "line_text": "Meterora, Monê Metamorphôseôs, 552, fols. 188v (13/14th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, C186 inf. (Martini-Bassi 878), fols. 158–174 (1073)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, C186 inf. (Martini-Bassi 878), fols. 158–174 (1073)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 173 (Vlad 378), fols. 255<sup>v</sup>–276 (11th cent.)</p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 173 (Vlad 378), fols. 255v–276 (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 9 (Vlad 382), fols. 210–233 (1063)</p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 9 (Vlad 382), fols. 210–233 (1063)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 160 (Vlad 383) (11th cent.)</p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 160 (Vlad 383) (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Rossijskaja Gosudarstvennaja Biblioteka, Φ.270 (P. I. Sevast’janov), 34 (gr. 35), fols. 40–57 (15th cent.)</p>",
+      "line_text": "Moscow, Rossijskaja Gosudarstvennaja Biblioteka, Φ.270 (P. I. Sevast’janov), 34 (gr. 35), fols. 40–57 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Naples, Biblioteca Nazionale, II.C.25 (1380)</p>",
+      "line_text": "Naples, Biblioteca Nazionale, II.C.25 (1380)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Barocci 234, fols. 393–398 (12th/13th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Barocci 234, fols. 393–398 (12th/13th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Cromwell 6, pp. 125–172 (15th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Cromwell 6, pp. 125–172 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, Coisl. 307, fols. 375–383<sup>v</sup> (1552)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coisl. 307, fols. 375–383v (1552)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, Coisl. 383, fols. 309–340 (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coisl. 383, fols. 309–340 (15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1474/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1474, fols. 174<sup>v</sup>–191<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1474, fols. 174v–191r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1474/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1475, fols. 136<sup>v</sup>–151<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1475, fols. 136v–151v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1516, fols. 144<sup>v</sup>–160 (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1516, fols. 144v–160 (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1527, fols. 179<sup>v</sup>–197<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1527, fols. 179v–197v (11th/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1528, fols. 197<sup>r</sup>–216<sup>r</sup> (12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1528, fols. 197r–216r (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1548, fols. 152–166 (11/12th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1548, fols. 152–166 (11/12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Patmos, Monê tou Hagiou Iôannou tou Theologou, 183 (11th cent.)</p>",
+      "line_text": "Patmos, Monê tou Hagiou Iôannou tou Theologou, 183 (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-vallicelliana-b-14/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Rome, Biblioteca Vallicelliana, B 14, fols. 245<sup>r</sup>–256<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, B 14, fols. 245r–256r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-vallicelliana-b-14/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Chig. R.VII.50 (gr. 41), fols. 177–195<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Chig. R.VII.50 (gr. 41), fols. 177–195v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 87, fols. 39–48, 57–60 (13th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 87, fols. 39–48, 57–60 (13th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana,  Vat. gr. 820, fols. 271–284<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana,  Vat. gr. 820, fols. 271–284v (14th/15th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 822, fols. 225<sup>v</sup>–247<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 822, fols. 225v–247v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 823, fols. 186–203<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 823, fols. 186–203v (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 407<sup>v</sup>–414<sup>r</sup> (1542)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 407v–414r (1542)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2043, fols. 220<sup>v</sup>–240<sup>v</sup> (11th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2043, fols. 220v–240v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. II.131 (coll. 1361), fols. 290–334<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. II.131 (coll. 1361), fols. 290–334v (16th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. II.168c (coll. 1113), fols. 752<sup>v</sup>–768 (1481)</p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. II.168c (coll. 1113), fols. 752v–768 (1481)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/latysev.-menologii-2/page/383/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Latyšev, Vasilij V. <em>Menologii anonymi byzantini saeculi X quae supersunt.</em> 2 vols. St. Petersburg: Tipografija Imperatorskoj Akademii Nauk, 1911–1912 (edition based on Moscow, Sinod. gr. 9, with readings from Sinod. gr. 160, and Sinod gr. 173, in vol. 2, pp. 384–408).</p>",
+      "line_text": "Latyšev, Vasilij V. Menologii anonymi byzantini saeculi X quae supersunt. 2 vols. St. Petersburg: Tipografija Imperatorskoj Akademii Nauk, 1911–1912 (edition based on Moscow, Sinod. gr. 9, with readings from Sinod. gr. 160, and Sinod gr. 173, in vol. 2, pp. 384–408).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/latysev.-menologii-2/page/383/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lippomano, Luigi (Aloisius Lipomanus). <em>Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta</em>. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei,  1551–1560 (Greek edition, vol. 6, pp. 199–203).</p>",
+      "line_text": "Lippomano, Luigi (Aloisius Lipomanus). Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei,  1551–1560 (Greek edition, vol. 6, pp. 199–203).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/historiaeseuvit01lippgoog/page/n770/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Surius, Laurentius. <em>Historiae seu vitae sanctorum, juxta optimam coloniensem editionem</em>. 1570–1575. 13 vols. Turin: Marietti, 1875–1880 (Latin translation, vol. 8, pp. 706–23).</p>",
+      "line_text": "Surius, Laurentius. Historiae seu vitae sanctorum, juxta optimam coloniensem editionem. 1570–1575. 13 vols. Turin: Marietti, 1875–1880 (Latin translation, vol. 8, pp. 706–23).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/historiaeseuvit01lippgoog/page/n770/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Edition (BHG 838e) and French translation: F. Halkin, “Notice de saint Jean Baptiste BHG 838e,” in <em>Le ménologe impérial de Baltimore </em>(Brussels, 1986), 76–82.</p>",
+      "line_text": "Edition (BHG 838e) and French translation: F. Halkin, “Notice de saint Jean Baptiste BHG 838e,” in Le ménologe impérial de Baltimore (Brussels, 1986), 76–82.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

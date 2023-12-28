@@ -1,0 +1,278 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-ananias/",
+  "nasscal_toc_title": "Martyrdom of Ananias",
+  "filename": "martyrdom-of-ananias",
+  "latin_title": "Martyrium Ananias apostolos",
+  "abbrev": "Mart. Anan.",
+  "clavis_number": 958,
+  "category": "Hagiographa",
+  "compiler": "Alma Gjika",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ann Arbor, University of Michigan Library, Special Collections Library, 36, fols. 26–29 (14th/15th cent.)</p>",
+      "line_text": "Ann Arbor, University of Michigan Library, Special Collections Library, 36, fols. 26–29 (14th/15th cent.)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 25<sup>r</sup>–25<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 25r–25v (10th/11th cent.)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mutilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57 (1604)</p>",
+      "line_text": "Mutilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57 (1604)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ohrid, Naroden Muzej, 4, pp. 164–166 (10th cent.)</p>",
+      "line_text": "Ohrid, Naroden Muzej, 4, pp. 164–166 (10th cent.)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 121, fols. 5<sup>r</sup>–5<sup>v</sup> (1342)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 121, fols. 5r–5v (1342)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, R.VI.39, fols. 105<sup>r</sup>–106<sup>v </sup>(12th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, R.VI.39, fols. 105r–106v (12th cent.)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-866/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 866, fols. 37<sup>r</sup>–38<sup>r</sup> (11th/12th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 866, fols. 37r–38r (11th/12th cent.)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-866/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 24<sup>v</sup>–26 (12th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 24v–26 (12th cent.)",
+      "language": ".1 Recension 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Halkin, François. “Ananie de Damas.” Δίπτυχα 4 (1986): 178–82 (edition of Ohrid, 4 with French translation).</p>",
+      "line_text": "Halkin, François. “Ananie de Damas.” Δίπτυχα 4 (1986): 178–82 (edition of Ohrid, 4 with French translation).",
+      "language": ".1 Recension 1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 51–53 (12th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 51–53 (12th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 2319, fols. 27–30<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 2319, fols. 27–30v (15th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Gjirokastër, Bibliothēke tēs Mētropoleôs, 5, fols. 27<sup>v</sup>–30 (17th cent.)</p>",
+      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleôs, 5, fols. 27v–30 (17th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 39<sup>v</sup>–40 (11th/12th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 39v–40 (11th/12th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, 43, fols. 21–22<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, 43, fols. 21–22v (12th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Saint Petersburg, Rossijskaja Nacional’naja biblioteka, 213 (Granstrem 283), fols. 113–114<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Saint Petersburg, Rossijskaja Nacional’naja biblioteka, 213 (Granstrem 283), fols. 113–114v (11th/12th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 158<sup>v</sup>–162<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 158v–162r (11th cent.)",
+      "language": ".2 Recension 2",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/"
+      ]
+    },
+    {
+      "line_html": "<p>Bovon, François and Evie Zacharides-Holmberg. “The Martyrdom of the Holy Apostle Ananias (BHG 75y).” Pages 309–31 in <em>The Apocryphal Acts of the Apostles</em>. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Harvard Divinity School Studies; Cambridge, MA: Harvard University Press, 1999 (text and translation of Weimar, Q 729, pp. 313–21).</p>",
+      "line_text": "Bovon, François and Evie Zacharides-Holmberg. “The Martyrdom of the Holy Apostle Ananias (BHG 75y).” Pages 309–31 in The Apocryphal Acts of the Apostles. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Harvard Divinity School Studies; Cambridge, MA: Harvard University Press, 1999 (text and translation of Weimar, Q 729, pp. 313–21).",
+      "language": ".2 Recension 2",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Karakallou, 8 (Lambros 1521), Mon. 48, fols. 33–34<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Mount Athos, Monē Karakallou, 8 (Lambros 1521), Mon. 48, fols. 33–34v (10th/11th cent.)",
+      "language": ".3 Recension 3",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Pantokratoros, 40 (Lambros 1074) (11th cent.)</p>",
+      "line_text": "Mount Athos, Monē Pantokratoros, 40 (Lambros 1074) (11th cent.)",
+      "language": ".3 Recension 3",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, D 92 sup. (Martini-Bassi 259), fols. 217<sup>v</sup>–218<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, D 92 sup. (Martini-Bassi 259), fols. 217v–218v (10th/11th cent.)",
+      "language": ".3 Recension 3",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1468, fols. 83–84 (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1468, fols. 83–84 (11th cent.)",
+      "language": ".3 Recension 3",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316<sup>r</sup>–1318<sup>v </sup>(1542)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316r–1318v (1542)",
+      "language": ".4 BHG 76",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, University Library, 3047, fols. 299–302 (1550)</p>",
+      "line_text": "Cambridge, University Library, 3047, fols. 299–302 (1550)",
+      "language": ".5 Undetermined",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Publičnaja Biblioteka, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200<sup>v</sup> (16th cent.).</p>",
+      "line_text": "Leningrad, Publičnaja Biblioteka, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200v (16th cent.).",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Biblioteka Akademii Nauk SSSR, 31.6.26 (Tolstoj 40), fol. 72–74 (16th cent.)</p>",
+      "line_text": "Leningrad, Biblioteka Akademii Nauk SSSR, 31.6.26 (Tolstoj 40), fol. 72–74 (16th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 619, fols. 23–27 (16th cent.)</p>",
+      "line_text": "Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 619, fols. 23–27 (16th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 647, fols. 570–574 (16th/17th cent.)</p>",
+      "line_text": "Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 647, fols. 570–574 (16th/17th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Leninbibliothek/ehem. Rumjancevsk. Muzej, Troice-Sergieva Lavra 666 (1618), fols. 162–164<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Moscow, Leninbibliothek/ehem. Rumjancevsk. Muzej, Troice-Sergieva Lavra 666 (1618), fols. 162–164v (15th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gos. Istoričeskij Muzej/otdel rukopisej, Sinodal’noe sobranie 781 (170), fols. 2–4 (16th cent.)</p>",
+      "line_text": "Moscow, Gos. Istoričeskij Muzej/otdel rukopisej, Sinodal’noe sobranie 781 (170), fols. 2–4 (16th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gos. Istoričeskij Muzej/otdel rukopisej,Uspenskij Sobor, Mineja čeƄtja des Metropol. Makarij f. Oktober, Carskij spisok 987, fols. 17–18<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Moscow, Gos. Istoričeskij Muzej/otdel rukopisej,Uspenskij Sobor, Mineja čeƄtja des Metropol. Makarij f. Oktober, Carskij spisok 987, fols. 17–18v (16th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Wroklaw (Breslau), Biblioteka Nac. Instituta im. Ossolińskich, 38, fols. 79v-81 (16th cent.)</p>",
+      "line_text": "Wroklaw (Breslau), Biblioteka Nac. Instituta im. Ossolińskich, 38, fols. 79v-81 (16th cent.)",
+      "language": "Church Slavonic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977. (Discussion of the Slavonic tradition, vol. 1, pp. 138–39)</p>",
+      "line_text": "Santos Otero, Aurelio de. Die handscriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977. (Discussion of the Slavonic tradition, vol. 1, pp. 138–39)",
+      "language": "Church Slavonic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bovon, François and Evie Zacharides-Holmberg. “The Martyrdom of the Holy Apostle Ananias (BHG 75y).” Pages 309–31 in <em>The Apocryphal Acts of the Apostles</em>. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Harvard Divinity School Studies; Cambridge, MA: Harvard University Press, 1999 (text and translation of Weimar, Q 729, pp. 313–21) .</p>",
+      "line_text": "Bovon, François and Evie Zacharides-Holmberg. “The Martyrdom of the Holy Apostle Ananias (BHG 75y).” Pages 309–31 in The Apocryphal Acts of the Apostles. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Harvard Divinity School Studies; Cambridge, MA: Harvard University Press, 1999 (text and translation of Weimar, Q 729, pp. 313–21) .",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Halkin, François. “Ananie de Damas.” Δίπτυχα 4 (1986): 178–82 (edition of Ohrid, 4 with French translation).</p>",
+      "line_text": "Halkin, François. “Ananie de Damas.” Δίπτυχα 4 (1986): 178–82 (edition of Ohrid, 4 with French translation).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Clugnet, Léon. “Ananie.” <em>Dictionnaire d’histoire et de géographie ecclésiastiques</em>, vol. 2, col. 1431-32. Paris: Letouzey et Ané, 1914.</p>",
+      "line_text": "Clugnet, Léon. “Ananie.” Dictionnaire d’histoire et de géographie ecclésiastiques, vol. 2, col. 1431-32. Paris: Letouzey et Ané, 1914.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lattanzi, Ugo. “Anania.” Col. 1037 in <em>Bibliotheca Sanctorum.</em> Rome: Istituto Giovanni XXIII nella Pontificia Università Lateranense. 1961.</p>",
+      "line_text": "Lattanzi, Ugo. “Anania.” Col. 1037 in Bibliotheca Sanctorum. Rome: Istituto Giovanni XXIII nella Pontificia Università Lateranense. 1961.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lundgren, Sten. “Ananias and the Calling of Paul in Acts.” <em>ST 25</em> (1971): 117–22.</p>",
+      "line_text": "Lundgren, Sten. “Ananias and the Calling of Paul in Acts.” ST 25 (1971): 117–22.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mayr, Vincent. “Ananias of Damaskus.” Col. 129 in vol. 5 of <em>Lexicon der christlichen Ikonographie.</em> Edited by <span class=\"st\">Engelbert Kirschbaum and Wolfgang Braunfels. </span>8 vols. Rome: Herder, 1968–1976.</p>",
+      "line_text": "Mayr, Vincent. “Ananias of Damaskus.” Col. 129 in vol. 5 of Lexicon der christlichen Ikonographie. Edited by Engelbert Kirschbaum and Wolfgang Braunfels. 8 vols. Rome: Herder, 1968–1976.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wikenhauser, Alfred. “Ananias.” Cols. 486–87 in vol. 1 of <em>Lexikon f</em><em>ü</em><em>r Theologie und Kirche</em>. Edited by <span class=\"st\">Michael Buchberger, Josef Höfer, and Karl Rahner. </span>2nd ed. Freiburg im Breisgau: Herder, 1957–1968.</p>",
+      "line_text": "Wikenhauser, Alfred. “Ananias.” Cols. 486–87 in vol. 1 of Lexikon für Theologie und Kirche. Edited by Michael Buchberger, Josef Höfer, and Karl Rahner. 2nd ed. Freiburg im Breisgau: Herder, 1957–1968.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Delahaye, Hippolyte, ed.<em> Propylaeum ad Acta Santorum Novembris. Synaxarium Ecclesiae Constantinopolitanae</em>. 1902. Repr. Brussels: Société des Bollandistes, 1954 (Martyrdom of Ananias traditions, col. 95).</p>",
+      "line_text": "Delahaye, Hippolyte, ed. Propylaeum ad Acta Santorum Novembris. Synaxarium Ecclesiae Constantinopolitanae. 1902. Repr. Brussels: Société des Bollandistes, 1954 (Martyrdom of Ananias traditions, col. 95).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

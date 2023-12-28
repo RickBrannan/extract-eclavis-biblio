@@ -1,0 +1,415 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistles-of-christ-and-abgar/",
+  "nasscal_toc_title": "Epistles of Christ and Abgar",
+  "filename": "epistles-of-christ-and-abgar",
+  "latin_title": "Epistula Abgari cum Christi responso",
+  "abbrev": "Ep. Chr. Abg.",
+  "clavis_number": 489,
+  "category": "Epistles",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Chicago, Columbia College Library (no further information provided)</p>",
+      "line_text": "Chicago, Columbia College Library (no further information provided)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fol. 33v</p>",
+      "line_text": "London, British Library, Add. 9965, fol. 33v",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-445/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 150<sup>r</sup>–162<sup>r</sup> (1233)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 150r–162r (1233)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-445/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-485/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 485, fols. 53<sup>v</sup><strong>–</strong>69<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 485, fols. 53v–69r (13th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-485/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57<sup>r</sup>–58<sup>v</sup> (mentioned in Cureton p. 154)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57r–58v (mentioned in Cureton p. 154)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24–31 (1550–1556)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24–31 (1550–1556)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.jstor.org/stable/527236\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gottheil, R. J. H. “An Arabic Version of the Abgar-Legend.” <em>Hebraica</em> 7.4 (1891): 268–77 (text and English translation of the Columbia College Library manuscript).</p>",
+      "line_text": "Gottheil, R. J. H. “An Arabic Version of the Abgar-Legend.” Hebraica 7.4 (1891): 268–77 (text and English translation of the Columbia College Library manuscript).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.jstor.org/stable/527236"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” <em>Collectanea Christiana Orientalia</em> 5 (2008): 147–181 (edition of Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).</p>",
+      "line_text": "Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” Collectanea Christiana Orientalia 5 (2008): 147–181 (edition of Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesoriginesdel00tixeuoft/page/196/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tixeront, Louis-Joseph. <em>Les origines de l’église d’Édesse et la légende d’Abgar</em>. Paris: Maisonneuve, 1888 (edition of Vat. ar. 51, pp. 197–99, and French translation, pp. 200–201).</p>",
+      "line_text": "Tixeront, Louis-Joseph. Les origines de l’église d’Édesse et la légende d’Abgar. Paris: Maisonneuve, 1888 (edition of Vat. ar. 51, pp. 197–99, and French translation, pp. 200–201).",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/lesoriginesdel00tixeuoft/page/196/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3854, fols. 80<sup>v</sup>–88<sup>v</sup> (1471) ~ combination of traditions about the Epistles, Addai, and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-thirty-pieces-of-silver/\" target=\"_blank\" rel=\"noopener\"><em>Legend of the Thirty Pieces of Silver</em></a></p>",
+      "line_text": "Yerevan, Matenadaran, 3854, fols. 80v–88v (1471) ~ combination of traditions about the Epistles, Addai, and the Legend of the Thirty Pieces of Silver",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-thirty-pieces-of-silver/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7993, fols. 152<sup>v</sup>–153<sup>v</sup> (1692) ~ as above</p>",
+      "line_text": "Yerevan, Matenadaran, 7993, fols. 152v–153v (1692) ~ as above",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Outtier, Bernard, ed. and trans. “Une forme enrichie de la Légende d’Abgar en arménien.” In <em>Apocryphes arménians: transmission–traduction–creation–iconographie; Acts du colloque international sur la littérature apocryphe en langue arménienne (Genève, 18–20 septembre 1997</em><em>)</em>, edited by Valentina Calzolari Bouvier, Jean-Daniel Kaestli, and Bernard Outtier, 129–45. Lausanne: Éditions du Zébre, 1999 (edition and translation of the two Yerevan manuscripts).</p>",
+      "line_text": "Outtier, Bernard, ed. and trans. “Une forme enrichie de la Légende d’Abgar en arménien.” In Apocryphes arménians: transmission–traduction–creation–iconographie; Acts du colloque international sur la littérature apocryphe en langue arménienne (Genève, 18–20 septembre 1997), edited by Valentina Calzolari Bouvier, Jean-Daniel Kaestli, and Bernard Outtier, 129–45. Lausanne: Éditions du Zébre, 1999 (edition and translation of the two Yerevan manuscripts).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Langlois, Victor, trans. <em>Collection des </em><em>h</em><em>istoriens anciens et modernes de l’Arménie</em>. Paris: Didot, 1867–1869. (1:317–25)</p>",
+      "line_text": "Langlois, Victor, trans. Collection des historiens anciens et modernes de l’Arménie. Paris: Didot, 1867–1869. (1:317–25)",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Given, J. Gregory. “An <em>Incipits</em> Amulet Featuring Jesus’s Letter to Abgar.” <em>JCoptS</em> 19 (2017) 42–49.</p>",
+      "line_text": "Given, J. Gregory. “An Incipits Amulet Featuring Jesus’s Letter to Abgar.” JCoptS 19 (2017) 42–49.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>———. “Utility and Variance in Late Antique Witnesses to the Abgar-Jesus Correspondence.” <em>ARG</em> 17 (2016) 187–222.</p>",
+      "line_text": "———. “Utility and Variance in Late Antique Witnesses to the Abgar-Jesus Correspondence.” ARG 17 (2016) 187–222.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Giverson, Søren. “Ad Abgarum: The Sahidic Version of the Letter to Abgar on a Wooden Tablet.” <em>AcOr </em>24 (1959) 71–82.</p>",
+      "line_text": "Giverson, Søren. “Ad Abgarum: The Sahidic Version of the Letter to Abgar on a Wooden Tablet.” AcOr 24 (1959) 71–82.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Blok, H. P. “Die koptischen Abgarbriefe des Leidener Museums.” <em>AcOr</em> 5 (1926–1927) 248–51.</p>",
+      "line_text": "Blok, H. P. “Die koptischen Abgarbriefe des Leidener Museums.” AcOr 5 (1926–1927) 248–51.",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  EMML 2180, fols. 13<sup>r</sup>–15<sup>v</sup> (18th cent.)</p>",
+      "line_text": "A  EMML 2180, fols. 13r–15v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong> EMML 2050, fols. 86<sup>v</sup>–87<sup>v</sup> (19th cent.)</p>",
+      "line_text": "B EMML 2050, fols. 86v–87v (19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ocp-55-1989/OCP-55-%281989%29/page/n381/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Haile, Getatchew, ed. and trans. “The Legend of Abgar in Ethiopic Tradition.” <em>OCP</em> 55 (1989): 375–410 (edition of the shorter version based on A and B, and the older version).</p>",
+      "line_text": "Haile, Getatchew, ed. and trans. “The Legend of Abgar in Ethiopic Tradition.” OCP 55 (1989): 375–410 (edition of the shorter version based on A and B, and the older version).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ocp-55-1989/OCP-55-%281989%29/page/n381/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch2119181919pari/page/72/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grébaut, Sylvain. “Le relations entre Abgar et Jésus.” <em>Revue de l’Orient Chrétien</em> 21 (1918–1919): 73–91, 190–203 (longer version, pp. 73–87, with French translation, pp. 190–203; and Synaxary, pp. 88–91; French translation, pp. 253–55).</p>",
+      "line_text": "Grébaut, Sylvain. “Le relations entre Abgar et Jésus.” Revue de l’Orient Chrétien 21 (1918–1919): 73–91, 190–203 (longer version, pp. 73–87, with French translation, pp. 190–203; and Synaxary, pp. 88–91; French translation, pp. 253–55).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch2119181919pari/page/72/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Frisk, Hjalmar. <em>Papyrus grecs de la </em><em>B</em><em>ibliothèque </em><em>M</em><em>unicipale de Gothembourg. </em><em>(P. Got.)</em>. Göteborg: Elanders boktryckeri aktiebolag, 1929.</p>",
+      "line_text": "Frisk, Hjalmar. Papyrus grecs de la Bibliothèque Municipale de Gothembourg. (P. Got.). Göteborg: Elanders boktryckeri aktiebolag, 1929.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Gothenburg, Universitetsbibliotek 21 <a href=\"https://papyri.info/dclp/58907\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Gothenburg, Universitetsbibliotek 21 IMAGES",
+      "language": ".1 Papyri",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://papyri.info/dclp/58907"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">P. Cair. 10736 + P. Oxf. Bodl. MS gr. th. b 1 (P) ~ <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5916\" target=\"_blank\" rel=\"noopener\">CATALOG</a>; <a href=\"https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/manuscript/kyp-m1119/\" target=\"_blank\" rel=\"noopener\">Kyprianos</a></p>",
+      "line_text": "P. Cair. 10736 + P. Oxf. Bodl. MS gr. th. b 1 (P) ~ CATALOG; Kyprianos",
+      "language": ".1 Papyri",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_5916",
+        "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/manuscript/kyp-m1119/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Nessana Papyrus</p>",
+      "line_text": "Nessana Papyrus",
+      "language": ".1 Papyri",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, P. Colt. 7 ~ <a href=\"https://www.themorgan.org/manuscript/351518\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "New York, Morgan Library and Museum, P. Colt. 7 ~ IMAGES",
+      "language": ".1 Papyri",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.themorgan.org/manuscript/351518"
+      ]
+    },
+    {
+      "line_html": "<p>Youtie, Herbert C., ed. “A Gothenburg Papyrus and the Letter to Abgar.” <em>HTR</em> 23.4 (1930) 299–302.</p>",
+      "line_text": "Youtie, Herbert C., ed. “A Gothenburg Papyrus and the Letter to Abgar.” HTR 23.4 (1930) 299–302.",
+      "language": ".1 Papyri",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Casson, Lionel, and Ernest L. Hettich, eds. <em>Excavations at Nessana</em>, vol. 2: <em>Literary Papyri.</em> Princeton: Princeton University Press, 1950. (143–47)</p>",
+      "line_text": "Casson, Lionel, and Ernest L. Hettich, eds. Excavations at Nessana, vol. 2: Literary Papyri. Princeton: Princeton University Press, 1950. (143–47)",
+      "language": ".1 Papyri",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-16-sup/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, E 16 sup. (Martini-Bassi 273), fols. 60<sup>r</sup>–61<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, E 16 sup. (Martini-Bassi 273), fols. 60r–61v (13th cent.)",
+      "language": ".2 Epistula Abgari",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-16-sup/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m499-chicago-university-of-chicago-joseph-regenstein-library-125/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M499 + Chicago, University of Chicago Joseph Regenstein Library, 125 (14th cent.)</p>",
+      "line_text": "New York, Morgan Library and Museum, M499 + Chicago, University of Chicago Joseph Regenstein Library, 125 (14th cent.)",
+      "language": ".2 Epistula Abgari",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m499-chicago-university-of-chicago-joseph-regenstein-library-125/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n395/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A., ed. “Epistula Abgari.” Pages 279–83 in vol. 1 of <em>Acta Apostolorum Apocrypha</em>. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972.</p>",
+      "line_text": "Lipsius, Richard A., ed. “Epistula Abgari.” Pages 279–83 in vol. 1 of Acta Apostolorum Apocrypha. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972.",
+      "language": ".2 Epistula Abgari",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n395/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-2688/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 2688, fols. 65<sup>r</sup>–93<sup>v</sup> (15th cent.) ~ followed by the <em>Historia de sudario domini</em> (fols. 94<sup>r</sup>–97<sup>r</sup>); lavishly illuminated</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 2688, fols. 65r–93v (15th cent.) ~ followed by the Historia de sudario domini (fols. 94r–97r); lavishly illuminated",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-2688/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), p. 147a (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), p. 147a (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p>Torrey, C. C. “A Syriac Parchment from Edessa of the Year 243 A.D.” <em>ZS </em>10 (1935) 32–45.</p>",
+      "line_text": "Torrey, C. C. “A Syriac Parchment from Edessa of the Year 243 A.D.” ZS 10 (1935) 32–45.",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedestudesg15assouoft/page/310/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cumont, Franz, ed. “Nouvelles inscriptions du Pont.” <em>REG</em> 15 (1902): 311–15 (Greek text of the inscription with reconstruction).<a href=\"#_ftn2\" name=\"_ftnref2\"/></p>",
+      "line_text": "Cumont, Franz, ed. “Nouvelles inscriptions du Pont.” REG 15 (1902): 311–15 (Greek text of the inscription with reconstruction).",
+      "language": "Alkat-Hadji-Kevi",
+      "entry_type": "Inscriptions",
+      "other_urls": [
+        "https://archive.org/details/revuedestudesg15assouoft/page/310/mode/2up",
+        "#_ftn2"
+      ]
+    },
+    {
+      "line_html": "<p>Illert, Martin. <em>Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa</em>. Fontes Christiani 45. Turnhout: Brepols, 2007 (reconstructed text with German translation, pp. 178–79).</p>",
+      "line_text": "Illert, Martin. Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa. Fontes Christiani 45. Turnhout: Brepols, 2007 (reconstructed text with German translation, pp. 178–79).",
+      "language": "Alkat-Hadji-Kevi",
+      "entry_type": "Inscriptions"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch2119181919pari/page/216/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François, ed. “Une inscription grecque d’Édesse. La lettre de N.S.J.-C. à Abgar.” <em>Revue de l’Orient Chrétien </em>21 (1918): 217–18 (Greek text of the inscription).</p>",
+      "line_text": "Nau, François, ed. “Une inscription grecque d’Édesse. La lettre de N.S.J.-C. à Abgar.” Revue de l’Orient Chrétien 21 (1918): 217–18 (Greek text of the inscription).",
+      "language": "Edessa: sixth-century inscription of Jesus’ reply found in the area known as the “Forty Caverns/Tombs.” Includes the promise of divine protection.",
+      "entry_type": "Inscriptions",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch2119181919pari/page/216/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_journal-of-hellenic-studies_1900_20_contents/page/150/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Anderson, J. G. C., ed. “Pontica.” <em>JHS </em>20 (1900): 151–58 (transcription of the inscription, pp. 156–58).</p>",
+      "line_text": "Anderson, J. G. C., ed. “Pontica.” JHS 20 (1900): 151–58 (transcription of the inscription, pp. 156–58).",
+      "language": "Gurdja",
+      "entry_type": "Inscriptions",
+      "other_urls": [
+        "https://archive.org/details/sim_journal-of-hellenic-studies_1900_20_contents/page/150/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Illert, Martin, <em>Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa</em>. Fontes Christiani 45. Turnhout: Brepols, 2007 (transcription with German translation, pp. 182–83).<a href=\"#_ftn9\" name=\"_ftnref9\"/></p>",
+      "line_text": "Illert, Martin, Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa. Fontes Christiani 45. Turnhout: Brepols, 2007 (transcription with German translation, pp. 182–83).",
+      "language": "Gurdja",
+      "entry_type": "Inscriptions",
+      "other_urls": [
+        "#_ftn9"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.persee.fr/doc/bch_0007-4217_1920_num_44_1_3062\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Picard, Charles, ed. “Un texte nouveau de la correspondence entre Abgar d’Osroène et Jésus-Christ grave sur une porte de ville, à Philippes (Macédoine).” <em>BCH</em> 44 (1920): 41–69 (reconstructed text). No Illert?</p>",
+      "line_text": "Picard, Charles, ed. “Un texte nouveau de la correspondence entre Abgar d’Osroène et Jésus-Christ grave sur une porte de ville, à Philippes (Macédoine).” BCH 44 (1920): 41–69 (reconstructed text). No Illert?",
+      "language": "Philippi: fifth-century inscription originally placed over the southeastern gate of the city. Includes the promise of divine protection.",
+      "entry_type": "Inscriptions",
+      "other_urls": [
+        "https://www.persee.fr/doc/bch_0007-4217_1920_num_44_1_3062"
+      ]
+    },
+    {
+      "line_html": "<p>Illert, Martin, <em>Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa</em>. Fontes Christiani 45. Turnhout: Brepols, 2007 (transcription with German translation, pp. —- ).<a href=\"#_ftn9\" name=\"_ftnref9\"/></p>",
+      "line_text": "Illert, Martin, Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa. Fontes Christiani 45. Turnhout: Brepols, 2007 (transcription with German translation, pp. —- ).",
+      "language": "Ephesus: fifth-century inscription found on the underside of a marble lintel above a courtyard entrance to a private home. Includes the promise of divine protection.",
+      "entry_type": "Inscriptions",
+      "other_urls": [
+        "#_ftn9"
+      ]
+    },
+    {
+      "line_html": "<p>Wankel, Hermann, ed. <em>Die Inschriften von Ephesos. </em><em>Teil 1a Nr. 1–47 (Texte).</em> Bonn: Habelt, 1979 (transcription of the inscription, pp. 285–91).</p>",
+      "line_text": "Wankel, Hermann, ed. Die Inschriften von Ephesos. Teil 1a Nr. 1–47 (Texte). Bonn: Habelt, 1979 (transcription of the inscription, pp. 285–91).",
+      "language": "Ephesus: fifth-century inscription found on the underside of a marble lintel above a courtyard entrance to a private home. Includes the promise of divine protection.",
+      "entry_type": "Inscriptions"
+    },
+    {
+      "line_html": "<p>Elderen, Bastiaan Van, ed. “A New Inscription Relating to Christianity at Edessa.” <em>CT</em><em>J</em> 7.1 (1972): 5–14 (transcription).</p>",
+      "line_text": "Elderen, Bastiaan Van, ed. “A New Inscription Relating to Christianity at Edessa.” CTJ 7.1 (1972): 5–14 (transcription).",
+      "language": "Ankara: fifth or sixth-century inscription with brief mention of the correspondence among other biblical figures praised for various virtues.",
+      "entry_type": "Inscriptions"
+    },
+    {
+      "line_html": "<p>Illert, Martin, <em>Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa</em>. Fontes Christiani 45. Turnhout: Brepols, 2007 (transcription with German translation, pp. 47–48).</p>",
+      "line_text": "Illert, Martin, Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa. Fontes Christiani 45. Turnhout: Brepols, 2007 (transcription with German translation, pp. 47–48).",
+      "language": "Ankara: fifth or sixth-century inscription with brief mention of the correspondence among other biblical figures praised for various virtues.",
+      "entry_type": "Inscriptions"
+    },
+    {
+      "line_html": "<p>Mitchell, Stephen. “Notes and Studies No. 1: Inscriptions of Ancyra.” <em>Anatolian Studies </em>27 (1977): 63–103 (transcription with reconstruction, pp. 93–96).</p>",
+      "line_text": "Mitchell, Stephen. “Notes and Studies No. 1: Inscriptions of Ancyra.” Anatolian Studies 27 (1977): 63–103 (transcription with reconstruction, pp. 93–96).",
+      "language": "Ankara: fifth or sixth-century inscription with brief mention of the correspondence among other biblical figures praised for various virtues.",
+      "entry_type": "Inscriptions"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” <em>Collectanea Christiana Orientalia</em> 5 (2008): 147–181 (edition of the Arabic text from Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).</p>",
+      "line_text": "Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” Collectanea Christiana Orientalia 5 (2008): 147–181 (edition of the Arabic text from Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Adler, William. “Jesus’s Letter to Abgar.” Pages 343–60 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Adler, William. “Jesus’s Letter to Abgar.” Pages 343–60 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Drijvers, Han J.W. “Addai und Mani: Christentum und Manichäismus im dritten Jahrhundert in Syrien.” In <em>Symposium Syriacum 1980: les contacts du monde syriaque avec les autres cultures (Goslar 7–11 September 1980)</em>, edited by René Lavenant, 171–85. Rome: Pontificum Institutum Studiorium Orientalium, 1983.</p>",
+      "line_text": "Drijvers, Han J.W. “Addai und Mani: Christentum und Manichäismus im dritten Jahrhundert in Syrien.” In Symposium Syriacum 1980: les contacts du monde syriaque avec les autres cultures (Goslar 7–11 September 1980), edited by René Lavenant, 171–85. Rome: Pontificum Institutum Studiorium Orientalium, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Karaulashvili, Irma. “The Date of the <em>Epistula Abgari</em>.” <em>Apocrypha</em> 13 (2002) 85–111.</p>",
+      "line_text": "Karaulashvili, Irma. “The Date of the Epistula Abgari.” Apocrypha 13 (2002) 85–111.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mirkovic, Alexander. <em>Prelude to Constantine: The Abgar Tradition in Early Christianity</em>. Studies in the Religion and History of Early Christianity 15. Frankfurt am Main: Peter Lang, 2004.</p>",
+      "line_text": "Mirkovic, Alexander. Prelude to Constantine: The Abgar Tradition in Early Christianity. Studies in the Religion and History of Early Christianity 15. Frankfurt am Main: Peter Lang, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “King Abgar of Edessa, Eusebius and Constantine.” In <em>The Sacred Centre as the Focus of Political Interest: Proceedings of the Symposium Held on the Occasion of the 375th Anniversary of the University of Groningen, 5–8 March 1989</em>, edited by Hans Bakker, 3–29. Groninger: Egbert Forsten, 1992.</p>",
+      "line_text": "Palmer, Andrew. “King Abgar of Edessa, Eusebius and Constantine.” In The Sacred Centre as the Focus of Political Interest: Proceedings of the Symposium Held on the Occasion of the 375th Anniversary of the University of Groningen, 5–8 March 1989, edited by Hans Bakker, 3–29. Groninger: Egbert Forsten, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Polański, Tomasz. “Translation, Amplification, Paraphrase: Some Comments on the Syriac, Greek and Coptic Versions of the <em>Abgar Letter</em>.” <em>Collectanea Christiana Orientalia </em>13 (2016) 159–210.</p>",
+      "line_text": "Polański, Tomasz. “Translation, Amplification, Paraphrase: Some Comments on the Syriac, Greek and Coptic Versions of the Abgar Letter.” Collectanea Christiana Orientalia 13 (2016) 159–210.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesoriginesdel00tixeuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tixeront, Louis-Joseph. <em>Les origines de l’église d’Édesse et la légende d’Abgar</em>. Paris: Maisonneuve, 1888.</p>",
+      "line_text": "Tixeront, Louis-Joseph. Les origines de l’église d’Édesse et la légende d’Abgar. Paris: Maisonneuve, 1888.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/lesoriginesdel00tixeuoft"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

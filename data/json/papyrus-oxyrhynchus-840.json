@@ -1,0 +1,441 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-840/",
+  "nasscal_toc_title": "Papyrus Oxyrhynchus 840",
+  "filename": "papyrus-oxyrhynchus-840",
+  "latin_title": "Papyrus Oxyrhynchus 840",
+  "abbrev": "P. Oxy. 840",
+  "alt_titles": [
+    "Gospel of the Savior ",
+    "Berlin-Strasbourg Apocryphon"
+  ],
+  "clavis_number": 747,
+  "category": "Agrapha and Fragments",
+  "compiler": "Thomas A. Wayment, Brigham Young University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-ms-gr-th-g-11-p-p-oxy-v-840/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Oxford, Bodleian Library, Ms. Gr. th. g. 11 (P) (P. Oxy. V 840) (4th/5th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Ms. Gr. th. g. 11 (P) (P. Oxy. V 840) (4th/5th cent.)",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-ms-gr-th-g-11-p-p-oxy-v-840/"
+      ]
+    },
+    {
+      "line_html": "<p>Bernhard, Andrew E. <em>Other Early Christian Gospels: A Critical Edition of the Surviving Greek Manuscripts</em>. London and New York: T&amp;T Clark, 2007 (pp. 120–25, pl. 27).</p>",
+      "line_text": "Bernhard, Andrew E. Other Early Christian Gospels: A Critical Edition of the Surviving Greek Manuscripts. London and New York: T&amp;T Clark, 2007 (pp. 120–25, pl. 27).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Blumell, Lincoln, and Thomas A. Wayment. <em>Christian Oxyrhynchus: Texts, Documents, and Sources</em>. Waco: Baylor University Press, 2015 (pp. 278–82).</p>",
+      "line_text": "Blumell, Lincoln, and Thomas A. Wayment. Christian Oxyrhynchus: Texts, Documents, and Sources. Waco: Baylor University Press, 2015 (pp. 278–82).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. and Zlatko Pleše. <em>The Apocryphal Gospels: Texts and Translations</em>. New York: Oxford University Press, 2011 (pp. 267–73).</p>",
+      "line_text": "Ehrman, Bart D. and Zlatko Pleše. The Apocryphal Gospels: Texts and Translations. New York: Oxford University Press, 2011 (pp. 267–73).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/oxyrhynchuspapyr05gren/page/n11/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfell, Bernard P., and Arthur S. Hunt, eds. Pages 1–10 in volume 5 of <em>The Oxyrhynchus Papyri.</em> London: Egypt Exploration Fund, 1908 (<em>editio princeps</em> pp. 1–10, no. 840).</p>",
+      "line_text": "Grenfell, Bernard P., and Arthur S. Hunt, eds. Pages 1–10 in volume 5 of The Oxyrhynchus Papyri. London: Egypt Exploration Fund, 1908 (editio princeps pp. 1–10, no. 840).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/oxyrhynchuspapyr05gren/page/n11/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/fragmentofuncano00gren\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfell, Bernard P., and Arthur S. Hunt. <em>Fragment of an Uncanonical Gospel. </em> London: Egypt Exploration Fund, 1908.</p>",
+      "line_text": "Grenfell, Bernard P., and Arthur S. Hunt. Fragment of an Uncanonical Gospel.  London: Egypt Exploration Fund, 1908.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/fragmentofuncano00gren"
+      ]
+    },
+    {
+      "line_html": "<p>Kruger, Michael J. “Papyrus Oxyrhynchus 840.” Pages 123–215 in <em>Gospel Fragments</em>. Edited by Thomas J. Kraus, Tobias Nicklas, and Michael J. Kruger. Oxford: Oxford University Press, 2009 (Greek text and English translation, pp. 170–73, images pls. 7–8).</p>",
+      "line_text": "Kruger, Michael J. “Papyrus Oxyrhynchus 840.” Pages 123–215 in Gospel Fragments. Edited by Thomas J. Kraus, Tobias Nicklas, and Michael J. Kruger. Oxford: Oxford University Press, 2009 (Greek text and English translation, pp. 170–73, images pls. 7–8).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wayment, Thomas A. <em>The Text of the New Testament Apocrypha (100–400 CE)</em>. New York: T&amp;T Clark, 2013 (pp. 190–92, images pp. 404–405).</p>",
+      "line_text": "Wayment, Thomas A. The Text of the New Testament Apocrypha (100–400 CE). New York: T&amp;T Clark, 2013 (pp. 190–92, images pp. 404–405).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Brannan, Rick. <em>Greek Apocryphal Gospels, Fragments and Agrapha: A New Translation.</em> Bellingham, WA: Lexham Press, 2017 (pp. 158–63).</p>",
+      "line_text": "Brannan, Rick. Greek Apocryphal Gospels, Fragments and Agrapha: A New Translation. Bellingham, WA: Lexham Press, 2017 (pp. 158–63).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Cameron, Ron. <em>The Other Gospels: Non-Canonical Texts</em>. Philadelphia: Westminster, 1982 (pp. 53–55).</p>",
+      "line_text": "Cameron, Ron. The Other Gospels: Non-Canonical Texts. Philadelphia: Westminster, 1982 (pp. 53–55).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart D. and Zlatko Pleše. <em>The Other Gospels: Accounts of Jesus from Outside the New Testament</em>. Oxford: Oxford University Press, 2014 (pp. 136–39).</p>",
+      "line_text": "Ehrman, Bart D. and Zlatko Pleše. The Other Gospels: Accounts of Jesus from Outside the New Testament. Oxford: Oxford University Press, 2014 (pp. 136–39).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>___________. <em>The Apocryphal Gospels: Texts and Translations</em>. New York: Oxford University Press, 2011 (pp. 267–73).</p>",
+      "line_text": "___________. The Apocryphal Gospels: Texts and Translations. New York: Oxford University Press, 2011 (pp. 267–73).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 31–34).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 31–34).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Grant, Robert M., and David N. Freedman. <em>The Secret Sayings of Jesus</em>. Garden City, NY: Doubleday, 1960 (pp. 52–54).</p>",
+      "line_text": "Grant, Robert M., and David N. Freedman. The Secret Sayings of Jesus. Garden City, NY: Doubleday, 1960 (pp. 52–54).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/oxyrhynchuspapyr05gren/page/n11/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfell, Bernard P., and Arthur S. Hunt, eds. <em>The Oxyrhynchus Papyri V.</em> London: Egypt Exploration Fund, 1908 (pp. 7–8).</p>",
+      "line_text": "Grenfell, Bernard P., and Arthur S. Hunt, eds. The Oxyrhynchus Papyri V. London: Egypt Exploration Fund, 1908 (pp. 7–8).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/oxyrhynchuspapyr05gren/page/n11/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/fragmentofuncano00gren/page/16/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfell, Bernard P., and Arthur S. Hunt. <em>Fragment of an Uncanonical Gospel. </em> London: Egypt Exploration Fund, 1908 (pp. 16–17).</p>",
+      "line_text": "Grenfell, Bernard P., and Arthur S. Hunt. Fragment of an Uncanonical Gospel.  London: Egypt Exploration Fund, 1908 (pp. 16–17).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/fragmentofuncano00gren/page/16/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n57/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 29–30).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 29–30).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n57/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Jenkinson, E. J. <em>The Unwritten Sayings of Jesus</em>. London: Epworth, 1925 (pp. 112–16).</p>",
+      "line_text": "Jenkinson, E. J. The Unwritten Sayings of Jesus. London: Epworth, 1925 (pp. 112–16).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Jeremias, Joachim, and Wilhelm Schneemelcher. “Fragments of Unknown Gospels.” Pages 94–95 in volume 1 in <em>New Testament Apocrypha</em>. Edited by W. Schneemelcher. Translated by R. McL. Wilson. Louisville: Westminster/John Knox Press, 1991.</p>",
+      "line_text": "Jeremias, Joachim, and Wilhelm Schneemelcher. “Fragments of Unknown Gospels.” Pages 94–95 in volume 1 in New Testament Apocrypha. Edited by W. Schneemelcher. Translated by R. McL. Wilson. Louisville: Westminster/John Knox Press, 1991.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Miller, Robert, ed. <em>The Complete Gospels: Annotated Scholars Version. </em>Sonoma: Polebridge Press, 1992. (pp. 412–15).</p>",
+      "line_text": "Miller, Robert, ed. The Complete Gospels: Annotated Scholars Version. Sonoma: Polebridge Press, 1992. (pp. 412–15).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amiot, F. <em>La Bible apocryphe: Évangiles apocryphes</em>. Edited by Daniel-Rops. Textes pour l’histoire sacrée. Paris: Cerf-Fayard, 1952 (p. 45).</p>",
+      "line_text": "Amiot, F. La Bible apocryphe: Évangiles apocryphes. Edited by Daniel-Rops. Textes pour l’histoire sacrée. Paris: Cerf-Fayard, 1952 (p. 45).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bertrand, Daniel A. “Papyrus Oxyrhynque 840.” Pages 407–10 in <em>Écrits apocryphes chrétiens: Tome I</em>. Edited by François Bovon and Pierre Geoltrain. Bibliothèque de la Pléiade. Paris: Éditions Gallimard, 1997.</p>",
+      "line_text": "Bertrand, Daniel A. “Papyrus Oxyrhynque 840.” Pages 407–10 in Écrits apocryphes chrétiens: Tome I. Edited by François Bovon and Pierre Geoltrain. Bibliothèque de la Pléiade. Paris: Éditions Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Lagrange, Marie-Joseph. “Nouveau fragment non canonique relatif a l’evangile.” <em>RB</em> 5 (1908): 538–53.</p>",
+      "line_text": "Lagrange, Marie-Joseph. “Nouveau fragment non canonique relatif a l’evangile.” RB 5 (1908): 538–53.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Lührmann, Dieter, and Egbert Schlarb.<em> Fragmente apokryph gewordener Evangelien in griechischer und lateinischer Sprache</em>. Marburg Theologische Studien 59. Marburg: Elwert 2000 (pp. 164–69).</p>",
+      "line_text": "Lührmann, Dieter, and Egbert Schlarb. Fragmente apokryph gewordener Evangelien in griechischer und lateinischer Sprache. Marburg Theologische Studien 59. Marburg: Elwert 2000 (pp. 164–69).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Das Fragment Oxyrhynchus V 840 (P.Oxy. V 840).” Pages 357–59 in <em>A</em><em>ntike christliche Apokryphen in deutscher Übersetzung.</em> Edited by Christoph Markschies and Jens Schröter. Band 1: <em>Evangelien und Verwandtes.</em> 12. Auflage, Mohr Siebeck, Tübingen 2012.</p>",
+      "line_text": "Nicklas, Tobias. “Das Fragment Oxyrhynchus V 840 (P.Oxy. V 840).” Pages 357–59 in Antike christliche Apokryphen in deutscher Übersetzung. Edited by Christoph Markschies and Jens Schröter. Band 1: Evangelien und Verwandtes. 12. Auflage, Mohr Siebeck, Tübingen 2012.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 1.1, pp. 105–106).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 1.1, pp. 105–106).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 436–38).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, pp. 436–38).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bonaccorsi, Giuseppe. <em>Vangeli Apocrifi</em>. Florence: Fiorentina, 1948. (pp. 37–39).</p>",
+      "line_text": "Bonaccorsi, Giuseppe. Vangeli Apocrifi. Florence: Fiorentina, 1948. (pp. 37–39).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. <em>Los Evangelios apócrifos</em>. Madrid: Biblioteca de autores cristianos, 1963 (pp. 80–82).</p>",
+      "line_text": "Santos Otero, Aurelio de. Los Evangelios apócrifos. Madrid: Biblioteca de autores cristianos, 1963 (pp. 80–82).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Baljon, Johannes M. S. “Een nieuw evangelie-fragment.” <em>ThSt</em> 26 (1908): 210–19.</p>",
+      "line_text": "Baljon, Johannes M. S. “Een nieuw evangelie-fragment.” ThSt 26 (1908): 210–19.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bardenhewer, Otto. <em>Geshichte der altchristlichen Literatur</em>. 5 vols. 2d ed. Freiburg im Breisgau: Herder, 1913–32 (vol. 1, p. 512).</p>",
+      "line_text": "Bardenhewer, Otto. Geshichte der altchristlichen Literatur. 5 vols. 2d ed. Freiburg im Breisgau: Herder, 1913–32 (vol. 1, p. 512).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bovon, François. “‘Fragment Oxyrhynchus 840,’ Fragment of a Lost Gospel, Witness of an Early Christian Controversy over Purity.” <em>JBL</em> 119 (2000): 705–28.</p>",
+      "line_text": "Bovon, François. “‘Fragment Oxyrhynchus 840,’ Fragment of a Lost Gospel, Witness of an Early Christian Controversy over Purity.” JBL 119 (2000): 705–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Brown, S. Kent. “Sayings of Jesus, Oxyrhynchus.” Pages 999–100 in volume 5 of <em>The Anchor Bible Dictionary</em>. Edited by D. N. Freedman. 6 vols. New York: Doubleday, 1992.</p>",
+      "line_text": "Brown, S. Kent. “Sayings of Jesus, Oxyrhynchus.” Pages 999–100 in volume 5 of The Anchor Bible Dictionary. Edited by D. N. Freedman. 6 vols. New York: Doubleday, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Buchinger, Harald, and Elisabeth Hernitscheck. “P.Oxy. 840 and the Rites of Christian Initiation: Dating a Piece of Alleged Anti-Sacramentalistic Polemics.” <em>Early Christianity</em> 5 (2014): 117–24.</p>",
+      "line_text": "Buchinger, Harald, and Elisabeth Hernitscheck. “P.Oxy. 840 and the Rites of Christian Initiation: Dating a Piece of Alleged Anti-Sacramentalistic Polemics.” Early Christianity 5 (2014): 117–24.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Büchler, Adolf. “The New Fragment of an Unknown Gospel.” <em>JQR</em> 20 (1908): 330–46.</p>",
+      "line_text": "Büchler, Adolf. “The New Fragment of an Unknown Gospel.” JQR 20 (1908): 330–46.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davies, W. W. “A Fragment of Another Gospel.” <em>Methodist Review </em>90 (1908): 815–18.</p>",
+      "line_text": "Davies, W. W. “A Fragment of Another Gospel.” Methodist Review 90 (1908): 815–18.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dunkerly, Roderic. “The Oxyrhynchus Gospel Fragments.” <em>HTR</em> 23 (1930): 19–37.</p>",
+      "line_text": "Dunkerly, Roderic. “The Oxyrhynchus Gospel Fragments.” HTR 23 (1930): 19–37.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Egasse, Corinne. “Le papyrus Oxyrhynque 840 et Jean 13: du manuscrit mutilé à l’eau purifante.” Pages 489–97 in <em>Reading Tomorrow. From Ancient Manuscripts to the Digital Era</em>. Edited by Claire Clivaz et al. Lausane: Presses Polytechniques et Universitairs Romandes, 2012.</p>",
+      "line_text": "Egasse, Corinne. “Le papyrus Oxyrhynque 840 et Jean 13: du manuscrit mutilé à l’eau purifante.” Pages 489–97 in Reading Tomorrow. From Ancient Manuscripts to the Digital Era. Edited by Claire Clivaz et al. Lausane: Presses Polytechniques et Universitairs Romandes, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_biblical-world_1908-02_31_2/page/142/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Goodspeed, Edgar J. “The New Gospel Fragment from Oxyrhynchus.” <em>The Biblical World</em> 31 (1908): 142–46.</p>",
+      "line_text": "Goodspeed, Edgar J. “The New Gospel Fragment from Oxyrhynchus.” The Biblical World 31 (1908): 142–46.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_biblical-world_1908-02_31_2/page/142/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Harnack, Adolf. “Ein neues Evangelienbruchstück.” <em>Preussische Jarhbücher</em> 131 (1908): 201–10. Reprinted as Pages 237–50 in <em>Aus Wissenschaft und Leben</em>. Adolf Harnack. Giessen: Töpelmann, 1911.</p>",
+      "line_text": "Harnack, Adolf. “Ein neues Evangelienbruchstück.” Preussische Jarhbücher 131 (1908): 201–10. Reprinted as Pages 237–50 in Aus Wissenschaft und Leben. Adolf Harnack. Giessen: Töpelmann, 1911.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jeremias, Joachim. “Der Zusammenstoß Jesu mit dem pharisäischen Oberpriester auf dem Tempelplatz. Zu Pap. Oxy. V 840.” <em>ConBNT</em> 2 (1947): 97–108. Reprinted in <em>Unbekannte Jesusworte</em>. Gutersloh: Bertelsmann, 1951. Translated as <em>Unknown Sayings of Jesus</em>. London: SPCK, 1964.</p>",
+      "line_text": "Jeremias, Joachim. “Der Zusammenstoß Jesu mit dem pharisäischen Oberpriester auf dem Tempelplatz. Zu Pap. Oxy. V 840.” ConBNT 2 (1947): 97–108. Reprinted in Unbekannte Jesusworte. Gutersloh: Bertelsmann, 1951. Translated as Unknown Sayings of Jesus. London: SPCK, 1964.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://repository.up.ac.za/bitstream/handle/2263/61185/Jonker_Early_2017.pdf?sequence=1\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jonker, Erastus. <em>Early Christianities and the Place of Papyrus Oxyrhynchus (P.Oxy.) 840</em>. Ph.D. diss., University of Praetoria, 2016.</p>",
+      "line_text": "Jonker, Erastus. Early Christianities and the Place of Papyrus Oxyrhynchus (P.Oxy.) 840. Ph.D. diss., University of Praetoria, 2016.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://repository.up.ac.za/bitstream/handle/2263/61185/Jonker_Early_2017.pdf?sequence=1"
+      ]
+    },
+    {
+      "line_html": "<p>Kraus, Thomas J. “P.Oxy. V 840–Amulett oder Miniaturkodex? Grundsätzliche und ergänzende Anmerkungen zu zwei Termini.” <em>ZAC</em> 8 (2004): 485–97. Republished as pages 13–24 in <em>Ad Fontes: Original Manuscripts and Their Significance for Studying Early Christianity</em>. Edited by Thomas J. Kraus. TENTS 3. Leiden: Brill, 2007.</p>",
+      "line_text": "Kraus, Thomas J. “P.Oxy. V 840–Amulett oder Miniaturkodex? Grundsätzliche und ergänzende Anmerkungen zu zwei Termini.” ZAC 8 (2004): 485–97. Republished as pages 13–24 in Ad Fontes: Original Manuscripts and Their Significance for Studying Early Christianity. Edited by Thomas J. Kraus. TENTS 3. Leiden: Brill, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Parchment or Papyrus?: Some Remarks about the Significance of Writing Material When Assessing Manuscripts.” Pages 13–24 in <em>Ad Fontes: Original Manuscripts and Their Significance for Studying Early Christianity</em>. Edited by Thomas J. Kraus. TENTS 3. Leiden: Brill, 2007. Originally published as “‘Pergament oder Papyrus?’: Ammerkungen zur Signifikanz des Beschreibstoffes bei der Behandlung von Manuskripten.” <em>NTS</em> 49 (2003): 425–32.</p>",
+      "line_text": "___________. “Parchment or Papyrus?: Some Remarks about the Significance of Writing Material When Assessing Manuscripts.” Pages 13–24 in Ad Fontes: Original Manuscripts and Their Significance for Studying Early Christianity. Edited by Thomas J. Kraus. TENTS 3. Leiden: Brill, 2007. Originally published as “‘Pergament oder Papyrus?’: Ammerkungen zur Signifikanz des Beschreibstoffes bei der Behandlung von Manuskripten.” NTS 49 (2003): 425–32.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kruger, Michael J. “Papyrus Oxyrhynchus 840.” Pages 157–70 in <em>The Non-canonical Gospels</em>. Edited by Paul Foster. London and New York: T&amp;T Clark, 2008.</p>",
+      "line_text": "Kruger, Michael J. “Papyrus Oxyrhynchus 840.” Pages 157–70 in The Non-canonical Gospels. Edited by Paul Foster. London and New York: T&amp;T Clark, 2008.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>The Gospel of the Savior: An Analysis of P.Oxy 840 and Its Place in the Gospel Traditions of Early Christianity</em>.  TENTS 1. Leiden: Brill, 2005.</p>",
+      "line_text": "___________. The Gospel of the Savior: An Analysis of P.Oxy 840 and Its Place in the Gospel Traditions of Early Christianity.  TENTS 1. Leiden: Brill, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “P. Oxy. 840: Amulet or Miniature Codex?” <em>JTS</em> 53 (2002): 81–94.</p>",
+      "line_text": "___________. “P. Oxy. 840: Amulet or Miniature Codex?” JTS 53 (2002): 81–94.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leitzmann, Hans. “Das neugefundene Evangelienfragment und seine Vorgänge.” <em>Beilage zur allgemeinen Zeitung</em> 31 (1908): 662–72.</p>",
+      "line_text": "Leitzmann, Hans. “Das neugefundene Evangelienfragment und seine Vorgänge.” Beilage zur allgemeinen Zeitung 31 (1908): 662–72.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marmorstein, A. “Einige Bemerkungen zum Evangelienfragment in Oxyrhynchus Papyri, vol. V. n. 840, 1907.” <em>ZNW</em> 15 (1914): 336–38.</p>",
+      "line_text": "Marmorstein, A. “Einige Bemerkungen zum Evangelienfragment in Oxyrhynchus Papyri, vol. V. n. 840, 1907.” ZNW 15 (1914): 336–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Gospel Fragments on Papyrus.” Pages 22–37 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 27–30).</p>",
+      "line_text": "Nicklas, Tobias. “Gospel Fragments on Papyrus.” Pages 22–37 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 27–30).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Critical Study: Michael J. Kruger, <em>The Gospel of the Savior. An Analysis of P.Oxy. 840 and its Place in the Gospel Traditions of Early Christianity</em> (TENT 1. Leiden: Brill, 2005).” <em>Apocrypha</em> 17 (2006): 203–10.</p>",
+      "line_text": "__________. “Critical Study: Michael J. Kruger, The Gospel of the Savior. An Analysis of P.Oxy. 840 and its Place in the Gospel Traditions of Early Christianity (TENT 1. Leiden: Brill, 2005).” Apocrypha 17 (2006): 203–10.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Porter, Stanley E. “Textual Criticism in the Light of Diverse Textual Evidence for the Greek New Testament: An Expanded Proposal.” Pages 325–30 in <em>New Testament Manuscripts: Their Texts and Their World</em>. Edited by Thomas J. Kraus and Tobias Nicklas. TENTS 2. Leiden: Brill, 2006.</p>",
+      "line_text": "Porter, Stanley E. “Textual Criticism in the Light of Diverse Textual Evidence for the Greek New Testament: An Expanded Proposal.” Pages 325–30 in New Testament Manuscripts: Their Texts and Their World. Edited by Thomas J. Kraus and Tobias Nicklas. TENTS 2. Leiden: Brill, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Preuschen, Erwin. “Das neue Evangelienfragment von Oxyrhynchos.” <em>ZNW</em> 9 (1908): 1–11.</p>",
+      "line_text": "Preuschen, Erwin. “Das neue Evangelienfragment von Oxyrhynchos.” ZNW 9 (1908): 1–11.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Riggenbach, Eduard. “Das Wort Jesu im Gespräch mit dem pharisäischen Hohenpriester nach dem Oxyrhynchus Fragment V Nr. 840.” <em>ZNW </em>25 (1926): 140–44.</p>",
+      "line_text": "Riggenbach, Eduard. “Das Wort Jesu im Gespräch mit dem pharisäischen Hohenpriester nach dem Oxyrhynchus Fragment V Nr. 840.” ZNW 25 (1926): 140–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Safrai, Ze’ev, and Chana Safrai. “Papyrus Oxyrhynchus 840.” Pages 255–80 in <em>Halakah in the Light of Epigraphy</em>. Edited by A. I. Baumgarten. Göttingen: Vandenhoeck, 2011.</p>",
+      "line_text": "Safrai, Ze’ev, and Chana Safrai. “Papyrus Oxyrhynchus 840.” Pages 255–80 in Halakah in the Light of Epigraphy. Edited by A. I. Baumgarten. Göttingen: Vandenhoeck, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schellberg, Pamela. “A Johannine Reading of Oxyrhynchus Papyrus 840.” Pages 176–191 in <em>Jewish and Christian Scripture as Artifact and Canon</em>. Edited by Craig Evans and H. Daniel Zacharias. London and New York: T &amp; T Clark, 2009.</p>",
+      "line_text": "Schellberg, Pamela. “A Johannine Reading of Oxyrhynchus Papyrus 840.” Pages 176–191 in Jewish and Christian Scripture as Artifact and Canon. Edited by Craig Evans and H. Daniel Zacharias. London and New York: T &amp; T Clark, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schürer, Emil. “Fragment of an Uncanonical Gospel from Oxyrhynchus.” <em>TLZ</em> 33 (1908): 170–72.</p>",
+      "line_text": "Schürer, Emil. “Fragment of an Uncanonical Gospel from Oxyrhynchus.” TLZ 33 (1908): 170–72.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schwartz, Daniel R. “‘Viewing Holy Utensils,’ P.Ox. V, 840.” <em>NTS</em> 32 (1986): 153–59.</p>",
+      "line_text": "Schwartz, Daniel R. “‘Viewing Holy Utensils,’ P.Ox. V, 840.” NTS 32 (1986): 153–59.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stewart-Sykes, Alistair. “Bathed in Living Waters: Papyrus Oxyrhynchus 840 and Christian Baptism Reconsidered.” <em>ZNW</em> 100 (2009): 278–86.</p>",
+      "line_text": "Stewart-Sykes, Alistair. “Bathed in Living Waters: Papyrus Oxyrhynchus 840 and Christian Baptism Reconsidered.” ZNW 100 (2009): 278–86.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Swete, Henry Barclay. <em>Two New Gospel Fragments. </em>Cambridge, UK: Deighton, 1908 (pp. 4–5). Also published as Henry Barclay Swete. <em>Zwei Neue Evangelienfragmente herausgegeben und erklärt</em>. Bonn: A Marcus and E. Weber, 1908.</p>",
+      "line_text": "Swete, Henry Barclay. Two New Gospel Fragments. Cambridge, UK: Deighton, 1908 (pp. 4–5). Also published as Henry Barclay Swete. Zwei Neue Evangelienfragmente herausgegeben und erklärt. Bonn: A Marcus and E. Weber, 1908.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Theissen, Gerd, and Annette Merz. <em>Der historische Jesus: Ein Lehrbuch</em>. Göttingen: Vandenhoeck &amp; Ruprecht, 1996.</p>",
+      "line_text": "Theissen, Gerd, and Annette Merz. Der historische Jesus: Ein Lehrbuch. Göttingen: Vandenhoeck &amp; Ruprecht, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tripp, David. “Meanings of the Foot-washing: John 13 and Oxyrhynchus Papyrus 840.” <em>ExpTim </em>103 (1992): 237–39.</p>",
+      "line_text": "Tripp, David. “Meanings of the Foot-washing: John 13 and Oxyrhynchus Papyrus 840.” ExpTim 103 (1992): 237–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wessely, Carl. <em>Le plus anciens monuments du christianisme écrits sur papyrus</em>. 2 vols. Paris: Firmin-Didot, 1924 (vol. 2, pp. 488–90).</p>",
+      "line_text": "Wessely, Carl. Le plus anciens monuments du christianisme écrits sur papyrus. 2 vols. Paris: Firmin-Didot, 1924 (vol. 2, pp. 488–90).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zahn, Theodor. “Neue Bruchstücke nichtkanonischer Evangelien.” <em>NKZ</em> 19 (1908): 371–86.</p>",
+      "line_text": "Zahn, Theodor. “Neue Bruchstücke nichtkanonischer Evangelien.” NKZ 19 (1908): 371–86.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zelyck, Lorne R. “Recontextualizing Papyrus Oxyrhynchus 840.” <em>Early Christianity</em> 5 (2014): 178–97.</p>",
+      "line_text": "Zelyck, Lorne R. “Recontextualizing Papyrus Oxyrhynchus 840.” Early Christianity 5 (2014): 178–97.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

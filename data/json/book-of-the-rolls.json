@@ -1,0 +1,858 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rolls/",
+  "nasscal_toc_title": "Book of the Rolls",
+  "filename": "book-of-the-rolls",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Bk. Rolls",
+  "alt_titles": [
+    "Apocalypse of Peter (Arabic), ",
+    "Ğalayān Buṭrus"
+  ],
+  "clavis_number": 950,
+  "category": "Apocalypses, Apocryphal Acts",
+  "compiler": "Barbara Roggema, Ruhr University Bochum",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Add. 306 (13th cent.)</p>",
+      "line_text": "Cambridge, University Library, Add. 306 (13th cent.)",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, Lit. 2 (Graf 19) (13th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, Lit. 2 (Graf 19) (13th cent.)",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, Theol. 114 (Graf 518) (1658)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, Theol. 114 (Graf 518) (1658)",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, 508, fols. 89<sup>v</sup><strong>–</strong>141<sup>v</sup> (ca. 9th cent.) ~ <a href=\"https://www.loc.gov/item/00279390167-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a>; <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1db957p\" target=\"_blank\" rel=\"noopener\">SINAI</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, 508, fols. 89v–141v (ca. 9th cent.) ~ LOC; SINAI",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.loc.gov/item/00279390167-ms/",
+        "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1db957p"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 76, fols. 2<sup>v</sup>–133<sup>v</sup> (1337)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 76, fols. 2v–133v (1337)",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 77, fols. 2<sup>v</sup>–71<sup>v</sup> (1665) ~ divided into 91 chapters; identical to Arabe 78 and 79</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 77, fols. 2v–71v (1665) ~ divided into 91 chapters; identical to Arabe 78 and 79",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 78, fols. 1<sup>r</sup>–185<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 78, fols. 1r–185v (14th cent.)",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 79, fols. 1<sup>r</sup>–305<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 79, fols. 1r–305v (15th cent.)",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 5015, fols. 1<sup>r</sup>–322<sup>v</sup> (15th cent.) ~ identical to Arabe 79; <a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k2299653/f73.item\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 5015, fols. 1r–322v (15th cent.) ~ identical to Arabe 79; CATALOG",
+      "language": ".1 Without chapter numbers",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/bpt6k2299653/f73.item"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, 243 (Sachau 57) (1660/1661) ~ Garšūnī with an introduction in Syriac</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, 243 (Sachau 57) (1660/1661) ~ Garšūnī with an introduction in Syriac",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, Theol. 150 (Graf 322) (1895)</p>",
+      "line_text": "Cairo, Coptic Patriarchate, Theol. 150 (Graf 322) (1895)",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Patriarchate, Theol. 115 (Graf 352) (1738) ~ divided into 91 chapters</p>",
+      "line_text": "Cairo, Coptic Patriarchate, Theol. 115 (Graf 352) (1738) ~ divided into 91 chapters",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Bodl. Ar. Chr. Uri 99 ~ divided into 89 chapters</p>",
+      "line_text": "Oxford, Bodleian Library, Bodl. Ar. Chr. Uri 99 ~ divided into 89 chapters",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Bodl. Ar. Nicoll 48 ~ <a href=\"https://archive.org/details/BibliothecaeBodleianaeCodicumManuscriP2F1_201406/page/n61/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a> ~ a copy of Uri 99</p>",
+      "line_text": "Oxford, Bodleian Library, Bodl. Ar. Nicoll 48 ~ CATALOG ~ a copy of Uri 99",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/BibliothecaeBodleianaeCodicumManuscriP2F1_201406/page/n61/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, syr. 63, fols. 1<sup>r</sup>–194<sup>r</sup> (16th cent.) ~ Garšūnī; divided into 89 or 90 chapters</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 63, fols. 1r–194r (16th cent.) ~ Garšūnī; divided into 89 or 90 chapters",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 232, fols. 347<sup>r</sup>–434<sup>r</sup> (17th cent.) ~ Garšūnī</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 232, fols. 347r–434r (17th cent.) ~ Garšūnī",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-159/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"ma-bullet\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 159, fols. 197f. (1622/1623) ~ La Spisa says 1628 and fols. 360v-443r ~ Garšūnī; divided into 90 chapters</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 159, fols. 197f. (1622/1623) ~ La Spisa says 1628 and fols. 360v-443r ~ Garšūnī; divided into 90 chapters",
+      "language": ".2. Divided into chapters; entitled Book of Revelations, or Book of the Perfection",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-159/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 441, fols. 1<sup>r</sup>–44<sup>r</sup>, 68<sup>r</sup>–124<sup>r</sup> (1781) ~ Garšūnī; (La Spiza says 1556 and fols. 1r–124r)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 441, fols. 1r–44r, 68r–124r (1781) ~ Garšūnī; (La Spiza says 1556 and fols. 1r–124r)",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Chr. Ar. 143 (14th cent.)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Chr. Ar. 143 (14th cent.)",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 70, fols. 27<sup>r</sup>–195<sup>r</sup> (ca. 1750) ~ Garšūnī; (La Spiza says fols. 1r–194r)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 70, fols. 27r–195r (ca. 1750) ~ Garšūnī; (La Spiza says fols. 1r–194r)",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 555, fols. 1<sup>r</sup>–198<sup>v</sup> (1754); Garšūnī ~ <a href=\"https://archive.org/details/MinganaCatalogueOfTheMinganaCollection.I/page/n521/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 555, fols. 1r–198v (1754); Garšūnī ~ CATALOG",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/MinganaCatalogueOfTheMinganaCollection.I/page/n521/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Chr. Ar. 60,  fols. 141<sup>v</sup>–147<sup>v</sup> (1771) ~ summary</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Chr. Ar. 60,  fols. 141v–147v (1771) ~ summary",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 165, fols. 1<sup>r</sup>–100<sup>v</sup> (1477) ~ <a href=\"https://archive.org/details/bub_gb_6nULIbKT1dsC/page/n429/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.ar.165\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 165, fols. 1r–100v (1477) ~ CATALOG; DigiVatLib",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_6nULIbKT1dsC/page/n429/mode/2up",
+        "https://digi.vatlib.it/view/MSS_Vat.ar.165"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 83, fols. 25–37 (15th cent.) ~ fragment of book 5 only (<a href=\"https://archive.org/details/bub_gb_6nULIbKT1dsC/page/n313/mode/2up\" target=\"_blank\" rel=\"noopener\">CATALOG</a>)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 83, fols. 25–37 (15th cent.) ~ fragment of book 5 only (CATALOG)",
+      "language": ".3 Divided into 8 parts; entitled Book of Benefits and Revelations, Book of Secrets",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_6nULIbKT1dsC/page/n313/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 214 (1872)</p>",
+      "line_text": "Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 214 (1872)",
+      "language": ".4.1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Syr. 242 (1556) ~ fragmentary</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, Syr. 242 (1556) ~ fragmentary",
+      "language": ".4.1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charfet, Syrian-Catholic Patriarchate, syr. 18/3 (1714)</p>",
+      "line_text": "Charfet, Syrian-Catholic Patriarchate, syr. 18/3 (1714)",
+      "language": ".4.1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 269 (12th/13th cent.) ~ <a href=\"https://www.loc.gov/item/0027938460A-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 269 (12th/13th cent.) ~ LOC",
+      "language": ".4.1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.loc.gov/item/0027938460A-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 441 (1196) ~ <a href=\"https://www.loc.gov/item/00279390982-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a>; <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1x93fkh\" target=\"_blank\" rel=\"noopener\">SINAI</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 441 (1196) ~ LOC; SINAI",
+      "language": ".4.1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.loc.gov/item/00279390982-ms/",
+        "https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz1x93fkh"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Dd. 10.10, fols. 319<sup>v</sup><strong>–</strong>324<sup>r</sup> (1561)</p>",
+      "line_text": "Cambridge, University Library, Dd. 10.10, fols. 319v–324r (1561)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Diyarbakir, Meryem Ana Syriac Orthodox Church, 146 (18th cent.)</p>",
+      "line_text": "Diyarbakir, Meryem Ana Syriac Orthodox Church, 146 (18th cent.)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 106, fols. 32<sup>v</sup><strong>–</strong>35<sup>r</sup> (1677)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 106, fols. 32v–35r (1677)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 138, fols. 172<sup>r</sup>–182<sup>r</sup> (ca. 1600) ~ beginning only</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 138, fols. 172r–182r (ca. 1600) ~ beginning only",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 225, fols. 63<sup>r</sup>–75<sup>r</sup> (1578)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 225, fols. 63r–75r (1578)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 369, fols. 30<sup>r</sup>–32<sup>r</sup> (ca. 1480)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 369, fols. 30r–32r (ca. 1480)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 411, fols. 17<sup>r</sup>–32<sup>v</sup> (1864)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 411, fols. 17r–32v (1864)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 446, fols. 84<sup>r</sup>–102<sup>v</sup> (1781)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 446, fols. 84r–102v (1781)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Karš. 7 (16th cent.)</p>",
+      "line_text": "London, British Library, Karš. 7 (16th cent.)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Bodl. Syr. 151, fols. 2<sup>r</sup>–131<sup>r</sup> (1555)</p>",
+      "line_text": "Oxford, Bodleian Library, Bodl. Syr. 151, fols. 2r–131r (1555)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 82<sup>r</sup>–93<sup>v</sup> (1440)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 82r–93v (1440)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional Manuscripts:</p>",
+      "line_text": "Additional Manuscripts:",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Syrian Orthodox Church. Archdiocese of Aleppo, 51 K, fols. 1–233 (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/134154\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Aleppo, Syrian Orthodox Church. Archdiocese of Aleppo, 51 K, fols. 1–233 (18th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/134154"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Syrian Orthodox Archdiocese of Aleppo, 62 M (19th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/134164\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Aleppo, Syrian Orthodox Archdiocese of Aleppo, 62 M (19th cent.) ~ HMML",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/134164"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge (Mass.), Harvard Houghton Library, Syr. 86</p>",
+      "line_text": "Cambridge (Mass.), Harvard Houghton Library, Syr. 86",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Dayr Za‘farān Monastery, 215, pp. 1–15 (17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/502920\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Mardin, Dayr Za‘farān Monastery, 215, pp. 1–15 (17th cent.) ~ HMML",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/502920"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Dayr Za‘farān Monastery, 73, pp. 267–308 (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/502917\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Mardin, Dayr Za‘farān Monastery, 73, pp. 267–308 (18th cent.) ~ HMML",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/502917"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 173, fols. 208<sup>r</sup>–285<sup>v</sup> (19th/20th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/503616\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 173, fols. 208r–285v (19th/20th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/503616"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 249, pp. 1–342 (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/137399\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 249, pp. 1–342 (18th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/137399"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 299, pp. 1–25 (17th/18th cent.),  ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/125642\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 299, pp. 1–25 (17th/18th cent.),  ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/125642"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 1052, pp. 1–152 (18th/19th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/504190\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 1052, pp. 1–152 (18th/19th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/504190"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Dominican Friars of Mosul, 788, fols. 50<sup>v</sup>–79<sup>r</sup> (18th/19th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/134962\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mosul, Dominican Friars of Mosul, 788, fols. 50v–79r (18th/19th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/134962"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Dominican Friars of Mosul, 742, fols. 100<sup>v</sup>–104<sup>v</sup> (16th/17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/134916\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mosul, Dominican Friars of Mosul, 742, fols. 100v–104v (16th/17th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/134916"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Mar Behnam, 392, fols. 1<sup>r</sup>–7<sup>r</sup> (17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/131690\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mosul, Mar Behnam, 392, fols. 1r–7r (17th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/131690"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Mar Behnam Monastery 402 (olim 44) (18<sup>th</sup> c.) ff. 184r-190r</p>",
+      "line_text": "Mosul, Mar Behnam Monastery 402 (olim 44) (18th c.) ff. 184r-190r",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Syrian Orthodox Archidiocese of Mosul, 193, fols. 4<sup>v</sup>–11<sup>v</sup> (17th/18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/501047\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mosul, Syrian Orthodox Archidiocese of Mosul, 193, fols. 4v–11v (17th/18th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/501047"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Syrian Orthodox Archidiocese of Mosul, 282, fols. 1<sup>r</sup>–428<sup>v</sup> (16th/17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/135134\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mosul, Syrian Orthodox Archidiocese of Mosul, 282, fols. 1r–428v (16th/17th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/135134"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mosul, Syrian Orthodox Archidiocese of Mosul, 299, pp. 208–285 (17th/18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/125642\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mosul, Syrian Orthodox Archidiocese of Mosul, 299, pp. 208–285 (17th/18th cent.) ~ IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/125642"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 68, fols. 58<sup>v</sup>–77<sup>r </sup>(1715)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 68, fols. 58v–77r (1715)",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arabe 5072, fols. 2<sup>r</sup>–10<sup>v</sup> (1339) ~ beginning only; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10031923h\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 5072, fols. 2r–10v (1339) ~ beginning only; IMAGES",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10031923h"
+      ]
+    },
+    {
+      "line_html": "<p>Battista, Antonio, and Bellarmino Bagatti, ed. and trans. <em>La Caverna dei Tesori: Testo arabo con traduzione italiana e commento</em>. Jerusalem: Franciscan Press, 1979 (reprint of the Arabic texts of Bezold and Gibson with Italian translation).</p>",
+      "line_text": "Battista, Antonio, and Bellarmino Bagatti, ed. and trans. La Caverna dei Tesori: Testo arabo con traduzione italiana e commento. Jerusalem: Franciscan Press, 1979 (reprint of the Arabic texts of Bezold and Gibson with Italian translation).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/orientalischest04bezogoog/page/n294/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bezold, Carl. “Das arabisch-athiopische Testamentum Adami.” Pages 893–912 in <em>Orientalische Studien Theodor Nöldeke zum siebzigsten Geburtstag</em>. Edited by Carl Bezold. 2 vols. Gieszen: A. Töpelmann, 1906.</p>",
+      "line_text": "Bezold, Carl. “Das arabisch-athiopische Testamentum Adami.” Pages 893–912 in Orientalische Studien Theodor Nöldeke zum siebzigsten Geburtstag. Edited by Carl Bezold. 2 vols. Gieszen: A. Töpelmann, 1906.",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/orientalischest04bezogoog/page/n294/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieschatzhhlea00bezouoft\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>___________. <em>Die Schatzhöhle.</em> 2 vols. Leipzig: Hinrichs. 1883–1888 (<em>Cave of Treasures</em> portion only).</p>",
+      "line_text": "___________. Die Schatzhöhle. 2 vols. Leipzig: Hinrichs. 1883–1888 (Cave of Treasures portion only).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/dieschatzhhlea00bezouoft"
+      ]
+    },
+    {
+      "line_html": "<p>Bratke, E. “Handschriftliche Über<span class=\"a\">lieferung des Petrus Apokalypse.” <em>ZWT</em></span><span class=\"a\"> 36.1 (1893): 454–93 (survey of manuscripts).</span></p>",
+      "line_text": "Bratke, E. “Handschriftliche Überlieferung des Petrus Apokalypse.” ZWT 36.1 (1893): 454–93 (survey of manuscripts).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphaarabic00gibsgoog/page/n15/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gibson, Margaret Dunlop. <em>Apocrypha Arabica</em>. Studia Sinaitica 8. London: C. J. Clay &amp; Sons, 1901 (partial edition of <em>Cave of Treasures</em> portion based on Sinai ar. 508, pp. 1–57; English translation, pp. 1–58; partial collation of Cambridge 306, pp. xx–xxxi).</p>",
+      "line_text": "Gibson, Margaret Dunlop. Apocrypha Arabica. Studia Sinaitica 8. London: C. J. Clay &amp; Sons, 1901 (partial edition of Cave of Treasures portion based on Sinai ar. 508, pp. 1–57; English translation, pp. 1–58; partial collation of Cambridge 306, pp. xx–xxxi).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphaarabic00gibsgoog/page/n15/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/GGrafGeschichte/graf_gcal.1/page/n323/mode/2up?\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (discussion, vol. 1, p. 283–92).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (discussion, vol. 1, p. 283–92).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/GGrafGeschichte/graf_gcal.1/page/n323/mode/2up?"
+      ]
+    },
+    {
+      "line_html": "<p>Lagarde, Paul de. <em>Mittheilungen</em>. 4 vols. Göttingen: Dieterichsche Sortimentsbuchhandlung, 1884–1891 (portions from BNF Arabe 76, vol. 4, pp. 6–16).</p>",
+      "line_text": "Lagarde, Paul de. Mittheilungen. 4 vols. Göttingen: Dieterichsche Sortimentsbuchhandlung, 1884–1891 (portions from BNF Arabe 76, vol. 4, pp. 6–16).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>La Spisa, Paolo. “À propos de l’Apocalypse de Pierre arabe ou Livre des Révélations (Kitāb al-Mağāl).” Pages 511–26 in <em>Linguistic, Oriental and Ethiopian Studies in Memory of Paolo Marrassini</em>. Edited by Alessandro Bausi, Alessandro Gori, and Gianfrancesco Lusini, Wiesbaden: Harrassowitz, 2014 (overview of manuscripts, pp. 515–19; discussion of Vat. ar. 165, pp. 520–24).</p>",
+      "line_text": "La Spisa, Paolo. “À propos de l’Apocalypse de Pierre arabe ou Livre des Révélations (Kitāb al-Mağāl).” Pages 511–26 in Linguistic, Oriental and Ethiopian Studies in Memory of Paolo Marrassini. Edited by Alessandro Bausi, Alessandro Gori, and Gianfrancesco Lusini, Wiesbaden: Harrassowitz, 2014 (overview of manuscripts, pp. 515–19; discussion of Vat. ar. 165, pp. 520–24).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/woodbrookestudie03theouoft/page/92/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “Apocalypse of Peter.” Pages 93–449 in <em>Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni</em>. Vol. 3. Edited by Alphonse Mingana.  Cambridge: Cambridge University Press, 1931 (photographs of Mingana, Syr. 70, pp. 153–208, 283–348, 408–49 [lacking 124<sup>v</sup>–145<sup>v </sup>and 151<sup>v</sup>–154<sup>v</sup>]; partial translation, pp. 100–52, 215–82, 356–407).</p>",
+      "line_text": "Mingana, Alphonse. “Apocalypse of Peter.” Pages 93–449 in Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni. Vol. 3. Edited by Alphonse Mingana.  Cambridge: Cambridge University Press, 1931 (photographs of Mingana, Syr. 70, pp. 153–208, 283–348, 408–49 [lacking 124v–145v and 151v–154v]; partial translation, pp. 100–52, 215–82, 356–407).",
+      "language": ".4.2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/woodbrookestudie03theouoft/page/92/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  London, British Library, Or. 751, fols. 2<sup>r</sup>–89<sup>v</sup> (1721–1730)</p>",
+      "line_text": "A  London, British Library, Or. 751, fols. 2r–89v (1721–1730)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  EMML 1141 (20th cent.)</p>",
+      "line_text": "E  EMML 1141 (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Tübingen, Universitätsbibliothek, M. aeth. 1 = M. a. IX 1 (19th cent.) ~ <a href=\"http://idb.ub.uni-tuebingen.de/opendigi/MaIX1?fbclid=IwAR1tTHC1tUgHeMMM25-Sdj1wGuiZEZKnzyOrBgwqLMJezKy4J22Pyv-EXww\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "T  Tübingen, Universitätsbibliothek, M. aeth. 1 = M. a. IX 1 (19th cent.) ~ IMAGES",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://idb.ub.uni-tuebingen.de/opendigi/MaIX1?fbclid=IwAR1tTHC1tUgHeMMM25-Sdj1wGuiZEZKnzyOrBgwqLMJezKy4J22Pyv-EXww"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  EMML 1843 (14th/15th cent.)</p>",
+      "line_text": "Z  EMML 1843 (14th/15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababā, Patriarchate Library and Museum, 007 Qalam. (1986/1987)</p>",
+      "line_text": "Addis Ababā, Patriarchate Library and Museum, 007 Qalam. (1986/1987)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 752, fols. 3<sup>r</sup>–102<sup>r</sup> (1721–1730)</p>",
+      "line_text": "London, British Library, Or. 752, fols. 3r–102r (1721–1730)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 753, fols. 1<sup>r</sup>–67<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 753, fols. 1r–67v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque Nationale de France, d<strong>’</strong>Abbadie 78, fols. 1–206 (1769) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10088507x/f5.item?fbclid=IwAR03OoKcuREQfKSVYKydtmxQed8dhmypKB7p1rtL3uHBAebjOcm_1Ossya0\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Paris, Bibliothèque Nationale de France, d’Abbadie 78, fols. 1–206 (1769) ~ IMAGES",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10088507x/f5.item?fbclid=IwAR03OoKcuREQfKSVYKydtmxQed8dhmypKB7p1rtL3uHBAebjOcm_1Ossya0"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alesandro. <em>Il Qalēmenṭos etiopico. La rivelazione di Pietro a Clemente. I libri 3–7.</em> Studi africanistici, Serie etiopica 2. Naples: Dipartimento di Studi e Ricerche su Africa e Paesi Arabi, Istituto Universitario Orientale, 1992 (includes list of 24 manuscripts, pp. 15–16; Italian translation of books 3–7 based on AETZ, pp. 45–178; photographs of manuscript A, pp. 191–248).</p>",
+      "line_text": "Bausi, Alesandro. Il Qalēmenṭos etiopico. La rivelazione di Pietro a Clemente. I libri 3–7. Studi africanistici, Serie etiopica 2. Naples: Dipartimento di Studi e Ricerche su Africa e Paesi Arabi, Istituto Universitario Orientale, 1992 (includes list of 24 manuscripts, pp. 15–16; Italian translation of books 3–7 based on AETZ, pp. 45–178; photographs of manuscript A, pp. 191–248).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/orientalischest04bezogoog/page/n294/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bezold, Carl. “Das arabisch-athiopische Testamentum Adami.” Pages 893–912 in <em>Orientalische Studien Theodor Nöldeke zum siebzigsten Geburtstag</em>. Edited by Carl Bezold. 2 vols. Gieszen: A. Töpelmann, 1906.</p>",
+      "line_text": "Bezold, Carl. “Das arabisch-athiopische Testamentum Adami.” Pages 893–912 in Orientalische Studien Theodor Nöldeke zum siebzigsten Geburtstag. Edited by Carl Bezold. 2 vols. Gieszen: A. Töpelmann, 1906.",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/orientalischest04bezogoog/page/n294/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Gabra Yoḥannes Gabra Māryām. <em>The Book of Clement in Ge’ez and Amharic.</em> Addis Ababa: n.p, 2008 (edition based on Addis Ababā, Patriarchate Library and Museum, 007).</p>",
+      "line_text": "Gabra Yoḥannes Gabra Māryām. The Book of Clement in Ge’ez and Amharic. Addis Ababa: n.p, 2008 (edition based on Addis Ababā, Patriarchate Library and Museum, 007).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphaarabic00gibsgoog/page/n15/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gibson, Margaret Dunlop. <em>Apocrypha Arabica</em>. Studia Sinaitica 8. London: C. J. Clay &amp; Sons, 1901 (edition based on Sinai ar. 508, pp.; English translation, pp. 1–58; partial collation of Cambridge 306, pp. xx–xxxi).</p>",
+      "line_text": "Gibson, Margaret Dunlop. Apocrypha Arabica. Studia Sinaitica 8. London: C. J. Clay &amp; Sons, 1901 (edition based on Sinai ar. 508, pp.; English translation, pp. 1–58; partial collation of Cambridge 306, pp. xx–xxxi).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphaarabic00gibsgoog/page/n15/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/woodbrookestudie03theouoft/page/92/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “Apocalypse of Peter.” Pages 93–449 in <em>Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni</em>. Vol. 3. Edited by Alphonse Mingana.  Cambridge: Cambridge University Press, 1931 (photographs of Mingana, Syr. 70, pp. 153–208, 283–348, 408–49; partial translation, pp. 100–52, 215–82, 356–407).</p>",
+      "line_text": "Mingana, Alphonse. “Apocalypse of Peter.” Pages 93–449 in Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni. Vol. 3. Edited by Alphonse Mingana.  Cambridge: Cambridge University Press, 1931 (photographs of Mingana, Syr. 70, pp. 153–208, 283–348, 408–49; partial translation, pp. 100–52, 215–82, 356–407).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/woodbrookestudie03theouoft/page/92/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Grébaut, Sylvain. <em>Littérature éthiopienne pseudo-clémentine. Le Qalêmentos. Version éthiopienne en sept livres traduite en français. Livres premier et deuxième.</em> Paris: Librairie A. Picard et Fils. Reprint of a series of articles published in <em>Revue de </em><em>l’Orient Chrétien:</em> 16 (1911): <a href=\"https://archive.org/details/revuedelorientch161911pari/page/72/mode/2up\" target=\"_blank\" rel=\"noopener\">72–84</a> (overview of contents, pp. 73–78; translation begins p. 78), <a href=\"https://archive.org/details/revuedelorientch161911pari/page/166/mode/2up\" target=\"_blank\" rel=\"noopener\">167–75</a>, <a href=\"https://archive.org/details/revuedelorientch161911pari/page/224/mode/2up\" target=\"_blank\" rel=\"noopener\">225–33</a>; 17 (1912): <a href=\"https://archive.org/details/revuedelorientch171912pari/page/16/mode/2up\" target=\"_blank\" rel=\"noopener\">16–31</a>, <a href=\"https://archive.org/details/revuedelorientch171912pari/page/132/mode/2up\" target=\"_blank\" rel=\"noopener\">133–44</a>, <a href=\"https://archive.org/details/revuedelorientch171912pari/page/n241/mode/2up\" target=\"_blank\" rel=\"noopener\">244–52</a>, <a href=\"https://archive.org/details/revuedelorientch171912pari/page/n337/mode/2up\" target=\"_blank\" rel=\"noopener\">337–46</a>; 18 (1913): <a href=\"https://archive.org/details/revuedelorientch181913pari/page/68/mode/2up\" target=\"_blank\" rel=\"noopener\">69–78</a>; 19 (1914): <a href=\"https://archive.org/details/revuedelorientch191914pari/page/324/mode/2up\" target=\"_blank\" rel=\"noopener\">324–30</a>; 20 (1915–1917): <a href=\"https://archive.org/details/revuedelorientch2019151917pari/page/32/mode/2up\" target=\"_blank\" rel=\"noopener\">33–37</a>, <a href=\"https://archive.org/details/revuedelorientch2019151917pari/page/424/mode/2up\" target=\"_blank\" rel=\"noopener\">424–30</a>; 21 (1918): <a href=\"https://archive.org/details/revuedelorientch2119181919pari/page/246/mode/2up\" target=\"_blank\" rel=\"noopener\">246–52</a>; 22 (1919): <a href=\"https://archive.org/details/revuedelorientch2219201921pari/page/22/mode/2up\" target=\"_blank\" rel=\"noopener\">22–28</a>, <a href=\"https://archive.org/details/revuedelorientch2219201921pari/page/112/mode/2up\" target=\"_blank\" rel=\"noopener\">113-17</a>, <a href=\"https://archive.org/details/revuedelorientch2219201921pari/page/394/mode/2up\" target=\"_blank\" rel=\"noopener\">395–400</a>; 26 (1927/28): <a href=\"https://archive.org/details/revuedelorientch2619271928pari/page/22/mode/2up\" target=\"_blank\" rel=\"noopener\">22–31</a> (books I–III only, based on BNF d<strong>’</strong>Abbadie 78).</p>",
+      "line_text": "Grébaut, Sylvain. Littérature éthiopienne pseudo-clémentine. Le Qalêmentos. Version éthiopienne en sept livres traduite en français. Livres premier et deuxième. Paris: Librairie A. Picard et Fils. Reprint of a series of articles published in Revue de l’Orient Chrétien: 16 (1911): 72–84 (overview of contents, pp. 73–78; translation begins p. 78), 167–75, 225–33; 17 (1912): 16–31, 133–44, 244–52, 337–46; 18 (1913): 69–78; 19 (1914): 324–30; 20 (1915–1917): 33–37, 424–30; 21 (1918): 246–52; 22 (1919): 22–28, 113-17, 395–400; 26 (1927/28): 22–31 (books I–III only, based on BNF d’Abbadie 78).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch161911pari/page/72/mode/2up",
+        "https://archive.org/details/revuedelorientch161911pari/page/166/mode/2up",
+        "https://archive.org/details/revuedelorientch161911pari/page/224/mode/2up",
+        "https://archive.org/details/revuedelorientch171912pari/page/16/mode/2up",
+        "https://archive.org/details/revuedelorientch171912pari/page/132/mode/2up",
+        "https://archive.org/details/revuedelorientch171912pari/page/n241/mode/2up",
+        "https://archive.org/details/revuedelorientch171912pari/page/n337/mode/2up",
+        "https://archive.org/details/revuedelorientch181913pari/page/68/mode/2up",
+        "https://archive.org/details/revuedelorientch191914pari/page/324/mode/2up",
+        "https://archive.org/details/revuedelorientch2019151917pari/page/32/mode/2up",
+        "https://archive.org/details/revuedelorientch2019151917pari/page/424/mode/2up",
+        "https://archive.org/details/revuedelorientch2119181919pari/page/246/mode/2up",
+        "https://archive.org/details/revuedelorientch2219201921pari/page/22/mode/2up",
+        "https://archive.org/details/revuedelorientch2219201921pari/page/112/mode/2up",
+        "https://archive.org/details/revuedelorientch2219201921pari/page/394/mode/2up",
+        "https://archive.org/details/revuedelorientch2619271928pari/page/22/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>___________. “Un passage démonologique du <em>Qalēmentos</em>.” <em>JA </em>211 (1927): 331–39.</p>",
+      "line_text": "___________. “Un passage démonologique du Qalēmentos.” JA 211 (1927): 331–39.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>___________. “Un passage eschatologique du <em>Qalēmentos</em>.” <em>Aethiops</em> 3 (1930): 21–23.</p>",
+      "line_text": "___________. “Un passage eschatologique du Qalēmentos.” Aethiops 3 (1930): 21–23.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Grébaut, Sylvain, and A. Roman. “Le livre V du <em>Qalēmentos</em>.” <em>Aethiops</em> 3 (1930): 39–41.</p>",
+      "line_text": "Grébaut, Sylvain, and A. Roman. “Le livre V du Qalēmentos.” Aethiops 3 (1930): 39–41.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bausi, Alesandro. <em>Il Qalēmenṭos etiopico. La rivelazione di Pietro a Clemente. I libri 3–7.</em> Studi africanistici, Serie etiopica 2. Naples: Dipartimento di Studi e Ricerche<br/>\nsu Africa e Paesi Arabi, Istituto Universitario Orientale, 1992 (partial translation based on London, British Library, Or. 751, EMML 1141, and Tübingen M. aeth. 1).</p>",
+      "line_text": "Bausi, Alesandro. Il Qalēmenṭos etiopico. La rivelazione di Pietro a Clemente. I libri 3–7. Studi africanistici, Serie etiopica 2. Naples: Dipartimento di Studi e Ricerche su Africa e Paesi Arabi, Istituto Universitario Orientale, 1992 (partial translation based on London, British Library, Or. 751, EMML 1141, and Tübingen M. aeth. 1).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Battista, Antonio, and Bellarmino Bagatti, ed. and trans. <em>La Caverna dei Tesori: Testo arabo con traduzione italiana e commento</em>. Jerusalem: Franciscan Press, 1979 (reprint of the Arabic texts of Bezold and Gibson with Italian translation).</p>",
+      "line_text": "Battista, Antonio, and Bellarmino Bagatti, ed. and trans. La Caverna dei Tesori: Testo arabo con traduzione italiana e commento. Jerusalem: Franciscan Press, 1979 (reprint of the Arabic texts of Bezold and Gibson with Italian translation).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Casado, Pilar González. <em>La cueva de los tesoros.</em> Madrid: Editorial Ciudad Neuva, 2004 (translation of Cave of Treasures portion only from Gibson’s edition of Sinai ar. 508, pp. 307–400).</p>",
+      "line_text": "Casado, Pilar González. La cueva de los tesoros. Madrid: Editorial Ciudad Neuva, 2004 (translation of Cave of Treasures portion only from Gibson’s edition of Sinai ar. 508, pp. 307–400).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/DiePetrusUndPaulusacten/page/n53/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Baumstark, Anton. <em>Die Petrus- und Paulusacten in der literarischen Überlieferung der syrischen Kirche</em>. Leipzig: Harrassowitz, 1902 (pp. 48–51).</p>",
+      "line_text": "Baumstark, Anton. Die Petrus- und Paulusacten in der literarischen Überlieferung der syrischen Kirche. Leipzig: Harrassowitz, 1902 (pp. 48–51).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/DiePetrusUndPaulusacten/page/n53/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “The Ethiopic Book of Clement: The Case of a Recent Ethiopian Edition and a Few Additional Remarks.”  Pages 221–37 in <em>Studies in Ethiopian Languages, Literature, and History: Festschrift for Getatchew Haile Presented by his Friends and Colleagues.</em> Edited by Adam Carter McCollum. Wiesbaden: Harrassowitz, 2017.</p>",
+      "line_text": "Bausi, Alessandro. “The Ethiopic Book of Clement: The Case of a Recent Ethiopian Edition and a Few Additional Remarks.”  Pages 221–37 in Studies in Ethiopian Languages, Literature, and History: Festschrift for Getatchew Haile Presented by his Friends and Colleagues. Edited by Adam Carter McCollum. Wiesbaden: Harrassowitz, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/23784/78_%5b9783110225631%20-%20Manuscript%20Cultures%20Mapping%20the%20Field%5d%20Writing.pdf?sequence=1&amp;isAllowed=y\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>___________. “Writing, Copying, Translating: Ethiopia as a Manuscript Culture.” Pages 37–76 in <em>Manuscript Cultures: Mapping the Field</em>. Edited by Jörg B. Quenzer, Dmity Bondarev, and Jan-Ulrich Sobisch. Studies in Manuscript Cultures 1. Berlin: De Gruyter, 2014 (pp. 57–60).</p>",
+      "line_text": "___________. “Writing, Copying, Translating: Ethiopia as a Manuscript Culture.” Pages 37–76 in Manuscript Cultures: Mapping the Field. Edited by Jörg B. Quenzer, Dmity Bondarev, and Jan-Ulrich Sobisch. Studies in Manuscript Cultures 1. Berlin: De Gruyter, 2014 (pp. 57–60).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/23784/78_%5b9783110225631%20-%20Manuscript%20Cultures%20Mapping%20the%20Field%5d%20Writing.pdf?sequence=1&isAllowed=y"
+      ]
+    },
+    {
+      "line_html": "<p>___________. “The Manuscript Tradition of the Ethiopic <em>Qalēmenṭos</em>. A Short Note.” Pages 47–57 in <em>Wälättä Yohanna: Ethiopian Studies in Honour of Joanna Mantel-Niećko on the Occasion of the 50th Year of Her Work at the Institute of Oriental Studies, Warsaw University.</em> Edited by Witold Witakowski and L. Łykowska. Rocznik Orientalistyczny 59/1. Warszawa: Elipsa, 2006.</p>",
+      "line_text": "___________. “The Manuscript Tradition of the Ethiopic Qalēmenṭos. A Short Note.” Pages 47–57 in Wälättä Yohanna: Ethiopian Studies in Honour of Joanna Mantel-Niećko on the Occasion of the 50th Year of Her Work at the Institute of Oriental Studies, Warsaw University. Edited by Witold Witakowski and L. Łykowska. Rocznik Orientalistyczny 59/1. Warszawa: Elipsa, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “San Clemente e le tradizioni clementine nella letteratura etiopica canonico-liturgica.” Pages 13–55 in <em>Studi su Clemente romano: Atti degli Incontri di Roma. 29 marzo e 22 novembre 2001.</em> Edited by P. Luisier. OCA 268. Rome: Pontificio Istituto Orientale, 2003 (see pp. 18–21).</p>",
+      "line_text": "___________. “San Clemente e le tradizioni clementine nella letteratura etiopica canonico-liturgica.” Pages 13–55 in Studi su Clemente romano: Atti degli Incontri di Roma. 29 marzo e 22 novembre 2001. Edited by P. Luisier. OCA 268. Rome: Pontificio Istituto Orientale, 2003 (see pp. 18–21).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Alcune considerazioni dul ‘Sēnodos’ etiopico.” <em>Rassegna di Studi Etiopoci</em> 36 (1990): 5–73 (see pp. 63–64).</p>",
+      "line_text": "___________. “Alcune considerazioni dul ‘Sēnodos’ etiopico.” Rassegna di Studi Etiopoci 36 (1990): 5–73 (see pp. 63–64).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “Presenze clementine nella letteratura etiopica.” <em>SCO</em> 40 (1990): 289–316.</p>",
+      "line_text": "___________. “Presenze clementine nella letteratura etiopica.” SCO 40 (1990): 289–316.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Buchholz, Dennis D. <em>Your Eyes Will Be Opened: A Study of the Greek (Ethiopic) Apocalypse of Peter</em>. SBLDS 97. Atlanta: Scholars, 1988 (see pp. 10–16).</p>",
+      "line_text": "Buchholz, Dennis D. Your Eyes Will Be Opened: A Study of the Greek (Ethiopic) Apocalypse of Peter. SBLDS 97. Atlanta: Scholars, 1988 (see pp. 10–16).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cowley, Roger W. <em>Ethiopian Biblical Interpretation. Study in Exegetical Tradition and Hermeneutics.</em> University of Cambridge Oriental Publications 38. Cambridge: Cambridge University Press, 1988.</p>",
+      "line_text": "Cowley, Roger W. Ethiopian Biblical Interpretation. Study in Exegetical Tradition and Hermeneutics. University of Cambridge Oriental Publications 38. Cambridge: Cambridge University Press, 1988.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Identification of the Ethiopian Octateuch of Clement and Its Relationship to the Other Christian Literature.” <em><span class=\"aCOpRe\">Ostkirchliche Studien</span></em> 27 (1978): 37–45.</p>",
+      "line_text": "___________. “The Identification of the Ethiopian Octateuch of Clement and Its Relationship to the Other Christian Literature.” Ostkirchliche Studien 27 (1978): 37–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dillmann, August. “Bericht über das äthiopische Buch Clementinischer Schriften.” <em>NAWG</em> 17–19 (1858): 185–226.</p>",
+      "line_text": "Dillmann, August. “Bericht über das äthiopische Buch Clementinischer Schriften.” NAWG 17–19 (1858): 185–226.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Duensing, Hugo. <span class=\"a\">“</span>Ein Stücke der urchristlichen Petrus-Apokalypse enthaldender Traktat der äthiopischen pseudoklementinischen Literatur.” <em>ZNW</em> 14 (1913): 65–78.</p>",
+      "line_text": "Duensing, Hugo. “Ein Stücke der urchristlichen Petrus-Apokalypse enthaldender Traktat der äthiopischen pseudoklementinischen Literatur.” ZNW 14 (1913): 65–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/GGrafGeschichte/graf_gcal.1/page/n323/mode/2up?view=theater\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (vol. 1, pp. 283–92).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (vol. 1, pp. 283–92).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/GGrafGeschichte/graf_gcal.1/page/n323/mode/2up?view=theater"
+      ]
+    },
+    {
+      "line_html": "<p>Grypeou, Emmanouela. “Kitāb al-majāll; Jalayān Buṭrus.” Pages 632–37 in <em>Christian-Muslim Relations 600–1500: A Bibliographical History.</em> Edited by David Thomas and Barbara Roggema. Leiden: Brill, 2012.</p>",
+      "line_text": "Grypeou, Emmanouela. “Kitāb al-majāll; Jalayān Buṭrus.” Pages 632–37 in Christian-Muslim Relations 600–1500: A Bibliographical History. Edited by David Thomas and Barbara Roggema. Leiden: Brill, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “The Re-Written Bible in Arabic: The Paradise Story and its Exegesis in the Arabic Apocalypse of Peter.” Pages 113–30 in <em>The Bible in Arab Christianity.</em> Edited by David Thomas. History of Muslim-Christian Relations 6. Leiden: Brill, 2007.</p>",
+      "line_text": "___________. “The Re-Written Bible in Arabic: The Paradise Story and its Exegesis in the Arabic Apocalypse of Peter.” Pages 113–30 in The Bible in Arab Christianity. Edited by David Thomas. History of Muslim-Christian Relations 6. Leiden: Brill, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hammerschmidt, Ernst. “Das Pseudo-apostolisches Schrifttum in äthiopischer Überlieferung.” <em>JSS</em> 9 (1964): 114–21.</p>",
+      "line_text": "Hammerschmidt, Ernst. “Das Pseudo-apostolisches Schrifttum in äthiopischer Überlieferung.” JSS 9 (1964): 114–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hoyland, Robert G. <em>Seeing Islam as Others Saw It. A Survey and Evaluation of Christian, Jewish and Zoroastrian Writings on Early Islam. </em>Studies in Late Antiquity and Early Islam 13. Princeton: Darwin Press, 1997 (pp. 291–94).</p>",
+      "line_text": "Hoyland, Robert G. Seeing Islam as Others Saw It. A Survey and Evaluation of Christian, Jewish and Zoroastrian Writings on Early Islam. Studies in Late Antiquity and Early Islam 13. Princeton: Darwin Press, 1997 (pp. 291–94).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>James, M. R. “Notes and Studies: A New Text of the Apocalypse of Peter.” <em>JTS </em>12 (1910): 36–54.</p>",
+      "line_text": "James, M. R. “Notes and Studies: A New Text of the Apocalypse of Peter.” JTS 12 (1910): 36–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Le Boulluec, Alain. “La doctrine du vrai Prophète dans les écrits pseudo-clémentins.” Pages 139–62 in <em>Shiʿi Esotericism: Its Roots and Developments.</em> Edited by Amir-Moezzi, De Cillis, De Smet, Mir-Kasimov, Turnhout: Brepols, 2016.</p>",
+      "line_text": "Le Boulluec, Alain. “La doctrine du vrai Prophète dans les écrits pseudo-clémentins.” Pages 139–62 in Shiʿi Esotericism: Its Roots and Developments. Edited by Amir-Moezzi, De Cillis, De Smet, Mir-Kasimov, Turnhout: Brepols, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marrassini, Paolo. “Peter, Apocalypse of.” Pages 135–37 in vol. 4 of <em>Encyclopedia Aethiopica</em>. Edited by S. Uhlig with Alessandro Bausi. Wiesbaden: Harrassowitz, 2010.</p>",
+      "line_text": "Marrassini, Paolo. “Peter, Apocalypse of.” Pages 135–37 in vol. 4 of Encyclopedia Aethiopica. Edited by S. Uhlig with Alessandro Bausi. Wiesbaden: Harrassowitz, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. “L’apocalisse di Pietro.” Pages 171–232 in <em>Etiopia e oltre. Studi in onore di Lanfranco Ricci.</em> Edited by Yaqob Beyene, R. Fattovich, P. Marrassini, and A. Triulzi. Studi Africanistici Serie Etiopica 1. Naples: Istituto Universitario – Dipartimento di Studi e Ricerche su Africa e Paesi Arabi, 1994.</p>",
+      "line_text": "___________. “L’apocalisse di Pietro.” Pages 171–232 in Etiopia e oltre. Studi in onore di Lanfranco Ricci. Edited by Yaqob Beyene, R. Fattovich, P. Marrassini, and A. Triulzi. Studi Africanistici Serie Etiopica 1. Naples: Istituto Universitario – Dipartimento di Studi e Ricerche su Africa e Paesi Arabi, 1994.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mir-Kasimov, Orkhan. “Jesus as Eschatological Saviour in Islam: An Example of the ‘Positive’ Apologetic Interpretation of the Christian Apocalyptic Texts in an Islamic Messianic Milieu.” <em>Intellectual History of the Islamicate World</em> 6.3 (2018): 332–58.</p>",
+      "line_text": "Mir-Kasimov, Orkhan. “Jesus as Eschatological Saviour in Islam: An Example of the ‘Positive’ Apologetic Interpretation of the Christian Apocalyptic Texts in an Islamic Messianic Milieu.” Intellectual History of the Islamicate World 6.3 (2018): 332–58.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>___________. <em>Christian Apocalyptic Texts in Islamic Messianic Discourse: The ‘Christian Chapter’ of the Jāvidān-nāma-yi kabīr by Faḍl Allāh Astarābādī (d. 796/1394).</em> Leiden: Brill, 2016.</p>",
+      "line_text": "___________. Christian Apocalyptic Texts in Islamic Messianic Discourse: The ‘Christian Chapter’ of the Jāvidān-nāma-yi kabīr by Faḍl Allāh Astarābādī (d. 796/1394). Leiden: Brill, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedet03vaca/page/108/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, F. “Clementins (Apocryphes) II. L’Apocalypse de Pierre ou Clément.” Pages 216–19 in vol. 3 of <em>Dictionnaire de Théologie Catholiqu</em>e. 15 vols. Paris: Letouzey et Ané, 1906–1908.</p>",
+      "line_text": "Nau, F. “Clementins (Apocryphes) II. L’Apocalypse de Pierre ou Clément.” Pages 216–19 in vol. 3 of Dictionnaire de Théologie Catholique. 15 vols. Paris: Letouzey et Ané, 1906–1908.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedet03vaca/page/108/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Proverbio, D. V., and G. Fiaccadori. “Un nuovo testimone etiopico della Rivelazione di Pietro a Clemente: il ms. 121 del Monumento Nazionale di Casamari (Veroli).” <em>RANL</em>, ser. 9, 15/4 (2004): 665–93.</p>",
+      "line_text": "Proverbio, D. V., and G. Fiaccadori. “Un nuovo testimone etiopico della Rivelazione di Pietro a Clemente: il ms. 121 del Monumento Nazionale di Casamari (Veroli).” RANL, ser. 9, 15/4 (2004): 665–93.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Roggema, Barbara. “Biblical Exegesis and Interreligious Polemics in the Arabic Apocalypse of Peter—The Book of the Rolls.” Pages 131–50 in <em>The Bible in Arab Christianity.</em> Edited by David Thomas. History of Muslim-Christian Relations 6. Leiden: Brill, 2007.</p>",
+      "line_text": "Roggema, Barbara. “Biblical Exegesis and Interreligious Polemics in the Arabic Apocalypse of Peter—The Book of the Rolls.” Pages 131–50 in The Bible in Arab Christianity. Edited by David Thomas. History of Muslim-Christian Relations 6. Leiden: Brill, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rossini, C. Conti. “Il libro dello Pseudo-Clemente et la crociata di Damietta.” <em>Rivista degli Studi Orientali</em> 9 (1921–23): 32–35.</p>",
+      "line_text": "Rossini, C. Conti. “Il libro dello Pseudo-Clemente et la crociata di Damietta.” Rivista degli Studi Orientali 9 (1921–23): 32–35.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

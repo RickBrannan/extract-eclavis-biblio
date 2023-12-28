@@ -1,0 +1,80 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/book-of-the-rooster/",
+  "nasscal_toc_title": "Book of the Rooster",
+  "filename": "book-of-the-rooster",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Bk. Rooster",
+  "alt_titles": [
+    "Book of the Cock"
+  ],
+  "clavis_number": 761,
+  "category": "Passion Narratives",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Patriarchate Library, EMML 680, fols. 139<sup>r</sup>–143<sup>r</sup> (ca. 1959–1970)</p>",
+      "line_text": "Addis Ababa, Patriarchate Library, EMML 680, fols. 139r–143r (ca. 1959–1970)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Nativity, EMML 411, fols. 141<sup>r</sup>–144<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Addis Ababa, Church of the Nativity, EMML 411, fols. 141r–144v (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Trinity Church, EMML 857, fols. 145<sup>r</sup>–158<sup>r</sup> (1958)</p>",
+      "line_text": "Addis Ababa, Trinity Church, EMML 857, fols. 145r–158r (1958)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>O Máille, Tomás. “Críst rocrochad.” <em>Ériu</em> 3 (1907): 194–99.</p>",
+      "line_text": "O Máille, Tomás. “Críst rocrochad.” Ériu 3 (1907): 194–99.",
+      "language": "Middle Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Napier, Arthur S. <em>History of the Holy Rood-tree.</em> EETS, o.s. 103. London: Oxford University Press, 1894 (pp. 68–70).</p>",
+      "line_text": "Napier, Arthur S. History of the Holy Rood-tree. EETS, o.s. 103. London: Oxford University Press, 1894 (pp. 68–70).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Piovanelli, Pierluigi. “Livre du Coq.” Pages 137–203 in volume 2 of <em>Écrits apocryphes chrétiens</em>. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",
+      "line_text": "Piovanelli, Pierluigi. “Livre du Coq.” Pages 137–203 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>R. W. Cowley, “The So-called “Ethiopic <em>Book of the Cock</em>”—Part of an Apocryphal passion Gospel, <em>The Homily and Teaching of our Fathers the Holy Apostles</em>,” <em>Journal of the Royal Asiatic Society</em> (1985), 16-22</p>",
+      "line_text": "R. W. Cowley, “The So-called “Ethiopic Book of the Cock”—Part of an Apocryphal passion Gospel, The Homily and Teaching of our Fathers the Holy Apostles,” Journal of the Royal Asiatic Society (1985), 16-22",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leydon, Christopher. “Judas, his Sister, and the Miraculous Cock in the Middle Irish Poem <em>Críst ro crochadh.</em>” <em>Proceedings of the Harvard Celtic Colloquium</em> 28 (2008): 152–68.</p>",
+      "line_text": "Leydon, Christopher. “Judas, his Sister, and the Miraculous Cock in the Middle Irish Poem Críst ro crochadh.” Proceedings of the Harvard Celtic Colloquium 28 (2008): 152–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>P. Piovanelli, “Exploring the Ethiopic <em>Book of the Cock</em>, An Apocryphal Passion Gospel from late Antiquity,” <em>HTR</em> 96 (2003): 427-454.</p>",
+      "line_text": "P. Piovanelli, “Exploring the Ethiopic Book of the Cock, An Apocryphal Passion Gospel from late Antiquity,” HTR 96 (2003): 427-454.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

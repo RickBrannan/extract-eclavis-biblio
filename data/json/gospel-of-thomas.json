@@ -1,0 +1,1922 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-thomas/",
+  "nasscal_toc_title": "Gospel of Thomas",
+  "filename": "gospel-of-thomas",
+  "latin_title": "Euangelium Thomae",
+  "abbrev": "Gos. Thom. ",
+  "clavis_number": 682,
+  "category": "Ministry Gospels",
+  "compiler": "Christopher W. Skinner, Loyola University Chicago",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>___________. <em>Nag Hammadi Bibliography: 1995–2006.</em> Nag Hammadi and Manichean Studies 65. Leiden: Brill, 2009.</p>",
+      "line_text": "___________. Nag Hammadi Bibliography: 1995–2006. Nag Hammadi and Manichean Studies 65. Leiden: Brill, 2009.",
+      "language": "English",
+      "entry_type": "Commentaries"
+    },
+    {
+      "line_html": "<p>Sellew, Melissa (née Philip) Harl. “The Gospel of Thomas: Prospects for Future Research.” Pages 327–46 <em>in The Nag Hammadi Library After Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration</em>. Edited by John D. Turner and Anne McGuire. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.</p>",
+      "line_text": "Sellew, Melissa (née Philip) Harl. “The Gospel of Thomas: Prospects for Future Research.” Pages 327–46 in The Nag Hammadi Library After Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration. Edited by John D. Turner and Anne McGuire. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.",
+      "language": "English",
+      "entry_type": "Commentaries"
+    },
+    {
+      "line_html": "<p>Skinner, Christopher W. <em>What Are They Saying About the Gospel of Thomas?</em> Mahwah, NJ: Paulist, 2012.</p>",
+      "line_text": "Skinner, Christopher W. What Are They Saying About the Gospel of Thomas? Mahwah, NJ: Paulist, 2012.",
+      "language": "English",
+      "entry_type": "Commentaries"
+    },
+    {
+      "line_html": "<p>Annese, Andrea. <em>Il Vangelo di Tommaso: Introduzione storico-critica.</em> Rome: Carocci, 2019.</p>",
+      "line_text": "Annese, Andrea. Il Vangelo di Tommaso: Introduzione storico-critica. Rome: Carocci, 2019.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Arnal, William E. “How the Gospel of Thomas Works.” Pages 261–80 in <em>Scribal Practices and Social Structures among Jesus Adherents: Essays in Honour of John S. Kloppenborg</em>. Edited by William E. Arnal, Richard S. Ascough, Robert A. Derrenbacker, and Philip A. Harland. Leuven: Peeters, 2016.</p>",
+      "line_text": "Arnal, William E. “How the Gospel of Thomas Works.” Pages 261–80 in Scribal Practices and Social Structures among Jesus Adherents: Essays in Honour of John S. Kloppenborg. Edited by William E. Arnal, Richard S. Ascough, Robert A. Derrenbacker, and Philip A. Harland. Leuven: Peeters, 2016.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Baarda, Tjitze. “The Gospel of Thomas.” <em>Proceedings of the Irish Biblical Association</em> 26 (2003): 46–65.</p>",
+      "line_text": "Baarda, Tjitze. “The Gospel of Thomas.” Proceedings of the Irish Biblical Association 26 (2003): 46–65.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>DeConick, April. D. “The Gospel of Thomas.” <em>ExpT</em> 118 (2007): 469–79.</p>",
+      "line_text": "DeConick, April. D. “The Gospel of Thomas.” ExpT 118 (2007): 469–79.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>___________. “The Gospel of Thomas.” Pages 13–29 in <em>The Non-Canonical Gospels</em>. Edited by Paul Foster. T&amp;T Clark Biblical Studies. London: T&amp;T Clark, 2008.</p>",
+      "line_text": "___________. “The Gospel of Thomas.” Pages 13–29 in The Non-Canonical Gospels. Edited by Paul Foster. T&amp;T Clark Biblical Studies. London: T&amp;T Clark, 2008.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>___________. “What’s Up with the Gospel of Thomas?” <em>BAR </em>36 (2010): 28, 85.</p>",
+      "line_text": "___________. “What’s Up with the Gospel of Thomas?” BAR 36 (2010): 28, 85.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>___________. <em>Recovering the Original Gospel of Thomas: A History of the Gospel and Its Growth</em>. LNTS 286. London: T&amp;T Clark, 2005.</p>",
+      "line_text": "___________. Recovering the Original Gospel of Thomas: A History of the Gospel and Its Growth. LNTS 286. London: T&amp;T Clark, 2005.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Frey, Jörg, Enno Edzard Popkes, and Jens Schröter. <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie</em>. BZBW 157. Berlin: Walter de Gruyter, 2008.</p>",
+      "line_text": "Frey, Jörg, Enno Edzard Popkes, and Jens Schröter. Das Thomasevangelium: Entstehung, Rezeption, Theologie. BZBW 157. Berlin: Walter de Gruyter, 2008.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “The Gospel of Thomas: Jesus Said What?” <em>BAR</em> 41 (2015): 50–56, 69.</p>",
+      "line_text": "Gathercole, Simon J. “The Gospel of Thomas: Jesus Said What?” BAR 41 (2015): 50–56, 69.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Koester, Helmut and Stephen J. Patterson<em>. </em>Pages 75–124 in<em> Ancient Christian Gospels: Their History and Development</em>. Philadelphia: Trinity Press International, 1991.</p>",
+      "line_text": "Koester, Helmut and Stephen J. Patterson. Pages 75–124 in Ancient Christian Gospels: Their History and Development. Philadelphia: Trinity Press International, 1991.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. <em>Secret Gospels: Essays on Thomas and the Secret Gospel of Mark</em>. Harrisburg, PA: Trinity Press International, 2003.</p>",
+      "line_text": "Meyer, Marvin W. Secret Gospels: Essays on Thomas and the Secret Gospel of Mark. Harrisburg, PA: Trinity Press International, 2003.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. “Евангелие от Фомы. Evangelium secundum Thomam. Предисловие, перевод с коптского и древнегреческого, комментарии” [<em>The Gospel of Thomas: A Translation from Coptic and Greek with Introduction and Notes</em>]. Pages 423–48 in vol. 2 of <em>Scripta antiqua. Ancient History, Philology, Arts and Material Culture.</em> Moscow: Sobranie, 2012.</p>",
+      "line_text": "Miroshnikov, Ivan. “Евангелие от Фомы. Evangelium secundum Thomam. Предисловие, перевод с коптского и древнегреческого, комментарии” [The Gospel of Thomas: A Translation from Coptic and Greek with Introduction and Notes]. Pages 423–48 in vol. 2 of Scripta antiqua. Ancient History, Philology, Arts and Material Culture. Moscow: Sobranie, 2012.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. <em>The Gospel of Thomas and Christian Origins: Essays on the Fifth Gospel</em>. Nag Hammadi and Manichaean Studies 84. Leiden: Brill, 2013.</p>",
+      "line_text": "Patterson, Stephen J. The Gospel of Thomas and Christian Origins: Essays on the Fifth Gospel. Nag Hammadi and Manichaean Studies 84. Leiden: Brill, 2013.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>___________. <em>The Gospel of Thomas and Jesus</em>. Sonoma, CA: Polebridge, 1993.</p>",
+      "line_text": "___________. The Gospel of Thomas and Jesus. Sonoma, CA: Polebridge, 1993.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J., James M. Robinson, and Hans-Gebhard Bethge, <em>The Fifth Gospel: The Gospel of Thomas Comes of Age</em>. Harrisburg, PA: Trinity Press International, 1998.</p>",
+      "line_text": "Patterson, Stephen J., James M. Robinson, and Hans-Gebhard Bethge, The Fifth Gospel: The Gospel of Thomas Comes of Age. Harrisburg, PA: Trinity Press International, 1998.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Perrin, Nicholas. “Thomas: The Fifth Gospel?” <em>JETS</em> 49 (2006): 67–80.</p>",
+      "line_text": "Perrin, Nicholas. “Thomas: The Fifth Gospel?” JETS 49 (2006): 67–80.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>___________. <em>Thomas: The Other Gospel</em>. Louisville: Westminster John Knox, 2007.</p>",
+      "line_text": "___________. Thomas: The Other Gospel. Louisville: Westminster John Knox, 2007.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Summers, Ray. <em>The Secret Sayings of the Living Jesus: Studies in the Coptic Gospel According to Thomas</em>. Waco, TX: Word, 1968.</p>",
+      "line_text": "Summers, Ray. The Secret Sayings of the Living Jesus: Studies in the Coptic Gospel According to Thomas. Waco, TX: Word, 1968.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Turner, John D. and Anne McGuire. <em>The Nag Hammadi Library after Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration</em>. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.</p>",
+      "line_text": "Turner, John D. and Anne McGuire. The Nag Hammadi Library after Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Uro, Risto (ed). <em>Thomas at the Crossroads: Essays on the Gospel of Thomas</em>. SNTW. Edinburgh: T&amp;T Clark, 1998.</p>",
+      "line_text": "Uro, Risto (ed). Thomas at the Crossroads: Essays on the Gospel of Thomas. SNTW. Edinburgh: T&amp;T Clark, 1998.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Wilson, R. McL. “The Gospel of Thomas Reconsidered.” Pages 331–36 in <em>Divitiae Aegypti Koptologische und verwandte Studien zu Ehren von Martin Krause</em>. Edited by Cäcilia Fluck, Lucia Langener, Siegfried Richter, Sofia Schaten, and Gregor Wurst. Wiesbaden: Dr. Ludwig Reichert Verlag, 1995.</p>",
+      "line_text": "Wilson, R. McL. “The Gospel of Thomas Reconsidered.” Pages 331–36 in Divitiae Aegypti Koptologische und verwandte Studien zu Ehren von Martin Krause. Edited by Cäcilia Fluck, Lucia Langener, Siegfried Richter, Sofia Schaten, and Gregor Wurst. Wiesbaden: Dr. Ludwig Reichert Verlag, 1995.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Zöckler, Thomas. <em>Jesu Lehren im Thomasevangelium</em>. Nag Hammadi and Manichean Studies 47. Leiden: Brill, 1999.</p>",
+      "line_text": "Zöckler, Thomas. Jesu Lehren im Thomasevangelium. Nag Hammadi and Manichean Studies 47. Leiden: Brill, 1999.",
+      "language": "English",
+      "entry_type": "General Studies"
+    },
+    {
+      "line_html": "<p>Burke, Tony. “What Do We Talk About When We Talk About the Nag Hammadi Library.” <em>Bulletin for the Study of Religion</em> 45 (2016): 33–37.</p>",
+      "line_text": "Burke, Tony. “What Do We Talk About When We Talk About the Nag Hammadi Library.” Bulletin for the Study of Religion 45 (2016): 33–37.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Burns, Dylan Michael. “Telling Nag Hammadi’s Egyptian Stories.” <em>Bulletin for the Study of Religion</em> 45 (2016): 5–11.</p>",
+      "line_text": "Burns, Dylan Michael. “Telling Nag Hammadi’s Egyptian Stories.” Bulletin for the Study of Religion 45 (2016): 5–11.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Denzey Lewis, Nicola. “Rethinking the Rethinking of the Nag Hammadi Codices.” <em>Bulletin for the Study of Religion</em> 45 (2016): 39–45.</p>",
+      "line_text": "Denzey Lewis, Nicola. “Rethinking the Rethinking of the Nag Hammadi Codices.” Bulletin for the Study of Religion 45 (2016): 39–45.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Denzey Lewis, Nicola and Justine Ariel Blount. “Rethinking the Origins of the Nag Hammadi Codices.” <em>JBL</em> 133 (2014): 397–417.</p>",
+      "line_text": "Denzey Lewis, Nicola and Justine Ariel Blount. “Rethinking the Origins of the Nag Hammadi Codices.” JBL 133 (2014): 397–417.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Goodacre, Mark. “How Reliable is the Story of the Nag Hammadi Discovery?” <em>JSNT</em> 35 (2013): 303–22.</p>",
+      "line_text": "Goodacre, Mark. “How Reliable is the Story of the Nag Hammadi Discovery?” JSNT 35 (2013): 303–22.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Grenfell, B.P. and A.S Hunt. <em>The Oxyrhynchus Papyri. 8 vols. London: Egypt Exploration Fund, 1898–1907</em> (see volumes 1 and 4 for the material related to P. Oxy. 1, and P. Oxy. 654, 655, respectively).</p>",
+      "line_text": "Grenfell, B.P. and A.S Hunt. The Oxyrhynchus Papyri. 8 vols. London: Egypt Exploration Fund, 1898–1907 (see volumes 1 and 4 for the material related to P. Oxy. 1, and P. Oxy. 654, 655, respectively).",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Kotrosits, Maia. “Romance and Danger at Nag Hammadi.” <em>Bible and Critical Theory</em> 8 (2012): 39–52.</p>",
+      "line_text": "Kotrosits, Maia. “Romance and Danger at Nag Hammadi.” Bible and Critical Theory 8 (2012): 39–52.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Mroczek, Eva. “True Stories and the Poetics of Textual Discovery.” <em>Bulletin for the Study of Religion</em> 45 (2016): 21–31.</p>",
+      "line_text": "Mroczek, Eva. “True Stories and the Poetics of Textual Discovery.” Bulletin for the Study of Religion 45 (2016): 21–31.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Nongbri, Brent. “Finding Early Christian Books at Nag Hammadi and Beyond.” <em>Bulletin for the Study of Religion</em> 45 (2016): 11–19.</p>",
+      "line_text": "Nongbri, Brent. “Finding Early Christian Books at Nag Hammadi and Beyond.” Bulletin for the Study of Religion 45 (2016): 11–19.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “The Oxyrhynchus Papyri: The Remarkable Discovery You’ve Probably Never Heard Of.” <em>BAR </em>37 (2011): 60–68.</p>",
+      "line_text": "Patterson, Stephen J. “The Oxyrhynchus Papyri: The Remarkable Discovery You’ve Probably Never Heard Of.” BAR 37 (2011): 60–68.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Poirier, Paul-Hubert. “The 70th Anniversary of the Discovery of the Nag Hammadi Codices: A Few Remarks on Recent Publications.” <em>Bulletin for the Study of Religion</em> 45 (2016): 37–39.</p>",
+      "line_text": "Poirier, Paul-Hubert. “The 70th Anniversary of the Discovery of the Nag Hammadi Codices: A Few Remarks on Recent Publications.” Bulletin for the Study of Religion 45 (2016): 37–39.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Robinson, James M. <em>The Nag Hammadi Library</em>. Leiden: Brill, 1977.</p>",
+      "line_text": "Robinson, James M. The Nag Hammadi Library. Leiden: Brill, 1977.",
+      "language": "English",
+      "entry_type": "Discoveries at Oxyrhynchus and Nag Hammadi"
+    },
+    {
+      "line_html": "<p>Brown, Ian. “Where Indeed was the Gospel of Thomas Written? Thomas in Alexandria.” <em>JBL</em> 138 (2019): 451–72.</p>",
+      "line_text": "Brown, Ian. “Where Indeed was the Gospel of Thomas Written? Thomas in Alexandria.” JBL 138 (2019): 451–72.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Dehandschutter, Boudewijn. “Le lieu d’origine de l’Évangile selon Thomas.” <em>OLP</em> 6–7 (1975–1976): 125–31.</p>",
+      "line_text": "Dehandschutter, Boudewijn. “Le lieu d’origine de l’Évangile selon Thomas.” OLP 6–7 (1975–1976): 125–31.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Desjardins, Michel. “Where Was the Gospel of Thomas Written?” <em>TJT </em>8 (1992): 121–33.</p>",
+      "line_text": "Desjardins, Michel. “Where Was the Gospel of Thomas Written?” TJT 8 (1992): 121–33.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Given, J. Gregory. “‘Finding’ the Gospel of Thomas in Edessa.” <em>JECS</em> 25 (2017): 501–30.</p>",
+      "line_text": "Given, J. Gregory. “‘Finding’ the Gospel of Thomas in Edessa.” JECS 25 (2017): 501–30.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Klijn, A.F.J. “Christianity in Edessa and the Gospel of Thomas: On Barbara Ehlers, ‘Kann das Thomasevangelium aus Edessa stammen?’” <em>NovT</em> 14 (1972): 70–77.</p>",
+      "line_text": "Klijn, A.F.J. “Christianity in Edessa and the Gospel of Thomas: On Barbara Ehlers, ‘Kann das Thomasevangelium aus Edessa stammen?’” NovT 14 (1972): 70–77.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>___________. “Das Thomasevangelium und das altsyriche Christentum.” <em>VC</em> 15 (1961): 146–59.</p>",
+      "line_text": "___________. “Das Thomasevangelium und das altsyriche Christentum.” VC 15 (1961): 146–59.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques E. “Der syrische Synkretismus und das Thomasevangelium.” Pages 65–79 in <em>Synkretismus im syrisch-persischen Kulturgebiet.</em> Bericht über ein Symposion in Reinhausen bei Göttingen in der Zeit vom 4. bis 8. Oktober 1971. Herausgegeben von Albert Dietrich, 1975. Abhandlungen der Akademie der Wissenschaften in Göttingen. Philologisch-historische Klasse. Dritte Folge 96. Göttingen: Vandenhoeck and Ruprecht, 1975.</p>",
+      "line_text": "Ménard, Jacques E. “Der syrische Synkretismus und das Thomasevangelium.” Pages 65–79 in Synkretismus im syrisch-persischen Kulturgebiet. Bericht über ein Symposion in Reinhausen bei Göttingen in der Zeit vom 4. bis 8. Oktober 1971. Herausgegeben von Albert Dietrich, 1975. Abhandlungen der Akademie der Wissenschaften in Göttingen. Philologisch-historische Klasse. Dritte Folge 96. Göttingen: Vandenhoeck and Ruprecht, 1975.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “The View from Across the Euphrates.” <em>HTR </em>104 (2011): 411–31.</p>",
+      "line_text": "Patterson, Stephen J. “The View from Across the Euphrates.” HTR 104 (2011): 411–31.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Piovanelli, Pierluigi. “Thomas in Edessa? Another Look at the Original Setting of Gospel of Thomas.” Pages 443–61 in <em>Myths, Martyrs, and Modernity: Studies in the History of Religions in Honour of Jan N. Bremmer.</em> Edited by Jitse Dijkstra, Justin Kroesen, Yme Kuiper. Numen Book Series 127. Leiden: Brill, 2010.</p>",
+      "line_text": "Piovanelli, Pierluigi. “Thomas in Edessa? Another Look at the Original Setting of Gospel of Thomas.” Pages 443–61 in Myths, Martyrs, and Modernity: Studies in the History of Religions in Honour of Jan N. Bremmer. Edited by Jitse Dijkstra, Justin Kroesen, Yme Kuiper. Numen Book Series 127. Leiden: Brill, 2010.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “The Syrian Gospel of Thomas and the Syrian Macarius.” <em>VC</em> 18 (1964): 226–35.</p>",
+      "line_text": "Quispel, Gilles. “The Syrian Gospel of Thomas and the Syrian Macarius.” VC 18 (1964): 226–35.",
+      "language": "English",
+      "entry_type": "Provenance"
+    },
+    {
+      "line_html": "<p>Baarda, Tjitze. “Clement of Alexandria and the Parable of the Fisherman: Mt 13,47–48 or Independent tradition?” Pages 582–98 in <em>The Synoptic Gospels: Source Criticism and the New Literary Criticism</em>. Edited by Camille Focant and Frans Neirynck. Bibliotheca Ephemeridum Theologicarum Lovaniensium 110. Louvain: Peeters, 1993.</p>",
+      "line_text": "Baarda, Tjitze. “Clement of Alexandria and the Parable of the Fisherman: Mt 13,47–48 or Independent tradition?” Pages 582–98 in The Synoptic Gospels: Source Criticism and the New Literary Criticism. Edited by Camille Focant and Frans Neirynck. Bibliotheca Ephemeridum Theologicarum Lovaniensium 110. Louvain: Peeters, 1993.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Batovici, Dan. “The Oxford Conference on the Synoptic Problem.” <em>CurBR</em> 7 (2009): 245–71.</p>",
+      "line_text": "Batovici, Dan. “The Oxford Conference on the Synoptic Problem.” CurBR 7 (2009): 245–71.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Bauer, Johannes B. “Das ‘Regelwort’ Mk 6,4 par und EvThom 31.” <em>BZ</em> 41 (1997): 95–98.</p>",
+      "line_text": "Bauer, Johannes B. “Das ‘Regelwort’ Mk 6,4 par und EvThom 31.” BZ 41 (1997): 95–98.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Carrez, Maurice. “Quelques Aspects Christologiques de l’Évangile de Thomas.” Pages 2263–76 in <em>The Four Gospels 1992</em>: Festschrift Frans Neirynck. Edited by Christopher M. Tuckett and Frans van Segbroeck. BETL 100. Louvain: Peeters, 1992.</p>",
+      "line_text": "Carrez, Maurice. “Quelques Aspects Christologiques de l’Évangile de Thomas.” Pages 2263–76 in The Four Gospels 1992: Festschrift Frans Neirynck. Edited by Christopher M. Tuckett and Frans van Segbroeck. BETL 100. Louvain: Peeters, 1992.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Cerfaux, Lucien and Gérard Garitte. “Les paraboles du Royaume dans L’Évangile de Thomas.” <em>Le Mus</em>70 (1957): 307–27.</p>",
+      "line_text": "Cerfaux, Lucien and Gérard Garitte. “Les paraboles du Royaume dans L’Évangile de Thomas.” Le Mus70 (1957): 307–27.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Davies, Stevan L. “Mark’s Use of the Gospel of Thomas.” <em>Neot</em> 30 (1996): 307–34.</p>",
+      "line_text": "Davies, Stevan L. “Mark’s Use of the Gospel of Thomas.” Neot 30 (1996): 307–34.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Thomas: The Fourth Synoptic Gospel.” <em>BA</em> 46 (1983): 6–9,12–14.</p>",
+      "line_text": "___________. “Thomas: The Fourth Synoptic Gospel.” BA 46 (1983): 6–9,12–14.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Davies, Stevan and Kevin Johnson. “Mark’s Use of the Gospel of Thomas: Part Two.” <em>Neot</em> 31 (1997): 233–61.</p>",
+      "line_text": "Davies, Stevan and Kevin Johnson. “Mark’s Use of the Gospel of Thomas: Part Two.” Neot 31 (1997): 233–61.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Dehandschutter, Boudewijn. “La Parabole de la Perle (Mt 13:45–46) et L’Évangile selon Thomas.” <em>ETL</em> 55 (1979): 243–65.</p>",
+      "line_text": "Dehandschutter, Boudewijn. “La Parabole de la Perle (Mt 13:45–46) et L’Évangile selon Thomas.” ETL 55 (1979): 243–65.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Denzey Lewis, Nicola. “A New Gnosticism: Why Simon Gathercole and Mark Goodacre on the Gospel of Thomas Change the Field.” <em>JSNT</em> 36 (2014): 240–50.</p>",
+      "line_text": "Denzey Lewis, Nicola. “A New Gnosticism: Why Simon Gathercole and Mark Goodacre on the Gospel of Thomas Change the Field.” JSNT 36 (2014): 240–50.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Doran, R. “The Divinization of Disorder: The Trajectory of Matt 8:20/Luke 9:58/Gos Thom 86.” Pages 210–19 in <em>Future of Early Christianity: Essays in Honor of Helmut Koester</em>. Edited by Birger Pearson. Minneapolis: Fortress Press, 1991.</p>",
+      "line_text": "Doran, R. “The Divinization of Disorder: The Trajectory of Matt 8:20/Luke 9:58/Gos Thom 86.” Pages 210–19 in Future of Early Christianity: Essays in Honor of Helmut Koester. Edited by Birger Pearson. Minneapolis: Fortress Press, 1991.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Dunn, James D. G. “The Gospel and the Gospels.” <em>EvQ</em> 85 (2013): 291–308.</p>",
+      "line_text": "Dunn, James D. G. “The Gospel and the Gospels.” EvQ 85 (2013): 291–308.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Fleddermann, Harry T. “The Mustard Seed and the Leaven in Q, the Synoptics, and Thomas.” <em>SBLSP</em> 28 (1989): 216–36.</p>",
+      "line_text": "Fleddermann, Harry T. “The Mustard Seed and the Leaven in Q, the Synoptics, and Thomas.” SBLSP 28 (1989): 216–36.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Frey, Jörg. “Die Lilien und das Gewand: EvThom 36 und 37 als Paradigma für das Verhältnis des Thomasevengeliums zur synoptischen Überlieferung.” Pages 122–80 in <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie. </em>Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Berlin: Walter de Gruyter, 2008.</p>",
+      "line_text": "Frey, Jörg. “Die Lilien und das Gewand: EvThom 36 und 37 als Paradigma für das Verhältnis des Thomasevengeliums zur synoptischen Überlieferung.” Pages 122–80 in Das Thomasevangelium: Entstehung, Rezeption, Theologie. Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Berlin: Walter de Gruyter, 2008.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “Luke in the Gospel of Thomas.” <em>NTS </em> 57 (2011): 114–44.</p>",
+      "line_text": "Gathercole, Simon J. “Luke in the Gospel of Thomas.” NTS  57 (2011): 114–44.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. <em>The Composition of the Gospel of Thomas: Original Language and Influences.</em> SNTSMS 151. Cambridge: Cambridge University Press, 2012.</p>",
+      "line_text": "___________. The Composition of the Gospel of Thomas: Original Language and Influences. SNTSMS 151. Cambridge: Cambridge University Press, 2012.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Thomas Revisited: A Rejoinder to Denzey Lewis, Kloppenborg and Patterson.” <em>JSNT</em> 36 (2014): 262–81.</p>",
+      "line_text": "___________. “Thomas Revisited: A Rejoinder to Denzey Lewis, Kloppenborg and Patterson.” JSNT 36 (2014): 262–81.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Goodacre, Mark. “Did Thomas Know the Synoptics? A Response to Denzey Lewis, Kloppenborg and Patterson.” <em>JSNT</em> 36 (2014): 282–93.</p>",
+      "line_text": "Goodacre, Mark. “Did Thomas Know the Synoptics? A Response to Denzey Lewis, Kloppenborg and Patterson.” JSNT 36 (2014): 282–93.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. <em>Thomas and the Gospels: The Case for Thomas’s Familiarity with the Synoptics</em>. Grand Rapids: Eerdmans, 2012.</p>",
+      "line_text": "___________. Thomas and the Gospels: The Case for Thomas’s Familiarity with the Synoptics. Grand Rapids: Eerdmans, 2012.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Hedrick, Charles W. “An Anecdotal Argument for the Independence of the Gospel of Thomas from the Synoptic Gospels.” Pages 113–26 in <em>For the Children, Perfect Instruction: Studies in Honor of Hans–Martin Schenke on the Occasion of the Berliner Arbeitskreis für koptisch–gnostische Schriften’s Thirtieth Year</em>. Edited by Hans-Gebhard Bethge, Stephen Emmel, and Karen L. King. Leiden: Brill, 2002.</p>",
+      "line_text": "Hedrick, Charles W. “An Anecdotal Argument for the Independence of the Gospel of Thomas from the Synoptic Gospels.” Pages 113–26 in For the Children, Perfect Instruction: Studies in Honor of Hans–Martin Schenke on the Occasion of the Berliner Arbeitskreis für koptisch–gnostische Schriften’s Thirtieth Year. Edited by Hans-Gebhard Bethge, Stephen Emmel, and Karen L. King. Leiden: Brill, 2002.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Parables and the Kingdom: The Vision of Jesus in Fiction and Faith.” <em>SBLSP</em> 26 (1987): 368–93.</p>",
+      "line_text": "___________. “Parables and the Kingdom: The Vision of Jesus in Fiction and Faith.” SBLSP 26 (1987): 368–93.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Treasure Parable in Matthew and Thomas.” <em>Forum</em> 2 (1986): 41–56.</p>",
+      "line_text": "___________. “The Treasure Parable in Matthew and Thomas.” Forum 2 (1986): 41–56.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Thomas and the Synoptics: Aiming at a Consensus.” <em>SecCent</em> 7 (1989–1990): 39–56.</p>",
+      "line_text": "___________. “Thomas and the Synoptics: Aiming at a Consensus.” SecCent 7 (1989–1990): 39–56.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Horman, John Franklin. “The Source of the Version of the Parable of the Sower in the Gospel of Thomas.” <em>NovT </em>21 (1979): 326–43.</p>",
+      "line_text": "Horman, John Franklin. “The Source of the Version of the Parable of the Sower in the Gospel of Thomas.” NovT 21 (1979): 326–43.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Kloppenborg, John S. “A New Synoptic Problem: Mark Goodacre and Simon Gathercole on Thomas.” <em>JSNT </em>36 (2014): 199–239.</p>",
+      "line_text": "Kloppenborg, John S. “A New Synoptic Problem: Mark Goodacre and Simon Gathercole on Thomas.” JSNT 36 (2014): 199–239.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Blessing and Marginality: The ‘Persecution Beatitude’ in Q, Thomas, and Early Christianity.” <em>Forum</em> 2 (1986): 36–56.</p>",
+      "line_text": "___________. “Blessing and Marginality: The ‘Persecution Beatitude’ in Q, Thomas, and Early Christianity.” Forum 2 (1986): 36–56.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Ideological Texture in the Parable of the Tenants.” Pages 64–88 in <em>Fabrics of Discourse: Essays in Honor of Vernon K Robbins.</em> Edited by David B. Gowler, L. Gregory Bloomquist, and Duane F. Watson. Harrisburg, PA: Trinity Press International, 2003.</p>",
+      "line_text": "___________. “Ideological Texture in the Parable of the Tenants.” Pages 64–88 in Fabrics of Discourse: Essays in Honor of Vernon K Robbins. Edited by David B. Gowler, L. Gregory Bloomquist, and Duane F. Watson. Harrisburg, PA: Trinity Press International, 2003.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. <em>The Tenants in the Vineyard (GThom 65/Mark 12:1–12): A Realistic and Social–Scientific Reading</em>. WUNT 195. Tübingen: Mohr Siebeck, 2006.</p>",
+      "line_text": "___________. The Tenants in the Vineyard (GThom 65/Mark 12:1–12): A Realistic and Social–Scientific Reading. WUNT 195. Tübingen: Mohr Siebeck, 2006.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Kloppenborg, John S. and Callie Callon. “The Parable of the Shepherd and the Transformation of Pastoral Discourse.” <em>Early Christianity</em> 1 (2010): 218–60.</p>",
+      "line_text": "Kloppenborg, John S. and Callie Callon. “The Parable of the Shepherd and the Transformation of Pastoral Discourse.” Early Christianity 1 (2010): 218–60.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Koester, Helmut. “The Synoptic Sayings Source and the Gospel of Thomas.” Pages 35–50 in <em>The Shape of Q: Signal Essays on the Sayings Source.</em> Edited by John S. Kloppenborg. Minneapolis: Fortress, 1994.</p>",
+      "line_text": "Koester, Helmut. “The Synoptic Sayings Source and the Gospel of Thomas.” Pages 35–50 in The Shape of Q: Signal Essays on the Sayings Source. Edited by John S. Kloppenborg. Minneapolis: Fortress, 1994.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Kosnetter, Johannes. “Das Thomasevangelium und die Synoptiker.” Pages 29–49 in <em>Wissenschaft im Dienste des Glaubens: Festschrift für Hermann Peichl</em>. Edited by Josef Kisser, Ferdinand Krones, and Ulrich A. Schöndorfer. Wien: Katholische Akademie, 1965.</p>",
+      "line_text": "Kosnetter, Johannes. “Das Thomasevangelium und die Synoptiker.” Pages 29–49 in Wissenschaft im Dienste des Glaubens: Festschrift für Hermann Peichl. Edited by Josef Kisser, Ferdinand Krones, and Ulrich A. Schöndorfer. Wien: Katholische Akademie, 1965.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Lanier, Gregory. “Mapping the Vineyard: Main Lines of Investigation Regarding the Parable of the Tenants in the Synoptics and Thomas.” <em>CurBR</em> 15 (2016): 74–122.</p>",
+      "line_text": "Lanier, Gregory. “Mapping the Vineyard: Main Lines of Investigation Regarding the Parable of the Tenants in the Synoptics and Thomas.” CurBR 15 (2016): 74–122.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Liebenberg, Jacobus. <em>The Language of the Kingdom and Jesus: Parable, Aphorism, and Metaphor in the Sayings Material Common to the Synoptic Tradition and the Gospel of Thomas</em>. BZNW 102. Berlin: Walter de Gruyter, 2001.</p>",
+      "line_text": "Liebenberg, Jacobus. The Language of the Kingdom and Jesus: Parable, Aphorism, and Metaphor in the Sayings Material Common to the Synoptic Tradition and the Gospel of Thomas. BZNW 102. Berlin: Walter de Gruyter, 2001.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Lindemann, Andreas. “Zur Gleichnisinterpretation im Thomas–Evangelium.” <em>ZNW</em> 71 (1980): 214–43.</p>",
+      "line_text": "Lindemann, Andreas. “Zur Gleichnisinterpretation im Thomas–Evangelium.” ZNW 71 (1980): 214–43.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Martin, Patrick J. “Two Sayings Gospels: ‘The Gospel of Thomas’ and the ‘Sayings Gospel Q.’” <em>TBT</em> 47 (2009): 166–71.</p>",
+      "line_text": "Martin, Patrick J. “Two Sayings Gospels: ‘The Gospel of Thomas’ and the ‘Sayings Gospel Q.’” TBT 47 (2009): 166–71.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>McArthur, Harvey K. “Dependence of the Gospel of Thomas on the Synoptics<em>.” ExpT</em> 71 (1960): 286–87.</p>",
+      "line_text": "McArthur, Harvey K. “Dependence of the Gospel of Thomas on the Synoptics.” ExpT 71 (1960): 286–87.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>McCaughey, J Davis. “Two Synoptic Parables in the Gospel of Thomas.” <em>ABR</em> 8 (1960): 24–28.</p>",
+      "line_text": "McCaughey, J Davis. “Two Synoptic Parables in the Gospel of Thomas.” ABR 8 (1960): 24–28.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>McLean, Bradley H. “On the Gospel of Thomas and Q.” Pages 321–45 in <em>Gospel Behind the Gospels.</em> Edited by Ronald A. Piper. NovTSup 75. Leiden: Brill, 1995.</p>",
+      "line_text": "McLean, Bradley H. “On the Gospel of Thomas and Q.” Pages 321–45 in Gospel Behind the Gospels. Edited by Ronald A. Piper. NovTSup 75. Leiden: Brill, 1995.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Meier, John Paul. <em>A Marginal Jew: Rethinking the Historical Jesus. </em>Vol 5:<em> Probing the Authenticity of the Parables.</em> AYBRL. New Haven: Yale University Press, 2016.</p>",
+      "line_text": "Meier, John Paul. A Marginal Jew: Rethinking the Historical Jesus. Vol 5: Probing the Authenticity of the Parables. AYBRL. New Haven: Yale University Press, 2016.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Is Luke’s Version of the Parable of the Rich Fool Reflected in the Coptic Gospel of Thomas?” <em>CBQ</em> 74 (2012): 528–47.</p>",
+      "line_text": "___________. “Is Luke’s Version of the Parable of the Rich Fool Reflected in the Coptic Gospel of Thomas?” CBQ 74 (2012): 528–47.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Parable of the Wheat and the Weeds (Matthew 13:24–30): Is Thomas’s version (Logion 57) Independent?” <em>JBL</em> 131 (2012): 715–32.</p>",
+      "line_text": "___________. “The Parable of the Wheat and the Weeds (Matthew 13:24–30): Is Thomas’s version (Logion 57) Independent?” JBL 131 (2012): 715–32.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Parable of the Wicked Tenants in the Vineyard: Is the Gospel of Thomas Independent of the Synoptics?” Pages 129–46 in <em>Unity and Diversity in the Gospels and Paul: Essays in Honor of Frank J. Matera.</em> Edited by Christopher W. Skinner and Kelly R. Iverson. EJL 7. Atlanta and Leiden: Society of Biblical Literature and Brill, 2012.</p>",
+      "line_text": "___________. “The Parable of the Wicked Tenants in the Vineyard: Is the Gospel of Thomas Independent of the Synoptics?” Pages 129–46 in Unity and Diversity in the Gospels and Paul: Essays in Honor of Frank J. Matera. Edited by Christopher W. Skinner and Kelly R. Iverson. EJL 7. Atlanta and Leiden: Society of Biblical Literature and Brill, 2012.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques E. “La Tradition Synoptique et l’Évangile selon Thomas.” Pages 411–26 in <em>Überlieferungsgeschichtliche Untersuchungen</em>. Berlin: Akademie-Verlag, 1981.</p>",
+      "line_text": "Ménard, Jacques E. “La Tradition Synoptique et l’Évangile selon Thomas.” Pages 411–26 in Überlieferungsgeschichtliche Untersuchungen. Berlin: Akademie-Verlag, 1981.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Montefiore, Hugh. “Comparison of the Parables of the Gospel according to Thomas and of the Synoptic Gospels.” <em>NTS </em> 7 (1961): 220–48.</p>",
+      "line_text": "Montefiore, Hugh. “Comparison of the Parables of the Gospel according to Thomas and of the Synoptic Gospels.” NTS  7 (1961): 220–48.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Nagel, Peter. “Synoptische Evangelientradition im Thomasevangelium und im Manichäismus.” Pages 272–93 in <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie. </em>Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Berlin: Walter de Gruyter, 2008.</p>",
+      "line_text": "Nagel, Peter. “Synoptische Evangelientradition im Thomasevangelium und im Manichäismus.” Pages 272–93 in Das Thomasevangelium: Entstehung, Rezeption, Theologie. Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Berlin: Walter de Gruyter, 2008.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Pagels, Elaine. “Matthew, Mark, Luke, and . . . Thomas?” <em>U.S. Catholic</em> 68 (2003): 18–22.</p>",
+      "line_text": "Pagels, Elaine. “Matthew, Mark, Luke, and . . . Thomas?” U.S. Catholic 68 (2003): 18–22.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “The Gospel of (Judas) Thomas and the Synoptic Problem.” Pages 783–808 in <em>New Studies in the Synoptic Problem, Oxford Conference, April 2008: Essays in Honour of Christopher M. Tuckett</em>. Edited by Paul Foster, Andrew Gregory, John Kloppenborg, and Jozef Verheyden. BETL 239. Leuven: Peeters, 2011.</p>",
+      "line_text": "Patterson, Stephen J. “The Gospel of (Judas) Thomas and the Synoptic Problem.” Pages 783–808 in New Studies in the Synoptic Problem, Oxford Conference, April 2008: Essays in Honour of Christopher M. Tuckett. Edited by Paul Foster, Andrew Gregory, John Kloppenborg, and Jozef Verheyden. BETL 239. Leuven: Peeters, 2011.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Gospel of Thomas and the Synoptic Tradition: A Forschungsbericht and Critique.” <em>Forum</em> 8 (1992): 45–97.</p>",
+      "line_text": "___________. “The Gospel of Thomas and the Synoptic Tradition: A Forschungsbericht and Critique.” Forum 8 (1992): 45–97.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Twice More—Thomas and the Synoptics: A Reply to Simon Gathercole, The Composition of the Gospel of Thomas, and Mark Goodacre, Thomas and the Gospel.” <em>JSNT</em> 36 (2014): 251–61.</p>",
+      "line_text": "___________. “Twice More—Thomas and the Synoptics: A Reply to Simon Gathercole, The Composition of the Gospel of Thomas, and Mark Goodacre, Thomas and the Gospel.” JSNT 36 (2014): 251–61.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Wisdom in Q and Thomas.” Pages 187–221 in <em>In Search of Wisdom: Essays in Memory of John G. Gammie</em>. Edited by Leo G. Perdue, Bernard Brandon Scott, and William Johnston Wiseman. Louisville: Westminster John Knox Press, 1993.</p>",
+      "line_text": "___________. “Wisdom in Q and Thomas.” Pages 187–221 in In Search of Wisdom: Essays in Memory of John G. Gammie. Edited by Leo G. Perdue, Bernard Brandon Scott, and William Johnston Wiseman. Louisville: Westminster John Knox Press, 1993.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Perkins, Pheme. “Pronouncement Stories in the Gospel of Thomas.” <em>Semeia </em>20 (1981): 121–32.</p>",
+      "line_text": "Perkins, Pheme. “Pronouncement Stories in the Gospel of Thomas.” Semeia 20 (1981): 121–32.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Petersen, Silke. “Adolf Jülicher und die Parabeln des Thomasevangeliums.” Pages 179–207 in <em>Die Gleichnisreden Jesu 1899–1999: Beiträge zum Dialog mit Adolf Jülicher</em>. BZNW 103. Berlin: Walter de Gruyter, 1999.</p>",
+      "line_text": "Petersen, Silke. “Adolf Jülicher und die Parabeln des Thomasevangeliums.” Pages 179–207 in Die Gleichnisreden Jesu 1899–1999: Beiträge zum Dialog mit Adolf Jülicher. BZNW 103. Berlin: Walter de Gruyter, 1999.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Petersen, William Lawrence. “The Parable of the Lost Sheep in the Gospel of Thomas and the Synoptics.” <em>NovT </em> 23 (1981): 128–47.</p>",
+      "line_text": "Petersen, William Lawrence. “The Parable of the Lost Sheep in the Gospel of Thomas and the Synoptics.” NovT  23 (1981): 128–47.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Popkes, Enno Edzard. “‘Das Mysterion der Botschaft Jesu’: Beobachtungen zur synoptischen Parabeltheorie und ihren Analogien im Johannesevangelium und Thomasevangelium.” Pages 294–320 in <em>Hermeneutik der Gleichnisse Jesu: methodische Neuansätze zum Verstehen urchristlicher Parabeltexte. </em>Edited by Ruben Zimmermann and Gabi Kern. WUNT 231. Tübingen: Mohr Siebeck, 2008.</p>",
+      "line_text": "Popkes, Enno Edzard. “‘Das Mysterion der Botschaft Jesu’: Beobachtungen zur synoptischen Parabeltheorie und ihren Analogien im Johannesevangelium und Thomasevangelium.” Pages 294–320 in Hermeneutik der Gleichnisse Jesu: methodische Neuansätze zum Verstehen urchristlicher Parabeltexte. Edited by Ruben Zimmermann and Gabi Kern. WUNT 231. Tübingen: Mohr Siebeck, 2008.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Riley, Gregory J. “Influence of Thomas Christianity on Luke 12:14 and 5:39.” <em>HTR</em> 88 (1995): 229–35.</p>",
+      "line_text": "Riley, Gregory J. “Influence of Thomas Christianity on Luke 12:14 and 5:39.” HTR 88 (1995): 229–35.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Robinson, James M. “Textual Criticism, Q, and the Gospel of Thomas.” Pages 9–22 in <em>Text and Community: Essays in Memory of Bruce M Metzger</em>. Edited by J. Harold Ellens. Sheffield: Sheffield Phoenix, 2007.</p>",
+      "line_text": "Robinson, James M. “Textual Criticism, Q, and the Gospel of Thomas.” Pages 9–22 in Text and Community: Essays in Memory of Bruce M Metzger. Edited by J. Harold Ellens. Sheffield: Sheffield Phoenix, 2007.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Robinson, James M. and Christoph Heil. “The Lilies of the Field: Saying 36 of the Gospel of Thomas and Secondary Accretions in Q 12.22b–31.” <em>NTS </em> 41 (2001): 1–25.</p>",
+      "line_text": "Robinson, James M. and Christoph Heil. “The Lilies of the Field: Saying 36 of the Gospel of Thomas and Secondary Accretions in Q 12.22b–31.” NTS  41 (2001): 1–25.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Schrage, Wolfgang. <em>Das Verhältnis des Thomasevangeliums zur synoptischen Tradition und zu den koptischen Evangelienübersetzungen</em>, <em>Zugleich ein Beitrag zur gnostischen Synoptikerdeutung</em>. BZNW 29. Berlin: Töpelmann, 1964.</p>",
+      "line_text": "Schrage, Wolfgang. Das Verhältnis des Thomasevangeliums zur synoptischen Tradition und zu den koptischen Evangelienübersetzungen, Zugleich ein Beitrag zur gnostischen Synoptikerdeutung. BZNW 29. Berlin: Töpelmann, 1964.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Schröter, Jens. <em>Erinnerung an Jesu Worte. Studien zur Rezeption der Logienüberlieferung in Markus, Q und Thomas</em>. WUNT 76. Neukirchen–Vluyn: Neukirchener Verlag, 1997.</p>",
+      "line_text": "Schröter, Jens. Erinnerung an Jesu Worte. Studien zur Rezeption der Logienüberlieferung in Markus, Q und Thomas. WUNT 76. Neukirchen–Vluyn: Neukirchener Verlag, 1997.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Language of the Kingdom and Jesus: Parable, Aphorism, and Metaphor in the Sayings Material Common to the Synoptic Tradition and the Gospel of Thomas.” <em>TLZ</em> 128 (2003): 161–64.</p>",
+      "line_text": "___________. “The Language of the Kingdom and Jesus: Parable, Aphorism, and Metaphor in the Sayings Material Common to the Synoptic Tradition and the Gospel of Thomas.” TLZ 128 (2003): 161–64.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Schürmann, Heinz. “Das Thomasevangelium und das lukanische Sondergut.” <em>BZ</em> 7 (1963): 236–60.</p>",
+      "line_text": "Schürmann, Heinz. “Das Thomasevangelium und das lukanische Sondergut.” BZ 7 (1963): 236–60.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Snodgrass, Klyne. “Parable of the Wicked Husbandmen: Is the Gospel of Thomas Version the Original?” <em>NTS </em> 21 (1974): 142–44.</p>",
+      "line_text": "Snodgrass, Klyne. “Parable of the Wicked Husbandmen: Is the Gospel of Thomas Version the Original?” NTS  21 (1974): 142–44.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________.“The Gospel of Thomas: A Secondary Gospel.” <em>SecCen</em> 7 (1989): 19–30.</p>",
+      "line_text": "___________.“The Gospel of Thomas: A Secondary Gospel.” SecCen 7 (1989): 19–30.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Strickert, Frederick M. “Jesus’ True Family: The Synoptic Tradition and Thomas.” Pages 246–57 in <em>For a Later Generation: The Transformation of Tradition in Israel, Early Judaism, and Early Christianity</em>. Edited by Randal A. Argall, Beverly Bow, Rodney Alan Werline, and George W. E. Nickelsburg. Harrisburg, PA: Trinity Press International, 2000.</p>",
+      "line_text": "Strickert, Frederick M. “Jesus’ True Family: The Synoptic Tradition and Thomas.” Pages 246–57 in For a Later Generation: The Transformation of Tradition in Israel, Early Judaism, and Early Christianity. Edited by Randal A. Argall, Beverly Bow, Rodney Alan Werline, and George W. E. Nickelsburg. Harrisburg, PA: Trinity Press International, 2000.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Strobel, A. “Textgeschichtles zum Thomas–Logion 86 (Mt 8,20/Luk 9,58).” <em>VC</em> 17 (1963): 211–24.</p>",
+      "line_text": "Strobel, A. “Textgeschichtles zum Thomas–Logion 86 (Mt 8,20/Luk 9,58).” VC 17 (1963): 211–24.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Thatcher, Tom. “Early Christianities and the Synoptic Eclipse: Problems in Situating the Gospel of Thomas.” <em>BibInt</em> 7 (1999): 323–39.</p>",
+      "line_text": "Thatcher, Tom. “Early Christianities and the Synoptic Eclipse: Problems in Situating the Gospel of Thomas.” BibInt 7 (1999): 323–39.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Tuckett, Christopher M. “Das Thomasevangelium und die synoptischen Evangelien.” <em>BTZ</em> 12 (1995): 186–200.</p>",
+      "line_text": "Tuckett, Christopher M. “Das Thomasevangelium und die synoptischen Evangelien.” BTZ 12 (1995): 186–200.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Q and Thomas: Evidence of a Primitive ‘Wisdom Gospel’? A Response to H. Koester.” <em>ETL </em>67 (1991): 346–60.</p>",
+      "line_text": "___________. “Q and Thomas: Evidence of a Primitive ‘Wisdom Gospel’? A Response to H. Koester.” ETL 67 (1991): 346–60.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Synoptic Tradition in Some Nag Hammadi and Related Texts.” <em>VC </em>36 (1982): 173–90.</p>",
+      "line_text": "___________. “Synoptic Tradition in Some Nag Hammadi and Related Texts.” VC 36 (1982): 173–90.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Gospel of Thomas: Gathercole and Goodacre.” <em>SJT</em> 6 (2013): 221–29.</p>",
+      "line_text": "___________. “The Gospel of Thomas: Gathercole and Goodacre.” SJT 6 (2013): 221–29.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Thomas and the Synoptics.” <em>NovT </em> 30 (1988): 132–57.</p>",
+      "line_text": "___________. “Thomas and the Synoptics.” NovT  30 (1988): 132–57.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Turner, H. E. W. and Hugh Montefiore. <em>Thomas and the Evangelists</em>. Naperville, IL: Allenson, 1962.</p>",
+      "line_text": "Turner, H. E. W. and Hugh Montefiore. Thomas and the Evangelists. Naperville, IL: Allenson, 1962.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Uro, Risto. “‘Washing the Outside of the Cup’: Gos. Thom. 89 and Synoptic Parallels.” Pages 303–22 in <em>From Quest to Q: Festschrift James M. Robinson</em>. Edited by Jon Ma Asgeirsson, Kristin De Troyer, and Marvin W. Meyer. Leuven: Leuven University Press/ Uitgeverij: Peeters, 2000.</p>",
+      "line_text": "Uro, Risto. “‘Washing the Outside of the Cup’: Gos. Thom. 89 and Synoptic Parallels.” Pages 303–22 in From Quest to Q: Festschrift James M. Robinson. Edited by Jon Ma Asgeirsson, Kristin De Troyer, and Marvin W. Meyer. Leuven: Leuven University Press/ Uitgeverij: Peeters, 2000.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Wood, John Halsey. “The New Testament Gospels and the <em>Gospel of Thomas</em>: A New Direction.” <em>NTS</em> 51 (2005): 579–95.</p>",
+      "line_text": "Wood, John Halsey. “The New Testament Gospels and the Gospel of Thomas: A New Direction.” NTS 51 (2005): 579–95.",
+      "language": "Thomas and the Synoptic Tradition",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Attridge, Harold. “‘Seeking’ and ‘Asking’ in Q, Thomas, and John.” Pages 295–302 in <em>From Quest to Q: Festschrift James M. Robinson</em>. Edited by Jon Ma Asgeirsson, Kristin De Troyer, and Marvin W. Meyer. Leuven: Leuven University Press/ Uitgeverij: Peeters, 2000.</p>",
+      "line_text": "Attridge, Harold. “‘Seeking’ and ‘Asking’ in Q, Thomas, and John.” Pages 295–302 in From Quest to Q: Festschrift James M. Robinson. Edited by Jon Ma Asgeirsson, Kristin De Troyer, and Marvin W. Meyer. Leuven: Leuven University Press/ Uitgeverij: Peeters, 2000.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Brown, Raymond E. “Gospel of Thomas and St John’s Gospel.” <em>NTS </em>9 (1963): 155–77.</p>",
+      "line_text": "Brown, Raymond E. “Gospel of Thomas and St John’s Gospel.” NTS 9 (1963): 155–77.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Charlesworth, James H. <em>The Beloved Disciple: Whose Witness Validates the Gospel of John?</em> Valley Forge, PA: Trinity Press International, 1995.</p>",
+      "line_text": "Charlesworth, James H. The Beloved Disciple: Whose Witness Validates the Gospel of John? Valley Forge, PA: Trinity Press International, 1995.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>DeConick, April D. “‘Blessed Are Those Who Have Not Seen’ (Jn 20:29): Johannine Dramatization of an Early Christian Discourse.” Pages 381–98 in <em>The Nag Hammadi Library After Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration.</em> Edited by John D. Turner and Anne McGuire. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.</p>",
+      "line_text": "DeConick, April D. “‘Blessed Are Those Who Have Not Seen’ (Jn 20:29): Johannine Dramatization of an Early Christian Discourse.” Pages 381–98 in The Nag Hammadi Library After Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration. Edited by John D. Turner and Anne McGuire. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “John Rivals Thomas: From Community Conflict to Gospel Narrative.” Pages 303–12 in <em>Jesus in the Johannine Tradition.</em> Edited by Robert T. Fortna and Tom Thatcher. Louisville: Westminster John Knox, 2001.</p>",
+      "line_text": "___________. “John Rivals Thomas: From Community Conflict to Gospel Narrative.” Pages 303–12 in Jesus in the Johannine Tradition. Edited by Robert T. Fortna and Tom Thatcher. Louisville: Westminster John Knox, 2001.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. <em>Voices of the Mystics: Early Christian Discourse in the Gospels of John and Thomas and Other Ancient Christian Literature</em>. LNTS 157. Sheffield: Sheffield Academic Press, 2001.</p>",
+      "line_text": "___________. Voices of the Mystics: Early Christian Discourse in the Gospels of John and Thomas and Other Ancient Christian Literature. LNTS 157. Sheffield: Sheffield Academic Press, 2001.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Droge, Arthur. “Sabbath Work/Sabbath Rest: Genesis, Thomas, John.” <em>HR</em> 47 (2007–2008): 112–41.</p>",
+      "line_text": "Droge, Arthur. “Sabbath Work/Sabbath Rest: Genesis, Thomas, John.” HR 47 (2007–2008): 112–41.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Dunderberg, Ismo. “John and Thomas in Conflict?” Pages 361–80 in <em>The Nag Hammadi Library after Fifty Years: Proceedings of the Society of Biblical Literature Commemoration</em>. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.</p>",
+      "line_text": "Dunderberg, Ismo. “John and Thomas in Conflict?” Pages 361–80 in The Nag Hammadi Library after Fifty Years: Proceedings of the Society of Biblical Literature Commemoration. Nag Hammadi and Manichean Studies 44. Leiden: Brill, 1997.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. <em>The Beloved Disciple in Conflict? Revisiting the Gospels of John and Thomas.</em> Oxford: Oxford University Press, 2005.</p>",
+      "line_text": "___________. The Beloved Disciple in Conflict? Revisiting the Gospels of John and Thomas. Oxford: Oxford University Press, 2005.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Beloved Disciple in John: Ideal Figure in an Early Christian Controversy.” Pages 243–69 in <em>Fair Play: Diversity and Conflicts in Early Christianity</em>. Edited by Ismo Dunderberg, Christopher Tuckett, and Kari Syreeni. Leiden: Brill, 2001.</p>",
+      "line_text": "___________. “The Beloved Disciple in John: Ideal Figure in an Early Christian Controversy.” Pages 243–69 in Fair Play: Diversity and Conflicts in Early Christianity. Edited by Ismo Dunderberg, Christopher Tuckett, and Kari Syreeni. Leiden: Brill, 2001.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “‘Thomas’ I–Sayings and the Gospel of John.” Pages 33–88 in <em>Thomas at the Crossroads</em>. Edited by Risto Uro. Edinburgh: T&amp;T Clark, 1998.</p>",
+      "line_text": "___________. “‘Thomas’ I–Sayings and the Gospel of John.” Pages 33–88 in Thomas at the Crossroads. Edited by Risto Uro. Edinburgh: T&amp;T Clark, 1998.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Johnson, Luke Timothy. “John and Thomas in Context: An Exercise in Canonical Criticism.” Pages 284–309 in <em>The Word Leaps the Gap: Essays on Scripture and Theology in Honor of Richard B. Hays</em>. Edited by J. Ross Wagner. Grand Rapids: Eerdmans, 2008.</p>",
+      "line_text": "Johnson, Luke Timothy. “John and Thomas in Context: An Exercise in Canonical Criticism.” Pages 284–309 in The Word Leaps the Gap: Essays on Scripture and Theology in Honor of Richard B. Hays. Edited by J. Ross Wagner. Grand Rapids: Eerdmans, 2008.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Pagels, Elaine. <em>Beyond Belief: The Secret Gospel of Thomas</em>. San Francisco: HarperCollins, 2003.</p>",
+      "line_text": "Pagels, Elaine. Beyond Belief: The Secret Gospel of Thomas. San Francisco: HarperCollins, 2003.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “Exegesis of Genesis 1 in the Gospels of Thomas and John.” <em>JBL</em> 118 (1999): 477–96.</p>",
+      "line_text": "___________. “Exegesis of Genesis 1 in the Gospels of Thomas and John.” JBL 118 (1999): 477–96.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Popkes, Enno Edzard. “‘Ich bin das Licht’—Erwägungen zur Verhältnisbestimmung des Thomasevangeliums und der johanneischen Schriften anhand der Lichtmetaphorik.” Pages 641–74 in <em>Kontexte Des Johannesevangeliums: Das Vierte Evangelium in Religions– Und Traditionsgeschichtlicher Perspektive. </em>Edited by Jörg Frey and Udo Schnelle. WUNT 175. Tübingen: Mohr Siebeck, 2004.</p>",
+      "line_text": "Popkes, Enno Edzard. “‘Ich bin das Licht’—Erwägungen zur Verhältnisbestimmung des Thomasevangeliums und der johanneischen Schriften anhand der Lichtmetaphorik.” Pages 641–74 in Kontexte Des Johannesevangeliums: Das Vierte Evangelium in Religions– Und Traditionsgeschichtlicher Perspektive. Edited by Jörg Frey and Udo Schnelle. WUNT 175. Tübingen: Mohr Siebeck, 2004.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Riley, Gregory J. <em>Resurrection Reconsidered: Thomas and John in Controversy</em>. Minneapolis: Fortress, 1995.</p>",
+      "line_text": "Riley, Gregory J. Resurrection Reconsidered: Thomas and John in Controversy. Minneapolis: Fortress, 1995.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Sell, Jesse. “Johannine Traditions in Logion 61 of the Gospel of Thomas.” <em>PRSt</em> 7 (1980): 24–37.</p>",
+      "line_text": "Sell, Jesse. “Johannine Traditions in Logion 61 of the Gospel of Thomas.” PRSt 7 (1980): 24–37.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Skinner, Christopher W. <em>John and Thomas: Gospels in Conflict? Johannine Characterization and the Thomas Question</em>. Princeton Theological Monograph Series 115. Eugene, OR: Pickwick, 2009.</p>",
+      "line_text": "Skinner, Christopher W. John and Thomas: Gospels in Conflict? Johannine Characterization and the Thomas Question. Princeton Theological Monograph Series 115. Eugene, OR: Pickwick, 2009.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Witetschek, Stefan. <em>Thomas und Johannes – Johannes und Thomas. Das Verhältnis der Logien des Thomasevangeliums zum Johannesevangelium</em>. Herders Biblische Studien 79. Freiburg/Basel/Wien: Herder, 2015.</p>",
+      "line_text": "Witetschek, Stefan. Thomas und Johannes – Johannes und Thomas. Das Verhältnis der Logien des Thomasevangeliums zum Johannesevangelium. Herders Biblische Studien 79. Freiburg/Basel/Wien: Herder, 2015.",
+      "language": "Thomas and the Gospel of John",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Annese, Andrea, “Logion 83 and the “Image” in the Gospel of Thomas: Relationships with Some Pauline and Early Christian Texts.” <em>Annali di Storia dell’ Esegesi</em> 34 (2017): 71–88.</p>",
+      "line_text": "Annese, Andrea, “Logion 83 and the “Image” in the Gospel of Thomas: Relationships with Some Pauline and Early Christian Texts.” Annali di Storia dell’ Esegesi 34 (2017): 71–88.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The Sources of the Gospel of Thomas: Methodological Issues and the Case of the Pauline Epistles (With a Focus on Th 17 // 1 Cor 2:9).” <em>Annali di Storia dell’ Esegesi</em> 35 (2018): 323–50.</p>",
+      "line_text": "___________. “The Sources of the Gospel of Thomas: Methodological Issues and the Case of the Pauline Epistles (With a Focus on Th 17 // 1 Cor 2:9).” Annali di Storia dell’ Esegesi 35 (2018): 323–50.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “The Influence of Paul on the Gospel of Thomas (§§ 53.3 and 17).” Pages 72–94 in <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie. </em>Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. BZNW 157. Berlin &amp; New York: Walter de Gruyter, 2008.</p>",
+      "line_text": "Gathercole, Simon J. “The Influence of Paul on the Gospel of Thomas (§§ 53.3 and 17).” Pages 72–94 in Das Thomasevangelium: Entstehung, Rezeption, Theologie. Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. BZNW 157. Berlin &amp; New York: Walter de Gruyter, 2008.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Jipp, Joshua W. “Death and the Human Predicament, Salvation as Transformation, and Bodily Practices in 1 Corinthians and The Gospel of Thomas.” Pages 242–66 in <em>Paul and the Gospels: Christologies, Conflicts and Convergences</em>. Edited by Michael F. Bird and Joel Willitts. LNTS 411. London: T&amp;T Clark.</p>",
+      "line_text": "Jipp, Joshua W. “Death and the Human Predicament, Salvation as Transformation, and Bodily Practices in 1 Corinthians and The Gospel of Thomas.” Pages 242–66 in Paul and the Gospels: Christologies, Conflicts and Convergences. Edited by Michael F. Bird and Joel Willitts. LNTS 411. London: T&amp;T Clark.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “Paul and the Jesus Tradition: It is Time for Another Look.” <em>HTR </em>84 (1991): 23–41.</p>",
+      "line_text": "Patterson, Stephen J. “Paul and the Jesus Tradition: It is Time for Another Look.” HTR 84 (1991): 23–41.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Skinner, Christopher W. “The Gospel of Thomas’s Rejection of Paul’s Theological Ideas.” Pages 220–41 in <em>Paul and the Gospels: Christologies, Conflicts and Convergences</em>. Edited by Michael F. Bird and Joel Willitts. LNTS 411. London: T&amp;T Clark.</p>",
+      "line_text": "Skinner, Christopher W. “The Gospel of Thomas’s Rejection of Paul’s Theological Ideas.” Pages 220–41 in Paul and the Gospels: Christologies, Conflicts and Convergences. Edited by Michael F. Bird and Joel Willitts. LNTS 411. London: T&amp;T Clark.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Tuckett, Christopher M. “Paul and the Jesus Tradition: The Evidence of 1 Corinthians 2:9 and Gospel of Thomas 17.” Pages 55–73 in <em>Paul and the Corinthians. Studies on a Community in Conflict. Essays in Honour of Margaret Thrall</em>. Edited by T. J. Burke and J. K. Elliott. NovTSup 109. Leiden/Boston: Brill, 2003.</p>",
+      "line_text": "Tuckett, Christopher M. “Paul and the Jesus Tradition: The Evidence of 1 Corinthians 2:9 and Gospel of Thomas 17.” Pages 55–73 in Paul and the Corinthians. Studies on a Community in Conflict. Essays in Honour of Margaret Thrall. Edited by T. J. Burke and J. K. Elliott. NovTSup 109. Leiden/Boston: Brill, 2003.",
+      "language": ". Thomas and the Pauline Epistles",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Bernhard, Andrew E. “The Gospel of Jesus’ Wife: Textual Evidence of Modern Forgery.” <em>NTS </em> 61 (2015): 335–55.</p>",
+      "line_text": "Bernhard, Andrew E. “The Gospel of Jesus’ Wife: Textual Evidence of Modern Forgery.” NTS  61 (2015): 335–55.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Depuydt, Leo. “The Alleged Gospel of Jesus’ Wife: Assessment and Evaluation of Authenticity.” <em>HTR</em> 107 (2014): 172–89.</p>",
+      "line_text": "Depuydt, Leo. “The Alleged Gospel of Jesus’ Wife: Assessment and Evaluation of Authenticity.” HTR 107 (2014): 172–89.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “The Gospel of Jesus’ Wife: Constructing a Context.” <em>NTS </em> 61 (2015): 292–313.</p>",
+      "line_text": "Gathercole, Simon J. “The Gospel of Jesus’ Wife: Constructing a Context.” NTS  61 (2015): 292–313.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Vítková, Zuzana. “Nově objevený koptský zlomek tzv. ‘Evangelia Ježíšovy ženy’.” <em>Religio</em> 21 (2013): 95–118.</p>",
+      "line_text": "Vítková, Zuzana. “Nově objevený koptský zlomek tzv. ‘Evangelia Ježíšovy ženy’.” Religio 21 (2013): 95–118.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p><strong> </strong><strong>3.8.5 Thomas and Other Early Christian Texts</strong></p>",
+      "line_text": " 3.8.5 Thomas and Other Early Christian Texts",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Cornélis, E.M.J.M. “Quelques éléments pour une comparaison entre L’Évangile de Thomas et la notice d’Hippolyte sur les Naassènes.” <em>VC</em> 15 (1961): 83–104.</p>",
+      "line_text": "Cornélis, E.M.J.M. “Quelques éléments pour une comparaison entre L’Évangile de Thomas et la notice d’Hippolyte sur les Naassènes.” VC 15 (1961): 83–104.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>DeConick, April D. “The Dialogue of the Savior and the Mystical Sayings of Jesus.” <em>VC</em> 50 (1996): 178–99.</p>",
+      "line_text": "DeConick, April D. “The Dialogue of the Savior and the Mystical Sayings of Jesus.” VC 50 (1996): 178–99.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Gierth, Brigitte. “Un apophtegme commun a la Pistis Sophia et à l’Évangile selon Thomas.” <em>RevScRel</em> 64 (1990): 245–49.</p>",
+      "line_text": "Gierth, Brigitte. “Un apophtegme commun a la Pistis Sophia et à l’Évangile selon Thomas.” RevScRel 64 (1990): 245–49.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Helderman, Jan. “Die Herrenworte über das Brautgemach im Thomasevangelium und im Dialog des Erlösers.” Pages 69–88 in <em>Sayings of Jesus, Canonical and Non–Canonical: Essays in Honour of Tjitze Baarda</em>. Edited by William L. Petersen, Johan S. Vos, and Henk Jan de Jonge Leiden: Brill, 1997.</p>",
+      "line_text": "Helderman, Jan. “Die Herrenworte über das Brautgemach im Thomasevangelium und im Dialog des Erlösers.” Pages 69–88 in Sayings of Jesus, Canonical and Non–Canonical: Essays in Honour of Tjitze Baarda. Edited by William L. Petersen, Johan S. Vos, and Henk Jan de Jonge Leiden: Brill, 1997.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques E. “Le milieu syriaque de l’Évangile selon Thomas et de l’Évangile selon Philippe.” <em>RevScRel</em> 42 (1968): 261–66.</p>",
+      "line_text": "Ménard, Jacques E. “Le milieu syriaque de l’Évangile selon Thomas et de l’Évangile selon Philippe.” RevScRel 42 (1968): 261–66.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Perrin, Nicholas. <em>Thomas and Tatian: The Relationship between the Gospel of Thomas and the Diatessaron</em>. AcBib 5. Atlanta: Society of Biblical Literature, 2002.</p>",
+      "line_text": "Perrin, Nicholas. Thomas and Tatian: The Relationship between the Gospel of Thomas and the Diatessaron. AcBib 5. Atlanta: Society of Biblical Literature, 2002.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “L’Évangile selon Thomas et les Clementines.” <em>VC</em> 12 (1958): 181–96.</p>",
+      "line_text": "Quispel, Gilles. “L’Évangile selon Thomas et les Clementines.” VC 12 (1958): 181–96.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “L’Évangile selon Thomas et le Diatessaron.” <em>VC</em> 13 (1959): 87–117. Reprinted as pp. 31–35 in <em>Gnostic Studies II</em>. Istanbul: Nederlands Historisch–Archaelogisch Institut te Istanbul, 1975.</p>",
+      "line_text": "___________. “L’Évangile selon Thomas et le Diatessaron.” VC 13 (1959): 87–117. Reprinted as pp. 31–35 in Gnostic Studies II. Istanbul: Nederlands Historisch–Archaelogisch Institut te Istanbul, 1975.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. <em>Makarius, das Thomasevangelium und das Lied von der Perle.</em> NovTSup 15. Leiden: Brill, 1967.</p>",
+      "line_text": "___________. Makarius, das Thomasevangelium und das Lied von der Perle. NovTSup 15. Leiden: Brill, 1967.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p><em> </em>___________. <em>Tatian and the Gospel of Thomas: Studies in the History of the Western Diatessaron</em>. Leiden: Brill, 1975.</p>",
+      "line_text": " ___________. Tatian and the Gospel of Thomas: Studies in the History of the Western Diatessaron. Leiden: Brill, 1975.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>___________. “The ‘Gospel of Thomas’ and the ‘Gospel of the Hebrews.’” <em>NTS </em>12 (1966): 371–82.</p>",
+      "line_text": "___________. “The ‘Gospel of Thomas’ and the ‘Gospel of the Hebrews.’” NTS 12 (1966): 371–82.",
+      "language": "Thomas and the Gospel of Jesus’ Wife",
+      "entry_type": "Thomas and Early Christianity Literature"
+    },
+    {
+      "line_html": "<p>Arnal, William E. “The Rhetoric of Marginality: Apocalypticism, Gnosticism, and Sayings Gospels.” <em>HTR</em> 88 (1995): 471–94.</p>",
+      "line_text": "Arnal, William E. “The Rhetoric of Marginality: Apocalypticism, Gnosticism, and Sayings Gospels.” HTR 88 (1995): 471–94.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Crislip, Andrew. “Lion and Human in <em>Gospel of Thomas</em> Logion 7.” <em>JBL </em>126 (2007): 595–613.</p>",
+      "line_text": "Crislip, Andrew. “Lion and Human in Gospel of Thomas Logion 7.” JBL 126 (2007): 595–613.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Davies, Stevan. <em>The Gospel of Thomas and Christian Wisdom. </em>New York: Seabury, 1983.</p>",
+      "line_text": "Davies, Stevan. The Gospel of Thomas and Christian Wisdom. New York: Seabury, 1983.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>DeConick, April D. “Mysticism in the Gospel of Thomas,” in <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie. </em>Edited by Jörg Frey, Enno Edzard Popkes, Jens Schröter, Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 157 (Berlin &amp; New York: Walter de Gruyter, 2008), 206–221.</p>",
+      "line_text": "DeConick, April D. “Mysticism in the Gospel of Thomas,” in Das Thomasevangelium: Entstehung, Rezeption, Theologie. Edited by Jörg Frey, Enno Edzard Popkes, Jens Schröter, Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 157 (Berlin &amp; New York: Walter de Gruyter, 2008), 206–221.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>___________. <em>Seek to See Him: Ascent and Vision Mysticism in the Gospel of Thomas</em>, Supplements to Vigiliae Christianae 33 (Leiden: Brill, 1996).</p>",
+      "line_text": "___________. Seek to See Him: Ascent and Vision Mysticism in the Gospel of Thomas, Supplements to Vigiliae Christianae 33 (Leiden: Brill, 1996).",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>___________. <em>Voices of the Mystics: Early Christian Discourse in the Gospels of John and Thomas and Other Ancient Christian Literature</em>, Library of New Testament Studies 157 (Sheffield: Sheffield Academic Press, 2001).</p>",
+      "line_text": "___________. Voices of the Mystics: Early Christian Discourse in the Gospels of John and Thomas and Other Ancient Christian Literature, Library of New Testament Studies 157 (Sheffield: Sheffield Academic Press, 2001).",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “‘The Heavens and the Earth Will Be Rolled Up’: The Eschatology of the Gospel of Thomas. Pages 280–302 in <em>Eschatologie = Eschatology: The Sixth Durham-Tübingen Research Symposium: Eschatology in the Old Testament, Ancient Judaism and Early Christianity</em>. Edited by Hans-Joachim Eckstein, Christof Landmesser, and Hermann Lichtenberger. Tübingen: Mohr Siebeck, 2011.</p>",
+      "line_text": "Gathercole, Simon J. “‘The Heavens and the Earth Will Be Rolled Up’: The Eschatology of the Gospel of Thomas. Pages 280–302 in Eschatologie = Eschatology: The Sixth Durham-Tübingen Research Symposium: Eschatology in the Old Testament, Ancient Judaism and Early Christianity. Edited by Hans-Joachim Eckstein, Christof Landmesser, and Hermann Lichtenberger. Tübingen: Mohr Siebeck, 2011.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Jackson, Howard M. <em>The Lion Becomes Man: The Gnostic Leontomorphic Creator and the Platonic Tradition</em>. Society of Biblical Literature Dissertation Series 81. Atlanta: Scholars Press, 1985.</p>",
+      "line_text": "Jackson, Howard M. The Lion Becomes Man: The Gnostic Leontomorphic Creator and the Platonic Tradition. Society of Biblical Literature Dissertation Series 81. Atlanta: Scholars Press, 1985.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Kim, David W. “Is the Gospel of Thomas Gnostic?” Pages 170–79 In <em>The Gnostic World. </em>Edited by Garry Trompf, Gunner B. Mikkelsen, and Jay Johnson. Routledge Worlds. London: Routledge, 2018.</p>",
+      "line_text": "Kim, David W. “Is the Gospel of Thomas Gnostic?” Pages 170–79 In The Gnostic World. Edited by Garry Trompf, Gunner B. Mikkelsen, and Jay Johnson. Routledge Worlds. London: Routledge, 2018.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. <em>The Gospel of Thomas and Plato: A Study of the Impact of Platonism on the “Fifth Gospel.” </em>Nag Hammadi and Manichaean Studies 93. Leiden: Brill, 2018.</p>",
+      "line_text": "Miroshnikov, Ivan. The Gospel of Thomas and Plato: A Study of the Impact of Platonism on the “Fifth Gospel.” Nag Hammadi and Manichaean Studies 93. Leiden: Brill, 2018.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “Jesus Meets Plato: The Theology of the Gospel of Thomas and Middle Platonism,” Pages 181–205 in <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie. </em>Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 157. Berlin: Walter de Gruyter.</p>",
+      "line_text": "Patterson, Stephen J. “Jesus Meets Plato: The Theology of the Gospel of Thomas and Middle Platonism,” Pages 181–205 in Das Thomasevangelium: Entstehung, Rezeption, Theologie. Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 157. Berlin: Walter de Gruyter.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Roques, René. “Gnosticisme et christianisme: l’Évangile selon Thomas.” <em>Irénikon</em> 33 (1960): 29–40.</p>",
+      "line_text": "Roques, René. “Gnosticisme et christianisme: l’Évangile selon Thomas.” Irénikon 33 (1960): 29–40.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Schoedel, William. “Naasene Themes in the Coptic Gospel of Thomas.” <em>VC</em> 14 (1960): 225–34.</p>",
+      "line_text": "Schoedel, William. “Naasene Themes in the Coptic Gospel of Thomas.” VC 14 (1960): 225–34.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Sevrin, Jean–Marie. “L’ évangile apocryphe de Thomas: un enseignement gnostique.” <em>Foi et vie</em> 81 (1982): 62–80.</p>",
+      "line_text": "Sevrin, Jean–Marie. “L’ évangile apocryphe de Thomas: un enseignement gnostique.” Foi et vie 81 (1982): 62–80.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>___________. “L’Évangile selon Thomas: Paroles de Jésus et révélation gnostique.” <em>Revue théologique de Louvain</em> 8 (1977): 265–92.</p>",
+      "line_text": "___________. “L’Évangile selon Thomas: Paroles de Jésus et révélation gnostique.” Revue théologique de Louvain 8 (1977): 265–92.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Sivertsev, Alexei. “The Gospel of Thomas and Early Stages in the Development of the Christian Wisdom Literature.” <em>Journal of Early Christian Studies</em> 8 (2000): 319–40.</p>",
+      "line_text": "Sivertsev, Alexei. “The Gospel of Thomas and Early Stages in the Development of the Christian Wisdom Literature.” Journal of Early Christian Studies 8 (2000): 319–40.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Uro, Risto. “Asceticism and Anti–Familial Language in the Gospel of Thomas.” Pages 216–34 in <em>Constructing Early Christian Families: Family as Social Reality and Metaphor. </em>Edited by Halvor Moxnes. London: Routledge, 1997.</p>",
+      "line_text": "Uro, Risto. “Asceticism and Anti–Familial Language in the Gospel of Thomas.” Pages 216–34 in Constructing Early Christian Families: Family as Social Reality and Metaphor. Edited by Halvor Moxnes. London: Routledge, 1997.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>___________. “Is Thomas an Encratite Gospel?” Pages 140–62 in <em>Thomas at the Crossroads: Essays on the Gospel of Thomas</em>. Edited by Risto Uro. Studies of the New Testament and Its World. Edinburgh: T&amp;T Clark, 1998.</p>",
+      "line_text": "___________. “Is Thomas an Encratite Gospel?” Pages 140–62 in Thomas at the Crossroads: Essays on the Gospel of Thomas. Edited by Risto Uro. Studies of the New Testament and Its World. Edinburgh: T&amp;T Clark, 1998.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>___________. “The Social World of the Gospel of Thomas.” Pages 19–38 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Ma Asgeirsson, April DeConick, and Risto Uro. Leiden: Brill, 2006.</p>",
+      "line_text": "___________. “The Social World of the Gospel of Thomas.” Pages 19–38 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Ma Asgeirsson, April DeConick, and Risto Uro. Leiden: Brill, 2006.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Valantasis, Richard. “Is the Gospel of Thomas Ascetical? Revisiting an Old Problem with a New Theory.” <em>Journal of Early Christian Studies</em> 7 (1999): 55–81.</p>",
+      "line_text": "Valantasis, Richard. “Is the Gospel of Thomas Ascetical? Revisiting an Old Problem with a New Theory.” Journal of Early Christian Studies 7 (1999): 55–81.",
+      "language": "English",
+      "entry_type": "Thomas’s Theological Outlook"
+    },
+    {
+      "line_html": "<p>Baarda, Tjitze. “‘Chose’ or ‘Collected’: Concerning an Aramaism in Logion 8 of the Gospel of Thomas and the Question of Independence.” <em>HTR</em> 84 (1991): 373–97.</p>",
+      "line_text": "Baarda, Tjitze. “‘Chose’ or ‘Collected’: Concerning an Aramaism in Logion 8 of the Gospel of Thomas and the Question of Independence.” HTR 84 (1991): 373–97.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>___________. “‘The Cornerstone’: An Aramaism in the Diatessaron and the Gospel of Thomas?” <em>NovT </em> 37 (1995): 285–300.</p>",
+      "line_text": "___________. “‘The Cornerstone’: An Aramaism in the Diatessaron and the Gospel of Thomas?” NovT  37 (1995): 285–300.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Garitte, Gerard. “Le fragment géorgian de l’Évangile de Thomas.” <em>Revue d’Histoire Ecclésiastique</em> 51 (1956): 513–20.</p>",
+      "line_text": "Garitte, Gerard. “Le fragment géorgian de l’Évangile de Thomas.” Revue d’Histoire Ecclésiastique 51 (1956): 513–20.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>___________. “Les ‘Logoi’ d’Oxyrhynque sont traduits de copte,” <em>Le Muséon</em> 73 (1960): 335–49.</p>",
+      "line_text": "___________. “Les ‘Logoi’ d’Oxyrhynque sont traduits de copte,” Le Muséon 73 (1960): 335–49.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Guillaumont, Antoine. “Les Sémitismes dans l’Évangile selon Thomas: Essai de classement.” Pages 190–204 in <em>Studies in Gnosticism and Hellenistic Religions Presented to Gilles Quispel on the Occasion of his 65th Birthday</em>. Edited by R. van den Broeck. Leiden: Brill, 1981.</p>",
+      "line_text": "Guillaumont, Antoine. “Les Sémitismes dans l’Évangile selon Thomas: Essai de classement.” Pages 190–204 in Studies in Gnosticism and Hellenistic Religions Presented to Gilles Quispel on the Occasion of his 65th Birthday. Edited by R. van den Broeck. Leiden: Brill, 1981.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>___________. “Sémitismes dans les logia de Jésus retrouvés à Nag–Hammâdi<em>.” Journal Asiatique </em>246 (1958): 113–23.</p>",
+      "line_text": "___________. “Sémitismes dans les logia de Jésus retrouvés à Nag–Hammâdi.” Journal Asiatique 246 (1958): 113–23.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. “‘In’ or ‘About’? Gospel of Thomas 52 and ‘Hebraizing’ Greek.” <em>Teologinen Aikakauskirja </em>117 (2012): 179–85.</p>",
+      "line_text": "Miroshnikov, Ivan. “‘In’ or ‘About’? Gospel of Thomas 52 and ‘Hebraizing’ Greek.” Teologinen Aikakauskirja 117 (2012): 179–85.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Perrin, Nicholas. “NHC II,2 and the Oxyrhynchus Fragments (P.Oxy 1, 654, 655): Overlooked Evidence for a Syriac Gospel of Thomas,” <em>VC</em> 58 (2004): 138–51.</p>",
+      "line_text": "Perrin, Nicholas. “NHC II,2 and the Oxyrhynchus Fragments (P.Oxy 1, 654, 655): Overlooked Evidence for a Syriac Gospel of Thomas,” VC 58 (2004): 138–51.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>___________. “The Aramaic Origins of the Gospel of Thomas—Revisited.” Pages 50–59 in <em>Das Thomasevangelium: Entstehung, Rezeption, Theologie. </em>Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 157. Berlin &amp; New York: Walter de Gruyter, 2008.</p>",
+      "line_text": "___________. “The Aramaic Origins of the Gospel of Thomas—Revisited.” Pages 50–59 in Das Thomasevangelium: Entstehung, Rezeption, Theologie. Edited by Jörg Frey, Enno Edzard Popkes, and Jens Schröter. Beihefte zur Zeitschrift für die neutestamentliche Wissenschaft 157. Berlin &amp; New York: Walter de Gruyter, 2008.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>___________. <em>Thomas and Tatian: The Relationship between the Gospel of Thomas and the Diatessaron</em>, Academia Biblica 5. Atlanta: Society of Biblical Literature, 2002.</p>",
+      "line_text": "___________. Thomas and Tatian: The Relationship between the Gospel of Thomas and the Diatessaron, Academia Biblica 5. Atlanta: Society of Biblical Literature, 2002.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “L’Évangile selon Thomas et le Diatessaron,” in Pages 31–35 in <em>Gnostic Studies II</em>. Istanbul: Nederlands Historisch–Archaelogisch Institut te Istanbul, 1975.</p>",
+      "line_text": "Quispel, Gilles. “L’Évangile selon Thomas et le Diatessaron,” in Pages 31–35 in Gnostic Studies II. Istanbul: Nederlands Historisch–Archaelogisch Institut te Istanbul, 1975.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p><em> </em>___________. <em>Tatian and the Gospel of Thomas: Studies in the History of the Western Diatessaron</em>. Leiden: Brill, 1975.</p>",
+      "line_text": " ___________. Tatian and the Gospel of Thomas: Studies in the History of the Western Diatessaron. Leiden: Brill, 1975.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Williams, Peter J. “Alleged Syriac Catchwords in the Gospel of Thomas.” <em>VC</em> 63 (2009): 71–82.</p>",
+      "line_text": "Williams, Peter J. “Alleged Syriac Catchwords in the Gospel of Thomas.” VC 63 (2009): 71–82.",
+      "language": "English",
+      "entry_type": "Linguistic and Philological Issues"
+    },
+    {
+      "line_html": "<p>Arai, Sasagu. “‘To Make Her Male:’ An Interpretation of Logion 114 in the Gospel of Thomas.” Pages 373–76 in <em>Studia Patristica: Papers Presented at the Eleventh International Conference on Patristic Studies Held in Oxford 1991</em>. Edited by Elizabeth A. Livingstone. Leuven: Peeters, 1993.</p>",
+      "line_text": "Arai, Sasagu. “‘To Make Her Male:’ An Interpretation of Logion 114 in the Gospel of Thomas.” Pages 373–76 in Studia Patristica: Papers Presented at the Eleventh International Conference on Patristic Studies Held in Oxford 1991. Edited by Elizabeth A. Livingstone. Leuven: Peeters, 1993.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Attridge, Harold W. “The Original Text of Gos. Thom., Saying 30.” <em>Bulletin of the American Society of Papyrologists</em> 16 (1979): 153–57.</p>",
+      "line_text": "Attridge, Harold W. “The Original Text of Gos. Thom., Saying 30.” Bulletin of the American Society of Papyrologists 16 (1979): 153–57.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Baarda, Tjitze. “‘Blessed are the Poor. . .’ Concerning the Provenance of Logion 54 in ‘Thomas’.” <em>Essays in Honor of Frederick Wisse, ARC: The Journal of the Faculty of Religious Studies,</em> <em>McGill</em> 33: 32–51.</p>",
+      "line_text": "Baarda, Tjitze. “‘Blessed are the Poor. . .’ Concerning the Provenance of Logion 54 in ‘Thomas’.” Essays in Honor of Frederick Wisse, ARC: The Journal of the Faculty of Religious Studies, McGill 33: 32–51.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. “‘Blessed are the Poor…’: John Dominic Crossan on Logion 54.” <em>Gereformeerd theologisch tijdschrift</em> 97 (1997): 127–32.</p>",
+      "line_text": "___________. “‘Blessed are the Poor…’: John Dominic Crossan on Logion 54.” Gereformeerd theologisch tijdschrift 97 (1997): 127–32.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>____<u>     </u>_______. “‘Chose’ or ‘Collected’: Concerning an Aramaism in Logion 8 of the Gospel of Thomas and the Question of Independence.” <em>HTR</em> 84 (1991): 373–97.</p>",
+      "line_text": "____     _______. “‘Chose’ or ‘Collected’: Concerning an Aramaism in Logion 8 of the Gospel of Thomas and the Question of Independence.” HTR 84 (1991): 373–97.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. “‘The Cornerstone’: An Aramaism in the Diatessaron and the Gospel of Thomas?” <em>NovT </em> 37 (1995): 285–300.</p>",
+      "line_text": "___________. “‘The Cornerstone’: An Aramaism in the Diatessaron and the Gospel of Thomas?” NovT  37 (1995): 285–300.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>_____<u>     </u>______. “‘Vader – Zoon – Heilige Geest’ Logion 44 van ‘Thomas’.” <em>Nederlands theologisch tijdschrift</em> 51 (1997): 13–30.</p>",
+      "line_text": "_____     ______. “‘Vader – Zoon – Heilige Geest’ Logion 44 van ‘Thomas’.” Nederlands theologisch tijdschrift 51 (1997): 13–30.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Brankaer, Johanna. “L’ironie de Jésus dans le logion 114 de l’Évangile de Thomas.” <em>Apocrypha</em> 16 (2005): 149–62.</p>",
+      "line_text": "Brankaer, Johanna. “L’ironie de Jésus dans le logion 114 de l’Évangile de Thomas.” Apocrypha 16 (2005): 149–62.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Buckley, Jorunn Jacobsen. “An Interpretation of Logion 114 in ‘The Gospel of Thomas.’” <em>NovT </em> 27 (1985): 245–72.</p>",
+      "line_text": "Buckley, Jorunn Jacobsen. “An Interpretation of Logion 114 in ‘The Gospel of Thomas.’” NovT  27 (1985): 245–72.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Corley, Kathleen E. “Salome and Jesus at Table in the Gospel of Thomas.” <em>Semeia</em> 86 (1999): 85–97.</p>",
+      "line_text": "Corley, Kathleen E. “Salome and Jesus at Table in the Gospel of Thomas.” Semeia 86 (1999): 85–97.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Crégheur, Eric. “Le motif des cinq arbres dans l’Évangile selon Thomas (log. 19) et la littérature ancienne.” <em>Zeitschrift für antikes Christentum</em>,19 (2015): 430–51.</p>",
+      "line_text": "Crégheur, Eric. “Le motif des cinq arbres dans l’Évangile selon Thomas (log. 19) et la littérature ancienne.” Zeitschrift für antikes Christentum,19 (2015): 430–51.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Crislip, Andrew. “Lion and Human in <em>Gospel of Thomas</em> Logion 7.” <em>JBL</em> 126 (2007): 595–613.</p>",
+      "line_text": "Crislip, Andrew. “Lion and Human in Gospel of Thomas Logion 7.” JBL 126 (2007): 595–613.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Cwikla, Anna. “There’s Nothing about Mary: The Insignificance of Mary in the Gospel of Thomas 114.” <em>Journal for Interdisciplinary Biblical Studies</em> 1 (2019): 95–112.</p>",
+      "line_text": "Cwikla, Anna. “There’s Nothing about Mary: The Insignificance of Mary in the Gospel of Thomas 114.” Journal for Interdisciplinary Biblical Studies 1 (2019): 95–112.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>DeConick, April. D. “The Yoke Saying in the Gospel of Thomas 90.” <em>VC</em> 44 (1990): 280–94.</p>",
+      "line_text": "DeConick, April. D. “The Yoke Saying in the Gospel of Thomas 90.” VC 44 (1990): 280–94.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>DeConick, April D. and Jarl E. Fossum. “Stripped before God: A New Interpretation of Logion 37 in the Gospel of Thomas.” <em>VC</em> 45 (1991): 123–50.</p>",
+      "line_text": "DeConick, April D. and Jarl E. Fossum. “Stripped before God: A New Interpretation of Logion 37 in the Gospel of Thomas.” VC 45 (1991): 123–50.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Dehandschutter, Boudewijn. “Les paraboles de l’Evangile selon Thomas: la parabole du Trésor caché (log 109).” <em>ETL</em> 47 (1971): 199–219.</p>",
+      "line_text": "Dehandschutter, Boudewijn. “Les paraboles de l’Evangile selon Thomas: la parabole du Trésor caché (log 109).” ETL 47 (1971): 199–219.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Gagné, André. “Des Étrangers Issus du Royaume et de la Lumière (EvTh 49–50): Les Solitaires–Élus dans l’Evangile selon Thomas, selon Une Approche Intratextuelle.” <em>LTP</em> 70 (2014): 105–17.</p>",
+      "line_text": "Gagné, André. “Des Étrangers Issus du Royaume et de la Lumière (EvTh 49–50): Les Solitaires–Élus dans l’Evangile selon Thomas, selon Une Approche Intratextuelle.” LTP 70 (2014): 105–17.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon. “Quis et Unde? Heavenly Obstacles in Gos. Thom. 50 and Related Literature.” Pages 82–99 in <em>Paradise in Antiquity: Jewish and Christian Views</em>. Edited by Markus Bockmuehl and Guy G. Stroumsa. Cambridge: Cambridge University Press, 2010.</p>",
+      "line_text": "Gathercole, Simon. “Quis et Unde? Heavenly Obstacles in Gos. Thom. 50 and Related Literature.” Pages 82–99 in Paradise in Antiquity: Jewish and Christian Views. Edited by Markus Bockmuehl and Guy G. Stroumsa. Cambridge: Cambridge University Press, 2010.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Johnson, Steven R. “The Hidden/Revealed Saying in the Greek and Coptic Versions of Gos. Thom. 5 &amp; 6.” <em>NovT </em> 44 (2002): 176–85.</p>",
+      "line_text": "Johnson, Steven R. “The Hidden/Revealed Saying in the Greek and Coptic Versions of Gos. Thom. 5 &amp; 6.” NovT  44 (2002): 176–85.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Jipp, Joshua W. and Michael Thate. “Dating ‘Thomas’: Logion 53 as a Test Case for Dating the ‘Gospel of Thomas’ within an Early Christian Trajectory.” <em>BBR</em> 20 (2010): 237–55.</p>",
+      "line_text": "Jipp, Joshua W. and Michael Thate. “Dating ‘Thomas’: Logion 53 as a Test Case for Dating the ‘Gospel of Thomas’ within an Early Christian Trajectory.” BBR 20 (2010): 237–55.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Johnson, Steven R. “The Gospel of Thomas 76:3 and Canonical Parallels: Three Segments in the Tradition History of the Saying.” Pages 308–26 in <em>The Nag Hammadi Library after Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration</em>. Edited by John D. Turner and Anne McGuire. Leiden: Brill, 1997.</p>",
+      "line_text": "Johnson, Steven R. “The Gospel of Thomas 76:3 and Canonical Parallels: Three Segments in the Tradition History of the Saying.” Pages 308–26 in The Nag Hammadi Library after Fifty Years: Proceedings of the 1995 Society of Biblical Literature Commemoration. Edited by John D. Turner and Anne McGuire. Leiden: Brill, 1997.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. “The Hidden/Revealed Saying in the Greek and Coptic Versions of Gos. Thom. 5 &amp; 6.” <em>NovT </em> 44 (2002): 176–85.</p>",
+      "line_text": "___________. “The Hidden/Revealed Saying in the Greek and Coptic Versions of Gos. Thom. 5 &amp; 6.” NovT  44 (2002): 176–85.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. <em>Seeking the Imperishable Treasure: Wealth, Wisdom, and a Jesus Saying</em>. Eugene, OR: Cascade, 2008.</p>",
+      "line_text": "___________. Seeking the Imperishable Treasure: Wealth, Wisdom, and a Jesus Saying. Eugene, OR: Cascade, 2008.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>King, Joshua T. “Sabbath Keeping as Metaphor in the Gospel of Thomas.” <em>CBQ</em> 81 (2019): 641–56.</p>",
+      "line_text": "King, Joshua T. “Sabbath Keeping as Metaphor in the Gospel of Thomas.” CBQ 81 (2019): 641–56.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Linjamaa, Paul. “Savoring Life with an Unsympathetic World View: Sabbath as Rest and Contemplation in Gospel of Thomas Logion 27.” <em>Numen</em> 63 (2016): 461–82.</p>",
+      "line_text": "Linjamaa, Paul. “Savoring Life with an Unsympathetic World View: Sabbath as Rest and Contemplation in Gospel of Thomas Logion 27.” Numen 63 (2016): 461–82.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Luijendijk, AnneMarie. “Buried and Raised: Gospel of Thomas Logion 5 and Resurrection.” Pages 272–96 in <em>Beyond the Gnostic Gospels: Studies Building on the Work of Elaine Pagels</em>. Edited by Eduard Iricinschi, Lance Jenott, Nicola Denzey Lewis, and Philippa Townsend. STAC 82. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "Luijendijk, AnneMarie. “Buried and Raised: Gospel of Thomas Logion 5 and Resurrection.” Pages 272–96 in Beyond the Gnostic Gospels: Studies Building on the Work of Elaine Pagels. Edited by Eduard Iricinschi, Lance Jenott, Nicola Denzey Lewis, and Philippa Townsend. STAC 82. Tübingen: Mohr Siebeck, 2013.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p><a href=\"https://religion.princeton.edu/wp-content/uploads/Luijendijk-Late-Antique-Shroud-with-Gospel-of-Thomas-zac.2011.20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>___________. “Jesus Says: ‘There is Nothing Buried that Will Not be Raised’: A Late–Antique Shroud with Gospel of Thomas Logion 5 in Context.” <em>ZAC</em> 15 (2011): 389–410.</p>",
+      "line_text": "___________. “Jesus Says: ‘There is Nothing Buried that Will Not be Raised’: A Late–Antique Shroud with Gospel of Thomas Logion 5 in Context.” ZAC 15 (2011): 389–410.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas",
+      "other_urls": [
+        "https://religion.princeton.edu/wp-content/uploads/Luijendijk-Late-Antique-Shroud-with-Gospel-of-Thomas-zac.2011.20.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. “‘Be Passersby’: Gospel of Thomas 42, Jesus Traditions, and Islamic Literature.” Pages 255–71 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Ma Asgeirsson, April Deconick, and Risto Uro. Nag Hammadi and Manichean Studies 59. Leiden: Brill, 2006.</p>",
+      "line_text": "Meyer, Marvin W. “‘Be Passersby’: Gospel of Thomas 42, Jesus Traditions, and Islamic Literature.” Pages 255–71 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Ma Asgeirsson, April Deconick, and Risto Uro. Nag Hammadi and Manichean Studies 59. Leiden: Brill, 2006.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. “Gospel of Thomas Logion 114 Revisited.” Pages 101–11 in <em>For the Children, Perfect Instruction: Studies in Honor of Hans-Martin Schenke on the Cccasion of the Berliner Arbeitskreis für koptisch-gnostische Schriften’s Thirtieth Year</em>. Edited by Hans-Gebhard Bethge, Karen L. King, Stephen Emmel, and Imke Schletterer. Nag Hammadi and Manicehan Studies 54. Leiden: Brill, 2002.</p>",
+      "line_text": "___________. “Gospel of Thomas Logion 114 Revisited.” Pages 101–11 in For the Children, Perfect Instruction: Studies in Honor of Hans-Martin Schenke on the Cccasion of the Berliner Arbeitskreis für koptisch-gnostische Schriften’s Thirtieth Year. Edited by Hans-Gebhard Bethge, Karen L. King, Stephen Emmel, and Imke Schletterer. Nag Hammadi and Manicehan Studies 54. Leiden: Brill, 2002.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. “Seeing or Coming to the Child of the Living One? More on Gospel of Thomas Saying 37.” <em>HTR</em> 91 (1998): 413–16.</p>",
+      "line_text": "___________. “Seeing or Coming to the Child of the Living One? More on Gospel of Thomas Saying 37.” HTR 91 (1998): 413–16.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>___________. “The Beginning of the Gospel of Thomas.” <em>Semeia</em> 52 (1990): 161–73.</p>",
+      "line_text": "___________. “The Beginning of the Gospel of Thomas.” Semeia 52 (1990): 161–73.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. “‘For Women Are Not Worthy of Life’: Protology and Misogyny in Gospel of Thomas Saying 114.” Pages 175–86 in <em>Women and Knowledge in Early Christianity</em>. Edited by Ulla Tervahauta, Ivan Miroshnikov, Outi Lehtipuu, and Ismo Dunderberg. VCSup 144. Leiden: Brill, 2017.</p>",
+      "line_text": "Miroshnikov, Ivan. “‘For Women Are Not Worthy of Life’: Protology and Misogyny in Gospel of Thomas Saying 114.” Pages 175–86 in Women and Knowledge in Early Christianity. Edited by Ulla Tervahauta, Ivan Miroshnikov, Outi Lehtipuu, and Ismo Dunderberg. VCSup 144. Leiden: Brill, 2017.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “‘Why Can’t a Woman Be More Like a Man?’: Making Mary Male (Thomas 114) in the Gendered World of Antiquity.” Pages 115–32 in <em>Envisioning God in the Humanities: Essays on Christianity, Judaism, and Ancient Religion in Honor of Melissa Harl Sellew</em>. Edited by Courtney J. P. Friesen. Eugene, OR: Cascade, 2018.</p>",
+      "line_text": "Patterson, Stephen J. “‘Why Can’t a Woman Be More Like a Man?’: Making Mary Male (Thomas 114) in the Gendered World of Antiquity.” Pages 115–32 in Envisioning God in the Humanities: Essays on Christianity, Judaism, and Ancient Religion in Honor of Melissa Harl Sellew. Edited by Courtney J. P. Friesen. Eugene, OR: Cascade, 2018.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Renaud-Grosbras, Pascale. “Parago: promenade exégétique dans le Nouveau Testament et le logion 42 de l’Évangile de Thomas.” <em>ETR</em> 86 (2011): 209–20.</p>",
+      "line_text": "Renaud-Grosbras, Pascale. “Parago: promenade exégétique dans le Nouveau Testament et le logion 42 de l’Évangile de Thomas.” ETR 86 (2011): 209–20.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Schüngel, Paul. “Ein Vorschlag, EvTho 114 neu zu übersetzen.” <em>NovT </em> 36 (1994): 394–401.</p>",
+      "line_text": "Schüngel, Paul. “Ein Vorschlag, EvTho 114 neu zu übersetzen.” NovT  36 (1994): 394–401.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Sellew, Melissa (née Philip) Harl. “Jesus and the Voice from beyond the Grave: Gospel of Thomas 42 in the Context of Funerary Epigraphy.” Pages 39–73 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Ma Asgeirsson, April D. DeConick, and Risto Uro. Leiden : Brill, 2006.</p>",
+      "line_text": "Sellew, Melissa (née Philip) Harl. “Jesus and the Voice from beyond the Grave: Gospel of Thomas 42 in the Context of Funerary Epigraphy.” Pages 39–73 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Ma Asgeirsson, April D. DeConick, and Risto Uro. Leiden : Brill, 2006.",
+      "language": "English",
+      "entry_type": "Individual Logia in Thomas"
+    },
+    {
+      "line_html": "<p>Attridge, Harold W. “The Original Text of Gos. Thom., Saying 30.” <em>BASP</em> 16 (1979): 153–57.</p>",
+      "line_text": "Attridge, Harold W. “The Original Text of Gos. Thom., Saying 30.” BASP 16 (1979): 153–57.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>DeConick, April. D. “Corrections to the Critical Reading of the Gospel of Thomas.” <em>VC</em> 60 (2006): 201–208.</p>",
+      "line_text": "DeConick, April. D. “Corrections to the Critical Reading of the Gospel of Thomas.” VC 60 (2006): 201–208.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “A Proposed Rereading of P.Oxy. 654 line 41 (Gos. Thom. 7).” <em>HTR</em> 99 (2006): 355–59.</p>",
+      "line_text": "Gathercole, Simon J. “A Proposed Rereading of P.Oxy. 654 line 41 (Gos. Thom. 7).” HTR 99 (2006): 355–59.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Marcovich, Miroslav. “Textual Criticism on the Gospel of Thomas.” <em>JTS</em> 20 (1969): 53–74.</p>",
+      "line_text": "Marcovich, Miroslav. “Textual Criticism on the Gospel of Thomas.” JTS 20 (1969): 53–74.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “L’Évangile selon Thomas et le ‘Texte Occidental’ du Nouveau Testament.” <em>VC</em> 14 (1960): 204–15.</p>",
+      "line_text": "Quispel, Gilles. “L’Évangile selon Thomas et le ‘Texte Occidental’ du Nouveau Testament.” VC 14 (1960): 204–15.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Robinson, James M. “Textual Criticism, Q, and the Gospel of Thomas.” Pages 9–22 in <em>Text and Community: Essays in Memory of Bruce M Metzger</em>. Edited by J. Harold Ellens. Sheffield: Sheffield Phoenix, 2007.</p>",
+      "line_text": "Robinson, James M. “Textual Criticism, Q, and the Gospel of Thomas.” Pages 9–22 in Text and Community: Essays in Memory of Bruce M Metzger. Edited by J. Harold Ellens. Sheffield: Sheffield Phoenix, 2007.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Roques, René. “‘L’Évangile selon Thomas’: son édition critique et son identification.” <em>RHR</em> 157 (1960): 187–218.</p>",
+      "line_text": "Roques, René. “‘L’Évangile selon Thomas’: son édition critique et son identification.” RHR 157 (1960): 187–218.",
+      "language": "Text Criticism and Textual Concerns",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Asgeirsson, Jon Ma. “Arguments and Audience(s) in the Gospel of Thomas (Part I).” <em>SBLSP</em> (1997): 47–85.</p>",
+      "line_text": "Asgeirsson, Jon Ma. “Arguments and Audience(s) in the Gospel of Thomas (Part I).” SBLSP (1997): 47–85.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Arguments and Audience(s) in the Gospel of Thomas (Part II).” <em>SBLSP</em> (1998): 325–42.</p>",
+      "line_text": "___________. “Arguments and Audience(s) in the Gospel of Thomas (Part II).” SBLSP (1998): 325–42.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Broadhead, Edwin K. “An Authentic Saying of Jesus in the Gospel of Thomas.” <em>NTS </em> 46 (2000): 132–49.</p>",
+      "line_text": "Broadhead, Edwin K. “An Authentic Saying of Jesus in the Gospel of Thomas.” NTS  46 (2000): 132–49.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Callahan, Allen Dwight. “‘No Rhyme or Reason’: The Hidden Logia of the Gospel of Thomas.” <em>HTR</em> 90 (1997): 411–26.</p>",
+      "line_text": "Callahan, Allen Dwight. “‘No Rhyme or Reason’: The Hidden Logia of the Gospel of Thomas.” HTR 90 (1997): 411–26.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>DeConick, April. D. “On the Brink of the Apocalypse: A Preliminary Examination of the Earliest Speeches in the Gospel of Thomas.” Pages 93–118 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Ma Asgeirsson, April D. DeConick, and Risto Uro. Leiden: Brill, 2006.</p>",
+      "line_text": "DeConick, April. D. “On the Brink of the Apocalypse: A Preliminary Examination of the Earliest Speeches in the Gospel of Thomas.” Pages 93–118 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Ma Asgeirsson, April D. DeConick, and Risto Uro. Leiden: Brill, 2006.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “The Original Gospel of Thomas.” <em>VC</em> 56 (2002): 167–99.</p>",
+      "line_text": "___________. “The Original Gospel of Thomas.” VC 56 (2002): 167–99.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Cameron, Ron. “Parable and Interpretation in the Gospel of Thomas.” <em>Forum</em> 2 (1986): 3–39.</p>",
+      "line_text": "Cameron, Ron. “Parable and Interpretation in the Gospel of Thomas.” Forum 2 (1986): 3–39.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Dewey, Arthur J. “‘Keep Speaking Until You Find…’: Thomas and the School of Oral Mimesis.” Pages 109–32 in <em>Redescribing Christian Origins</em>. Edited by Ron Cameron and Merrill P. Miller. Society of Biblical Literature Symposium Series 28. Atlanta: Society of Biblical Literature, 2004.</p>",
+      "line_text": "Dewey, Arthur J. “‘Keep Speaking Until You Find…’: Thomas and the School of Oral Mimesis.” Pages 109–32 in Redescribing Christian Origins. Edited by Ron Cameron and Merrill P. Miller. Society of Biblical Literature Symposium Series 28. Atlanta: Society of Biblical Literature, 2004.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Eisele, Wilfried. <em>Welcher Thomas? Studien zur Text- und Überlieferungsgeschichte des Thomasevangeliums</em>. WUNT 259. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "Eisele, Wilfried. Welcher Thomas? Studien zur Text- und Überlieferungsgeschichte des Thomasevangeliums. WUNT 259. Tübingen: Mohr Siebeck, 2010.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Fitzymer, Joseph A.  “The Oxyrhynchus Logoi of Jesus and the Coptic Gospel according to Thomas.” Pages 355–43 in <em>Essays on the Semitic Background of the New Testament</em>. Missoula, MT: Scholars Press, 1974.</p>",
+      "line_text": "Fitzymer, Joseph A.  “The Oxyrhynchus Logoi of Jesus and the Coptic Gospel according to Thomas.” Pages 355–43 in Essays on the Semitic Background of the New Testament. Missoula, MT: Scholars Press, 1974.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. <em>The Composition of the Gospel of Thomas: Original Language and Influences.</em> SNTSMS 151. Cambridge: Cambridge University Press.</p>",
+      "line_text": "Gathercole, Simon J. The Composition of the Gospel of Thomas: Original Language and Influences. SNTSMS 151. Cambridge: Cambridge University Press.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Gianotto, Claudio. “Étude Critiquela Formation de l’Évangile selon Thomas: À Propos d’une Étude Récente.” <em>Apocrypha</em> 18 (2007): 297–307.</p>",
+      "line_text": "Gianotto, Claudio. “Étude Critiquela Formation de l’Évangile selon Thomas: À Propos d’une Étude Récente.” Apocrypha 18 (2007): 297–307.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Hofius, Otfried. “Das koptische Thomasevangelium und die Oxyrhynchus Papyri nr 1,654 und 655.” <em>EvT</em> 20 (1960): 21–42.</p>",
+      "line_text": "Hofius, Otfried. “Das koptische Thomasevangelium und die Oxyrhynchus Papyri nr 1,654 und 655.” EvT 20 (1960): 21–42.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel. “L’Évangile de Thomas: son importance pour l’eétude des paroles de Jésus et du Gnosticisme chrétien.” <em>ETR </em>54 (1979): 375–96.</p>",
+      "line_text": "Kaestli, Jean-Daniel. “L’Évangile de Thomas: son importance pour l’eétude des paroles de Jésus et du Gnosticisme chrétien.” ETR 54 (1979): 375–96.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “L’utilisation de l’Évangile de Thomas dans la recherche actuelle sur les paroles de Jésus.” Pages 373–95 in <em>Jésus de Nazareth: Nouvelles approches d’une eìnigme</em>. Edited by D. Marguerat, E. Norelli and J.-M. Poffet. Le Monde de la Bible 38. Geneva: Labor et Fides, 1998.</p>",
+      "line_text": "___________. “L’utilisation de l’Évangile de Thomas dans la recherche actuelle sur les paroles de Jésus.” Pages 373–95 in Jésus de Nazareth: Nouvelles approches d’une eìnigme. Edited by D. Marguerat, E. Norelli and J.-M. Poffet. Le Monde de la Bible 38. Geneva: Labor et Fides, 1998.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Koester, Helmut. “Dialog und Spruchüberlieferung in den gnostischen Texten von Nag Hammadi.” <em>EvT</em> 39 (1979): 532–56.</p>",
+      "line_text": "Koester, Helmut. “Dialog und Spruchüberlieferung in den gnostischen Texten von Nag Hammadi.” EvT 39 (1979): 532–56.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Gnostic Writings as Witnesses for the Development of the Sayings Tradition.” Pages 238–61 in <em>The Rediscovery of Gnosticism, Volume 1. The School of Valentinus: Proceedings of the International Conference on Gnosticism at Yale</em>. SHR 41. Edited by Bentley Layton. Leiden: Brill, 1980.</p>",
+      "line_text": "___________. “Gnostic Writings as Witnesses for the Development of the Sayings Tradition.” Pages 238–61 in The Rediscovery of Gnosticism, Volume 1. The School of Valentinus: Proceedings of the International Conference on Gnosticism at Yale. SHR 41. Edited by Bentley Layton. Leiden: Brill, 1980.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “ΓΝΩΜΑΙ ΔΙΑΦΟΡΟΙ: The Origin and Nature of Diversification in the History of Early Christianity.” <em>HTR </em>58 (1965): 279–318.</p>",
+      "line_text": "___________. “ΓΝΩΜΑΙ ΔΙΑΦΟΡΟΙ: The Origin and Nature of Diversification in the History of Early Christianity.” HTR 58 (1965): 279–318.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><strong> </strong>Lelyveld, Margaretha. <em>Les Logia de la Vie dans l’Evangile selon Thomas: A la Recherche d’une Tradition et d’une Rédaction</em>. NHS 34. Leiden: Brill, 1987.</p>",
+      "line_text": " Lelyveld, Margaretha. Les Logia de la Vie dans l’Evangile selon Thomas: A la Recherche d’une Tradition et d’une Rédaction. NHS 34. Leiden: Brill, 1987.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques-E. “Les Logia de l’Évangile selon Thomas.” <em>RSR</em> 62 (1988): 10–13.</p>",
+      "line_text": "Ménard, Jacques-E. “Les Logia de l’Évangile selon Thomas.” RSR 62 (1988): 10–13.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Puech, Henri-Charles. “Une collection des paroles de Jésus récemment retrouvée découverte en Égypte: L’Évangile selon Thomas.” <em>RHR</em> 153 (1958): 129–33.</p>",
+      "line_text": "Puech, Henri-Charles. “Une collection des paroles de Jésus récemment retrouvée découverte en Égypte: L’Évangile selon Thomas.” RHR 153 (1958): 129–33.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Une collection des paroles de Jésus récemment retrouvée: L’Évangile selon Thomas,” Pages 146–67 in <em>Comptes rendus de l’Academie des Inscriptions et Belles Lettres</em>. Paris: Institut de France, 1957.</p>",
+      "line_text": "___________. “Une collection des paroles de Jésus récemment retrouvée: L’Évangile selon Thomas,” Pages 146–67 in Comptes rendus de l’Academie des Inscriptions et Belles Lettres. Paris: Institut de France, 1957.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “The Gospel of Thomas and the New Testament.” <em>VC</em> 11 (1957): 189–207.</p>",
+      "line_text": "Quispel, Gilles. “The Gospel of Thomas and the New Testament.” VC 11 (1957): 189–207.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><strong> </strong>Robbins, Vernon K. “Enthymeme and Picture in the Gospel of Thomas.” Pages 175–207 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Ma Asgeirsson, April D. DeConick, and Risto Uro. Nag Hammadi and Manichaean Studies 59. Leiden: Brill, 2006.</p>",
+      "line_text": " Robbins, Vernon K. “Enthymeme and Picture in the Gospel of Thomas.” Pages 175–207 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Ma Asgeirsson, April D. DeConick, and Risto Uro. Nag Hammadi and Manichaean Studies 59. Leiden: Brill, 2006.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Enthymemic Texture in the Gospel of Thomas.” <em>SBLSP</em> 37 (1998): 343–66.</p>",
+      "line_text": "___________. “Enthymemic Texture in the Gospel of Thomas.” SBLSP 37 (1998): 343–66.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Rhetorical Composition and Sources in the Gospel of Thomas.” <em>SBLSP</em> (1997): 86–114.</p>",
+      "line_text": "___________. “Rhetorical Composition and Sources in the Gospel of Thomas.” SBLSP (1997): 86–114.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. “On the Compositional History of the Gospel of Thomas.” <em>FF</em> 10 (1994): 9–30.</p>",
+      "line_text": "Schenke, Hans-Martin. “On the Compositional History of the Gospel of Thomas.” FF 10 (1994): 9–30.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Sevrin, Jean-Marie. “L’Évangile selon Thomas: Paroles de Jésus et révélation gnostique.” <em>RTL</em> 8 (1977): 265–92.</p>",
+      "line_text": "Sevrin, Jean-Marie. “L’Évangile selon Thomas: Paroles de Jésus et révélation gnostique.” RTL 8 (1977): 265–92.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Uro, Risto. “Thomas and Oral Tradition.” Pages 8–32 in <em>Thomas at the Crossroads: Essays on the Gospel of Thomas</em>. Edited by Risto Uro. SNTW. Edinburgh: T&amp;T Clark, 1998.</p>",
+      "line_text": "Uro, Risto. “Thomas and Oral Tradition.” Pages 8–32 in Thomas at the Crossroads: Essays on the Gospel of Thomas. Edited by Risto Uro. SNTW. Edinburgh: T&amp;T Clark, 1998.",
+      "language": "Composition of Thomas / Jesus Sayings Tradition",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Arai, Sasagu. “‘To Make Her Male:’ An Interpretation of Logion 114 in the Gospel of Thomas.” Pages 373–76 in <em>Studia Patristica: Papers Presented at the Eleventh International Conference on Patristic Studies Held in Oxford 1991</em>. Edited by Elizabeth A. Livingstone. Leuven: Peeters, 1993.</p>",
+      "line_text": "Arai, Sasagu. “‘To Make Her Male:’ An Interpretation of Logion 114 in the Gospel of Thomas.” Pages 373–76 in Studia Patristica: Papers Presented at the Eleventh International Conference on Patristic Studies Held in Oxford 1991. Edited by Elizabeth A. Livingstone. Leuven: Peeters, 1993.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Corley, Kathleen E. “Salome and Jesus at Table in the Gospel of Thomas.” <em>Semeia</em> 86 (1999): 85–97.</p>",
+      "line_text": "Corley, Kathleen E. “Salome and Jesus at Table in the Gospel of Thomas.” Semeia 86 (1999): 85–97.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Cwikla, Anna. “There’s Nothing about Mary: The Insignificance of Mary in the Gospel of Thomas 114.” <em>Journal for Interdisciplinary Biblical Studies</em> 1 (2019): 95–112.</p>",
+      "line_text": "Cwikla, Anna. “There’s Nothing about Mary: The Insignificance of Mary in the Gospel of Thomas 114.” Journal for Interdisciplinary Biblical Studies 1 (2019): 95–112.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>DeConick, April D. <em>Holy Misogyny: Why the Sex and Gender Conflicts in the Early Church Still Matter.</em> London: Bloomsbury Academic, 2013.</p>",
+      "line_text": "DeConick, April D. Holy Misogyny: Why the Sex and Gender Conflicts in the Early Church Still Matter. London: Bloomsbury Academic, 2013.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><a href=\"https://hcommons.org/deposits/objects/hc:29256/datastreams/CONTENT/content\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Harl Sellew, Melissa. “Reading the Gospel of Thomas from Here: A Trans-Centred Hermeneutic.” <em>Journal for Interdisciplinary Biblical Studies</em> 1.2 (2020): 61–96.</p>",
+      "line_text": "Harl Sellew, Melissa. “Reading the Gospel of Thomas from Here: A Trans-Centred Hermeneutic.” Journal for Interdisciplinary Biblical Studies 1.2 (2020): 61–96.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies",
+      "other_urls": [
+        "https://hcommons.org/deposits/objects/hc:29256/datastreams/CONTENT/content"
+      ]
+    },
+    {
+      "line_html": "<p>Marjanen, Antti. “Women Disciples in the Gospel of Thomas.” Pages 89–106 in <em>Thomas at the </em><em>Crossroads: Essays on the Gospel of Thomas</em>. Edited by Risto Uro. Edinburgh: T&amp;T Clark, 1998.</p>",
+      "line_text": "Marjanen, Antti. “Women Disciples in the Gospel of Thomas.” Pages 89–106 in Thomas at the Crossroads: Essays on the Gospel of Thomas. Edited by Risto Uro. Edinburgh: T&amp;T Clark, 1998.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. “Making Mary Male: The Categories ‘Male’ and ‘Female’ in the Gospel of Thomas.” <em>NTS </em> 31 (1985): 554–70.</p>",
+      "line_text": "Meyer, Marvin W. “Making Mary Male: The Categories ‘Male’ and ‘Female’ in the Gospel of Thomas.” NTS  31 (1985): 554–70.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. “‘For Women Are Not Worthy of Life’: Protology and Misogyny in Gospel of Thomas Saying 114.” Pages 175–86 in <em>Women and Knowledge in Early Christianity</em>. Edited by Ulla Tervahauta, Ivan Miroshnikov, Outi Lehtipuu, and Ismo Dunderberg. VCSup 144. Leiden: Brill, 2017.</p>",
+      "line_text": "Miroshnikov, Ivan. “‘For Women Are Not Worthy of Life’: Protology and Misogyny in Gospel of Thomas Saying 114.” Pages 175–86 in Women and Knowledge in Early Christianity. Edited by Ulla Tervahauta, Ivan Miroshnikov, Outi Lehtipuu, and Ismo Dunderberg. VCSup 144. Leiden: Brill, 2017.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “‘Why Can’t a Woman Be More Like a Man?’: Making Mary Male (Thomas 114) in the Gendered World of Antiquity.” Pages 115–32 in <em>Envisioning God in the Humanities: Essays on Christianity, Judaism, and Ancient Religion in Honor of Melissa Harl Sellew</em>. Edited by Courtney J. P. Friesen. Eugene, OR: Cascade, 2018.</p>",
+      "line_text": "Patterson, Stephen J. “‘Why Can’t a Woman Be More Like a Man?’: Making Mary Male (Thomas 114) in the Gendered World of Antiquity.” Pages 115–32 in Envisioning God in the Humanities: Essays on Christianity, Judaism, and Ancient Religion in Honor of Melissa Harl Sellew. Edited by Courtney J. P. Friesen. Eugene, OR: Cascade, 2018.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><strong> </strong><strong>3.12.4 Thomas within Early Christianity</strong></p>",
+      "line_text": " 3.12.4 Thomas within Early Christianity",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Arnal, William E. “Blessed are the Solitary: Textual Practices and the Mirage of a Thomas ‘Community.’” Pages 271–87 in ‘<em>The One Who Sows Bountifully’: Essays in Honor of Stanley K. Stowers</em>. Edited by Caroline Johnson Hodge, Saul M. Olyan, Daniel Ullucci, and Emma Wasserman. Providence: Brown Judaic Studies, 2013.</p>",
+      "line_text": "Arnal, William E. “Blessed are the Solitary: Textual Practices and the Mirage of a Thomas ‘Community.’” Pages 271–87 in ‘The One Who Sows Bountifully’: Essays in Honor of Stanley K. Stowers. Edited by Caroline Johnson Hodge, Saul M. Olyan, Daniel Ullucci, and Emma Wasserman. Providence: Brown Judaic Studies, 2013.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “The Rhetoric of Social Construction: Language and Society in the Gospel of Thomas.” Pages 27–48 in <em>Rhetoric and Reality in Early Christianities</em>. Edited by Willi Braun. Studies in Christianity and Judaism / Études Sur Le Christianisme et Le Judaïsme 16. Waterloo: Wilfrid Laurier University Press, 2005.</p>",
+      "line_text": "___________. “The Rhetoric of Social Construction: Language and Society in the Gospel of Thomas.” Pages 27–48 in Rhetoric and Reality in Early Christianities. Edited by Willi Braun. Studies in Christianity and Judaism / Études Sur Le Christianisme et Le Judaïsme 16. Waterloo: Wilfrid Laurier University Press, 2005.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Asgeirsson, Jon Ma., April DeConick, and Risto Uro (eds.) <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Leiden: Brill, 2006.</p>",
+      "line_text": "Asgeirsson, Jon Ma., April DeConick, and Risto Uro (eds.) Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Leiden: Brill, 2006.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Cameron, Ron. “Alternate Beginnings – Different Ends: Eusebius, Thomas, and the Construction of Christian Origins.” Pages 501–25 in <em>Religious Propaganda and Missionary Competition in the New Testament World: Essays Honoring Dieter Georgi. </em>Edited by Lukas Bormann, Kelly Del Tredici, and Angela Standhartinger. NovTSup 74. Leiden: Brill, 1994.</p>",
+      "line_text": "Cameron, Ron. “Alternate Beginnings – Different Ends: Eusebius, Thomas, and the Construction of Christian Origins.” Pages 501–25 in Religious Propaganda and Missionary Competition in the New Testament World: Essays Honoring Dieter Georgi. Edited by Lukas Bormann, Kelly Del Tredici, and Angela Standhartinger. NovTSup 74. Leiden: Brill, 1994.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Ancient Myths and Modern Theories of the Gospel of Thomas and Christian Origins.” <em>MTSR</em> 11 (1999): 236–57.</p>",
+      "line_text": "___________. “Ancient Myths and Modern Theories of the Gospel of Thomas and Christian Origins.” MTSR 11 (1999): 236–57.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Redescribing Christian Origins.” <em>Annali di Storia dell’Esegesi</em> 25 (2008): 35–54.</p>",
+      "line_text": "___________. “Redescribing Christian Origins.” Annali di Storia dell’Esegesi 25 (2008): 35–54.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “The Gospel of Thomas and Christian Origins.” Pages 381–92 in <em>The Future of Early Christianity: Essays in Honor of Helmut Koester. </em>Edited by Birger A. Pearson. Minneapolis: Fortress, 1991.</p>",
+      "line_text": "___________. “The Gospel of Thomas and Christian Origins.” Pages 381–92 in The Future of Early Christianity: Essays in Honor of Helmut Koester. Edited by Birger A. Pearson. Minneapolis: Fortress, 1991.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>DeConick, April. D. “Reading the Gospel of Thomas as a Repository of Early Christian Communal Memory.” Pages 207–20 in <em>Memory, Tradition, and Text: Uses of the Past in Early Christianity</em>. Edited by Alan Kirk and Tom Thatcher. Atlanta: Society of Biblical Literature, 2005.</p>",
+      "line_text": "DeConick, April. D. “Reading the Gospel of Thomas as a Repository of Early Christian Communal Memory.” Pages 207–20 in Memory, Tradition, and Text: Uses of the Past in Early Christianity. Edited by Alan Kirk and Tom Thatcher. Atlanta: Society of Biblical Literature, 2005.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Dunderberg, Ismo. “From Thomas to Valentinus: Genesis Exegesis in Fragment 4 of Valentinus and Its Relationship to the Gospel of Thomas.” Pages 221–37 in <em>Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas</em>. Edited by Jon Ma Asgeirsson, April D. Deconick, and Risto Uro. Nag Hammadi and Manichean Studies 59. Leiden: Brill, 2006.</p>",
+      "line_text": "Dunderberg, Ismo. “From Thomas to Valentinus: Genesis Exegesis in Fragment 4 of Valentinus and Its Relationship to the Gospel of Thomas.” Pages 221–37 in Thomasine Traditions in Antiquity: The Social and Cultural World of the Gospel of Thomas. Edited by Jon Ma Asgeirsson, April D. Deconick, and Risto Uro. Nag Hammadi and Manichean Studies 59. Leiden: Brill, 2006.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Kim, David William. “What Shall We Do?: The Community Rules of Thomas in the ‘Fifth Gospel.’” <em>Biblica</em> 88 (2007): 393–414.</p>",
+      "line_text": "Kim, David William. “What Shall We Do?: The Community Rules of Thomas in the ‘Fifth Gospel.’” Biblica 88 (2007): 393–414.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><a href=\"https://religion.princeton.edu/wp-content/uploads/Luijendijk-Reading-the-Gospel-of-Thomas-in-the-Third-Century.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Luijendijk, AnneMarie. “Reading the <em>Gospel of Thomas</em> in the Third Century: Three Oxyrhynchus Papyri and Origen’s <em>Homilies</em>” Pages 241–67 in Reading New Testament Papyri in Context. Lire les papyrus du Nouveau Testament dans leur contexte. Edited by Claive Clivaz and Jean Zumstein. BETL 242. Leuven: Peeters, 2011.</p>",
+      "line_text": "Luijendijk, AnneMarie. “Reading the Gospel of Thomas in the Third Century: Three Oxyrhynchus Papyri and Origen’s Homilies” Pages 241–67 in Reading New Testament Papyri in Context. Lire les papyrus du Nouveau Testament dans leur contexte. Edited by Claive Clivaz and Jean Zumstein. BETL 242. Leuven: Peeters, 2011.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies",
+      "other_urls": [
+        "https://religion.princeton.edu/wp-content/uploads/Luijendijk-Reading-the-Gospel-of-Thomas-in-the-Third-Century.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Sellew, Melissa (née Philip) Harl. “Death, the Body, and the World in the Coptic Gospel of Thomas.” <em>Studia Patristica</em> 31 (1997): 530–34.</p>",
+      "line_text": "Sellew, Melissa (née Philip) Harl. “Death, the Body, and the World in the Coptic Gospel of Thomas.” Studia Patristica 31 (1997): 530–34.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “James and the Rejection of Apostolic Authority in the Gospel of Thomas.” Pages 193–208 in <em>Delightful Acts: New Essays on Canonical and Non–Canonical Acts</em>. Edited by Harold W. Attridge, Dennis R. MacDonald, and Clare K. Rothschild. WUNT 391. Tübingen: Mohr Siebeck, 2017.</p>",
+      "line_text": "___________. “James and the Rejection of Apostolic Authority in the Gospel of Thomas.” Pages 193–208 in Delightful Acts: New Essays on Canonical and Non–Canonical Acts. Edited by Harold W. Attridge, Dennis R. MacDonald, and Clare K. Rothschild. WUNT 391. Tübingen: Mohr Siebeck, 2017.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Uro, Risto. “‘Who Will Be Our Leader?’: Authority and Autonomy in the Gospel of Thomas.” Pages 457–85 in <em>Fair Play, Diversity, and Conflicts in Early Christianity: Essays in Honour of Heikki Räisänen</em>. Edited Ismo Dunderberg, Christopher Tuckett, and Kari Syreeni. NovTSup 103. Leiden: Brill, 2002.</p>",
+      "line_text": "Uro, Risto. “‘Who Will Be Our Leader?’: Authority and Autonomy in the Gospel of Thomas.” Pages 457–85 in Fair Play, Diversity, and Conflicts in Early Christianity: Essays in Honour of Heikki Räisänen. Edited Ismo Dunderberg, Christopher Tuckett, and Kari Syreeni. NovTSup 103. Leiden: Brill, 2002.",
+      "language": "Thomas and Gender",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Marshall, J. W. “The Gospel of Thomas and the Cynic Jesus.” Pages 37–60 in <em>Whose Historical Jesus?</em> Edited by William E. Arnal and Michel Desjardins. Studies in Christianity and Judaism / Études Sur Le Christianisme et Le Judaïsme 7. Waterloo: Wilfrid Laurier University Press 1997.</p>",
+      "line_text": "Marshall, J. W. “The Gospel of Thomas and the Cynic Jesus.” Pages 37–60 in Whose Historical Jesus? Edited by William E. Arnal and Michel Desjardins. Studies in Christianity and Judaism / Études Sur Le Christianisme et Le Judaïsme 7. Waterloo: Wilfrid Laurier University Press 1997.",
+      "language": "Thomas and Jesus/Historical Jesus",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W. “Albert Schweitzer and the Image of Jesus in the Gospel of Thomas.” Pages 72–90 in <em>Jesus Then and Now: Images of Jesus in History and Christology</em>. Edited by Marvin Meyer and Charles Hughes. Harrisburg, PA: Trinity Press International, 2001.</p>",
+      "line_text": "Meyer, Marvin W. “Albert Schweitzer and the Image of Jesus in the Gospel of Thomas.” Pages 72–90 in Jesus Then and Now: Images of Jesus in History and Christology. Edited by Marvin Meyer and Charles Hughes. Harrisburg, PA: Trinity Press International, 2001.",
+      "language": "Thomas and Jesus/Historical Jesus",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><u>                         </u>. “Jesus in the Nag Hammadi Library: New Light on Early Christian Belief.” <em>Reformed Journal</em> 29 6 (1979): 14–18.</p>",
+      "line_text": "                         . “Jesus in the Nag Hammadi Library: New Light on Early Christian Belief.” Reformed Journal 29 6 (1979): 14–18.",
+      "language": "Thomas and Jesus/Historical Jesus",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Patterson, Stephen J. “The Gospel of Thomas and Historical Jesus Research.” Pages 663–84 in <em>Coptica – gnostica – manichaica: mélanges offerts à Wolf–Peter Funk</em>. Edited by Louis Painchaud and Paul–Hubert Poirier. Bibliothìque copte de Nag Hammadi Études 7. Quebec: Les Presses de l’Université Laval; Paris: Éditions Peeters, 2006.</p>",
+      "line_text": "Patterson, Stephen J. “The Gospel of Thomas and Historical Jesus Research.” Pages 663–84 in Coptica – gnostica – manichaica: mélanges offerts à Wolf–Peter Funk. Edited by Louis Painchaud and Paul–Hubert Poirier. Bibliothìque copte de Nag Hammadi Études 7. Quebec: Les Presses de l’Université Laval; Paris: Éditions Peeters, 2006.",
+      "language": "Thomas and Jesus/Historical Jesus",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Quarles, Charles L. “The Use of the ‘Gospel of Thomas’ in the Research on the Historical Jesus of John Dominic Crossan.” <em>CBQ</em> 69 (2007): 517–36.</p>",
+      "line_text": "Quarles, Charles L. “The Use of the ‘Gospel of Thomas’ in the Research on the Historical Jesus of John Dominic Crossan.” CBQ 69 (2007): 517–36.",
+      "language": "Thomas and Jesus/Historical Jesus",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Tuckett, Christopher M. “The Gospel of Thomas: Evidence for Jesus?” <em>NedTT</em> 52 (1998): 17–32.</p>",
+      "line_text": "Tuckett, Christopher M. “The Gospel of Thomas: Evidence for Jesus?” NedTT 52 (1998): 17–32.",
+      "language": "Thomas and Jesus/Historical Jesus",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Baarda, Tjitze. “The Gospel of Thomas and the Old Testament.” <em>Proceedings of the Irish Biblical Association</em> 26 (2003): 1–28.</p>",
+      "line_text": "Baarda, Tjitze. “The Gospel of Thomas and the Old Testament.” Proceedings of the Irish Biblical Association 26 (2003): 1–28.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “What Have You Come Out to See? Characterizations of John and Jesus in the Gospels.” <em>Semeia</em> 49 (1990): 35–69.</p>",
+      "line_text": "___________. “What Have You Come Out to See? Characterizations of John and Jesus in the Gospels.” Semeia 49 (1990): 35–69.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Burns, Dylan. “Seeking Ancient Wisdom in the New Age: New Age and NeoGnostic Commentaries on the Gospel of Thomas.” Pages 252–89 in <em>Polemical Encounters</em>. Edited by Kocku von Stuckrad and Olav Hammer. Leiden: Brill, 2007.</p>",
+      "line_text": "Burns, Dylan. “Seeking Ancient Wisdom in the New Age: New Age and NeoGnostic Commentaries on the Gospel of Thomas.” Pages 252–89 in Polemical Encounters. Edited by Kocku von Stuckrad and Olav Hammer. Leiden: Brill, 2007.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Davies, Stevan. “The Christology and Protology of the ‘Gospel of Thomas.’” <em>JBL</em> 111 (1992): 663–82.</p>",
+      "line_text": "Davies, Stevan. “The Christology and Protology of the ‘Gospel of Thomas.’” JBL 111 (1992): 663–82.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><span dir=\"ltr\"><span class=\"_3l3x\">Fowler, Kimberley. “Reading Gospel of Thomas 100 in the Fourth Century: From Roman Imperialism to Pachomian Concern over Wealth.” <em>VC</em> 72 (2018): 421–46.</span></span></p>",
+      "line_text": "Fowler, Kimberley. “Reading Gospel of Thomas 100 in the Fourth Century: From Roman Imperialism to Pachomian Concern over Wealth.” VC 72 (2018): 421–46.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Gagné, André. “Jésus, la Lumière et le Père Vivant: Principe de Gémellité dans l’Évangile selon Thomas.” <em>Apocrypha</em> 23 (2012): 209–21.</p>",
+      "line_text": "Gagné, André. “Jésus, la Lumière et le Père Vivant: Principe de Gémellité dans l’Évangile selon Thomas.” Apocrypha 23 (2012): 209–21.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “L’Évangile selon Thomas à la Croisée des Identités.” <em>Annuaire de l’École Pratique des Hautes Études (EPHE), Section des Sciences Religieuses</em> 125 (2018): 201–5.</p>",
+      "line_text": "___________. “L’Évangile selon Thomas à la Croisée des Identités.” Annuaire de l’École Pratique des Hautes Études (EPHE), Section des Sciences Religieuses 125 (2018): 201–5.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Gathercole, Simon J. “Named Testimonia to the <em>Gospel of Thomas</em>: An Expanded Inventory and Analysis.” <em>HTR</em> 105 (2012): 53–89.</p>",
+      "line_text": "Gathercole, Simon J. “Named Testimonia to the Gospel of Thomas: An Expanded Inventory and Analysis.” HTR 105 (2012): 53–89.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Johnson, Steven R. “Hippolytus’s Refutatio and the Gospel of Thomas.” <em>JECS</em> 18 (2010): 305–26.</p>",
+      "line_text": "Johnson, Steven R. “Hippolytus’s Refutatio and the Gospel of Thomas.” JECS 18 (2010): 305–26.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Litwa, M. David. “‘I Will Become Him’: Homology and Deification in the Gospel of Thomas.” <em>JBL</em> 133 (2015): 427–47.</p>",
+      "line_text": "Litwa, M. David. “‘I Will Become Him’: Homology and Deification in the Gospel of Thomas.” JBL 133 (2015): 427–47.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Meyer, Marvin W.  <em>The Gospels of the Marginalized: The Redemption of Doubting Thomas, Mary Magdalene, and Judas Iscariot in Early Christian Literature</em>. Eugene, OR: Cascade, 2012.</p>",
+      "line_text": "Meyer, Marvin W.  The Gospels of the Marginalized: The Redemption of Doubting Thomas, Mary Magdalene, and Judas Iscariot in Early Christian Literature. Eugene, OR: Cascade, 2012.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Nagel, Peter. “Erwägungen zum Thomas–Evangelium.” Pages 368–92 in <em>Die Araber in der alten Welt</em>. Volume V, Part 2. Edited by F. Altheim and R. Stiehl. Berlin: Walter de Gruyter, 1969.</p>",
+      "line_text": "Nagel, Peter. “Erwägungen zum Thomas–Evangelium.” Pages 368–92 in Die Araber in der alten Welt. Volume V, Part 2. Edited by F. Altheim and R. Stiehl. Berlin: Walter de Gruyter, 1969.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Popkes, Enno Edzard. <em>Das Menschenbild des Thomasevangeliums. Untersuchungen zu seiner religionsgeschichtlichen und chronologischen Einordnung</em>. WUNT 206. Tübingen: Mohr Siebeck, 2007.</p>",
+      "line_text": "Popkes, Enno Edzard. Das Menschenbild des Thomasevangeliums. Untersuchungen zu seiner religionsgeschichtlichen und chronologischen Einordnung. WUNT 206. Tübingen: Mohr Siebeck, 2007.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>___________. “Das Thomasevangelium als crux interpretum: die methodischen Ursachen einer diffusen Diskussionslage.” Pages 271–92 in <em>Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu außerkanonischen Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen</em>. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010</p>",
+      "line_text": "___________. “Das Thomasevangelium als crux interpretum: die methodischen Ursachen einer diffusen Diskussionslage.” Pages 271–92 in Jesus in apokryphen Evangelienüberlieferungen: Beiträge zu außerkanonischen Jesusüberlieferungen aus verschiedenen Sprach- und Kulturtraditionen. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Quispel, Gilles. “Der Heliand und das Thomasevangelium.” <em>VC</em> 16 (1962): 121–51.</p>",
+      "line_text": "Quispel, Gilles. “Der Heliand und das Thomasevangelium.” VC 16 (1962): 121–51.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Thomaskutty, Johson. <em>Saint Thomas the Apostle: New Testament, Apocrypha, and Historical Traditions</em>. Jewish and Christian Texts 25. London: T&amp;T Clark, 2018.</p>",
+      "line_text": "Thomaskutty, Johson. Saint Thomas the Apostle: New Testament, Apocrypha, and Historical Traditions. Jewish and Christian Texts 25. London: T&amp;T Clark, 2018.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p>Toepel, Alexander. “‘Was ihr verabscheut, das tut nicht’: Ethik im Thomasevangelium und bei Epikur.” Pages 75–79 in <em>Christliches Ägypten in der spätantiken Zeit: Akten der 2. Tübinger Tagung zum Christlichen Orient (7.–8. Dezember 2007)</em>. STAC 79. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "Toepel, Alexander. “‘Was ihr verabscheut, das tut nicht’: Ethik im Thomasevangelium und bei Epikur.” Pages 75–79 in Christliches Ägypten in der spätantiken Zeit: Akten der 2. Tübinger Tagung zum Christlichen Orient (7.–8. Dezember 2007). STAC 79. Tübingen: Mohr Siebeck, 2013.",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "Miscellaneous Topical Studies",
+      "entry_type": "Topical Studies"
+    }
+  ]
+}

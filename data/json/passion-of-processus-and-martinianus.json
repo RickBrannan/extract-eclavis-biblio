@@ -1,0 +1,233 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-processus-and-martinianus/",
+  "nasscal_toc_title": "Passion of Processus and Martinianus",
+  "filename": "passion-of-processus-and-martinianus",
+  "latin_title": "Passio Processus et Martinianus",
+  "abbrev": "Pass. Proc. Mart.",
+  "clavis_number": 896,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Vatican, Vatican Archives, Arch. Cap. S. Pietro A.4, fols. 65<span class=\"Brrgq\"><sup>v</sup></span>–67<span class=\"Brrgq\"><sup>v</sup></span> (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.4\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "A  Vatican, Vatican Archives, Arch. Cap. S. Pietro A.4, fols. 65v–67v (11th cent.) ~ IMAGES",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.A.4"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Montecassino, Archivio di Montecassino, 142 (11th cent.)</p>",
+      "line_text": "C  Montecassino, Archivio di Montecassino, 142 (11th cent.)",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. Pal. lat. 846, fols. <span class=\"Brrgq\">106<sup>v</sup>–107<sup>v</sup></span> (10th cent.) ~ <a href=\"https://digi.vatlib.it/view/bav_pal_lat_846\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "P  Vatican, Biblioteca Apostolica Vaticana, Vat. Pal. lat. 846, fols. 106v–107v (10th cent.) ~ IMAGES",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/bav_pal_lat_846"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  <span class=\"Brrgq\">Paris, </span>Bibliothèque nationale de France<span class=\"Brrgq\">, lat. 5299, fols. 26<sup>v</sup>–29<sup>v</sup> (9th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10724077m\" target=\"_blank\" rel=\"noopener\">GALLICA</a><br/></span></p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 5299, fols. 26v–29v (9th cent.) ~ GALLICA",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10724077m"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 523, fols. 214<span class=\"Brrgq\"><sup>v</sup>–216<sup>v</sup></span> (ca. 1000) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.523\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "R  Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 523, fols. 214v–216v (ca. 1000) ~ IMAGES",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.523"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S </strong> Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 539, fols. <span class=\"Brrgq\">132<sup>v</sup>–134<sup>r</sup></span> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Reg.lat.539\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "S  Vatican, Biblioteca Apostolica Vaticana, Vat. Reg. lat. 539, fols. 132v–134r (12th cent.) ~ IMAGES",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Reg.lat.539"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1191, fols. <span class=\"Brrgq\">71<sup>v</sup>–73<sup>r</sup></span> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1191\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1191, fols. 71v–73r (12th cent.) ~ IMAGES",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1191"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Brussels, Bibliothèque des Bollandistes, 14, fols. 62<sup>r</sup>–63<sup>r</sup> (9th/10th cent.)</span></p>",
+      "line_text": "Brussels, Bibliothèque des Bollandistes, 14, fols. 62r–63r (9th/10th cent.)",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Graz, Universitätsbibliothek, 412, fols. 157<sup>v</sup>–160<sup>r</sup> (9th cent.)</span></p>",
+      "line_text": "Graz, Universitätsbibliothek, 412, fols. 157v–160r (9th cent.)",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Karlsruhe, Badische Landesbibliothek, Aug. 32, fols. 1<sup>r</sup>–1<sup>v</sup> (9th cent.)</span></p>",
+      "line_text": "Karlsruhe, Badische Landesbibliothek, Aug. 32, fols. 1r–1v (9th cent.)",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Montpellier, Bibliothèque Interuniversitaire, Section de Médecine, H 154, fols. 1<sup>r</sup>–1<sup>v</sup> (9th cent.)</span></p>",
+      "line_text": "Montpellier, Bibliothèque Interuniversitaire, Section de Médecine, H 154, fols. 1r–1v (9th cent.)",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Vienna, </span>Österreichische Nationalbibliothek<span class=\"Brrgq\">, lat. 357, fols. 150–152 (9th/10th cent.).</span></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, lat. 357, fols. 150–152 (9th/10th cent.).",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum28unse/page/n361\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean, et al., eds. <em>Acta Sanctorum, Julii.</em> Vol. 1. Antwerp: P. Jacobs, 1680 (edition from unidentified manuscript, pp. 303–304). 3rd ed. Paris: V. Palmé, 1867 (cols. 270–71).</p>",
+      "line_text": "Bolland, Jean, et al., eds. Acta Sanctorum, Julii. Vol. 1. Antwerp: P. Jacobs, 1680 (edition from unidentified manuscript, pp. 303–304). 3rd ed. Paris: V. Palmé, 1867 (cols. 270–71).",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum28unse/page/n361"
+      ]
+    },
+    {
+      "line_html": "<p>Franchi de’ Cavalieri, Pius. <em>Note agiografiche</em> 9. Studi e testi 175. Rome: Tipografia Vaticana, 1902. Reprinted 1953 (edition based on ACPQRSV, pp. 47–52).</p>",
+      "line_text": "Franchi de’ Cavalieri, Pius. Note agiografiche 9. Studi e testi 175. Rome: Tipografia Vaticana, 1902. Reprinted 1953 (edition based on ACPQRSV, pp. 47–52).",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sanctuariumseuvi02momb/page/402/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mombritius, Boninus, ed. <em>Sanctuarium seu Vitae sanctorum. Novam editionem curaverunt duo monachi Solesmenses</em>. (Original edition Milan, 1478) 2 vols. Paris: 1910; repr. New York: Hildesheim, 1978 (edition based on an unidentified manuscript, vol. 2, pp. 403–404).</p>",
+      "line_text": "Mombritius, Boninus, ed. Sanctuarium seu Vitae sanctorum. Novam editionem curaverunt duo monachi Solesmenses. (Original edition Milan, 1478) 2 vols. Paris: 1910; repr. New York: Hildesheim, 1978 (edition based on an unidentified manuscript, vol. 2, pp. 403–404).",
+      "language": ".1 Longer Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sanctuariumseuvi02momb/page/402/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Montpellier, <span class=\"Brrgq\">Bibliothèque Interuniversitaire, Section de Médecine,</span> 1 t. 4, fols. 12<span class=\"Brrgq\"><sup>v</sup></span>–13<span class=\"Brrgq\"><sup>r</sup></span> (12th cent.)</p>",
+      "line_text": "Montpellier, Bibliothèque Interuniversitaire, Section de Médecine, 1 t. 4, fols. 12v–13r (12th cent.)",
+      "language": ".2 Shorter Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Rome, Biblioteca Vallicelliana, 7, fol. 173<span class=\"Brrgq\"><sup>v</sup></span> (13th cent.)</p>",
+      "line_text": "Rome, Biblioteca Vallicelliana, 7, fol. 173v (13th cent.)",
+      "language": ".2 Shorter Version",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/tudesurlesgestam00dufo/page/n351/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Dufourcq, Albert. <em>Étude sur les ‘Gesta martyrum’ romains.</em> 5 vols. Paris: Albert Fontemoing, 1900–1907. 2nd ed. Paris: De Boccard, 1988 (edition of the shorter version based on Vallicelliana 7, vol. 1, 328–29).</p>",
+      "line_text": "Dufourcq, Albert. Étude sur les ‘Gesta martyrum’ romains. 5 vols. Paris: Albert Fontemoing, 1900–1907. 2nd ed. Paris: De Boccard, 1988 (edition of the shorter version based on Vallicelliana 7, vol. 1, 328–29).",
+      "language": ".2 Shorter Version",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/tudesurlesgestam00dufo/page/n351/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=1fU-DwAAQBAJ&amp;pg=PA168&amp;lpg=PA168&amp;dq=BHG+344+clement&amp;source=bl&amp;ots=OVrdp5UWtC&amp;sig=ACfU3U1_G11u531KVBmlN32u4RbnlcThmg&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwigxbP59dPwAhWqF1kFHVbGB8QQ6AEwBHoECAoQAw#v=onepage&amp;q=BHG%20344%20clement&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lapidge, Michael. <em>The Roman Martyrs: Introduction, Translations, and Commentary.</em> OECS. Oxford: Oxford University Press, 2018 (translation based on the edition by de’ Cavalieri, pp. 381–89).</p>",
+      "line_text": "Lapidge, Michael. The Roman Martyrs: Introduction, Translations, and Commentary. OECS. Oxford: Oxford University Press, 2018 (translation based on the edition by de’ Cavalieri, pp. 381–89).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=1fU-DwAAQBAJ&pg=PA168&lpg=PA168&dq=BHG+344+clement&source=bl&ots=OVrdp5UWtC&sig=ACfU3U1_G11u531KVBmlN32u4RbnlcThmg&hl=en&sa=X&ved=2ahUKEwigxbP59dPwAhWqF1kFHVbGB8QQ6AEwBHoECAoQAw#v=onepage&q=BHG%20344%20clement&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bibliotheca-sanctorum/BS-10-PABAI-RAFOLS/page/n595/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Amore, Agostino. <span class=\"Brrgq\">“</span>Processo e Martiniano<span class=\"Brrgq\">.”</span> Cols. 1138–40 in vol. 10 of <em>Bibliotheca Sanctorum</em>. 13 vols. Rome: <span aria-labelledby=\"publisher-33440091\"><span data-testid=\"publisher-33440091\">Istituto Giovanni XXIII nella Pontificia Università lateranense</span></span>, 1961–1970.</p>",
+      "line_text": "Amore, Agostino. “Processo e Martiniano.” Cols. 1138–40 in vol. 10 of Bibliotheca Sanctorum. 13 vols. Rome: Istituto Giovanni XXIII nella Pontificia Università lateranense, 1961–1970.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bibliotheca-sanctorum/BS-10-PABAI-RAFOLS/page/n595/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dictionnairedarcv14p2cabr/page/186/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cabrol, Fernand, and Henri Leclercq. <em>Dictionanaire d’archéologie chrétienne et de liturgie.</em> 15 vols. in 30. Paris: Letouzey, 1907–1953 (discussion of the catacomb of Processus and Martinianus, vol. 14.2, cols. 1890–94).</p>",
+      "line_text": "Cabrol, Fernand, and Henri Leclercq. Dictionanaire d’archéologie chrétienne et de liturgie. 15 vols. in 30. Paris: Letouzey, 1907–1953 (discussion of the catacomb of Processus and Martinianus, vol. 14.2, cols. 1890–94).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dictionnairedarcv14p2cabr/page/186/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/tudesurlesgestam00dufo/page/n183/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Dufourcq, Albert. <em>Étude sur les ‘Gesta martyrum’ romains.</em> 5 vols. Paris: Albert Fontemoing, 1900–1907. 2nd ed. Paris: De Boccard, 1988 (vol. 1, pp. 170–71, 303–305, and 328–29).</p>",
+      "line_text": "Dufourcq, Albert. Étude sur les ‘Gesta martyrum’ romains. 5 vols. Paris: Albert Fontemoing, 1900–1907. 2nd ed. Paris: De Boccard, 1988 (vol. 1, pp. 170–71, 303–305, and 328–29).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/tudesurlesgestam00dufo/page/n183/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap04lipsgoog/page/n115/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (see vol. 2.1: 105–106, 110–11).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (see vol. 2.1: 105–106, 110–11).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap04lipsgoog/page/n115/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Franchi de’ Cavalieri, Pius. <em>Note agiografiche 3.</em> Studi e testi 22. Rome: Tipografia Vaticana, 1909 (pp. 35–39).</p>",
+      "line_text": "Franchi de’ Cavalieri, Pius. Note agiografiche 3. Studi e testi 22. Rome: Tipografia Vaticana, 1909 (pp. 35–39).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lanéry, Cécile. <span class=\"Brrgq\">“</span>Hagiographie d’Italie (300–550). I. Les Passions latines composées en Italie<span class=\"Brrgq\">.”</span> Pages 15–369 in volume 5 of <em><span class=\"Brrgq\">Hagiographies. Histoire internationale de la littérature hagiographique latine et vernaculaire en Occident des origines à 1550</span></em>. Edited by Guy Philippart. Corpus Christianorum. Turnhout: Brepols, 2010 (pp. 216–23).</p>",
+      "line_text": "Lanéry, Cécile. “Hagiographie d’Italie (300–550). I. Les Passions latines composées en Italie.” Pages 15–369 in volume 5 of Hagiographies. Histoire internationale de la littérature hagiographique latine et vernaculaire en Occident des origines à 1550. Edited by Guy Philippart. Corpus Christianorum. Turnhout: Brepols, 2010 (pp. 216–23).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Verrando, G. N. <span class=\"Brrgq\">“</span>Note sulle tradizioni agiografiche su Processo, Martiniano e Lucina<span class=\"Brrgq\">.”</span> <em>Vetera Christianorum</em> 24 (1987): 353–73.</p>",
+      "line_text": "Verrando, G. N. “Note sulle tradizioni agiografiche su Processo, Martiniano e Lucina.” Vetera Christianorum 24 (1987): 353–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"Brrgq\">__________. “Osservazioni sulla collocazione cronologica degli apocrifi Atti di Pietro dello Pseudo-Lino.” <em>Vetera Christianorum</em> 20 (1983): 391–426.</span></p>",
+      "line_text": "__________. “Osservazioni sulla collocazione cronologica degli apocrifi Atti di Pietro dello Pseudo-Lino.” Vetera Christianorum 20 (1983): 391–426.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

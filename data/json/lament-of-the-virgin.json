@@ -1,0 +1,905 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/lament-of-the-virgin/",
+  "nasscal_toc_title": "Lament of the Virgin",
+  "filename": "lament-of-the-virgin",
+  "latin_title": "Homilia de lamentis Mariae",
+  "abbrev": "Lam. Vir.",
+  "clavis_number": 817,
+  "category": "Pseudo-Apostolic Memoirs",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 442</p>",
+      "line_text": "Aleppo, Fondation Georges et Mathilde Salem, Sbath Fihris 442",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Université Staint-Joseph, 631, fols. 75<sup>v</sup>–135<sup>r</sup></p>",
+      "line_text": "Beirut, Université Staint-Joseph, 631, fols. 75v–135r",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-64a/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 64(A), fols. 1<sup>r</sup>–1<sup>v</sup> (18th cent.) ~ fragmentary</p>",
+      "line_text": "Cairo, Coptic Museum, 64(A), fols. 1r–1v (18th cent.) ~ fragmentary",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-64a/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-25/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 25 (Graf 720), fols. 156<sup>r</sup>–173<sup>v</sup> (1687)</p>",
+      "line_text": "Cairo, Coptic Museum, 25 (Graf 720), fols. 156r–173v (1687)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-25/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, 6419(A), fols. 3<sup>r</sup>–20<sup>r</sup> (16th cent.) (<a href=\"https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n135/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">CMB8-3A</a>)</p>",
+      "line_text": "Cairo, Coptic Museum, 6419(A), fols. 3r–20r (16th cent.) (CMB8-3A)",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/MacomberCopticMuseum.III.BYURollsB711/page/n135/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo 451, fols. 60<sup>r</sup>–84<sup>v</sup> (1581)</p>",
+      "line_text": "Cairo 451, fols. 60r–84v (1581)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo 120, fols. 14<sup>r</sup>–43<sup>r</sup> (17th cent.)</p>",
+      "line_text": "Cairo 120, fols. 14r–43r (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charfet, Syrian-Catholic Patriarchate, ar. 2/34, 5 (17th cent.)</p>",
+      "line_text": "Charfet, Syrian-Catholic Patriarchate, ar. 2/34, 5 (17th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana ar. christ 198 (Add. 269) (ca. 1500) ~ fragment</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana ar. christ 198 (Add. 269) (ca. 1500) ~ fragment",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana ar. christ 260 (Add. 261), fol. 19<sup>r</sup>–28<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana ar. christ 260 (Add. 261), fol. 19r–28v (18th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana syr. 297, fols. 1<sup>r</sup>–9<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana syr. 297, fols. 1r–9v (19th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Leuven, Universitätsbibliothek Löwen, Lefort ar. A.5 (15th cent.), fols. 11<sup>r</sup>–151<sup>r</sup></p>",
+      "line_text": "Leuven, Universitätsbibliothek Löwen, Lefort ar. A.5 (15th cent.), fols. 11r–151r",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 132, fols. 139<sup>r</sup>–147<sup>r</sup> (1629)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 132, fols. 139r–147r (1629)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, arabe 150, fol. 111<sup>v</sup>–141<sup>r </sup> (1606)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, arabe 150, fol. 111v–141r  (1606)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Bibloteca Apostolica Vaticana, Vat. arab. 170 (1719)</p>",
+      "line_text": "Vatican, Bibloteca Apostolica Vaticana, Vat. arab. 170 (1719)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Bibloteca Apostolica Vaticana, Vat. arab. 171 (17th cent.), fols. 78<sup>r</sup>–87<sup>r</sup></p>",
+      "line_text": "Vatican, Bibloteca Apostolica Vaticana, Vat. arab. 171 (17th cent.), fols. 78r–87r",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 381, pp. 320–379 (19th cent.) (HMML)</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 381, pp. 320–379 (19th cent.) (HMML)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 394 (14th cent.)</p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 394 (14th cent.)",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Ḥunayn, Girgis. <em>Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam</em>. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (edition from an unidentified manuscript, pp. 95–114). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927.</p>",
+      "line_text": "Ḥunayn, Girgis. Kitāb mayāmir wa-ʻajāʼib al-sayyidah al-ʻadhrā Maryam. Cairo: Maṭbaʻat ʼal-Hilāl, 1902 (edition from an unidentified manuscript, pp. 95–114). Second edition by ‘Abd al-Masīh Sulaimān. Cairo: ‘Ayn Shams Press, 1927.",
+      "language": "Arabic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://digitale-sammlungen.ulb.uni-bonn.de/content/pageview/5389315"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7027/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 7027, fol. 75 (prior to 1004) ~ text corresponds to pp. 192–93 of Mingana’s edition</p>",
+      "line_text": "London, British Library, Or. 7027, fol. 75 (prior to 1004) ~ text corresponds to pp. 192–93 of Mingana’s edition",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7027/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte 129<sup>17</sup>, fols. 37–38</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte 12917, fols. 37–38",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Strasbourg, Bibliothèque nationale et universitaire, Copte. 530 ~ Suciu (“British Library Fragment,” p. 64) reports that the fragment has text similar to Mingana, p. 196, but “may be from a slightly different recension.”</p>",
+      "line_text": "Strasbourg, Bibliothèque nationale et universitaire, Copte. 530 ~ Suciu (“British Library Fragment,” p. 64) reports that the fragment has text similar to Mingana, p. 196, but “may be from a slightly different recension.”",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/miscellaneouscop00budguoft/page/n43\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. A. W. <em>Miscellaneous Coptic Texts in the Dialect of Upper Egypt.</em> London: British Museum, 1915 (partial transcription of London Or. 7027, p. xxxviii–xxxix).</p>",
+      "line_text": "Budge, E. A. W. Miscellaneous Coptic Texts in the Dialect of Upper Egypt. London: British Museum, 1915 (partial transcription of London Or. 7027, p. xxxviii–xxxix).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/miscellaneouscop00budguoft/page/n43"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/MIFAO9/page/n11\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\" wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lacau, Pierre. <em>Fragments d’apocryphes coptes. </em>Mémoires publiés par les membres de l’Institut français d’archéologie orientale 9. Cairo: Imprimerie de l’IFAO, Paris : Firmin Didot, 1904 (text of Paris Copte 129<sup>17</sup>, pp. 15–18, trans. pp. 19–22).</p>",
+      "line_text": "Lacau, Pierre. Fragments d’apocryphes coptes. Mémoires publiés par les membres de l’Institut français d’archéologie orientale 9. Cairo: Imprimerie de l’IFAO, Paris : Firmin Didot, 1904 (text of Paris Copte 12917, pp. 15–18, trans. pp. 19–22).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/MIFAO9/page/n11"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://coptica.ch/revillout-1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Revillout, Eugène. <em>Les apocryphes coptes.</em> <em>Première partie: Les Évangiles des douze apôtres et de saint Barthélemy</em>. PO 2/2. Paris: Firmin Didot, 1904 (text and translation of Paris Copte 129<sup>17</sup>, pp. 54–58).</p>",
+      "line_text": "Revillout, Eugène. Les apocryphes coptes. Première partie: Les Évangiles des douze apôtres et de saint Barthélemy. PO 2/2. Paris: Firmin Didot, 1904 (text and translation of Paris Copte 12917, pp. 54–58).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://coptica.ch/revillout-1.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Suciu, Alin. “A British Library Fragment from a Homily on the Lament of Mary and the So-Called Gospel of Gamaliel.” <em>Aethiopica</em> 15 (2012): 53–71 (photographs, text, and translation of London Or. 7027, pp. 64–67).</p>",
+      "line_text": "Suciu, Alin. “A British Library Fragment from a Homily on the Lament of Mary and the So-Called Gospel of Gamaliel.” Aethiopica 15 (2012): 53–71 (photographs, text, and translation of London Or. 7027, pp. 64–67).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 80, fols. 62<sup>r</sup>–71<sup>v</sup> (15th cent.)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 80, fols. 62r–71v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 91, fols. 1<sup>r</sup>–28<sup>v</sup> (15th cent.)</p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 91, fols. 1r–28v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 158, fols. 71<sup>r</sup>–84<sup>v</sup> (18th cent.)</p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 158, fols. 71r–84v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 151, fols. 1<sup>r</sup>–58<sup>v</sup> (17th cent.) ~ some folios placed out-of-order (correct: 9, 11, 12, 10, 15, 13, 14, 16)</p>",
+      "line_text": "D  Vatican, Biblioteca Apostolica Vaticana, Vat. et. 151, fols. 1r–58v (17th cent.) ~ some folios placed out-of-order (correct: 9, 11, 12, 10, 15, 13, 14, 16)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Paris, Bibliothèque nationale de France, Éth. 104, fols. 39<sup>v</sup>–101<sup>v</sup> (16th cent.)</p>",
+      "line_text": "E  Paris, Bibliothèque nationale de France, Éth. 104, fols. 39v–101v (16th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  London, British Library, Or. 601, fols. 113<sup>r</sup>–120<sup>v</sup> (18th cent.)</p>",
+      "line_text": "Z  London, British Library, Or. 601, fols. 113r–120v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Däbrä Tabor, Bethlehem Church, no shelf number, pp. 230–270 (1398–1408)</p>",
+      "line_text": "Däbrä Tabor, Bethlehem Church, no shelf number, pp. 230–270 (1398–1408)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts (most are contained in Ritual for Passion Week, <em>Mäshafä Gebrä hemāmāt</em>):</p>",
+      "line_text": "Additional manuscripts (most are contained in Ritual for Passion Week, Mäshafä Gebrä hemāmāt):",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of St. Mark, EMML 12, fols. 85<sup>v</sup>–95<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Addis Ababa, Church of St. Mark, EMML 12, fols. 85v–95v (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of Sts. Peter and Paul, EMML 242 fols. 141<sup>r</sup>–148<sup>r</sup> (1924)</p>",
+      "line_text": "Addis Ababa, Church of Sts. Peter and Paul, EMML 242 fols. 141r–148r (1924)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Nativity, EMML 411, fols. 133<sup>r</sup>–140<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Addis Ababa, Church of the Nativity, EMML 411, fols. 133r–140v (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Savior of the World, EMML 543, fols. 201<sup>r</sup>–208<sup>r</sup> (1965)</p>",
+      "line_text": "Addis Ababa, Church of the Savior of the World, EMML 543, fols. 201r–208r (1965)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of St. George, EMML 660, fols. 122<sup>v</sup>–134<sup>r</sup> (18th/19th cent.)</p>",
+      "line_text": "Addis Ababa, Church of St. George, EMML 660, fols. 122v–134r (18th/19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Savior of the World, EMML 753, fols. 213<sup>r</sup>–219<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Addis Ababa, Church of the Savior of the World, EMML 753, fols. 213r–219v (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of the Apostles, EMML 807, fols. 177<sup>v</sup>–269<sup>v</sup> (20th cent.) ~ divided into separate readings</p>",
+      "line_text": "Addis Ababa, Church of the Apostles, EMML 807, fols. 177v–269v (20th cent.) ~ divided into separate readings",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Trinity Church, EMML 857, fols. 192<sup>v</sup>–205<sup>v</sup> (1958)</p>",
+      "line_text": "Addis Ababa, Trinity Church, EMML 857, fols. 192v–205v (1958)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of our Lady of Mount Quesquam, EMML 884, fols. 147<sup>r</sup>–157<sup>v</sup> (1930)</p>",
+      "line_text": "Addis Ababa, Church of our Lady of Mount Quesquam, EMML 884, fols. 147r–157v (1930)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of St. George, EMML 945, fols. 144<sup>r</sup>–208<sup>v</sup> (1959/1970) ~ divided into separate readings</p>",
+      "line_text": "Addis Ababa, Church of St. George, EMML 945, fols. 144r–208v (1959/1970) ~ divided into separate readings",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of St. George, EMML 999, fols. 217<sup>r</sup>–232<sup>r</sup> (1908/1909)</p>",
+      "line_text": "Addis Ababa, Church of St. George, EMML 999, fols. 217r–232r (1908/1909)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Church of Sts. Peter and Paul, EMML 1607, fols. 152<sup>v</sup>–162<sup>r</sup> (20th cent.)</p>",
+      "line_text": "Addis Ababa, Church of Sts. Peter and Paul, EMML 1607, fols. 152v–162r (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Patriarchate Library, EMML 680, fols. 266<sup>r</sup>–270<sup>v</sup> (ca. 1959–1970)</p>",
+      "line_text": "Addis Ababa, Patriarchate Library, EMML 680, fols. 266r–270v (ca. 1959–1970)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1765, fols. 151<sup>r</sup>–179<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1765, fols. 151r–179v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1956, fols. 5<sup>r</sup>–17<sup>v</sup>, 62<sup>r</sup>–63<sup>v</sup>, 25<sup>r</sup>–41<sup>v</sup>, 18<sup>r</sup>–24<sup>v</sup>, 42<sup>r</sup>–52<sup>v</sup> (ca. 1400)</p>",
+      "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 1956, fols. 5r–17v, 62r–63v, 25r–41v, 18r–24v, 42r–52v (ca. 1400)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 2044, fols. 124<sup>r</sup>–133<sup>v</sup> (1746)</p>",
+      "line_text": "Ambāssal (Wallo), Monastery of Hayq Estifānos, EMML 2044, fols. 124r–133v (1746)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Angolalā (Shoa), Church of Angolalā Kidāna Mehrat, EMML 4340, fol. 146<sup>r</sup>–165<sup>r</sup> (ca. 1813–1847)</p>",
+      "line_text": "Angolalā (Shoa), Church of Angolalā Kidāna Mehrat, EMML 4340, fol. 146r–165r (ca. 1813–1847)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Mitāq Amānu͗el, EMML 2338, fols. 212<sup>v</sup>–222<sup>v</sup> (ca. 1813–1847)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Mitāq Amānu͗el, EMML 2338, fols. 212v–222v (ca. 1813–1847)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Mikā͗el, EMML 2362, fols. 129<sup>v</sup>–146<sup>v</sup> (1949)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Mikā͗el, EMML 2362, fols. 129v–146v (1949)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Afar Bāynē Takla Hāymānot, EMML 2407, fols. 130<sup>v</sup>–153<sup>v</sup> (ca/ 1813–1847)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Afar Bāynē Takla Hāymānot, EMML 2407, fols. 130v–153v (ca/ 1813–1847)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Madhānē ͑Alam, EMML 2425, fols. 118<sup>r</sup>–141<sup>v</sup> (1865/1867)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Madhānē ͑Alam, EMML 2425, fols. 118r–141v (1865/1867)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 2461, fols.  324<sup>r</sup>–335<sup>v</sup> (1842)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 2461, fols.  324r–335v (1842)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 2464, fols. 119<sup>r</sup>–141<sup>r</sup> (ca. 1779–1800)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 2464, fols. 119r–141r (ca. 1779–1800)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Astit Kidāna Mehrat, EMML 2515, fols. 102<sup>r</sup>–122<sup>r</sup> (ca. 1779–1800)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Astit Kidāna Mehrat, EMML 2515, fols. 102r–122r (ca. 1779–1800)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Dibbut Kidāna Mehrat, EMML 2902, fols. 36<sup>r</sup>–64<sup>r</sup> (17th/18th cent.)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Dibbut Kidāna Mehrat, EMML 2902, fols. 36r–64r (17th/18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Harr Ambā Mikā͗el, EMML 2998, fols. 219<sup>r</sup>–230<sup>r</sup> (1913)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Harr Ambā Mikā͗el, EMML 2998, fols. 219r–230r (1913)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Mikā͗el, EMML 3510, fol. 167<sup>r</sup>–175<sup>v</sup> (ca. 1775–1769)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Mikā͗el, EMML 3510, fol. 167r–175v (ca. 1775–1769)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Dobbā Abbo, EMML 3625, fol. 76<sup>r</sup>–94<sup>r</sup> (1930)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Dobbā Abbo, EMML 3625, fol. 76r–94r (1930)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 3873, fols. 171<sup>r</sup>–183<sup>r</sup> (1899)</p>",
+      "line_text": "Ankobarr (Shoa), Church of Ankobarr Māryām, EMML 3873, fols. 171r–183r (1899)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Tānāsee 10</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, Tānāsee 10",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Tānāsee 23</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, Tānāsee 23",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Tānāsee 64</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, Tānāsee 64",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin, Tānāsee 96</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin, Tānāsee 96",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Ath. 156</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Ath. 156",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dabra Berhān (Shoa), Church of Dabra Berhān Sellāsē, EMML 1878, fols. 120<sup>r</sup>–137<sup>r</sup> (1712)</p>",
+      "line_text": "Dabra Berhān (Shoa), Church of Dabra Berhān Sellāsē, EMML 1878, fols. 120r–137r (1712)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dasē (Wallo), Church of Dasē Mādhanē ‘Ālam, EMML 4794, fols. 154<sup>v</sup>–164<sup>v</sup> (1906/1907)</p>",
+      "line_text": "Dasē (Wallo), Church of Dasē Mādhanē ‘Ālam, EMML 4794, fols. 154v–164v (1906/1907)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dasē (Wallo), Church of Gannata Giyorgis, EMML 4856, fols. 122<sup>v</sup>–187<sup>r</sup> (20th cent.) ~ dispersed readings</p>",
+      "line_text": "Dasē (Wallo), Church of Gannata Giyorgis, EMML 4856, fols. 122v–187r (20th cent.) ~ dispersed readings",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dasē (Wallo), Church of Dabra Bētēl Sellāsē, EMML 4898, fols. 164<sup>v</sup>–176<sup>r</sup> (20th cent.)</p>",
+      "line_text": "Dasē (Wallo), Church of Dabra Bētēl Sellāsē, EMML 4898, fols. 164v–176r (20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Dasē (Wallo), Church of Manbara Zahay Hāymānot, EMML 4967, fols. 130<sup>v</sup>–141<sup>v</sup> (ca. 1917–1930)</p>",
+      "line_text": "Dasē (Wallo), Church of Manbara Zahay Hāymānot, EMML 4967, fols. 130v–141v (ca. 1917–1930)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Nazionale Centrale di Firenze, Magl. Cl. III Cod. 1, fols. 65<sup>v</sup>–83<sup>v </sup>(1664–1666)</p>",
+      "line_text": "Florence, Biblioteca Nazionale Centrale di Firenze, Magl. Cl. III Cod. 1, fols. 65v–83v (1664–1666)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Genner Agar (Shoa), Monastery of Dabra Bagge͑, EMML 2348, fols. 130<sup>v</sup>–157<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Genner Agar (Shoa), Monastery of Dabra Bagge͑, EMML 2348, fols. 130v–157v (19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Gojjam Province, Martula Maryam Monastery, EMDA 00048, fols. 1<sup>r</sup>–33<sup>v</sup> (19th cent.) (HMML)</p>",
+      "line_text": "Gojjam Province, Martula Maryam Monastery, EMDA 00048, fols. 1r–33v (19th cent.) (HMML)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Gubālāfto (Wallo), Church of Damtā Giyorgis, EMML 1626, fols. 152<sup>v</sup>–162<sup>r</sup> (ca. 1930–1974)</p>",
+      "line_text": "Gubālāfto (Wallo), Church of Damtā Giyorgis, EMML 1626, fols. 152v–162r (ca. 1930–1974)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 598, fols. 147<sup>v</sup>–161<sup>v</sup> (1708–1711)</p>",
+      "line_text": "London, British Library, Or. 598, fols. 147v–161v (1708–1711)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 604, fols. 125<sup>r</sup>–136<sup>v</sup> (1716)</p>",
+      "line_text": "London, British Library, Or. 604, fols. 125r–136v (1716)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-605/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 605, fols. 133<sup>v</sup>–148<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 605, fols. 133v–148v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-605/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 767, fols. 137<sup>r</sup>–165<sup>v</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 767, fols. 137r–165v (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 775, fols. 183<sup>r</sup>–207<sup>r</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 775, fols. 183r–207r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mogā and Wadarrā (Shoa), Church of Sallā Dengāy, EMML 4440, fol. 119<sup>v</sup>–179<sup>v</sup> (1884/1885) ~ dispersed readings</p>",
+      "line_text": "Mogā and Wadarrā (Shoa), Church of Sallā Dengāy, EMML 4440, fol. 119v–179v (1884/1885) ~ dispersed readings",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Morat (Shoa), Church of Garbā Giyorgis, EMML 3875, fols. 166<sup>r</sup>–178<sup>r</sup> (ca. 1779–1800)</p>",
+      "line_text": "Morat (Shoa), Church of Garbā Giyorgis, EMML 3875, fols. 166r–178r (ca. 1779–1800)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tigray-gunda-gunde-monastery-gg-072/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Tigray, Gunda Gunde Monastery, GG-072, fols. 1<sup>r</sup>–26<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Tigray, Gunda Gunde Monastery, GG-072, fols. 1r–26v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/tigray-gunda-gunde-monastery-gg-072/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 1 ~ listed by Bausi, unconfirmed</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Éthiopien d’Abbadie 1 ~ listed by Bausi, unconfirmed",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Griaule 376 ~ listed by Bausi, unconfirmed</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Griaule 376 ~ listed by Bausi, unconfirmed",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Manchester, John Rylands Library, Ethiopian MS 6</p>",
+      "line_text": "Manchester, John Rylands Library, Ethiopian MS 6",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tahulladarē (Wallo), Church of Boru Sellāsē, EMML 4775, fols. 1<sup>r</sup>–31<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Tahulladarē (Wallo), Church of Boru Sellāsē, EMML 4775, fols. 1r–31r (19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. et. 252</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. et. 252",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. et. 268</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. et. 268",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yaggu (Wallo), Church of Waldeyā Gabre’ēl, EMML 3391, fols. 150<sup>v</sup>–179<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Yaggu (Wallo), Church of Waldeyā Gabre’ēl, EMML 3391, fols. 150v–179r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yaggu (Wallo), Church of Gāllā Giyorgis, EMML 3414, fols. 101<sup>v</sup>–110<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Yaggu (Wallo), Church of Gāllā Giyorgis, EMML 3414, fols. 101v–110v (19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yaggu (Wallo), Church of Waldeyā͗ Mikā͗el, EMML 3802, fols. 176<sup>r</sup>–192<sup>r </sup>(19th/20th cent.)</p>",
+      "line_text": "Yaggu (Wallo), Church of Waldeyā͗ Mikā͗el, EMML 3802, fols. 176r–192r (19th/20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yaggu (Wallo), Church of Waldeyā͗ Mikā͗el, EMML 3803, fols. 138<sup>v</sup>–149<sup>r</sup> (19th/20th cent.)</p>",
+      "line_text": "Yaggu (Wallo), Church of Waldeyā͗ Mikā͗el, EMML 3803, fols. 138v–149r (19th/20th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://play.google.com/store/books/details?id=QZdHAAAAYAAJ&amp;rdid=book-QZdHAAAAYAAJ&amp;rdot=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Baker, A. “Some Account of an Ancient Manuscript.” <em>Newbery House Magazine</em> 7.6 (1892): 641–46 (facsimile and English translation—by M. R. James—of a single sheet from an uncataloged Ethiopic manuscript from Magdala, pp. 642–43).</p>",
+      "line_text": "Baker, A. “Some Account of an Ancient Manuscript.” Newbery House Magazine 7.6 (1892): 641–46 (facsimile and English translation—by M. R. James—of a single sheet from an uncataloged Ethiopic manuscript from Magdala, pp. 642–43).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://play.google.com/store/books/details?id=QZdHAAAAYAAJ&rdid=book-QZdHAAAAYAAJ&rdot=1"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “I manoscritti etiopici di J. M. Wansleben nella Biblioteca Nazionale Centrale di Firenze.” <em>RSE</em> 33 (1989): 5–33 (detailed description of the Florence manuscript, pp. 14–20 with additional Ethiopic manuscripts noted p. 19).</p>",
+      "line_text": "Bausi, Alessandro. “I manoscritti etiopici di J. M. Wansleben nella Biblioteca Nazionale Centrale di Firenze.” RSE 33 (1989): 5–33 (detailed description of the Florence manuscript, pp. 14–20 with additional Ethiopic manuscripts noted p. 19).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bombeck.de/stefan/einleitg.html#Einleitung\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Bombeck, Stefan. <i>Die Geschichte der heiligen Maria in einer alten äthiopischen Handschrift</i>. 2 vols. Dortmund: Praxiswissen, 2004 and 2010 (facsimile of Däbrä Tabor manuscript, vol. 1, German translation, vol. 2).</p>",
+      "line_text": "Bombeck, Stefan. Die Geschichte der heiligen Maria in einer alten äthiopischen Handschrift. 2 vols. Dortmund: Praxiswissen, 2004 and 2010 (facsimile of Däbrä Tabor manuscript, vol. 1, German translation, vol. 2).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.bombeck.de/stefan/einleitg.html#Einleitung"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/gamalielathiopis0004oude\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Oudenrijn, Marcus-Antonius van den. <em>Gamaliel. Äthiopische Texte zur Pilatusliteratur. </em>Spicilegium Friburgense 4. Freiburg: Universitätsverlag, 1959 (Ethiopic edition based on A–E and Z, with German translation, pp. 2–83).</p>",
+      "line_text": "Oudenrijn, Marcus-Antonius van den. Gamaliel. Äthiopische Texte zur Pilatusliteratur. Spicilegium Friburgense 4. Freiburg: Universitätsverlag, 1959 (Ethiopic edition based on A–E and Z, with German translation, pp. 2–83).",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/gamalielathiopis0004oude"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Aleppo, Syrian Catholic Archdiocese of Aleppo, Ar 5/66, fols. 1<sup>r</sup>–34<sup>r</sup> (18th cent.) HMML</p>",
+      "line_text": "Aleppo, Syrian Catholic Archdiocese of Aleppo, Ar 5/66, fols. 1r–34r (18th cent.) HMML",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charfet, Syrian-Catholic Patriarchate, syr. 11/19, 4 (1605)</p>",
+      "line_text": "Charfet, Syrian-Catholic Patriarchate, syr. 11/19, 4 (1605)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charfet, Syrian-Catholic Patriarchate, syr. 11/26, I, 4 (1670)</p>",
+      "line_text": "Charfet, Syrian-Catholic Patriarchate, syr. 11/26, I, 4 (1670)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 87, fols. 103<sup>r</sup>–117<sup>v</sup> (ca. 1450)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 87, fols. 103r–117v (ca. 1450)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Edgbaston, University of Birmingham, Mingana Syr. 127, fols. 82<sup>r</sup>–125<sup>r</sup> (1683)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 127, fols. 82r–125r (1683)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-monastery-of-saint-mark-201/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, Monastery of Saint Mark, 201, <span class=\"\">fols. 1</span><span class=\"\"><span class=\"Syriac\"><sup>v</sup>–8</span><span class=\"Syriac\"><sup>r</sup></span></span> (1903)</p>",
+      "line_text": "Jerusalem, Monastery of Saint Mark, 201, fols. 1v–8r (1903)",
+      "language": "Garšūnī",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-monastery-of-saint-mark-201/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 104, fols. 496<sup>r</sup>–502<sup>v</sup> (18th cent.) (HMML)</p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 104, fols. 496r–502v (18th cent.) (HMML)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 232,  fols. 472<sup>v</sup>–493<sup>r </sup>(17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 232,  fols. 472v–493r (17th cent.)",
+      "language": "Garšūnī",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-233/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 233, fols. 37<sup>v</sup>–76<sup>v </sup>(16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 233, fols. 37v–76v (16th cent.)",
+      "language": "Garšūnī",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-233/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. syr. 408, fols. 115<sup>r</sup>–139<sup>v </sup> (1549)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. syr. 408, fols. 115r–139v  (1549)",
+      "language": "Garšūnī",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/woodbrookestudie02theouoft/page/162\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “The Lament of the Virgin.” Pages 178–240 in <em>Woodbrooke Studies. V</em>ol. 2. Cambridge: W. Heffer &amp; Sons, 1928 (edition based on Syr. 87 with variants from Syr. 127 in the footnotes; translation pp. 182–210, text pp. 211–40; translation of Paris Copte 129<sup>17</sup>, pp. 179–81).</p>",
+      "line_text": "Mingana, Alphonse. “The Lament of the Virgin.” Pages 178–240 in Woodbrooke Studies. Vol. 2. Cambridge: W. Heffer &amp; Sons, 1928 (edition based on Syr. 87 with variants from Syr. 127 in the footnotes; translation pp. 182–210, text pp. 211–40; translation of Paris Copte 12917, pp. 179–81).",
+      "language": "Garšūnī",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/woodbrookestudie02theouoft/page/162"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n289/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Studi e testi 118, 133, 146–147, 172. Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (additional witnesses listed in vol 1:248).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Studi e testi 118, 133, 146–147, 172. Vatican: Biblioteca Apostolica Vaticana, 1944–1953 (additional witnesses listed in vol 1:248).",
+      "language": "Garšūnī",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n289/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Layton, Bentley. <em>Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906.</em> London: British Library, 1987 (partial translation of London Or. 7027, pp.  111–12).</p>",
+      "line_text": "Layton, Bentley. Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906. London: British Library, 1987 (partial translation of London Or. 7027, pp.  111–12).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/woodbrookestudie02theouoft/page/162\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mingana, Alphonse. “The Lament of the Virgin.” Pages 178–240 in <em>Woodbrooke Studies. V</em>ol. 2. Cambridge: W. Heffer &amp; Sons, 1928 (edition based on Syr. 87 with variants from Syr. 127 in the footnotes; translation pp. 182–210, text pp. 211–40; translation of Paris Copte 129<sup>17</sup>, pp. 179–81).</p>",
+      "line_text": "Mingana, Alphonse. “The Lament of the Virgin.” Pages 178–240 in Woodbrooke Studies. Vol. 2. Cambridge: W. Heffer &amp; Sons, 1928 (edition based on Syr. 87 with variants from Syr. 127 in the footnotes; translation pp. 182–210, text pp. 211–40; translation of Paris Copte 12917, pp. 179–81).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/woodbrookestudie02theouoft/page/162"
+      ]
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. “Die koptischen Fragmente des Gamalielevangelium.” Pages 1310–13 in vol. 1 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012 (German translation of the Coptic fragments).</p>",
+      "line_text": "Schenke, Hans-Martin. “Die koptischen Fragmente des Gamalielevangelium.” Pages 1310–13 in vol. 1 of Antike christliche Apokryphen in deutscher Übersetzung. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012 (German translation of the Coptic fragments).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Josua, Maria, and Friedman Eißler. “Die arabische Fassung des Gamalielevangelium.” Pages 1313–35 in vol. 1 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012 (translation of the Garšūnī edition by Mingana).</p>",
+      "line_text": "Josua, Maria, and Friedman Eißler. “Die arabische Fassung des Gamalielevangelium.” Pages 1313–35 in vol. 1 of Antike christliche Apokryphen in deutscher Übersetzung. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012 (translation of the Garšūnī edition by Mingana).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Burtea, Bogdan. “Die äthiopische Fassung des Gamalielevangelium.” Pages 1336–47 in vol. 1 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012 (translation of edition by van den Oudenrijn).</p>",
+      "line_text": "Burtea, Bogdan. “Die äthiopische Fassung des Gamalielevangelium.” Pages 1336–47 in vol. 1 of Antike christliche Apokryphen in deutscher Übersetzung. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012 (translation of edition by van den Oudenrijn).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (translation of Ethiopic, vol. 1.2:344–66).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (translation of Ethiopic, vol. 1.2:344–66).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=toRkNSuuoAcC&amp;lpg=PA966&amp;ots=udwvurjXBw&amp;dq=Georges%20Gharib%2C%20ed.%2C%20Testi%20mariani%20del%20primo%20millenio%20IV&amp;pg=PA754#v=onepage&amp;q=Georges%20Gharib,%20ed.,%20Testi%20mariani%20del%20primo%20millenio%20IV&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gharib, Georges et al., eds. <em>Testi mariani del primo millenio.</em> Vol. 4: <em>Pardi e altri autori orientali.</em> Rome: Città Nuova, 1991 (pp. 755–63).</p>",
+      "line_text": "Gharib, Georges et al., eds. Testi mariani del primo millenio. Vol. 4: Pardi e altri autori orientali. Rome: Città Nuova, 1991 (pp. 755–63).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.ca/books?id=toRkNSuuoAcC&lpg=PA966&ots=udwvurjXBw&dq=Georges%20Gharib%2C%20ed.%2C%20Testi%20mariani%20del%20primo%20millenio%20IV&pg=PA754#v=onepage&q=Georges%20Gharib,%20ed.,%20Testi%20mariani%20del%20primo%20millenio%20IV&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n333\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translation of Ethiopic with variant from Paris Copte 129<sup>17</sup>, vol. 1:655–82).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translation of Ethiopic with variant from Paris Copte 12917, vol. 1:655–82).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n333"
+      ]
+    },
+    {
+      "line_html": "<p>Abraha, Tedros and Daniel Assefa. “Apocryphal Gospels in the Ethiopic Tradition.” Pages 639–43 in <em>Jesus in apokryphen Evangelienüberlieferungen. </em>Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010 (see pp. 643–45).</p>",
+      "line_text": "Abraha, Tedros and Daniel Assefa. “Apocryphal Gospels in the Ethiopic Tradition.” Pages 639–43 in Jesus in apokryphen Evangelienüberlieferungen. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010 (see pp. 643–45).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Baumstark, Anton. Review of Eugène Revillout, <em>Les apocryphes coptes.</em> <em>Revue biblique</em> 3 (1906): 245–65 (esp. 253–59).</p>",
+      "line_text": "Baumstark, Anton. Review of Eugène Revillout, Les apocryphes coptes. Revue biblique 3 (1906): 245–65 (esp. 253–59).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Beylot, Robert. “Bref aperçu des principaux textes éthiopiens dérivés des Acta Pilati.” <em>Langues orientales anciennes, philologie et lingustique </em>1 (1988): 181–95.</p>",
+      "line_text": "Beylot, Robert. “Bref aperçu des principaux textes éthiopiens dérivés des Acta Pilati.” Langues orientales anciennes, philologie et lingustique 1 (1988): 181–95.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cerulli, Enrico. “Tiberius and Pontius Pilatus in the Ethiopian Tradition and Poetry.” <em>Proceedings of the British Academy</em> 59 (1975): 141–58.</p>",
+      "line_text": "Cerulli, Enrico. “Tiberius and Pontius Pilatus in the Ethiopian Tradition and Poetry.” Proceedings of the British Academy 59 (1975): 141–58.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Clemen, Carl. “Notiz über ein neugefundenes Fragment einer bisher unbekannten Pilatuslegende.” <em>Theologische Studien und Kritiken</em> 4 (1894): 757–68 (commentary and German translation of Ethiopic manuscript published by A. Baker).</p>",
+      "line_text": "Clemen, Carl. “Notiz über ein neugefundenes Fragment einer bisher unbekannten Pilatuslegende.” Theologische Studien und Kritiken 4 (1894): 757–68 (commentary and German translation of Ethiopic manuscript published by A. Baker).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
+    },
+    {
+      "line_html": "<p>Coquin, René-Georges. “Cyriacus.” Pages 669–71 in vol. 3 of <em>The Coptic Encyclopedia</em>. Edited by in Aziz S. Atiya. 8 vols. New York: Macmillan, 1991.</p>",
+      "line_text": "Coquin, René-Georges. “Cyriacus.” Pages 669–71 in vol. 3 of The Coptic Encyclopedia. Edited by in Aziz S. Atiya. 8 vols. New York: Macmillan, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, James Keith, ed. and trans. <em>The Apocryphal New Testament</em>: <em>A Collection of Apocryphal Christian Literature in an English Translation</em>. Oxford: Clarendon Press, 1993 (pp. 159–60).</p>",
+      "line_text": "Elliott, James Keith, ed. and trans. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation. Oxford: Clarendon Press, 1993 (pp. 159–60).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/LitkritUntZ.OrientalischApokryphenEvangelienliteratur/page/n15/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Haase, Felix. <em>Literarkritische Untersuchungen zur orientalisch-apokryphen Evangelienliteratur.</em> Leipzig: J. C. Hinrichs, 1913 (see pp. 11–22).</p>",
+      "line_text": "Haase, Felix. Literarkritische Untersuchungen zur orientalisch-apokryphen Evangelienliteratur. Leipzig: J. C. Hinrichs, 1913 (see pp. 11–22).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/LitkritUntZ.OrientalischApokryphenEvangelienliteratur/page/n15/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Hammerschmidt, Ernst. Review of Marcus-Antonius van den Oudenrijn, <em>Gamaliel. Äthiopische Texte zur Pilatusliteratur.</em> <em>OLZ</em> 61 (1966): 378–85.</p>",
+      "line_text": "Hammerschmidt, Ernst. Review of Marcus-Antonius van den Oudenrijn, Gamaliel. Äthiopische Texte zur Pilatusliteratur. OLZ 61 (1966): 378–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horn, Cornelia B. “Apocryphal Gospels in Arabic, or Some Complications on the Road to Traditions about Jesus.” Pages 583–609 in <em>Jesus in apokryphen Evangelienüberlieferungen</em>. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010 (pp. 602–604).</p>",
+      "line_text": "Horn, Cornelia B. “Apocryphal Gospels in Arabic, or Some Complications on the Road to Traditions about Jesus.” Pages 583–609 in Jesus in apokryphen Evangelienüberlieferungen. Edited by Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010 (pp. 602–604).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 151–52).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 151–52).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ladeuze, Paulin. “Apocryphes évangéliques coptes. Pseudo-Gamaliel; Évangile de Barthélemy.” <em>RHE</em> 7 (1906): 245–68.</p>",
+      "line_text": "Ladeuze, Paulin. “Apocryphes évangéliques coptes. Pseudo-Gamaliel; Évangile de Barthélemy.” RHE 7 (1906): 245–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>van den Oudenrijn, Marcus-Antonius. “Das Gamalielevangelium.” Pages 441–43 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung</em>, Bd. 1. <em>Evangelien und Verwandtes</em>. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “The Gospel of Gamaliel.” Pages 558–60 in <em>New Testament Apocrypha</em>, Vol. 1,<em> Gospels and Related Writings</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox, 1991.</p>",
+      "line_text": "van den Oudenrijn, Marcus-Antonius. “Das Gamalielevangelium.” Pages 441–43 in Neutestamentliche Apokryphen in deutscher Übersetzung, Bd. 1. Evangelien und Verwandtes. Edited by Wilhelm Schneemelcher. 6th ed. Tübingen: Mohr Siebeck, 1990. English translation: “The Gospel of Gamaliel.” Pages 558–60 in New Testament Apocrypha, Vol. 1, Gospels and Related Writings. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. Rev. ed. Louisville, KY: Westminster John Knox, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin, Maria Josua, Friedman Eißler, and Bogdan Burtea. “Das Gamalielevangelium.” Pages 1307–47 in vol. 1 of <em>Antike christliche Apokryphen in deutscher Übersetzung</em>. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "Schenke, Hans-Martin, Maria Josua, Friedman Eißler, and Bogdan Burtea. “Das Gamalielevangelium.” Pages 1307–47 in vol. 1 of Antike christliche Apokryphen in deutscher Übersetzung. 2 vols. AcA I/1-2. Edited by Christoph Markschies and Jens Schröter. Tübingen: Mohr Siebeck, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (see pp. 85–88).</p>",
+      "line_text": "Suciu, Alin. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (see pp. 85–88).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Weninger, Stefan. “Laha Maryam.” <em>Encyclopedia Aethiopica. </em>Edited by Siegbert Uhlig. 5 vols. Wiesbaden: Harrassowitz, 2007 (vol. 3, p. 477a–b).</p>",
+      "line_text": "Weninger, Stefan. “Laha Maryam.” Encyclopedia Aethiopica. Edited by Siegbert Uhlig. 5 vols. Wiesbaden: Harrassowitz, 2007 (vol. 3, p. 477a–b).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

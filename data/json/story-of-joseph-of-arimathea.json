@@ -1,0 +1,194 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/story-of-joseph-of-arimathea/",
+  "nasscal_toc_title": "Story of Joseph of Arimathea",
+  "filename": "story-of-joseph-of-arimathea",
+  "latin_title": "Narratio Iosephi de Arimathaea (georgice)",
+  "abbrev": "Story Jos. Arim",
+  "alt_titles": [
+    "(Georgian) Narrative of Joseph of Arimathea"
+  ],
+  "clavis_number": 168,
+  "category": "Pilate Cycle",
+  "compiler": "Bradley N. Rice, McGill University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Iviron, Geor. 9, fols. 155<sup>v</sup>–162<sup>r</sup> (977)</p>",
+      "line_text": "Mount Athos, Iviron, Geor. 9, fols. 155v–162r (977)",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Center of Manuscripts, A-144, fols. 91<sup>v</sup>–97<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, A-144, fols. 91v–97r (10th cent.)",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Center of Manuscripts, A-249, fols. 76<sup>r</sup>–93<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, A-249, fols. 76r–93v (10th/11th cent.)",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Center of Manuscripts, A-56, fols. 135<sup>v</sup>–144<sup>r </sup>(18th cent.)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, A-56, fols. 135v–144r (18th cent.)",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Center of Manuscripts, A-1142, fols. 171–181 (1915)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, A-1142, fols. 171–181 (1915)",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Center of Manuscripts, S-3343, fols. 1<sup>r</sup>–6<sup>r</sup> (19th/20th cent.)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, S-3343, fols. 1r–6r (19th/20th cent.)",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Marr, Nicholas. <em>Skazanīe o postroeniĭ pervoĭ tserkvi v gorodie Liddie: Gruzinskīĭ tekst po rukopisiam X—XI viekov (s dvumia paleograficheskimi tablitsami)</em>. Teksty i razyskanīia po armiano-gruzinskoĭ filologīĭ 2: Izdanīia fakul’teta vostochnykh iazykov Imperatorskago S.-Peterburgskago universiteta 5. Saint Petersburg: Tipografīia V. F. Kirshbauma, 1900 (<em>editio princeps</em> of GeoA on the basis of Iviron, Geor. 9, Tbilisi A-144, and Tbilisi A-249).</p>",
+      "line_text": "Marr, Nicholas. Skazanīe o postroeniĭ pervoĭ tserkvi v gorodie Liddie: Gruzinskīĭ tekst po rukopisiam X—XI viekov (s dvumia paleograficheskimi tablitsami). Teksty i razyskanīia po armiano-gruzinskoĭ filologīĭ 2: Izdanīia fakul’teta vostochnykh iazykov Imperatorskago S.-Peterburgskago universiteta 5. Saint Petersburg: Tipografīia V. F. Kirshbauma, 1900 (editio princeps of GeoA on the basis of Iviron, Geor. 9, Tbilisi A-144, and Tbilisi A-249).",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Mgaloblishvili, Tamila. <em>Klarjuli mravalt‘avi</em>. Żveli k‘art‘uli mcerlobis żeglebi 12. Tbilisi: Mec‘niereba, 1991 (edition of the Klarjeti homiliary, Tblisi A-144).</p>",
+      "line_text": "Mgaloblishvili, Tamila. Klarjuli mravalt‘avi. Żveli k‘art‘uli mcerlobis żeglebi 12. Tbilisi: Mec‘niereba, 1991 (edition of the Klarjeti homiliary, Tblisi A-144).",
+      "language": ".1 Recension GeoA",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Iviron, Geor. 7, fols. 148<sup>r</sup>–154<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, Geor. 7, fols. 148r–154v (13th cent.)",
+      "language": ".2 Recension GeoB",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Tbilisi, National Center of Manuscripts, Q-835, fols. 25<sup>r</sup>–29<sup>r</sup> (1895)</p>",
+      "line_text": "Tbilisi, National Center of Manuscripts, Q-835, fols. 25r–29r (1895)",
+      "language": ".2 Recension GeoB",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Rice, Bradley N. “The <em>Story of Joseph of Arimathea</em>: A New Translation and Introduction.” Pages 160–87 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke (and Brent Landau, vol. 1). 3 vols. Grand Rapids, MI: Eerdmans, 2016–2023 (translation of GeoA).</p>",
+      "line_text": "Rice, Bradley N. “The Story of Joseph of Arimathea: A New Translation and Introduction.” Pages 160–87 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke (and Brent Landau, vol. 1). 3 vols. Grand Rapids, MI: Eerdmans, 2016–2023 (translation of GeoA).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “L’histoire de l’église de Lydda dans deux textes géorgiens.” <em>Bedi Kartlisa</em> 35 (1977): 109–31 (translation of GeoA).</p>",
+      "line_text": "Esbroeck, Michel van. “L’histoire de l’église de Lydda dans deux textes géorgiens.” Bedi Kartlisa 35 (1977): 109–31 (translation of GeoA).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf von. “Ein in georgischer Sprache überliefertes Apokryphon des Joseph von Arimathia.” <em>SPAW</em> 39 (1901): 920–31 (translation of Marr’s Russian translation).</p>",
+      "line_text": "Harnack, Adolf von. “Ein in georgischer Sprache überliefertes Apokryphon des Joseph von Arimathia.” SPAW 39 (1901): 920–31 (translation of Marr’s Russian translation).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kluge, Theodor. “Die apokryphe Erzählung des Joseph von Arimathäa über den Bau der ersten christlichen Kirche in Lydda.” <em>OrChr</em> 4 (1914): 24–38 (translation of GeoA).<em> </em></p>",
+      "line_text": "Kluge, Theodor. “Die apokryphe Erzählung des Joseph von Arimathäa über den Bau der ersten christlichen Kirche in Lydda.” OrChr 4 (1914): 24–38 (translation of GeoA). ",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Marr, Nicholas. <em>Skazanīe o postroeniĭ pervoĭ tserkvi v gorodie Liddie: Gruzinskīĭ tekst po rukopisiam X—XI viekov (s dvumia paleograficheskimi tablitsami)</em>. Teksty i razyskanīia po armiano-gruzinskoĭ filologīĭ 2: Izdanīia fakul’teta vostochnykh iazykov Imperatorskago S.-Peterburgskago universiteta 5. Saint Petersburg: Tipografīia V. F. Kirshbauma, 1900 (translation of GeoA).</p>",
+      "line_text": "Marr, Nicholas. Skazanīe o postroeniĭ pervoĭ tserkvi v gorodie Liddie: Gruzinskīĭ tekst po rukopisiam X—XI viekov (s dvumia paleograficheskimi tablitsami). Teksty i razyskanīia po armiano-gruzinskoĭ filologīĭ 2: Izdanīia fakul’teta vostochnykh iazykov Imperatorskago S.-Peterburgskago universiteta 5. Saint Petersburg: Tipografīia V. F. Kirshbauma, 1900 (translation of GeoA).",
+      "language": "Russian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Č‘xikvaże, Nestan. “Une traduction géorgienne d’un original perdu: L’histoire de l’apocryphe de l’église de Lydda (CANT 77).” <em>Apocrypha</em> 8 (1997): 179–91.</p>",
+      "line_text": "Č‘xikvaże, Nestan. “Une traduction géorgienne d’un original perdu: L’histoire de l’apocryphe de l’église de Lydda (CANT 77).” Apocrypha 8 (1997): 179–91.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dilley, Paul. “Christian Icon Practice in Apocryphal Literature: Consecration and the Conversion of Synagogues into Churches.” <em>JRA</em> 23 (2010): 285–302.</p>",
+      "line_text": "Dilley, Paul. “Christian Icon Practice in Apocryphal Literature: Consecration and the Conversion of Synagogues into Churches.” JRA 23 (2010): 285–302.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Invention of Christian Tradition: ‘Apocrypha,’ Imperial Policy, and Anti-Jewish Propaganda.” <em>GRBS</em> 50 (2010): 586–615.</p>",
+      "line_text": "__________. “The Invention of Christian Tradition: ‘Apocrypha,’ Imperial Policy, and Anti-Jewish Propaganda.” GRBS 50 (2010): 586–615.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dobschütz, Ernst von. “Joseph von Arimathia.” <em>ZKG</em> 23 (1902): 1–17.</p>",
+      "line_text": "Dobschütz, Ernst von. “Joseph von Arimathia.” ZKG 23 (1902): 1–17.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. <em>Les plus anciens homéliaires géorgiens: Étude descriptive et historique</em>. Publications de l’Institut orientaliste de Louvain 10. Louvain-la-Neuve: Université catholique de Louvain, Institut orientaliste, 1975.</p>",
+      "line_text": "Esbroeck, Michel van. Les plus anciens homéliaires géorgiens: Étude descriptive et historique. Publications de l’Institut orientaliste de Louvain 10. Louvain-la-Neuve: Université catholique de Louvain, Institut orientaliste, 1975.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “La première église de la Vierge bâtie par les apôtres.” Pages 1–18 in <em>Aegyptus christiana: Mélanges d’hagiographie égyptienne et orientale dédiés à la mémoire du p. Paul Devos bollandiste</em>. Edited by Ugo Zanetti and Enzo Lucchesi. Cahiers d’orientalisme 25. Geneva: Cramer, 2004.</p>",
+      "line_text": "__________. “La première église de la Vierge bâtie par les apôtres.” Pages 1–18 in Aegyptus christiana: Mélanges d’hagiographie égyptienne et orientale dédiés à la mémoire du p. Paul Devos bollandiste. Edited by Ugo Zanetti and Enzo Lucchesi. Cahiers d’orientalisme 25. Geneva: Cramer, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kekeliże, Korneli. <em>K‘art‘uli literaturis istoria</em>. 6 vols. 4th ed. Tbilisi: Saxelmcip‘o gamomc‘emloba “Sabčot‘a Sak‘art‘velo,” 1960.</p>",
+      "line_text": "Kekeliże, Korneli. K‘art‘uli literaturis istoria. 6 vols. 4th ed. Tbilisi: Saxelmcip‘o gamomc‘emloba “Sabčot‘a Sak‘art‘velo,” 1960.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Outtier, Bernard. “Les enseignements des pères: Un recueil géorgien traduit de l’arabe.” <em>Bedi Kartlisa</em> 31 (1973): 36–47.</p>",
+      "line_text": "Outtier, Bernard. “Les enseignements des pères: Un recueil géorgien traduit de l’arabe.” Bedi Kartlisa 31 (1973): 36–47.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Le manuscrit Tbilissi A-249: Un recueil traduit de l’arabe et sa physionomie primitive.” <em>Bedi Kartlisa</em> 35 (1977): 97–106.</p>",
+      "line_text": "__________. “Le manuscrit Tbilissi A-249: Un recueil traduit de l’arabe et sa physionomie primitive.” Bedi Kartlisa 35 (1977): 97–106.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pataridze, Tamar. “Christian Literature Translated from Arabic into Georgian: A Review.” <em>Annual of Medieval Studies at CEU</em> 19 (2013): 47–65.</p>",
+      "line_text": "Pataridze, Tamar. “Christian Literature Translated from Arabic into Georgian: A Review.” Annual of Medieval Studies at CEU 19 (2013): 47–65.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peeters, Paul. “Traductions et traducteurs dans l’hagiographie orientale a l’époque byzantine.” <em>AnBoll</em> 40 (1922): 241–364.</p>",
+      "line_text": "Peeters, Paul. “Traductions et traducteurs dans l’hagiographie orientale a l’époque byzantine.” AnBoll 40 (1922): 241–364.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stengenšek, Avguštin. “Neuere russische Arbeiten zur armensich-georgischen Philologie.” <em>OrChr</em> 1 (1901): 373–78.</p>",
+      "line_text": "Stengenšek, Avguštin. “Neuere russische Arbeiten zur armensich-georgischen Philologie.” OrChr 1 (1901): 373–78.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tarchnišvili, Michael. <em>Geschichte der kirchlichen georgischen Literatur, auf Grund des ersten Bandes der georgischen Literaturgeschichte von K. Kekelidze</em>. Studi e testi 185. Vatican City: Biblioteca apostolica vaticana, 1955.</p>",
+      "line_text": "Tarchnišvili, Michael. Geschichte der kirchlichen georgischen Literatur, auf Grund des ersten Bandes der georgischen Literaturgeschichte von K. Kekelidze. Studi e testi 185. Vatican City: Biblioteca apostolica vaticana, 1955.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-by-nicetas-of-thessalonica/",
+  "nasscal_toc_title": "Acts of Thomas, by Nicetas of Thessalonica",
+  "filename": "acts-of-thomas-by-nicetas-of-thessalonica",
+  "latin_title": "Acta Thomae, auctore Niceta Thessalonicensi",
+  "abbrev": "Acts Thom. (Nicetas)",
+  "alt_titles": [
+    "Acts of Thomas"
+  ],
+  "clavis_number": 297,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>PG 105, 127-146)</p>",
+      "line_text": "PG 105, 127-146)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

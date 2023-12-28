@@ -1,0 +1,215 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/books-of-jeu/",
+  "nasscal_toc_title": "Books of Jeu",
+  "filename": "books-of-jeu",
+  "latin_title": "Libri Ieû",
+  "abbrev": "Bk. Jeu",
+  "clavis_number": 683,
+  "category": "Revelation Dialogues",
+  "compiler": ": Eric Crégheur, Université Laval",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, MS. Bruce 96, pp. 1–94 (4th/5th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, MS. Bruce 96, pp. 1–94 (4th/5th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k56521172.texteImage\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Amélineau, Émile. “Notice sur le papyrus gnostique Bruce.” <em>Notice et extraits des manuscrits de la Bibliothèque Nationale</em> 29/1 (1891): 82–305.</p>",
+      "line_text": "Amélineau, Émile. “Notice sur le papyrus gnostique Bruce.” Notice et extraits des manuscrits de la Bibliothèque Nationale 29/1 (1891): 82–305.",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/bpt6k56521172.texteImage"
+      ]
+    },
+    {
+      "line_html": "<p>Crégheur, Eric. <em>Les « deux Livres de IÉOU ».</em> Bibliothèque Copte de Nag Hammadi, “Textes 38.” Québec/Leuven: Les Presses de l’Université Laval/Peeters, 2019 (pp. 156–343).</p>",
+      "line_text": "Crégheur, Eric. Les « deux Livres de IÉOU ». Bibliothèque Copte de Nag Hammadi, “Textes 38.” Québec/Leuven: Les Presses de l’Université Laval/Peeters, 2019 (pp. 156–343).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://play.google.com/books/reader?id=0bWECobMBvgC&amp;pg=GBS.PA352&amp;hl=en\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Révillout, Eugène. “Séance du vendredi 23 (août).” <em>Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres</em> 10 (1872): 351–52 (partial edition).</p>",
+      "line_text": "Révillout, Eugène. “Séance du vendredi 23 (août).” Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres 10 (1872): 351–52 (partial edition).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://play.google.com/books/reader?id=0bWECobMBvgC&pg=GBS.PA352&hl=en"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://hdl.handle.net/2027/uc1.31158010112588\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl. <em>Gnostische Schriften in koptischer Sprache aus dem Codex Brucianus</em>. TUGAL 8,1/2. Leipzig: J. C. Hinrichs, 1892 (pp. 38–141).</p>",
+      "line_text": "Schmidt, Carl. Gnostische Schriften in koptischer Sprache aus dem Codex Brucianus. TUGAL 8,1/2. Leipzig: J. C. Hinrichs, 1892 (pp. 38–141).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://hdl.handle.net/2027/uc1.31158010112588"
+      ]
+    },
+    {
+      "line_html": "<p>Woide, Charles Godfrey. <em>MS. Clarendon Press d. 13</em>. Bodleian Library, Oxford, 1776 (handwritten copy of the Bruce Codex, pp. 1–94).</p>",
+      "line_text": "Woide, Charles Godfrey. MS. Clarendon Press d. 13. Bodleian Library, Oxford, 1776 (handwritten copy of the Bruce Codex, pp. 1–94).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>MacDermot, Violet. “The Books of Jeu.” Pages 3–211 in <em>The Books of Jeu and The Untitled Text of the Bruce Codex</em>. Edited by Carl Schmidt and Violet MacDermot. NHS 13. Leiden: Brill, 1978.</p>",
+      "line_text": "MacDermot, Violet. “The Books of Jeu.” Pages 3–211 in The Books of Jeu and The Untitled Text of the Bruce Codex. Edited by Carl Schmidt and Violet MacDermot. NHS 13. Leiden: Brill, 1978.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amélineau, Émile. “Notice sur le papyrus gnostique Bruce.” <em>Notice et extraits des manuscrits de la Bibliothèque Nationale</em> 29/1 (1891): 82–305.</p>",
+      "line_text": "Amélineau, Émile. “Notice sur le papyrus gnostique Bruce.” Notice et extraits des manuscrits de la Bibliothèque Nationale 29/1 (1891): 82–305.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Crégheur, Eric. <em>Les « deux Livres de IÉOU ».</em> Bibliothèque Copte de Nag Hammadi, “Textes 38.” Québec/Leuven: Les Presses de l’Université Laval/Peeters, 2019 (pp. 156–343).</p>",
+      "line_text": "Crégheur, Eric. Les « deux Livres de IÉOU ». Bibliothèque Copte de Nag Hammadi, “Textes 38.” Québec/Leuven: Les Presses de l’Université Laval/Peeters, 2019 (pp. 156–343).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. <em>Gnostische Schriften in koptischer Sprache aus dem Codex Brucianus</em>. TUGAL 8,1/2. Leipzig: J. C. Hinrichs, 1892 (pp. 142–225).</p>",
+      "line_text": "Schmidt, Carl. Gnostische Schriften in koptischer Sprache aus dem Codex Brucianus. TUGAL 8,1/2. Leipzig: J. C. Hinrichs, 1892 (pp. 142–225).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________. <em>Koptisch-gnostische Schriften. Erster Band: Die Pistis Sophia – Die beiden Bücher des Jeû – Unbekanntes altgnostisches Werk</em>. Die griechischen christlichen Schriftsteller der ersten Jahrhunderte 13. Leipzig: J. C. Hinrichs, 1905 (reedited 1954, 1959, 1981).</p>",
+      "line_text": "__________. Koptisch-gnostische Schriften. Erster Band: Die Pistis Sophia – Die beiden Bücher des Jeû – Unbekanntes altgnostisches Werk. Die griechischen christlichen Schriftsteller der ersten Jahrhunderte 13. Leipzig: J. C. Hinrichs, 1905 (reedited 1954, 1959, 1981).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>García Bazán, Francisco. <em>La gnosis eterna. Antología de textos gnósticos griegos, latinos y coptos. I</em>. Pliegos de oriente 8. Madris: Editorial Trotta, S.A., 2003 (pp. 283–338).</p>",
+      "line_text": "García Bazán, Francisco. La gnosis eterna. Antología de textos gnósticos griegos, latinos y coptos. I. Pliegos de oriente 8. Madris: Editorial Trotta, S.A., 2003 (pp. 283–338).",
+      "language": ". Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Amélineau, Émile. “Le papyrus gnostique de Bruce.” <em>Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres</em> (1882): 220–28.</p>",
+      "line_text": "Amélineau, Émile. “Le papyrus gnostique de Bruce.” Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres (1882): 220–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Les traités gnostiques d’Oxford.” <em>RHR</em> 21 (1890): 176–215.</p>",
+      "line_text": "__________. “Les traités gnostiques d’Oxford.” RHR 21 (1890): 176–215.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Aune, David E. “Jeu.” Pages 906–12 in <em>Reallexikon für Antike und Christentum</em>, Band XVII. Edited by Ernst Dassmann. Stuttgart: Anton Hiersemann, 1996.</p>",
+      "line_text": "Aune, David E. “Jeu.” Pages 906–12 in Reallexikon für Antike und Christentum, Band XVII. Edited by Ernst Dassmann. Stuttgart: Anton Hiersemann, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://corpus.ulaval.ca/jspui/bitstream/20.500.11794/24860/1/29956.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Crégheur, Eric. “Édition critique, traduction et introduction des « deux <em>Livres de Iéou</em> » (MS Bruce 96), avec des notes philologiques et textuelles.” Ph.D. diss., Université Laval, 2013.</p>",
+      "line_text": "Crégheur, Eric. “Édition critique, traduction et introduction des « deux Livres de Iéou » (MS Bruce 96), avec des notes philologiques et textuelles.” Ph.D. diss., Université Laval, 2013.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://corpus.ulaval.ca/jspui/bitstream/20.500.11794/24860/1/29956.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “Pour une nouvelle histoire de la découverte et de l’état primitif du codex Bruce (1769–1794).” <em>JCoptS</em> 16 (2014): 47–68.</p>",
+      "line_text": "__________. “Pour une nouvelle histoire de la découverte et de l’état primitif du codex Bruce (1769–1794).” JCoptS 16 (2014): 47–68.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Le parcours mystique de l’initié : le cas des <em>Livres de Iéou</em> du codex Bruce (MS Bruce 96).” Pages 563–84 in <em>La mystique théorétique et théurgique dans l’antiquité gréco-romaine. Judaïsmes et christianismes</em>. Edited by Simon Claude Mimouni and Madeleine Scopello. Judaïsme ancien et origines du christianisme 6. Turnout: Brepols, 2016.</p>",
+      "line_text": "__________. “Le parcours mystique de l’initié : le cas des Livres de Iéou du codex Bruce (MS Bruce 96).” Pages 563–84 in La mystique théorétique et théurgique dans l’antiquité gréco-romaine. Judaïsmes et christianismes. Edited by Simon Claude Mimouni and Madeleine Scopello. Judaïsme ancien et origines du christianisme 6. Turnout: Brepols, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Sacerdoce et liturgie dans les <em>Livres de Iéou</em> (MS Bruce 96).” Pages 271–93 in <em>La question de la « sacerdotalisation » dans le judaïsme synagogal, le christianisme et rabbinisme. Colloque international, Université Laval, Québec, Canada, 18 au 20 septembre 2014</em>. Edited by Simon Claude Mimouni and Louis Painchaud. Judaïsme ancien et origines du christianisme 9. Turnhout: Brepols, 2018.</p>",
+      "line_text": "__________. “Sacerdoce et liturgie dans les Livres de Iéou (MS Bruce 96).” Pages 271–93 in La question de la « sacerdotalisation » dans le judaïsme synagogal, le christianisme et rabbinisme. Colloque international, Université Laval, Québec, Canada, 18 au 20 septembre 2014. Edited by Simon Claude Mimouni and Louis Painchaud. Judaïsme ancien et origines du christianisme 9. Turnhout: Brepols, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Evans, Erin M. “The <em>Books of Jeu</em> and the <em>Pistis Sophia</em>: System, Practice, and Development of a Religious Group.” Ph.D. diss., The University of Edinburgh, 2012.</p>",
+      "line_text": "Evans, Erin M. “The Books of Jeu and the Pistis Sophia: System, Practice, and Development of a Religious Group.” Ph.D. diss., The University of Edinburgh, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>The Books of Jeu and the Pistis Sophia as Handbooks to Eternity. Exploring the Gnostic Mysteries of the Ineffable</em>. Nag Hammadi and Manichaean Studies 89. Leiden: Brill, 2015.</p>",
+      "line_text": "__________. The Books of Jeu and the Pistis Sophia as Handbooks to Eternity. Exploring the Gnostic Mysteries of the Ineffable. Nag Hammadi and Manichaean Studies 89. Leiden: Brill, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Finney, Paul C. “Did Gnostics Make Pictures?” Pages 434–54 in <em>The Rediscovery of Gnosticism: Proceedings of the International Conference on Gnosticism at Yale, New Haven, Connecticut, March 28-31, 1978. </em>Volume 1: The School of Valentinus. Edited by Bentley Layton. SHR 41. Leiden: Brill, 1980.</p>",
+      "line_text": "Finney, Paul C. “Did Gnostics Make Pictures?” Pages 434–54 in The Rediscovery of Gnosticism: Proceedings of the International Conference on Gnosticism at Yale, New Haven, Connecticut, March 28-31, 1978. Volume 1: The School of Valentinus. Edited by Bentley Layton. SHR 41. Leiden: Brill, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hoheisel, Karl. “Jeû, erstes u. zweites Buch Jeû.” Page 848 in <em>Lexikon für Theologie und Kirche</em>, Bd. 5. Edited by Walter Kasper. Freiburg, Herder, 1996.</p>",
+      "line_text": "Hoheisel, Karl. “Jeû, erstes u. zweites Buch Jeû.” Page 848 in Lexikon für Theologie und Kirche, Bd. 5. Edited by Walter Kasper. Freiburg, Herder, 1996.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Markschies, Christoph. “Gnostische und andere Bilderbücher in der Antike.” <em>ZAC </em>9 (2005): 100–21.</p>",
+      "line_text": "Markschies, Christoph. “Gnostische und andere Bilderbücher in der Antike.” ZAC 9 (2005): 100–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ménard, Jacques É. “Jeû (Les deux Livres de).” Pages 822–24 in <em>Catholicisme: Hier, Aujourd’hui, Demain</em>, vol. 6. Edited by Gérard Jacquement. Paris: Letouzey et Ané, 1965.</p>",
+      "line_text": "Ménard, Jacques É. “Jeû (Les deux Livres de).” Pages 822–24 in Catholicisme: Hier, Aujourd’hui, Demain, vol. 6. Edited by Gérard Jacquement. Paris: Letouzey et Ané, 1965.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peel, Malcolm L. “Jeu, Two Books of.” Page 450 in <em>Mercer Dictionary of the Bible</em>. Edited by Watson E. Mills. Macon, GA: Mercer University Press, 1990.</p>",
+      "line_text": "Peel, Malcolm L. “Jeu, Two Books of.” Page 450 in Mercer Dictionary of the Bible. Edited by Watson E. Mills. Macon, GA: Mercer University Press, 1990.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Röwekamp, Georg. “Jeu, Books of.” Pages 318–19 in <em>Dictionary of Early Christian Literature</em>. Edited by Siegmar Döpp and Wilhelm Geerlings. New York: Crossroad Publishing, 2000.</p>",
+      "line_text": "Röwekamp, Georg. “Jeu, Books of.” Pages 318–19 in Dictionary of Early Christian Literature. Edited by Siegmar Döpp and Wilhelm Geerlings. New York: Crossroad Publishing, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. “Über die in koptischer Sprache erhaltenen gnostischen Originalwerke.” <em>Sitzungsberichte der königlich-preussischen Akademie der Wissenschaften zu Berlin</em> (1891): 215–19.</p>",
+      "line_text": "Schmidt, Carl. “Über die in koptischer Sprache erhaltenen gnostischen Originalwerke.” Sitzungsberichte der königlich-preussischen Akademie der Wissenschaften zu Berlin (1891): 215–19.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Die in dem koptisch-gnostischen Codex Brucianus enthaltenen ‘beiden Bücher Jeû’ in ihrem Verhältniss zu der ‘Pistis Sophia.’” <em>ZWKL</em> 37 (1894): 555–85.</p>",
+      "line_text": "__________. “Die in dem koptisch-gnostischen Codex Brucianus enthaltenen ‘beiden Bücher Jeû’ in ihrem Verhältniss zu der ‘Pistis Sophia.’” ZWKL 37 (1894): 555–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tardieu, Michel. “Chapitre IV. Oxford (O).” Pages 83–97 in <em>Introduction à la littérature gnostique. I : Histoire du mot « gnostique »; Instruments de travail; Collections retrouvées avant 1945</em>. Edited by Michel Tardieu and Jean-Daniel Dubois. Paris: Les Éditions du Cerf/Éditions du CNRS, 1986.</p>",
+      "line_text": "Tardieu, Michel. “Chapitre IV. Oxford (O).” Pages 83–97 in Introduction à la littérature gnostique. I : Histoire du mot « gnostique »; Instruments de travail; Collections retrouvées avant 1945. Edited by Michel Tardieu and Jean-Daniel Dubois. Paris: Les Éditions du Cerf/Éditions du CNRS, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

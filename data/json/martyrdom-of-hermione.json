@@ -1,0 +1,241 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-hermione/",
+  "nasscal_toc_title": "Martyrdom of Hermione",
+  "filename": "martyrdom-of-hermione",
+  "latin_title": "Passio Hermione",
+  "abbrev": "Mart. Herm.",
+  "clavis_number": 182,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Mone Karakallou, 81 (Lambros 1594), Mon. 45,  fols. 1<sup>r</sup>–14<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25650/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Mone Karakallou, 81 (Lambros 1594), Mon. 45,  fols. 1r–14v (15th/16th cent.) ~ Pinakes",
+      "language": ".1 Passio",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25650/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Andros, Mone Hagias (Zoodochou Peges), 46 (65), fols. 219<sup>r</sup>–220<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/290/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Andros, Mone Hagias (Zoodochou Peges), 46 (65), fols. 219r–220v (15th cent.) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/290/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1032 (1551) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3328/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3162\" target=\"_blank\" rel=\"noopener\">Athens</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1032 (1551) ~ Pinakes; Athens",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3328/",
+        "https://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3162"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1033 (1602) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3329/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1033 (1602) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3329/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1037 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3333/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1037 (15th cent.) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3333/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Museio Benaki, ΓΕ 34722 (olim T. A. 1), fols. 8–10 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8122/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Museio Benaki, ΓΕ 34722 (olim T. A. 1), fols. 8–10 (14th cent.) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/8122/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Museio Benaki, ΓΕ 34972 (olim T. A. 255), fols. 176<sup>v</sup>–178<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8365/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Museio Benaki, ΓΕ 34972 (olim T. A. 255), fols. 176v–178r (14th cent.) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/8365/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 67, fols. 4<sup>v</sup>–6<sup>r</sup> (1508) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33565/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 67, fols. 4v–6r (1508) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33565/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 69, fols. 2<sup>r</sup>–3<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33567/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 69, fols. 2r–3v (14th cent.) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33567/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 70, fols. 5<sup>r</sup>–6<sup>v</sup> (1367) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33568/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Triados 70, fols. 5r–6v (1367) ~ Pinakes",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33568/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 10073, fols. 319<sup>v</sup>–323<sup>r</sup> (16th cent.)</p>",
+      "line_text": "London, British Library, Add. 10073, fols. 319v–323r (16th cent.)",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, gr. 1578 (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51198/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107236405\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Biblothèque nationale de France, gr. 1578 (15th/16th cent.) ~ Pinakes; GALLICA",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51198/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107236405"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, gr. 1582, fols. 7<sup>v</sup>–9<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51202/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107217508\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Biblothèque nationale de France, gr. 1582, fols. 7v–9r (14th cent.) ~ Pinakes; GALLICA",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51202/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107217508"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, supp. gr. 54, fols. 5<sup>v</sup>–6<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/52825/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b110050514\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Biblothèque nationale de France, supp. gr. 54, fols. 5v–6v (15th cent.) ~ Pinakes; GALLICA",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/52825/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b110050514"
+      ]
+    },
+    {
+      "line_html": "<p><em><a href=\"https://www.digitale-sammlungen.de/en/view/bsb11204485?page=44\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Menaea graecae ecclesiae</em>. Vol. 3: <em>September</em>. Venice: Spinellus, 1541 (Greek edition; unpaginated).</p>",
+      "line_text": "Menaea graecae ecclesiae. Vol. 3: September. Venice: Spinellus, 1541 (Greek edition; unpaginated).",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb11204485?page=44"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum42unse/page/180/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Septembris</em>. Vol. 2. Antwerp: P. Jacobs, 1756 (pp. 181–86); 3rd ed. Paris: V. Palmé, 1868 (vol. 2, pp. 181–86) (Latin translation from the Greek Menaea by Matthaeo Radero, pp. 185–86).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Septembris. Vol. 2. Antwerp: P. Jacobs, 1756 (pp. 181–86); 3rd ed. Paris: V. Palmé, 1868 (vol. 2, pp. 181–86) (Latin translation from the Greek Menaea by Matthaeo Radero, pp. 185–86).",
+      "language": ".2 Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum42unse/page/180/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n27/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hippolyte Delehaye, <em>Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis</em>. Brussels: Société des Bollandistes, 1902 (cols. 14–16).</p>",
+      "line_text": "Hippolyte Delehaye, Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis. Brussels: Société des Bollandistes, 1902 (cols. 14–16).",
+      "language": ".3 Synaxarium of Constantinople",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n27/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"Y2IQFc\" lang=\"en\">Preliminary translation: (September 4) The struggle of the holy martyr Hermione, daughter of the holy  apostle Philip. </span><span class=\"Y2IQFc\" lang=\"en\">The holy martyr Hermione, daughter of the apostle Philip, flourished under the emperor Trajan. And she had a sister named Eutyche, with whom she went to Ephesus, that they might worship John the Theologian: but they did not find him, for he had already been translated. At the same time Trajan, the emperor, came to Ephesus for the Persian expedition, and heard that the name of Hermione was so famous and venerable, because she was inspired by a prophetic spirit. When, therefore, she was apprehended and could not be led away from the worship of Christ, he ordered her to be beaten. But </span>the Lord appeared, increasing her courage and strengthening her<span class=\"Y2IQFc\" lang=\"en\">, so that she might endure the torments bravely. A little later she was released by Trajan, to whom she had predicted would triumph over the Persians. Hadrian, the son-in-law and successor of Trajan, once again forced her to deny Christ and sacrifice to idols. When she refused to do this, he ordered her head to be cut off. But when the executioners’ hands withered, they also believed in Christ, and together with that head they were intertwined.</span></p>",
+      "line_text": "Preliminary translation: (September 4) The struggle of the holy martyr Hermione, daughter of the holy  apostle Philip. The holy martyr Hermione, daughter of the apostle Philip, flourished under the emperor Trajan. And she had a sister named Eutyche, with whom she went to Ephesus, that they might worship John the Theologian: but they did not find him, for he had already been translated. At the same time Trajan, the emperor, came to Ephesus for the Persian expedition, and heard that the name of Hermione was so famous and venerable, because she was inspired by a prophetic spirit. When, therefore, she was apprehended and could not be led away from the worship of Christ, he ordered her to be beaten. But the Lord appeared, increasing her courage and strengthening her, so that she might endure the torments bravely. A little later she was released by Trajan, to whom she had predicted would triumph over the Persians. Hadrian, the son-in-law and successor of Trajan, once again forced her to deny Christ and sacrifice to idols. When she refused to do this, he ordered her head to be cut off. But when the executioners’ hands withered, they also believed in Christ, and together with that head they were intertwined.",
+      "language": ".4 Menologion of Basil II",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 12 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1613\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 12 (10th cent.) ~ Pinakes; BAV",
+      "language": ".4 Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68244/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1613"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus80migngoog/page/n17/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 29–30).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 29–30).",
+      "language": ".4 Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus80migngoog/page/n17/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/TheLivesOfTheSaintsV10/page/42/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Baring-Gould, Sabine. <em>The Lives of the Saints.</em> Vol. 10 (New and revised ed.). London: John C. Nimmo, 1898 (pp. 43–44).</p>",
+      "line_text": "Baring-Gould, Sabine. The Lives of the Saints. Vol. 10 (New and revised ed.). London: John C. Nimmo, 1898 (pp. 43–44).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/TheLivesOfTheSaintsV10/page/42/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Biagetti, Claudio. “Εἰς Ἔφεσον προσκῦνησαι. Notes on the Martyr Cult of Hermione at Ephesos (and Beyond).” Pages 338-53 in <em>Ritual Movement in Antiquity (and Beyond).</em> Edited by Giorgio Ferri. Brescia: Morcelliana, 2022.</p>",
+      "line_text": "Biagetti, Claudio. “Εἰς Ἔφεσον προσκῦνησαι. Notes on the Martyr Cult of Hermione at Ephesos (and Beyond).” Pages 338-53 in Ritual Movement in Antiquity (and Beyond). Edited by Giorgio Ferri. Brescia: Morcelliana, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Social Memory, History and Topography of Christian Ephesus. The Case of the Martyr Cult of Hermione (BHG 2371d).” Pages 307-19 in <em>La Memoria: Forme e finalità del ricordare nel Cristianesimo antico: XLVIII Incontro di Studiosi dell’Antichità Cristiana (Roma, 5-7 maggio 2022)</em>. Edited by Laura Faranda et al. Florence: Nerbini, 2023.</p>",
+      "line_text": "__________. “Social Memory, History and Topography of Christian Ephesus. The Case of the Martyr Cult of Hermione (BHG 2371d).” Pages 307-19 in La Memoria: Forme e finalità del ricordare nel Cristianesimo antico: XLVIII Incontro di Studiosi dell’Antichità Cristiana (Roma, 5-7 maggio 2022). Edited by Laura Faranda et al. Florence: Nerbini, 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=PBgYAAAAYAAJ&amp;pg=PA380&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dunbar, Agnes Baillie Cunninghame. <em>A Dictionary of Saintly Women.</em> Vol. 1. London: George Bell &amp; Sons, 1904 (p. 380).</p>",
+      "line_text": "Dunbar, Agnes Baillie Cunninghame. A Dictionary of Saintly Women. Vol. 1. London: George Bell &amp; Sons, 1904 (p. 380).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=PBgYAAAAYAAJ&pg=PA380&redir_esc=y#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Khoury, Demetri. <em>A Cloud of Witnesses: Saints and Martyrs from the Holy Land.</em> Bloomington, IN: AuthorHouse, 2008 (pp. 16–17).</p>",
+      "line_text": "Khoury, Demetri. A Cloud of Witnesses: Saints and Martyrs from the Holy Land. Bloomington, IN: AuthorHouse, 2008 (pp. 16–17).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-latin/",
+  "nasscal_toc_title": "Acts of John (Latin)",
+  "filename": "acts-of-john-latin",
+  "latin_title": "Virtutes Iohannis",
+  "clavis_number": 718,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Manuscripts used by Junod and Kaestli:</p>",
+      "line_text": "Manuscripts used by Junod and Kaestli:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong> Vienna, Österreichische Nationalbibliothek, lat. 534, fols. 107<sup>v</sup>–151<sup>r</sup> (9th cent.)</p>",
+      "line_text": "S Vienna, Österreichische Nationalbibliothek, lat. 534, fols. 107v–151r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  Dublin, Trinity College, 737 (olim G.04.16), fols. 59<sup>r</sup>–79<sup>r</sup> (9th and 12th/13th cent.)</p>",
+      "line_text": "D  Dublin, Trinity College, 737 (olim G.04.16), fols. 59r–79r (9th and 12th/13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64<span class=\"s1\"><sup>v</sup></span>–84<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
+      "line_text": "W  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64v–84r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vienna, Österreichische Nationalbibliothek, lat. 455, fols. 65<sup>r</sup>–91<sup>r</sup> (9th cent.)</p>",
+      "line_text": "V  Vienna, Österreichische Nationalbibliothek, lat. 455, fols. 65r–91r (9th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong> Paris, Bibliothèque nationale de France, lat. 5563, fols. 56<sup>r</sup>–76<sup>v</sup> (10th cent.)</p>",
+      "line_text": "N Paris, Bibliothèque nationale de France, lat. 5563, fols. 56r–76v (10th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Wolfenbüttel, Helmstedt, 536, fols. 57<sup>r</sup>–75<sup>r</sup> (11th cent.)</p>",
+      "line_text": "X  Wolfenbüttel, Helmstedt, 536, fols. 57r–75r (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Bamberg, Historische Manuscripte, 139 (olim Q.VI.59), fols. 22<sup>v</sup>–33<sup>r</sup> (12th cent.)</p>",
+      "line_text": "B  Bamberg, Historische Manuscripte, 139 (olim Q.VI.59), fols. 22v–33r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q</strong> Paris, Bibliothèque nationale de France, 12604, fols. 38<sup>r</sup>–49<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Q Paris, Bibliothèque nationale de France, 12604, fols. 38r–49v (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong> Vienna, Österreichische Nationalbibliothek, lat. 497, fols. 50<sup>v</sup>–60<sup>v</sup> (13th cent.)</p>",
+      "line_text": "K Vienna, Österreichische Nationalbibliothek, lat. 497, fols. 50v–60v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong> Vienna, Österreichische Nationalbibliothek, lat. 560, fols. 61<sup>v</sup>–85<sup>v</sup> (13th cent.)</p>",
+      "line_text": "L Vienna, Österreichische Nationalbibliothek, lat. 560, fols. 61v–85v (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99<sup>v</sup>–115<sup>v</sup> (11th cent.)</p>",
+      "line_text": "A  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99v–115v (11th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong> Paris, Bibliothèque nationale de France, 18298, fols. 33<sup>r</sup>–43<sup>v</sup> (9th/10th cent.)  <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10721285v\">IMAGES</a></p>",
+      "line_text": "Q Paris, Bibliothèque nationale de France, 18298, fols. 33r–43v (9th/10th cent.)  IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10721285v"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Paris, Bibliothèque nationale de France, lat. 3779, fols. 35<sup>r</sup>–47<sup>v</sup> (10th/11th cent.) <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b84559285\" target=\"_blank\" rel=\"noopener noreferrer\">IMAGES</a></p>",
+      "line_text": "M  Paris, Bibliothèque nationale de France, lat. 3779, fols. 35r–47v (10th/11th cent.) IMAGES",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b84559285"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque nationale de France, lat. 3308, fols. 391<sup>v</sup>–395<sup>r</sup> (12th cent.)</p>",
+      "line_text": "R  Paris, Bibliothèque nationale de France, lat. 3308, fols. 391v–395r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Trèves, cath. 133, fols. 84<sup>r</sup>–91<sup>r</sup> (12th cent.)</p>",
+      "line_text": "T  Trèves, cath. 133, fols. 84r–91r (12th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=645\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Lazius’s edition via Lefèvre in vol. 2, pp. 531–90).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Lazius’s edition via Lefèvre in vol. 2, pp. 531–90).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11116194?page=645"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus00gilegoog/page/n362/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, J. A. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings</em>. 2 vols. London: D. Nutt, 1852 (reproduction of Fabricius, vol. 1, pp. 336–69).</p>",
+      "line_text": "Giles, J. A. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings. 2 vols. London: D. Nutt, 1852 (reproduction of Fabricius, vol. 1, pp. 336–69).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus00gilegoog/page/n362/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Junod, Éric, and Jean-Daniel Kaestli. <em>Acta Iohannis. </em>2 vols. CCSA 1–2. Turnhout: Brepols, 1983 (Latin text based on 15 manuscripts in vol. 2, pp. 799–834; introduction, pp. 750–798).</p>",
+      "line_text": "Junod, Éric, and Jean-Daniel Kaestli. Acta Iohannis. 2 vols. CCSA 1–2. Turnhout: Brepols, 1983 (Latin text based on 15 manuscripts in vol. 2, pp. 799–834; introduction, pp. 750–798).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/en/view/bsb11117026?page=152\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lazius, Wolfgang. <em>Abdiae Babyloniae episcopi et apostolorum discipuli de historia certaminis apostolici libri decem.</em> Bale, 1552 (Repr. Paris: Guillard &amp; Belot, 1566; reprint by Jean Lefèvre in 1560) (based on ONB 455 and 534 but with some editorial glosses at the beginning of the texts, pp. 50r–71r).</p>",
+      "line_text": "Lazius, Wolfgang. Abdiae Babyloniae episcopi et apostolorum discipuli de historia certaminis apostolici libri decem. Bale, 1552 (Repr. Paris: Guillard &amp; Belot, 1566; reprint by Jean Lefèvre in 1560) (based on ONB 455 and 534 but with some editorial glosses at the beginning of the texts, pp. 50r–71r).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb11117026?page=152"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&amp;groesser=&amp;fip=xssdaseayasdaseayasdaseneayayzts&amp;no=13&amp;seite=74\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Nausea, Friedrich. <em>Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae</em>. Cologne: Peter Quentel, 1531 (Latin text, fols. 29v–50v).</p>",
+      "line_text": "Nausea, Friedrich. Anonymi Pilalethi Eusebiani in vitas, miracula passionesque apostolorum rhapsodiae. Cologne: Peter Quentel, 1531 (Latin text, fols. 29v–50v).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://daten.digitale-sammlungen.de/0002/bsb00021167/images/index.html?id=00021167&groesser=&fip=xssdaseayasdaseayasdaseneayayzts&no=13&seite=74"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition based on Junod and Kaestli’s manuscripts with facing Spanish translation, vol. 3, pp. 765–843).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition based on Junod and Kaestli’s manuscripts with facing Spanish translation, vol. 3, pp. 765–843).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n489/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, p. 404).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, p. 404).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n489/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n165/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 327–56).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 327–56).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n165/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11346831?page=573\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Borberg, Karl Friedrich. <em>Bibliothek der neutestamentlichen Apokryphen, gesammelt, übersetzt, und erläutert</em>. Stuttgart: Literatur-Comptoir, 1841 (vol. 1, pp. 537–89).</p>",
+      "line_text": "Borberg, Karl Friedrich. Bibliothek der neutestamentlichen Apokryphen, gesammelt, übersetzt, und erläutert. Stuttgart: Literatur-Comptoir, 1841 (vol. 1, pp. 537–89).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11346831?page=573"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966–1981 (vol. 2, pp. 111–29).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (vol. 2, pp. 111–29).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1507–33).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1507–33).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition with facing Spanish translation, vol. 3, pp. 765–843).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Latin edition with facing Spanish translation, vol. 3, pp. 765–843).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Culpepper, R. Alan. <em>John, the Son of Zebedee: The Life of a Legend.</em> University of South Carolina Press, 1994 (pp. 176–.</p>",
+      "line_text": "Culpepper, R. Alan. John, the Son of Zebedee: The Life of a Legend. University of South Carolina Press, 1994 (pp. 176–.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 347–49).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 347–49).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klauck, Hans-Joseph. <em>The Apocryphal Acts of the Apostles: An Introduction. </em>Trans. Brian McNeil. Waco, TX: Baylor University Press, 2008 (p. 44).</p>",
+      "line_text": "Klauck, Hans-Joseph. The Apocryphal Acts of the Apostles: An Introduction. Trans. Brian McNeil. Waco, TX: Baylor University Press, 2008 (p. 44).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n427/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:408–22).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:408–22).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/n427/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Schäferdiek, Knut. “Die ‘Passio Johannis’ des Melito von Laodikeia und die ‘Virtutes Johannis.’” <em>AnBoll</em> 103 (1985): 367–82.</p>",
+      "line_text": "Schäferdiek, Knut. “Die ‘Passio Johannis’ des Melito von Laodikeia und die ‘Virtutes Johannis.’” AnBoll 103 (1985): 367–82.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

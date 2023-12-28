@@ -1,0 +1,494 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-thirty-pieces-of-silver/",
+  "nasscal_toc_title": "Legend of the Thirty Pieces of Silver",
+  "filename": "legend-of-the-thirty-pieces-of-silver",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Leg. Sil.",
+  "alt_titles": [
+    "Legend of the Thirty Silver Pieces"
+  ],
+  "clavis_number": 644,
+  "category": "Hagiographa",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Egypt, Coptic Museum, Hist. 276, fols. 1<sup>r</sup>–33<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Egypt, Coptic Museum, Hist. 276, fols. 1r–33r (18th cent.)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Egypt, Coptic Patriarchate, 139 (see Graf, <em>Geschichte</em>, 1:243)</p>",
+      "line_text": "Egypt, Coptic Patriarchate, 139 (see Graf, Geschichte, 1:243)",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R  </strong>Cambridge, University Library, Syriac Add. 2881, fol. 136<sup>v</sup>–139<sup>r </sup>(1484)</p>",
+      "line_text": "R  Cambridge, University Library, Syriac Add. 2881, fol. 136v–139r (1484)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S  </strong>Edgbaston, University of Birmingham, Mingana Syr. 22, fol. 134<sup>v</sup>–136<sup>v</sup> (1527)</p>",
+      "line_text": "S  Edgbaston, University of Birmingham, Mingana Syr. 22, fol. 134v–136v (1527)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-48/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>T  </strong>Edgbaston, University of Birmingham, Mingana Syr 48, fol. 144<sup>r</sup>–145<sup>r</sup> (1906, but based in part on a MS from 1757)</p>",
+      "line_text": "T  Edgbaston, University of Birmingham, Mingana Syr 48, fol. 144r–145r (1906, but based in part on a MS from 1757)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-48/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>U  </strong>Edgbaston, University of Birmingham, Mingana Syr. 479, fol. 123<sup>v</sup>–125<sup>r</sup> (1819)</p>",
+      "line_text": "U  Edgbaston, University of Birmingham, Mingana Syr. 479, fol. 123v–125r (1819)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V  </strong>Edgbaston, University of Birmingham, Mingana Syr. 514, fol. 140<sup>r</sup>–142<sup>r</sup> (1729 or 1750)</p>",
+      "line_text": "V  Edgbaston, University of Birmingham, Mingana Syr. 514, fol. 140r–142r (1729 or 1750)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y  </strong>Mardin, Za‘faran Monastery, 240, fol. 95<sup>r</sup>–97<sup>v</sup> (19th/20th cent.)</p>",
+      "line_text": "Y  Mardin, Za‘faran Monastery, 240, fol. 95r–97v (19th/20th cent.)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” <em>Hugoye</em> 19.1 (2016): 35–121 (editions [pp. 96–109] and translations [pp. 110–21] of the Garšūnī manuscripts, divided into two recensions [A: RSTUY, and B: V]).</p>",
+      "line_text": "Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” Hugoye 19.1 (2016): 35–121 (editions [pp. 96–109] and translations [pp. 110–21] of the Garšūnī manuscripts, divided into two recensions [A: RSTUY, and B: V]).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo"
+      ]
+    },
+    {
+      "line_html": "<p>Ebied, Rifaat. “An Arabic Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas Received from the Jews.” Pages 167–85 in <em>The Character of Christian-Muslim Encounter: Essays in Honour of David Thomas</em>. Edited by Douglas Pratt, Jon Hoover, John Davies, and John A. Chesworth. History of Christian-Muslim Relations 25. Leiden: Brill, 2015 (edition based on five manuscripts divided into three text types: 1 (R), 2 (S and V), and 3 (T and U), pp. 174–81; translation, pp. 182–85).</p>",
+      "line_text": "Ebied, Rifaat. “An Arabic Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas Received from the Jews.” Pages 167–85 in The Character of Christian-Muslim Encounter: Essays in Honour of David Thomas. Edited by Douglas Pratt, Jon Hoover, John Davies, and John A. Chesworth. History of Christian-Muslim Relations 25. Leiden: Brill, 2015 (edition based on five manuscripts divided into three text types: 1 (R), 2 (S and V), and 3 (T and U), pp. 174–81; translation, pp. 182–85).",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Yerevan, Matenadaran, 3854, fols. 86<sup>v</sup>–88<sup>v</sup> (1471)</p>",
+      "line_text": "Yerevan, Matenadaran, 3854, fols. 86v–88v (1471)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Yerevan, Matenadaran, 7993, fols. 152<sup>v</sup>–153<sup>v</sup> (1692)</p>",
+      "line_text": "Yerevan, Matenadaran, 7993, fols. 152v–153v (1692)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Outtier, Bernard. “Une forme enrichie de la Légende d’Abgar en arménien.” Pages 129–45 in <em>Apocryphes arménians</em><em>: transmission–traduction–creation–iconographie; Acts du colloque international sur la littérature apocryphe en langue arménienne (Genève, 18-20 septembre 1997)</em>. Edited by in Valentina Calzolari Bouvier, Jean-Daneil Kaestli, and Bernard Outtier. Lausanne: Éditions du Zébre, 1999 (edition and translation of the Armenian text),</p>",
+      "line_text": "Outtier, Bernard. “Une forme enrichie de la Légende d’Abgar en arménien.” Pages 129–45 in Apocryphes arménians: transmission–traduction–creation–iconographie; Acts du colloque international sur la littérature apocryphe en langue arménienne (Genève, 18-20 septembre 1997). Edited by in Valentina Calzolari Bouvier, Jean-Daneil Kaestli, and Bernard Outtier. Lausanne: Éditions du Zébre, 1999 (edition and translation of the Armenian text),",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Halle, Universitäts- und Landesbibliothek, Stolb.-Wernig. Za 69m, fol. 23<sup>v</sup>–24<sup>v </sup>(15th cent.)</p>",
+      "line_text": "Halle, Universitäts- und Landesbibliothek, Stolb.-Wernig. Za 69m, fol. 23v–24v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 34276, fol. 33<sup>v</sup> (15th cent.) ~ related to John of Hildesheim, <em>Historia trium Regum</em></p>",
+      "line_text": "London, British Library, Add. 34276, fol. 33v (15th cent.) ~ related to John of Hildesheim, Historia trium Regum",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 34139, fol. 87<sup>r</sup> (1492 or early 16th cent.)</p>",
+      "line_text": "London, British Library, Add. 34139, fol. 87r (1492 or early 16th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, 22553 fol. 144<sup>v</sup> (15th cent.)</p>",
+      "line_text": "London, British Library, 22553 fol. 144v (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, NAL 543, fol. 112<sup>v</sup>–113<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, NAL 543, fol. 112v–113r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>And contained in the following works:</p>",
+      "line_text": "And contained in the following works:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Godfrey of Viterbo, <em>Pantheon </em>(1185)</p>",
+      "line_text": "Godfrey of Viterbo, Pantheon (1185)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Ludolph of Suchem, <em>De Itinere Terrae Sanctae</em> 39 (14th cent.)</p>",
+      "line_text": "Ludolph of Suchem, De Itinere Terrae Sanctae 39 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">John of Hildesheim, <em>Historia trium Regum</em> 28-29 (14th cent.)</p>",
+      "line_text": "John of Hildesheim, Historia trium Regum 28-29 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Felix Fabri of Nuremburg, <em>Evagatorium in Terrae Sanctae</em>,<em> Arabia et Egypti peregrinationem </em>(15th cent.)</p>",
+      "line_text": "Felix Fabri of Nuremburg, Evagatorium in Terrae Sanctae, Arabia et Egypti peregrinationem (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Hill, George Francis. “The Thirty Pieces of Silver.” <em>Archaeologica</em> 59 (1905): 235–54. Reprint in idem, <em>The Medallic Portraits of Christ, The False Shekels, The Thirty Pieces of Silver</em>. Oxford: Clarendon Press, 1920, 91–116 (extensive discussion of the Western versions).</p>",
+      "line_text": "Hill, George Francis. “The Thirty Pieces of Silver.” Archaeologica 59 (1905): 235–54. Reprint in idem, The Medallic Portraits of Christ, The False Shekels, The Thirty Pieces of Silver. Oxford: Clarendon Press, 1920, 91–116 (extensive discussion of the Western versions).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Eastern Recension (incorporated also into Solomon of Basra, <em>Book of the Bee</em> 44):</p>",
+      "line_text": "Eastern Recension (incorporated also into Solomon of Basra, Book of the Bee 44):",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  London, British Library, Syr. 9 (formerly India Office Syr. 9), fol. 242<sup>r</sup>–243<sup>r</sup> (1712/1713)</p>",
+      "line_text": "M  London, British Library, Syr. 9 (formerly India Office Syr. 9), fol. 242r–243r (1712/1713)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-74/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>N  </strong>Berlin, Staatsbibliothek zu Berlin, Syr. 74 (formerly Sachau 9), fols. 20<sup>v</sup>–22<sup>r</sup> (1695)</p>",
+      "line_text": "N  Berlin, Staatsbibliothek zu Berlin, Syr. 74 (formerly Sachau 9), fols. 20v–22r (1695)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-74/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O  </strong>Paris, Bibliothèque nationale de France, Syr. 309, fol. 51<sup>v</sup>–53<sup>v</sup> (1869)</p>",
+      "line_text": "O  Paris, Bibliothèque nationale de France, Syr. 309, fol. 51v–53v (1869)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/Budge1886TheBookOfTheBeeTheSyriacText...\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W., ed. <em>The Book of the Bee: The Syriac Text Edited from the Manuscripts in London, Oxford, Munich, with an English Translation</em>. Anecdota Oxoniensia, Semitic Series 1 part 2. Oxford: Clarendon Press, 1886 (edition and translation of the East Syriac text incorporated as <em>Bk. Bee</em> 44).</p>",
+      "line_text": "Budge, Ernest A. W., ed. The Book of the Bee: The Syriac Text Edited from the Manuscripts in London, Oxford, Munich, with an English Translation. Anecdota Oxoniensia, Semitic Series 1 part 2. Oxford: Clarendon Press, 1886 (edition and translation of the East Syriac text incorporated as Bk. Bee 44).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/Budge1886TheBookOfTheBeeTheSyriacText..."
+      ]
+    },
+    {
+      "line_html": "<p>Lagarde, Paul de. <em>Praetermissorum libri duo</em>. Göttingen: Officina Academica Dieterichiana, 1879 (<em>editio princeps</em> based on BL Syr. 9, pp. 94–96).</p>",
+      "line_text": "Lagarde, Paul de. Praetermissorum libri duo. Göttingen: Officina Academica Dieterichiana, 1879 (editio princeps based on BL Syr. 9, pp. 94–96).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Western Recension:</p>",
+      "line_text": "Western Recension:",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Paris, Bibliothèque nationale de France, Syr. 197, fol. 93<sup>r</sup>–94<sup>v </sup>(16th cent.)</p>",
+      "line_text": "A  Paris, Bibliothèque nationale de France, Syr. 197, fol. 93r–94v (16th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B  </strong>Paris, Bibliothèque nationale de France, Syr. 215, fol. 82<sup>v</sup>–83<sup>v</sup> (17th cent.) ~ likely a copy of Syr. 197</p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, Syr. 215, fol. 82v–83v (17th cent.) ~ likely a copy of Syr. 197",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>C</strong>  Edgbaston, University of Birmingham, Mingana Syr. 480, fol. 241<sup>v</sup>–242<sup>r</sup> (1712)</p>",
+      "line_text": "C  Edgbaston, University of Birmingham, Mingana Syr. 480, fol. 241v–242r (1712)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D  </strong>Edgbaston, University of Birmingham, Mingana Syr<em>.</em> 71, fol. 134<sup>v</sup>–136<sup>v</sup> (ca. 1600)</p>",
+      "line_text": "D  Edgbaston, University of Birmingham, Mingana Syr. 71, fol. 134v–136v (ca. 1600)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>E  </strong>Edgbaston, University of Birmingham, Mingana Syr. 369, fol. 130<sup>r</sup>–131<sup>r</sup> (ca. 1480) ~ related to Syr. 71</p>",
+      "line_text": "E  Edgbaston, University of Birmingham, Mingana Syr. 369, fol. 130r–131r (ca. 1480) ~ related to Syr. 71",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-119/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mardin, Church of the Forty Martyrs, 119, pp. 443–45 (1891)</p>",
+      "line_text": "Mardin, Church of the Forty Martyrs, 119, pp. 443–45 (1891)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-119/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” <em>Hugoye</em> 19.1 (2016): 35–121 (parallel editions [pp. 80–87] and translations [pp. 88–95] of the East and West Syriac recensions).</p>",
+      "line_text": "Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” Hugoye 19.1 (2016): 35–121 (parallel editions [pp. 80–87] and translations [pp. 88–95] of the East and West Syriac recensions).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo"
+      ]
+    },
+    {
+      "line_html": "<p>Ebied, Rifaat. “The Syriac Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas received from the Jews.” Pages 123–31 in <em>Graeco-Latina et Orientalia: Studia in honorem Angeli Urbani heptagenarii.</em> Edited by Samir Khalil Samir and Juan Pedro Monferrer-Sala. Series Syro-Arabica 2. Cordoba: CNERU, 2013 (edition, pp. 127–29, and English translation, pp. 130–31, based on CDE).</p>",
+      "line_text": "Ebied, Rifaat. “The Syriac Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas received from the Jews.” Pages 123–31 in Graeco-Latina et Orientalia: Studia in honorem Angeli Urbani heptagenarii. Edited by Samir Khalil Samir and Juan Pedro Monferrer-Sala. Series Syro-Arabica 2. Cordoba: CNERU, 2013 (edition, pp. 127–29, and English translation, pp. 130–31, based on CDE).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ebied, Rifaat. “An Arabic Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas Received from the Jews.” Pages 167–85 in <em>The Character of Christian-Muslim Encounter: Essays in Honour of David Thomas</em>. Edited by Douglas Pratt, Jon Hoover, John Davies, and John A. Chesworth. History of Christian-Muslim Relations 25. Leiden: Brill, 2015 (incorporates Ebied’s text and translation from 2013 alongside text [pp. 174–81] and translation [pp. 182–85] of the Arabic traditions).</p>",
+      "line_text": "Ebied, Rifaat. “An Arabic Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas Received from the Jews.” Pages 167–85 in The Character of Christian-Muslim Encounter: Essays in Honour of David Thomas. Edited by Douglas Pratt, Jon Hoover, John Davies, and John A. Chesworth. History of Christian-Muslim Relations 25. Leiden: Brill, 2015 (incorporates Ebied’s text and translation from 2013 alongside text [pp. 174–81] and translation [pp. 182–85] of the Arabic traditions).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>The Latin tradition spawned translations into several European languages including German, English, Italian, Spanish, Occitan, and Catalan, surveyed <em>inter alia</em> in Hook, “The Legend of the Thirty Pieces of Silver” (see below).</p>",
+      "line_text": "The Latin tradition spawned translations into several European languages including German, English, Italian, Spanish, Occitan, and Catalan, surveyed inter alia in Hook, “The Legend of the Thirty Pieces of Silver” (see below).",
+      "language": "Additional Languages",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Burke, Tony and Slavomir Céplö. “The Legend of the Thirty Pieces of Silver.” Pages 393–308 in vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures.</em> Grand Rapids, MI: Eerdmans, 2016 (English translations of Eastern and Western texts).</p>",
+      "line_text": "Burke, Tony and Slavomir Céplö. “The Legend of the Thirty Pieces of Silver.” Pages 393–308 in vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Grand Rapids, MI: Eerdmans, 2016 (English translations of Eastern and Western texts).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” <em>Hugoye</em> 19.1 (2016): 35–121 (translations of the Syriac and Garšūnī texts, pp. 88–95, 110–21).</p>",
+      "line_text": "Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” Hugoye 19.1 (2016): 35–121 (translations of the Syriac and Garšūnī texts, pp. 88–95, 110–21).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo"
+      ]
+    },
+    {
+      "line_html": "<p>Ebied, Rifaat. “An Arabic Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas Received from the Jews.” Pages 167–85 in <em>The Character of Christian-Muslim Encounter: Essays in Honour of David Thomas</em>. Edited by Douglas Pratt, Jon Hoover, John Davies, and John A. Chesworth. History of Christian-Muslim Relations 25. Leiden: Brill, 2015 (Arabic and Syriac texts [pp. 174–81] and translaitons [pp. 182–85]).</p>",
+      "line_text": "Ebied, Rifaat. “An Arabic Version of the Treatise on the Origin and History of the Thirty Pieces of Silver which Judas Received from the Jews.” Pages 167–85 in The Character of Christian-Muslim Encounter: Essays in Honour of David Thomas. Edited by Douglas Pratt, Jon Hoover, John Davies, and John A. Chesworth. History of Christian-Muslim Relations 25. Leiden: Brill, 2015 (Arabic and Syriac texts [pp. 174–81] and translaitons [pp. 182–85]).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Behland, Max. <em>Die Dreikönigslegende des Johannes von Hildesheim</em>. Munich: W. Fink, 1968.</p>",
+      "line_text": "Behland, Max. Die Dreikönigslegende des Johannes von Hildesheim. Munich: W. Fink, 1968.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bezold, Carl. <em>Kebra Nagast, die Herrlichkeit der Könige</em>. Munich: Verlag der Königlichen Bayerischen Akademie der Wissenschaften, 1905.</p>",
+      "line_text": "Bezold, Carl. Kebra Nagast, die Herrlichkeit der Könige. Munich: Verlag der Königlichen Bayerischen Akademie der Wissenschaften, 1905.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bezold, Carl. <em>The Queen of Sheba and Her Only Son Menyelek</em>. London: Martin Hopkinson &amp; Co., 1922.</p>",
+      "line_text": "Bezold, Carl. The Queen of Sheba and Her Only Son Menyelek. London: Martin Hopkinson &amp; Co., 1922.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cherchi, Paolo. “A Legend from St Bartholomew’s Gospel in the Twelfth Century.” <em>RB</em> 91 (1984): 212–18.</p>",
+      "line_text": "Cherchi, Paolo. “A Legend from St Bartholomew’s Gospel in the Twelfth Century.” RB 91 (1984): 212–18.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Creizenach, Wilhelm.<em> Judas Ischarioth in Legende und Sage des Mittelalters</em>, Separatabdruck aus den <em>Beiträgen zur Geschichte der Deutschen Sprache und Literatur</em>. Band II, Heft 2. Halle, Lippert’sche Buchhandlung, 1875.</p>",
+      "line_text": "Creizenach, Wilhelm. Judas Ischarioth in Legende und Sage des Mittelalters, Separatabdruck aus den Beiträgen zur Geschichte der Deutschen Sprache und Literatur. Band II, Heft 2. Halle, Lippert’sche Buchhandlung, 1875.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>de Mély, Fernand. “Les Deniers de Judas dans la Tradition du Moyen Âge.” <em>Revue Numismatique</em> 4.3 (1899): 500–509.</p>",
+      "line_text": "de Mély, Fernand. “Les Deniers de Judas dans la Tradition du Moyen Âge.” Revue Numismatique 4.3 (1899): 500–509.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ludolphirectori00suchgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Deycks, Ferdinand, ed. <em>Ludolphi, rectoris ecclesiae parochilais in Suchem, De itnere terrae Sanctae Liber</em>. Bibliothek des Litterarischen Vereins in Stuttgart 25. Stuttgart: Literarischer Verein, 1851.</p>",
+      "line_text": "Deycks, Ferdinand, ed. Ludolphi, rectoris ecclesiae parochilais in Suchem, De itnere terrae Sanctae Liber. Bibliothek des Litterarischen Vereins in Stuttgart 25. Stuttgart: Literarischer Verein, 1851.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/ludolphirectori00suchgoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_4yAbAAAAYAAJ\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>du Méril, Edélestand, ed. <em>Poésies populaires latines du Moyen Age</em>. Paris: Firmin Didot &amp; A. Franck, 1847.</p>",
+      "line_text": "du Méril, Edélestand, ed. Poésies populaires latines du Moyen Age. Paris: Firmin Didot &amp; A. Franck, 1847.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_4yAbAAAAYAAJ"
+      ]
+    },
+    {
+      "line_html": "<p>Jullien, Florence. “La légende des <em>Trente pièces d’argent de Judas</em> et le roi Abgar.” <em>Apocrypha</em> 24 (2013): 207–20.</p>",
+      "line_text": "Jullien, Florence. “La légende des Trente pièces d’argent de Judas et le roi Abgar.” Apocrypha 24 (2013): 207–20.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Godfrey of Viterbo. <em>Pantheon, sive Vniversitatis Libri, qui Chronici appellantur</em>. Basle: ex officina Iocabi Parci, 1559.</p>",
+      "line_text": "Godfrey of Viterbo. Pantheon, sive Vniversitatis Libri, qui Chronici appellantur. Basle: ex officina Iocabi Parci, 1559.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gretser, Jakob. <em>Hortus Sanctae Crucis</em>. Ingolstadt, 1610.</p>",
+      "line_text": "Gretser, Jakob. Hortus Sanctae Crucis. Ingolstadt, 1610.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harris, Sylvia C. “German translations of the <em>Historia Trium Regum</em> by Johannes de Hildesheim.” <em>Modern Language Review</em> 53 (1958): 364–73.</p>",
+      "line_text": "Harris, Sylvia C. “German translations of the Historia Trium Regum by Johannes de Hildesheim.” Modern Language Review 53 (1958): 364–73.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harris, Sylvia C. “The <em>Historia Trium Regum</em> and the Mediaeval Legend of the Magi in Germany.” <em>Medium aevum</em> 28 (1959): 23–30.</p>",
+      "line_text": "Harris, Sylvia C. “The Historia Trium Regum and the Mediaeval Legend of the Magi in Germany.” Medium aevum 28 (1959): 23–30.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/fratrisfelicisf00unkngoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hassler, Cunradus D., ed. <em>Evagatorium in Terrae Sanctae, Arabia et Egypti peregrinationem, Fratris Felicis Fabri</em>. Vol. 1. Stuttgart: Sumptibus Societatis Litterariae, 1843.</p>",
+      "line_text": "Hassler, Cunradus D., ed. Evagatorium in Terrae Sanctae, Arabia et Egypti peregrinationem, Fratris Felicis Fabri. Vol. 1. Stuttgart: Sumptibus Societatis Litterariae, 1843.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/fratrisfelicisf00unkngoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/medallicportrait00hillrich\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hill, George Francis. “The Thirty Pieces of Silver.” <em>Archaeologica</em> 59 (1905): 235–54 Reprint in idem, <em>The Medallic Portraits of Christ, The False Shekels, The Thirty Pieces of Silver</em>. Oxford: Clarendon Press, 1920, 91–116.</p>",
+      "line_text": "Hill, George Francis. “The Thirty Pieces of Silver.” Archaeologica 59 (1905): 235–54 Reprint in idem, The Medallic Portraits of Christ, The False Shekels, The Thirty Pieces of Silver. Oxford: Clarendon Press, 1920, 91–116.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/medallicportrait00hillrich"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/daslebenjesunach00hofmuoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hofmann, Rudolph. A. <em>Das Leben Jesu nach den Apokryphen im Zusammenhang aus den Quellen erzählt und wissenschaftlich untersucht</em>. Leipzig: Friedrich Voigt, 1851.</p>",
+      "line_text": "Hofmann, Rudolph. A. Das Leben Jesu nach den Apokryphen im Zusammenhang aus den Quellen erzählt und wissenschaftlich untersucht. Leipzig: Friedrich Voigt, 1851.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/daslebenjesunach00hofmuoft"
+      ]
+    },
+    {
+      "line_html": "<p>Hook, David. “The Legend of the Thirty Pieces of Silver.” Pages 205–21 in <em>The Medieval Mind: Hispanic Studies in Honour of Alan Deyermond</em>. Edited by Ian R. MacPherson and Ralph J. Penny. London: Tamesis, 1997.</p>",
+      "line_text": "Hook, David. “The Legend of the Thirty Pieces of Silver.” Pages 205–21 in The Medieval Mind: Hispanic Studies in Honour of Alan Deyermond. Edited by Ian R. MacPherson and Ralph J. Penny. London: Tamesis, 1997.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/threekingscolog00horsgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Horstman, Carl, ed. <em>The Three Kings of Cologne: An Early English Translation of the ‘Historia Trium Regum’ by John of Hildesheim</em>. EETS, Old Series 85. London: Oxford University Press, 1886.</p>",
+      "line_text": "Horstman, Carl, ed. The Three Kings of Cologne: An Early English Translation of the ‘Historia Trium Regum’ by John of Hildesheim. EETS, Old Series 85. London: Oxford University Press, 1886.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/threekingscolog00horsgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Jullien, Florence. “La légende des <em>Trente pièces d’argent de Judas</em> et le roi Abgar.” <em>Apocrypha</em> 24 (2013): 207–20.</p>",
+      "line_text": "Jullien, Florence. “La légende des Trente pièces d’argent de Judas et le roi Abgar.” Apocrypha 24 (2013): 207–20.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kane, Thomas L. “An Amharic Version of the Origin of the Cross.” <em>BSAOS</em> 44.2 (1981): 273–89.</p>",
+      "line_text": "Kane, Thomas L. “An Amharic Version of the Origin of the Cross.” BSAOS 44.2 (1981): 273–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Meyer, Wilhelm. “Die Geschichte des Kreuzholzes vor Christus.” <em>Abhandlungen der philosophisch-philologischen Classe der Königlich Bayerischen Akademie der Wissenschaften</em> 16 (1882): 103–66.</p>",
+      "line_text": "Meyer, Wilhelm. “Die Geschichte des Kreuzholzes vor Christus.” Abhandlungen der philosophisch-philologischen Classe der Königlich Bayerischen Akademie der Wissenschaften 16 (1882): 103–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/historyholyrood00librgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Napier, Arthur S. <em>History of the Holy Rood-tree</em>. EETS, Old Series 103. London: Oxford University Press, 1894.</p>",
+      "line_text": "Napier, Arthur S. History of the Holy Rood-tree. EETS, Old Series 103. London: Oxford University Press, 1894.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/historyholyrood00librgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Paffenroth, Kim. <em>Judas: Images of the Lost Disciple</em>. Louisville, KY: Westminster/John Knox, 2001.</p>",
+      "line_text": "Paffenroth, Kim. Judas: Images of the Lost Disciple. Louisville, KY: Westminster/John Knox, 2001.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reiner, Erica. “Thirty Pieces of Silver.” <em>JAOS</em> 88.1 (1968): 186–90.</p>",
+      "line_text": "Reiner, Erica. “Thirty Pieces of Silver.” JAOS 88.1 (1968): 186–90.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stewart, Aubrey, trans. <em>Book of the Wanderings of Brother Felix Fabri</em>. 4 vols. Palestine Pilgrims’ Text Society 7–10. London: 24 Hanover Square W., 1893–1896.</p>",
+      "line_text": "Stewart, Aubrey, trans. Book of the Wanderings of Brother Felix Fabri. 4 vols. Palestine Pilgrims’ Text Society 7–10. London: 24 Hanover Square W., 1893–1896.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stewart, Aubrey, trans. <em>Ludolph von Suchem’s Description of the Holy Land, and of the Way Thither, Written in the Year AD 1350</em>. Palestine Pilgrims’ Text Society 12. London: Palestine Pilgrims’ Text Society, 1895.</p>",
+      "line_text": "Stewart, Aubrey, trans. Ludolph von Suchem’s Description of the Holy Land, and of the Way Thither, Written in the Year AD 1350. Palestine Pilgrims’ Text Society 12. London: Palestine Pilgrims’ Text Society, 1895.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

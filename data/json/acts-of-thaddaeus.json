@@ -1,0 +1,185 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thaddaeus/",
+  "nasscal_toc_title": "Acts of Thaddaeus",
+  "filename": "acts-of-thaddaeus",
+  "latin_title": "Acta Thaddaei",
+  "abbrev": "Acts Thad.",
+  "clavis_number": 642,
+  "category": "Apocryphal Acts",
+  "compiler": "Nathan J. Hardy, University of Chicago Divinity School",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-548/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>P </strong> Paris, Bibliothèque nationale de France, gr. 548, fols. 160<sup>v</sup>–163<sup>r</sup> (11th cent.)</p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, gr. 548, fols. 160v–163r (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-548/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>V</strong>  Vienna, Österreichische Nationalbibliothek, cod. hist. gr. 45, fols. 233<sup>v</sup>–236<sup>v</sup> (11th cent.)</p>",
+      "line_text": "V  Vienna, Österreichische Nationalbibliothek, cod. hist. gr. 45, fols. 233v–236v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Mouseio Benaki, T.A. 141 (66), fols. 171<sup>v</sup>–175<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8251/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Mouseio Benaki, T.A. 141 (66), fols. 171v–175r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/8251/"
+      ]
+    },
+    {
+      "line_html": "<p>Unconfirmed:</p>",
+      "line_text": "Unconfirmed:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos, Koikylidēs gr. 2, fol. 311 (11th cent.) ~ <a href=\"https://archive.org/details/kataloipacheiro00koikgoog/page/n13/mode/2up\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Panagios Taphos, Koikylidēs gr. 2, fol. 311 (11th cent.) ~ catalog",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://archive.org/details/kataloipacheiro00koikgoog/page/n13/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Batopediou, 704 (12th cent.)</p>",
+      "line_text": "Mount Athos, Monē Batopediou, 704 (12th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monē Rousanou, 3 (olim Hagios Triados, 4), fol. 187<sup>r</sup> (13th cent.) ~ paraphrase; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42075/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Rousanou, 3 (olim Hagios Triados, 4), fol. 187r (13th cent.) ~ paraphrase; Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42075/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieedessenische00abgagoog/page/n7\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Edessenische Abgarsage.</em> Brunswick: C. A. Schwetschke und Sohn, 1880 (re-edition of Tischendorf’s text and edition).</p>",
+      "line_text": "Lipsius, Richard A. Die Edessenische Abgarsage. Brunswick: C. A. Schwetschke und Sohn, 1880 (re-edition of Tischendorf’s text and edition).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/dieedessenische00abgagoog/page/n7"
+      ]
+    },
+    {
+      "line_html": "<p>Lipsius, Richard A. and Max Bonnet, eds. <em>Acta apostolorum apocrypha</em>. 2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (edition based on P and V, vol. 1, pp. cvi–cxi and 273–78).</p>",
+      "line_text": "Lipsius, Richard A. and Max Bonnet, eds. Acta apostolorum apocrypha. 2 vols. in 3 parts. Leipzig: Mendelssohn, 1889–1903; reprinted Hildesheim: Georg Olms, 1959; reprinted by the same in 1972 (edition based on P and V, vol. 1, pp. cvi–cxi and 273–78).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “The <em>Logos </em>of the Mandylion: Folktale, or Sacred Narrative? A new Edition of <em>The Acts of Thaddaeus</em> With a Commentary.” Pages 160–78 in <em>Edessa in hellenistisch-römischer Zeit: Religion, Kultur und Politik zwischen Ost und West. Beiträge des internationalen Edessa-Symposiums in Halle an der Saale, 14.-17. </em><em>Juli 2005. </em>Edited by Lutz Greisiger, Claudia Rammelt, and Jürgen Tubach. Beiruter Texte und Studien 116. Beirut: Orient-Institut Beirut, 2009 (edition based primarily on P and V read against similarities to other texts in V).</p>",
+      "line_text": "Palmer, Andrew. “The Logos of the Mandylion: Folktale, or Sacred Narrative? A new Edition of The Acts of Thaddaeus With a Commentary.” Pages 160–78 in Edessa in hellenistisch-römischer Zeit: Religion, Kultur und Politik zwischen Ost und West. Beiträge des internationalen Edessa-Symposiums in Halle an der Saale, 14.-17. Juli 2005. Edited by Lutz Greisiger, Claudia Rammelt, and Jürgen Tubach. Beiruter Texte und Studien 116. Beirut: Orient-Institut Beirut, 2009 (edition based primarily on P and V read against similarities to other texts in V).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and V with facing Spanish translation, vol. 3, pp. 457–71).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and V with facing Spanish translation, vol. 3, pp. 457–71).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actaapostolorum00actsgoog\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Acta apostolorum apocrypha</em>. Leipzig: Avenarius et Mendelssohn, 1851 (edition based on P and V, pp. lxxi–lxxii and 261–65).</p>",
+      "line_text": "Tischendorf, Constantin. Acta apostolorum apocrypha. Leipzig: Avenarius et Mendelssohn, 1851 (edition based on P and V, pp. lxxi–lxxii and 261–65).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actaapostolorum00actsgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “The <em>Logos </em>of the Mandylion: Folktale, or Sacred Narrative? A new Edition of <em>The Acts of Thaddaeus</em> With a Commentary.” Pages 160–78 in <em>Edessa in hellenistisch-römischer Zeit: Religion, Kultur und Politik zwischen Ost und West. Beiträge des internationalen Edessa-Symposiums in Halle an der Saale, 14.-17. </em><em>Juli 2005. </em>Edited by Lutz Greisiger, Claudia Rammelt, and Jürgen Tubach. Beiruter Texte und Studien 116. Beirut: Orient-Institut Beirut, 2009 (translation of new edition based primarily on P and V read against similarities to other texts in V).</p>",
+      "line_text": "Palmer, Andrew. “The Logos of the Mandylion: Folktale, or Sacred Narrative? A new Edition of The Acts of Thaddaeus With a Commentary.” Pages 160–78 in Edessa in hellenistisch-römischer Zeit: Religion, Kultur und Politik zwischen Ost und West. Beiträge des internationalen Edessa-Symposiums in Halle an der Saale, 14.-17. Juli 2005. Edited by Lutz Greisiger, Claudia Rammelt, and Jürgen Tubach. Beiruter Texte und Studien 116. Beirut: Orient-Institut Beirut, 2009 (translation of new edition based primarily on P and V read against similarities to other texts in V).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/n468\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s edition, pp. xix, 440–43).</p>",
+      "line_text": "Walker, Alexander. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s edition, pp. xix, 440–43).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/n468"
+      ]
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “Une version grecque de la légende d’Abgar.” Pages 135–46 in <em>Histoire du roi Abgar et de Jésus</em>. Edited by Alain Desreumaux. Apocryphes 3. Paris: Brepols, 1993 (translation of the Greek text from P).</p>",
+      "line_text": "Palmer, Andrew. “Une version grecque de la légende d’Abgar.” Pages 135–46 in Histoire du roi Abgar et de Jésus. Edited by Alain Desreumaux. Apocryphes 3. Paris: Brepols, 1993 (translation of the Greek text from P).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “Actes de Thaddée.” Pages 645–60 in volume 2 of <em>Écrits apocryphes chrétiens.</em> Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (translation based on draft of edition in Palmer, “Logos,” which was not yet published by the time of this translation).</p>",
+      "line_text": "Palmer, Andrew. “Actes de Thaddée.” Pages 645–60 in volume 2 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (translation based on draft of edition in Palmer, “Logos,” which was not yet published by the time of this translation).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Illert, Martin. <em>Doctrina Addai. De imagine Edessena / Die Abgarlegende. </em><em>Das Christusbild von Edessa</em>. Fontes Christiani 45. Turnhout: Brepols, 2007 (translation based on edition of Lipsius, reprinted on facing pages, pp. 244–51).</p>",
+      "line_text": "Illert, Martin. Doctrina Addai. De imagine Edessena / Die Abgarlegende. Das Christusbild von Edessa. Fontes Christiani 45. Turnhout: Brepols, 2007 (translation based on edition of Lipsius, reprinted on facing pages, pp. 244–51).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (translation of Lipsius’ edition, vol. 2, pp. 575–78).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (translation of Lipsius’ edition, vol. 2, pp. 575–78).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Núñez, J. G. <em>La leyenda del Rey Abgar y Jesús. Orígenes del cristianismo en Edesa.</em> Apócrifos Cristianos 1. Madrid: Editorial Ciudad Nueva, 1995 (translation of P with notes based on Lipsius’s edition of V, pp. 163–77).</p>",
+      "line_text": "Núñez, J. G. La leyenda del Rey Abgar y Jesús. Orígenes del cristianismo en Edesa. Apócrifos Cristianos 1. Madrid: Editorial Ciudad Nueva, 1995 (translation of P with notes based on Lipsius’s edition of V, pp. 163–77).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and V with facing Spanish translation, vol. 3, pp. 457–71).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on P and V with facing Spanish translation, vol. 3, pp. 457–71).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Cameron, Averil. “The History of the Image of Edessa: The Telling of a Story.” <em>Harvard Ukrainian Studies </em>7 (1983): 80–94.<em> </em></p>",
+      "line_text": "Cameron, Averil. “The History of the Image of Edessa: The Telling of a Story.” Harvard Ukrainian Studies 7 (1983): 80–94. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Santos Otero, Aurelio de. “Later Acts of Apostles.” Pages 426–82 in vol. 2 of <em>New Testament Apocrypha</em>. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. 2 vols. Louisville, KY: Westminster/John Knox Press, 1991 (see p. 481).</p>",
+      "line_text": "Santos Otero, Aurelio de. “Later Acts of Apostles.” Pages 426–82 in vol. 2 of New Testament Apocrypha. Edited by Wilhelm Schneemelcher. Translated by R. McL. Wilson. 2 vols. Louisville, KY: Westminster/John Knox Press, 1991 (see p. 481).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Palmer, Andrew. “Les Actes de Thaddée.” <em>Apocrypha </em>13 (2002): 63–84.</p>",
+      "line_text": "Palmer, Andrew. “Les Actes de Thaddée.” Apocrypha 13 (2002): 63–84.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-resurrection-and-the-passion-by-pseudo-cyril-of-jerusalem/",
+  "nasscal_toc_title": "Homily on the Resurrection and the Passion by Pseudo-Cyril of Jerusalem",
+  "filename": "homily-on-the-resurrection-and-the-passion-by-pseudo-cyril-of-jerusalem",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Hom. Res. Pass.",
+  "alt_titles": [
+    "Homily on the Resurrection and the Passion",
+    "Discourse on the Crucifixion and Resurrection of Christ",
+    "Homily II on the Passion",
+    "On the Passion I "
+  ],
+  "clavis_number": 802,
+  "category": "Passion Narratives",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Manuscript A:</p>",
+      "line_text": "Manuscript A:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m594/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M594 + New York, Columbia University Library, Plimpton 1 (9th cent.) (=MICH.BQ)</p>",
+      "line_text": "New York, Morgan Library and Museum, M594 + New York, Columbia University Library, Plimpton 1 (9th cent.) (=MICH.BQ)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m594/"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript B:</p>",
+      "line_text": "Manuscript B:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m595/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, M595, fols. 1<sup>r</sup>–27<sup>v</sup> (855) (=MICH.BR)</p>",
+      "line_text": "New York, Morgan Library and Museum, M595, fols. 1r–27v (855) (=MICH.BR)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m595/"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript C:</p>",
+      "line_text": "Manuscript C:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-amh-copt-pap-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Morgan Library and Museum, Amh. Copt. Pap. 4.3–4 (7th cent.)</p>",
+      "line_text": "New York, Morgan Library and Museum, Amh. Copt. Pap. 4.3–4 (7th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-amh-copt-pap-4/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.archive.org/stream/cu31924029634262#page/n25/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Crum, Walter E. <i>Theological Texts from Coptic Papyri</i>. Anecdota Oxoniensia, Semitic Series, 12. Oxford; Clarendon Press, 1913 (text and trans. of C, pp. 11–14).</p>",
+      "line_text": "Crum, Walter E. Theological Texts from Coptic Papyri. Anecdota Oxoniensia, Semitic Series, 12. Oxford; Clarendon Press, 1913 (text and trans. of C, pp. 11–14).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.archive.org/stream/cu31924029634262#page/n25/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Manuscript D (MONB.GD; fols. 97–160; <a href=\"https://atlas.paths-erc.eu/manuscripts/401\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry):</p>",
+      "line_text": "Manuscript D (MONB.GD; fols. 97–160; PAThs entry):",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/401"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 15–16: Vienna, Österreichische Nationalbibliothek, K 9475</p>",
+      "line_text": "pp. 15–16: Vienna, Österreichische Nationalbibliothek, K 9475",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 17–18: Oxford, Bodleian Library, Copt. E 177</p>",
+      "line_text": "pp. 17–18: Oxford, Bodleian Library, Copt. E 177",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 19–20: Paris, Bibliothèque nationale de France, Copt 131<sup>5</sup>, fol. 117</p>",
+      "line_text": "pp. 19–20: Paris, Bibliothèque nationale de France, Copt 1315, fol. 117",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 35–38: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.14–15</p>",
+      "line_text": "pp. 35–38: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.14–15",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 39–42: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.41–42</p>",
+      "line_text": "pp. 39–42: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.41–42",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 43–46: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.16–17</p>",
+      "line_text": "pp. 43–46: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 12.16–17",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 47–48: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.43</p>",
+      "line_text": "pp. 47–48: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.43",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 81–82: Paris, Musée du Louvre, E 10084</p>",
+      "line_text": "pp. 81–82: Paris, Musée du Louvre, E 10084",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 97–98: Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>, fol. 18</p>",
+      "line_text": "pp. 97–98: Paris, Bibliothèque nationale de France, Copt 1317, fol. 18",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 101–106: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.44–46</p>",
+      "line_text": "pp. 101–106: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 13.44–46",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 121–122: Cairo, Coptic Museum, 9227</p>",
+      "line_text": "pp. 121–122: Cairo, Coptic Museum, 9227",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 129–130: Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>, fol. 64</p>",
+      "line_text": "pp. 129–130: Paris, Bibliothèque nationale de France, Copt 1317, fol. 64",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 131–132: Paris, Bibliothèque nationale de France, Copt 129<sup>17</sup>, fol. 68</p>",
+      "line_text": "pp. 131–132: Paris, Bibliothèque nationale de France, Copt 12917, fol. 68",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 133–134: Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>, fol. 60</p>",
+      "line_text": "pp. 133–134: Paris, Bibliothèque nationale de France, Copt 1317, fol. 60",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 137–138: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 14.36</p>",
+      "line_text": "pp. 137–138: Naples, Biblioteca Nazionale Vittorio Emanuele III, IB, 14.36",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copt 131<sup>7</sup>,  fol. 60</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copt 1317,  fol. 60",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 139–140: Paris, Bibliothèque nationale de France, Copt 131<sup>6</sup>, fol. 54</p>",
+      "line_text": "pp. 139–140: Paris, Bibliothèque nationale de France, Copt 1316, fol. 54",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">pp. 159–160: Paris, Bibliothèque nationale de France, Copt 129<sup>17</sup>, fol. 64</p>",
+      "line_text": "pp. 159–160: Paris, Bibliothèque nationale de France, Copt 12917, fol. 64",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">p. 161: Vienna, Österreichische Nationalbibliothek, K2644</p>",
+      "line_text": "p. 161: Vienna, Österreichische Nationalbibliothek, K2644",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">p. 163: London, British Library, Or. 3571A, fol. 147</p>",
+      "line_text": "p. 163: London, British Library, Or. 3571A, fol. 147",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sotheby’s 03</p>",
+      "line_text": "Sotheby’s 03",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/04/suciu-borgia-mss-in-naples.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “The Borgian Coptic Manuscripts in Naples: Supplementary Identifications and Notes to a Recently Published Catalogue.” <em>OCP</em> 77 (2011): 299–325 (details on MONB.GD, pp. 314–15).</p>",
+      "line_text": "Suciu, Alin. “The Borgian Coptic Manuscripts in Naples: Supplementary Identifications and Notes to a Recently Published Catalogue.” OCP 77 (2011): 299–325 (details on MONB.GD, pp. 314–15).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/04/suciu-borgia-mss-in-naples.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts and fragments:</p>",
+      "line_text": "Additional manuscripts and fragments:",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-oi/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.OI, pp. 1–56 (10th cent.)</p>",
+      "line_text": "MONB.OI, pp. 1–56 (10th cent.)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-oi/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">MONB.MI (<a href=\"https://atlas.paths-erc.eu/manuscripts/521\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "MONB.MI (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/521"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">MONB.MJ (<a href=\"https://atlas.paths-erc.eu/manuscripts/522\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "MONB.MJ (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/522"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">MONB.ML (<a href=\"https://atlas.paths-erc.eu/manuscripts/524\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "MONB.ML (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/524"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ann Arbor, University of Michigan Library, 592 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1682\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "Ann Arbor, University of Michigan Library, 592 (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1682"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte  129<sup>13</sup>, fol. 67 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1683\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a> entry)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte  12913, fol. 67 (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1683"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte  131<sup>4</sup>, fol. 166 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1684\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs </a>entry)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte  1314, fol. 166 (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1684"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte 131<sup>5</sup>, fol. 139 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1685\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs </a>entry)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte 1315, fol. 139 (PAThs entry)",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1685"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, National Archives and Library of Ethiopia, NL MS 28, fols. 1<sup>r</sup>–8<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/533988\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Addis Ababa, National Archives and Library of Ethiopia, NL MS 28, fols. 1r–8v (13th/14th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/533988"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Tānāsee, Kebran Gabriel Monastery, 35, fols. 102<sup>v</sup>–105<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Tānāsee, Kebran Gabriel Monastery, 35, fols. 102v–105r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/tanasee-kebran-gabriel-monastery-35/"
+      ]
+    },
+    {
+      "line_html": "<p>Broek, Roelof van den. <em>Pseudo-Cyril of Jerusalem</em>, <em>On the Life and the Passion of Christ. </em><em>A Coptic Apocryphon</em>. Supplements to Vigiliae Christianae 118. Leiden: Brill, 2013 (summary based on A, pp. 81–87).</p>",
+      "line_text": "Broek, Roelof van den. Pseudo-Cyril of Jerusalem, On the Life and the Passion of Christ. A Coptic Apocryphon. Supplements to Vigiliae Christianae 118. Leiden: Brill, 2013 (summary based on A, pp. 81–87).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Buzi, Paola. <em>Catalogo dei manoscritti copti Borgiani conservati presso la Biblioteca Nazionale “Vittorio Emanuele III” di Napoli.</em> Academia dei Licei – Memorie, Serie IX, 25/1 Rome: Scienze e Lettere, 2009 (pp. 286–87 and 292–93).</p>",
+      "line_text": "Buzi, Paola. Catalogo dei manoscritti copti Borgiani conservati presso la Biblioteca Nazionale “Vittorio Emanuele III” di Napoli. Academia dei Licei – Memorie, Serie IX, 25/1 Rome: Scienze e Lettere, 2009 (pp. 286–87 and 292–93).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Campagnano, Antonella. <em>Ps. Cirillo di Gerusalemme: Omelie copte sulla Passione, sulla Croce e sulla Vergine</em>. Testi e documenti per lo studio dell’ Antichità 65. Milan: Cisalpino-Goliardica, 1980.</p>",
+      "line_text": "Campagnano, Antonella. Ps. Cirillo di Gerusalemme: Omelie copte sulla Passione, sulla Croce e sulla Vergine. Testi e documenti per lo studio dell’ Antichità 65. Milan: Cisalpino-Goliardica, 1980.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lucchesi, Enzo. “D’une Vie de Marie à une Homélie sur la Passion.” <em>AnBoll</em> 114 (1996): 269–72.</p>",
+      "line_text": "Lucchesi, Enzo. “D’une Vie de Marie à une Homélie sur la Passion.” AnBoll 114 (1996): 269–72.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Orlandi, Tito. “Cirillo di Gerusalemme nella letteratura copta.” <em>Vetera Christinanorum</em> 9 (1972): 93–100.</p>",
+      "line_text": "Orlandi, Tito. “Cirillo di Gerusalemme nella letteratura copta.” Vetera Christinanorum 9 (1972): 93–100.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

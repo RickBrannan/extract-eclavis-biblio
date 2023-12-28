@@ -1,0 +1,313 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-the-virgin-east-syriac/",
+  "nasscal_toc_title": "History of the Virgin (East Syriac)",
+  "filename": "history-of-the-virgin-east-syriac",
+  "latin_title": "Vita Virginis Nestoriana",
+  "abbrev": "Hist. Vir.",
+  "alt_titles": [
+    "History of the Blessed Virgin Mary"
+  ],
+  "clavis_number": 796,
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Budge’s edition and translation (see below) is based on manuscript A with readings from B in the apparatus. Burke 2017 tabulates the available manuscripts.</p>",
+      "line_text": "Budge’s edition and translation (see below) is based on manuscript A with readings from B in the apparatus. Burke 2017 tabulates the available manuscripts.",
+      "language": "English",
+      "entry_type": "Syriac (BHO 643–644)"
+    },
+    {
+      "line_html": "<p>Budge, Ernest  A. Wallis, ed. and trans. <em>The History of the Blessed Virgin Mary and the History of the Likeness of Christ</em>, 2 vols. London: Luzac &amp; Co., 1899.</p>",
+      "line_text": "Budge, Ernest  A. Wallis, ed. and trans. The History of the Blessed Virgin Mary and the History of the Likeness of Christ, 2 vols. London: Luzac &amp; Co., 1899.",
+      "language": "English",
+      "entry_type": "Syriac (BHO 643–644)"
+    },
+    {
+      "line_html": "<p>Burke, Tony. <em>The Infancy Gospel of Thomas in the Syriac Tradition</em>. Piscataway, NJ: Gorgias Press, 2017.</p>",
+      "line_text": "Burke, Tony. The Infancy Gospel of Thomas in the Syriac Tradition. Piscataway, NJ: Gorgias Press, 2017.",
+      "language": "English",
+      "entry_type": "Syriac (BHO 643–644)"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Leeds, University of Leeds, Syr. 1 (1890)</p>",
+      "line_text": "A  Leeds, University of Leeds, Syr. 1 (1890)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong> Mardin, Chaldean Cathedral, 2 (1678)</p>",
+      "line_text": "M Mardin, Chaldean Cathedral, 2 (1678)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>N </strong>Edgbaston, University of Birmingham, Mingana Syr. 502 (1836)</p>",
+      "line_text": "N Edgbaston, University of Birmingham, Mingana Syr. 502 (1836)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D </strong>Edgbaston, University of Birmingham, Mingana Syr. 122 (1670)</p>",
+      "line_text": "D Edgbaston, University of Birmingham, Mingana Syr. 122 (1670)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>E</strong>  Cambridge, Cambridge University Library, Add. 2020 <em>(</em>1697)</p>",
+      "line_text": "E  Cambridge, Cambridge University Library, Add. 2020 (1697)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>F  </strong>New York, Columbia University, Butler Library X893.4 B47 (1796)</p>",
+      "line_text": "F  New York, Columbia University, Butler Library X893.4 B47 (1796)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-var-sir-587/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>G </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 587, fols. 42<sup>v</sup>–84<sup>v</sup> (1917–1918)</p>",
+      "line_text": "G Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 587, fols. 42v–84v (1917–1918)",
+      "language": "Recension A",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-var-sir-587/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H  </strong>New York, Union Theological Seminary, Syr. 32 (1779)</p>",
+      "line_text": "H  New York, Union Theological Seminary, Syr. 32 (1779)",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-597/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>I</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 597, fols. <span class=\"\">18<span class=\"Syriac\"><sup>r</sup></span>–23<span class=\"Syriac\"><sup>v</sup></span></span> (17th cent.) ~ fragmentary</p>",
+      "line_text": "I  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 597, fols. 18r–23v (17th cent.) ~ fragmentary",
+      "language": "Recension A",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-597/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>J</strong>  Edgbaston, University of Birmingham, Mingana Syr. 524 (ca. 1550) ~ fragmentary</p>",
+      "line_text": "J  Edgbaston, University of Birmingham, Mingana Syr. 524 (ca. 1550) ~ fragmentary",
+      "language": "Recension A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  London, Royal Asiatic Society, Syr. 1 (1569)</p>",
+      "line_text": "B  London, Royal Asiatic Society, Syr. 1 (1569)",
+      "language": "Recension B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P </strong> London, British Library, Or. 4526 (1727)</p>",
+      "line_text": "P  London, British Library, Or. 4526 (1727)",
+      "language": "Recension B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong>  Princeton, Speer Library, Cabinet C, Ms. 40 (olim Urmia, Oroomia Mission Library, 43) (1813)</p>",
+      "line_text": "Q  Princeton, Speer Library, Cabinet C, Ms. 40 (olim Urmia, Oroomia Mission Library, 43) (1813)",
+      "language": "Recension B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Cambridge, University Library, Or. 1341 (1899)</p>",
+      "line_text": "R  Cambridge, University Library, Or. 1341 (1899)",
+      "language": "Recension B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/tehran-chaldean-church-of-st-joseph-8/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>S</strong>  Tehran, Chaldean Church of St. Joseph, 8 (Fonds Issayi 18), fols. 1<sup>v</sup>–44<sup>v</sup> (1741/1742)</p>",
+      "line_text": "S  Tehran, Chaldean Church of St. Joseph, 8 (Fonds Issayi 18), fols. 1v–44v (1741/1742)",
+      "language": "Recension B",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/tehran-chaldean-church-of-st-joseph-8/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>T </strong> Cambridge (Mass.), Harvard Houghton Library, Syr. 168 (olim SMH 535, access 2177) (1779)</p>",
+      "line_text": "T  Cambridge (Mass.), Harvard Houghton Library, Syr. 168 (olim SMH 535, access 2177) (1779)",
+      "language": "Recension B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-oct-1130/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>U  </strong>Berlin, Staatsbibliothek zu Berlin, Or. Oct. 1130 (1815)</p>",
+      "line_text": "U  Berlin, Staatsbibliothek zu Berlin, Or. Oct. 1130 (1815)",
+      "language": "Recension B",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-oct-1130/"
+      ]
+    },
+    {
+      "line_html": "<p>Unexamined:</p>",
+      "line_text": "Unexamined:",
+      "language": "Recension B",
+      "entry_type": "Syriac (BHO 643–644)"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-290/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Baghdad, Chaldean Patriarchate of Baghdad, 290 (Scher 29; Macomber 80.7), <span class=\"\">fols. 2<span class=\"Syriac\"><sup>v</sup></span>–98<span class=\"Syriac\"><sup>r</sup></span></span> (1725)</p>",
+      "line_text": "Baghdad, Chaldean Patriarchate of Baghdad, 290 (Scher 29; Macomber 80.7), fols. 2v–98r (1725)",
+      "language": "Recension B",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/baghdad-chaldean-patriarchate-of-baghdad-290/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Baghdad, Library of the Chaldean Monastery, 588 (olim Alqoš, Notre-Dame des Semences, Scher 98/Vosté 183) (1680); <a href=\"https://oaoc.net/%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d9%88%d8%b7%d8%a7%d8%aa/scripts/%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-588\" target=\"_blank\" rel=\"noopener\">OAOC</a></p>",
+      "line_text": "Baghdad, Library of the Chaldean Monastery, 588 (olim Alqoš, Notre-Dame des Semences, Scher 98/Vosté 183) (1680); OAOC",
+      "language": "Recension B",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://oaoc.net/%d8%a7%d9%84%d9%85%d8%ae%d8%b7%d9%88%d8%b7%d8%a7%d8%aa/scripts/%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-588"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/trichur-chaldean-syrian-church-9/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Trichur, Chaldean Syrian Church, Syr. 9, fols. <span class=\"\">108<span class=\"Syriac\"><sup>r</sup></span>–141<span class=\"Syriac\"><sup>v</sup></span> </span>(1615)</p>",
+      "line_text": "Trichur, Chaldean Syrian Church, Syr. 9, fols. 108r–141v (1615)",
+      "language": "Recension B",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/trichur-chaldean-syrian-church-9/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Siirt, Chaldean Episcopal Library, 82 (16th cent.)</p>",
+      "line_text": "Siirt, Chaldean Episcopal Library, 82 (16th cent.)",
+      "language": "Lost or Inaccessible Manuscripts",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Urmia, Oroomia Mission Library, 38 (1885)</p>",
+      "line_text": "Urmia, Oroomia Mission Library, 38 (1885)",
+      "language": "Lost or Inaccessible Manuscripts",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Urmia, Oroomia Mission Library, 47 (1885)</p>",
+      "line_text": "Urmia, Oroomia Mission Library, 47 (1885)",
+      "language": "Lost or Inaccessible Manuscripts",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/historyblessedv01philgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest  A. Wallis, ed. and trans. <em>The History of the Blessed Virgin Mary and the History of the Likeness of Christ</em>, 2 vols. London: Luzac &amp; Co., 1899.</p>",
+      "line_text": "Budge, Ernest  A. Wallis, ed. and trans. The History of the Blessed Virgin Mary and the History of the Likeness of Christ, 2 vols. London: Luzac &amp; Co., 1899.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/historyblessedv01philgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Burke, Tony. <em>De infantia Iesu euangelium Thomae graece</em>. CCSA17. Turnhout: Brepols, 2010.</p>",
+      "line_text": "Burke, Tony. De infantia Iesu euangelium Thomae graece. CCSA17. Turnhout: Brepols, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.bethmardutho.org/index.php/hugoye/volume-index/569.html\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>_________. “An Unpublished Syriac Manuscript of the <em>Infancy Gospel of Thomas</em>: Introduction, Text, Translation, and Notes.” <em>Hugoye</em> 16.2 (2013): 225–99.</p>",
+      "line_text": "_________. “An Unpublished Syriac Manuscript of the Infancy Gospel of Thomas: Introduction, Text, Translation, and Notes.” Hugoye 16.2 (2013): 225–99.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "http://www.bethmardutho.org/index.php/hugoye/volume-index/569.html"
+      ]
+    },
+    {
+      "line_html": "<p>_________. “The Infancy Gospel of Thomas (Syriac).” Pages 52–68 <em>New Testament Apocrypha: More Noncanonical Scriptures</em><em>.</em> Vol. 1. Edited by in Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016.</p>",
+      "line_text": "_________. “The Infancy Gospel of Thomas (Syriac).” Pages 52–68 New Testament Apocrypha: More Noncanonical Scriptures. Vol. 1. Edited by in Tony Burke and Brent Landau. Grand Rapids, MI: Eerdmans, 2016.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Desreumaux, Alain. “Les apocryphes syriaques sur Jésus et sa famille.” Pages 51–69 in <em>Les apocryphes syriaques</em>. Edited by Muriel Debié, Alain Desreumaux, Christelle Jullien, and Florence Jullien. Études syriaques 2. Paris: Geuthner, 2005.</p>",
+      "line_text": "Desreumaux, Alain. “Les apocryphes syriaques sur Jésus et sa famille.” Pages 51–69 in Les apocryphes syriaques. Edited by Muriel Debié, Alain Desreumaux, Christelle Jullien, and Florence Jullien. Études syriaques 2. Paris: Geuthner, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ebied, Rifaat Y. “Some Syriac Manuscripts from the Collection of Sir E.A. Wallis Budge.” Pages 509–39 in <em>Symposium Syriacum 1972: célèbre dans les jours 26–31 octobre 1972 à l’Institut Pontifical Oriental de Rome</em>. Edited by Ignacio Ortiz de Urbina. OrChrAn 197. Rome: Pontifical Institutum Orientalium Studiorum, 1974.</p>",
+      "line_text": "Ebied, Rifaat Y. “Some Syriac Manuscripts from the Collection of Sir E.A. Wallis Budge.” Pages 509–39 in Symposium Syriacum 1972: célèbre dans les jours 26–31 octobre 1972 à l’Institut Pontifical Oriental de Rome. Edited by Ignacio Ortiz de Urbina. OrChrAn 197. Rome: Pontifical Institutum Orientalium Studiorum, 1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les textes littéraires sur l’assomption avant le Xe siècle.” Pages 265–85 in <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Geneva: Labor et Fides, 1981.</p>",
+      "line_text": "Esbroeck, Michel van. “Les textes littéraires sur l’assomption avant le Xe siècle.” Pages 265–85 in Les actes apocryphes des apôtres. Edited by François Bovon. Geneva: Labor et Fides, 1981.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frank, Erica C. D. “The History of the Blessed Virgin Mary; Its Apocryphal Basis and the Purpose of the Composition.” PhD diss., University of Melbourne, Australia, 1974.</p>",
+      "line_text": "Frank, Erica C. D. “The History of the Blessed Virgin Mary; Its Apocryphal Basis and the Purpose of the Composition.” PhD diss., University of Melbourne, Australia, 1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Graf, George. <em>Geschichte der christlichen Arabischen Literatur</em>. Vol. 1. Vatican: Biblioteca Apostolica Vaticana, 1944.</p>",
+      "line_text": "Graf, George. Geschichte der christlichen Arabischen Literatur. Vol. 1. Vatican: Biblioteca Apostolica Vaticana, 1944.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horn, Cornelia B. and Robert R. Phenix. “Apocryphal Gospels in Syriac and Related Texts Offering Traditions about Jesus.” Pages 527–55 in <em>Jesus in apokryphen Evangelienüberlieferungen</em>. Edited by in Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010.</p>",
+      "line_text": "Horn, Cornelia B. and Robert R. Phenix. “Apocryphal Gospels in Syriac and Related Texts Offering Traditions about Jesus.” Pages 527–55 in Jesus in apokryphen Evangelienüberlieferungen. Edited by in Jörg Frey and Jens Schröter. WUNT 254. Tübingen: Mohr Siebeck, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Merscherskaja, Elena N. “‘L’Adoration des mages’ dan l’apocryphe syriaque <em>Histoire de la Vierge Marie</em>.” Pages 95–100 in <em>Sur les pas des Araméens chrétiens. Mélanges offerts à Alain Desreumaux</em>. Edited by Françoise Briquel Chatonnet and Muriel Debié. Cahiers d’études syriaques 1. Paris: Geuthner, Paris, 2010.</p>",
+      "line_text": "Merscherskaja, Elena N. “‘L’Adoration des mages’ dan l’apocryphe syriaque Histoire de la Vierge Marie.” Pages 95–100 in Sur les pas des Araméens chrétiens. Mélanges offerts à Alain Desreumaux. Edited by Françoise Briquel Chatonnet and Muriel Debié. Cahiers d’études syriaques 1. Paris: Geuthner, Paris, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simon Claude. “Vies de la Vierge. État de la question.” <em>Apocrypha</em> 5 (1994): 211–48. Reprinted in Simon Claude Mimouni, <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie : études littéraires, historiques et doctrinales</em> VCSupp 104. Leiden and Boston: Brill, 2011.</p>",
+      "line_text": "Mimouni, Simon Claude. “Vies de la Vierge. État de la question.” Apocrypha 5 (1994): 211–48. Reprinted in Simon Claude Mimouni, Les traditions anciennes sur la Dormition et l’Assomption de Marie : études littéraires, historiques et doctrinales VCSupp 104. Leiden and Boston: Brill, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_________. <em>Dormition et Assomption de Marie. </em><em>Histoire des traditions anciennes</em>. Théologie historique 98. Paris: Beauchesne, 1995.</p>",
+      "line_text": "_________. Dormition et Assomption de Marie. Histoire des traditions anciennes. Théologie historique 98. Paris: Beauchesne, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Naffah, Charles. “Les ‘histoires’ syriaques de la Vierge: traditions apocryphes anciennes et récentes.” <em>Apocrypha</em> 20 (2009): 137–88.</p>",
+      "line_text": "Naffah, Charles. “Les ‘histoires’ syriaques de la Vierge: traditions apocryphes anciennes et récentes.” Apocrypha 20 (2009): 137–88.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/vangilesapocry02peet\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Peeters, Paul. <em>Évangiles apocryphes</em>, vol. 2. Series ed. Charles Michel and Paul Peeters. Textes et documents pour l’étude historique du Christianisme 18. Paris: Librairie Alphonse Picard &amp; Fils, 1914.</p>",
+      "line_text": "Peeters, Paul. Évangiles apocryphes, vol. 2. Series ed. Charles Michel and Paul Peeters. Textes et documents pour l’étude historique du Christianisme 18. Paris: Librairie Alphonse Picard &amp; Fils, 1914.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/vangilesapocry02peet"
+      ]
+    },
+    {
+      "line_html": "<p>Pritula, Anton. “A Hymn by Givargis Warda on the Childhood of Christ.” Pages 423–51 in <em>Die Suryoye und ihre Umwelt. 4. deutsches Syrologen-Symposium in Trier 2004, Festgabe Wolfgang Hage zum 70. Geburtstag</em>. Edited by Martin Tamcke and Andreas Heinze.  Studien zur Orientalischen Kirchengeschichte 36. Münster: Lit-Verlag, 2005.</p>",
+      "line_text": "Pritula, Anton. “A Hymn by Givargis Warda on the Childhood of Christ.” Pages 423–51 in Die Suryoye und ihre Umwelt. 4. deutsches Syrologen-Symposium in Trier 2004, Festgabe Wolfgang Hage zum 70. Geburtstag. Edited by Martin Tamcke and Andreas Heinze.  Studien zur Orientalischen Kirchengeschichte 36. Münster: Lit-Verlag, 2005.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

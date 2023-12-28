@@ -1,0 +1,458 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-holy-rood-tree/",
+  "nasscal_toc_title": "Legend of the Holy Rood Tree",
+  "filename": "legend-of-the-holy-rood-tree",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Leg. Rood Tree",
+  "alt_titles": [
+    "Post Peccatum Adae"
+  ],
+  "clavis_number": 121,
+  "category": "Relic History",
+  "compiler": "Stephen C. E. Hopkins, University of Central Florida",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  Brussels, Royal Library, MS II.282, fols. 155a–157c</p>",
+      "line_text": "B  Brussels, Royal Library, MS II.282, fols. 155a–157c",
+      "language": "Anglo-Norman",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>C</strong>  Cambridge, Trinity College, O.1.17</p>",
+      "line_text": "C  Cambridge, Trinity College, O.1.17",
+      "language": "Anglo-Norman",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Prangsma-Hajenius, Angélique M. L. <em>La Légende Du Bois De La Croix Dans La Littérature Française Médiévale</em>. Assen, Pays-Bas: Van Gorcum, 1995 (edition based on B).</p>",
+      "line_text": "Prangsma-Hajenius, Angélique M. L. La Légende Du Bois De La Croix Dans La Littérature Française Médiévale. Assen, Pays-Bas: Van Gorcum, 1995 (edition based on B).",
+      "language": "Anglo-Norman",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Taguchi, Mayumi. “The Legend of the Cross before Christ: Another Prose Treatment in English and Anglo-Norman.” <em>Poetica </em>45 (1996): 15–61 (edition based on C).</p>",
+      "line_text": "Taguchi, Mayumi. “The Legend of the Cross before Christ: Another Prose Treatment in English and Anglo-Norman.” Poetica 45 (1996): 15–61 (edition based on C).",
+      "language": "Anglo-Norman",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Munich, Bayerische Staatsbibliothek, lat. 3433, fols. 211–213 (15th cent.)</p>",
+      "line_text": "A  Munich, Bayerische Staatsbibliothek, lat. 3433, fols. 211–213 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P</strong>  Munich, Bayerische Staatsbibliothek, lat. 11601, fol. 87 (15th cent.)</p>",
+      "line_text": "P  Munich, Bayerische Staatsbibliothek, lat. 11601, fol. 87 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V</strong>  Vienna, Österreichische Nationalbibliothek, 4373, fols. 130–131 (15th cent.)</p>",
+      "line_text": "V  Vienna, Österreichische Nationalbibliothek, 4373, fols. 130–131 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Z</strong> Munich, Bayerische Staatsbibliothek, lat. 27006, fols. 200–201 (15th cent.)</p>",
+      "line_text": "Z Munich, Bayerische Staatsbibliothek, lat. 27006, fols. 200–201 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Meyer, Wilhelm. “Die Geschichte des Kreuzholzes vor Christi.” <em>Abhandlungen der philosophisch-philologischen Classe der Königlich </em><em>Bayerische Akademie der Wissenschaften</em> 16 (1882): 103–66 (Type VI “Legende” edition based on A with variants from P, V, and Z).</p>",
+      "line_text": "Meyer, Wilhelm. “Die Geschichte des Kreuzholzes vor Christi.” Abhandlungen der philosophisch-philologischen Classe der Königlich Bayerische Akademie der Wissenschaften 16 (1882): 103–66 (Type VI “Legende” edition based on A with variants from P, V, and Z).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-288/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Cambridge, Corpus Christi College, 288, fols. 82<sup>r</sup>–84<sup>v</sup> (ca. 1100–1299)</p>",
+      "line_text": "Cambridge, Corpus Christi College, 288, fols. 82r–84v (ca. 1100–1299)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-288/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-66a/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College, 66A, fols. 221<sup>v</sup>–224<sup>r </sup>(14th cent.)</p>",
+      "line_text": "Cambridge, Corpus Christi College, 66A, fols. 221v–224r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-66a/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">London, Bodleian Library, MSS Royal 8E.xvii, fol. 121a (13th cent.)</p>",
+      "line_text": "London, Bodleian Library, MSS Royal 8E.xvii, fol. 121a (13th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Taguchi, Mayumi. “The Legend of the Cross before Christ: Another Prose Treatment in English and Anglo-Norman.” <em>Poetica </em>45 (1996): 15–61 (see p. 16 n. 16 for a lengthy list of Latin MSS).</p>",
+      "line_text": "Taguchi, Mayumi. “The Legend of the Cross before Christ: Another Prose Treatment in English and Anglo-Norman.” Poetica 45 (1996): 15–61 (see p. 16 n. 16 for a lengthy list of Latin MSS).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>The legend appears also in Jacobus de Voragine’s <em>The Golden Legend</em>. See <em>The Golden Legend: Readings on the Saints</em>. Translated by William Granger Ryan; 2 vols. Princeton: Princeton University Press, 1993 (vol. 1, pp. 277–84).</p>",
+      "line_text": "The legend appears also in Jacobus de Voragine’s The Golden Legend. See The Golden Legend: Readings on the Saints. Translated by William Granger Ryan; 2 vols. Princeton: Princeton University Press, 1993 (vol. 1, pp. 277–84).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Ashmolean 43</p>",
+      "line_text": "Oxford, Bodleian Library, Ashmolean 43",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, Magdalene College, MS Pepys 2125</p>",
+      "line_text": "Cambridge, Magdalene College, MS Pepys 2125",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Bodley 343</p>",
+      "line_text": "Oxford, Bodleian Library, Bodley 343",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, MS. Eng. poet. a. 1</p>",
+      "line_text": "Oxford, Bodleian Library, MS. Eng. poet. a. 1",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Trinity College, MS 29 (post 1482) ~ six extracts dispersed throughout a world history</p>",
+      "line_text": "Oxford, Trinity College, MS 29 (post 1482) ~ six extracts dispersed throughout a world history",
+      "language": "Middle English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Morris, Richard. <em>Legends of the Holy Rood: Symbols of the Passion and Cross-Poems</em>. London: Early English Text Society, 1881 (text II on pp. 18–47, a poetic adaptation of PPA in rhyming couplets, from Bodleian MS. Eng. poet. a. 1; text III on pp. 62–86 contains most of PPA from the same MS and Ashmolean 43).</p>",
+      "line_text": "Morris, Richard. Legends of the Holy Rood: Symbols of the Passion and Cross-Poems. London: Early English Text Society, 1881 (text II on pp. 18–47, a poetic adaptation of PPA in rhyming couplets, from Bodleian MS. Eng. poet. a. 1; text III on pp. 62–86 contains most of PPA from the same MS and Ashmolean 43).",
+      "language": "Middle English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Napier, Arthur S. <em>History of the Holy Rood-Tree: A Twelfth Century Version of the Cross Legend, with Notes On the Orthography of the Ormulum (with a Facsimile) and a Middle English Compassio Mariae</em>. London: Early English Text Society, 1894 (edition based on Bodley 343).</p>",
+      "line_text": "Napier, Arthur S. History of the Holy Rood-Tree: A Twelfth Century Version of the Cross Legend, with Notes On the Orthography of the Ormulum (with a Facsimile) and a Middle English Compassio Mariae. London: Early English Text Society, 1894 (edition based on Bodley 343).",
+      "language": "Middle English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Taguchi, Mayumi. “The Legend of the Cross before Christ: Another Prose Treatment in English and Anglo-Norman.” <em>Poetica </em>45 (1996): 15–61 (edition based on Pepys 2125).</p>",
+      "line_text": "Taguchi, Mayumi. “The Legend of the Cross before Christ: Another Prose Treatment in English and Anglo-Norman.” Poetica 45 (1996): 15–61 (edition based on Pepys 2125).",
+      "language": "Middle English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 221–222; 227–235 (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 221–222; 227–235 (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 5, fols. 4<sup>r</sup>–6<sup>r</sup>) (ca. 1350)</p>",
+      "line_text": "Aberystywth, National Library of Wales, Peniarth 5, fols. 4r–6r) (ca. 1350)",
+      "language": "Middle Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Aberystywth, National Library of Wales, MS Peniarth 7 (1275) (<a href=\"http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/ms-page.php?ms=Pen7&amp;page=53r&amp;l=c193l1\" target=\"_blank\" rel=\"noopener noreferrer\">transcription</a> at <em>Welsh Prose of the Middle Age’s Project</em>)</p>",
+      "line_text": "Aberystywth, National Library of Wales, MS Peniarth 7 (1275) (transcription at Welsh Prose of the Middle Age’s Project)",
+      "language": "Middle Welsh",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/ms-page.php?ms=Pen7&page=53r&l=c193l1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-14/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 14, pp. 165–180 (ca. 1250–1350)</p>",
+      "line_text": "Aberystywth, National Library of Wales, Peniarth 14, pp. 165–180 (ca. 1250–1350)",
+      "language": "Middle Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-14/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Aberystwyth, National Library of Wales, MS Peniarth 32 (<a href=\"http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/ms-page.php?ms=Pen32&amp;page=239&amp;l=c0l8\" target=\"_blank\" rel=\"noopener noreferrer\">transcription</a> at <em>Welsh Prose of the Middle Age’s Project</em>)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, MS Peniarth 32 (transcription at Welsh Prose of the Middle Age’s Project)",
+      "language": "Middle Welsh",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/ms-page.php?ms=Pen32&page=239&l=c0l8"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Aberystwyth, National Library of Wales, MS Llanstephan 27 (transcription at <em>Welsh Prose of the Middle Age’s Project</em>)</p>",
+      "line_text": "Aberystwyth, National Library of Wales, MS Llanstephan 27 (transcription at Welsh Prose of the Middle Age’s Project)",
+      "language": "Middle Welsh",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/shrewsbury-shrewsbury-school-11/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Shrewsbury, Shrewsbury School, 11, pp. 85–100 (ca. 1375–1425) ~ <a href=\"http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/ms-page.php?ms=Shrewsxi&amp;page=85&amp;l=c0l1\" target=\"_blank\" rel=\"noopener noreferrer\">transcription </a>at <em>Welsh Prose of the Middle Age’s Project</em>)</p>",
+      "line_text": "Shrewsbury, Shrewsbury School, 11, pp. 85–100 (ca. 1375–1425) ~ transcription at Welsh Prose of the Middle Age’s Project)",
+      "language": "Middle Welsh",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/shrewsbury-shrewsbury-school-11/"
+      ],
+      "other_urls": [
+        "http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/ms-page.php?ms=Shrewsxi&page=85&l=c0l1"
+      ]
+    },
+    {
+      "line_html": "<p>Evans, R. Wallis. “Ystorya Adaf a Proffwydoliaeth Sibli Ddoeth.” <em>Bulletin of the Board of Celtic Studies</em> 35 (1988): 29–32.</p>",
+      "line_text": "Evans, R. Wallis. “Ystorya Adaf a Proffwydoliaeth Sibli Ddoeth.” Bulletin of the Board of Celtic Studies 35 (1988): 29–32.",
+      "language": "Middle Welsh",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Rowles, Sarah. “<em>Ystorya Adaf</em>: Gwlog ar un o Ffynonellau Cyfieithwyr y Chwedlau Crefyddol.”<em> Llên Cymru </em>29.1 (2006): 44–60 (includes a transcription of Llanstephan 27).</p>",
+      "line_text": "Rowles, Sarah. “Ystorya Adaf: Gwlog ar un o Ffynonellau Cyfieithwyr y Chwedlau Crefyddol.” Llên Cymru 29.1 (2006): 44–60 (includes a transcription of Llanstephan 27).",
+      "language": "Middle Welsh",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Copenhagen, Arnamagnaean Library, AM 544 4to</p>",
+      "line_text": "Copenhagen, Arnamagnaean Library, AM 544 4to",
+      "language": "Old Norse",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Copenhagen, Arnamagnaean Library, AM 65a 8vo</p>",
+      "line_text": "Copenhagen, Arnamagnaean Library, AM 65a 8vo",
+      "language": "Old Norse",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Overgaard, Mariane. <em>The History of the Cross-Tree Down to Christ’s Passion</em>. Editiones Arnamagnaeanae, Ser. B 26. Copenhagen: Munksgaard, 1968 (editions of both Copenhagen MSS, pp. 1–18).</p>",
+      "line_text": "Overgaard, Mariane. The History of the Cross-Tree Down to Christ’s Passion. Editiones Arnamagnaeanae, Ser. B 26. Copenhagen: Munksgaard, 1968 (editions of both Copenhagen MSS, pp. 1–18).",
+      "language": "Old Norse",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kulik, Alexander, and Sergey Minov. <em>Biblical Pseudepigrapha in Slavonic Traditions</em>. Oxford: Oxford University Press, 2016 (edition of and introduction to the Old Church Slavonic “Tale of the Tree of the Cross,” pp. 104–68).</p>",
+      "line_text": "Kulik, Alexander, and Sergey Minov. Biblical Pseudepigrapha in Slavonic Traditions. Oxford: Oxford University Press, 2016 (edition of and introduction to the Old Church Slavonic “Tale of the Tree of the Cross,” pp. 104–68).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Apocrypha Slavica II (Review of <em>Die handschriftliche Überlieferung der altslavischen Apokryphen,</em> vol. 2 by Aurelio de Santos Otero). <em>Slavonic and East European Review</em> 63 (1985): 73–98 (see pp. 85–87 on Holy Rood material).</p>",
+      "line_text": "Thomson, Francis J. Apocrypha Slavica II (Review of Die handschriftliche Überlieferung der altslavischen Apokryphen, vol. 2 by Aurelio de Santos Otero). Slavonic and East European Review 63 (1985): 73–98 (see pp. 85–87 on Holy Rood material).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Hopkins, Stephen C. E., ed. and trans. “The Legend of the Holy Rood Tree.” Pages 145–59 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke. Grand Rapids, MI: Eerdmans, 2020 (translation based on Meyer’s edition from <em>PPA</em>).</p>",
+      "line_text": "Hopkins, Stephen C. E., ed. and trans. “The Legend of the Holy Rood Tree.” Pages 145–59 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke. Grand Rapids, MI: Eerdmans, 2020 (translation based on Meyer’s edition from PPA).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"http://archive.org/details/historyholyrood01librgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Napier, Arthur S. <em>History of the Holy Rood-tree</em>. EETS, Old Series 103. London: Oxford University Press, 1894 (p. 69).</p>",
+      "line_text": "Napier, Arthur S. History of the Holy Rood-tree. EETS, Old Series 103. London: Oxford University Press, 1894 (p. 69).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://archive.org/details/historyholyrood01librgoog"
+      ]
+    },
+    {
+      "line_html": "<p>Baert, Barbara. “Revisiting Seth in the Legend of the Wood of the Cross: Interdisciplinary Perspectives between Text and Image.” Pages 132–69 in <em>The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone</em>. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018.</p>",
+      "line_text": "Baert, Barbara. “Revisiting Seth in the Legend of the Wood of the Cross: Interdisciplinary Perspectives between Text and Image.” Pages 132–69 in The Embroidered Bible: Studies in Biblical Apocrypha and Pseudepigrapha in Honour of Michael E. Stone. Edited by Lorenzo DiTommaso, Matthias Henze, and William Adler. Leiden: Brill, 2018.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Borgehammar, Stephan. <em>How the Holy Cross Was Found: From Event to Medieval Legend with an Appendix of Texts</em>. Stockholm: Almqvist &amp; Wiksell International, 1991.</p>",
+      "line_text": "Borgehammar, Stephan. How the Holy Cross Was Found: From Event to Medieval Legend with an Appendix of Texts. Stockholm: Almqvist &amp; Wiksell International, 1991.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burke, Tony and Slavomir Céplö. “The Legend of the Thirty Pieces of Silver.” Pages 393–308 in vol. 1 of <em>New Testament Apocrypha: More Noncanonical Scriptures.</em> Grand Rapids, MI: Eerdmans, 2016 (see p. 297 for discussion of Greek, Amharic, and Arabic versions of the Rood Tree legend).</p>",
+      "line_text": "Burke, Tony and Slavomir Céplö. “The Legend of the Thirty Pieces of Silver.” Pages 393–308 in vol. 1 of New Testament Apocrypha: More Noncanonical Scriptures. Grand Rapids, MI: Eerdmans, 2016 (see p. 297 for discussion of Greek, Amharic, and Arabic versions of the Rood Tree legend).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Caerwyn Williams J.E. “Medieval Welsh Religious Prose.” Pages 63–97 in <em>Proceedings of the Second International Congress of Celtic Studies, Held in Cardiff 6-13 July, 1963</em>. Cardiff: University of Wales Press, 1966.</p>",
+      "line_text": "Caerwyn Williams J.E. “Medieval Welsh Religious Prose.” Pages 63–97 in Proceedings of the Second International Congress of Celtic Studies, Held in Cardiff 6-13 July, 1963. Cardiff: University of Wales Press, 1966.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Fallon, Nicole. “The Cross as Tree: The Wood-of-the-Cross Legends in Middle English and Latin Texts in Medieval England.” Ph.D. diss., University of Toronto, 2009.</p>",
+      "line_text": "Fallon, Nicole. “The Cross as Tree: The Wood-of-the-Cross Legends in Middle English and Latin Texts in Medieval England.” Ph.D. diss., University of Toronto, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Furchtgott, Deborah. “<em>Ystoria Adaf ac Efa y Wreic</em> and the Place of Apocrypha in the White Book of Rhydderch.” <em>Proceedings of the Harvard Celtic Colloquium </em>31 (2011): 106–16.</p>",
+      "line_text": "Furchtgott, Deborah. “Ystoria Adaf ac Efa y Wreic and the Place of Apocrypha in the White Book of Rhydderch.” Proceedings of the Harvard Celtic Colloquium 31 (2011): 106–16.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gillhammer, Cosima. “The Holy Cross Legend: A Unique Version in Oxford, Trinity College, MS 29.” <em>Medium</em> <em>Ævum </em>88.1 (2019): 52–79.</p>",
+      "line_text": "Gillhammer, Cosima. “The Holy Cross Legend: A Unique Version in Oxford, Trinity College, MS 29.” Medium Ævum 88.1 (2019): 52–79.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gwynn Jones, Thomas. “Ystorya Addaf a Val a cauas Elen y Grog: tarddiad, cynnwys, ac y Testunau Cymraeg a’u lledaeniad.” MA thesis, University of Wales, Aberstwyth, 1936.</p>",
+      "line_text": "Gwynn Jones, Thomas. “Ystorya Addaf a Val a cauas Elen y Grog: tarddiad, cynnwys, ac y Testunau Cymraeg a’u lledaeniad.” MA thesis, University of Wales, Aberstwyth, 1936.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Haycock, Marged. “‘Sy abl ffod, Sbli fain’: Sibyl in Medieval Wales.” in <em>Heroic Poets and Poetic Heroes in Celtic Tradition: a Festschrift for Patrick K. Ford/CSANA Yearbook </em>3-4 (2005): 115–30.</p>",
+      "line_text": "Haycock, Marged. “‘Sy abl ffod, Sbli fain’: Sibyl in Medieval Wales.” in Heroic Poets and Poetic Heroes in Celtic Tradition: a Festschrift for Patrick K. Ford/CSANA Yearbook 3-4 (2005): 115–30.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hill, Thomas D. “The Conversion of Sibilla in the ‘History of the Holy Rood Tree’.” <em>Studies in Philology</em> 105 (2008): 123–43.</p>",
+      "line_text": "Hill, Thomas D. “The Conversion of Sibilla in the ‘History of the Holy Rood Tree’.” Studies in Philology 105 (2008): 123–43.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hopkins, Stephen C. E. “A New Revelation: the Middle Welsh <em>Erythraean Sibyl</em>.” <em>North American Journal of Celtic Studies</em> 5 (2021): 30–48.</p>",
+      "line_text": "Hopkins, Stephen C. E. “A New Revelation: the Middle Welsh Erythraean Sibyl.” North American Journal of Celtic Studies 5 (2021): 30–48.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Heaven and Hell in the Garden of Eden: the Transmissions of the <em>Ystoria Adda </em>in Wales.” <em>Proceedings of the Harvard Celtic Colloquium </em>37 (2017): 105–23.</p>",
+      "line_text": "__________. “Heaven and Hell in the Garden of Eden: the Transmissions of the Ystoria Adda in Wales.” Proceedings of the Harvard Celtic Colloquium 37 (2017): 105–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ker, N. R. “An Eleventh-Century Old English Legend of the Cross before Christ.” <em>Medium Aevum </em>9 (1940): 84–85.</p>",
+      "line_text": "Ker, N. R. “An Eleventh-Century Old English Legend of the Cross before Christ.” Medium Aevum 9 (1940): 84–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klein, Holger A. Byzanz. <em>Der Westen Und Das ‘wahre’ Kreuz: Die Geschichte Einer Reliquie Und Ihrer Künstlerischen Fassung In Byzanz Und Im Abendland</em>. Wiesbaden: Reichert, 2004.</p>",
+      "line_text": "Klein, Holger A. Byzanz. Der Westen Und Das ‘wahre’ Kreuz: Die Geschichte Einer Reliquie Und Ihrer Künstlerischen Fassung In Byzanz Und Im Abendland. Wiesbaden: Reichert, 2004.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lazar, Moshe. “La Légende de ‘l’Arbre de Paradis’ ou ‘Bois de la Crois,’ Poème Anglo-Normand du XIIe Siecle et sa Source Latine, d’Après le Ms. 66, Corpus Christi College Cambridge.” <em>Zeitschrift für Romanische Philologie </em>76 (1960): 34–63.</p>",
+      "line_text": "Lazar, Moshe. “La Légende de ‘l’Arbre de Paradis’ ou ‘Bois de la Crois,’ Poème Anglo-Normand du XIIe Siecle et sa Source Latine, d’Après le Ms. 66, Corpus Christi College Cambridge.” Zeitschrift für Romanische Philologie 76 (1960): 34–63.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Miller, A. Robert. “Fünf deutsche Prosafassungen der Kreuzholzlegende ‘Post Peccatum Adae’.” Pages 289–342 in vol. 1 of <em>Metamorphosen der Bibel: Beiträge zur Tagung ‘Wirkungsgeschichte der Bibel im deutschsprachigen Mittelalter’ vom 4. bis 6. September 2000 in der Bibliothek des Bischöflichen Priesterseminars Trier</em>. Edited by Michael Embach and Michael Trauth. 2 vols. Vestigia Bibliae 24–25. New York: Peter Lang, 2002–2003.</p>",
+      "line_text": "Miller, A. Robert. “Fünf deutsche Prosafassungen der Kreuzholzlegende ‘Post Peccatum Adae’.” Pages 289–342 in vol. 1 of Metamorphosen der Bibel: Beiträge zur Tagung ‘Wirkungsgeschichte der Bibel im deutschsprachigen Mittelalter’ vom 4. bis 6. September 2000 in der Bibliothek des Bischöflichen Priesterseminars Trier. Edited by Michael Embach and Michael Trauth. 2 vols. Vestigia Bibliae 24–25. New York: Peter Lang, 2002–2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “German and Dutch Versions of the Legend of the Wood of the Cross.” 2 vols. PhD diss., Oxford University, 1992.</p>",
+      "line_text": "__________. “German and Dutch Versions of the Legend of the Wood of the Cross.” 2 vols. PhD diss., Oxford University, 1992.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Morris, Richard. <em>Legends of the Holy Rood; Symbols of the Passion and Cross-Poems. In Old English of the Eleventh, Fourteenth, and Fifteenth Centuries</em>. EETS, Old Series 46. London: Early English Text Society, 1871.</p>",
+      "line_text": "Morris, Richard. Legends of the Holy Rood; Symbols of the Passion and Cross-Poems. In Old English of the Eleventh, Fourteenth, and Fifteenth Centuries. EETS, Old Series 46. London: Early English Text Society, 1871.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mozley, J. R. “A New Text of the Story of the Cross.” <em>JTS </em>31 (1930): 113–27.</p>",
+      "line_text": "Mozley, J. R. “A New Text of the Story of the Cross.” JTS 31 (1930): 113–27.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Murdoch, Brian. <em>The Apocryphal Adam and Eve in Medieval Europe: Vernacular Translations and Adaptations of the Vita Adae et Evae</em>. Oxford: Oxford University Press, 2009.</p>",
+      "line_text": "Murdoch, Brian. The Apocryphal Adam and Eve in Medieval Europe: Vernacular Translations and Adaptations of the Vita Adae et Evae. Oxford: Oxford University Press, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mussafia, Adolfo. “Sulla leggenda del legno della Croce.” <em>Sitzungsberichte der philosophisch-historischen Classe der Kaiserlich Akademie der Wissenschaften </em>63 (1869): 165–216.</p>",
+      "line_text": "Mussafia, Adolfo. “Sulla leggenda del legno della Croce.” Sitzungsberichte der philosophisch-historischen Classe der Kaiserlich Akademie der Wissenschaften 63 (1869): 165–216.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pettorelli, J. P. “La Vie latine d’Adam et Eve. Analyse de la Tradition manuscrit.” <em>Apocrypha </em>10 (1999): 195–296.</p>",
+      "line_text": "Pettorelli, J. P. “La Vie latine d’Adam et Eve. Analyse de la Tradition manuscrit.” Apocrypha 10 (1999): 195–296.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Prangsma-Hajenius, Angelique M.L. <em>La Légende du Bois de la Croix dans la littérature française médiévale</em>. Assen, Pays-Bas: Van Gorcum, 1995.</p>",
+      "line_text": "Prangsma-Hajenius, Angelique M.L. La Légende du Bois de la Croix dans la littérature française médiévale. Assen, Pays-Bas: Van Gorcum, 1995.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Quinn, Esther Casier. <em>The Quest of Seth for the Oil of Life</em>. Chicago: University of Chicago Press, 1962.</p>",
+      "line_text": "Quinn, Esther Casier. The Quest of Seth for the Oil of Life. Chicago: University of Chicago Press, 1962.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rowles, Sarah. “<em>Ystorya Adaf</em>: Gwlog ar un o Ffynonellau Cyfieithwyr y Chwedlau Crefyddol.”<em> Llên Cymru </em>29.1 (2006): 44–60.</p>",
+      "line_text": "Rowles, Sarah. “Ystorya Adaf: Gwlog ar un o Ffynonellau Cyfieithwyr y Chwedlau Crefyddol.” Llên Cymru 29.1 (2006): 44–60.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sajavaara, Kari. “The Withered Footprints on the Green Street of Paradise.” <em>Neuphilologische Mitteilungen </em>76 (1975): 34–38.</p>",
+      "line_text": "Sajavaara, Kari. “The Withered Footprints on the Green Street of Paradise.” Neuphilologische Mitteilungen 76 (1975): 34–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wade, Erik. “‘As Black as They Were Before’: The History of Skin Colour and the History of the Holy Rood-Tree.” <em>Early Middle English </em>4.1 (2022): 51–83.</p>",
+      "line_text": "Wade, Erik. “‘As Black as They Were Before’: The History of Skin Colour and the History of the Holy Rood-Tree.” Early Middle English 4.1 (2022): 51–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Weever, Jacqueline de. <em>Sheba’s Daughters: Whitening and Demonizing the Saracen Woman in Medieval French Epic</em>. New York: Routledge, 1998.</p>",
+      "line_text": "Weever, Jacqueline de. Sheba’s Daughters: Whitening and Demonizing the Saracen Woman in Medieval French Epic. New York: Routledge, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

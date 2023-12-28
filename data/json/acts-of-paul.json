@@ -1,0 +1,2292 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul/",
+  "nasscal_toc_title": "Acts of Paul",
+  "filename": "acts-of-paul",
+  "latin_title": "Acta Pauli",
+  "abbrev": "Acts Paul",
+  "clavis_number": 779,
+  "category": "Apocryphal Acts",
+  "compiler": "Jenna Whalley, Boston College",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/?page_id=6833&amp;preview=true\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cologny, Bodmer Library, P. Bodmer XLI  (4th cent.) ~ ep. 9</p>",
+      "line_text": "Cologny, Bodmer Library, P. Bodmer XLI  (4th cent.) ~ ep. 9",
+      "language": ".1 Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.nasscal.com/?page_id=6833&preview=true"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301-london-british-library-or-694319/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Heidelberg, Universität Heidelberg, inv. Kopt. 300+301 + London, British Library, Or. 6943(19)  (6th cent.)</p>",
+      "line_text": "Heidelberg, Universität Heidelberg, inv. Kopt. 300+301 + London, British Library, Or. 6943(19)  (6th cent.)",
+      "language": ".1 Coptic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301-london-british-library-or-694319/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Manchester, John Rylands Library, Copt. Suppl. 44 (4th cent.) ~ ep. 1; <a href=\"https://atlas.paths-erc.eu/manuscripts/868\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry</p>",
+      "line_text": "Manchester, John Rylands Library, Copt. Suppl. 44 (4th cent.) ~ ep. 1; PAThs entry",
+      "language": ".1 Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/868"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bulletinofjohnry5519unse/page/500/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Crum, Walter E. “New Coptic Manuscripts in the John Rylands Library.” <em>Bulletin of the John Rylands Library</em> 5.5 (1920): 497–503 (notice only, p. 501).</p>",
+      "line_text": "Crum, Walter E. “New Coptic Manuscripts in the John Rylands Library.” Bulletin of the John Rylands Library 5.5 (1920): 497–503 (notice only, p. 501).",
+      "language": ".1 Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bulletinofjohnry5519unse/page/500/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe. “Acta Pauli 1959.” <em>Revue d’histoire et de philosophie religieuses</em> 40 (1959): 45–57 (description of P. Bod. XLI).</p>",
+      "line_text": "Kasser, Rodolphe. “Acta Pauli 1959.” Revue d’histoire et de philosophie religieuses 40 (1959): 45–57 (description of P. Bod. XLI).",
+      "language": ".1 Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kasser, Rodolphe and Philippe Luisier, eds. “Le Papyrus Bodmer XLI en Édition Princeps l’Épisode d’Èphèse des Acta Pauli en Copte et en Traduction.” <em>Mus</em> 117 (2004): 281–384 (paleographical details provided pp. 283–88; black and white photographs, pp. 371–84).</p>",
+      "line_text": "Kasser, Rodolphe and Philippe Luisier, eds. “Le Papyrus Bodmer XLI en Édition Princeps l’Épisode d’Èphèse des Acta Pauli en Copte et en Traduction.” Mus 117 (2004): 281–384 (paleographical details provided pp. 283–88; black and white photographs, pp. 371–84).",
+      "language": ".1 Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actapauliausder00papygoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schmidt, Carl. <em>Acta Pauli aus der Heidelberger koptischen Papyrus-handschrift Nr</em>.<em> 1</em>. 1904. 2nd enlarged ed. Leipzig: J. C. Hinrichs, 1905 (edition of Heid. inv. Kopt. 300+301).</p>",
+      "line_text": "Schmidt, Carl. Acta Pauli aus der Heidelberger koptischen Papyrus-handschrift Nr. 1. 1904. 2nd enlarged ed. Leipzig: J. C. Hinrichs, 1905 (edition of Heid. inv. Kopt. 300+301).",
+      "language": ".1 Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actapauliausder00papygoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sitzungsberichte1909deutsch/page/216/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a><em>———. </em>“Ein Neues Fragment der Heidelberger Acta Pauli.” <em>Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin </em>(Berlin, 1909): 216–20 (edition and translation of an additional leaf from Heid. inv. Kpt. 300+301 at the British Library).</p>",
+      "line_text": "———. “Ein Neues Fragment der Heidelberger Acta Pauli.” Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin (Berlin, 1909): 216–20 (edition and translation of an additional leaf from Heid. inv. Kpt. 300+301 at the British Library).",
+      "language": ".1 Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sitzungsberichte1909deutsch/page/216/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/hamburg-staats-und-universitatsbibliothek-pap-bil-1/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Hamburg, Staats- und Universitätsbibliothek, Pap. bil. 1, pp. 1–11 (3rd/4th cent.)</p>",
+      "line_text": "Hamburg, Staats- und Universitätsbibliothek, Pap. bil. 1, pp. 1–11 (3rd/4th cent.)",
+      "language": ".2 Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/hamburg-staats-und-universitatsbibliothek-pap-bil-1/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ghent-bibliotheek-van-de-rijksuniversiteit-inv-62-p-oxy-iii-1602/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ghent, Bibliotheek van de Rijksuniversiteit, inv. 62 (P. Oxy. III 1602), 1 fol. (4th/5th cent.)</p>",
+      "line_text": "Ghent, Bibliotheek van de Rijksuniversiteit, inv. 62 (P. Oxy. III 1602), 1 fol. (4th/5th cent.)",
+      "language": ".2 Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ghent-bibliotheek-van-de-rijksuniversiteit-inv-62-p-oxy-iii-1602/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-agyptisches-museum-and-papyrussammlung-staatliche-museen-p-13893-ann-arbor-university-of-michigan-library-p-mich-inv-1317-p-mich-inv-3788/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Berlin, Ägyptisches Museum and Papyrussammlung, Staatliche Museen, P. 13893 + Ann Arbor, University of Michigan Library, P. Mich. inv. 1317 + P. Mich. inv. 3788 (3rd/4th cent.)</p>",
+      "line_text": "Berlin, Ägyptisches Museum and Papyrussammlung, Staatliche Museen, P. 13893 + Ann Arbor, University of Michigan Library, P. Mich. inv. 1317 + P. Mich. inv. 3788 (3rd/4th cent.)",
+      "language": ".2 Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/berlin-agyptisches-museum-and-papyrussammlung-staatliche-museen-p-13893-ann-arbor-university-of-michigan-library-p-mich-inv-1317-p-mich-inv-3788/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-p-yale-87-p-ctybr-1376/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New Haven, Beinecke Rare Book and Manuscript Library, P. Yale 87/P.CtYBR 1376 (4th/5th cent.)</p>",
+      "line_text": "New Haven, Beinecke Rare Book and Manuscript Library, P. Yale 87/P.CtYBR 1376 (4th/5th cent.)",
+      "language": ".2 Greek",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-p-yale-87-p-ctybr-1376/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/oxyrhynchuspapyr13gren/page/22/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Grenfell, Bernard P., and Hunt, Arthur S. <em>Oxyrhynchus Papyri XIII</em>. London: Egypt Exploration Society, 1919 (edition of P. Oxy. III 1602, here identified as “Homily to Monks,” pp. 23–25).</p>",
+      "line_text": "Grenfell, Bernard P., and Hunt, Arthur S. Oxyrhynchus Papyri XIII. London: Egypt Exploration Society, 1919 (edition of P. Oxy. III 1602, here identified as “Homily to Monks,” pp. 23–25).",
+      "language": ".2 Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/oxyrhynchuspapyr13gren/page/22/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Kilpatrick, G. D., and Roberts, C. H. “The Acta Pauli: A New Fragment.” <em>JTS</em> 47 (1946): 196–99 (discussion of P. Mich. 3788).</p>",
+      "line_text": "Kilpatrick, G. D., and Roberts, C. H. “The Acta Pauli: A New Fragment.” JTS 47 (1946): 196–99 (discussion of P. Mich. 3788).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>McHardy, W. D. “A Papyrus Fragment of the Acta Pauli.” <em>ExpT</em> 58 (1946–1947): 279 (discussion of P. Mich. 3788).</p>",
+      "line_text": "McHardy, W. D. “A Papyrus Fragment of the Acta Pauli.” ExpT 58 (1946–1947): 279 (discussion of P. Mich. 3788).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Roberts, Colin H. “A Fragment of an Uncanonical Gospel.” <em>JTS </em>47 (1946): 56–57 (discussion of P. Mich. 3788).</p>",
+      "line_text": "Roberts, Colin H. “A Fragment of an Uncanonical Gospel.” JTS 47 (1946): 56–57 (discussion of P. Mich. 3788).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy. “Les Actes de Paul sur papyrus: problèmes liés aux PMich 1317 et 3788.” Pages 453–61 in Basil G. Mandilaras, ed., <em>Proceedings of the XVIII International Congress of Papyrology. Athens 25–31 May 1986</em>. Athens: Greek Papyrological Society, 1988.</p>",
+      "line_text": "Rordorf, Willy. “Les Actes de Paul sur papyrus: problèmes liés aux PMich 1317 et 3788.” Pages 453–61 in Basil G. Mandilaras, ed., Proceedings of the XVIII International Congress of Papyrology. Athens 25–31 May 1986. Athens: Greek Papyrological Society, 1988.",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Sanders, Henry A. “A Fragment of the <em>Acta Pauli</em> in the Michigan Collection.” <em>HTR</em> 31 (1938): 70–90 (<em>editio princeps</em> of P. Mich. inv. 1317).</p>",
+      "line_text": "Sanders, Henry A. “A Fragment of the Acta Pauli in the Michigan Collection.” HTR 31 (1938): 70–90 (editio princeps of P. Mich. inv. 1317).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Three Theological Fragments.” <em>HTR</em> 36 (1943): 165–67 (<em>editio princeps</em> of P. Mich. inv. 3788).</p>",
+      "line_text": "———.  “Three Theological Fragments.” HTR 36 (1943): 165–67 (editio princeps of P. Mich. inv. 3788).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. “Ein Berliner Fragment de alten Πράξεις Παύλου.” <em>SPAW </em>(1931): 37–40 (<em>editio princeps</em> of P. Berol. 13893).</p>",
+      "line_text": "Schmidt, Carl. “Ein Berliner Fragment de alten Πράξεις Παύλου.” SPAW (1931): 37–40 (editio princeps of P. Berol. 13893).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl, and Wilhelm Schubart. <em>ΠΡΑΞΕΙΣ ΠΑΥΛOΥ</em>. <em>Acta Pauli nach dem Papyrus der Hamburger staats- und Universitäts-bibliothek unter Mitarbeit von Wilhelm Schubart</em>. Hamburg: J. J. Augustin, 1936 (<em>editio princeps</em> of Hamb. Pap. bil. 1).</p>",
+      "line_text": "Schmidt, Carl, and Wilhelm Schubart. ΠΡΑΞΕΙΣ ΠΑΥΛOΥ. Acta Pauli nach dem Papyrus der Hamburger staats- und Universitäts-bibliothek unter Mitarbeit von Wilhelm Schubart. Hamburg: J. J. Augustin, 1936 (editio princeps of Hamb. Pap. bil. 1).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/yale-papyri-in-the-beinecke-rare-book-and-manuscript-library-v.-ii/page/n43/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Stephens, Susan A. <em>Papyri from the Beinecke Rare Book and Manuscript Library at Yale II</em>. American Studies in Papyrology 24. Chico: Scholars Press, 1985 (<em>editio princeps</em> of P.CtYBR 1376, pp. 3–7).</p>",
+      "line_text": "Stephens, Susan A. Papyri from the Beinecke Rare Book and Manuscript Library at Yale II. American Studies in Papyrology 24. Chico: Scholars Press, 1985 (editio princeps of P.CtYBR 1376, pp. 3–7).",
+      "language": ".2 Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/yale-papyri-in-the-beinecke-rare-book-and-manuscript-library-v.-ii/page/n43/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Wayment, Thomas A. <em>The Text of the New Testament Apocrypha (100–400 CE)</em>. New York: T&amp;T Clark, 2013 (new transcriptions and editions of each manuscript, pp. 17–34, pl. 223–242).</p>",
+      "line_text": "Wayment, Thomas A. The Text of the New Testament Apocrypha (100–400 CE). New York: T&amp;T Clark, 2013 (new transcriptions and editions of each manuscript, pp. 17–34, pl. 223–242).",
+      "language": ".2 Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-1426/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 1426 (1855)  ~ contents unconfirmed</p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 1426 (1855)  ~ contents unconfirmed",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-1426/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-graf-472/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Graf 472 (18th  cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Graf 472 (18th  cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-graf-472/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-1/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 1 (13th/14th  cent.)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 1 (13th/14th  cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-1/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-3/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Cairo, Coptic Catholic Patriarchate Library, Hist. 3 (1626)</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 3 (1626)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-catholic-patriarchate-library-hist-3/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Catholic Patriarchate Library, Hist. 6 (not dated) ~ contents unconfirmed</p>",
+      "line_text": "Cairo, Coptic Catholic Patriarchate Library, Hist. 6 (not dated) ~ contents unconfirmed",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-59/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 59, fols. 178<sup>r</sup>–182<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, 59, fols. 178r–182r (19th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-59/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-60/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 60, fols. 78<sup>v</sup>–86<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Cairo, Coptic Museum, 60, fols. 78v–86v (19th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-60/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/florence-biblioteca-nazionale-centrale-di-firenze-magl-iii-29/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Florence, Biblioteca Nazionale Centrale di Firenze, Magl. III 29, fols. 23<sup>r</sup>–26<sup>r</sup> (ante 1664)</p>",
+      "line_text": "Florence, Biblioteca Nazionale Centrale di Firenze, Magl. III 29, fols. 23r–26r (ante 1664)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/florence-biblioteca-nazionale-centrale-di-firenze-magl-iii-29/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/leipzig-universitatsbibliothek-or-1067/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Leipzig, Universitätsbibliothek, Or. 1067 (Tischendorf 32) (15th cent.)</p>",
+      "line_text": "Leipzig, Universitätsbibliothek, Or. 1067 (Tischendorf 32) (15th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/leipzig-universitatsbibliothek-or-1067/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 461 (10th cent.) ~ unconfirmed (<a href=\"https://www.loc.gov/item/00279391147-ms/\" target=\"_blank\" rel=\"noopener noreferrer\">LOC</a>)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, arab. 461 (10th cent.) ~ unconfirmed (LOC)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.loc.gov/item/00279391147-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-bodl-ar-541/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Oxford, Bodleian Library, Bodl. Ar. 541 (Nicoll 49), fols. 9<sup>r</sup>–ending lost) (18th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Bodl. Ar. 541 (Nicoll 49), fols. 9r–ending lost) (18th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-bodl-ar-541/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-74/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Paris, Bibliothèque nationale de France, Arabe 74, fols. 20<sup>r</sup>–25<sup>r </sup>(13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 74, fols. 20r–25r (13th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-74/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-75/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Paris, Bibliothèque nationale de France, Arabe 75, fols. 25<sup>r</sup>–30<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 75, fols. 25r–30v (16th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-75/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4770/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Arabe 4770, fols. 33<sup>r</sup>–40<sup>v</sup> (19th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 4770, fols. 33r–40v (19th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4770/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4771/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Paris, Bibliothèque nationale de France, Arabe 4771, fols. 182<sup>v</sup>–189<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arabe 4771, fols. 182v–189r (19th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-4771/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-ar-223/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 223 (1729)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 223 (1729)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-ar-223/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-500/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Sbath 500, fols. 21<sup>v</sup>–28<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 500, fols. 21v–28r (15th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-500/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-694/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 694, fols. 11<sup>v</sup>–18<sup>r</sup> (14th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 694, fols. 11v–18r (14th cent.)",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-ar-694/"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “Alcune osservazioni sul <em>Gadla ḥawāryāt</em>.” <em>Annali dell’Istituto Orientale di Napoli</em> 60–61 (2001–2002): 77–114 (list of 31 Arabic manuscripts of the Arabic acts collection, pp. 97–101).</p>",
+      "line_text": "Bausi, Alessandro. “Alcune osservazioni sul Gadla ḥawāryāt.” Annali dell’Istituto Orientale di Napoli 60–61 (2001–2002): 77–114 (list of 31 Arabic manuscripts of the Arabic acts collection, pp. 97–101).",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actamythologica00guidgoog/page/n60/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith, ed. <em>Acta Mythologica Apostolorum, Transcribed from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine, on Mount Sinai</em>. Horae Semiticae 3. London: C.J. Clay and Sons, 1904 (Arabic text based on Vat. ar. 694, pp. 184–89).</p>",
+      "line_text": "Lewis, Agnes Smith, ed. Acta Mythologica Apostolorum, Transcribed from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine, on Mount Sinai. Horae Semiticae 3. London: C.J. Clay and Sons, 1904 (Arabic text based on Vat. ar. 694, pp. 184–89).",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actamythologica00guidgoog/page/n60/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n303/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1, pp. 258–62).</p>",
+      "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts listed, vol. 1, pp. 258–62).",
+      "language": ".1.1 Arabic Script",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/GGrafGeschichte/graf_gcal.1#page/n303/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-40/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Edgbaston, University of Birmingham, Mingana Syr. 40, fols. 36<sup>r</sup>–42<sup>r</sup> (ca. 1750)</p>",
+      "line_text": "Edgbaston, University of Birmingham, Mingana Syr. 40, fols. 36r–42r (ca. 1750)",
+      "language": ".1.2 Garšūnī",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-40/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 232, fols. 217<sup>r</sup>–220<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, syr. 232, fols. 217r–220v (17th cent.)",
+      "language": ".1.2 Garšūnī",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-124/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Vatican, Biblioteca Apostolica Vaticana, Sbath 124, fols. 15<sup>v</sup>–21<sup>r</sup>  (16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 124, fols. 15v–21r  (16th cent.)",
+      "language": ".1.2 Garšūnī",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-124/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 228 (olim 653), item 152 (1847)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 228 (olim 653), item 152 (1847)",
+      "language": ".2 Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n81/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition based on V 653, pp. 57–61).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (edition based on V 653, pp. 57–61).",
+      "language": ".2 Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n81/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. “Martyre de Paul.” Pages 77–86 in <em>Écrits Apocryphes sur les apôtres: Traduction de l’édition Arménienne de Venise. I. Pierre, Paul, André, Jacques, Jean.</em> Turnhout: Brepols, 1986 (French translation of Tchérakian’s edition; additional manuscripts listed pp. xxi–xxiv).</p>",
+      "line_text": "Leloir, Louis. “Martyre de Paul.” Pages 77–86 in Écrits Apocryphes sur les apôtres: Traduction de l’édition Arménienne de Venise. I. Pierre, Paul, André, Jacques, Jean. Turnhout: Brepols, 1986 (French translation of Tchérakian’s edition; additional manuscripts listed pp. xxi–xxiv).",
+      "language": ".2 Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, V. M. Undolĭskij 1296, fols. 239<sup>r</sup>–249<sup>v</sup> (15th/16th cent.) (=de Santos Otero 21)</p>",
+      "line_text": "Moscow, Russian State Library, V. M. Undolĭskij 1296, fols. 239r–249v (15th/16th cent.) (=de Santos Otero 21)",
+      "language": ".3 Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>A Greek retrotranslation was provided by Sergius Sokoloff to Lipsius and Bonnet for their edition of the Martyrdom (see Lipsius-Bonnet p. liv).</p>",
+      "line_text": "A Greek retrotranslation was provided by Sergius Sokoloff to Lipsius and Bonnet for their edition of the Martyrdom (see Lipsius-Bonnet p. liv).",
+      "language": ".3 Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/clm-1998/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>CLM 1998, pp. 105–108 (ca. 10th cent.)</p>",
+      "line_text": "CLM 1998, pp. 105–108 (ca. 10th cent.)",
+      "language": ".4.1",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/clm-1998/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-by/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.BY, pp. [19]–[20] (ca. 10th cent.)</p>",
+      "line_text": "MONB.BY, pp. [19]–[20] (ca. 10th cent.)",
+      "language": ".4.1",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-by/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-mq/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.MQ, p. 18 (ca. 10th cent.)</p>",
+      "line_text": "MONB.MQ, p. 18 (ca. 10th cent.)",
+      "language": ".4.1",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-mq/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-mr/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.MR, pp. [?]–[?] (ca. 10th cent.)</p>",
+      "line_text": "MONB.MR, pp. [?]–[?] (ca. 10th cent.)",
+      "language": ".4.1",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-mr/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Puškin Museum, GMII I. 1. b. 686, fols. 12<sup>v</sup>–18<sup>v</sup> (5th cent.) (<a href=\"https://atlas.paths-erc.eu/manuscripts/3505\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry)</p>",
+      "line_text": "Moscow, Puškin Museum, GMII I. 1. b. 686, fols. 12v–18v (5th cent.) (PAThs entry)",
+      "language": ".4.1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/3505"
+      ]
+    },
+    {
+      "line_html": "<p>Elanskaya, A. I. “<em>Passio Pauli</em> in the Coptic Ms. GMII I.Ib.686.” Pages 19–37 in <em>Mélanges Antoine Guillaumont: contributions à l’étude des christianismes orientaux: avec une bibliographie du dédicataire.</em> Cahiers d’orientalisme 20. Genève: Patrick Cramer, 1988.</p>",
+      "line_text": "Elanskaya, A. I. “Passio Pauli in the Coptic Ms. GMII I.Ib.686.” Pages 19–37 in Mélanges Antoine Guillaumont: contributions à l’étude des christianismes orientaux: avec une bibliographie du dédicataire. Cahiers d’orientalisme 20. Genève: Patrick Cramer, 1988.",
+      "language": ".4.1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"http://www.orientalstudies.ru/rus/images/pdf/journals/Melanges_Asiatiques_10_1890_05_lemm.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lemm, Oscar von. “Koptische apokryphe Apostelacten II.” <em>Mélanges Asiatiques</em> 10.2 (1892): 293–385 (edition of the Moscow manuscript with german translation, pp. 354–75, with discussion, pp. 375–81; includes two plates).</p>",
+      "line_text": "Lemm, Oscar von. “Koptische apokryphe Apostelacten II.” Mélanges Asiatiques 10.2 (1892): 293–385 (edition of the Moscow manuscript with german translation, pp. 354–75, with discussion, pp. 375–81; includes two plates).",
+      "language": ".4.1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.orientalstudies.ru/rus/images/pdf/journals/Melanges_Asiatiques_10_1890_05_lemm.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>The Copto-Arabic Synaxarion includes some details of the story for June 29 (5 Abīb).</p>",
+      "line_text": "The Copto-Arabic Synaxarion includes some details of the story for June 29 (5 Abīb).",
+      "language": ".4.2 Copto-Arabic Synaxarion",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient17pariuoft/page/622/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Basset, René. “Le Synaxaire arabe jacobite (rédaction copte) V: les mois de Baounah, Abib, Mésoré et jours complémentaires.” <em>Patrologia orientalis</em> 17 (1923): 525–782 (edition and translation of the summary of the text in the Copto-Arabic Synaxarion, pp. 622–25).</p>",
+      "line_text": "Basset, René. “Le Synaxaire arabe jacobite (rédaction copte) V: les mois de Baounah, Abib, Mésoré et jours complémentaires.” Patrologia orientalis 17 (1923): 525–782 (edition and translation of the summary of the text in the Copto-Arabic Synaxarion, pp. 622–25).",
+      "language": ".4.2 Copto-Arabic Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient17pariuoft/page/622/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 678, fols. 14<sup>r</sup>–16<sup>r</sup> (15th cent.) ~ vv. 4–7 interpolated into the Martyrdom of Peter</p>",
+      "line_text": "London, British Library, Or. 678, fols. 14r–16r (15th cent.) ~ vv. 4–7 interpolated into the Martyrdom of Peter",
+      "language": ".5 Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-685/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>London, British Library, Or. 685, fols. 16<sup>v</sup>–19<sup>r</sup> (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 685, fols. 16v–19r (18th cent.)",
+      "language": ".5 Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-685/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-university-library-eth-6/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Manchester, John Rylands University Library, Eth. 6, fols. 7<sup>r</sup>–10<sup>r</sup> (19th cent.)</p>",
+      "line_text": "Manchester, John Rylands University Library, Eth. 6, fols. 7r–10r (19th cent.)",
+      "language": ".5 Ethiopic",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-university-library-eth-6/"
+      ]
+    },
+    {
+      "line_html": "<p>Bausi, Alessandro. “Alcune osservazioni sul <em>Gadla ḥawāryāt</em>.” <em>Annali dell’Istituto Orientale di Napoli</em> 60–61 (2001–2002): 77–114 (list of 31 manuscripts of the Ethiopic acts collection, pp. 93–97).</p>",
+      "line_text": "Bausi, Alessandro. “Alcune osservazioni sul Gadla ḥawāryāt.” Annali dell’Istituto Orientale di Napoli 60–61 (2001–2002): 77–114 (list of 31 manuscripts of the Ethiopic acts collection, pp. 93–97).",
+      "language": ".5 Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo00budg/page/6/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 1. London: Henry Frowde, 1899 (Ethiopic text based on British Library, Or. 678, pp. 42–46).</p>",
+      "line_text": "Budge, Ernest A. W. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 1. London: Henry Frowde, 1899 (Ethiopic text based on British Library, Or. 678, pp. 42–46).",
+      "language": ".5 Ethiopic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo00budg/page/6/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Pisani, Vitagrazia. “The apocryphal Acts of the Apostles: unknown witnesses from East Tәgray.” Pages 75–93 in <i>Essays in Ethiopian Manuscript Studies. Proceedings of the International Conference Manuscripts and Texts, Languages and Contexts: the Transmission of Knowledge in the Horn of Africa. Hamburg, 17–19 July 2014</i>. Edited by Alessandro Bausi, Alessandro Gori, and Denis Nosnitsin. Supplements to Aethiopica 4. Wiesbaden: Harrassowitz, 2015 (descriptions of ten Ethiopic manuscripts cataloged for the Ethio-SPaRe project).</p>",
+      "line_text": "Pisani, Vitagrazia. “The apocryphal Acts of the Apostles: unknown witnesses from East Tәgray.” Pages 75–93 in Essays in Ethiopian Manuscript Studies. Proceedings of the International Conference Manuscripts and Texts, Languages and Contexts: the Transmission of Knowledge in the Horn of Africa. Hamburg, 17–19 July 2014. Edited by Alessandro Bausi, Alessandro Gori, and Denis Nosnitsin. Supplements to Aethiopica 4. Wiesbaden: Harrassowitz, 2015 (descriptions of ten Ethiopic manuscripts cataloged for the Ethio-SPaRe project).",
+      "language": ".5 Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Iviron, 57 (10th/11th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, 57 (10th/11th cent.)",
+      "language": ".6 Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>K‘urc‘ikiże, C‘iala. <em>Kartuli versiebi aṗoḳripebis mocikulta šesaxeb</em> [Georgian Versions of the Apocryphal Acts of the Apostles]. Tbilisi: Sakartvelos SSR mecnierebata akademiis gamomcemloba, 1959 (edition based on Iviron 57).</p>",
+      "line_text": "K‘urc‘ikiże, C‘iala. Kartuli versiebi aṗoḳripebis mocikulta šesaxeb [Georgian Versions of the Apocryphal Acts of the Apostles]. Tbilisi: Sakartvelos SSR mecnierebata akademiis gamomcemloba, 1959 (edition based on Iviron 57).",
+      "language": ".6 Georgian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient19pariuoft/page/724/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Marr, Nicholas. “Le synaxaire géorgien: <span class=\"aCOpRe\">Redaction ancienne de l’Union arméno-géorgienne<em>.</em></span>” <em>PO</em> 19 (1926): 629–742 (edition and French translation, pp. 725–33).</p>",
+      "line_text": "Marr, Nicholas. “Le synaxaire géorgien: Redaction ancienne de l’Union arméno-géorgienne.” PO 19 (1926): 629–742 (edition and French translation, pp. 725–33).",
+      "language": ".6 Georgian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient19pariuoft/page/724/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Mount Athos, Monē Batopediou, 84 (olim 79), fols. 177<sup>v</sup>–180<sup>r</sup> (9th/10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18231/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Mount Athos, Monē Batopediou, 84 (olim 79), fols. 177v–180r (9th/10th cent.) ~ Pinakes",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18231/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-44/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>O</strong>  Ohrid, Naroden Muzej, 44 (Mošin70), pp. 508–515 (11th cent.)</p>",
+      "line_text": "O  Ohrid, Naroden Muzej, 44 (Mošin70), pp. 508–515 (11th cent.)",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-44/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P </strong> Patmos, Monē tou Hagiou Iōannou tou Theologou, 48, fols. 314<sup>r</sup><strong>–</strong>318<sup>r</sup> (9th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54292/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "P  Patmos, Monē tou Hagiou Iōannou tou Theologou, 48, fols. 314r–318r (9th cent.) ~ Pinakes",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/54292/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Barcelona, Arxiu Històric de la Companya de Jesús a Catalunya, P. Lit. Palau inv. 350, single fragment (4th/5th cent.)</p>",
+      "line_text": "Barcelona, Arxiu Històric de la Companya de Jesús a Catalunya, P. Lit. Palau inv. 350, single fragment (4th/5th cent.)",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n221/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Martyrium Pauli.” Pages 104–17 vol. 1 of <em>Acta Apostolorum Apocrypha</em>. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Greek text edition based on A and P, vol. 1, pp. 104–17)</p>",
+      "line_text": "Bonnet, Maximilien. “Martyrium Pauli.” Pages 104–17 vol. 1 of Acta Apostolorum Apocrypha. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Greek text edition based on A and P, vol. 1, pp. 104–17)",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n221/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Eastman, David L. <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015 (text and translation of the Martyrdom based on Zwierlein’s edition, pp. 121–37).</p>",
+      "line_text": "Eastman, David L. The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015 (text and translation of the Martyrdom based on Zwierlein’s edition, pp. 121–37).",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>García, A López. “P. Lit. Palau Rib. 18: <em>Martyrium Pauli</em> 1.18–22.” <em>Zeitschrift für Papyrologie und Epigraphik</em> 110 (1996): 132 (edition of the Barcelona fragment).</p>",
+      "line_text": "García, A López. “P. Lit. Palau Rib. 18: Martyrium Pauli 1.18–22.” Zeitschrift für Papyrologie und Epigraphik 110 (1996): 132 (edition of the Barcelona fragment).",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>O’Callaghan, José. “Dos nuevos textos anónimos (P. Paulau Rib. Inv. 25 y 350).” <em>Aegyptus</em> 70 (1990): 53–55 (editio princeps of the Barcelona fragment, with black and white plate, pp. 54–55).</p>",
+      "line_text": "O’Callaghan, José. “Dos nuevos textos anónimos (P. Paulau Rib. Inv. 25 y 350).” Aegyptus 70 (1990): 53–55 (editio princeps of the Barcelona fragment, with black and white plate, pp. 54–55).",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ActesDePaul/page/n281/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vouaux, Léon. <em>Les Actes Paul et ses lettres apocryphes: Introduction, traduction et commentaire</em>. Paris: Letouzey et Ané, 1913 (edition based on A and P, pp. 278–314).</p>",
+      "line_text": "Vouaux, Léon. Les Actes Paul et ses lettres apocryphes: Introduction, traduction et commentaire. Paris: Letouzey et Ané, 1913 (edition based on A and P, pp. 278–314).",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/ActesDePaul/page/n281/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Zwierlein, Otto. <em>Petrus in Rom: Die literarischen Zuegnisse</em>. 2nd ed. UALG 96. Berlin: de Gruyter, 2010 (Greek edition based on P, A, and O with readings from other versions, with facing German trans., pp. 426–49).</p>",
+      "line_text": "Zwierlein, Otto. Petrus in Rom: Die literarischen Zuegnisse. 2nd ed. UALG 96. Berlin: de Gruyter, 2010 (Greek edition based on P, A, and O with readings from other versions, with facing German trans., pp. 426–49).",
+      "language": ".7.1 Complete martyrdom",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Batopediou, 852, fols. 74<sup>r</sup><strong>–</strong>74<sup>v</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18996/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271052078-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a>; miniscule 1719</p>",
+      "line_text": "Mount Athos, Monē Batopediou, 852, fols. 74r–74v (13th cent.) ~ Pinakes; LOC; miniscule 1719",
+      "language": ".7.2 Euthalian Apparatus",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18996/",
+        "https://www.loc.gov/item/00271052078-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Batopediou, 864, fols. 232<sup>r</sup><strong>–</strong>239<sup>r </sup>(date?) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/19008/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; miniscule 1722</p>",
+      "line_text": "Mount Athos, Monē Batopediou, 864, fols. 232r–239r (date?) ~ Pinakes; miniscule 1722",
+      "language": ".7.2 Euthalian Apparatus",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/19008/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Batopediou, 967, fols. 162<sup>v</sup>–163<sup>r </sup>(14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/19111/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; miniscule 1598</p>",
+      "line_text": "Mount Athos, Monē Batopediou, 967, fols. 162v–163r (14th cent.) ~ Pinakes; miniscule 1598",
+      "language": ".7.2 Euthalian Apparatus",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/19111/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>M1</strong>  Munich, Bayerische Staatsbibliothek, Clm. 4554, fols. 2<sup>r</sup>–3<sup>r</sup> (8th/9th cent.)</p>",
+      "line_text": "M1  Munich, Bayerische Staatsbibliothek, Clm. 4554, fols. 2r–3r (8th/9th cent.)",
+      "language": ".8 Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-4554/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>M2</strong>  Munich, Bayerische Staatsbibliothek, Clm. 22020, fols. 8<sup>r</sup>–9<sup>r</sup> (12th cent.)</p>",
+      "line_text": "M2  Munich, Bayerische Staatsbibliothek, Clm. 22020, fols. 8r–9r (12th cent.)",
+      "language": ".8 Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M3</strong>  Munich, Bayerische Staatsbibliothek, Clm. 19642 (15th cent.) ~ <a href=\"https://www.digitale-sammlungen.de/en/view/bsb11372561?q=%28Catalogus+codicum+latinorum+Bibliothecae+Regiae+Monacensis%29&amp;page=267\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "M3  Munich, Bayerische Staatsbibliothek, Clm. 19642 (15th cent.) ~ catalog",
+      "language": ".8 Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb11372561?q=%28Catalogus+codicum+latinorum+Bibliothecae+Regiae+Monacensis%29&page=267"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-1050/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 1050, fol. 1<sup>r</sup> (9th/10th cent.) ~ fragment</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Reg. Lat. 1050, fol. 1r (9th/10th cent.) ~ fragment",
+      "language": ".8 Latin",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-1050/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n221/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilien. “Martyrium Pauli.” Pages lvi–lvii, 104–17 vol. 1 of <em>Acta Apostolorum Apocrypha</em>. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Latin text based on three manuscripts from Munich, vol. 1, pp. 105–13).</p>",
+      "line_text": "Bonnet, Maximilien. “Martyrium Pauli.” Pages lvi–lvii, 104–17 vol. 1 of Acta Apostolorum Apocrypha. Edited by Maximilien Bonnet and Richard A. Lipsius. 2 vols. in 3. Leipzig: H. Mendelssohn, 1891–1903. Repr. Hildesheim: Olms, 1972 (Latin text based on three manuscripts from Munich, vol. 1, pp. 105–13).",
+      "language": ".8 Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_G4ydpWeFpdEC/page/n221/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=3eLNAAAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wilmart, André. “Extraits d<cite>’Acta Pauli</cite>.” <cite>Revue bénédictine</cite> 27 (1910): 402–12 (edition of BAV Reg. Lat. 1050, p. 405).</p>",
+      "line_text": "Wilmart, André. “Extraits d’Acta Pauli.” Revue bénédictine 27 (1910): 402–12 (edition of BAV Reg. Lat. 1050, p. 405).",
+      "language": ".8 Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=3eLNAAAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-12172-fols-12-24/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 12172, fols. 13<sup>r</sup>–17<sup>r</sup> (10th cent.)</p>",
+      "line_text": "London, British Library, Add. 12172, fols. 13r–17r (10th cent.)",
+      "language": ".9 Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-12172-fols-12-24/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14732/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 14732, fols. 224<sup>r</sup>–225<sup>v</sup> (13th cent.) ~ lacks beginning</p>",
+      "line_text": "London, British Library, Add. 14732, fols. 224r–225v (13th cent.) ~ lacks beginning",
+      "language": ".9 Syriac",
+      "entry_type": "Edition",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14732/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo02budguoft/page/42/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Budge, E. Wallis. <em>Gadla Ḥawâryât: The </em><em>Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 2 (English translations). London: Henry Frowde, 1901 (English translation of the Ethiopic text, pp. 43–48).</p>",
+      "line_text": "Budge, E. Wallis. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 2 (English translations). London: Henry Frowde, 1901 (English translation of the Ethiopic text, pp. 43–48).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo02budguoft/page/42/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Eastman, David L. <em>The Ancient Martyrdom Accounts of Peter and Paul</em>. WGRW 39. Atlanta: SBL Press, 2015 (text and translation of the Martyrdom based on Zwierlein’s edition, pp. 121–37).</p>",
+      "line_text": "Eastman, David L. The Ancient Martyrdom Accounts of Peter and Paul. WGRW 39. Atlanta: SBL Press, 2015 (text and translation of the Martyrdom based on Zwierlein’s edition, pp. 121–37).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 350–89).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 350–89).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n295/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 270–99; and translation of the Hamburg papyrus in “Appendix II” by J. W. B. Barns, pp. 570–78).</p>",
+      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 270–99; and translation of the Hamburg papyrus in “Appendix II” by J. W. B. Barns, pp. 570–78).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n295/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actamythologica00guidgoog/page/n544/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lewis, Agnes Smith.<em> The Mythological Acts of the Apostles, Translated from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine on Mount Sinai and in the Vatican Library.</em> Horae Semiticae 4. London: C.J. Clay and Sons, 1904 (English translation of the Martyrdom based on Vat. ar. 694, pp. 217–22).</p>",
+      "line_text": "Lewis, Agnes Smith. The Mythological Acts of the Apostles, Translated from an Arabic Ms. in the Convent of Deyr-es-Suriani, Egypt, and from Mss. in the Convent of St Catherine on Mount Sinai and in the Vatican Library. Horae Semiticae 4. London: C.J. Clay and Sons, 1904 (English translation of the Martyrdom based on Vat. ar. 694, pp. 217–22).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/actamythologica00guidgoog/page/n544/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://babel.hathitrust.org/cgi/pt?id=nnc1.cr59928590&amp;view=1up&amp;seq=31\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Malan, Solomon C. <em>The Conflicts of the Holy Apostles, An Apocryphal Book of the Early Eastern Church</em>. London: D. Nutt, 1871 (English translation of the Martyrdom from Rylands Eth. 6, pp. 11–15).</p>",
+      "line_text": "Malan, Solomon C. The Conflicts of the Holy Apostles, An Apocryphal Book of the Early Eastern Church. London: D. Nutt, 1871 (English translation of the Martyrdom from Rylands Eth. 6, pp. 11–15).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://babel.hathitrust.org/cgi/pt?id=nnc1.cr59928590&view=1up&seq=31"
+      ]
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. <em>The Acts of Paul: A New Translation with Introduction and Commentary</em>. Eugene: Cascade Books, 2014.</p>",
+      "line_text": "Pervo, Richard I. The Acts of Paul: A New Translation with Introduction and Commentary. Eugene: Cascade Books, 2014.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalactsof00pickuoft/page/n17/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pick, Bernhard. <em>The Apocryphal Acts of Paul, Peter, John, Andrew, and Thomas.</em> Chicago: The Open Court Publishing Co., 1909 (pp. 1–49).</p>",
+      "line_text": "Pick, Bernhard. The Apocryphal Acts of Paul, Peter, John, Andrew, and Thomas. Chicago: The Open Court Publishing Co., 1909 (pp. 1–49).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalactsof00pickuoft/page/n17/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm. “The Acts of Paul.” Pages 322–90 in vol. 2 of <em>New Testament Apocrypha. </em>Edited by Edgar Hennecke, Wilhelm Schneemelcher, and Robert McLachlan Wilson. Trans. by Robert McLachlan Wilson. Philadelphia: Westminster Press. 1963–1966.</p>",
+      "line_text": "Schneemelcher, Wilhelm. “The Acts of Paul.” Pages 322–90 in vol. 2 of New Testament Apocrypha. Edited by Edgar Hennecke, Wilhelm Schneemelcher, and Robert McLachlan Wilson. Trans. by Robert McLachlan Wilson. Philadelphia: Westminster Press. 1963–1966.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><em>———. </em>“The Acts of Paul,” Pages 213–70 in vol. 2 of  <em>New Testament Apocrypha.</em> Edited by Edgar Hennecke, Wilhelm Schneemelcher, and Robert McLachlan Wilson. Trans. by R. McL. Wilson. Rev. ed. James Clarke &amp; Co.: Cambridge; Philadelphia: Westminster/John Knox Press, 1992.</p>",
+      "line_text": "———. “The Acts of Paul,” Pages 213–70 in vol. 2 of  New Testament Apocrypha. Edited by Edgar Hennecke, Wilhelm Schneemelcher, and Robert McLachlan Wilson. Trans. by R. McL. Wilson. Rev. ed. James Clarke &amp; Co.: Cambridge; Philadelphia: Westminster/John Knox Press, 1992.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch31898pari/page/38\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François. “La version syriaque inédite des martyres de S. Pierre, S. Paul et S. Luc d’après un manuscript du dixième siècle.” <em>ROC</em> 3 (1898): 39–57, 151–67 (French translation of the Syriac martyrdom based on BL 12172 and 14732, pp. 51–57).</p>",
+      "line_text": "Nau, François. “La version syriaque inédite des martyres de S. Pierre, S. Paul et S. Luc d’après un manuscript du dixième siècle.” ROC 3 (1898): 39–57, 151–67 (French translation of the Syriac martyrdom based on BL 12172 and 14732, pp. 51–57).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch31898pari/page/38"
+      ]
+    },
+    {
+      "line_html": "<p>Rordorf, Willy, in collaboration with Pierre Cherix and Rudophe Kasser. “Actes de Paul.” Pages 1115–77 in vol. 1 of <em>Écrits apocryphes chrétiens.</em> Edited by François Bovon and Pierre Geoltrain with an Index by Sever J. Voicu. Bibliothèque de la Pléiade. Saint Herblain: Gallimard, 1997.</p>",
+      "line_text": "Rordorf, Willy, in collaboration with Pierre Cherix and Rudophe Kasser. “Actes de Paul.” Pages 1115–77 in vol. 1 of Écrits apocryphes chrétiens. Edited by François Bovon and Pierre Geoltrain with an Index by Sever J. Voicu. Bibliothèque de la Pléiade. Saint Herblain: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Rolffs, Ernst. “Paulusakten.” Pages 358–95 in <em>Handbuch zu den Neutestamentlichen Apokryphen in Verbindung mit Fachgelehrten.</em> Edited by Edgar Hennecke. Tübingen: J. C. B. Mohr (Paul Siebeck), 1904.</p>",
+      "line_text": "Rolffs, Ernst. “Paulusakten.” Pages 358–95 in Handbuch zu den Neutestamentlichen Apokryphen in Verbindung mit Fachgelehrten. Edited by Edgar Hennecke. Tübingen: J. C. B. Mohr (Paul Siebeck), 1904.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “Paulusakten.” Pages 357–82 in <em>Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen.</em> Edited by Edgar Hennecke.Tübingen and Leipzig: J. C. B. Mohr (Paul Siebeck), 1904.</p>",
+      "line_text": "———. “Paulusakten.” Pages 357–82 in Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen. Edited by Edgar Hennecke.Tübingen and Leipzig: J. C. B. Mohr (Paul Siebeck), 1904.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Schneelmelcher, Wilhelm, and Rudolphe Kasser, trans. “Paulusacten.” Pages 221–70 in vol. 2 of <em>Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen.</em> Edited by Edgar Hennecke and Wilhelm Schneelmelcher. 3rd ed. Tübingen: J. C. B. Mohr (Paul Siebeck), 1959–1964.</p>",
+      "line_text": "Schneelmelcher, Wilhelm, and Rudolphe Kasser, trans. “Paulusacten.” Pages 221–70 in vol. 2 of Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen. Edited by Edgar Hennecke and Wilhelm Schneelmelcher. 3rd ed. Tübingen: J. C. B. Mohr (Paul Siebeck), 1959–1964.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>———. “Paulusacten,” Pages 193–243 in vol. 2 of <em>Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen.</em>Edited by Edgar Hennecke and Wilhelm Schneelmelcher. 5th ed. Tübingen: J. C. B. Mohr (Paul Siebeck), 1987.</p>",
+      "line_text": "———. “Paulusacten,” Pages 193–243 in vol. 2 of Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen.Edited by Edgar Hennecke and Wilhelm Schneelmelcher. 5th ed. Tübingen: J. C. B. Mohr (Paul Siebeck), 1987.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Zwierlein, Otto. <em>Petrus in Rom: Die literarischen Zuegnisse</em>. 2nd ed. UALG 96. Berlin: de Gruyter, 2010 (Greek edition based on P, A, and O with readings from other versions, with facing German trans., pp. 426–49).</p>",
+      "line_text": "Zwierlein, Otto. Petrus in Rom: Die literarischen Zuegnisse. 2nd ed. UALG 96. Berlin: de Gruyter, 2010 (Greek edition based on P, A, and O with readings from other versions, with facing German trans., pp. 426–49).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 2, pp. 243–88).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 2, pp. 243–88).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/GiornaleDellaSocietaAsiaticaItaliana2/page/n61/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Guidi, Ignazio. “Gli Atti apocrifi degli Apostoli nei testi copti, arabi ed etiopici.” <em>Giornale della Società asiatica italiana</em> 2 (1888): 1–66 (translation of the Coptic Martyrdom from CLM 1998, pp. 36–37).</p>",
+      "line_text": "Guidi, Ignazio. “Gli Atti apocrifi degli Apostoli nei testi copti, arabi ed etiopici.” Giornale della Società asiatica italiana 2 (1888): 1–66 (translation of the Coptic Martyrdom from CLM 1998, pp. 36–37).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/GiornaleDellaSocietaAsiaticaItaliana2/page/n61/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1061–1130).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 1061–1130).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition with facing Spanish translation, vol. 2, pp. 730–862).</span></p>",
+      "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition with facing Spanish translation, vol. 2, pp. 730–862).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Achtemeier, Paul. “Jesus and the Disciples as Miracle Workers in the Apocryphal New Testament.” Pages 149–86 in <em>Aspects of Religious Propaganda in Judaism and Early Christianity</em>. Edited by Elisabeth Shüssler Fiorenza. South Bend: Notre Dame, 1976.</p>",
+      "line_text": "Achtemeier, Paul. “Jesus and the Disciples as Miracle Workers in the Apocryphal New Testament.” Pages 149–86 in Aspects of Religious Propaganda in Judaism and Early Christianity. Edited by Elisabeth Shüssler Fiorenza. South Bend: Notre Dame, 1976.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Alfaric, Prosper. “Les Écritures Manichéennes: Chapitre Deuxième: Les Écritures Chrétiennes.” <em>RHR</em> 78 (1918): 63–97.</p>",
+      "line_text": "Alfaric, Prosper. “Les Écritures Manichéennes: Chapitre Deuxième: Les Écritures Chrétiennes.” RHR 78 (1918): 63–97.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Allberry, C. R. C. <em>A Manichean Psalm-Book</em>. Pt. 2. Stuttgart: Kohlhammer, 1938.</p>",
+      "line_text": "Allberry, C. R. C. A Manichean Psalm-Book. Pt. 2. Stuttgart: Kohlhammer, 1938.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Altaner, B. “Augustinus Und Die Neutestamentlichen Apokryphen, Sibyllinen Und Sextussprüche.” <em>AnBoll</em> 67 (1949): 236–48.</p>",
+      "line_text": "Altaner, B. “Augustinus Und Die Neutestamentlichen Apokryphen, Sibyllinen Und Sextussprüche.” AnBoll 67 (1949): 236–48.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bardsley, H. J. “The Derivation of the Acta from Early Acts of Peter.” <em>JTS</em> 16.64 (1915): 495–509.</p>",
+      "line_text": "Bardsley, H. J. “The Derivation of the Acta from Early Acts of Peter.” JTS 16.64 (1915): 495–509.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Biggs, Frederick M. <em>Sources of Anglo-Saxon Literary Culture.</em> Kalamazoo, MI: Medieval Institute Publications, 2007.</p>",
+      "line_text": "Biggs, Frederick M. Sources of Anglo-Saxon Literary Culture. Kalamazoo, MI: Medieval Institute Publications, 2007.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Blumenthal, M. <em>Formen Und Motive in Den Apokryphen Apostelakten</em>. Vol. 1. TUGAL 48. Leipzig: J.C. Hinrichs, 1933.</p>",
+      "line_text": "Blumenthal, M. Formen Und Motive in Den Apokryphen Apostelakten. Vol. 1. TUGAL 48. Leipzig: J.C. Hinrichs, 1933.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bianchi, Ugo, ed. <em>La Tradizione dell’Enkrateia: motiviazioni ontologiche e protologiche.</em> Rome: Ateneo, 1985.</p>",
+      "line_text": "Bianchi, Ugo, ed. La Tradizione dell’Enkrateia: motiviazioni ontologiche e protologiche. Rome: Ateneo, 1985.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bolgiana, F. “La tradizione eresiologica sull’encratismo, II: la confutazione di Clemente di Alessandria.” <em>Atti della Accademia delle scienze di Torino. II. classe di scienze morali. storiche e filologiiche</em> 96 (1961/1962): 537–664.</p>",
+      "line_text": "Bolgiana, F. “La tradizione eresiologica sull’encratismo, II: la confutazione di Clemente di Alessandria.” Atti della Accademia delle scienze di Torino. II. classe di scienze morali. storiche e filologiiche 96 (1961/1962): 537–664.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “La tradizione eresiologica sull’encratismo, I: le notizie di Ireneo.” <em>Atti della Accademia delle scienze di Torino. II. classe di scienze morali. storiche e filologiiche</em> 91 (1950/1957): 343–419.</p>",
+      "line_text": "———. “La tradizione eresiologica sull’encratismo, I: le notizie di Ireneo.” Atti della Accademia delle scienze di Torino. II. classe di scienze morali. storiche e filologiiche 91 (1950/1957): 343–419.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bovon, François. “Réception apocryphe de L’Évangile de Luc et lecture orthodoxe des Actes Apocryphes des Apôtres.” <em>Apocrypha</em> 8 (1997): 137–46.</p>",
+      "line_text": "Bovon, François. “Réception apocryphe de L’Évangile de Luc et lecture orthodoxe des Actes Apocryphes des Apôtres.” Apocrypha 8 (1997): 137–46.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Synoptic Gospels and the Noncanonical Acts of the Apostles.” <em>HTR</em> 81.1 (1988): 19–36.</p>",
+      "line_text": "———. “The Synoptic Gospels and the Noncanonical Acts of the Apostles.” HTR 81.1 (1988): 19–36.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “La Vie Des Apôtres: Traditions Bibliques et Narrations Apocryphes.” Pages 141–58 in <em>Les Actes Apocryphes Des Apôtres Des Apôtres</em>. Edited by François Bovon. Genève: Editions Labor et Fides, 1981.</p>",
+      "line_text": "———. “La Vie Des Apôtres: Traditions Bibliques et Narrations Apocryphes.” Pages 141–58 in Les Actes Apocryphes Des Apôtres Des Apôtres. Edited by François Bovon. Genève: Editions Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Les Actes Apocryphes des Apôtres: christianisme et monde païen</em>. Publications de la Faculté de théologie de l’Université de Genève no 4. Genève: Editions Labor et Fides, 1981.</p>",
+      "line_text": "———. Les Actes Apocryphes des Apôtres: christianisme et monde païen. Publications de la Faculté de théologie de l’Université de Genève no 4. Genève: Editions Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bremmer, Jan N. “The Five Major Apocryphal Acts: Authors, Place, Time and Readership.” Pages 149–70 in <em>The Apocryphal Acts of Thomas</em>. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.</p>",
+      "line_text": "Bremmer, Jan N. “The Five Major Apocryphal Acts: Authors, Place, Time and Readership.” Pages 149–70 in The Apocryphal Acts of Thomas. Edited by Jan N. Bremmer. Studies on Early Christian Apocrypha 6. Leuven: Peeters, 2001.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burkitt, Francis Crawford. <em>Early Eastern Christianity.</em> London: J. Murray, 1904.</p>",
+      "line_text": "Burkitt, Francis Crawford. Early Eastern Christianity. London: J. Murray, 1904.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Christian Church in the East.” Edited by J.B. Bury. <em>The Cambridge Ancient History</em>. Cambridge: Cambridge University Press, 1939.</p>",
+      "line_text": "———. “The Christian Church in the East.” Edited by J.B. Bury. The Cambridge Ancient History. Cambridge: Cambridge University Press, 1939.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Burrus, Virginia. <em>Chastity as Autonomy: Women in the Stories of the Apocryphal Acts</em>. Vol. 23. Lewiston and Queenston: Edwin Mellen Press, 1987.</p>",
+      "line_text": "Burrus, Virginia. Chastity as Autonomy: Women in the Stories of the Apocryphal Acts. Vol. 23. Lewiston and Queenston: Edwin Mellen Press, 1987.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cartlidge, David R. “Transfigurations of Metamorphosis Traditions in the Acts of John, Thomas, and Peter.” <em>Semeia</em> 38 (1986): 53–66.</p>",
+      "line_text": "Cartlidge, David R. “Transfigurations of Metamorphosis Traditions in the Acts of John, Thomas, and Peter.” Semeia 38 (1986): 53–66.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cartlidge, David R., and J. K. Elliott. <em>Art and Christian Apocrypha</em>. London: Routledge, 2001.</p>",
+      "line_text": "Cartlidge, David R., and J. K. Elliott. Art and Christian Apocrypha. London: Routledge, 2001.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Centore, Giuseppe. “Lo Gnosticismo E Il Canto Dell Perla.” <em>Studi Storici E Religiosi</em> 5.2 (1996): 153–76.</p>",
+      "line_text": "Centore, Giuseppe. “Lo Gnosticismo E Il Canto Dell Perla.” Studi Storici E Religiosi 5.2 (1996): 153–76.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Chadwick, Henry. “Enkrateia.” <em>RAC</em> 5 (1960): 343–65.</p>",
+      "line_text": "Chadwick, Henry. “Enkrateia.” RAC 5 (1960): 343–65.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Colpe, C. <em>Die Religionsceschichtliche Schule: Darstellung Und Kritik Ihres Bildes Vom Gnostischen Erlösermythos</em>. Göttingen: Vandenhoeck &amp; Ruprecht, 1961.</p>",
+      "line_text": "Colpe, C. Die Religionsceschichtliche Schule: Darstellung Und Kritik Ihres Bildes Vom Gnostischen Erlösermythos. Göttingen: Vandenhoeck &amp; Ruprecht, 1961.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Czachesz, István. <em>Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts</em>. Leuven: Peeters, 2007.</p>",
+      "line_text": "Czachesz, István. Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts. Leuven: Peeters, 2007.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davies, Stevan L. “The Apocryphal Acts of the Apostles: An Introduction.” <em>CBQ</em> 71.3 (2009): 649–50.</p>",
+      "line_text": "Davies, Stevan L. “The Apocryphal Acts of the Apostles: An Introduction.” CBQ 71.3 (2009): 649–50.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Revolt of the Widows: The Social World of the Apocryphal Acts</em>. Carbondale: Southern Illinois University Press, 1980.</p>",
+      "line_text": "———. The Revolt of the Widows: The Social World of the Apocryphal Acts. Carbondale: Southern Illinois University Press, 1980.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Social World of the Apocryphal Acts.” Ph.D. diss., Temple University, 1978.</p>",
+      "line_text": "———. “The Social World of the Apocryphal Acts.” Ph.D. diss., Temple University, 1978.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Desreumaux, Alain. “Les apocryphes et les milieux monastiques syriaques.” Pages 129–34 in <em>Le monachisme syriaque: aux premiers siècles de l’Eglise, IIe-début VIIe siècle.</em> Antélias, Liban: Editions du CERP, 1998.</p>",
+      "line_text": "Desreumaux, Alain. “Les apocryphes et les milieux monastiques syriaques.” Pages 129–34 in Le monachisme syriaque: aux premiers siècles de l’Eglise, IIe-début VIIe siècle. Antélias, Liban: Editions du CERP, 1998.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Duchesne, L. “Les aciens recueils des légendes apostoliques.” Pages 67–79 in <em>Compte Rendu Du Troisième Congrès Scientifique International Des Catholiques Tenu À Bruxelles Du 3 Au 8 Septembre 1894 …</em> Vol. 5. Bruxelles: Société belge de librairie, 1895.</p>",
+      "line_text": "Duchesne, L. “Les aciens recueils des légendes apostoliques.” Pages 67–79 in Compte Rendu Du Troisième Congrès Scientifique International Des Catholiques Tenu À Bruxelles Du 3 Au 8 Septembre 1894 … Vol. 5. Bruxelles: Société belge de librairie, 1895.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, Alison Goddard. <em>Roads to Paradise: Reading the Lives of the Early Saints</em>. Hanover, NH: University Press of New England, 1987.</p>",
+      "line_text": "Elliott, Alison Goddard. Roads to Paradise: Reading the Lives of the Early Saints. Hanover, NH: University Press of New England, 1987.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Elliott, James Keith. “The Apocryphal Acts.” <em>ExpT</em> 105 (1993): 71–77.</p>",
+      "line_text": "Elliott, James Keith. “The Apocryphal Acts.” ExpT 105 (1993): 71–77.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Influence of the Apocrypha on Manuscripts of the New Testament.” <em>Apocrypha</em> 8 (1997): 265–72.</p>",
+      "line_text": "———. “The Influence of the Apocrypha on Manuscripts of the New Testament.” Apocrypha 8 (1997): 265–72.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Apocryphal Acts of the Apostles in Intertextual Perspectives.” <em>ExpT</em> 111.7 (2000): 236–37.</p>",
+      "line_text": "———. “The Apocryphal Acts of the Apostles in Intertextual Perspectives.” ExpT 111.7 (2000): 236–37.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Findlay, Adam Fyfe. <em>Byways in Early Christian Literature; Studies in the Uncanonical Gospels and Acts …</em> Kerr Lectures 1920–1921. Edinburgh: T. &amp; T. Clark, 1923.</p>",
+      "line_text": "Findlay, Adam Fyfe. Byways in Early Christian Literature; Studies in the Uncanonical Gospels and Acts … Kerr Lectures 1920–1921. Edinburgh: T. &amp; T. Clark, 1923.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gallagher, Eugene V. “Conversion and Salvation in the Apocryphal Acts of the Apostles.” <em>SecCent</em> 8 (1991): 13–29.</p>",
+      "line_text": "Gallagher, Eugene V. “Conversion and Salvation in the Apocryphal Acts of the Apostles.” SecCent 8 (1991): 13–29.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gasparro, Giulia Sfamemi. “Le motivazioni protologiche dell’Enkrateia nel cristianesimo dei primi secoli e nello Gnosticismo.” Pages 149–261 in <em>La tradizione dell’Enkrateia</em>.  Edited by Ugo Bianchi.  Rome: Ateneo, 1985.</p>",
+      "line_text": "Gasparro, Giulia Sfamemi. “Le motivazioni protologiche dell’Enkrateia nel cristianesimo dei primi secoli e nello Gnosticismo.” Pages 149–261 in La tradizione dell’Enkrateia.  Edited by Ugo Bianchi.  Rome: Ateneo, 1985.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hamman, A. “Sitz Im Leben Des Actes Apocryphes Du Nouveau Testament.” Pages 62–69 in <em>Studia Patristica VIII</em>. TUGAL 93. Berlin, 1966.</p>",
+      "line_text": "Hamman, A. “Sitz Im Leben Des Actes Apocryphes Du Nouveau Testament.” Pages 62–69 in Studia Patristica VIII. TUGAL 93. Berlin, 1966.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Herceg, Pál. “The Sermons of the Book of Acts and the Apocryphal Acts.” Pages 153–70 in <em>The Apocryphal Acts of John. </em>Edited by Jan. N. Bremmer. SAAA 1. Kampen: Kok Pharos, 1995.</p>",
+      "line_text": "Herceg, Pál. “The Sermons of the Book of Acts and the Apocryphal Acts.” Pages 153–70 in The Apocryphal Acts of John. Edited by Jan. N. Bremmer. SAAA 1. Kampen: Kok Pharos, 1995.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hertling, Ludwig. “Literarisches zu den apokryphen Apostelakten.” <em>ZKT</em> 49.2 (1925): 219–43.</p>",
+      "line_text": "Hertling, Ludwig. “Literarisches zu den apokryphen Apostelakten.” ZKT 49.2 (1925): 219–43.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hopkins, Keith. <em>A World Full of Gods: The Strange Triumph of Christianity</em>. New York: Free Press, 2000.</p>",
+      "line_text": "Hopkins, Keith. A World Full of Gods: The Strange Triumph of Christianity. New York: Free Press, 2000.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hunt, Hannah. <em>Clothed in the Body: Asceticism, the Body and the Spiritual in the Late Antique Era</em>. Farnham, Surrey, England and Burlington, VT: Routledge, 2012.</p>",
+      "line_text": "Hunt, Hannah. Clothed in the Body: Asceticism, the Body and the Spiritual in the Late Antique Era. Farnham, Surrey, England and Burlington, VT: Routledge, 2012.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jakob, A. “Actes de Jean: État de la recherche (1982–1999).” <em>Rivista di Storia e Letteratura Religiosa </em>36 (2000): 299–334.</p>",
+      "line_text": "Jakob, A. “Actes de Jean: État de la recherche (1982–1999).” Rivista di Storia e Letteratura Religiosa 36 (2000): 299–334.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jones, F Stanley. “Principal Orientations on the Relations between the Apocryphal Acts (Acts of Paul and Acts of John; Acts of Peter and Acts of John).” <em>SBLSP</em> 32 (1993): 485–505.</p>",
+      "line_text": "Jones, F Stanley. “Principal Orientations on the Relations between the Apocryphal Acts (Acts of Paul and Acts of John; Acts of Peter and Acts of John).” SBLSP 32 (1993): 485–505.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/geschichtederalt00jordrich\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jordan, Hermann. <em>Geschichte Der Altchristlichen Literatur</em>. Leipzig: Quelle &amp; Meyer, 1911.</p>",
+      "line_text": "Jordan, Hermann. Geschichte Der Altchristlichen Literatur. Leipzig: Quelle &amp; Meyer, 1911.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/geschichtederalt00jordrich"
+      ]
+    },
+    {
+      "line_html": "<p>Junod, Éric. “Origène, Eusèbe et la tradition sur la répartition des champs de mission des apôtres (Eusèbe, HE III 1,1-3).” <em>Les Actes apocryphes des apôtres: christianisme et monde païen</em>. Edited by François Bovon. Genève: Labor et Fides, 1981.</p>",
+      "line_text": "Junod, Éric. “Origène, Eusèbe et la tradition sur la répartition des champs de mission des apôtres (Eusèbe, HE III 1,1-3).” Les Actes apocryphes des apôtres: christianisme et monde païen. Edited by François Bovon. Genève: Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Créations romanesque et traditions ecclésiastiques dans les Actes apocryphes des apôtres.” <em>Aug</em> 23 (1983): 271–85.</p>",
+      "line_text": "———. “Créations romanesque et traditions ecclésiastiques dans les Actes apocryphes des apôtres.” Aug 23 (1983): 271–85.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Junod, Éric, and Jean-Daniel Kaestli. <em>L’histoire des actes apocryphes des apôtres du</em> <em>Ille au IX siècle. </em>CRThph 7. Lausanne: Faculté de théologie, 1982.</p>",
+      "line_text": "Junod, Éric, and Jean-Daniel Kaestli. L’histoire des actes apocryphes des apôtres du Ille au IX siècle. CRThph 7. Lausanne: Faculté de théologie, 1982.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kaestli, Jean-Daniel. “Fiction littéraire et réalité sociale: Que peut-on savoir de la place des femmes dans le milieu de production des Actes apocryphes des apôtre?” <em>Apocrypha</em> 1 (1990): 279–302.</p>",
+      "line_text": "Kaestli, Jean-Daniel. “Fiction littéraire et réalité sociale: Que peut-on savoir de la place des femmes dans le milieu de production des Actes apocryphes des apôtre?” Apocrypha 1 (1990): 279–302.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Les scènes d’attribution des champs de mission et de départ de l’apôtre dans les Actes apocryphes.” Pages 249–64 in <em>Les Actes apocryphes des apôtres: christianisme et monde païen</em>. Edited by François Bovon. Genève: Labor et Fides, 1981.</p>",
+      "line_text": "———. “Les scènes d’attribution des champs de mission et de départ de l’apôtre dans les Actes apocryphes.” Pages 249–64 in Les Actes apocryphes des apôtres: christianisme et monde païen. Edited by François Bovon. Genève: Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Les principales orientations de la recherche sur les actes apocryphes.” Pages 49–67 in <em>Les Actes Apocryphes des Apôtres: christianisme et monde païen</em>. Edited by François Bovon. Publications de la Faculté de théologie de l’Université de Genève no 4. Genève: Editions Labor et Fides, 1981.</p>",
+      "line_text": "———. “Les principales orientations de la recherche sur les actes apocryphes.” Pages 49–67 in Les Actes Apocryphes des Apôtres: christianisme et monde païen. Edited by François Bovon. Publications de la Faculté de théologie de l’Université de Genève no 4. Genève: Editions Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kampen, Lieuwe van. <em>Apostelverhalen: Doel En Compositie van de Oudste Apokriefe Handelingen Der Aposteln</em>. Sliedrecht: Merweboek, 1990.</p>",
+      "line_text": "Kampen, Lieuwe van. Apostelverhalen: Doel En Compositie van de Oudste Apokriefe Handelingen Der Aposteln. Sliedrecht: Merweboek, 1990.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kerenyi, Karl. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005.</p>",
+      "line_text": "Kerenyi, Karl. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klauck, Hans-Josef. “Himmlisches Haus Und Irdische Bleibe: Eschatologische Metaphorik in Antike Und Christentum.” <em>NTS</em> 50.1 (2004): 5–35.</p>",
+      "line_text": "Klauck, Hans-Josef. “Himmlisches Haus Und Irdische Bleibe: Eschatologische Metaphorik in Antike Und Christentum.” NTS 50.1 (2004): 5–35.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005.</p>",
+      "line_text": "———. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klijn, A. F. J. “The Apocryphal Acts of the Apostles.” <em>VC</em> 37 (1983): 193–99.</p>",
+      "line_text": "Klijn, A. F. J. “The Apocryphal Acts of the Apostles.” VC 37 (1983): 193–99.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraemer, Ross S. “The Conversion of Women to Ascetic Forms of Christianity.” <em>Signs</em> 6.2 (1980): 298–307.</p>",
+      "line_text": "Kraemer, Ross S. “The Conversion of Women to Ascetic Forms of Christianity.” Signs 6.2 (1980): 298–307.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kroll, Josef. <em>Gott und hölle, der mythos vom descensuskampfe.</em> Studien der Bibliothek Warburg … XX. Leipzig: B. G. Teubner, 1932.</p>",
+      "line_text": "Kroll, Josef. Gott und hölle, der mythos vom descensuskampfe. Studien der Bibliothek Warburg … XX. Leipzig: B. G. Teubner, 1932.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Larsson, Kristian. “Intertextual Density, Quantifying Imitation.” <em>JBL</em> 133.2 (2014): 309–31.</p>",
+      "line_text": "Larsson, Kristian. “Intertextual Density, Quantifying Imitation.” JBL 133.2 (2014): 309–31.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lemm, Oscar von. “Koptische Apokryphe Apostelacten.” <em>Bulletin de l’Academie Imperiale Des Sciences de St. Petersbourg</em> 1 [33].4 (1890): 509–81.</p>",
+      "line_text": "Lemm, Oscar von. “Koptische Apokryphe Apostelacten.” Bulletin de l’Academie Imperiale Des Sciences de St. Petersbourg 1 [33].4 (1890): 509–81.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Levine, Amy-Jill and Maria Mayo Robbins. <em>A Feminist Companion to the New Testament Apocrypha. </em>Feminist Companion to the New Testament and Early Christian Writings 11. Cleveland: Pilgrim Press, 2006.</p>",
+      "line_text": "Levine, Amy-Jill and Maria Mayo Robbins. A Feminist Companion to the New Testament Apocrypha. Feminist Companion to the New Testament and Early Christian Writings 11. Cleveland: Pilgrim Press, 2006.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Loewenich, Walther von. “Die Petrus-, Andreas-, Paulus-, und Thomas-Akten.” Pages 109–12 in <em>Das Johannes-Verständnis im zweiten Jahrhundert</em>. BZNW 13. Gießen: Töpelmann, 1932.</p>",
+      "line_text": "Loewenich, Walther von. “Die Petrus-, Andreas-, Paulus-, und Thomas-Akten.” Pages 109–12 in Das Johannes-Verständnis im zweiten Jahrhundert. BZNW 13. Gießen: Töpelmann, 1932.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>MacDonald, Dennis Ronald. “Which Came First? Intertextual Relationships Among the Apocryphal Acts of the Apostles.” <em>Semeia</em> 80 (1997): 11–41.</p>",
+      "line_text": "MacDonald, Dennis Ronald. “Which Came First? Intertextual Relationships Among the Apocryphal Acts of the Apostles.” Semeia 80 (1997): 11–41.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Role of Women in the Production of the Apocryphal Acts of the Apostles.”<em> Iliff Review</em> 40 (1984): 21–38.</p>",
+      "line_text": "———. “The Role of Women in the Production of the Apocryphal Acts of the Apostles.” Iliff Review 40 (1984): 21–38.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Macke, Karl. “Syrische Lieder Gnostischen Ursprungs.” <em>Tübinger Theologische Quartalschrift</em> 56 (1874): 1–70.</p>",
+      "line_text": "Macke, Karl. “Syrische Lieder Gnostischen Ursprungs.” Tübinger Theologische Quartalschrift 56 (1874): 1–70.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/CorpusScriptorumEcclesiasticorumLatinorum38\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Marx, Friedrich. <em>Filastrius, Diversarum Hereseon Liber</em>. CSEL 38. Prague – Vienna – Leipzig: Academiae Litterarum Caesareae, 1889.</p>",
+      "line_text": "Marx, Friedrich. Filastrius, Diversarum Hereseon Liber. CSEL 38. Prague – Vienna – Leipzig: Academiae Litterarum Caesareae, 1889.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/CorpusScriptorumEcclesiasticorumLatinorum38"
+      ]
+    },
+    {
+      "line_html": "<p>McNamara, Martin. <em>The Apocrypha in the Irish Church</em>. Dublin: Dublin Institute for Advanced Studies, 1975.</p>",
+      "line_text": "McNamara, Martin. The Apocrypha in the Irish Church. Dublin: Dublin Institute for Advanced Studies, 1975.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Morard, Françoise. “Souffrance et martyre dans les actes apocryphes des apotres.” Pages 95–108 in <em>Les Actes Apocryphes Des Apôtres Des Apôtres</em>. Edited by François Bovon. Genève: Editions Labor et Fides, 1981.</p>",
+      "line_text": "Morard, Françoise. “Souffrance et martyre dans les actes apocryphes des apotres.” Pages 95–108 in Les Actes Apocryphes Des Apôtres Des Apôtres. Edited by François Bovon. Genève: Editions Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Moss, Candida. <em>Ancient Christian Martyrdom: Diverse Practices, Theologies, and Traditions</em>. The Anchor Yale Bible Reference Library. Yale: Anchor Yale Bible, 2012.</p>",
+      "line_text": "Moss, Candida. Ancient Christian Martyrdom: Diverse Practices, Theologies, and Traditions. The Anchor Yale Bible Reference Library. Yale: Anchor Yale Bible, 2012.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Niederwimmer, Kurt. <em>Askese und Mysterium: Über Ehe. Ehescheidung und Eheverzicht in den Anfängen des christlichen Glaubens.</em> Göttingen: Vandenhoeck &amp; Ruprecht, 1975.</p>",
+      "line_text": "Niederwimmer, Kurt. Askese und Mysterium: Über Ehe. Ehescheidung und Eheverzicht in den Anfängen des christlichen Glaubens. Göttingen: Vandenhoeck &amp; Ruprecht, 1975.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peeters, Paul. “Traductions et Traducteurs Dans L’hagiographie Orientale À L’époque Byzantine.” <em>AnBoll</em> 40 (1922): 241–98.</p>",
+      "line_text": "Peeters, Paul. “Traductions et Traducteurs Dans L’hagiographie Orientale À L’époque Byzantine.” AnBoll 40 (1922): 241–98.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perkins, Judith. “This World or Another? The Intertextuality of the Greek Romances, the Apocryphal Acts and Apuleius’ Metamorphoses.” <em>Semeia</em> 80 (1997): 247–60.</p>",
+      "line_text": "Perkins, Judith. “This World or Another? The Intertextuality of the Greek Romances, the Apocryphal Acts and Apuleius’ Metamorphoses.” Semeia 80 (1997): 247–60.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Apocryphal Acts and Early Christian Martyrdom.” <em>Arethusa</em> 18 (1985): 211–30.</p>",
+      "line_text": "———. “The Apocryphal Acts and Early Christian Martyrdom.” Arethusa 18 (1985): 211–30.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Perry, Ben Edwin. <em>The Ancient Romances: A Literary-Historical Account of Their Origins</em>. University of California Press, 1967.</p>",
+      "line_text": "Perry, Ben Edwin. The Ancient Romances: A Literary-Historical Account of Their Origins. University of California Press, 1967.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. “Narratives about the Apostles; Non-canonical Acts and Related Literature.” Pages 65–89 in <em>Oxford Handbook to the Christian Apocrypha. </em>Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015.</p>",
+      "line_text": "Pervo, Richard I. “Narratives about the Apostles; Non-canonical Acts and Related Literature.” Pages 65–89 in Oxford Handbook to the Christian Apocrypha. Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“The Role of the Apostles.” Pages 306–18 in <em>Oxford Handbook to the Christian Apocrypha. </em>Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015.</p>",
+      "line_text": "———. “The Role of the Apostles.” Pages 306–18 in Oxford Handbook to the Christian Apocrypha. Edited by Andrew Gregory and Christopher Tuckett. Oxford: Oxford University Press, 2015.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Rhetoric in the Christian Apocrypha.” Pages 793–805 in <em>A Handbook of Classical Rhetoric in</em> <em>the Hellenistic Period 330B.C.–A.D. 400. </em>Edited by Stanley Porter. Leiden: Brill, 1998.</p>",
+      "line_text": "———. “Rhetoric in the Christian Apocrypha.” Pages 793–805 in A Handbook of Classical Rhetoric in the Hellenistic Period 330B.C.–A.D. 400. Edited by Stanley Porter. Leiden: Brill, 1998.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“Egging on the Chickens: A Cowardly Response to Dennis MacDonald and Then Some.” <em>Semeia </em>80 (1997): 43–56.</p>",
+      "line_text": "———. “Egging on the Chickens: A Cowardly Response to Dennis MacDonald and Then Some.” Semeia 80 (1997): 43–56.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Early Christian Fiction.” <em>Greek Fiction. The Greek Novel in Context</em>. Edited by J. R. Morgan and R. Stoneman. London, New York: Routledge, 1994.</p>",
+      "line_text": "———. “Early Christian Fiction.” Greek Fiction. The Greek Novel in Context. Edited by J. R. Morgan and R. Stoneman. London, New York: Routledge, 1994.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. Profit with Delight: The Literary Genre of the Acts of the Apostles</em>. Philadelphia: Fortress Press, 1987.</p>",
+      "line_text": "———. Profit with Delight: The Literary Genre of the Acts of the Apostles. Philadelphia: Fortress Press, 1987.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/libraryofphotius00phot\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Photius. <em>The Library of Photius.</em> Translated by John Henry Freese. Translations of Christian literature I: Greek Texts. London: SPCK and New York: Macmillan, 1920.</p>",
+      "line_text": "Photius. The Library of Photius. Translated by John Henry Freese. Translations of Christian literature I: Greek Texts. London: SPCK and New York: Macmillan, 1920.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/libraryofphotius00phot"
+      ]
+    },
+    {
+      "line_html": "<p>Piontek, Ferdinand. <em>Die Katholische Kirche Und Die Häretischen Apostelgeschichten Bis Zum Ausgange Des 6. Jahrhunderts: Ein Beitrag Zur Literaturgeschichte. </em>Breslau: R. Nischkowsky, 1907.</p>",
+      "line_text": "Piontek, Ferdinand. Die Katholische Kirche Und Die Häretischen Apostelgeschichten Bis Zum Ausgange Des 6. Jahrhunderts: Ein Beitrag Zur Literaturgeschichte. Breslau: R. Nischkowsky, 1907.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Platner, J. W. “The Apocryphal Acts of the Apostles.” Edited by Carl Schmidt. <em>AmJT </em>8.3 (1904): 592–96.</p>",
+      "line_text": "Platner, J. W. “The Apocryphal Acts of the Apostles.” Edited by Carl Schmidt. AmJT 8.3 (1904): 592–96.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Plümacher, Eckhard. “Apokryphe Apostelakten.” Col. 11–70 in <em>Real-Encyclopädie Der Klassischen Altertumswissenschaft</em>. Supplementbände 15, 1978.</p>",
+      "line_text": "Plümacher, Eckhard. “Apokryphe Apostelakten.” Col. 11–70 in Real-Encyclopädie Der Klassischen Altertumswissenschaft. Supplementbände 15, 1978.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Powell, Kathryn, and D. G. Scragg. <em>Apocryphal Texts and Traditions in Anglo-Saxon England</em>. Vol. 2. Publications of the Manchester Centre for Anglo-Saxon Studies. Cambridge: D.S. Brewer, 2003.</p>",
+      "line_text": "Powell, Kathryn, and D. G. Scragg. Apocryphal Texts and Traditions in Anglo-Saxon England. Vol. 2. Publications of the Manchester Centre for Anglo-Saxon Studies. Cambridge: D.S. Brewer, 2003.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Radermacher, Ludwig. <em>Hippolytus und Thekla: Studien zur Geschichte von Legende und Kultus.</em> Sitzungsberichte der kaiserlichen Akademie der Wissenschaften in Wien, philosophisch­historische Klasse, 182/3; Vienna: Holder, 1916.</p>",
+      "line_text": "Radermacher, Ludwig. Hippolytus und Thekla: Studien zur Geschichte von Legende und Kultus. Sitzungsberichte der kaiserlichen Akademie der Wissenschaften in Wien, philosophisch­historische Klasse, 182/3; Vienna: Holder, 1916.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reardon, Bryan P. <em>The Form of the Greek Romance.</em> Princeton: Princeton University Press, 1991.</p>",
+      "line_text": "Reardon, Bryan P. The Form of the Greek Romance. Princeton: Princeton University Press, 1991.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Courants littéraires grecs: des IIe et IIIe siècles après J.-C</em>. Paris: Les Belles Lettres, 1971.</p>",
+      "line_text": "———. Courants littéraires grecs: des IIe et IIIe siècles après J.-C. Paris: Les Belles Lettres, 1971.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Reitzenstein, Richard. <em>Hellenistische Wundererzählungen</em>. Leipzig: Teubner, 1906.</p>",
+      "line_text": "Reitzenstein, Richard. Hellenistische Wundererzählungen. Leipzig: Teubner, 1906.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Himmelswanderung und drachenkampf in der alchemistischen und frühchristlichen literatur</em>. Wiesbaden: Harrassowitz, 1916.</p>",
+      "line_text": "———. Himmelswanderung und drachenkampf in der alchemistischen und frühchristlichen literatur. Wiesbaden: Harrassowitz, 1916.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Historia Monachorum Und Historia Lausiaca</em>. Göttingen: Vandenhoeck &amp; Ruprecht, 1916.</p>",
+      "line_text": "———. Historia Monachorum Und Historia Lausiaca. Göttingen: Vandenhoeck &amp; Ruprecht, 1916.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Die Göttin Psyche</em>. Heidelberg: Sitzungberichte der Heidelberger Akademie der Wissenschaften, 1917.</p>",
+      "line_text": "———. Die Göttin Psyche. Heidelberg: Sitzungberichte der Heidelberger Akademie der Wissenschaften, 1917.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Das Iranische Erlösungsmysterium; Religionsgeschichtliche Untersuchungen</em>. Bonn a. Rh.: A. Marcus &amp; E. Weber, 1921.</p>",
+      "line_text": "———. Das Iranische Erlösungsmysterium; Religionsgeschichtliche Untersuchungen. Bonn a. Rh.: A. Marcus &amp; E. Weber, 1921.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Iranischer Erlösungsglaube.” <em>ZNW</em> 20 (1921): 1–23.</p>",
+      "line_text": "———. “Iranischer Erlösungsglaube.” ZNW 20 (1921): 1–23.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Gedanken Zur Entwicklung Des Erlöserglaubens.” <em>Historische Zeitschrift</em> 126 (1922): 1–57.</p>",
+      "line_text": "———. “Gedanken Zur Entwicklung Des Erlöserglaubens.” Historische Zeitschrift 126 (1922): 1–57.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rostalski, Friedrich. <em>Sprachliches zu den apokryphen Apostelgeschichten</em>. 2 vols. Rölle, 1909–1911.</p>",
+      "line_text": "Rostalski, Friedrich. Sprachliches zu den apokryphen Apostelgeschichten. 2 vols. Rölle, 1909–1911.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sandnes, Karl Olav. “Seal and Baptism in Early Christianity.” <em>Ablution, Initiation, and Baptism: Late Antiquity, Early Judaism, and Early Christianity = Waschungen, Initiation Und Taufe: Spätantike, Frühes Judentum Und Frühes Christentum</em>. Edited by David Hellholm. BZNW 176. Berlin: De Gruyter, 2011.</p>",
+      "line_text": "Sandnes, Karl Olav. “Seal and Baptism in Early Christianity.” Ablution, Initiation, and Baptism: Late Antiquity, Early Judaism, and Early Christianity = Waschungen, Initiation Und Taufe: Spätantike, Frühes Judentum Und Frühes Christentum. Edited by David Hellholm. BZNW 176. Berlin: De Gruyter, 2011.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schenke, Hans-Martin. <em>Der Gott “Mensch” in der Gnosis: ein religionsgeschichtlicher Beitrag zur Diskussion über die paulinische Anschauung von der Kirche als Leib Christi</em>. Göttingen: Vandenhoeck &amp; Ruprecht, 1962.</p>",
+      "line_text": "Schenke, Hans-Martin. Der Gott “Mensch” in der Gnosis: ein religionsgeschichtlicher Beitrag zur Diskussion über die paulinische Anschauung von der Kirche als Leib Christi. Göttingen: Vandenhoeck &amp; Ruprecht, 1962.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schermann, Theodor. <em>Propheten- Und Apostellegenden, Nebst Jüngerkatalogen Des Dorotheus Und Verwandter Texte. Bearbeitet Von D.T. Schermann</em>. Leipzig: Hinrichs’sche Buchhandlung, 1907.</p>",
+      "line_text": "Schermann, Theodor. Propheten- Und Apostellegenden, Nebst Jüngerkatalogen Des Dorotheus Und Verwandter Texte. Bearbeitet Von D.T. Schermann. Leipzig: Hinrichs’sche Buchhandlung, 1907.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Karl Ludwig. <em>Kanonische und apokryphe Evangelien und Apostelgeschichten</em>. Basel: Majer, 1944.</p>",
+      "line_text": "Schmidt, Karl Ludwig. Kanonische und apokryphe Evangelien und Apostelgeschichten. Basel: Majer, 1944.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm. <em>Gesammelte Aufsätze zum Neuen Testament und zur Patristik</em>. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.</p>",
+      "line_text": "Schneemelcher, Wilhelm. Gesammelte Aufsätze zum Neuen Testament und zur Patristik. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Siegert, Folker. “Analyses Rhétoriques et Stylistiques Portant Sur Les Actes de Jean et Les Actes de Thomas.” <em>Apocrypha</em> 8 (1997): 231–50.</p>",
+      "line_text": "Siegert, Folker. “Analyses Rhétoriques et Stylistiques Portant Sur Les Actes de Jean et Les Actes de Thomas.” Apocrypha 8 (1997): 231–50.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Skeat, Walter W., ed. <em>Aelfric’s Lives of Saints: Being a Set of Sermons on Saints’ Days Formerly Observed by the English Church</em>. Early English Text Society. Original series, 76, 82, 94, 114 76, 82, NaN, 114. London and New York: N. Trübner &amp; Co., 1881.</p>",
+      "line_text": "Skeat, Walter W., ed. Aelfric’s Lives of Saints: Being a Set of Sermons on Saints’ Days Formerly Observed by the English Church. Early English Text Society. Original series, 76, 82, 94, 114 76, 82, NaN, 114. London and New York: N. Trübner &amp; Co., 1881.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Julia. “Paul as a Character in Early Christian Narratives.” Pages 109-25 in <em>The Oxford Handbook on Pauline Studies, </em>edited by Matthew V. Novenson and R. Barry Matlock. Oxford: Oxford University Press, 2022.</p>",
+      "line_text": "Snyder, Julia. “Paul as a Character in Early Christian Narratives.” Pages 109-25 in The Oxford Handbook on Pauline Studies, edited by Matthew V. Novenson and R. Barry Matlock. Oxford: Oxford University Press, 2022.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Acts of John, Acts of Peter, Acts of Thecla, 3 Corinthians, Martyrdom of Paul.” Pp. 363–385 in <em>The Reception of Jesus in the First Three Centuries</em>, Volume 2. Edited by Jens Schröter and Christine Jacobi. London: Bloomsbury T. &amp; T. Clark, 2019.</p>",
+      "line_text": "———. “Acts of John, Acts of Peter, Acts of Thecla, 3 Corinthians, Martyrdom of Paul.” Pp. 363–385 in The Reception of Jesus in the First Three Centuries, Volume 2. Edited by Jens Schröter and Christine Jacobi. London: Bloomsbury T. &amp; T. Clark, 2019.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———.</em> “Relationships between the Acts of the Apostles and Other Apostle Narratives.” Pages 319–41 in <em>Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting</em> <em>and Interpretation in</em> <em>Early Judaism and Early Christianity. </em>Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "———. “Relationships between the Acts of the Apostles and Other Apostle Narratives.” Pages 319–41 in Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting and Interpretation in Early Judaism and Early Christianity. Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2015.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Söder, Rosa. <em>Die Apokryphen Apostelgeschichten und die Romanhafte Literatur der Antike</em>. Stuttgart: Kohlhammer, 1932.</p>",
+      "line_text": "Söder, Rosa. Die Apokryphen Apostelgeschichten und die Romanhafte Literatur der Antike. Stuttgart: Kohlhammer, 1932.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Solevåg, Anna Rebecca. “A Feminist Companion to the New Testament Apocrypha.” <em>Theology and Sexuality</em> 18.1 (2012): 106–8.</p>",
+      "line_text": "Solevåg, Anna Rebecca. “A Feminist Companion to the New Testament Apocrypha.” Theology and Sexuality 18.1 (2012): 106–8.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Spittler, Janet E. <em>Animals in the Apocryphal Acts of the Apostles</em>. WUNT 2 247. Tübingen: Mohr Siebeck, 2008 (on <em>Acts of Paul</em>, see 156–98).</p>",
+      "line_text": "Spittler, Janet E. Animals in the Apocryphal Acts of the Apostles. WUNT 2 247. Tübingen: Mohr Siebeck, 2008 (on Acts of Paul, see 156–98).",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Christianity at the Edges: Representations of the Ends of the Earth in the Apocryphal Acts of the Apostles.” Pages 353–77 in <em>The Rise and Expansion of Christianity in the First Three Centuries of the Common Era</em>. Edited by Clare K. Rothschild and Jens Schröter. WUNT 301. Tübingen: Mohr Siebeck, 2013), 353–77.</p>",
+      "line_text": "———. “Christianity at the Edges: Representations of the Ends of the Earth in the Apocryphal Acts of the Apostles.” Pages 353–77 in The Rise and Expansion of Christianity in the First Three Centuries of the Common Era. Edited by Clare K. Rothschild and Jens Schröter. WUNT 301. Tübingen: Mohr Siebeck, 2013), 353–77.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sturhahn, C. L. <em>Die Christologie Der Ältesten Apokryphen Apostelakten.</em> Göttingen: Vandenhoeck &amp; Ruprecht, 1952.</p>",
+      "line_text": "Sturhahn, C. L. Die Christologie Der Ältesten Apokryphen Apostelakten. Göttingen: Vandenhoeck &amp; Ruprecht, 1952.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tissot, Yves. “Encratisme et Actes apocryphes.” Pages 109–19 in <em>Les actes apocryphes</em>. <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Genève: Editions Labor et Fides, 1981.</p>",
+      "line_text": "Tissot, Yves. “Encratisme et Actes apocryphes.” Pages 109–19 in Les actes apocryphes. Les actes apocryphes des apôtres. Edited by François Bovon. Genève: Editions Labor et Fides, 1981.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Uytfanghe, M. Van. “Encratisme En Verborgen Erotiek in de Apocriefe ‘Apostelromans.’ Omtrent de Christelijke Problematisering van de Sexualiteit.” <em>Handelingen van de Koninklijke Zuidnederlandse Maatschappij voor Taal-en Letterkunde en Geschiedenis</em> 45 (1991): 175–94.</p>",
+      "line_text": "Uytfanghe, M. Van. “Encratisme En Verborgen Erotiek in de Apocriefe ‘Apostelromans.’ Omtrent de Christelijke Problematisering van de Sexualiteit.” Handelingen van de Koninklijke Zuidnederlandse Maatschappij voor Taal-en Letterkunde en Geschiedenis 45 (1991): 175–94.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Weigandt, Peter. “Der Doketismus Im Urchristentum Und in Der Theologischen Entwicklung Des Zweiten Jahrhunderts.” 2 vols. PhD diss: Ruprecht-Karls-Universität-Heidelberg, 1961.</p>",
+      "line_text": "Weigandt, Peter. “Der Doketismus Im Urchristentum Und in Der Theologischen Entwicklung Des Zweiten Jahrhunderts.” 2 vols. PhD diss: Ruprecht-Karls-Universität-Heidelberg, 1961.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Weis-Liebersdorf, Johannes Evangelista. <em>Christus- und apostelbilder. Einfluss der apokryphen auf die ältesten Kunsttypen.</em> Freiburg: Herdersche Verlagshandlung, 1902.</p>",
+      "line_text": "Weis-Liebersdorf, Johannes Evangelista. Christus- und apostelbilder. Einfluss der apokryphen auf die ältesten Kunsttypen. Freiburg: Herdersche Verlagshandlung, 1902.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Widengren, Geo. “Der Iranische Hintergrund Der Gnosis.” <em>ZRGG</em> 4.2 (1952): 97–114.</p>",
+      "line_text": "Widengren, Geo. “Der Iranische Hintergrund Der Gnosis.” ZRGG 4.2 (1952): 97–114.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Stand Und Aufgaben Der Iranischen Religionsgeschichte.” <em>Numen</em> 1.1 (1954): 16–83.</p>",
+      "line_text": "———. “Stand Und Aufgaben Der Iranischen Religionsgeschichte.” Numen 1.1 (1954): 16–83.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Ascension of the Apostle and the Heavenly Book: King and Saviour III</em>. Årsskrift. Universitet Uppsala 7. Uppsala: Lundequistska Bokhandeln, 1950.</p>",
+      "line_text": "———. The Ascension of the Apostle and the Heavenly Book: King and Saviour III. Årsskrift. Universitet Uppsala 7. Uppsala: Lundequistska Bokhandeln, 1950.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Winkler, Gabriele. “Weitere Beobachtungen Zur Frühen Epiklese (Den Doxologien Und Dem Sanctus). Über Die Bedeutung Der Apokryphen Für Die Erforschung Der Entwicklung Der Riten.” <em>OrChr</em> 80 (1996): 177–200.</p>",
+      "line_text": "Winkler, Gabriele. “Weitere Beobachtungen Zur Frühen Epiklese (Den Doxologien Und Dem Sanctus). Über Die Bedeutung Der Apokryphen Für Die Erforschung Der Entwicklung Der Riten.” OrChr 80 (1996): 177–200.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Zumstein, Jean. “L’apôtre comme martyr.” <em>RTP</em> 112 (1980): 371–90.</p>",
+      "line_text": "Zumstein, Jean. “L’apôtre comme martyr.” RTP 112 (1980): 371–90.",
+      "language": "Apocryphal Acts",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Alfonsi, Luigi. “Ecchi protrettici di un passo del papiro amburghese delle Πράξεις Παύλου.” <em>Aegyptus</em> 30 (1950) 67–71.</p>",
+      "line_text": "Alfonsi, Luigi. “Ecchi protrettici di un passo del papiro amburghese delle Πράξεις Παύλου.” Aegyptus 30 (1950) 67–71.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Amann, Émile. “Les Actes de Paul.” <em>DBSup</em> 1:494–96.</p>",
+      "line_text": "Amann, Émile. “Les Actes de Paul.” DBSup 1:494–96.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Attridge, Harold W. “Acts of Paul.” Pages 234–52 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
+      "line_text": "Attridge, Harold W. “Acts of Paul.” Pages 234–52 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Babcock, William S. <em>Paul and the Legacies of Paul. </em>Dallas: Southern Methodist University Press, 1990.</p>",
+      "line_text": "Babcock, William S. Paul and the Legacies of Paul. Dallas: Southern Methodist University Press, 1990.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Barnikol, Ernst. “Das Fehlen der Spanienreise, der vor-und nichtpaulinischen Romgemeinde und des paulinischen ‘Rombriefes’ in den Paulusakten.” <em>Theologisches Jahrbuch</em> 2 (1934): 103–14.</p>",
+      "line_text": "Barnikol, Ernst. “Das Fehlen der Spanienreise, der vor-und nichtpaulinischen Romgemeinde und des paulinischen ‘Rombriefes’ in den Paulusakten.” Theologisches Jahrbuch 2 (1934): 103–14.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Barns, J. W. B. “Appendix II.” Pages 570–78 in <em>The Apocryphal New Testament.</em> Edited by Montague Rhodes James. 2d ed. Oxford: Clarendon, 1953.</p>",
+      "line_text": "Barns, J. W. B. “Appendix II.” Pages 570–78 in The Apocryphal New Testament. Edited by Montague Rhodes James. 2d ed. Oxford: Clarendon, 1953.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Pauline Controversies in the Post-Pauline Period.” <em>NTS </em>21 (1974–1975): 229–45.</p>",
+      "line_text": "———. “Pauline Controversies in the Post-Pauline Period.” NTS 21 (1974–1975): 229–45.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bauckham, R. J.  “The <em>Acts of Paul </em>as a Sequel to Acts.” Pages 105–52 in <em>The Book of Acts in Its Ancient Literary Setting. </em>Edited by B. W. Winter and A. D. Clarke. Grand Rapids: Eerdmans; Carlisle: Paternoster Press, 1993.</p>",
+      "line_text": "Bauckham, R. J.  “The Acts of Paul as a Sequel to Acts.” Pages 105–52 in The Book of Acts in Its Ancient Literary Setting. Edited by B. W. Winter and A. D. Clarke. Grand Rapids: Eerdmans; Carlisle: Paternoster Press, 1993.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “The Acts of Paul: Replacement of Acts or Sequel to Acts.” <em>Semeia </em>80 (1997): 159–68.</p>",
+      "line_text": "__________. “The Acts of Paul: Replacement of Acts or Sequel to Acts.” Semeia 80 (1997): 159–68.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Baumstark, Anton. <em>Die Petrus und Paulus-Akten in der literarischen </em><em>Ü</em><em>berlieferung der syrischen Kirche</em>. Leipzig: Harrassowitz, 1902.</p>",
+      "line_text": "Baumstark, Anton. Die Petrus und Paulus-Akten in der literarischen Überlieferung der syrischen Kirche. Leipzig: Harrassowitz, 1902.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bianchi, Ugo, ed. <em>La Tradizione dell’Enkrateia: motiviazioni ontologiche e protologiche</em>. Rome: Ateneo, 1985.</p>",
+      "line_text": "Bianchi, Ugo, ed. La Tradizione dell’Enkrateia: motiviazioni ontologiche e protologiche. Rome: Ateneo, 1985.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Boer, Martinus C. de. “Images of Paul in the Post-Apostolic Period.” <em>CBQ </em>42 (1980): 359–80.</p>",
+      "line_text": "Boer, Martinus C. de. “Images of Paul in the Post-Apostolic Period.” CBQ 42 (1980): 359–80.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bolyki, János. “Events after the Martyrdom: Missionary Transformation of an Apocalyptical Metaphor in Martyrium Pauli.” Pages 92–106 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Kok Pharos, 1996.</p>",
+      "line_text": "Bolyki, János. “Events after the Martyrdom: Missionary Transformation of an Apocalyptical Metaphor in Martyrium Pauli.” Pages 92–106 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Kok Pharos, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bovon, François. “A New Citation of the <em>Acts of Paul</em> in Origen,” Pages 267–70 in <em>Studies in Early Christianity.</em> Edited by Jörg Frey. WUNT 161. Tübingen: J. C. B. Mohr (Paul Siebeck), 2003.</p>",
+      "line_text": "Bovon, François. “A New Citation of the Acts of Paul in Origen,” Pages 267–70 in Studies in Early Christianity. Edited by Jörg Frey. WUNT 161. Tübingen: J. C. B. Mohr (Paul Siebeck), 2003.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Une nouvelle citation des <em>Actes de Paul </em>chez Origène.” <em>Apocrypha </em>5 (1994): 113–­17.</p>",
+      "line_text": "———. “Une nouvelle citation des Actes de Paul chez Origène.” Apocrypha 5 (1994): 113–­17.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bremmer, Jan.  “The Onomastics and Provenance of the Acts of Paul.”  Pages 527–47 in <em>Philologie, Herméneutique et Histoire des Textes Entre Orient et Occident: Mélanges en hommage à Sever J. Voicu.</em>  Edited by Francesca P. Barone, Caroline Macé, and Pablo A Ubierna.  Instrumenta Patristica et Mediaevalia 73.  Turnhout: Brepolis, 2017.</p>",
+      "line_text": "Bremmer, Jan.  “The Onomastics and Provenance of the Acts of Paul.”  Pages 527–47 in Philologie, Herméneutique et Histoire des Textes Entre Orient et Occident: Mélanges en hommage à Sever J. Voicu.  Edited by Francesca P. Barone, Caroline Macé, and Pablo A Ubierna.  Instrumenta Patristica et Mediaevalia 73.  Turnhout: Brepolis, 2017.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________.  “The Portrait of the Apostle Paul in the Apocryphal Acts of Paul.”  Pages 415–34 in <em>Figurationen des Porträts.</em>  Edited by Thierry Grueb and Martin Roussel.  Morphomata 35.  Leiden: Brill, 2018.</p>",
+      "line_text": "__________.  “The Portrait of the Apostle Paul in the Apocryphal Acts of Paul.”  Pages 415–34 in Figurationen des Porträts.  Edited by Thierry Grueb and Martin Roussel.  Morphomata 35.  Leiden: Brill, 2018.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Brock, Ann Graham. “Genre of the <em>Acts of Paul.</em>”<em> Apocrypha </em>5 (1994): 119–36.</p>",
+      "line_text": "Brock, Ann Graham. “Genre of the Acts of Paul.” Apocrypha 5 (1994): 119–36.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Political Authority and Cultural Accomodation: Social Diversity in the <em>Acts of Paul</em> and the <em>Acts of Peter</em>.” Pages 145–70 in <em>The Apocryphal Acts of the Apostles: Harvard Divinity School Studies</em>. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Cambridge: Harvard University Press, 1999.</p>",
+      "line_text": "———. “Political Authority and Cultural Accomodation: Social Diversity in the Acts of Paul and the Acts of Peter.” Pages 145–70 in The Apocryphal Acts of the Apostles: Harvard Divinity School Studies. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Cambridge: Harvard University Press, 1999.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Büllesbach, Claudia. “Das Verhältnis der Acta Pauli zur Apostelgeschichte des Lukas: Darstellung und Kritik der Forschungsgeschichte.” Pages 215–37 in <em>Das Ende des Paulus: Historische, theologische und literaturgeschichtliche Aspekte. </em>Edited by F. W. Horn. BZNW 106. Berlin: Töpelmann, 2001.</p>",
+      "line_text": "Büllesbach, Claudia. “Das Verhältnis der Acta Pauli zur Apostelgeschichte des Lukas: Darstellung und Kritik der Forschungsgeschichte.” Pages 215–37 in Das Ende des Paulus: Historische, theologische und literaturgeschichtliche Aspekte. Edited by F. W. Horn. BZNW 106. Berlin: Töpelmann, 2001.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Callahan, Allen Dwight. “Dead Paul: The Apostle as Martyr in Philippi.” Pages 67–84 in <em>Philippi at the Time of Paul and after His Death</em>. Edited by Charlambos Bakirtiz and Helmut Koester. Harrisburg: Trinity, 1998.</p>",
+      "line_text": "Callahan, Allen Dwight. “Dead Paul: The Apostle as Martyr in Philippi.” Pages 67–84 in Philippi at the Time of Paul and after His Death. Edited by Charlambos Bakirtiz and Helmut Koester. Harrisburg: Trinity, 1998.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Clemen, Carl. “Miszellen zu den Paulusakten.” <em>ZNW</em> 5 (1904): 228–47.</p>",
+      "line_text": "Clemen, Carl. “Miszellen zu den Paulusakten.” ZNW 5 (1904): 228–47.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Corssen, Peter. “Der Schluß der Paulusakten.” <em>ZNW</em> 6 (1905): 317–38.</p>",
+      "line_text": "Corssen, Peter. “Der Schluß der Paulusakten.” ZNW 6 (1905): 317–38.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Die Urgestalt der Paulusakten.” <em>ZNW</em> 4 (1903): 22–47.</p>",
+      "line_text": "———.  “Die Urgestalt der Paulusakten.” ZNW 4 (1903): 22–47.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cothenet, É. “Les Actes de Paul.” <em>Esprit &amp; Vie </em>117 (2007): 17–23.</p>",
+      "line_text": "Cothenet, É. “Les Actes de Paul.” Esprit &amp; Vie 117 (2007): 17–23.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Czachesz, István. “The Acts of Paul and the Western Text of Luke’s Acts: Paul between Canon and Apocrypha.” Pages 107–25 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.</p>",
+      "line_text": "Czachesz, István. “The Acts of Paul and the Western Text of Luke’s Acts: Paul between Canon and Apocrypha.” Pages 107–25 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dassmann, Ernst. <em>Der Stachel im Fleisch: Paulus in der frühchristlichen Literatur bis Irenäus</em>. Münster: Aschendorff, 1979.</p>",
+      "line_text": "Dassmann, Ernst. Der Stachel im Fleisch: Paulus in der frühchristlichen Literatur bis Irenäus. Münster: Aschendorff, 1979.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Davies, Stevan L. “Women, Tertullian, and the Acts of Paul.” <em>Semeia</em> 38 (1986): 139–43.</p>",
+      "line_text": "Davies, Stevan L. “Women, Tertullian, and the Acts of Paul.” Semeia 38 (1986): 139–43.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Deeleman, C. F. M. “Acta Pauli.” <em>TS</em> 26 (1908): 1–44.</p>",
+      "line_text": "Deeleman, C. F. M. “Acta Pauli.” TS 26 (1908): 1–44.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Devos, Paul. “Actes de Thomas et Actes de Paul.” <em>AnBoll</em> 69 (1951:) 119–30.</p>",
+      "line_text": "Devos, Paul. “Actes de Thomas et Actes de Paul.” AnBoll 69 (1951:) 119–30.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dobschütz, Ernst von. “Die wiedergefundenen Akten des Paulus.” <em>NKZ</em> 8 (1897): 933–40.</p>",
+      "line_text": "Dobschütz, Ernst von. “Die wiedergefundenen Akten des Paulus.” NKZ 8 (1897): 933–40.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dolger, Franz Josef. “Der heidnische Glaube an die Kraft des Fürbittgebetes für die vorzeitig Gestorbenen nach den Theklaakten.” <em>Antike und Christentum</em> 2 (1930): 13–16.</p>",
+      "line_text": "Dolger, Franz Josef. “Der heidnische Glaube an die Kraft des Fürbittgebetes für die vorzeitig Gestorbenen nach den Theklaakten.” Antike und Christentum 2 (1930): 13–16.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Drijvers, H. J. W. “Der getaufte Löwe und die Theologie der Acta Pauli.” Pages 181–89 in <em>Carl Schmidt Kolloquium an der Martin Luther Universität 1988.</em> Edited by Peter Nagel. Kongress und Tagungsberichte der Martin Luther Universität, Halle-Wittenberg, Halle: Abt. Wissenschaftspublizistik der Martin-Luther-Universität, 1990.</p>",
+      "line_text": "Drijvers, H. J. W. “Der getaufte Löwe und die Theologie der Acta Pauli.” Pages 181–89 in Carl Schmidt Kolloquium an der Martin Luther Universität 1988. Edited by Peter Nagel. Kongress und Tagungsberichte der Martin Luther Universität, Halle-Wittenberg, Halle: Abt. Wissenschaftspublizistik der Martin-Luther-Universität, 1990.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://actapauli.files.wordpress.com/2009/01/pwdunn1996.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dunn, Peter W. “The <em>Acts of Paul</em> and the Pauline Legacy in the Second Century.” Ph.D. diss., University of Cambridge, 1996.</p>",
+      "line_text": "Dunn, Peter W. “The Acts of Paul and the Pauline Legacy in the Second Century.” Ph.D. diss., University of Cambridge, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://actapauli.files.wordpress.com/2009/01/pwdunn1996.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><em>———. </em> “The Influence of 1 Corinthians on the <em>Acts of Paul</em>.” <em>SBLSP </em>35 (1996): 438–54.</p>",
+      "line_text": "———.  “The Influence of 1 Corinthians on the Acts of Paul.” SBLSP 35 (1996): 438–54.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Women’s Liberation, the <em>Acts of Paul, </em>and Other Apocryphal Acts of the Apostles: A Review of Some Recent Interpreters.” <em>Apocrypha </em>4 (1993): 245–61.</p>",
+      "line_text": "———. “Women’s Liberation, the Acts of Paul, and Other Apocryphal Acts of the Apostles: A Review of Some Recent Interpreters.” Apocrypha 4 (1993): 245–61.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Eastman, David L.  <em>Paul the Martyr: The Cult of the Apostle Paul the Martyr in the Latin West.</em>  WGRWS 4.  Atlanta: SBL, 2011.</p>",
+      "line_text": "Eastman, David L.  Paul the Martyr: The Cult of the Apostle Paul the Martyr in the Latin West.  WGRWS 4.  Atlanta: SBL, 2011.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Findlay, Adam Fyfe. <em>Byways in Early Christian Literature; Studies in the Uncanonical Gospels and Acts … Kerr Lectures 1920–1921</em>. Edinburgh: T. &amp; T. Clark, 1923 (pp. 238–72).</p>",
+      "line_text": "Findlay, Adam Fyfe. Byways in Early Christian Literature; Studies in the Uncanonical Gospels and Acts … Kerr Lectures 1920–1921. Edinburgh: T. &amp; T. Clark, 1923 (pp. 238–72).",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gregory, Andrew. “The Acts of Paul and the Legacy of Paul.” Pages 169–89 in <em>Paul and the Second Century</em>. Edited by Michael F. Bird and Joseph R. Dodson. LNTS. London: T&amp;T Clark, 2011.</p>",
+      "line_text": "Gregory, Andrew. “The Acts of Paul and the Legacy of Paul.” Pages 169–89 in Paul and the Second Century. Edited by Michael F. Bird and Joseph R. Dodson. LNTS. London: T&amp;T Clark, 2011.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Harnack, Adolf von. “Die Entdeckung resp. Identifizierung der Πράξεις Παύλου.” <em>TLZ</em> 24 (1897): 625–29.</p>",
+      "line_text": "Harnack, Adolf von. “Die Entdeckung resp. Identifizierung der Πράξεις Παύλου.” TLZ 24 (1897): 625–29.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> <em>Drei wenig beachtete cyprianische Schriften und die Acta Pauli</em>. TU 19/3b. Leipzig: Hinrichs, 1899.</p>",
+      "line_text": "———.  Drei wenig beachtete cyprianische Schriften und die Acta Pauli. TU 19/3b. Leipzig: Hinrichs, 1899.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“Zu den Acta Pauli.” Pages 100–106 in <em>Miscellen zu den Apostolischen Vätern, den Acta Pauli, Apelles uzw.</em> TU 5/3. Leipzig: Hinrichs, 1900.</p>",
+      "line_text": "———. “Zu den Acta Pauli.” Pages 100–106 in Miscellen zu den Apostolischen Vätern, den Acta Pauli, Apelles uzw. TU 5/3. Leipzig: Hinrichs, 1900.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“Der apocryphe Briefwechsel des Paulus mit den Korinther.” Pages 3–35 in  <em>Sitzungsberichte der kaiserlichen Akademie der Wissenschaften zu Berlin. </em>Berlin, 1905.</p>",
+      "line_text": "———. “Der apocryphe Briefwechsel des Paulus mit den Korinther.” Pages 3–35 in  Sitzungsberichte der kaiserlichen Akademie der Wissenschaften zu Berlin. Berlin, 1905.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Heimgartner, Martin “Paulusakten.” Pages 441–42 in vol. 9 of <em>DNP. </em>Edited by Hubert Cancik and Helmuth Schneider. Stuttgart and Weimar: J. B. Metzler, 2000.</p>",
+      "line_text": "Heimgartner, Martin “Paulusakten.” Pages 441–42 in vol. 9 of DNP. Edited by Hubert Cancik and Helmuth Schneider. Stuttgart and Weimar: J. B. Metzler, 2000.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Herczeg, P. “New Testament Parallels to the Acta Pauli Documents.” Pages 150–63 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.</p>",
+      "line_text": "Herczeg, P. “New Testament Parallels to the Acta Pauli Documents.” Pages 150–63 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hilhorst, A. “Tertullian on the Acts of Paul.” Pages 150–63 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.</p>",
+      "line_text": "Hilhorst, A. “Tertullian on the Acts of Paul.” Pages 150–63 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hills, Julian V. “The Acts of Paul and the Legacy of the Lukan Acts.” <em>Semeia </em>80 (1997): 145–58.</p>",
+      "line_text": "Hills, Julian V. “The Acts of Paul and the Legacy of the Lukan Acts.” Semeia 80 (1997): 145–58.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“The Acts of the Apostles in the <em>Acts of Paul.</em>” Pages 1–47 in<em> SBL Seminar Papers, 1994.</em> Edited by E. H. Lovering, Jr. Atlanta: Scholars Press, 1994.</p>",
+      "line_text": "———. “The Acts of the Apostles in the Acts of Paul.” Pages 1–47 in SBL Seminar Papers, 1994. Edited by E. H. Lovering, Jr. Atlanta: Scholars Press, 1994.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_journal-of-theological-studies_1905-01_6/page/244/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. “A Note on the <em>Acta Pauli</em>.” <em>JTS</em> 6 (1904/1905): 244–46.</p>",
+      "line_text": "James, Montague Rhodes. “A Note on the Acta Pauli.” JTS 6 (1904/1905): 244–46.",
+      "language": "Acts of Paul",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_journal-of-theological-studies_1905-01_6/page/244/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><em><a href=\"https://archive.org/details/sim_journal-of-theological-studies_1905-07_6/page/548/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>———. </em> “The Acts of Titus and the Acts of Paul.” <em>JTS</em> 6 (1904/1905): 549–56.</p>",
+      "line_text": "———.  “The Acts of Titus and the Acts of Paul.” JTS 6 (1904/1905): 549–56.",
+      "language": "Acts of Paul",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_journal-of-theological-studies_1905-07_6/page/548/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Karasszon, I. “Heroism in the Acts of Paul and in the Bible.” Pages 179–90 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.</p>",
+      "line_text": "Karasszon, I. “Heroism in the Acts of Paul and in the Bible.” Pages 179–90 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Klauk, Hans-Josef. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 61–92).</p>",
+      "line_text": "Klauk, Hans-Josef. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 61–92).",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Krüger, Gustav. “Der getaufte Löwe: Bemerkungen zu Tert., bapt. 17 und Hieron., de vir. ill. 7.” <em>ZNW</em> 5 (1904) 163–66.</p>",
+      "line_text": "Krüger, Gustav. “Der getaufte Löwe: Bemerkungen zu Tert., bapt. 17 und Hieron., de vir. ill. 7.” ZNW 5 (1904) 163–66.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kurfeß, Anton. “Zu dem Hamburger Papyrus der Πράξεις Παύλου.” <em>ZNW</em> 38 (1939): 164–70.</p>",
+      "line_text": "Kurfeß, Anton. “Zu dem Hamburger Papyrus der Πράξεις Παύλου.” ZNW 38 (1939): 164–70.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lalleman, Pieter J. “Resurrection in the Acts of Paul.” Pages 126–41 in <em>The Apocryphal Acts of Paul and Thecla</em>. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.</p>",
+      "line_text": "Lalleman, Pieter J. “Resurrection in the Acts of Paul.” Pages 126–41 in The Apocryphal Acts of Paul and Thecla. Edited by Jan N. Bremmer. Studies on the Apocryphal Acts of the Apostles 2. Kampen: Pharos Publishing House, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Lindemann, Andreas. <em>Paulus im ältesten Christentum: Das Bild des Apostels und die Rezeption der paulinischen Theo1ogie in der frühchristlichen Literatur his Marcion</em> (BHTh 58; Tübingen: Mohr [Siebeck], 1979.</p>",
+      "line_text": "Lindemann, Andreas. Paulus im ältesten Christentum: Das Bild des Apostels und die Rezeption der paulinischen Theo1ogie in der frühchristlichen Literatur his Marcion (BHTh 58; Tübingen: Mohr [Siebeck], 1979.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap05lipsgoog/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard Adelbert. <em>Die apokryphen Apostelgeschichten und Apostellegenden: Ein Beitrag zur altchristlichen Literaturgeschichte.</em> 2 vols. Braunschweig: Schwetschke, 1883–1890; reprinted Amsterdam: APA-philo, 1976 (vol. 2.1, pp. 1–284).</p>",
+      "line_text": "Lipsius, Richard Adelbert. Die apokryphen Apostelgeschichten und Apostellegenden: Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1890; reprinted Amsterdam: APA-philo, 1976 (vol. 2.1, pp. 1–284).",
+      "language": "Acts of Paul",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap05lipsgoog/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>MacDonald, Dennis R. “Which Came First? Intertextual Relationships Among the Apocryphal Acts of the Apostles.” <em>Semeia </em>80 (1997): 11–18. <em><br/></em></p>",
+      "line_text": "MacDonald, Dennis R. “Which Came First? Intertextual Relationships Among the Apocryphal Acts of the Apostles.” Semeia 80 (1997): 11–18. ",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The <em>Acts of Paul </em>and The <em>Acts of John: </em>Which Came First?” Pages 506–10 in <em>SBL Seminar Papers, 1993</em>. Atlanta: Scholars Press, 1993.</p>",
+      "line_text": "———. “The Acts of Paul and The Acts of John: Which Came First?” Pages 506–10 in SBL Seminar Papers, 1993. Atlanta: Scholars Press, 1993.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The <em>Acts of Paul </em>and The <em>Acts of Peter: </em>Which Came First?” Pages 214–24 in <em>SBL Seminar Papers, 1992. </em>Atlanta: Scholars Press, 1992.</p>",
+      "line_text": "———. “The Acts of Paul and The Acts of Peter: Which Came First?” Pages 214–24 in SBL Seminar Papers, 1992. Atlanta: Scholars Press, 1992.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Apocryphal and Canonical Narratives about Paul.” Pages 55–70 in <em>Paul and the Legacies of Paul. </em>Edited by William S. Babcock. Dallas: Southern Meth­odist UP, 1990.</p>",
+      "line_text": "———. “Apocryphal and Canonical Narratives about Paul.” Pages 55–70 in Paul and the Legacies of Paul. Edited by William S. Babcock. Dallas: Southern Meth­odist UP, 1990.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>The Legend and the Apostle: The Battle for Paul in Story and Canon.</em> Philadelphia, PA: Westminster, 1983.</p>",
+      "line_text": "———. The Legend and the Apostle: The Battle for Paul in Story and Canon. Philadelphia, PA: Westminster, 1983.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———.“A Conjectural Emendation of 1 Cor 15:31–32: Or the Case of the Misplaced Lion Fight.” <em>HTR</em> 73 (1980): 265–76.</p>",
+      "line_text": "———.“A Conjectural Emendation of 1 Cor 15:31–32: Or the Case of the Misplaced Lion Fight.” HTR 73 (1980): 265–76.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Malina, Bruce J., and Jerome H. Neyrey. “Physiognomics and Personality: Looking at Paul in the Acts of Paul.” Pages 100–52 in <em>Portraits of Paul: an Archeology of Ancient Personality.</em> Louisville: Westminster John Knox Press, 1996.</p>",
+      "line_text": "Malina, Bruce J., and Jerome H. Neyrey. “Physiognomics and Personality: Looking at Paul in the Acts of Paul.” Pages 100–52 in Portraits of Paul: an Archeology of Ancient Personality. Louisville: Westminster John Knox Press, 1996.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marguerat, Daniel. “The Acts of Paul and the Canonical Acts: A Phenomenon of Rereading.” <em>Semeia </em>80 (1997): 169–83.</p>",
+      "line_text": "Marguerat, Daniel. “The Acts of Paul and the Canonical Acts: A Phenomenon of Rereading.” Semeia 80 (1997): 169–83.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marguerat, Daniel, and Walter Rebell. “Les Actes des Paul: un portrait inhabituel de l’apôtre.” Pages 107–24 in <em>Le mystère apocryphe. </em>Edited by Jean-Daniel Kaestli and Daniel Marguerat. Essais bibliques 26. Geneva: Labor et Fides, 1995.</p>",
+      "line_text": "Marguerat, Daniel, and Walter Rebell. “Les Actes des Paul: un portrait inhabituel de l’apôtre.” Pages 107–24 in Le mystère apocryphe. Edited by Jean-Daniel Kaestli and Daniel Marguerat. Essais bibliques 26. Geneva: Labor et Fides, 1995.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McDowell, Sean. <em>The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus.</em> Abindgon: Ashgate, 2008. Repr. London and New York: Routledge, 2015 (pp. 93–114).</p>",
+      "line_text": "McDowell, Sean. The Fate of the Apostles: Examining the Martyrdom Accounts of the Closest Followers of Jesus. Abindgon: Ashgate, 2008. Repr. London and New York: Routledge, 2015 (pp. 93–114).",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Metzger, Bruce M. “St. Paul and the Baptized Lion: Apocryphal vs. Canonical Books of the New Testament.” <em>Princeton Seminary Bulletin</em> 39/2 (1945): 11–21.</p>",
+      "line_text": "Metzger, Bruce M. “St. Paul and the Baptized Lion: Apocryphal vs. Canonical Books of the New Testament.” Princeton Seminary Bulletin 39/2 (1945): 11–21.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peeters, Paul. “Notes sur le legende des apôtres S. Pierre et S. Paul dans la littérature syrienne.” <em>AnBoll</em> 21 (1902): 121–40.</p>",
+      "line_text": "Peeters, Paul. “Notes sur le legende des apôtres S. Pierre et S. Paul dans la littérature syrienne.” AnBoll 21 (1902): 121–40.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pervo, Richard I. “The Hospitality of Onesiphorus: Missionary Styles and Support in the Acts of Paul.” Pages 341–51 in <em>The Rise and Expansion of Christianity in the First Three Centuries of the Common Era.</em> Edited by Clare K. Rothschild and Jens Shröter. Tübingen: Mohr Siebeck, 2013.</p>",
+      "line_text": "Pervo, Richard I. “The Hospitality of Onesiphorus: Missionary Styles and Support in the Acts of Paul.” Pages 341–51 in The Rise and Expansion of Christianity in the First Three Centuries of the Common Era. Edited by Clare K. Rothschild and Jens Shröter. Tübingen: Mohr Siebeck, 2013.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “(Not) Appealing to the Emperor: Acts (and the Acts of Paul).” Pages 165–79 in <em>Paul and the Heritage of Israel: Paul’s Claim upon Israel’s Legacy in Luke and Acts in Light of the Pauline Letters. </em>Edited by David P Moessner, Daniel Marguerat, Mikeal C. Parsons, and Michael Wolter. London: T&amp;T Clark, 2012.</p>",
+      "line_text": "_____. “(Not) Appealing to the Emperor: Acts (and the Acts of Paul).” Pages 165–79 in Paul and the Heritage of Israel: Paul’s Claim upon Israel’s Legacy in Luke and Acts in Light of the Pauline Letters. Edited by David P Moessner, Daniel Marguerat, Mikeal C. Parsons, and Michael Wolter. London: T&amp;T Clark, 2012.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “Shepherd of the Lamb: Paul as a Christ-Figure in the Acts of Paul.” Pages 355–69 in <em>Portraits of Jesus: Studies in Christology</em>. Edited by Susan E. Myers<em>. </em>WUNT 321. Tübingen: Mohr Siebeck, 2012.</p>",
+      "line_text": "_____. “Shepherd of the Lamb: Paul as a Christ-Figure in the Acts of Paul.” Pages 355–69 in Portraits of Jesus: Studies in Christology. Edited by Susan E. Myers. WUNT 321. Tübingen: Mohr Siebeck, 2012.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “God and Planning: Footprints of Providence in Acts and in the Acts of Paul.” Pages 259–77 in <em>Method and Meaning: Festschrift for Harold Attridge</em>. Edited by Andrew McGowan. Atlanta: SBL, 2011.</p>",
+      "line_text": "_____. “God and Planning: Footprints of Providence in Acts and in the Acts of Paul.” Pages 259–77 in Method and Meaning: Festschrift for Harold Attridge. Edited by Andrew McGowan. Atlanta: SBL, 2011.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. <em>The Making of Paul: Constructions of the Apostle in Early Christianity</em>. Philadelphia: Fortress Press, 2010.</p>",
+      "line_text": "_____. The Making of Paul: Constructions of the Apostle in Early Christianity. Philadelphia: Fortress Press, 2010.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “A Hard Act to Follow: The Acts of Paul and the Canonical Acts.” <em>Journal of Higher Criticism</em> 2 (1995): 3–32.</p>",
+      "line_text": "_____. “A Hard Act to Follow: The Acts of Paul and the Canonical Acts.” Journal of Higher Criticism 2 (1995): 3–32.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Peterson, Erik. “Die Acta Xanthippae et Polyxenae und die Paulusakten.” <em>AnBoll</em> 65 (1947): 57–60.</p>",
+      "line_text": "Peterson, Erik. “Die Acta Xanthippae et Polyxenae und die Paulusakten.” AnBoll 65 (1947): 57–60.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Einige Bemerkungen zum Hamburger Papyrus-Fragment der Acta Pauli.” <em>VC</em> 3 (1949): 149–62.</p>",
+      "line_text": "__________. “Einige Bemerkungen zum Hamburger Papyrus-Fragment der Acta Pauli.” VC 3 (1949): 149–62.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rensberger, David K. “As the Apostle Teaches: The Development of the Use of Paul’s Letters in Second-Century Christianity.” Ph.D. diss., Yale University, 1981.</p>",
+      "line_text": "Rensberger, David K. “As the Apostle Teaches: The Development of the Use of Paul’s Letters in Second-Century Christianity.” Ph.D. diss., Yale University, 1981.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rohde, Johannes. “Pastoralbriefe und ActaPauli.” <em>Studia Evangelia</em> 5. TU 103.2. Berlin: Akademie, 1968 (pp. 303–10).</p>",
+      "line_text": "Rohde, Johannes. “Pastoralbriefe und ActaPauli.” Studia Evangelia 5. TU 103.2. Berlin: Akademie, 1968 (pp. 303–10).",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rolffs, Ernst.  “Paulusakten,” Pages 192–212 in <em>Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen.</em> Edited by Edgar Hennecke. 2nd ed. Tübingen: J. C. B. Mohr (Paul Siebeck), 1924.</p>",
+      "line_text": "Rolffs, Ernst.  “Paulusakten,” Pages 192–212 in Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher und mit Einleitungen. Edited by Edgar Hennecke. 2nd ed. Tübingen: J. C. B. Mohr (Paul Siebeck), 1924.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Das Problem der Paulusakten.” Pages 135–48 in <em>Harnack-Ehrung. </em>Leipzig: J. C. Hin­richs, 1921.</p>",
+      "line_text": "———. “Das Problem der Paulusakten.” Pages 135–48 in Harnack-Ehrung. Leipzig: J. C. Hin­richs, 1921.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Rordorf, Willy. “Quelques jalons pour une interprétation symbolique des <em>Actes de Paul</em>.” Pages 251–65 in <em>Early Christian Voices: In Texts, Traditions, and Symbols. </em>Edited by David H. Warren, Ann Graham Brock, and David W. Pao. Leiden: Brill, 2003.</p>",
+      "line_text": "Rordorf, Willy. “Quelques jalons pour une interprétation symbolique des Actes de Paul.” Pages 251–65 in Early Christian Voices: In Texts, Traditions, and Symbols. Edited by David H. Warren, Ann Graham Brock, and David W. Pao. Leiden: Brill, 2003.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Relation between the <em>Acts of Peter</em> and the <em>Acts of Paul</em>: State of the Question.” Pages 178ª91 in <em>The Apocryphal Acts of Peter: Magic, Miracles, and Gnosticism</em> Edited by Jan N. Bremmer. Leuven: Peeters, 1998.</p>",
+      "line_text": "———. “The Relation between the Acts of Peter and the Acts of Paul: State of the Question.” Pages 178ª91 in The Apocryphal Acts of Peter: Magic, Miracles, and Gnosticism Edited by Jan N. Bremmer. Leuven: Peeters, 1998.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. “Paul’s Conversion in the Canonical Acts and in the Acts of Paul.” <em>Semeia</em> 80 (1997): 137–44.</p>",
+      "line_text": "_____. “Paul’s Conversion in the Canonical Acts and in the Acts of Paul.” Semeia 80 (1997): 137–44.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Was wissen wir über Plan und Absicht der Paulusakten?” Pages 71–82 in <em>Oecumenica et Patristica: Festschrift für Wilhelm Schneemelcher zum 75. Geburtstag. </em>Edited by In Damaskinos Papandreou, Wolfgang A. Bienert, and Knut Schäferdiek. Stuttgart: Kohlhammer, 1989. Republished as pages 485–96 in <em>Lex Orandi</em>–<em>Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. </em>Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.</p>",
+      "line_text": "———. “Was wissen wir über Plan und Absicht der Paulusakten?” Pages 71–82 in Oecumenica et Patristica: Festschrift für Wilhelm Schneemelcher zum 75. Geburtstag. Edited by In Damaskinos Papandreou, Wolfgang A. Bienert, and Knut Schäferdiek. Stuttgart: Kohlhammer, 1989. Republished as pages 485–96 in Lex Orandi–Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Tertullien et les <em>Actes de Paul.</em>” Pages 475–84 in <em>Lex Orandi</em>–<em>Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. </em>Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.</p>",
+      "line_text": "———.  “Tertullien et les Actes de Paul.” Pages 475–84 in Lex Orandi–Lex Credendi: Gesammelte Aufsätze zum 60. Geburtstag. Paradosis 36. Freiburg: Universitätsverlag Freiburg in der Schweiz, 1993.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“Tertullien et les <em>Actes de Paul</em> (à propos de bapt. 17, 5).” Pages 151–60 in vol. 2 of <em>Autour de Tertullien: </em><em>Hommage à René Braun</em>. Publications de la Faculté des Lettres et Sciences Humaines de Nice 56. Paris: “Les Belles Lettres,” 1990.</p>",
+      "line_text": "———. “Tertullien et les Actes de Paul (à propos de bapt. 17, 5).” Pages 151–60 in vol. 2 of Autour de Tertullien: Hommage à René Braun. Publications de la Faculté des Lettres et Sciences Humaines de Nice 56. Paris: “Les Belles Lettres,” 1990.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Nochmals: Paulusakten und Pastoralbriefe.” Pages 319–27 in <em>Tradition and Interpretation in the New Testament: Essays in Honor of E. Earle Ellis</em>. Edited by Gerald F. Hawthorne with Otto Betz. Grand Rapids: Eerdmans; Tübingen: Mohr [Siebeck], 1987.</p>",
+      "line_text": "———.  “Nochmals: Paulusakten und Pastoralbriefe.” Pages 319–27 in Tradition and Interpretation in the New Testament: Essays in Honor of E. Earle Ellis. Edited by Gerald F. Hawthorne with Otto Betz. Grand Rapids: Eerdmans; Tübingen: Mohr [Siebeck], 1987.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Die neronische Christenverfolgung im Spiegelder apokryphen Paulusakten.” <em>NTS</em> 28 (1982): 365–74.</p>",
+      "line_text": "———.  “Die neronische Christenverfolgung im Spiegelder apokryphen Paulusakten.” NTS 28 (1982): 365–74.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Marriage in the New Testament and in the Early Church.” <em>JEH </em>20 (1969): 193–210.</p>",
+      "line_text": "———.  “Marriage in the New Testament and in the Early Church.” JEH 20 (1969): 193–210.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schmidt, Carl. “Acta Pauli.” <em>FF</em> 12 (1936): 352–54.</p>",
+      "line_text": "Schmidt, Carl. “Acta Pauli.” FF 12 (1936): 352–54.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Die alten Paulusakten in neuer Beleuchtung.” <em>FFS</em> 5 (1929): 266–68.</p>",
+      "line_text": "———.  “Die alten Paulusakten in neuer Beleuchtung.” FFS 5 (1929): 266–68.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Acta Pauli.” <em>Forschungen und Fortschritte</em> 28 (1936): 352-4.</p>",
+      "line_text": "———.  “Acta Pauli.” Forschungen und Fortschritte 28 (1936): 352-4.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. Acta Pauli aus der Heidelberger koptischen Papyrushandschrift. </em>Leipzig: J. C. Hinrichs, 1904.</p>",
+      "line_text": "———. Acta Pauli aus der Heidelberger koptischen Papyrushandschrift. Leipzig: J. C. Hinrichs, 1904.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Neue Funde zu den alten Πράξεις Παύλου.” <em>Sitzungsberichte der preussischen Akademie der Wissenschaften </em>(28 Feb. 1929): 176–83.</p>",
+      "line_text": "———. “Neue Funde zu den alten Πράξεις Παύλου.” Sitzungsberichte der preussischen Akademie der Wissenschaften (28 Feb. 1929): 176–83.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Schneemelcher, Wilhelm. “Die Acta Pauli: Neue Funde und neue Aufgaben.” <em>TLZ</em> 89 (1964): 241–54. Reprinted as pages 182–203 in Wilhelm Schneemelcher, <em>Gesammelte Aufsätze zum Neuen Testament und zur Patristik. </em>Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.</p>",
+      "line_text": "Schneemelcher, Wilhelm. “Die Acta Pauli: Neue Funde und neue Aufgaben.” TLZ 89 (1964): 241–54. Reprinted as pages 182–203 in Wilhelm Schneemelcher, Gesammelte Aufsätze zum Neuen Testament und zur Patristik. Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Die Apostelgeschichte des Lukas und die Acta Pauli.” Pages 236–50 in <em>Apophoreta; Festschrift Ernst Haenchen</em>. Edited by Walther Eltester. BZNW 30. Berlin: Topelmann, 1964. Reprinted as pages 204–22 in Wilhelm Schneemelcher, <em>Gesammelte Aufsätze zum Neuen Testament und zur Patristik. </em>Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.</p>",
+      "line_text": "———.  “Die Apostelgeschichte des Lukas und die Acta Pauli.” Pages 236–50 in Apophoreta; Festschrift Ernst Haenchen. Edited by Walther Eltester. BZNW 30. Berlin: Topelmann, 1964. Reprinted as pages 204–22 in Wilhelm Schneemelcher, Gesammelte Aufsätze zum Neuen Testament und zur Patristik. Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em> “Der getaufte Löwe in den Acta Pauli.” Pages 316–26 in <em>Mullus: Festschrift Theodor Klauser</em>. Edited by Alfred Stuiber and Alfred Hermann. JACSup. 1. Munster; Aschendorff, 1964. Reprinted as pages 223–49 in Wilhelm Schneemelcher, <em>Gesammelte Aufsätze zum Neuen Testament und zur Patristik. </em>Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.</p>",
+      "line_text": "———.  “Der getaufte Löwe in den Acta Pauli.” Pages 316–26 in Mullus: Festschrift Theodor Klauser. Edited by Alfred Stuiber and Alfred Hermann. JACSup. 1. Munster; Aschendorff, 1964. Reprinted as pages 223–49 in Wilhelm Schneemelcher, Gesammelte Aufsätze zum Neuen Testament und zur Patristik. Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“Paulus in der griechischen Kirche des zweiten Jahrhunderts.” <em>ZTK</em> 75 (1964): 1–20. Reprinted as pages 154–81 in Wilhelm Schneemelcher, <em>Gesammelte Aufsätze zum Neuen Testament und zur Patristik. </em>Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.</p>",
+      "line_text": "———. “Paulus in der griechischen Kirche des zweiten Jahrhunderts.” ZTK 75 (1964): 1–20. Reprinted as pages 154–81 in Wilhelm Schneemelcher, Gesammelte Aufsätze zum Neuen Testament und zur Patristik. Edited by W. Bienert and K. Schäferdiek. Thessaloniki: Patriarchal Institute for Patristic Studies, 1974.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sellew, Melissa (née Philip). “Paul, Acts of,” and “Paul, Martyrdom of.” Pages 202–203, 204–205 in vol. 5 of <em>The Anchor Bible Dictionary</em>. Edited by David Noel Freedman. 6 vols. New York: Doubleday, 1992.</p>",
+      "line_text": "Sellew, Melissa (née Philip). “Paul, Acts of,” and “Paul, Martyrdom of.” Pages 202–203, 204–205 in vol. 5 of The Anchor Bible Dictionary. Edited by David Noel Freedman. 6 vols. New York: Doubleday, 1992.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Glenn E. “History of the Martyrdom of Paul.” Pages 343–74 in <em>The Last Years of Paul: Essays from the Tarragona Conference</em>. Edited by Armand Puig i Tàrrech, John M. G. Barclay, Jörg Frey, and Orrey McFarland. Tübingen: Mohr Siebeck, 2015.</p>",
+      "line_text": "Snyder, Glenn E. “History of the Martyrdom of Paul.” Pages 343–74 in The Last Years of Paul: Essays from the Tarragona Conference. Edited by Armand Puig i Tàrrech, John M. G. Barclay, Jörg Frey, and Orrey McFarland. Tübingen: Mohr Siebeck, 2015.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_____. <em>The Acts of Paul: The Formation of a Pauline Corpus</em>. WUNT 2.352. Tübigen: Mohr Siebeck, 2013.</p>",
+      "line_text": "_____. The Acts of Paul: The Formation of a Pauline Corpus. WUNT 2.352. Tübigen: Mohr Siebeck, 2013.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>———. </em>“Remembering the Acts of Paul.” Ph.D. dissertation, Harvard University, 2010.</p>",
+      "line_text": "———. “Remembering the Acts of Paul.” Ph.D. dissertation, Harvard University, 2010.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Snyder, Julia. “Apostles and Politics in the Roman Empire.” Pages 227–56 in <em>Reading the Political in Jewish and Christian Texts</em>. Edited by Julia A. Snyder and Korinna Zamfir. Biblical Texts and Studies 38. Leuven: Peeters, 2020.</p>",
+      "line_text": "Snyder, Julia. “Apostles and Politics in the Roman Empire.” Pages 227–56 in Reading the Political in Jewish and Christian Texts. Edited by Julia A. Snyder and Korinna Zamfir. Biblical Texts and Studies 38. Leuven: Peeters, 2020.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Souter, Alexander. “The ‘Acta Pauli’ etc. in Tertullian.” <em>JTS</em> 25 (1924): 292.</p>",
+      "line_text": "Souter, Alexander. “The ‘Acta Pauli’ etc. in Tertullian.” JTS 25 (1924): 292.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Stoops, Robert F. Jr. “Peter, Paul, and Priority in the Apocryphal Acts.” Pages 225–33 in <em>SBL Seminar Papers, 1992</em>. Atlanta: Scholars Press, 1992.</p>",
+      "line_text": "Stoops, Robert F. Jr. “Peter, Paul, and Priority in the Apocryphal Acts.” Pages 225–33 in SBL Seminar Papers, 1992. Atlanta: Scholars Press, 1992.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tajra, Harry W. <em>The Martyrdom of St. Paul: Historical and Judicial Context, Traditions and Legends. </em>WUNT 2.67. Tübingen: J. C. B. Mohr (Paul Siebeck), 1994.</p>",
+      "line_text": "Tajra, Harry W. The Martyrdom of St. Paul: Historical and Judicial Context, Traditions and Legends. WUNT 2.67. Tübingen: J. C. B. Mohr (Paul Siebeck), 1994.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Thompson, J. David. <em>A Critical Concordance to the New Testament Acts: Acts of Paul</em>. Edited by Watson E. Mills and David Noel Freedman. The Computer Bible 44.1-2. Lewiston: Edwin Mellen, 2001.</p>",
+      "line_text": "Thompson, J. David. A Critical Concordance to the New Testament Acts: Acts of Paul. Edited by Watson E. Mills and David Noel Freedman. The Computer Bible 44.1-2. Lewiston: Edwin Mellen, 2001.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>White, Benjamin. <em>Remembering Paul: Ancient and Modern Contests over the Image of the Apostle</em>. Oxford: Oxford University Press, 2014.</p>",
+      "line_text": "White, Benjamin. Remembering Paul: Ancient and Modern Contests over the Image of the Apostle. Oxford: Oxford University Press, 2014.",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "Acts of Paul",
+      "entry_type": "Other"
+    }
+  ]
+}
