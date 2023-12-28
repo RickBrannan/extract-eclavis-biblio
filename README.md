@@ -1,9 +1,9 @@
 # extract-eclavis-biblio
-Python code to extract NASSCAL e-clavis bibliography entries
+Python code to extract [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/) bibliography entries
 
 # Background
 
-The NASSCAL e-Clavis is a “comprehensive bibliography of Christian Apocrypha research assembled and maintained by members of the North American Society for the Study of Christian Apocryphal Literature (NASSCAL).”
+The [NASSCAL e-Clavis](https://www.nasscal.com/e-clavis-christian-apocrypha/) is a “comprehensive bibliography of Christian Apocrypha research assembled and maintained by members of the North American Society for the Study of Christian Apocryphal Literature (NASSCAL).”
 
 However, the bibliographic entries within the e-Clavis are not easily used. The goal of this code is to isloate each individual bibliographic entry and some context for use in later processing of the data into a BibTex format or something similar for importation into Zotero.
 
