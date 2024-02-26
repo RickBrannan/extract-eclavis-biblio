@@ -9,14 +9,50 @@
   "compiler": "[not available]",
   "bibliography_entries": [
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut 563, pp. 119–120 (Garshuni; 1897)</p>",
+      "line_text": "Beirut 563, pp. 119–120 (Garshuni; 1897)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge Add. ms. 2881, fols. 158v–160r (Garshuni; 1484)</p>",
+      "line_text": "Cambridge Add. ms. 2881, fols. 158v–160r (Garshuni; 1484)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge Add. ms. 2885, fols. 72v–73v (Garshuni; 1771)</p>",
+      "line_text": "Cambridge Add. ms. 2885, fols. 72v–73v (Garshuni; 1771)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">Chicago, Columbia College Library (no further information provided)</p>",
       "line_text": "Chicago, Columbia College Library (no further information provided)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trin. Col. Nr. 1514 (16th cent.) fols. unknown</p>",
+      "line_text": "Dublin, Trin. Col. Nr. 1514 (16th cent.) fols. unknown",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fol. 33v</p>",
       "line_text": "London, British Library, Add. 9965, fol. 33v",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 408 (1258), fols. unknown</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 408 (1258), fols. unknown",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 409 (1534), fols. unknown</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 409 (1534), fols. unknown",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
@@ -39,14 +75,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57<sup>r</sup>–58<sup>v</sup> (mentioned in Cureton p. 154)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57r–58v (mentioned in Cureton p. 154)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57<sup>r</sup>–58<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57r–58v (17th cent.)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24–31 (1550–1556)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24–31 (1550–1556)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24r–29r (1541)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24r–29r (1541)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
@@ -58,6 +94,12 @@
       "other_urls": [
         "https://www.jstor.org/stable/527236"
       ]
+    },
+    {
+      "line_html": "<p>Graf, Georg. <i>Geschichte der Christlichen Arabischen</i> Literatur. 5 vols. Rome: Vatican Apostolic Library, 1944–1953 (manuscripts listed, vol. 1, pp. 237–38).</p>",
+      "line_text": "Graf, Georg. Geschichte der Christlichen Arabischen Literatur. 5 vols. Rome: Vatican Apostolic Library, 1944–1953 (manuscripts listed, vol. 1, pp. 237–38).",
+      "language": "Arabic",
+      "entry_type": "Edition"
     },
     {
       "line_html": "<p><a href=\"http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” <em>Collectanea Christiana Orientalia</em> 5 (2008): 147–181 (edition of Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).</p>",

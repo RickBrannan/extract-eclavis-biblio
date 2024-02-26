@@ -6,7 +6,7 @@
   "abbrev": "Pass. John",
   "clavis_number": 944,
   "category": "Apocryphal Acts",
-  "compiler": "[not available]",
+  "compiler": "Tony Burke, York University",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Bibliothèque nationale de France, lat. 5327, fols. 171<sup>r</sup>–177<sup>v </sup>(10th cent.)</p>",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 12<sup>r</sup>–17<sup>v</sup> (ca. 800)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/montpellier-bibliotheque-de-la-faculte-de-medecine-55/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 12<sup>r</sup>–17<sup>v</sup> (ca. 800)</p>",
       "line_text": "Montpellier, Bibliothèque de la Faculté de médicine, 55, fols. 12r–17v (ca. 800)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 8<span class=\"s1\"><sup>v</sup></span>–9<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 8<span class=\"s1\"><sup>v</sup></span>–9<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
       "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 8v–9r (9th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -43,6 +43,105 @@
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
       ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_kdx7mJsOyoYC/page/130/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Florentinius, Franciscus Maria<i>. Vetustius occidentalis ecclesiae martyrologium</i>. Lucca: Hiacynthi Pacii, 1668 (pp. 130–37).</p>",
+      "line_text": "Florentinius, Franciscus Maria. Vetustius occidentalis ecclesiae martyrologium. Lucca: Hiacynthi Pacii, 1668 (pp. 130–37).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_kdx7mJsOyoYC/page/130/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11284412?q=%28Codex+Apocryphus+Novi+Testamenti+3%29&amp;page=622,623\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 3 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Florentinius’s edition in vol. 3, pp. 604–23).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 3 vols. 2nd ed. Hamburg: Schiller, 1719 (a reprint of Florentinius’s edition in vol. 3, pp. 604–23).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11284412?q=%28Codex+Apocryphus+Novi+Testamenti+3%29&page=622,623"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=Di9cAAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_atb&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Heine, Gotthold. <i>Bibliotheca anecdotorum</i>. Leipzig: T. O. Weigel, 1848 (vol. 1, pp. 109–17).</p>",
+      "line_text": "Heine, Gotthold. Bibliotheca anecdotorum. Leipzig: T. O. Weigel, 1848 (vol. 1, pp. 109–17).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=Di9cAAAAcAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus01gilegoog/page/466/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, J. A. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings</em>. London: D. Nutt, 1852 (reproduction of Fabricius, pp. 467–82).</p>",
+      "line_text": "Giles, J. A. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings. London: D. Nutt, 1852 (reproduction of Fabricius, pp. 467–82).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus01gilegoog/page/466/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=-AQRAAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca</em>. Paris: Cerf, 1857 (reprint of Florentinius’s edition, vol. 5, cols. 1239–50).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Paris: Cerf, 1857 (reprint of Florentinius’s edition, vol. 5, cols. 1239–50).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=-AQRAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Grau, Ángel Fábrega. <em>Pasionario hispánico, siglos VII–XI.</em> 2 vols. Monumenta Hispaniae Sacra, Serie litúrgica 6. Madrid: Consejo Superior de Investigaciones Clientificas, 1955 (repr. of Lipsius-Bonnet’s Latin text, vol. 2, pp. 101–10).</p>",
+      "line_text": "Grau, Ángel Fábrega. Pasionario hispánico, siglos VII–XI. 2 vols. Monumenta Hispaniae Sacra, Serie litúrgica 6. Madrid: Consejo Superior de Investigaciones Clientificas, 1955 (repr. of Lipsius-Bonnet’s Latin text, vol. 2, pp. 101–10).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Yarza Urquiola, Valeriano. <em>Passionarium Hispanicum</em>. CCSA 171<i>.</i> Turnhout: Brepols, 2020 (pp. 509–23).</p>",
+      "line_text": "Yarza Urquiola, Valeriano. Passionarium Hispanicum. CCSA 171. Turnhout: Brepols, 2020 (pp. 509–23).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n299/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Dictionnaire des Apocryphes</em>. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 597–610).</p>",
+      "line_text": "Migne, Jacques-Paul. Dictionnaire des Apocryphes. 2 vols. 1856. Repr., Turnhout: Brepols, 1989 (vol. 2, cols. 597–610).",
+      "language": "English",
+      "entry_type": "French",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FDARAAAAYAAJ/page/n299/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. in 4. Turin: Marietti, 1966–1981 (vol. 1.2, pp. 635–42).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. in 4. Turin: Marietti, 1966–1981 (vol. 1.2, pp. 635–42).",
+      "language": "English",
+      "entry_type": "Italian"
+    },
+    {
+      "line_html": "<p>Bremmer, Rolf H. “The Reception of the Acts of John in Anglo Saxon England.” Pages 183–96 in <em>The Apocryphal Acts of John. </em>Edited by Jan. N. Bremmer. SAAA 1. Kampen: Kok Pharos, 1995 (with discussion of the use of Ps.-Melito in the homiliary of Pembroke 25 item 9, the Cotton-Corpus Legendary, and Aelfric; includes English translation of Aelfric’s <em>Homily on the Assumption of John</em>, pp. 188–96).</p>",
+      "line_text": "Bremmer, Rolf H. “The Reception of the Acts of John in Anglo Saxon England.” Pages 183–96 in The Apocryphal Acts of John. Edited by Jan. N. Bremmer. SAAA 1. Kampen: Kok Pharos, 1995 (with discussion of the use of Ps.-Melito in the homiliary of Pembroke 25 item 9, the Cotton-Corpus Legendary, and Aelfric; includes English translation of Aelfric’s Homily on the Assumption of John, pp. 188–96).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Junod, Eric, and Jean-Daniel Kaestli. <em>Acta Iohannis</em>. CCSA 1–2. Turnhout: Brepols, 1983 (vol. 2, pp. 750–98).</p>",
+      "line_text": "Junod, Eric, and Jean-Daniel Kaestli. Acta Iohannis. CCSA 1–2. Turnhout: Brepols, 1983 (vol. 2, pp. 750–98).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n427/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ein Beitrag zur altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (see vol. 1, pp. 408–33).</p>",
+      "line_text": "Lipsius, Richard A. Die Apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1887 (see vol. 1, pp. 408–33).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/n427/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Schäferdiek, Knut. “Die ‘Passio Johannis’ des Melito von Laodikeia und die ‘Virtutes Johannis.’” <em>AnBoll</em> 103 (1985): 367–82.</p>",
+      "line_text": "Schäferdiek, Knut. “Die ‘Passio Johannis’ des Melito von Laodikeia und die ‘Virtutes Johannis.’” AnBoll 103 (1985): 367–82.",
+      "language": "English",
+      "entry_type": "Other"
     },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",

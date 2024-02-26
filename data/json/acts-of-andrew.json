@@ -123,8 +123,8 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Kurtcikidze, T.C., [The Georgian Version of the Apocryphal Acts of the Apostles from ninth-eleventh-century Manuscripts] (in Georgian) Tbilisi, 1959 pp. 21-42.</p>",
-      "line_text": "Kurtcikidze, T.C., [The Georgian Version of the Apocryphal Acts of the Apostles from ninth-eleventh-century Manuscripts] (in Georgian) Tbilisi, 1959 pp. 21-42.",
+      "line_html": "<p>K‘urc‘ikiże, C‘iala. <em>Kartuli versiebi aṗoḳripebis mocikulta šesaxeb</em> [Georgian Versions of the Apocryphal Acts of the Apostles]. Tbilisi: Sakartvelos SSR mecnierebata akademiis gamomcemloba, 1959 (pp. 21–42).</p>",
+      "line_text": "K‘urc‘ikiże, C‘iala. Kartuli versiebi aṗoḳripebis mocikulta šesaxeb [Georgian Versions of the Apocryphal Acts of the Apostles]. Tbilisi: Sakartvelos SSR mecnierebata akademiis gamomcemloba, 1959 (pp. 21–42).",
       "language": "Georgian",
       "entry_type": "Edition"
     },
@@ -253,8 +253,8 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>MacDonald, Dennis R., ed. and trans. <em>The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals</em>. Society of Biblical Literature Texts and Translations 33: Christian Apocrypha 1. Atlanta: Scholars Press, 1990 (ed. and trans? of <em>Mir. Andr.</em>, pp. 2–33; Coptic, pp. 218–?; Martyrdom, pp. 326–443).</p>",
-      "line_text": "MacDonald, Dennis R., ed. and trans. The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals. Society of Biblical Literature Texts and Translations 33: Christian Apocrypha 1. Atlanta: Scholars Press, 1990 (ed. and trans? of Mir. Andr., pp. 2–33; Coptic, pp. 218–?; Martyrdom, pp. 326–443).",
+      "line_html": "<p>MacDonald, Dennis R., ed. and trans. <em>The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals</em>. Society of Biblical Literature Texts and Translations 33: Christian Apocrypha 1. Atlanta: Scholars Press, 1990 (ed. and trans. of <em>Mir. Andr.</em> 2–33, pp. 188–317; Martyrdom, pp. 326–443).</p>",
+      "line_text": "MacDonald, Dennis R., ed. and trans. The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals. Society of Biblical Literature Texts and Translations 33: Christian Apocrypha 1. Atlanta: Scholars Press, 1990 (ed. and trans. of Mir. Andr. 2–33, pp. 188–317; Martyrdom, pp. 326–443).",
       "language": "Greek",
       "entry_type": "Edition"
     },
@@ -292,6 +292,12 @@
       "entry_type": "Translation"
     },
     {
+      "line_html": "<p>———, ed. and trans. <em>The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals</em>. Society of Biblical Literature Texts and Translations 33: Christian Apocrypha 1. Atlanta: Scholars Press, 1990 (ed. and trans. of <em>Mir. Andr.</em> 2–33, pp. 188–317; Martyrdom, pp. 326–443).</p>",
+      "line_text": "———, ed. and trans. The Acts of Andrew and the Acts of Andrew and Matthias in the City of the Cannibals. Society of Biblical Literature Texts and Translations 33: Christian Apocrypha 1. Atlanta: Scholars Press, 1990 (ed. and trans. of Mir. Andr. 2–33, pp. 188–317; Martyrdom, pp. 326–443).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphalactsof00pickuoft/page/200/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pick, Bernhard. <em>The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas.</em> Chicago: Open Court Publishing Co., 1909 (includes translation of Vat. gr. 808 from Bonnet, pp. 203–14; and the Martyrdom reconstructed from texts in Bonnet, pp. 215–21).</p>",
       "line_text": "Pick, Bernhard. The Apocryphal Acts of Paul, Peter, John, Andrew and Thomas. Chicago: Open Court Publishing Co., 1909 (includes translation of Vat. gr. 808 from Bonnet, pp. 203–14; and the Martyrdom reconstructed from texts in Bonnet, pp. 215–21).",
       "language": "English",
@@ -301,56 +307,32 @@
       ]
     },
     {
-      "line_html": "<p>Prieur, Jean-Marc. “Actes d’André.” Pages 877–972 in <em>Écrits apocryphes chr</em><em>é</em><em>tiens </em>I. Edited by Pierre Geoltrainand Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005. (translations from Prieur, CCSA 6: pp.  Martyrdom, pp. 887-928; Coptic, pp. 929–33; <em>Mir. Andr.</em>, 934–72).</p>",
-      "line_text": "Prieur, Jean-Marc. “Actes d’André.” Pages 877–972 in Écrits apocryphes chrétiens I. Edited by Pierre Geoltrainand Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005. (translations from Prieur, CCSA 6: pp.  Martyrdom, pp. 887-928; Coptic, pp. 929–33; Mir. Andr., 934–72).",
+      "line_html": "<p>Prieur, Jean-Marc. “Actes d’André.” Pages 877–972 in <em>Écrits apocryphes chr</em><em>é</em><em>tiens </em>I. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005. (translations from Prieur, CCSA 6; Martyrdom, pp. 887–928; Coptic, pp. 929–33; <em>Mir. Andr.</em>, 934–72).</p>",
+      "line_text": "Prieur, Jean-Marc. “Actes d’André.” Pages 877–972 in Écrits apocryphes chrétiens I. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005. (translations from Prieur, CCSA 6; Martyrdom, pp. 887–928; Coptic, pp. 929–33; Mir. Andr., 934–72).",
       "language": "French",
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>Hennecke, Edgar, ed. <em>Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in </em><em>deutscher Überlieferung und </em>mit <em>Einleitungen. </em>Tubingen: Mohr-Siebeck, 1904. (trans. by Georg Schimmelpfeng, pp. 459–73).</p>",
-      "line_text": "Hennecke, Edgar, ed. Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher Überlieferung und mit Einleitungen. Tubingen: Mohr-Siebeck, 1904. (trans. by Georg Schimmelpfeng, pp. 459–73).",
+      "line_html": "<p>Hennecke, Edgar, ed. <em>Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in </em><em>deutscher Überlieferung und </em>mit <em>Einleitungen. </em>Tubingen: Mohr-Siebeck, 1904 (trans. by Georg Schimmelpfeng, pp. 459–73); 2d German ed., 1924 <em>(Acts ofAndrew </em>trans. by Hennecke): 249-56; 3d German ed., 1959–1964 (2 vols.; ed. with Wilhelm Schneemelcher; <em>Acts of Andrew </em>trans. by Manfred Hornschuh): 2. 270–97; English translation of the 3d ed.: Edgar Hennecke and Wilhelm Schneemelcher, eds., McL. Wilson, trans. ed., <em>New Testament Apocrypha </em>(2 vols.; London: Lutterworth; Philadelphia: Westminster, 1962–1965): 390–425. 5th ed., 1987–1989 (ed. by Schneemelcher; <em>Acts of Andrew </em>trans. by various scholars, 2: 93–137).</p>",
+      "line_text": "Hennecke, Edgar, ed. Neutestamentliche Apokryphen in Verbindung mit Fachgelehrten in deutscher Überlieferung und mit Einleitungen. Tubingen: Mohr-Siebeck, 1904 (trans. by Georg Schimmelpfeng, pp. 459–73); 2d German ed., 1924 (Acts ofAndrew trans. by Hennecke): 249-56; 3d German ed., 1959–1964 (2 vols.; ed. with Wilhelm Schneemelcher; Acts of Andrew trans. by Manfred Hornschuh): 2. 270–97; English translation of the 3d ed.: Edgar Hennecke and Wilhelm Schneemelcher, eds., McL. Wilson, trans. ed., New Testament Apocrypha (2 vols.; London: Lutterworth; Philadelphia: Westminster, 1962–1965): 390–425. 5th ed., 1987–1989 (ed. by Schneemelcher; Acts of Andrew trans. by various scholars, 2: 93–137).",
       "language": "German",
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>2d German ed., 1924 <em>(Acts ofAndrew </em>trans. by Hennecke): 249-56;</p>",
-      "line_text": "2d German ed., 1924 (Acts ofAndrew trans. by Hennecke): 249-56;",
+      "line_html": "<p>English translation of the 5th ed.: Wilhelm Schneemelcher, ed.,R. McL. Wilson, trans. (rev. ed.; Cambridge: Clark; Louisville: Westminster/John Knox, 1991), 2:101–51.</p>",
+      "line_text": "English translation of the 5th ed.: Wilhelm Schneemelcher, ed.,R. McL. Wilson, trans. (rev. ed.; Cambridge: Clark; Louisville: Westminster/John Knox, 1991), 2:101–51.",
       "language": "German",
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>3d German ed., 1959-64 (2 vols.; ed. with Wilhelm Schneemelcher; <em>Acts of Andrew </em>trans. by Manfred Hornschuh): 2. 270-97;</p>",
-      "line_text": "3d German ed., 1959-64 (2 vols.; ed. with Wilhelm Schneemelcher; Acts of Andrew trans. by Manfred Hornschuh): 2. 270-97;",
-      "language": "German",
-      "entry_type": "Translation"
-    },
-    {
-      "line_html": "<p>English translation of the 3d ed.: Edgar Hennecke and Wilhelm Schneemelcher, eds., McL. Wilson, trans. ed., <em>New Testament Apocrypha </em>(2 vols.; London: Lutterworth; Philadelphia: Westminster, 1962-65): 390-425.</p>",
-      "line_text": "English translation of the 3d ed.: Edgar Hennecke and Wilhelm Schneemelcher, eds., McL. Wilson, trans. ed., New Testament Apocrypha (2 vols.; London: Lutterworth; Philadelphia: Westminster, 1962-65): 390-425.",
-      "language": "German",
-      "entry_type": "Translation"
-    },
-    {
-      "line_html": "<p>5th ed., 1987-89 (ed, by Schneemelcher; <em>Acts ofAndrew </em>trans. by various scholars) 2. 93-137;</p>",
-      "line_text": "5th ed., 1987-89 (ed, by Schneemelcher; Acts ofAndrew trans. by various scholars) 2. 93-137;",
-      "language": "German",
-      "entry_type": "Translation"
-    },
-    {
-      "line_html": "<p>English translation ofthe 5th ed.: Wilhelm Schneemelcher, ed.,R. MeL. Wilson, trans. (rev. ed.; Cambridge: Clark; Louisville: Westminster/John Knox, 1991): 2. 101-51;</p>",
-      "line_text": "English translation ofthe 5th ed.: Wilhelm Schneemelcher, ed.,R. MeL. Wilson, trans. (rev. ed.; Cambridge: Clark; Louisville: Westminster/John Knox, 1991): 2. 101-51;",
-      "language": "German",
-      "entry_type": "Translation"
-    },
-    {
-      "line_html": "<p>Erbetta, M., <em>Gli apocrifi del Nuovo Testamento</em> Casale Monferrato: Editici Marietti, 1966, 1975 reprinted 1978, 1981, 1983, three parts in four volumes, II pp. 395-505; 530-534; 537-538. (Cod. Var. 808, Utrecht 1, martyrdom)</p>",
-      "line_text": "Erbetta, M., Gli apocrifi del Nuovo Testamento Casale Monferrato: Editici Marietti, 1966, 1975 reprinted 1978, 1981, 1983, three parts in four volumes, II pp. 395-505; 530-534; 537-538. (Cod. Var. 808, Utrecht 1, martyrdom)",
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (Martyrdom, pp. 399–403; Coptic, pp. 404–406).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (Martyrdom, pp. 399–403; Coptic, pp. 404–406).",
       "language": "Italian",
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>Moraldi, Luigi, ed. and trans. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 2:1351–694 with <em>Mir. Andr.</em>, pp. 1363–95; Vat. gr. 808, pp. 1414–23; Coptic, pp. 1424–27).</p>",
-      "line_text": "Moraldi, Luigi, ed. and trans. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 2:1351–694 with Mir. Andr., pp. 1363–95; Vat. gr. 808, pp. 1414–23; Coptic, pp. 1424–27).",
+      "line_html": "<p>Moraldi, Luigi, ed. and trans. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 2:1351–694 with <em>Mir. Andr.</em>, pp. 1363–95; Martyrdom, pp. 1396–1423; Coptic, pp. 1424–27).</p>",
+      "line_text": "Moraldi, Luigi, ed. and trans. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 2:1351–694 with Mir. Andr., pp. 1363–95; Martyrdom, pp. 1396–1423; Coptic, pp. 1424–27).",
       "language": "Italian",
       "entry_type": "Translation"
     },

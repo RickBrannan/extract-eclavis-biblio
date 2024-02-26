@@ -15,20 +15,20 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>A:</strong> London, British Library, Or. 689 (Wright 253), fol. 54<sup>r</sup> (15th cent.)</p>",
-      "line_text": "A: London, British Library, Or. 689 (Wright 253), fol. 54r (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  London, British Library, Or. 689 (Wright 253), fol. 54<sup>r</sup> (15th cent.)</p>",
+      "line_text": "A  London, British Library, Or. 689 (Wright 253), fol. 54r (15th cent.)",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>B:</strong> Eritrea, Eritrea Parish Church, EMML 1479, fols. 94<sup>r</sup>–95<sup>v</sup> (1459/1460)</p>",
-      "line_text": "B: Eritrea, Eritrea Parish Church, EMML 1479, fols. 94r–95v (1459/1460)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B </strong> Eritrea, Eritrea Parish Church, EMML 1479, fols. 94<sup>r</sup>–95<sup>v</sup> (1459/1460)</p>",
+      "line_text": "B  Eritrea, Eritrea Parish Church, EMML 1479, fols. 94r–95v (1459/1460)",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C:</strong> Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97<sup>r</sup>–99<sup>v</sup> (14th/15th cent.)</p>",
-      "line_text": "C: Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97r–99v (14th/15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C </strong> Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97<sup>r</sup>–99<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "C  Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97r–99v (14th/15th cent.)",
       "language": "Ethiopic",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -42,14 +42,14 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>K (Goodspeed’s C):</strong> London, British Library, Or. 686 (Wright 257), fol. 49<sup>r</sup> (18th cent.)</p>",
-      "line_text": "K (Goodspeed’s C): London, British Library, Or. 686 (Wright 257), fol. 49r (18th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>K (Goodspeed’s C) </strong> London, British Library, Or. 686 (Wright 257), fol. 49<sup>r</sup> (18th cent.)</p>",
+      "line_text": "K (Goodspeed’s C)  London, British Library, Or. 686 (Wright 257), fol. 49r (18th cent.)",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>L (Goodspeed’s B):</strong> London, British Library, Or. 687–688 (Wright 258), fol. 68<sup>r</sup> (18 cent.)</p>",
-      "line_text": "L (Goodspeed’s B): London, British Library, Or. 687–688 (Wright 258), fol. 68r (18 cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L (Goodspeed’s B) </strong> London, British Library, Or. 687–688 (Wright 258), fol. 68<sup>r</sup> (18 cent.)</p>",
+      "line_text": "L (Goodspeed’s B)  London, British Library, Or. 687–688 (Wright 258), fol. 68r (18 cent.)",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },

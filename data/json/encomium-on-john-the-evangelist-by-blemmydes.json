@@ -3,6 +3,7 @@
   "nasscal_title": "Encomium on John the Evangelist by Blemmydes",
   "filename": "encomium-on-john-the-evangelist-by-blemmydes",
   "latin_title": "Laudatio Iohannis theologi, auctore Nicephoro Blemmyde",
+  "abbrev": "Encom. John",
   "alt_titles": [
     "Encomium on John the Evangelist"
   ],
@@ -207,8 +208,14 @@
       ]
     },
     {
-      "line_html": "<p>Munitz, Joseph A. “Blemmydes’ Encomium on St John the Evangelist (BHG 931).” <em>AnBoll </em>107 (1989): 285–346.</p>",
-      "line_text": "Munitz, Joseph A. “Blemmydes’ Encomium on St John the Evangelist (BHG 931).” AnBoll 107 (1989): 285–346.",
+      "line_html": "<p>Munitz, Joseph A. “Blemmydes’ Encomium on St John the Evangelist (BHG 931).” <em>AnBoll </em>107 (1989): 285–346 (edition with facing English translation, pp. 302–46).</p>",
+      "line_text": "Munitz, Joseph A. “Blemmydes’ Encomium on St John the Evangelist (BHG 931).” AnBoll 107 (1989): 285–346 (edition with facing English translation, pp. 302–46).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Munitz, Joseph A. “Blemmydes’ Encomium on St John the Evangelist (BHG 931).” <em>AnBoll </em>107 (1989): 285–346 (edition with facing English translation, pp. 302–46).</p>",
+      "line_text": "Munitz, Joseph A. “Blemmydes’ Encomium on St John the Evangelist (BHG 931).” AnBoll 107 (1989): 285–346 (edition with facing English translation, pp. 302–46).",
       "language": "English",
       "entry_type": "Translation"
     },

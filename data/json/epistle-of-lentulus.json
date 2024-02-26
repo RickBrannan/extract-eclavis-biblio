@@ -207,10 +207,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>8</sup></strong> Paris, Bibliothèque nationale de France, n. a. l. 1151, fol. 71 (15th/16th cent.)</p>",
-      "line_text": "c8 Paris, Bibliothèque nationale de France, n. a. l. 1151, fol. 71 (15th/16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>8</sup></strong> Paris, Bibliothèque nationale de France, n. a. l. 1151, fol. 71 (15th/16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10032558t\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "c8 Paris, Bibliothèque nationale de France, n. a. l. 1151, fol. 71 (15th/16th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10032558t"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong>c<sup>9</sup></strong> Munich, Bayerische Staatsbibliothek, 443, fol. 114 (1479/85)</p>",
@@ -375,10 +378,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>2</sup></strong>Paris, Bibliothèque nationale de France, lat. 2962, fol. 174 (15th/16th cent.)</p>",
-      "line_text": "f2Paris, Bibliothèque nationale de France, lat. 2962, fol. 174 (15th/16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>2</sup></strong>Paris, Bibliothèque nationale de France, lat. 2962, fol. 174 (15th/16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b108766831\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "f2Paris, Bibliothèque nationale de France, lat. 2962, fol. 174 (15th/16th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b108766831"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong>f<sup>3</sup></strong>Munich, Bayerische Staatsbibliothek, lat. 5350, fol. 112 (15th cent.)</p>",
@@ -678,16 +684,19 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Elliott, J.K. <em>The Apocryphal New Testament. </em>Oxford: Clarendon Press, 1993 (pp. 542-43).</p>",
-      "line_text": "Elliott, J.K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 542-43).",
+      "line_html": "<p>Elliott, J.K. <em>The Apocryphal New Testament. </em>Oxford: Clarendon Press, 1993 (pp. 542–43).</p>",
+      "line_text": "Elliott, J.K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 542–43).",
       "language": "English",
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 477–78).</p>",
-      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (pp. 477–78).",
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n501/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (pp. 477–78).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (pp. 477–78).",
       "language": "English",
-      "entry_type": "Translation"
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n501/mode/2up"
+      ]
     },
     {
       "line_html": "<p>Backus, Irena. “Lettre de Lentulus.” Pages 1123–29 in vol. 2 of <em>Écrits apocryphes chrétiens</em>. Edited by P. Geoltrain and J.-D. Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005.</p>",

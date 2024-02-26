@@ -90,6 +90,15 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 35<sup>v</sup>–42<sup>r</sup> (9th/10th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.5771\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 35v–42r (9th/10th cent.) ~ BAV",
+      "language": ".1 Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.5771"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-455/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, cod. 455, fols. 121<sup>r</sup>–134<sup>r</sup> (9th cent.)</p>",
       "line_text": "Vienna, Österreichische Nationalbibliothek, cod. 455, fols. 121r–134r (9th cent.)",
       "language": ".1 Latin",
@@ -168,8 +177,8 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Talamo Atenolfi, Giuseppe.<em> I testi medioevali degli Atti di S. Matteo l’Evangelista.</em> Rome: Bestetti, 1958 (Latin text with Italian translation).</p>",
-      "line_text": "Talamo Atenolfi, Giuseppe. I testi medioevali degli Atti di S. Matteo l’Evangelista. Rome: Bestetti, 1958 (Latin text with Italian translation).",
+      "line_html": "<p>Talamo Atenolfi, Giuseppe.<em> I testi medioevali degli Atti di S. Matteo l’Evangelista.</em> Rome: Bestetti, 1958 (Latin text of Vat. lat. 5771 with Italian translation, pp. 58–81).</p>",
+      "line_text": "Talamo Atenolfi, Giuseppe. I testi medioevali degli Atti di S. Matteo l’Evangelista. Rome: Bestetti, 1958 (Latin text of Vat. lat. 5771 with Italian translation, pp. 58–81).",
       "language": ".1 Latin",
       "entry_type": "Edition"
     },

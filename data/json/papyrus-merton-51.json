@@ -2,14 +2,102 @@
   "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-merton-51/",
   "nasscal_title": "Papyrus Merton 51",
   "filename": "papyrus-merton-51",
-  "latin_title": "1. SUMMARY",
-  "clavis_number": 0,
+  "latin_title": "Papyrus Merton 51",
+  "abbrev": "P. Mert. 51",
+  "clavis_number": 441,
   "category": "Agrapha and Fragments",
-  "compiler": "[not available]",
+  "compiler": "Thomas A. Wayment, Brigham Young University",
   "bibliography_entries": [
     {
-      "line_html": "<p>Nicklas, Tobias. “Gospel Fragments on Papyrus.” Pages 22–37 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 34–35).</p>",
-      "line_text": "Nicklas, Tobias. “Gospel Fragments on Papyrus.” Pages 22–37 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 34–35).",
+      "line_html": "<p style=\"padding-left: 40px;\"><span lang=\"EN-US\" style=\"color: black;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/p-merton-ii-51/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Chester Beatty Library, P. Merton II 51 (3rd cent.)</span></p>",
+      "line_text": "Dublin, Chester Beatty Library, P. Merton II 51 (3rd cent.)",
+      "language": "English",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/p-merton-ii-51/"
+      ]
+    },
+    {
+      "line_html": "<p>Rees, B.R., H. I. Bell, and J. W. B. Barnes. <em>A Descriptive Catalogue of the Greek Papyri in the Collection of Wilfred Merton</em>. 2 vols. Dublin: Hodges &amp; Figgis, 1959 (<em>editio princeps, </em>vol. 2, p. 1–4, pl. I).</p>",
+      "line_text": "Rees, B.R., H. I. Bell, and J. W. B. Barnes. A Descriptive Catalogue of the Greek Papyri in the Collection of Wilfred Merton. 2 vols. Dublin: Hodges &amp; Figgis, 1959 (editio princeps, vol. 2, p. 1–4, pl. I).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Lührmann, Dieter, and Egbert Schlarb. <em>Fragmente apokryph gewordener Evangelien in griechischer und lateinischer Sprace</em>. Marburger theologische Studien 59. Marburg: N. G. Elwert Verlag, 2000 (pp. 155–57).</p>",
+      "line_text": "Lührmann, Dieter, and Egbert Schlarb. Fragmente apokryph gewordener Evangelien in griechischer und lateinischer Sprace. Marburger theologische Studien 59. Marburg: N. G. Elwert Verlag, 2000 (pp. 155–57).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bernhard, Andrew. <em>Other Early Christian Gospels: A Critical Edition of the Surviving Greek Manuscripts</em>. Edinburgh: T&amp;T Clarke, 2006 (pp. 99, 106–107).</p>",
+      "line_text": "Bernhard, Andrew. Other Early Christian Gospels: A Critical Edition of the Surviving Greek Manuscripts. Edinburgh: T&amp;T Clarke, 2006 (pp. 99, 106–107).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (p. 45).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (p. 45).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kraus, Thomas J. “P. Mert. 51.” Pages 252–63 in <em>Gospel Fragments</em>. Edited by Thomas J. Kraus, Tobias Nicklas, and Michael J. Kruger. Oxford: Oxford University Press, 2009 (edition and translation, pp. 256–59).</p>",
+      "line_text": "Kraus, Thomas J. “P. Mert. 51.” Pages 252–63 in Gospel Fragments. Edited by Thomas J. Kraus, Tobias Nicklas, and Michael J. Kruger. Oxford: Oxford University Press, 2009 (edition and translation, pp. 256–59).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kraus, Thomas J. “P. Merton II 51 (P. Mert. II 51).” Pages 385–86 in <em>A</em><em>ntike christliche Apokryphen in deutscher Übersetzung.</em> Edited by Christoph Markschies and Jens Schröter. Band 1: <em>Evangelien und Verwandtes.</em> 12. Auflage, Mohr Siebeck, Tübingen 2012.</p>",
+      "line_text": "Kraus, Thomas J. “P. Merton II 51 (P. Mert. II 51).” Pages 385–86 in Antike christliche Apokryphen in deutscher Übersetzung. Edited by Christoph Markschies and Jens Schröter. Band 1: Evangelien und Verwandtes. 12. Auflage, Mohr Siebeck, Tübingen 2012.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Charlesworth, James D. <em>Early Christian Gospels: Their Production and Transmission</em>. Papyrologica Florentina, 47. Edizioni Gonnelli: Firenze, 2016 (pp. 140–51).</p>",
+      "line_text": "Charlesworth, James D. Early Christian Gospels: Their Production and Transmission. Papyrologica Florentina, 47. Edizioni Gonnelli: Firenze, 2016 (pp. 140–51).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “The Earliest Christian Manuscripts and their Contribution to the History of the Canon.” <em>Annales Theologici</em> 35.2 (2021): 429–45.</p>",
+      "line_text": "Chapa, Juan. “The Earliest Christian Manuscripts and their Contribution to the History of the Canon.” Annales Theologici 35.2 (2021): 429–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Écrits apocryphes chrétiens: Ein Sammelband als Spiegel eines Weitreichenden Paradigmenwechsels in der Apokryphenforschung.” <em>VC </em>61.1 (2007): 70–95.</p>",
+      "line_text": "Nicklas, Tobias. “Écrits apocryphes chrétiens: Ein Sammelband als Spiegel eines Weitreichenden Paradigmenwechsels in der Apokryphenforschung.” VC 61.1 (2007): 70–95.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>____________. “Gospel Fragments on Papyrus.” Pages 22–37 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 34–35).</p>",
+      "line_text": "____________. “Gospel Fragments on Papyrus.” Pages 22–37 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022 (pp. 34–35).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraus, Thomas J. “Reconstructing Fragmentary Manuscripts—Chances and Limitations.” Pages 1–38 in <em>Early Christian Manuscripts: Examples of Applied Method and Approach</em>. Edited by Thomas J. Kraus and Tobias Nicklas. TENTS 5. Leiden: Brill, 2010.</p>",
+      "line_text": "Kraus, Thomas J. “Reconstructing Fragmentary Manuscripts—Chances and Limitations.” Pages 1–38 in Early Christian Manuscripts: Examples of Applied Method and Approach. Edited by Thomas J. Kraus and Tobias Nicklas. TENTS 5. Leiden: Brill, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraus, Thomas J. and Tobias Nicklas, eds. “The World of New Testament Manuscripts: ‘Every Manuscript Tells a Story.’” Pages 1–11 in <em>New Testament Manuscripts</em>. TENTS 2. Leiden: Brill, 2006.</p>",
+      "line_text": "Kraus, Thomas J. and Tobias Nicklas, eds. “The World of New Testament Manuscripts: ‘Every Manuscript Tells a Story.’” Pages 1–11 in New Testament Manuscripts. TENTS 2. Leiden: Brill, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Panegyres, Konstantine. “Through the Narrow Gate of Heaven: Christian Fragments from the Bodleian Library.” <em>AFP</em> 69.2 (2023): 318–30.</p>",
+      "line_text": "Panegyres, Konstantine. “Through the Narrow Gate of Heaven: Christian Fragments from the Bodleian Library.” AFP 69.2 (2023): 318–30.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Porter, Stanley E. “What Do We Know and How Do We Know It? Reconstructing Early Christianity from Its Manuscripts.” Pages 41–70 in <em>Christian Origins and Greco-Roman Culture</em>. Edited by Stanley E. Porter and A. Pitts. TENTS 9. Leiden: Brill, 2013.</p>",
+      "line_text": "Porter, Stanley E. “What Do We Know and How Do We Know It? Reconstructing Early Christianity from Its Manuscripts.” Pages 41–70 in Christian Origins and Greco-Roman Culture. Edited by Stanley E. Porter and A. Pitts. TENTS 9. Leiden: Brill, 2013.",
       "language": "English",
       "entry_type": "Other"
     },

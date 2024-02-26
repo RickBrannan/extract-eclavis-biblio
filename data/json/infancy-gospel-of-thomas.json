@@ -644,10 +644,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>LV  </strong>Vienna, Österreichische Nationalbibliothek, Cod. 563 (5th cent.)</p>",
-      "line_text": "LV  Vienna, Österreichische Nationalbibliothek, Cod. 563 (5th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-563/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>LV  </strong>Vienna, Österreichische Nationalbibliothek, Cod. 563, undertext fols. 132, 135, 137, 141, 142, 171, 176 (5th cent.)</p>",
+      "line_text": "LV  Vienna, Österreichische Nationalbibliothek, Cod. 563, undertext fols. 132, 135, 137, 141, 142, 171, 176 (5th cent.)",
       "language": ".1 First Latin Version",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-563/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong>LM  </strong>The <em>pars altera</em> of <em>Gospel of Pseudo-Matthew</em> based on Paris, Bibl. nat., lat. 1652 (15th cent.) and Vat. lat. 4578 (16th cent.); additional <em>pars altera</em> MSS listed in Gijsel 1997</p>",

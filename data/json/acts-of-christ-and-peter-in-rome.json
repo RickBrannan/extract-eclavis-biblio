@@ -108,10 +108,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ferr. 830, fols. 33–50 (16th/17th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ferr. 830, fols. 33–50 (16th/17th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ferr. 830, fols. 33–50 (16th/17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65241/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ferr. 830, fols. 33–50 (16th/17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65241/"
+      ]
     },
     {
       "line_html": "<p>Capaldo, Mario. “Tradizione greca e slava degli Acta fabulosa di san Pietro (BHG 1485f).” <em>Rivista di studi bizantini e neoellenici</em> 39 (2002): 93–143 (edition and Italian translation, pp. 104–25).</p>",

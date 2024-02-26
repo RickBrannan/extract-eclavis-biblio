@@ -29,44 +29,47 @@
       "entry_type": "Syriac (BHO 643–644)"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Leeds, University of Leeds, Syr. 1 (1890)</p>",
-      "line_text": "A  Leeds, University of Leeds, Syr. 1 (1890)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>A</strong>  Leeds, University of Leeds, Syr. 1, fols. 2<sup>v</sup>–82<sup>r</sup> (1890)</p>",
+      "line_text": "A  Leeds, University of Leeds, Syr. 1, fols. 2v–82r (1890)",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong> Mardin, Chaldean Cathedral, 2 (1678)</p>",
-      "line_text": "M Mardin, Chaldean Cathedral, 2 (1678)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Mardin, Mar Hirmiz Keldani Kilisesi, 2, fols. 1<sup>r</sup>–136<sup>v</sup> (1678) ~ formerly cataloged as Chaldean Cathedral 2; <a href=\"https://w3id.org/vhmml/readingRoom/view/132205\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "M  Mardin, Mar Hirmiz Keldani Kilisesi, 2, fols. 1r–136v (1678) ~ formerly cataloged as Chaldean Cathedral 2; HMML",
+      "language": "Recension A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/132205"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>N  </strong>Edgbaston, University of Birmingham, Mingana Syr. 502, fols. 2<sup>v</sup>–92<sup>r</sup> (1836)</p>",
+      "line_text": "N  Edgbaston, University of Birmingham, Mingana Syr. 502, fols. 2v–92r (1836)",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>N </strong>Edgbaston, University of Birmingham, Mingana Syr. 502 (1836)</p>",
-      "line_text": "N Edgbaston, University of Birmingham, Mingana Syr. 502 (1836)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D  </strong>Edgbaston, University of Birmingham, Mingana Syr. 122, fols. 1<sup>r</sup>–112<sup>v</sup> (1670)</p>",
+      "line_text": "D  Edgbaston, University of Birmingham, Mingana Syr. 122, fols. 1r–112v (1670)",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>D </strong>Edgbaston, University of Birmingham, Mingana Syr. 122 (1670)</p>",
-      "line_text": "D Edgbaston, University of Birmingham, Mingana Syr. 122 (1670)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>E</strong>  Cambridge, Cambridge University Library, Add. 2020, fols. 153<sup>v</sup>–188<sup>r</sup><em>(</em>1697)</p>",
+      "line_text": "E  Cambridge, Cambridge University Library, Add. 2020, fols. 153v–188r(1697)",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>E</strong>  Cambridge, Cambridge University Library, Add. 2020 <em>(</em>1697)</p>",
-      "line_text": "E  Cambridge, Cambridge University Library, Add. 2020 (1697)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>F  </strong>New York, Columbia University, Butler Library X893.4 B47, pp. 1–211 (1796)</p>",
+      "line_text": "F  New York, Columbia University, Butler Library X893.4 B47, pp. 1–211 (1796)",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>F  </strong>New York, Columbia University, Butler Library X893.4 B47 (1796)</p>",
-      "line_text": "F  New York, Columbia University, Butler Library X893.4 B47 (1796)",
-      "language": "Recension A",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-var-sir-587/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>G </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 587, fols. 42<sup>v</sup>–84<sup>v</sup> (1917–1918)</p>",
-      "line_text": "G Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 587, fols. 42v–84v (1917–1918)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-var-sir-587/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>G  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 587, fols. 42<sup>v</sup>–84<sup>v</sup> (1917–1918)</p>",
+      "line_text": "G  Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 587, fols. 42v–84v (1917–1918)",
       "language": "Recension A",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -74,8 +77,8 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>H  </strong>New York, Union Theological Seminary, Syr. 32 (1779)</p>",
-      "line_text": "H  New York, Union Theological Seminary, Syr. 32 (1779)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H  </strong>New York, Union Theological Seminary, Syr. 32, fols. 1<sup>r</sup>–32<sup>v</sup> (1779)</p>",
+      "line_text": "H  New York, Union Theological Seminary, Syr. 32, fols. 1r–32v (1779)",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
@@ -89,32 +92,32 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>J</strong>  Edgbaston, University of Birmingham, Mingana Syr. 524 (ca. 1550) ~ fragmentary</p>",
-      "line_text": "J  Edgbaston, University of Birmingham, Mingana Syr. 524 (ca. 1550) ~ fragmentary",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>J</strong>  Edgbaston, University of Birmingham, Mingana Syr. 524, fols. 2<sup>r</sup>–4<sup>v</sup> (ca. 1550) ~ fragmentary</p>",
+      "line_text": "J  Edgbaston, University of Birmingham, Mingana Syr. 524, fols. 2r–4v (ca. 1550) ~ fragmentary",
       "language": "Recension A",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  London, Royal Asiatic Society, Syr. 1 (1569)</p>",
-      "line_text": "B  London, Royal Asiatic Society, Syr. 1 (1569)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong>  London, Royal Asiatic Society, Syr. 1, fols. 126<sup>r</sup>–161<sup>v</sup> (1569)</p>",
+      "line_text": "B  London, Royal Asiatic Society, Syr. 1, fols. 126r–161v (1569)",
       "language": "Recension B",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>P </strong> London, British Library, Or. 4526 (1727)</p>",
-      "line_text": "P  London, British Library, Or. 4526 (1727)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P </strong> London, British Library, Or. 4526, fols. 210<sup>r</sup>–258<sup>v</sup> (1727)</p>",
+      "line_text": "P  London, British Library, Or. 4526, fols. 210r–258v (1727)",
       "language": "Recension B",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong>  Princeton, Speer Library, Cabinet C, Ms. 40 (olim Urmia, Oroomia Mission Library, 43) (1813)</p>",
-      "line_text": "Q  Princeton, Speer Library, Cabinet C, Ms. 40 (olim Urmia, Oroomia Mission Library, 43) (1813)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong>  Princeton, Speer Library, Cabinet C, Ms. 40 (olim Urmia, Oroomia Mission Library, 43), pp. 1–127 (1813)</p>",
+      "line_text": "Q  Princeton, Speer Library, Cabinet C, Ms. 40 (olim Urmia, Oroomia Mission Library, 43), pp. 1–127 (1813)",
       "language": "Recension B",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Cambridge, University Library, Or. 1341 (1899)</p>",
-      "line_text": "R  Cambridge, University Library, Or. 1341 (1899)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Cambridge, University Library, Or. 1341, fols. 1<sup>r</sup>–46<sup>v</sup> (1899)</p>",
+      "line_text": "R  Cambridge, University Library, Or. 1341, fols. 1r–46v (1899)",
       "language": "Recension B",
       "entry_type": "Manuscript"
     },
@@ -128,14 +131,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>T </strong> Cambridge (Mass.), Harvard Houghton Library, Syr. 168 (olim SMH 535, access 2177) (1779)</p>",
-      "line_text": "T  Cambridge (Mass.), Harvard Houghton Library, Syr. 168 (olim SMH 535, access 2177) (1779)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>T </strong> Cambridge (Mass.), Harvard Houghton Library, Syr. 168 (olim SMH 535, access 2177), fols. 1<sup>r</sup>–112<sup>r</sup> (1779)</p>",
+      "line_text": "T  Cambridge (Mass.), Harvard Houghton Library, Syr. 168 (olim SMH 535, access 2177), fols. 1r–112r (1779)",
       "language": "Recension B",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-oct-1130/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>U  </strong>Berlin, Staatsbibliothek zu Berlin, Or. Oct. 1130 (1815)</p>",
-      "line_text": "U  Berlin, Staatsbibliothek zu Berlin, Or. Oct. 1130 (1815)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-oct-1130/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>U  </strong>Berlin, Staatsbibliothek zu Berlin, Or. Oct. 1130, fols. 1<sup>r</sup>–96<sup>r</sup> (1815)</p>",
+      "line_text": "U  Berlin, Staatsbibliothek zu Berlin, Or. Oct. 1130, fols. 1r–96r (1815)",
       "language": "Recension B",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [

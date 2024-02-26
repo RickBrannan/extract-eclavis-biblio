@@ -14,68 +14,77 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>H</strong> Paris, Bibliothèque nationale de France, arab. 177, fols. 133<sup>v</sup>–145<sup>v</sup> (14th cent.) ~ copied from a manuscript from Monastery of Saint Anthony (=<strong>G</strong>) made in 1289</p>",
-      "line_text": "H Paris, Bibliothèque nationale de France, arab. 177, fols. 133v–145v (14th cent.) ~ copied from a manuscript from Monastery of Saint Anthony (=G) made in 1289",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>H</strong>  Paris, Bibliothèque nationale de France, Arabe 177, fols. 133<sup>v</sup>–145<sup>v</sup> (14th cent.) ~ copied from a manuscript from Monastery of Saint Anthony (=<strong>G</strong>) made in 1289; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b11004087q\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "H  Paris, Bibliothèque nationale de France, Arabe 177, fols. 133v–145v (14th cent.) ~ copied from a manuscript from Monastery of Saint Anthony (=G) made in 1289; Gallica",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004087q"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>I</strong>  Paris, Bibliothèque nationale de France, Arabe 69, fols. 1<sup>r</sup>–79<sup>v</sup> (1344) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b11000397w\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "I  Paris, Bibliothèque nationale de France, Arabe 69, fols. 1r–79v (1344) ~ Gallica",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b11000397w"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>J</strong>  Paris, Bibliothèque nationale de France, Arabe 275, fols. 83<sup>r</sup>–92<sup>r </sup>(1683)</p>",
+      "line_text": "J  Paris, Bibliothèque nationale de France, Arabe 275, fols. 83r–92r (1683)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>I</strong> Paris, Bibliothèque nationale de France, arab. 69, fols. 1<sup>r</sup>–79<sup>v</sup> (1344)</p>",
-      "line_text": "I Paris, Bibliothèque nationale de France, arab. 69, fols. 1r–79v (1344)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong>  Cairo, Coptic Catholic Patriarchate, 631, fols. 41<sup>v</sup>–48<sup>r </sup>(1689)</p>",
+      "line_text": "L  Cairo, Coptic Catholic Patriarchate, 631, fols. 41v–48r (1689)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>J</strong> Paris, Bibliothèque nationale de France, arab. 275, fols. 83<sup>r</sup>–92<sup>r </sup>(1683)</p>",
-      "line_text": "J Paris, Bibliothèque nationale de France, arab. 275, fols. 83r–92r (1683)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong>  Archive of Church of the Virgin Harah az-Zuyla, 18, fols. 117<sup>r</sup>–135<sup>v</sup> (1707)</p>",
+      "line_text": "M  Archive of Church of the Virgin Harah az-Zuyla, 18, fols. 117r–135v (1707)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong> Cairo, Coptic Catholic Patriarchate, 631, fols. 41<sup>v</sup>–48<sup>r </sup>(1689)</p>",
-      "line_text": "L Cairo, Coptic Catholic Patriarchate, 631, fols. 41v–48r (1689)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>N</strong>  Cairo, Coptic Catholic Patriarchate, 651, fols. 184<sup>v</sup>–201<sup>v</sup> (1737)</p>",
+      "line_text": "N  Cairo, Coptic Catholic Patriarchate, 651, fols. 184v–201v (1737)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>M</strong> Archive of Church of the Virgin Harah az-Zuyla, 18, fols. 117<sup>r</sup>–135<sup>v</sup> (1707)</p>",
-      "line_text": "M Archive of Church of the Virgin Harah az-Zuyla, 18, fols. 117r–135v (1707)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O</strong>  Cairo, Coptic Catholic Patriarchate, 616, fols. 77<sup>v</sup>–92<sup>v</sup> (18th cent.)</p>",
+      "line_text": "O  Cairo, Coptic Catholic Patriarchate, 616, fols. 77v–92v (18th cent.)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>N</strong> Cairo, Coptic Catholic Patriarchate, 651, fols. 184<sup>v</sup>–201<sup>v</sup> (1737)</p>",
-      "line_text": "N Cairo, Coptic Catholic Patriarchate, 651, fols. 184v–201v (1737)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>P</strong>  Cairo, Coptic Museum, 6425, fols. 2<sup>r</sup>–12<sup>r </sup>(17th cent.)</p>",
+      "line_text": "P  Cairo, Coptic Museum, 6425, fols. 2r–12r (17th cent.)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>O</strong> Cairo, Coptic Catholic Patriarchate, 616, fols. 77<sup>v</sup>–92<sup>v</sup> (18th cent.)</p>",
-      "line_text": "O Cairo, Coptic Catholic Patriarchate, 616, fols. 77v–92v (18th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong>  Cairo, Coptic Catholic Patriarchate, 60 (272), fols. 138<sup>r</sup>–147<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Q  Cairo, Coptic Catholic Patriarchate, 60 (272), fols. 138r–147v (17th cent.)",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>P</strong> Cairo, Coptic Museum, 6425, fols. 2<sup>r</sup>–12<sup>r </sup>(17th cent.)</p>",
-      "line_text": "P Cairo, Coptic Museum, 6425, fols. 2r–12r (17th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 447, 3 (15th cent.) ~ <a href=\"https://www.loc.gov/item/00279390994-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "R  Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 447, 3 (15th cent.) ~ LOC",
       "language": "Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279390994-ms/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>Q</strong> Cairo, Coptic Catholic Patriarchate, 60 (272), fols. 138<sup>r</sup>–147<sup>v</sup> (17th cent.)</p>",
-      "line_text": "Q Cairo, Coptic Catholic Patriarchate, 60 (272), fols. 138r–147v (17th cent.)",
-      "language": "Arabic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>R</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 447, 3 (15th cent.)</p>",
-      "line_text": "R  Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 447, 3 (15th cent.)",
-      "language": "Arabic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>S</strong> Gotha, Universitätsbibliothek Erfurt, ar. 2879 (Garšūnī), fols. 49<sup>v</sup>–63<sup>r </sup></p>",
-      "line_text": "S Gotha, Universitätsbibliothek Erfurt, ar. 2879 (Garšūnī), fols. 49v–63r ",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>S</strong>  Gotha, Universitätsbibliothek Erfurt, ar. 2879 (Garšūnī), fols. 49<sup>v</sup>–63<sup>r </sup></p>",
+      "line_text": "S  Gotha, Universitätsbibliothek Erfurt, ar. 2879 (Garšūnī), fols. 49v–63r ",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
@@ -305,8 +314,8 @@
       ]
     },
     {
-      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/01/suciu-new-fragments-historia-josephi1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “New Fragments from the Sahidic Version of the <i>Historia Josephi Fabri Lignarii</i>.” <em>Mus</em> 122 (2009): 279–89 (edition and translation of Paris, BNF, 131<sup>8</sup> and 132<sup>2</sup>).</p>",
-      "line_text": "Suciu, Alin. “New Fragments from the Sahidic Version of the Historia Josephi Fabri Lignarii.” Mus 122 (2009): 279–89 (edition and translation of Paris, BNF, 1318 and 1322).",
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/01/suciu-new-fragments-historia-josephi1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “New Fragments from the Sahidic Version of the <i>Historia Josephi Fabri Lignarii</i>.” <em>Mus</em> 122 (2009): 279–89 (edition and translation of Paris, BNF, 131<sup>8</sup> and 132<sup>2</sup>).</p>",
+      "line_text": "__________. “New Fragments from the Sahidic Version of the Historia Josephi Fabri Lignarii.” Mus 122 (2009): 279–89 (edition and translation of Paris, BNF, 1318 and 1322).",
       "language": "Coptic",
       "entry_type": "Edition",
       "other_urls": [
@@ -380,10 +389,13 @@
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (summary of Wallin’s Arabic text, 84–86).</p>",
-      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (summary of Wallin’s Arabic text, 84–86).",
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n113/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary of Wallin’s Arabic text, pp. 84–86).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary of Wallin’s Arabic text, pp. 84–86).",
       "language": "English",
-      "entry_type": "Translation"
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n113/mode/2up"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/n90\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i2.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"online-bullet\" width=\"35\" height=\"23\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (based on the Latin translation of the Arabic text from Tischendorf, pp. 62–67).</p>",
@@ -488,8 +500,8 @@
       ]
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/losevangeliosapo00sant/page/358/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>De Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956 (translation of Morenz’s edition of the Bohairic, pp. 358–78).</p>",
-      "line_text": "De Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 1956 (translation of Morenz’s edition of the Bohairic, pp. 358–78).",
+      "line_html": "<p><a href=\"https://archive.org/details/losevangeliosapo00sant/page/358/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>de Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956 (translation of Morenz’s edition of the Bohairic, pp. 358–78).</p>",
+      "line_text": "de Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 1956 (translation of Morenz’s edition of the Bohairic, pp. 358–78).",
       "language": "Spanish",
       "entry_type": "Translation",
       "other_urls": [

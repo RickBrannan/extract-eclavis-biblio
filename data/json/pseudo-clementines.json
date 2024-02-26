@@ -227,6 +227,16 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 524, fols. 118<sup>v</sup>–131<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Barb.gr.524\" target=\"_blank\" rel=\"noopener\">BAV</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65067/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 524, fols. 118v–131r (12th cent.) ~ BAV; Pinakes",
+      "language": ".3 Metaphrastic Epitome",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Barb.gr.524",
+        "https://pinakes.irht.cnrs.fr/notices/cote/65067/"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 443, fols.  161–234 (1562–1564 CE)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 443, fols.  161–234 (1562–1564 CE)",
       "language": ".3 Metaphrastic Epitome",

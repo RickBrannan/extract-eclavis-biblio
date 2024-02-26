@@ -39,6 +39,16 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2044, fols. 196<sup>r</sup>–207<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68673/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.2044\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2044, fols. 196r–207v (11th cent.) ~ Pinakes; BAV",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68673/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.2044"
+      ]
+    },
+    {
       "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb10197637?page=1031\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Donato, Benardino, ed. <em>Expositiones antiquae … ex diuersis sanctorum patrum commentariis ab Oecumenio et Aretha collectae.</em> Veronae: Apud Stephanum &amp; fratres Sabios, 1532 (Greek edition, pp. 999–1008).</p>",
       "line_text": "Donato, Benardino, ed. Expositiones antiquae … ex diuersis sanctorum patrum commentariis ab Oecumenio et Aretha collectae. Veronae: Apud Stephanum &amp; fratres Sabios, 1532 (Greek edition, pp. 999–1008).",
       "language": "Greek",
@@ -79,6 +89,33 @@
       "other_urls": [
         "https://pinakes.irht.cnrs.fr/notices/cote/34287/",
         "https://www.loc.gov/item/00279393739-jo"
+      ]
+    },
+    {
+      "line_html": "<p>MSS: A-70 (13th cent.) fols. 1r-36v; Q 662 (17th cent.), fols. 127v-143v; S 1697 (17th/18th cent.), fols. 19r-49v; S 60 (18th cent.), pp. 277-450; S 4932 (1791), pp. 19-51; A 1050 (1801), fols. 139r-177v; S 139 (18th/19th cent.), pp. 377-385; A 1493 (19830), fols. 2r-44r; also Jerusalem 18 (143th/14th cent.), fols. 120r-153v</p>",
+      "line_text": "MSS: A-70 (13th cent.) fols. 1r-36v; Q 662 (17th cent.), fols. 127v-143v; S 1697 (17th/18th cent.), fols. 19r-49v; S 60 (18th cent.), pp. 277-450; S 4932 (1791), pp. 19-51; A 1050 (1801), fols. 139r-177v; S 139 (18th/19th cent.), pp. 377-385; A 1493 (19830), fols. 2r-44r; also Jerusalem 18 (143th/14th cent.), fols. 120r-153v",
+      "language": "Georgian; translation by Euthymus the Hagiorite",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Xaxanašvili, A. <em>Atonis Iveriis Monast<sup>e</sup>ris 1074 c<sup>e</sup>. hetnac<sup>e</sup>eri agapebit</em> (Manuscript of the Year 1074 of the Monastery of Iviron with the Memoirs of the Deceased). Tiflis, 1901 (edition, pp. 111–76).</p>",
+      "line_text": "Xaxanašvili, A. Atonis Iveriis Monasteris 1074 ce. hetnaceeri agapebit (Manuscript of the Year 1074 of the Monastery of Iviron with the Memoirs of the Deceased). Tiflis, 1901 (edition, pp. 111–76).",
+      "language": "Georgian; translation by Euthymus the Hagiorite",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les formes géorgiennes des Acta Iohannis.” <em>AnBoll</em> 93 (1975): 11–19 (discussion pp. 6–8).</p>",
+      "line_text": "Esbroeck, Michel van. “Les formes géorgiennes des Acta Iohannis.” AnBoll 93 (1975): 11–19 (discussion pp. 6–8).",
+      "language": "Georgian; translation by Euthymus the Hagiorite",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bedi-kartlisa-33-1975/page/73/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Esbroeck, Michel van, trans. “Les <em>Acta Iohannis</em> traduits par Euthyne L’Hagiorite.” <em>Bedi Kartlisa</em> 33 (1975): 73–109 (French translation).</p>",
+      "line_text": "Esbroeck, Michel van, trans. “Les Acta Iohannis traduits par Euthyne L’Hagiorite.” Bedi Kartlisa 33 (1975): 73–109 (French translation).",
+      "language": "Georgian; translation by Euthymus the Hagiorite",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bedi-kartlisa-33-1975/page/73/mode/2up"
       ]
     },
     {

@@ -4,7 +4,7 @@
   "filename": "papyrus-oxyrhynchus-5072",
   "latin_title": "1. SUMMARY",
   "abbrev": "P. Oxy. 5072",
-  "clavis_number": 546,
+  "clavis_number": 646,
   "category": "Agrapha and Fragments",
   "compiler": "Thomas A. Wayment, Brigham Young University",
   "bibliography_entries": [
@@ -44,6 +44,18 @@
     {
       "line_html": "<p>Chapa, Juan. “A Newly Published ‘Gospel Fragment.’” <em>EC</em> 3 (2012): 381–89.</p>",
       "line_text": "Chapa, Juan. “A Newly Published ‘Gospel Fragment.’” EC 3 (2012): 381–89.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gagné, André. “The Gospel of Thomas in a Monastic Context: Reading the Text as a Spiritual Exercise.” Pages 121–34 in <i>The Nag Hammadi Codices as Monastic Books</i>. Edited by Hugo Lundhaug and Christian H. Bull. STAC 134. Tübingen: Mohr Siebeck, 2023.</p>",
+      "line_text": "Gagné, André. “The Gospel of Thomas in a Monastic Context: Reading the Text as a Spiritual Exercise.” Pages 121–34 in The Nag Hammadi Codices as Monastic Books. Edited by Hugo Lundhaug and Christian H. Bull. STAC 134. Tübingen: Mohr Siebeck, 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Glenn, W. Edward, and Darian Lockett, eds., <i>Canon Formation: Tracing the Role of Sub-Collections in the Biblical Canon</i>. T&amp;T Clark: Edinburgh, 2023 (p. 231).</p>",
+      "line_text": "Glenn, W. Edward, and Darian Lockett, eds., Canon Formation: Tracing the Role of Sub-Collections in the Biblical Canon. T&amp;T Clark: Edinburgh, 2023 (p. 231).",
       "language": "English",
       "entry_type": "Other"
     },

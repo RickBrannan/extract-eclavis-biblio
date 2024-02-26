@@ -34,10 +34,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong>  Mount Athos, M. Megistes Lavras, 277 (Γ 37), fols. 176<sup>v</sup>–187<sup>r </sup>(14th cent.)</p>",
-      "line_text": "L  Mount Athos, M. Megistes Lavras, 277 (Γ 37), fols. 176v–187r (14th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>L</strong>  Mount Athos, M. Megistes Lavras, Γ 37 (Eustratiades 277), fols. 176<sup>v</sup>–187<sup>r </sup>(14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27209/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "L  Mount Athos, M. Megistes Lavras, Γ 37 (Eustratiades 277), fols. 176v–187r (14th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27209/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong>T</strong>  Turin, Biblioteca Nazionale, gr. 185, fols. 289<sup>r</sup>–294<sup>r</sup> (14th cent.)</p>",
@@ -46,10 +49,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>V </strong> Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 687, fols. 245<sup>r</sup>–259<sup>r</sup> (16th cent.)</p>",
-      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 687, fols. 245r–259r (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>V </strong> Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 687, fols. 245<sup>r</sup>–259<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67318/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "V  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 687, fols. 245r–259r (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67318/"
+      ]
     },
     {
       "line_html": "<p>Ziffer, Giorgio. “Una versione greca inedita del <em>De Sacerdotio Christi</em>.” Pages 141–73 in <em>Studi per Riccardo Ribuoli. Scritti di filologia, musicologia, storia. </em>Edited by Franco Piperno. Rome: Edizioni di storia e letteratura, 1986 (edition and Italian translation of GrL based on T and V, pp. 141–73).</p>",
@@ -229,10 +235,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 408, fols. 170<sup>r</sup>–172<sup>v </sup>(16th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ottob. gr. 408, fols. 170r–172v (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 408, fols. 170<sup>r</sup>–172<sup>v </sup>(16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65651/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 408, fols. 170r–172v (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65651/"
+      ]
     },
     {
       "line_html": "<p>Ziffer, Giorgio. “‘La Confessione di Teodosio’ nella sua tradizione orientale<em>.</em>” MA thesis, Rome: La Sapienza, Facolta di lettere e filosofia, 1985 (contains an edition of the short recension).</p>",
@@ -286,22 +295,28 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paphos, Monē Panagias tou Kukkou, 25, fols. 151<sup>v</sup>–155<sup>r </sup>(1659)</p>",
-      "line_text": "Paphos, Monē Panagias tou Kukkou, 25, fols. 151v–155r (1659)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paphos, Monē Panagias tou Kukkou, 25, fols. 151<sup>v</sup>–155<sup>r </sup>(1659) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49029/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paphos, Monē Panagias tou Kukkou, 25, fols. 151v–155r (1659) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/49029/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, 46, fols. 73<sup>v</sup>–74<sup>r </sup>(10th/11th cent.)</p>",
+      "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, 46, fols. 73v–74r (10th/11th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iôannou tou Theologou, 46, fols. 73<sup>v</sup>–74<sup>r </sup>(10th/11th cent.)</p>",
-      "line_text": "Patmos, Monē tou Hagiou Iôannou tou Theologou, 46, fols. 73v–74r (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Thessaloniki, Panepistēmion, Spoudastērion Philologikēs Scholēs, 44, fols. 299<sup>r</sup>–303<sup>r </sup>(1635) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/63281/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Thessaloniki, Panepistēmion, Spoudastērion Philologikēs Scholēs, 44, fols. 299r–303r (1635) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Thessaloniki, Panepistēmion, Spoudastērion Philologikēs Scholēs, 44, fols. 299<sup>r</sup>–303<sup>r </sup>(1635)</p>",
-      "line_text": "Thessaloniki, Panepistēmion, Spoudastērion Philologikēs Scholēs, 44, fols. 299r–303r (1635)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/63281/"
+      ]
     },
     {
       "line_html": "<p>Unassigned manuscripts listed by Ziffer:</p>",
@@ -310,10 +325,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Ankara, Türk Tarih Kurumu, 3 (16th cent.)</p>",
-      "line_text": "Ankara, Türk Tarih Kurumu, 3 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Ankara, Türk Tarih Kurumu, 3 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/675/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ankara, Türk Tarih Kurumu, 3 (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/675/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Escorial, Real Biblioteca, Ω. IV. 30 (Andrés 582), fols. 24<sup>v</sup>, 26<sup>v</sup>, 7–9 (14th cent.)</p>",
@@ -322,26 +340,31 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Hagios Saba 281, fols. 88<sup>r</sup>–95<sup>r</sup> (13th cent.) ~ <a href=\"https://www.loc.gov/item/00279394483-jo\" target=\"_blank\" rel=\"noopener noreferrer\">Library of Congress</a></p>",
-      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagios Saba 281, fols. 88r–95r (13th cent.) ~ Library of Congress",
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Hagios Saba 281, fols. 88<sup>r</sup>–95<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34537/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279394483-jo\" target=\"_blank\" rel=\"noopener noreferrer\">Library of Congress</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagios Saba 281, fols. 88r–95r (13th cent.) ~ Pinakes; Library of Congress",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/34537/",
         "https://www.loc.gov/item/00279394483-jo"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 25881</p>",
-      "line_text": "London, British Library, Add. 25881",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinia, Monē tēs Hagias Aikaterinēs, gr. 2125, fols. 58<sup>r</sup>–63<sup>r</sup> (16th cent.) ~ <a href=\"https://www.loc.gov/item/00279385196-ms\" target=\"_blank\" rel=\"noopener noreferrer\">Library of Congress</a></p>",
-      "line_text": "Mount Sinia, Monē tēs Hagias Aikaterinēs, gr. 2125, fols. 58r–63r (16th cent.) ~ Library of Congress",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 25881, fols. 260–266, 380–386 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/39047/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "London, British Library, Add. 25881, fols. 260–266, 380–386 (16th cent.) ~ Pinakes",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/39047/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinia, Monē tēs Hagias Aikaterinēs, gr. 2125, fols. 58<sup>r</sup>–63<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/60500/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279385196-ms\" target=\"_blank\" rel=\"noopener noreferrer\">Library of Congress</a></p>",
+      "line_text": "Mount Sinia, Monē tēs Hagias Aikaterinēs, gr. 2125, fols. 58r–63r (16th cent.) ~ Pinakes; Library of Congress",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/60500/",
         "https://www.loc.gov/item/00279385196-ms"
       ]
     },
@@ -352,10 +375,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Ohrid, Naroden Muzej, 18 (Mošin 82) (13th/14th cent.)</p>",
-      "line_text": "Ohrid, Naroden Muzej, 18 (Mošin 82) (13th/14th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Ohrid, Naroden Muzej, 18 (Mošin 82) (13th/14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/46752/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ohrid, Naroden Muzej, 18 (Mošin 82) (13th/14th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/46752/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 395, fols. 122<sup>r</sup>–126<sup>v</sup> (15th/16th cent.) ~ Neophytus (<a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107214595\" target=\"_blank\" rel=\"noopener noreferrer\">BNF</a>)</p>",
@@ -373,31 +399,42 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190 (16th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 427<sup>r</sup>–429<sup>v</sup> (16th cent.)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 427r–429v (16th cent.)",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1951, fols. 27<sup>r</sup>–29<sup>r</sup> (16th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1951, fols. 27r–29r (16th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 952, fols. 128<sup>r</sup>–133<sup>r</sup> (15th cent.) ~ <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.952\" target=\"_blank\" rel=\"noopener noreferrer\">DigiVatLib</a></p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 952, fols. 128r–133r (15th cent.) ~ DigiVatLib",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1951, fols. 27<sup>r</sup>–29<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68580/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1951\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1951, fols. 27r–29r (16th cent.) ~ Pinakes; BAV",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68580/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1951"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 952, fols. 128<sup>r</sup>–133<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67583/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.952\" target=\"_blank\" rel=\"noopener noreferrer\">DigiVatLib</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 952, fols. 128r–133r (15th cent.) ~ Pinakes; DigiVatLib",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67583/",
         "http://digi.vatlib.it/view/MSS_Vat.gr.952"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. 498, fols. 282<sup>v</sup>–288<sup>r</sup> (14th cent.)</p>",
-      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. 498, fols. 282v–288r (14th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. 498 (coll. 432), fols. 282<sup>v</sup>–288<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69969/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. 498 (coll. 432), fols. 282v–288r (14th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/69969/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. III. 12, fols. 203<sup>v</sup>–204<sup>v</sup> (15th cent.)</p>",
@@ -406,28 +443,40 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 18, fols. 229<sup>r</sup>–231<sup>v</sup> (16th cent.)</p>",
-      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 18, fols. 229r–231v (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 18, fols. 229<sup>r</sup>–231<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70535/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 18, fols. 229r–231v (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70535/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 33 (coll. 1367), fols. 72<sup>r</sup>–78<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 33 (coll. 1367), fols. 72r–78v (15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Nazionale Marciana, gr. VII. 33 (coll. 1367), fols. 72<sup>r</sup>–78<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70550/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII. 33 (coll. 1367), fols. 72r–78v (15th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70550/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, hist. gr. 63,  fols. 65<sup>v</sup>–68<sup>v</sup> (1319)</p>",
-      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 63,  fols. 65v–68v (1319)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, hist. gr. 63,  fols. 65<sup>v</sup>–68<sup>v</sup> (1319) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70940/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 63,  fols. 65v–68v (1319) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70940/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, theol. gr. 199,  fols. 206<sup>r</sup>–209<sup>v</sup> (16th cent.)</p>",
-      "line_text": "Vienna, Österreichische Nationalbibliothek, theol. gr. 199,  fols. 206r–209v (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, theol. gr. 199,  fols. 206<sup>r</sup>–209<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/71866/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, theol. gr. 199,  fols. 206r–209v (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/71866/"
+      ]
     },
     {
       "line_html": "<p>De Keyser, Jeroen. “Early Modern Latin Translations of the Apocryphal ‘De Sacerdotio Christi.’” <em>Lias: Journal of Early Modern Intellectual Culture and its Sources,</em> 40.1(2013): 29–82 (includes the <em>Suda</em> lemma, six editions of Latin translations of the <em>Suda</em> text, and an inventory of manuscript witnesses).</p>",
@@ -442,8 +491,8 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, P. I. Sevast’janov 37 (1468), fol. 124 (15th cent.) (=Otero 7)</p>",
-      "line_text": "Moscow, Russian State Library, P. I. Sevast’janov 37 (1468), fol. 124 (15th cent.) (=Otero 7)",
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, P. I. Sevast’janov 37 (1468), fol. 124 (15th cent.) (=de Santos Otero 7)</p>",
+      "line_text": "Moscow, Russian State Library, P. I. Sevast’janov 37 (1468), fol. 124 (15th cent.) (=de Santos Otero 7)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
@@ -454,14 +503,14 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">St. Petersurg, National Library of Russia, Soloveckij Monastery, 637 (804), fols. 414<sup>v</sup>–415 (15th cent.) (=Otero 3)</p>",
-      "line_text": "St. Petersurg, National Library of Russia, Soloveckij Monastery, 637 (804), fols. 414v–415 (15th cent.) (=Otero 3)",
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersurg, National Library of Russia, Soloveckij Monastery, 637 (804), fols. 414<sup>v</sup>–415 (15th cent.) (=de Santos Otero 3)</p>",
+      "line_text": "St. Petersurg, National Library of Russia, Soloveckij Monastery, 637 (804), fols. 414v–415 (15th cent.) (=de Santos Otero 3)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, Uspenskij, 784 (986), fols. 210<sup>r</sup>–210<sup>v</sup> (16th cent.) (=Otero 5)</p>",
-      "line_text": "Moscow, State Historical Museum, Uspenskij, 784 (986), fols. 210r–210v (16th cent.) (=Otero 5)",
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, Uspenskij, 784 (986), fols. 210<sup>r</sup>–210<sup>v</sup> (16th cent.) (=de Santos Otero 5)</p>",
+      "line_text": "Moscow, State Historical Museum, Uspenskij, 784 (986), fols. 210r–210v (16th cent.) (=de Santos Otero 5)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
@@ -472,38 +521,38 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 632, fols. 172–174 (14th cent.) (=Otero 1)</p>",
-      "line_text": "Belgrade, National Library of Serbia, 632, fols. 172–174 (14th cent.) (=Otero 1)",
+      "line_html": "<p style=\"padding-left: 40px;\">Belgrade, National Library of Serbia, 632, fols. 172–174 (14th cent.) (=de Santos Otero 1)</p>",
+      "line_text": "Belgrade, National Library of Serbia, 632, fols. 172–174 (14th cent.) (=de Santos Otero 1)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Codex Wuk 48, fols. 89–91 (14th cent.) (=Otero 2)</p>",
-      "line_text": "Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Codex Wuk 48, fols. 89–91 (14th cent.) (=Otero 2)",
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Codex Wuk 48, fols. 89–91 (14th cent.) (=de Santos Otero 2)</p>",
+      "line_text": "Berlin, Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Codex Wuk 48, fols. 89–91 (14th cent.) (=de Santos Otero 2)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. I. Chludov 30, fols. 49<sup>v</sup>–60<sup>r</sup> (14th cent.) (=Otero 6)</p>",
-      "line_text": "Moscow, State Historical Museum, A. I. Chludov 30, fols. 49v–60r (14th cent.) (=Otero 6)",
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. I. Chludov 30, fols. 49<sup>v</sup>–60<sup>r</sup> (14th cent.) (=de Santos Otero 6)</p>",
+      "line_text": "Moscow, State Historical Museum, A. I. Chludov 30, fols. 49v–60r (14th cent.) (=de Santos Otero 6)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, Troice-Segieva Lavra 734 (1914), fol. 35 (1747) (=Otero 8)</p>",
-      "line_text": "Moscow, Russian State Library, Troice-Segieva Lavra 734 (1914), fol. 35 (1747) (=Otero 8)",
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, Troice-Segieva Lavra 734 (1914), fol. 35 (1747) (=de Santos Otero 8)</p>",
+      "line_text": "Moscow, Russian State Library, Troice-Segieva Lavra 734 (1914), fol. 35 (1747) (=de Santos Otero 8)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Sofia, Bulgarian Academy of Sciences, 41, fols. 290–292v (15th cent.) (=Otero 10)</p>",
-      "line_text": "Sofia, Bulgarian Academy of Sciences, 41, fols. 290–292v (15th cent.) (=Otero 10)",
+      "line_html": "<p style=\"padding-left: 40px;\">Sofia, Bulgarian Academy of Sciences, 41, fols. 290–292v (15th cent.) (=de Santos Otero 10)</p>",
+      "line_text": "Sofia, Bulgarian Academy of Sciences, 41, fols. 290–292v (15th cent.) (=de Santos Otero 10)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vrbnick, Ostavina Petriš – Župni ured, Petrisov Zbornik, Codex glagoliticus a. 1468, fols. 215<sup>v</sup>–224 (=Otero 11)</p>",
-      "line_text": "Vrbnick, Ostavina Petriš – Župni ured, Petrisov Zbornik, Codex glagoliticus a. 1468, fols. 215v–224 (=Otero 11)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vrbnick, Ostavina Petriš – Župni ured, Petrisov Zbornik, Codex glagoliticus a. 1468, fols. 215<sup>v</sup>–224 (=de Santos Otero 11)</p>",
+      "line_text": "Vrbnick, Ostavina Petriš – Župni ured, Petrisov Zbornik, Codex glagoliticus a. 1468, fols. 215v–224 (=de Santos Otero 11)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
@@ -514,14 +563,14 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, Troice-Segieva Lavra 663 (405), fol. 83<sup>v</sup> (not dated) (=Otero 9)</p>",
-      "line_text": "Moscow, Russian State Library, Troice-Segieva Lavra 663 (405), fol. 83v (not dated) (=Otero 9)",
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, Troice-Segieva Lavra 663 (405), fol. 83<sup>v</sup> (not dated) (=de Santos Otero 9)</p>",
+      "line_text": "Moscow, Russian State Library, Troice-Segieva Lavra 663 (405), fol. 83v (not dated) (=de Santos Otero 9)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia, Soloveckij Monastery, 636 (811), fols. 223–226 (16th/17th cent.) (=Otero 4)</p>",
-      "line_text": "St. Petersburg, National Library of Russia, Soloveckij Monastery, 636 (811), fols. 223–226 (16th/17th cent.) (=Otero 4)",
+      "line_html": "<p style=\"padding-left: 40px;\">St. Petersburg, National Library of Russia, Soloveckij Monastery, 636 (811), fols. 223–226 (16th/17th cent.) (=de Santos Otero 4)</p>",
+      "line_text": "St. Petersburg, National Library of Russia, Soloveckij Monastery, 636 (811), fols. 223–226 (16th/17th cent.) (=de Santos Otero 4)",
       "language": "Slavonic",
       "entry_type": "Manuscript"
     },

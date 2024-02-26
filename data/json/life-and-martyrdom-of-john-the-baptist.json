@@ -9,7 +9,7 @@
   ],
   "clavis_number": 740,
   "category": "Hagiographa",
-  "compiler": "Andrew Bernhard and Tony Burke, York University",
+  "compiler": "Tony Burke, York University",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/lviv-lviv-historical-museum-104/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Lviv, Lviv Historical Museum, 104, fols. 401<sup>r</sup>–412<sup>v</sup> (17th cent.)</p>",
@@ -72,16 +72,23 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>P </strong> Paris, Bibliothèque nationale de France, suppl. gr. 480 + Chartres, Bibliothèque municipale, 1754, fols. 51<sup>v</sup>, 52<sup>r</sup>, 15, 10, 40, 33, 19, 22, 16, 9, 34, 39 (8th cent.); contains chaps. 1–10:1 only</p>",
-      "line_text": "P  Paris, Bibliothèque nationale de France, suppl. gr. 480 + Chartres, Bibliothèque municipale, 1754, fols. 51v, 52r, 15, 10, 40, 33, 19, 22, 16, 9, 34, 39 (8th cent.); contains chaps. 1–10:1 only",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P </strong> Paris, Bibliothèque nationale de France, suppl. gr. 480 + Chartres, Bibliothèque municipale, 1754, fols. 51<sup>v</sup>, 52<sup>r</sup>, 15, 10, 40, 33, 19, 22, 16, 9, 34, 39 (8th cent.); contains chaps. 1–10:1 only; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/53223/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, suppl. gr. 480 + Chartres, Bibliothèque municipale, 1754, fols. 51v, 52r, 15, 10, 40, 33, 19, 22, 16, 9, 34, 39 (8th cent.); contains chaps. 1–10:1 only; Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/53223/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Jerusalem, Bibliothēkē tou Patriarchou, Hagios Saba 30, fol. 350–354 (10th/11th cent.)</p>",
-      "line_text": "X  Jerusalem, Bibliothēkē tou Patriarchou, Hagios Saba 30, fol. 350–354 (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Jerusalem, Bibliothēkē tou Patriarchou, Hagios Saba 30, fol. 350–354 (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34287/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279393739-jo\" target=\"_blank\" rel=\"noopener\">Jerusalem</a></p>",
+      "line_text": "X  Jerusalem, Bibliothēkē tou Patriarchou, Hagios Saba 30, fol. 350–354 (10th/11th cent.) ~ Pinakes; Jerusalem",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/34287/",
+        "https://www.loc.gov/item/00279393739-jo"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-45/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>V</strong> Vienna, Österreichische Nationalbibliothek, Cod. hist. gr. 45, fols. 309<sup>r</sup>–310<sup>v</sup> (11th cent.); contains chaps. 1–7:1 only</p>",
@@ -93,10 +100,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Genoa, Biblioteca Franzoniana, Urbani 35, fols. 129–134 (11th cent.)</p>",
-      "line_text": "G  Genoa, Biblioteca Franzoniana, Urbani 35, fols. 129–134 (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Genova, Biblioteca Franzoniana, Urbani 35, fols. 129–134 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17250/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "G  Genova, Biblioteca Franzoniana, Urbani 35, fols. 129–134 (11th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/17250/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1608/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q</strong>  Paris, Bibliothèque nationale de France, gr. 1608, fols. 156<sup>r</sup>–163<sup>r </sup>(14th cent.)</p>",
@@ -117,10 +127,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Jerusalem, Bibliothēkē tou Patriarchou, Timiou Staurou 35, fols. 186<sup>v</sup>–189<sup>r</sup> (15th cent.)</p>",
-      "line_text": "Y  Jerusalem, Bibliothēkē tou Patriarchou, Timiou Staurou 35, fols. 186v–189r (15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Jerusalem, Bibliothēkē tou Patriarchou, Timiou Staurou 35, fols. 186<sup>v</sup>–189<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/35931/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279395554-jo\" target=\"_blank\" rel=\"noopener\">Jerusalem</a></p>",
+      "line_text": "Y  Jerusalem, Bibliothēkē tou Patriarchou, Timiou Staurou 35, fols. 186v–189r (15th cent.) ~ Pinakes; Jerusalem",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/35931/",
+        "https://www.loc.gov/item/00279395554-jo"
+      ]
     },
     {
       "line_html": "<p>Additional manuscripts:</p>",
@@ -129,58 +143,87 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Andros, Monē Hagias (Zōodochou Pēgēs), 28, fols. 231<sup>r</sup>–231<sup>v</sup> (17th cent.)</p>",
-      "line_text": "Andros, Monē Hagias (Zōodochou Pēgēs), 28, fols. 231r–231v (17th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Andros, Monē Hagias (Zōodochou Pēgēs), 28, fols. 231<sup>r</sup>–231<sup>v</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/272/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Andros, Monē Hagias (Zōodochou Pēgēs), 28, fols. 231r–231v (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/272/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Escorial, Real Biblioteca, y. II. 06 (Andrés 314), fols. not provided (12th cent.)</p>",
-      "line_text": "Escorial, Real Biblioteca, y. II. 06 (Andrés 314), fols. not provided (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Gjirokastër, Bibliothēke tēs Mētropoleōs, 5, fols. 320<sup>r</sup>–328<sup>r</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17275/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleōs, 5, fols. 320r–328r (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/17275/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Gjirokastër, Bibliothēke tēs Mētropoleōs, 5, fols. 320<sup>r</sup>–328<sup>r</sup> (17th cent.)</p>",
-      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleōs, 5, fols. 320r–328r (17th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Gjirokastër, Bibliothēke tēs Mētropoleōs, 6, fols. 338<sup>v</sup>–341<sup>v</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17276/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleōs, 6, fols. 338v–341v (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/17276/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Gjirokastër, Bibliothēke tēs Mētropoleōs, 6, fols. 338<sup>v</sup>–341<sup>v</sup> (17th cent.)</p>",
-      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleōs, 6, fols. 338v–341v (17th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Krakow, Biblioteka Jagiellońska Berlin, graec. 4°.22 (320) 35<sup>v</sup>–41<sup>v </sup>(15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9187/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Krakow, Biblioteka Jagiellońska Berlin, graec. 4°.22 (320) 35v–41v (15th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9187/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Krakow, Biblioteka Jagiellońska Berlin, graec. 4°.22 (320) 035<sup>v</sup>–41<sup>v </sup>(15th cent.)</p>",
-      "line_text": "Krakow, Biblioteka Jagiellońska Berlin, graec. 4°.22 (320) 035v–41v (15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Hagiou Stephanou, 126, fols. 412<sup>v</sup>–419<sup>r </sup>(16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41383/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Hagiou Stephanou, 126, fols. 412v–419r (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41383/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Hagiou Stephanou, 126, fols. 412<sup>v</sup>–419<sup>r </sup>(16th cent.)</p>",
-      "line_text": "Meteora, Monē Hagiou Stephanou, 126, fols. 412v–419r (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Athos, Monē Megistes Lauras, H 206 (Eustratiades 861), fols. 317–320 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27880/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athos, Monē Megistes Lauras, H 206 (Eustratiades 861), fols. 317–320 (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27880/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mytilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 38, fols. 212<sup>r</sup>–217<sup>v </sup>(1591)</p>",
-      "line_text": "Mytilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 38, fols. 212r–217v (1591)",
+      "line_html": "<p style=\"padding-left: 40px;\">Mytilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 38, fols. 212<sup>r</sup>–217<sup>v </sup>(1591) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/45303/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mytilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 38, fols. 212r–217v (1591) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/45303/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Borg. gr. 20, fols. 64–* (15th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. gr. 20, fols. 64–* (15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Borg. gr. 20, fols. 64–* (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65171/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. gr. 20, fols. 64–* (15th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65171/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 68, fols. 37<sup>r</sup>–41<sup>v</sup> (13th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 68, fols. 37r–41v (13th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 68, fols. 37<sup>r</sup>–41<sup>v</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65801/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Pal.gr.68\" target=\"_blank\" rel=\"noopener\">BAV</a>; <a href=\"https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_68\" target=\"_blank\" rel=\"noopener\">Heidelberg</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 68, fols. 37r–41v (13th cent.) ~ Pinakes; BAV; Heidelberg",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65801/",
+        "http://digi.vatlib.it/view/MSS_Pal.gr.68",
+        "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_68"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/texteunduntersu05religoog/page/n423/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Berendts, Alexander. <em>Die handschriftliche Überlieferung der Zacharias- und Johannes-Apokryphen</em>. TU, N. F. 11/3. Leipzig: J. C. Hinrichs, 1904 (extensive description of Greek and Slavonic sources).</p>",

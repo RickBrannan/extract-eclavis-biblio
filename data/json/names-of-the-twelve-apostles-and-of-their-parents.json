@@ -39,10 +39,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong> Paris, Bibliothèque nationale de France, 1115 (Reg. 1026), fol. 235 (1276)</p>",
-      "line_text": "B Paris, Bibliothèque nationale de France, 1115 (Reg. 1026), fol. 235 (1276)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B</strong> Paris, Bibliothèque nationale de France, 1115 (Reg. 1026), fol. 235 (1276) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50711/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723555f\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "B Paris, Bibliothèque nationale de France, 1115 (Reg. 1026), fol. 235 (1276) ~ Pinakes; Gallica",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50711/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723555f"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-296/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C</strong> Paris, Bibliothèque nationale de France, Coislin 296,  fols. 31<sup>v</sup>–32<sup>r </sup>(12th cent.)</p>",
@@ -54,10 +58,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>D</strong> Oxford, Bodleian Library, Barocci 206, fol. 130<sup>v</sup> (13th cent.)</p>",
-      "line_text": "D Oxford, Bodleian Library, Barocci 206, fol. 130v (13th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>D</strong> Oxford, Bodleian Library, Barocci 206, fol. 130<sup>v</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47494/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digital.bodleian.ox.ac.uk/inquire/p/ee615653-5982-4f5a-a892-ea5482c07e7e\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "D Oxford, Bodleian Library, Barocci 206, fol. 130v (13th cent.) ~ Pinakes; IMAGES",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47494/",
+        "http://digital.bodleian.ox.ac.uk/inquire/p/ee615653-5982-4f5a-a892-ea5482c07e7e"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-268/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>E</strong> Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 268, fol. 45 (16th cent.)</p>",
@@ -87,80 +95,92 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, S 23 sup. (Martini-Bassi 732), fol. 164 (12th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, S 23 sup. (Martini-Bassi 732), fol. 164 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, S 23 sup. (Martini-Bassi 732), fol. 164 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43209/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, S 23 sup. (Martini-Bassi 732), fol. 164 (12th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43209/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Ibērōn 329 (Lampros 4449), fol. 113 (16th cent.)</p>",
-      "line_text": "Mount Athos, Monē Ibērōn 329 (Lampros 4449), fol. 113 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Philotheou, 21 (Lampros 1784), fol. 26 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29385/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Philotheou, 21 (Lampros 1784), fol. 26 (12th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29385/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Hagiou Pantelēmonos, 829 (Lampros 6336), fol. 2<sup>v</sup></p>",
-      "line_text": "Mount Athos, Monē Hagiou Pantelēmonos, 829 (Lampros 6336), fol. 2v",
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 976, fol. 60 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/59351/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271074992-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 976, fol. 60 (16th cent.) ~ Pinakes; LOC",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/59351/",
+        "https://www.loc.gov/item/00271074992-ms"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Philotheou, 21 (Lampros 1784), fol. 26 (12th cent.)</p>",
-      "line_text": "Mount Athos, Monē Philotheou, 21 (Lampros 1784), fol. 26 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. T. 1. 1 (Misc. 179), p. 419 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47127/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, Bodleian Library, Auct. T. 1. 1 (Misc. 179), p. 419 (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47127/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 976, fol. 60 (16th cent.)</p>",
-      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 976, fol. 60 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. E. 4. 11 (Misc. 56), fols. 21<sup>v</sup>–22<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47043/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_557\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Oxford, Bodleian Library, Auct. E. 4. 11 (Misc. 56), fols. 21v–22r (15th cent.) ~ Pinakes; catalog",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47043/",
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_557"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Canonic. Gr. 19, fol. 127 (15th/16th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, Canonic. Gr. 19, fol. 127 (15th/16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 53,  p. 398 (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49614/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10077252z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 53,  p. 398 (10th/11th cent.) ~ Pinakes; Gallica",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/49614/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10077252z"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. T. 1. 1 (Misc. 179), p. 419 (16th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, Auct. T. 1. 1 (Misc. 179), p. 419 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 352, fol. 54<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/64895/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 352, fol. 54v (10th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/64895/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. E. 4. 11 (Misc. 56), fols. 21<sup>v</sup>–22<sup>r</sup> (15th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, Auct. E. 4. 11 (Misc. 56), fols. 21v–22r (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2165, fol. 45 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68795/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2165, fol. 45 (12th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68795/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 53,  p. 398 (10th/11th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, gr. 53,  p. 398 (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. II.85, fols. 184<sup>v</sup>–186<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70247/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. II.85, fols. 184v–186r (14th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70247/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 352, fol. 54<sup>v</sup> (10th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 352, fol. 54v (10th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2165, fol. 45 (12th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2165, fol. 45 (12th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. II.85, fols. 184<sup>v</sup>–186<sup>r</sup> (14th cent.)</p>",
-      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. II.85, fols. 184v–186r (14th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p><a href=\"https://books.google.ca/books?id=FYrTPgAACAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cotelier, Jean Baptiste. <em>SS. Patrum qui temporibus apostolicis floruerunt</em>. 2 vols. 2nd ed. Antwerp: Huguetanorum sumtibus, 1724 (Greek text and Latin translation, vol. 2: 274; manuscript is identified as Paris Reg. 1007).</p>",
-      "line_text": "Cotelier, Jean Baptiste. SS. Patrum qui temporibus apostolicis floruerunt. 2 vols. 2nd ed. Antwerp: Huguetanorum sumtibus, 1724 (Greek text and Latin translation, vol. 2: 274; manuscript is identified as Paris Reg. 1007).",
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=FYrTPgAACAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cotelier, Jean Baptiste. <em>SS. Patrum qui temporibus apostolicis floruerunt</em>. 2 vols. 2nd ed. Antwerp: Huguetanorum sumtibus, 1724 (Greek text and Latin translation, vol. 2, p. 274; manuscript is identified as Paris Reg. 1007).</p>",
+      "line_text": "Cotelier, Jean Baptiste. SS. Patrum qui temporibus apostolicis floruerunt. 2 vols. 2nd ed. Antwerp: Huguetanorum sumtibus, 1724 (Greek text and Latin translation, vol. 2, p. 274; manuscript is identified as Paris Reg. 1007).",
       "language": "Greek",
       "entry_type": "Edition",
       "other_urls": [
@@ -228,8 +248,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Cum, Walter E. <em>Coptic Ostraca from the Collections of the Egypt Exploration Fund, the Cairo Museum and Others.</em> London: The Egypt Exploration Fund, 1902 (text p. 72, trans. p. 74).</p>",
-      "line_text": "Cum, Walter E. Coptic Ostraca from the Collections of the Egypt Exploration Fund, the Cairo Museum and Others. London: The Egypt Exploration Fund, 1902 (text p. 72, trans. p. 74).",
+      "line_html": "<p>Crum, Walter E. <em>Coptic Ostraca from the Collections of the Egypt Exploration Fund, the Cairo Museum and Others.</em> London: The Egypt Exploration Fund, 1902 (text p. 72, trans. p. 74).</p>",
+      "line_text": "Crum, Walter E. Coptic Ostraca from the Collections of the Egypt Exploration Fund, the Cairo Museum and Others. London: The Egypt Exploration Fund, 1902 (text p. 72, trans. p. 74).",
       "language": "English",
       "entry_type": "Other"
     },

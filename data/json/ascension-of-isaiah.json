@@ -8,7 +8,6 @@
     "Martyrdom of Isaiah, Testament of Hezekiah, Vision of Isaiah, Martyrdom and Ascension of Isaiah"
   ],
   "clavis_number": 983,
-  "compiler": "[not available]",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>U</strong>  Moscow, State Historical Museum, 1063/1604, fols. 90<sup>r</sup>–95<sup>r</sup> (12th/13th cent.)</p>",
@@ -188,16 +187,22 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>E</strong>  Ḥayq, Esṭifānos Monastery, EMML 1768, fols. 83<sup>r</sup>–88<sup>v </sup>(15th cent.)</p>",
-      "line_text": "E  Ḥayq, Esṭifānos Monastery, EMML 1768, fols. 83r–88v (15th cent.)",
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>E</strong>  Ḥayq, Esṭifānos Monastery, EMML 1768, fols. 83<sup>r</sup>–88<sup>v </sup>(15th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/203599\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "E  Ḥayq, Esṭifānos Monastery, EMML 1768, fols. 83r–88v (15th cent.) ~ HMML",
       "language": "Ethiopic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/203599"
+      ]
     },
     {
-      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>F</strong>  Ankobar, Madḫānē Ālam, EMML 3067, fols. 99<sup>r</sup>–117<sup>v </sup>(15th cent.)</p>",
-      "line_text": "F  Ankobar, Madḫānē Ālam, EMML 3067, fols. 99r–117v (15th cent.)",
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>F</strong>  Ankobar, Madḫānē Ālam, EMML 3067, fols. 99<sup>r</sup>–117<sup>v </sup>(15th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/204892\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "F  Ankobar, Madḫānē Ālam, EMML 3067, fols. 99r–117v (15th cent.) ~ HMML",
       "language": "Ethiopic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/204892"
+      ]
     },
     {
       "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>G  </strong>Vatican, Biblioteca Apostolica Vaticana, Vat. et. 263 fols. 85<sup>v</sup>–104<sup>v</sup> (14th/15th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.et.263\" target=\"_blank\" rel=\"noopener\">DVL</a></p>",
@@ -233,26 +238,68 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>M</strong>  Amba Gəsän (Wallo), Church of Gəsän Maryam, EMML 9009 (15th/16th cent.)</p>",
-      "line_text": "M  Amba Gəsän (Wallo), Church of Gəsän Maryam, EMML 9009 (15th/16th cent.)",
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>M</strong>  Amba Gəsän (Wallo), Church of Gəsän Maryam, EMML 9009 (15th/16th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/201732\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "M  Amba Gəsän (Wallo), Church of Gəsän Maryam, EMML 9009 (15th/16th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/201732"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>N</strong>  Mäqäle (Tigray), Abunä Yohannəs Museum, EMDL 668 fols. 1<sup>r</sup>, 4<sup>r</sup>–57<sup>v</sup> (1925–1926) ~ <a href=\"https://eap.bl.uk/archive-file/EAP357-1-11\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "N  Mäqäle (Tigray), Abunä Yohannəs Museum, EMDL 668 fols. 1r, 4r–57v (1925–1926) ~ IMAGES",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://eap.bl.uk/archive-file/EAP357-1-11"
+      ]
+    },
+    {
+      "line_html": "<p>Additional manuscripts:</p>",
+      "line_text": "Additional manuscripts:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Asmara (Eritrea), Cloister of Däbrä Bizän (1491–1492). Uncatalogued Bible manuscript, incl. <em>1 Enoch</em>, <em>Jubilees</em>, and <em>Asc. Isa.</em></p>",
+      "line_text": "Asmara (Eritrea), Cloister of Däbrä Bizän (1491–1492). Uncatalogued Bible manuscript, incl. 1 Enoch, Jubilees, and Asc. Isa.",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\"><strong>N</strong>  Mäqäle (Tigray), Abunä Yohannəs Museum, EMDL 668 fols. 1<sup>r</sup>, 4<sup>r</sup>–57<sup>v</sup> (1925–1926).</p>",
-      "line_text": "N  Mäqäle (Tigray), Abunä Yohannəs Museum, EMDL 668 fols. 1r, 4r–57v (1925–1926).",
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Goğğām Province, Dimā Giyorgis Monastery, UNESCO 10.17</p>",
+      "line_text": "Goğğām Province, Dimā Giyorgis Monastery, UNESCO 10.17",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Asmara (Eritrea), Cloister of Däbrä Bizän. 1491–1492. Uncatalogued Bible manuscript, incl. <em>1 Enoch</em>, <em>Jubilees</em>, and <em>Asc. Isa.</em></p>",
-      "line_text": "Asmara (Eritrea), Cloister of Däbrä Bizän. 1491–1492. Uncatalogued Bible manuscript, incl. 1 Enoch, Jubilees, and Asc. Isa.",
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Tigray, Dabra Seyon Abrehām (15th cent.). Uncataloged.</p>",
+      "line_text": "Tigray, Dabra Seyon Abrehām (15th cent.). Uncataloged.",
       "language": "Ethiopic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"font-weight: 400;\">Bausi, Alessandro. “Su alcuni manoscritti presso communità monastische dell’Eritrea. Parte Seconda.” <em>Rassegna di stud etiopici</em> 39 (1995): 25–48 (description of Däbrä Bizän MS, pp. 34–39).</p>",
-      "line_text": "Bausi, Alessandro. “Su alcuni manoscritti presso communità monastische dell’Eritrea. Parte Seconda.” Rassegna di stud etiopici 39 (1995): 25–48 (description of Däbrä Bizän MS, pp. 34–39).",
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Tigray, Ṣa’adā Embā Monastery, MK-012, fols. 202<sup>v</sup>, 178<sup>r</sup>–187<sup>v</sup> (15th/16th cent.) ~ <a href=\"https://eap.bl.uk/archive-file/EAP704-2-12\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Tigray, Ṣa’adā Embā Monastery, MK-012, fols. 202v, 178r–187v (15th/16th cent.) ~ IMAGES",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://eap.bl.uk/archive-file/EAP704-2-12"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400; padding-left: 40px;\">Goğğām Province, Marṭula Māryām Monastery, G1-IV-144 (EMDA 27) (18th/19th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/500076\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Goğğām Province, Marṭula Māryām Monastery, G1-IV-144 (EMDA 27) (18th/19th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/500076"
+      ]
+    },
+    {
+      "line_html": "<p style=\"font-weight: 400;\">Bausi, Alessandro. “Su alcuni manoscritti presso communità monastische dell’Eritrea. Parte Seconda.” <em>Rassegna di stud etiopici</em> 39 (1995): 25–48 (description of Däbrä Bizän MS, pp. 34–39).</p>",
+      "line_text": "Bausi, Alessandro. “Su alcuni manoscritti presso communità monastische dell’Eritrea. Parte Seconda.” Rassegna di stud etiopici 39 (1995): 25–48 (description of Däbrä Bizän MS, pp. 34–39).",
       "language": "Ethiopic",
       "entry_type": "Edition"
     },
@@ -283,6 +330,12 @@
     {
       "line_html": "<p style=\"font-weight: 400;\">Erho, Ted M. “New Ethiopic Witnesses to Some Old Testament Pseudepigrapha.” <em>BSOAS</em> 76 (2013): 75–97 (descriptions of MSS EMML 9009 and EMDL 668).</p>",
       "line_text": "Erho, Ted M. “New Ethiopic Witnesses to Some Old Testament Pseudepigrapha.” BSOAS 76 (2013): 75–97 (descriptions of MSS EMML 9009 and EMDL 668).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>__________. “James Bruce’s Illusory ‘Book of Enoch the Prophet’.” Pages 183–208 in <em>Rediscovering Enoch. The Antediluvian Past from the Fifteenth to Nineteenth Centuries</em>. Edited by Ariel Hessayon, Annette Yoshiko Reed, and Gabriele Boccaccini. Leiden: Brill, 2023 (first mention of EMDA 27, MK-012, and UNESCO 10.17, p. 206 n. 89).</p>",
+      "line_text": "__________. “James Bruce’s Illusory ‘Book of Enoch the Prophet’.” Pages 183–208 in Rediscovering Enoch. The Antediluvian Past from the Fifteenth to Nineteenth Centuries. Edited by Ariel Hessayon, Annette Yoshiko Reed, and Gabriele Boccaccini. Leiden: Brill, 2023 (first mention of EMDA 27, MK-012, and UNESCO 10.17, p. 206 n. 89).",
       "language": "Ethiopic",
       "entry_type": "Edition"
     },

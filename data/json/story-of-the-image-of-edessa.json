@@ -15,6 +15,24 @@
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut 620 (18th cent.) pp. 85–113</p>",
+      "line_text": "Beirut 620 (18th cent.) pp. 85–113",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sharfe ar. 2/34 (17th cent.) fols. unknown</p>",
+      "line_text": "Sharfe ar. 2/34 (17th cent.) fols. unknown",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paul Sbath ms 438 (1748) fols. unknown</p>",
+      "line_text": "Paul Sbath ms 438 (1748) fols. unknown",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
       "line_html": "<p><a href=\"https://archive.org/details/ancientsyriacdo00wriggoog/page/n174/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a> Cureton, William. <em>Ancient Syriac Documents: Relative to the Earliest Establishment of Christianity in Edessa and the Neighboring Countries</em>. London: Williams and Norgate, 1864 (mentions British Library, Add. 9965, p. 153).</p>",
       "line_text": " Cureton, William. Ancient Syriac Documents: Relative to the Earliest Establishment of Christianity in Edessa and the Neighboring Countries. London: Williams and Norgate, 1864 (mentions British Library, Add. 9965, p. 153).",
       "language": "Arabic",
@@ -22,6 +40,12 @@
       "other_urls": [
         "https://archive.org/details/ancientsyriacdo00wriggoog/page/n174/mode/2up"
       ]
+    },
+    {
+      "line_html": "<p>Graf, Georg. <i>Geschichte der Christlichen Arabischen</i> Literatur. 5 vols. Rome: Vatican Apostolic Library, 1944–1953 (manuscripts listed, vol. 1, pp. 237–38).</p>",
+      "line_text": "Graf, Georg. Geschichte der Christlichen Arabischen Literatur. 5 vols. Rome: Vatican Apostolic Library, 1944–1953 (manuscripts listed, vol. 1, pp. 237–38).",
+      "language": "Arabic",
+      "entry_type": "Edition"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>sl1 </strong> Great Menaion Reader of Makarius in Moscow, State Historical Museum, Synodal Coll. 795 (997), fols. 219–226 (16th cent.)<br/><strong>sl2</strong>  Menaion Reader of the Moscow Theological Academy (no further details provided)<br/><strong>sl3</strong>  Menaion Reader of the Trinity Lavra of St. Sergius, fol. 681<sup>r</sup> (1627)</p>",
@@ -69,6 +93,15 @@
       ]
     },
     {
+      "line_html": "<p><a href=\"https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n247/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delehaye, Hippolyte. <em>Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis</em>. Brussels: Société des Bollandistes, 1902 (pp. 893–901).</p>",
+      "line_text": "Delehaye, Hippolyte. Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis. Brussels: Société des Bollandistes, 1902 (pp. 893–901).",
+      "language": ".1 Text A: “Menaion Reading for the Feast of the Translation",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n247/mode/2up"
+      ]
+    },
+    {
       "line_html": "<p><a href=\"https://digi.ub.uni-heidelberg.de/diglit/dobschuetz1899/0683/image\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Dobschütz, Ernst von. <em>Christusbilder: Untersuchungen zur christlichen Legende.</em> 3 vols. Leipzig: J.C. Hinrichs, 1899 (pp. 38*–85*).</p>",
       "line_text": "Dobschütz, Ernst von. Christusbilder: Untersuchungen zur christlichen Legende. 3 vols. Leipzig: J.C. Hinrichs, 1899 (pp. 38*–85*).",
       "language": ".1 Text A: “Menaion Reading for the Feast of the Translation",
@@ -82,15 +115,6 @@
       "line_text": "Guscin, Mark. The Image of Edessa. Leiden: Brill, 2009 (text and English translation of Text A, pp. 88–111).",
       "language": ".1 Text A: “Menaion Reading for the Feast of the Translation",
       "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p><a href=\"https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n247/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hippolyte Delehaye, <em>Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis</em>.Brussels: Société des Bollandistes, 1902 (pp. 893–901).</p>",
-      "line_text": "Hippolyte Delehaye, Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis.Brussels: Société des Bollandistes, 1902 (pp. 893–901).",
-      "language": ".1 Text A: “Menaion Reading for the Feast of the Translation",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n247/mode/2up"
-      ]
     },
     {
       "line_html": "<p>Note: sigla established by von Dobschütz and expanded by Guscin.</p>",
@@ -615,8 +639,8 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/patrologiaecurs70migngoog/page/n213/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 113. Paris: Cerf, 1899 (reproduction of edition and Lation translation from Gallandi, cols. 423–54).</p>",
-      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 113. Paris: Cerf, 1899 (reproduction of edition and Lation translation from Gallandi, cols. 423–54).",
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaecurs70migngoog/page/n213/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 113. Paris: Cerf, 1899 (reproduction of edition and Latin translation from Gallandi, cols. 423–54).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 113. Paris: Cerf, 1899 (reproduction of edition and Latin translation from Gallandi, cols. 423–54).",
       "language": ".2.2 Text B2",
       "entry_type": "Edition",
       "other_urls": [

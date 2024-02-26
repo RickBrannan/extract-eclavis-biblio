@@ -9,22 +9,32 @@
   "compiler": "Alma Gjika",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Ann Arbor, University of Michigan Library, Special Collections Library, 36, fols. 26–29 (14th/15th cent.)</p>",
-      "line_text": "Ann Arbor, University of Michigan Library, Special Collections Library, 36, fols. 26–29 (14th/15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Ann Arbor, University of Michigan Library, Special Collections Library, 36, fols. 26–29 (14th/15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/893/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ann Arbor, University of Michigan Library, Special Collections Library, 36, fols. 26–29 (14th/15th cent.) ~ Pinakes",
       "language": ".1 Recension 1",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/893/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 25<sup>r</sup>–25<sup>v</sup> (10th/11th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 25r–25v (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 25<sup>r</sup>–25<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42790/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:74249\" target=\"_blank\" rel=\"noopener\">Milan</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 144 sup. (Martini-Bassi 377), fols. 25r–25v (10th/11th cent.) ~ Pinakes; Milan",
       "language": ".1 Recension 1",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42790/",
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:74249"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mutilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57 (1604)</p>",
-      "line_text": "Mutilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57 (1604)",
+      "line_html": "<p style=\"padding-left: 30px;\">Mutilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57 (1604) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/45321/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mutilene, Monē tou Hagiou Iōannou tou Theologou Hypsēlou (Antissa), 57 (1604) ~ Pinakes",
       "language": ".1 Recension 1",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/45321/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ohrid-naroden-muzej-4/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Ohrid, Naroden Muzej, 4, pp. 164–166 (10th cent.)</p>",
@@ -36,10 +46,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 121, fols. 5<sup>r</sup>–5<sup>v</sup> (1342)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, gr. 121, fols. 5r–5v (1342)",
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, Coislin 121, fols. 5<sup>r</sup>–5<sup>v</sup> (1342)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coislin 121, fols. 5r–5v (1342)",
       "language": ".1 Recension 1",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-chig-r-vi-39/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, R.VI.39, fols. 105<sup>r</sup>–106<sup>v </sup>(12th cent.)</p>",
@@ -60,10 +73,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 24<sup>v</sup>–26 (12th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 24v–26 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 24<sup>v</sup>–26 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68262/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 24v–26 (12th cent.) ~ Pinakes",
       "language": ".1 Recension 1",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68262/"
+      ]
     },
     {
       "line_html": "<p>Halkin, François. “Ananie de Damas.” Δίπτυχα 4 (1986): 178–82 (edition of Ohrid, 4 with French translation).</p>",
@@ -72,40 +88,58 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 51–53 (12th cent.)</p>",
-      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 51–53 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 51–53 (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3323/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 51–53 (12th cent.) ~ Pinakes",
       "language": ".2 Recension 2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3323/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 2319, fols. 27–30<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 2319, fols. 27–30v (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 2319, fols. 27–30<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4351/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 2319, fols. 27–30v (15th cent.) ~ Pinakes",
       "language": ".2 Recension 2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4351/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Gjirokastër, Bibliothēke tēs Mētropoleôs, 5, fols. 27<sup>v</sup>–30 (17th cent.)</p>",
-      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleôs, 5, fols. 27v–30 (17th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Gjirokastër, Bibliothēke tēs Mētropoleôs, 5, fols. 27<sup>v</sup>–30 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17275/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Gjirokastër, Bibliothēke tēs Mētropoleôs, 5, fols. 27v–30 (17th cent.) ~ Pinakes",
       "language": ".2 Recension 2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/17275/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 39<sup>v</sup>–40 (11th/12th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 39v–40 (11th/12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 39<sup>v</sup>–40 (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42455/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, C 123 sup. (Martini-Bassi 213), fols. 39v–40 (11th/12th cent.) ~ Pinakes",
       "language": ".2 Recension 2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42455/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, 43, fols. 21–22<sup>v</sup> (12th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, 43, fols. 21–22v (12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Clarke 43, fols. 21–22<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47780/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, Bodleian Library, Clarke 43, fols. 21–22v (12th cent.) ~ Pinakes",
       "language": ".2 Recension 2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47780/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Saint Petersburg, Rossijskaja Nacional’naja biblioteka, 213 (Granstrem 283), fols. 113–114<sup>v</sup> (11th/12th cent.)</p>",
-      "line_text": "Saint Petersburg, Rossijskaja Nacional’naja biblioteka, 213 (Granstrem 283), fols. 113–114v (11th/12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Saint Petersburg, Rossijskaja Nacional’naja biblioteka, 213 (Granstrem 283), fols. 113–114<sup>v</sup> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57285/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Saint Petersburg, Rossijskaja Nacional’naja biblioteka, 213 (Granstrem 283), fols. 113–114v (11th/12th cent.) ~ Pinakes",
       "language": ".2 Recension 2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/57285/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Weimar, Herzogin Anna Amalia Bibliothek, Q.729, fols. 158<sup>v</sup>–162<sup>r</sup> (11th cent.)</p>",
@@ -123,28 +157,50 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Karakallou, 8 (Lambros 1521), Mon. 48, fols. 33–34<sup>v</sup> (10th/11th cent.)</p>",
-      "line_text": "Mount Athos, Monē Karakallou, 8 (Lambros 1521), Mon. 48, fols. 33–34v (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, University Library, 3047, fols. 299–302 (1550) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12110/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Cambridge, University Library, 3047, fols. 299–302 (1550) ~ Pinakes",
       "language": ".3 Recension 3",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12110/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Pantokratoros, 40 (Lambros 1074) (11th cent.)</p>",
-      "line_text": "Mount Athos, Monē Pantokratoros, 40 (Lambros 1074) (11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Karakallou, 8 (Lambros 1521), Mon. 48, fols. 33–34<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/25577/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://hdl.handle.net/20.500.11957/110349\" target=\"_blank\" rel=\"noopener\">Athos</a></p>",
+      "line_text": "Mount Athos, Monē Karakallou, 8 (Lambros 1521), Mon. 48, fols. 33–34v (10th/11th cent.) ~ Pinakes; Athos",
       "language": ".3 Recension 3",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/25577/",
+        "http://hdl.handle.net/20.500.11957/110349"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, D 92 sup. (Martini-Bassi 259), fols. 217<sup>v</sup>–218<sup>v</sup> (10th/11th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, D 92 sup. (Martini-Bassi 259), fols. 217v–218v (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Pantokratoros, 40 (Lambros 1074) (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29059/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Pantokratoros, 40 (Lambros 1074) (11th cent.) ~ Pinakes",
       "language": ".3 Recension 3",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29059/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1468, fols. 83–84 (11th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, gr. 1468, fols. 83–84 (11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Ambrosiana, D 92 sup. (Martini-Bassi 259), fols. 217<sup>v</sup>–218<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42573/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, D 92 sup. (Martini-Bassi 259), fols. 217v–218v (10th/11th cent.) ~ Pinakes",
       "language": ".3 Recension 3",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42573/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1468, fols. 83<sup>r</sup>–84<sup>r</sup> (11th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1468, fols. 83r–84r (11th cent.)",
+      "language": ".3 Recension 3",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316<sup>r</sup>–1318<sup>v </sup>(1542)</p>",
@@ -156,63 +212,57 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Cambridge, University Library, 3047, fols. 299–302 (1550)</p>",
-      "line_text": "Cambridge, University Library, 3047, fols. 299–302 (1550)",
-      "language": ".5 Undetermined",
+      "line_html": "<p style=\"padding-left: 30px;\">St. Petersburg, National Library of Russia, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200<sup>v</sup> (16th cent.) = de Santos Otero 1</p>",
+      "line_text": "St. Petersburg, National Library of Russia, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200v (16th cent.) = de Santos Otero 1",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Publičnaja Biblioteka, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200<sup>v</sup> (16th cent.).</p>",
-      "line_text": "Leningrad, Publičnaja Biblioteka, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200v (16th cent.).",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">St. Petersburg, Library of the Russian Academy of Sciences, 31.6.26 (Tolstoj 40), fol. 72–74 (16th cent.) = de Santos Otero 2</p>",
+      "line_text": "St. Petersburg, Library of the Russian Academy of Sciences, 31.6.26 (Tolstoj 40), fol. 72–74 (16th cent.) = de Santos Otero 2",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Biblioteka Akademii Nauk SSSR, 31.6.26 (Tolstoj 40), fol. 72–74 (16th cent.)</p>",
-      "line_text": "Leningrad, Biblioteka Akademii Nauk SSSR, 31.6.26 (Tolstoj 40), fol. 72–74 (16th cent.)",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">St. Petersburg, National Library of Russia, Solovevetsky Monastery 619, fols. 23–27 (16th cent.) = de Santos Otero 7</p>",
+      "line_text": "St. Petersburg, National Library of Russia, Solovevetsky Monastery 619, fols. 23–27 (16th cent.) = de Santos Otero 7",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 619, fols. 23–27 (16th cent.)</p>",
-      "line_text": "Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 619, fols. 23–27 (16th cent.)",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">St. Petersburg, National Library of Russia, Solovevetsky Monastery 647, fols. 570–574 (16th/17th cent.) = de Santos Otero 8</p>",
+      "line_text": "St. Petersburg, National Library of Russia, Solovevetsky Monastery 647, fols. 570–574 (16th/17th cent.) = de Santos Otero 8",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 647, fols. 570–574 (16th/17th cent.)</p>",
-      "line_text": "Leningrad, Publičnaja Biblioteka, Soloveckij Monastyr’ 647, fols. 570–574 (16th/17th cent.)",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Russian State Library, Troice-Sergieva Lavra 666 (1618), fols. 162–164<sup>v</sup> (15th cent.) = de Santos Otero 3</p>",
+      "line_text": "Moscow, Russian State Library, Troice-Sergieva Lavra 666 (1618), fols. 162–164v (15th cent.) = de Santos Otero 3",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Leninbibliothek/ehem. Rumjancevsk. Muzej, Troice-Sergieva Lavra 666 (1618), fols. 162–164<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Moscow, Leninbibliothek/ehem. Rumjancevsk. Muzej, Troice-Sergieva Lavra 666 (1618), fols. 162–164v (15th cent.)",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gos. Istoričeskij Muzej/otdel rukopisej, Sinodal’noe sobranie 781 (170), fols. 2–4 (16th cent.) = de Santos Otero 4</p>",
+      "line_text": "Moscow, Gos. Istoričeskij Muzej/otdel rukopisej, Sinodal’noe sobranie 781 (170), fols. 2–4 (16th cent.) = de Santos Otero 4",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gos. Istoričeskij Muzej/otdel rukopisej, Sinodal’noe sobranie 781 (170), fols. 2–4 (16th cent.)</p>",
-      "line_text": "Moscow, Gos. Istoričeskij Muzej/otdel rukopisej, Sinodal’noe sobranie 781 (170), fols. 2–4 (16th cent.)",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">Moscow, State Historical Museum, Uspenskij Sobor, Mineja čeƄtja des Metropol. Makarij f. Oktober, Carskij spisok 987, fols. 17–18<sup>v</sup> (16th cent.) = de Santos Otero 5</p>",
+      "line_text": "Moscow, State Historical Museum, Uspenskij Sobor, Mineja čeƄtja des Metropol. Makarij f. Oktober, Carskij spisok 987, fols. 17–18v (16th cent.) = de Santos Otero 5",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Gos. Istoričeskij Muzej/otdel rukopisej,Uspenskij Sobor, Mineja čeƄtja des Metropol. Makarij f. Oktober, Carskij spisok 987, fols. 17–18<sup>v</sup> (16th cent.)</p>",
-      "line_text": "Moscow, Gos. Istoričeskij Muzej/otdel rukopisej,Uspenskij Sobor, Mineja čeƄtja des Metropol. Makarij f. Oktober, Carskij spisok 987, fols. 17–18v (16th cent.)",
-      "language": "Church Slavonic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\">Wroklaw (Breslau), Biblioteka Nac. Instituta im. Ossolińskich, 38, fols. 79v-81 (16th cent.)</p>",
-      "line_text": "Wroklaw (Breslau), Biblioteka Nac. Instituta im. Ossolińskich, 38, fols. 79v-81 (16th cent.)",
-      "language": "Church Slavonic",
+      "line_html": "<p style=\"padding-left: 30px;\">Wroklaw, Ossoliński National Institute, 38, fols. 79<sup>v</sup>–81 (16th cent.) = de Santos Otero 6</p>",
+      "line_text": "Wroklaw, Ossoliński National Institute, 38, fols. 79v–81 (16th cent.) = de Santos Otero 6",
+      "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p>Santos Otero, Aurelio de. <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977. (Discussion of the Slavonic tradition, vol. 1, pp. 138–39)</p>",
       "line_text": "Santos Otero, Aurelio de. Die handscriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977. (Discussion of the Slavonic tradition, vol. 1, pp. 138–39)",
-      "language": "Church Slavonic",
+      "language": "Church Slavic",
       "entry_type": "Edition"
     },
     {

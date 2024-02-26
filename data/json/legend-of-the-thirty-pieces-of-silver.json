@@ -183,10 +183,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>O  </strong>Paris, Bibliothèque nationale de France, Syr. 309, fol. 51<sup>v</sup>–53<sup>v</sup> (1869)</p>",
-      "line_text": "O  Paris, Bibliothèque nationale de France, Syr. 309, fol. 51v–53v (1869)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>O  </strong>Paris, Bibliothèque nationale de France, Syr. 309, fol. 51<sup>v</sup>–53<sup>v</sup> (1869) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10088737x\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "O  Paris, Bibliothèque nationale de France, Syr. 309, fol. 51v–53v (1869) ~ Gallica",
       "language": "Syriac",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10088737x"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/Budge1886TheBookOfTheBeeTheSyriacText...\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W., ed. <em>The Book of the Bee: The Syriac Text Edited from the Manuscripts in London, Oxford, Munich, with an English Translation</em>. Anecdota Oxoniensia, Semitic Series 1 part 2. Oxford: Clarendon Press, 1886 (edition and translation of the East Syriac text incorporated as <em>Bk. Bee</em> 44).</p>",
@@ -288,8 +291,8 @@
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” <em>Hugoye</em> 19.1 (2016): 35–121 (translations of the Syriac and Garšūnī texts, pp. 88–95, 110–21).</p>",
-      "line_text": "Burke, Tony and Slavomir Céplö. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” Hugoye 19.1 (2016): 35–121 (translations of the Syriac and Garšūnī texts, pp. 88–95, 110–21).",
+      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv19n1burke_ceplo\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” <em>Hugoye</em> 19.1 (2016): 35–121 (translations of the Syriac and Garšūnī texts, pp. 88–95, 110–21).</p>",
+      "line_text": "__________. “The Syriac Tradition of the Legend of the Thirty Pieces of Silver.” Hugoye 19.1 (2016): 35–121 (translations of the Syriac and Garšūnī texts, pp. 88–95, 110–21).",
       "language": "English",
       "entry_type": "Translation",
       "other_urls": [
@@ -315,8 +318,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Bezold, Carl. <em>The Queen of Sheba and Her Only Son Menyelek</em>. London: Martin Hopkinson &amp; Co., 1922.</p>",
-      "line_text": "Bezold, Carl. The Queen of Sheba and Her Only Son Menyelek. London: Martin Hopkinson &amp; Co., 1922.",
+      "line_html": "<p>__________. <em>The Queen of Sheba and Her Only Son Menyelek</em>. London: Martin Hopkinson &amp; Co., 1922.</p>",
+      "line_text": "__________. The Queen of Sheba and Her Only Son Menyelek. London: Martin Hopkinson &amp; Co., 1922.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -381,8 +384,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Harris, Sylvia C. “The <em>Historia Trium Regum</em> and the Mediaeval Legend of the Magi in Germany.” <em>Medium aevum</em> 28 (1959): 23–30.</p>",
-      "line_text": "Harris, Sylvia C. “The Historia Trium Regum and the Mediaeval Legend of the Magi in Germany.” Medium aevum 28 (1959): 23–30.",
+      "line_html": "<p>__________. “The <em>Historia Trium Regum</em> and the Mediaeval Legend of the Magi in Germany.” <em>Medium aevum</em> 28 (1959): 23–30.</p>",
+      "line_text": "__________. “The Historia Trium Regum and the Mediaeval Legend of the Magi in Germany.” Medium aevum 28 (1959): 23–30.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -474,8 +477,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Stewart, Aubrey, trans. <em>Ludolph von Suchem’s Description of the Holy Land, and of the Way Thither, Written in the Year AD 1350</em>. Palestine Pilgrims’ Text Society 12. London: Palestine Pilgrims’ Text Society, 1895.</p>",
-      "line_text": "Stewart, Aubrey, trans. Ludolph von Suchem’s Description of the Holy Land, and of the Way Thither, Written in the Year AD 1350. Palestine Pilgrims’ Text Society 12. London: Palestine Pilgrims’ Text Society, 1895.",
+      "line_html": "<p>__________, trans. <em>Ludolph von Suchem’s Description of the Holy Land, and of the Way Thither, Written in the Year AD 1350</em>. Palestine Pilgrims’ Text Society 12. London: Palestine Pilgrims’ Text Society, 1895.</p>",
+      "line_text": "__________, trans. Ludolph von Suchem’s Description of the Holy Land, and of the Way Thither, Written in the Year AD 1350. Palestine Pilgrims’ Text Society 12. London: Palestine Pilgrims’ Text Society, 1895.",
       "language": "English",
       "entry_type": "Other"
     },

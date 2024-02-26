@@ -363,12 +363,11 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">London, <a href=\"https://en.wikipedia.org/wiki/British_Library\">British Library</a>, Egerton 3145+Add. 28815, 66v-67v (10th cent.) ~ Gregory-Aland 699; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/39454/\">Pinakes</a>; <a href=\"http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Egerton_MS_3145\">BL</a></p>",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Egerton 3145+Add. 28815, 66v-67v (10th cent.) ~ Gregory-Aland 699; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/39454/\">Pinakes</a>; <a href=\"http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Egerton_MS_3145\">BL</a></p>",
       "line_text": "London, British Library, Egerton 3145+Add. 28815, 66v-67v (10th cent.) ~ Gregory-Aland 699; Pinakes; BL",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://en.wikipedia.org/wiki/British_Library",
         "https://pinakes.irht.cnrs.fr/notices/cote/39454/",
         "http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Egerton_MS_3145"
       ]

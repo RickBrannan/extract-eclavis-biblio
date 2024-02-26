@@ -81,10 +81,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Graz, Universitätsbibliothek, 412, fols. 157<sup>v</sup>–160<sup>r</sup> (9th cent.)</span></p>",
-      "line_text": "Graz, Universitätsbibliothek, 412, fols. 157v–160r (9th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Graz, Universitätsbibliothek, 412, fols. 157<sup>v</sup>–160<sup>r</sup> (9th cent.) ~ <a href=\"https://unipub.uni-graz.at/urn:nbn:at:at-ubg:2-26623\" target=\"_blank\" rel=\"noopener\">IMAGES</a><br/></span></p>",
+      "line_text": "Graz, Universitätsbibliothek, 412, fols. 157v–160r (9th cent.) ~ IMAGES",
       "language": ".1 Longer Version",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://unipub.uni-graz.at/urn:nbn:at:at-ubg:2-26623"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"Brrgq\">Karlsruhe, Badische Landesbibliothek, Aug. 32, fols. 1<sup>r</sup>–1<sup>v</sup> (9th cent.)</span></p>",

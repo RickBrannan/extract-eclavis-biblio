@@ -309,14 +309,14 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong> Diuionensis 22 (10th/11th cent.)</p>",
-      "line_text": "D Diuionensis 22 (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong> Dijon, Bibliothèque Municipale, Ancien Fonds 40 (22) (10th/11th cent.)</p>",
+      "line_text": "D Dijon, Bibliothèque Municipale, Ancien Fonds 40 (22) (10th/11th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong> Diuionensis 383 (11th/12th cent.)</p>",
-      "line_text": "E Diuionensis 383 (11th/12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E  </strong>Dijon, Bibliothèque Municipale, Ancien Fonds 642 (383), fols. 24–25 (13th cent.)</p>",
+      "line_text": "E  Dijon, Bibliothèque Municipale, Ancien Fonds 642 (383), fols. 24–25 (13th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
@@ -330,46 +330,67 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, lat. 5327 (9th cent.)</p>",
-      "line_text": "P  Paris, Bibliothèque nationale de France, lat. 5327 (9th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, lat. 5327 (9th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b9068470g\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, lat. 5327 (9th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b9068470g"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque nationale de France, lat. 11748 (10th cent.)</p>",
-      "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 11748 (10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Q</strong>  Paris, Bibliothèque nationale de France, lat. 11748 (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b9066792g\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Q  Paris, Bibliothèque nationale de France, lat. 11748 (10th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b9066792g"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque nationale de France, lat. 11750 (11th cent.)</p>",
-      "line_text": "R  Paris, Bibliothèque nationale de France, lat. 11750 (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Paris, Bibliothèque nationale de France, lat. 11750 (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100222892\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "R  Paris, Bibliothèque nationale de France, lat. 11750 (11th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100222892"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Paris, Bibliothèque nationale de France, lat. 14364 (12th cent.)</p>",
-      "line_text": "S  Paris, Bibliothèque nationale de France, lat. 14364 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Paris, Bibliothèque nationale de France, lat. 14364 (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b90767616\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "S  Paris, Bibliothèque nationale de France, lat. 14364 (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b90767616"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Paris, Bibliothèque nationale de France, lat. 9737, fols. 10<sup>r</sup>–14<sup>v</sup> (12th cent.)</p>",
-      "line_text": "T  Paris, Bibliothèque nationale de France, lat. 9737, fols. 10r–14v (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T</strong>  Paris, Bibliothèque nationale de France, lat. 9737, fols. 10<sup>r</sup>–14<sup>v</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100364630\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "T  Paris, Bibliothèque nationale de France, lat. 9737, fols. 10r–14v (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100364630"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong>  Paris, Bibliothèque nationale de France, lat. 12601 (12th cent.)</p>",
-      "line_text": "U  Paris, Bibliothèque nationale de France, lat. 12601 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>U</strong>  Paris, Bibliothèque nationale de France, lat. 12601 (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b84229789\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "U  Paris, Bibliothèque nationale de France, lat. 12601 (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b84229789"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Paris, Bibliothèque nationale de France, lat. 13773 (12th cent.)</p>",
-      "line_text": "V  Paris, Bibliothèque nationale de France, lat. 13773 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Paris, Bibliothèque nationale de France, lat. 13773 (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b9076612c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "V  Paris, Bibliothèque nationale de France, lat. 13773 (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b9076612c"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Paris, Bibliothèque nationale de France, lat. 5273, fols. 21<sup>v</sup>–25<sup>r</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10035407z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
@@ -387,10 +408,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Graz, Universitätsbibliothek, 412 (9th cent.)</p>",
-      "line_text": "Graz, Universitätsbibliothek, 412 (9th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Graz, Universitätsbibliothek, 412 (9th cent.) ~ <a href=\"https://unipub.uni-graz.at/urn:nbn:at:at-ubg:2-26623\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Graz, Universitätsbibliothek, 412 (9th cent.) ~ IMAGES",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://unipub.uni-graz.at/urn:nbn:at:at-ubg:2-26623"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 52<sup>r</sup>–54<sup>v</sup> (1175)</p>",
@@ -438,28 +462,40 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12602, fols. 26<sup>r</sup>–29<sup>r</sup> (12th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, lat. 12602, fols. 26r–29r (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12602, fols. 26<sup>r</sup>–29<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100391093\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 12602, fols. 26r–29r (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100391093"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">St. Gallen, Stiftsbibliothek, 561 (9th cent.)</p>",
-      "line_text": "St. Gallen, Stiftsbibliothek, 561 (9th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">St. Gallen, Stiftsbibliothek, 561 (9th cent.) ~ <a href=\"https://www.e-codices.unifr.ch/en/list/one/csg/0561\" target=\"_blank\" rel=\"noopener\">e-codices</a></p>",
+      "line_text": "St. Gallen, Stiftsbibliothek, 561 (9th cent.) ~ e-codices",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.e-codices.unifr.ch/en/list/one/csg/0561"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 8<sup>v</sup>–12<sup>r</sup> (9th/10th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 8v–12r (9th/10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 8<sup>v</sup>–12<sup>r</sup> (9th/10th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.5771\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 8v–12r (9th/10th cent.) ~ BAV",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.5771"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 166<sup>r</sup>–168<sup>v</sup> (14th/15th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 166r–168v (14th/15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 166<sup>r</sup>–168<sup>v</sup> (14th/15th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.9499\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 166r–168v (14th/15th cent.) ~ BAV",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.9499"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://books.google.ca/books?id=aZE6tFVB4kMC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Andruzzi, Luigi. <i>Statera veritatis Emin. ac Rev. Principi S. R. E. Cardinali Francisco Barberino</i>. Rome: <span class=\"itemPublisher\">Ex typographia Antonii de Rubeis è Foro Rotundae</span>, 1731 (Latin text, pp. 171–89).</p>",

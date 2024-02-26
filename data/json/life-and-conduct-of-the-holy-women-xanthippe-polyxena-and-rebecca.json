@@ -12,12 +12,6 @@
   "compiler": ": David L. Eastman, The McCallie School",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Moscow, Russian State Library, gr. 68 [521], fols. 86<sup>v</sup>–101<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Moscow, Russian State Library, gr. 68 [521], fols. 86v–101v (15th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
       "line_html": "<p style=\"padding-left: 30px;\">Moscow, State Historical Museum, gr. 161, fols. 259–272 (11th cent.)</p>",
       "line_text": "Moscow, State Historical Museum, gr. 161, fols. 259–272 (11th cent.)",
       "language": "Greek",
@@ -39,6 +33,12 @@
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p>Note: the identification of the text in Moscow, Russian State Library, gr. 68 [521], fols. 86<sup>v</sup>–101<sup>v</sup> (15th cent.) is erroneous.</p>",
+      "line_text": "Note: the identification of the text in Moscow, Russian State Library, gr. 68 [521], fols. 86v–101v (15th cent.) is erroneous.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
       "line_html": "<p><a href=\"https://archive.org/details/classicalreview08clasuoft/page/336/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bonnet, Maximilian. “Sur les actes de Xanthippe et Polyxène.” <em>Classical Review </em>8.8 (1894): 336–41 (corrections to James’s standard edition).</p>",
       "line_text": "Bonnet, Maximilian. “Sur les actes de Xanthippe et Polyxène.” Classical Review 8.8 (1894): 336–41 (corrections to James’s standard edition).",
       "language": "Greek",
@@ -48,21 +48,21 @@
       ]
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/apocryphaanecdot00jame\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments</em>. TS 2. Cambridge: Cambridge University Press, 1893 (standard edition based on Paris gr. 1458, pp. 58–85).</p>",
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphaanecdot00jame/page/42/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments</em>. TS 2. Cambridge: Cambridge University Press, 1893 (standard edition based on Paris gr. 1458, pp. 58–85).</p>",
       "line_text": "James, Montague Rhodes. Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments. TS 2. Cambridge: Cambridge University Press, 1893 (standard edition based on Paris gr. 1458, pp. 58–85).",
       "language": "Greek",
       "entry_type": "Edition",
       "other_urls": [
-        "https://archive.org/details/apocryphaanecdot00jame"
+        "https://archive.org/details/apocryphaanecdot00jame/page/42/mode/2up"
       ]
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/apocryphaanecdot05jame\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>Apocrypha Anecdota 2</em>. TS 5.1. Cambridge: Cambridge University Press, 1897 (corrections to James’s earlier edition, pp. 139–40).</p>",
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphaanecdot05jame/page/138/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>Apocrypha Anecdota 2</em>. TS 5.1. Cambridge: Cambridge University Press, 1897 (corrections to James’s earlier edition, pp. 139–40).</p>",
       "line_text": "James, Montague Rhodes. Apocrypha Anecdota 2. TS 5.1. Cambridge: Cambridge University Press, 1897 (corrections to James’s earlier edition, pp. 139–40).",
       "language": "Greek",
       "entry_type": "Edition",
       "other_urls": [
-        "https://archive.org/details/apocryphaanecdot05jame"
+        "https://archive.org/details/apocryphaanecdot05jame/page/138/mode/2up"
       ]
     },
     {
@@ -72,12 +72,52 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p><a href=\"http://www.newadvent.org/fathers/1008.htm\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Craigie, William A., trans. “The Acts of Xanthippe and Polyxena.” Pages 205–17 in vol. 9 of <em>The Ante-Nicene Fathers</em>. Edited by Philip Schaff. 14 vols. 3rd ed. New York: Scribner’s Sons, 1899.</p>",
+      "line_html": "<p>Preliminary translation: September 25. Commemoration of the holy women Xanthippe and Polyxena. <span class=\"Y2IQFc\" lang=\"en\">Saint Xanthippe, the wife of Probus the prefect of Spain at the time of Claudius, the emperor of Rome, had a virgin sister named Polyxena. But when the holy apostle Paul came to the region of Spain and preached Christ, Xanthippe went to him, and was taught the faith by him, and was first baptized; then she persuaded her husband Probus to become a Christian. In like manner also her sister Polyxena was taught at that time by the same apostle; but after his departure, when she had heard Andrew, the great apostle of the Father, preaching the truth in Achaia, she went to him, and from him, after she had learned more perfectly what pertains to Christ, she received baptism. She soon returned to her country, where she found her sister Xanthippe shining in every kind of virtue, and was received by her with joy. And when both had taught the faith of Christ to many, they ended their lives.</span></p>",
+      "line_text": "Preliminary translation: September 25. Commemoration of the holy women Xanthippe and Polyxena. Saint Xanthippe, the wife of Probus the prefect of Spain at the time of Claudius, the emperor of Rome, had a virgin sister named Polyxena. But when the holy apostle Paul came to the region of Spain and preached Christ, Xanthippe went to him, and was taught the faith by him, and was first baptized; then she persuaded her husband Probus to become a Christian. In like manner also her sister Polyxena was taught at that time by the same apostle; but after his departure, when she had heard Andrew, the great apostle of the Father, preaching the truth in Achaia, she went to him, and from him, after she had learned more perfectly what pertains to Christ, she received baptism. She soon returned to her country, where she found her sister Xanthippe shining in every kind of virtue, and was received by her with joy. And when both had taught the faith of Christ to many, they ended their lives.",
+      "language": "Menologion of Basil II",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 63 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1613\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 63 (10th cent.) ~ Pinakes; BAV",
+      "language": "Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68244/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1613"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus80migngoog/page/68/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 69–70).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 69–70).",
+      "language": "Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus80migngoog/page/68/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Preliminary translation: <span class=\"Y2IQFc\" lang=\"en\">They lived in the region of Spain in the time of Claudius Caesar. Xanthippe was the wife of Probus, the prefect in charge of the region. And she was taught by the apostle Paul when he was dwelling in the region, with the others and her husband. But Polyxenes was captured by an evil person, but by the grace of God she remained unscathed, and was baptized by the apostle Andrew. M</span><span class=\"Y2IQFc\" lang=\"en\">any of those who believed because of her, Onesimus the apostle brought to her homeland of Spain. After a long voyage and delays, they were joined also by Rebekah, with whom (Polyxenes) was baptized, and she was reunited with her sister Xanthippe. And after passing the rest of life well and displaying many miracles, they were restored to the Lord.</span></p>",
+      "line_text": "Preliminary translation: They lived in the region of Spain in the time of Claudius Caesar. Xanthippe was the wife of Probus, the prefect in charge of the region. And she was taught by the apostle Paul when he was dwelling in the region, with the others and her husband. But Polyxenes was captured by an evil person, but by the grace of God she remained unscathed, and was baptized by the apostle Andrew. Many of those who believed because of her, Onesimus the apostle brought to her homeland of Spain. After a long voyage and delays, they were joined also by Rebekah, with whom (Polyxenes) was baptized, and she was reunited with her sister Xanthippe. And after passing the rest of life well and displaying many miracles, they were restored to the Lord.",
+      "language": "Menaea",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><em><a href=\"https://www.digitale-sammlungen.de/en/view/bsb11204485?page=173\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Menaea graecae ecclesiae</em>. Vol. 3: <em>September</em>. Venice: Spinellus, 1541 (Greek edition; unpaginated).</p>",
+      "line_text": "Menaea graecae ecclesiae. Vol. 3: September. Venice: Spinellus, 1541 (Greek edition; unpaginated).",
+      "language": "Menaea",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb11204485?page=173"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/antenicenefather0009alla/page/204/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Craigie, William A., trans. “The Acts of Xanthippe and Polyxena.” Pages 205–17 in vol. 9 of <em>The Ante-Nicene Fathers</em>. Edited by Philip Schaff. 14 vols. 3rd ed. New York: Scribner’s Sons, 1899.</p>",
       "line_text": "Craigie, William A., trans. “The Acts of Xanthippe and Polyxena.” Pages 205–17 in vol. 9 of The Ante-Nicene Fathers. Edited by Philip Schaff. 14 vols. 3rd ed. New York: Scribner’s Sons, 1899.",
       "language": "English",
       "entry_type": ". Modern Translations",
       "other_urls": [
-        "http://www.newadvent.org/fathers/1008.htm"
+        "https://archive.org/details/antenicenefather0009alla/page/204/mode/2up"
       ]
     },
     {
@@ -87,8 +127,8 @@
       "entry_type": ". Modern Translations"
     },
     {
-      "line_html": "<p>Junod, Éric. <em>Xanthippe et Polyxène: un roman chrétien. </em>Apocryphes 18. Turnhout: Brepols, 2023.</p>",
-      "line_text": "Junod, Éric. Xanthippe et Polyxène: un roman chrétien. Apocryphes 18. Turnhout: Brepols, 2023.",
+      "line_html": "<p>Junod, Éric. <em>Xanthippe et Polyxène: un roman chrétien. </em>Apocryphes 18. Turnhout: Brepols, 2023 (translation of edition by James, pp. 115–73).</p>",
+      "line_text": "Junod, Éric. Xanthippe et Polyxène: un roman chrétien. Apocryphes 18. Turnhout: Brepols, 2023 (translation of edition by James, pp. 115–73).",
       "language": "French",
       "entry_type": ". Modern Translations"
     },
@@ -138,18 +178,24 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Klauk, Hans-Josef. <em>The Apocryphal Acts of the Apostles: An Introduction</em>. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of <em>Apokryphe Apostelakten</em>. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 250–51).</p>",
+      "line_text": "Klauk, Hans-Josef. The Apocryphal Acts of the Apostles: An Introduction. Translated by Brian McNeil. Waco: Baylor University Press, 2008. English trans. of Apokryphe Apostelakten. Stuttgart: Katholisches Bibelwerk, 2005 (pp. 250–51).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Junod, Éric. <em>Xanthippe et Polyxène: un roman chrétien. </em>Apocryphes 18. Turnhout: Brepols, 2023.</p>",
       "line_text": "Junod, Éric. Xanthippe et Polyxène: un roman chrétien. Apocryphes 18. Turnhout: Brepols, 2023.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_ddJJAAAAMAAJ\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ein Beitrag zur altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (see vol. 1, pp. 217–27).</p>",
-      "line_text": "Lipsius, Richard A. Die Apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1887 (see vol. 1, pp. 217–27).",
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap05lipsgoog/page/n240/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ein Beitrag zur altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (see vol. 2.1, p. 227).</p>",
+      "line_text": "Lipsius, Richard A. Die Apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1887 (see vol. 2.1, p. 227).",
       "language": "English",
       "entry_type": "Other",
       "other_urls": [
-        "https://archive.org/details/bub_gb_ddJJAAAAMAAJ"
+        "https://archive.org/details/dieapokryphenap05lipsgoog/page/n240/mode/2up"
       ]
     },
     {

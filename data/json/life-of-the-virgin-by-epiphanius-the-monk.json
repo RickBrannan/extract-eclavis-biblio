@@ -1,0 +1,41 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-the-virgin-by-epiphanius-the-monk/",
+  "nasscal_title": "Life of the Virgin, by Epiphanius the Monk",
+  "filename": "life-of-the-virgin-by-epiphanius-the-monk",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Life Vir.",
+  "alt_titles": [
+    "Life of the Virgin"
+  ],
+  "clavis_number": 635,
+  "category": "Epistles",
+  "compiler": "[not available]",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-930/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vienna, Österreichische Nationalbibliothek, Cod. 930, fols. 215<sup>r</sup>–215<sup>v </sup>(1488)</p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, Cod. 930, fols. 215r–215v (1488)",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-930/"
+      ]
+    },
+    {
+      "line_html": "<p>Cunningham, Mary B. <em>Epiphanios the Monk: Life of Mary, the Theotokos, and Life and Acts of St Andrew the Apostle.</em> Translated Texts for Byzantinists 13. Liverpool: Liverpool University Press, 2023 (pp. 73–104).</p>",
+      "line_text": "Cunningham, Mary B. Epiphanios the Monk: Life of Mary, the Theotokos, and Life and Acts of St Andrew the Apostle. Translated Texts for Byzantinists 13. Liverpool: Liverpool University Press, 2023 (pp. 73–104).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

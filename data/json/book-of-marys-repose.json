@@ -58,8 +58,8 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 17137, fols. 6–7, 9 (underwriting ca. 5th/6th cent. overwriting ca. 12th cent.)</p>",
-      "line_text": "London, British Library, Add. 17137, fols. 6–7, 9 (underwriting ca. 5th/6th cent. overwriting ca. 12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 17137, fols. 6 (top), 7 (bottom), 9 (underwriting ca. 5th/6th cent. overwriting ca. 12th cent.)</p>",
+      "line_text": "London, British Library, Add. 17137, fols. 6 (top), 7 (bottom), 9 (underwriting ca. 5th/6th cent. overwriting ca. 12th cent.)",
       "language": "Syriac",
       "entry_type": "Manuscript"
     },
@@ -79,6 +79,12 @@
       ]
     },
     {
+      "line_html": "<p>__________. “Obsequies of My Lady Mary (II): A Fragmentary Syriac Palimpsest Manuscript from Deir al-Suryan (BL, Add 14.665, no. 2).” <em>Collectanea Christiana Orientalia</em> 19 (2022): 45–70.</p>",
+      "line_text": "__________. “Obsequies of My Lady Mary (II): A Fragmentary Syriac Palimpsest Manuscript from Deir al-Suryan (BL, Add 14.665, no. 2).” Collectanea Christiana Orientalia 19 (2022): 45–70.",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
       "line_html": "<p>Shoemaker, Stephen. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and the British Library.” <em>Mus</em> 124 (2011): 259–78 (Syriac and English translation of fol. 9<sup>r</sup> from BL 17137 side-by-side, p. 267).</p>",
       "line_text": "Shoemaker, Stephen. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and the British Library.” Mus 124 (2011): 259–78 (Syriac and English translation of fol. 9r from BL 17137 side-by-side, p. 267).",
       "language": "Syriac",
@@ -94,27 +100,27 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 1</strong>  Taylor-Schechter Collection, 16.327, fols. 1–2 + 16.351 + NS 258.140 (underwriting 5th/6th cent.)</p>",
-      "line_text": "CP 1  Taylor-Schechter Collection, 16.327, fols. 1–2 + 16.351 + NS 258.140 (underwriting 5th/6th cent.)",
-      "language": "Palestinian Aramaic",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 1</strong>  Cambridge, Cambridge University Library, Taylor-Schechter Collection, T-S 16.327, fols. 1–2 + AS 78.401 (underwriting 5th/6th cent.)</p>",
+      "line_text": "CP 1  Cambridge, Cambridge University Library, Taylor-Schechter Collection, T-S 16.327, fols. 1–2 + AS 78.401 (underwriting 5th/6th cent.)",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 2</strong> Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 8–9 (underwriting 5th/6th cent.)</p>",
       "line_text": "CP 2 Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 8–9 (underwriting 5th/6th cent.)",
-      "language": "Palestinian Aramaic",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>CP 3</strong>  Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 4–5 (underwriting 5th/6th cent.)</p>",
       "line_text": "CP 3  Mount Sinai, Monē tēs Hagias Aikaterinēs, Georgan NF 19, fols. 4–5 (underwriting 5th/6th cent.)",
-      "language": "Palestinian Aramaic",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Washington (D.C.), Museum of the Bible, MS.000149.1–86, fols. 9, 12 (=CCR 4) + Mount Sinai, Monē tēs Hagias Aikaterinēs, NF 38 (underwriting 5th/6th cent.) (=Codex Climaci Rescriptus) ~ <a href=\"https://www.museumofthebible.org/collections/artifacts/32858-codex-climaci-rescriptus-uncial-0250?&amp;tab=description\" target=\"_blank\" rel=\"noopener noreferrer\">MOB</a></p>",
-      "line_text": "Washington (D.C.), Museum of the Bible, MS.000149.1–86, fols. 9, 12 (=CCR 4) + Mount Sinai, Monē tēs Hagias Aikaterinēs, NF 38 (underwriting 5th/6th cent.) (=Codex Climaci Rescriptus) ~ MOB",
-      "language": "Palestinian Aramaic",
+      "line_html": "<p style=\"padding-left: 40px;\">Washington (D.C.), Museum of the Bible, MS.000149.1–86, fols. 9, 12 (=CCR 4) + Mount Sinai, Monē tēs Hagias Aikaterinēs, Sin. syr. NF M38N (underwriting 5th/6th cent.) (=Codex Climaci Rescriptus) ~ <a href=\"https://www.museumofthebible.org/collections/artifacts/32858-codex-climaci-rescriptus-uncial-0250?&amp;tab=description\" target=\"_blank\" rel=\"noopener noreferrer\">MOB</a></p>",
+      "line_text": "Washington (D.C.), Museum of the Bible, MS.000149.1–86, fols. 9, 12 (=CCR 4) + Mount Sinai, Monē tēs Hagias Aikaterinēs, Sin. syr. NF M38N (underwriting 5th/6th cent.) (=Codex Climaci Rescriptus) ~ MOB",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Manuscript",
       "other_urls": [
         "https://www.museumofthebible.org/collections/artifacts/32858-codex-climaci-rescriptus-uncial-0250?&tab=description"
@@ -123,19 +129,19 @@
     {
       "line_html": "<p>Lewis, Agnes Smith, ed. <em>Codex Climaci rescriptus</em>. Horae Semiticae 8. Cambridge: Cambridge University Press, 1909 (pp. 190–93) ~ from the Washington manuscript, fols. 9 and 12 (comprising portion of the text on Peter and Paul).</p>",
       "line_text": "Lewis, Agnes Smith, ed. Codex Climaci rescriptus. Horae Semiticae 8. Cambridge: Cambridge University Press, 1909 (pp. 190–93) ~ from the Washington manuscript, fols. 9 and 12 (comprising portion of the text on Peter and Paul).",
-      "language": "Palestinian Aramaic",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Edition"
     },
     {
       "line_html": "<p>Müller-Kessler, Christa. “An Overlooked Christian Palestinian Aramaic Witness of the Dormition of Mary in Codex Climaci Rescriptus (CCR IV).” <em>Collectanea Christiana Orientalia</em> 16 (2019): 81–98 (transliteration and English translation pp. 89–98).</p>",
       "line_text": "Müller-Kessler, Christa. “An Overlooked Christian Palestinian Aramaic Witness of the Dormition of Mary in Codex Climaci Rescriptus (CCR IV).” Collectanea Christiana Orientalia 16 (2019): 81–98 (transliteration and English translation pp. 89–98).",
-      "language": "Palestinian Aramaic",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Müller-Kessler, Christa. “Three Early Witnesses of the «Dormition of Mary» in Christian Palestinian Aramaic. Palimpsests from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” <em>Apocrypha</em> 29 (2018): 69–95 (transliterations and English translations of CP 1, CP 2, and CP 3, pp. 77–95).</p>",
-      "line_text": "Müller-Kessler, Christa. “Three Early Witnesses of the «Dormition of Mary» in Christian Palestinian Aramaic. Palimpsests from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” Apocrypha 29 (2018): 69–95 (transliterations and English translations of CP 1, CP 2, and CP 3, pp. 77–95).",
-      "language": "Palestinian Aramaic",
+      "line_html": "<p>__________. “Three Early Witnesses of the «Dormition of Mary» in Christian Palestinian Aramaic. Palimpsests from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” <em>Apocrypha</em> 29 (2018): 69–95 (transliterations and English translations of CP 1, CP 2, and CP 3, pp. 77–95).</p>",
+      "line_text": "__________. “Three Early Witnesses of the «Dormition of Mary» in Christian Palestinian Aramaic. Palimpsests from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” Apocrypha 29 (2018): 69–95 (transliterations and English translations of CP 1, CP 2, and CP 3, pp. 77–95).",
+      "language": "Christian Palestinian Aramaic",
       "entry_type": "Edition"
     },
     {
@@ -187,8 +193,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Meshcherskaya, Elena. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in <em>Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev.</em> St. Petersburg, 2011.</p>",
-      "line_text": "Meshcherskaya, Elena. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev. St. Petersburg, 2011.",
+      "line_html": "<p>__________. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in <em>Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev.</em> St. Petersburg, 2011.</p>",
+      "line_text": "__________. “The Seasons of the Year and the Marian Feasts in the Syriac Apocryphon ‘Dormition of Mary’” (in Russian). Pages 168–86 in Bible Studies, Slavonic Studies and Russian Studies in Honour of the 70th Birthday of Professor A. Alekseev. St. Petersburg, 2011.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -211,15 +217,6 @@
       "entry_type": "Other",
       "other_urls": [
         "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
-      ]
-    },
-    {
-      "line_html": "<p><a href=\"https://hugoye.bethmardutho.org/article/hv23n1muller-kessler\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” <em>Hugoye</em> 23 (2020): 31–59.</p>",
-      "line_text": "Müller-Kessler, Christa. “Obsequies of My Lady Mary (1): Unpublished Early Syriac Palimpsest Fragments from the British Library (BL, Add 17.137, no. 2).” Hugoye 23 (2020): 31–59.",
-      "language": "English",
-      "entry_type": "Other",
-      "other_urls": [
-        "https://hugoye.bethmardutho.org/article/hv23n1muller-kessler"
       ]
     },
     {

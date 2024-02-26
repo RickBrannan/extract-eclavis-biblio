@@ -33,16 +33,22 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Andros, Monê Hagias (Zôodochou Pêgês), 46 (65), fols. 102–110 (15th cent.)</p>",
-      "line_text": "Andros, Monê Hagias (Zôodochou Pêgês), 46 (65), fols. 102–110 (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Andros, Monē Hagias (Zōodochou Pēgēs), 46 (65), fols. 102–110 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/290/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Andros, Monē Hagias (Zōodochou Pēgēs), 46 (65), fols. 102–110 (15th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/290/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 352, fols. 200–211<sup>v</sup> (17th cent.)</p>",
-      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 352, fols. 200–211v (17th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 352, fols. 200–211<sup>v</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2648/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 352, fols. 200–211v (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/2648/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Add. 10073, fols. 50<sup>v</sup>–61<sup>v</sup> (16th cent.)</p>",
@@ -54,16 +60,22 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Abrosiana, G 63 sup. (Martini-Bassi 405), fols. 156–64 (11th/12th cent.)</p>",
-      "line_text": "Milan, Biblioteca Abrosiana, G 63 sup. (Martini-Bassi 405), fols. 156–64 (11th/12th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Milan, Biblioteca Abrosiana, G 63 sup. (Martini-Bassi 405), fols. 156–64 (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42823/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Abrosiana, G 63 sup. (Martini-Bassi 405), fols. 156–64 (11th/12th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42823/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), fols. 342–350<sup>v</sup> (11th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), fols. 342–350v (11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), fols. 342–350<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/47064/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, Bodleian Library, Auct. E.5.12 (Misc. 77), fols. 342–350v (11th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/47064/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-395/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 395, fols. 72<sup>r</sup>–81<sup>v</sup> (15th/16th cent.)</p>",
@@ -75,10 +87,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, suppl. gr. 136, fols. 157–179<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, suppl. gr. 136, fols. 157–179v (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, suppl. gr. 136, fols. 157–179<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/52906/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b11004083x\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, suppl. gr. 136, fols. 157–179v (15th cent.) ~ Pinakes; Gallica",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/52906/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b11004083x"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-ott-gr-1/\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 1, fols. 301<sup>r</sup>–306<sup>r</sup> (11th cent.)</p>",
@@ -90,10 +106,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. VII.43 (coll. 449), fols. 441<sup>v</sup>–440<sup>v</sup> (1619)</p>",
-      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII.43 (coll. 449), fols. 441v–440v (1619)",
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca Nazionale Marciana, gr. VII.43 (coll. 449), fols. 441<sup>v</sup>–440<sup>v</sup> (1619) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70560/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca Nazionale Marciana, gr. VII.43 (coll. 449), fols. 441v–440v (1619) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70560/"
+      ]
     },
     {
       "line_html": "<p>Sub-category with “sin list,” a long catalogue of sinners in a river of blood:</p>",
@@ -111,16 +130,23 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284, fols. 25–39 (1497)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284, fols. 25–39 (1497)",
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284, fols. 25–39 (1497) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/64830/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Barb.gr.284\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. gr. 284, fols. 25–39 (1497) ~ Pinakes; BAV",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/64830/",
+        "https://digi.vatlib.it/view/MSS_Barb.gr.284"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Vienna, <em>Österreichischen Nationalbibliothek,</em> Theol. gr. 333, fols. 82–93<sup>v</sup> (ca. 1300)</p>",
-      "line_text": "Vienna, Österreichischen Nationalbibliothek, Theol. gr. 333, fols. 82–93v (ca. 1300)",
+      "line_html": "<p style=\"padding-left: 30px;\">Vienna, Österreichischen Nationalbibliothek<em>,</em> Theol. gr. 333, fols. 82–93<sup>v</sup> (ca. 1300) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72000/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vienna, Österreichischen Nationalbibliothek, Theol. gr. 333, fols. 82–93v (ca. 1300) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/72000/"
+      ]
     },
     {
       "line_html": "<p>Later Medieval, Short Version (<a href=\"https://archive.org/details/bibliothecahagi00boll/page/148/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\">BHG</a> 1054)</p>",
@@ -132,16 +158,22 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 356, fols. 306–313<sup>v</sup> (1634)</p>",
-      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 356, fols. 306–313v (1634)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 356, fols. 306–313<sup>v</sup> (1634) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2652/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 356, fols. 306–313v (1634) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/2652/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, 2484, fols. 268–270<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, 2484, fols. 268–270v (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 2484, fols. 268–270<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4516/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 2484, fols. 268–270v (15th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4516/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-trinity-college-o-8-33/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Trinity College, O.8.33 (1408), fols. 56<sup>v</sup>–61 (16th cent.)</p>",
@@ -153,22 +185,31 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Add. 25881, fols. 229–237<sup>v</sup> (16th cent.)</p>",
-      "line_text": "London, British Library, Add. 25881, fols. 229–237v (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">London, British Library, Add. 25881, fols. 229–237<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/39047/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "London, British Library, Add. 25881, fols. 229–237v (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/39047/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 373, fols. 394–399 (16th cent.)</p>",
-      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Hagiou Saba 373, fols. 394–399 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 373, fols. 394–399 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34629/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 373, fols. 394–399 (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/34629/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Rawlinson G. 4, fols. 118–123<sup>v</sup> (16th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, Rawlinson G. 4, fols. 118–123v (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Oxford, Bodleian Library, Rawlinson G. 4, fols. 118–123<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48342/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, Bodleian Library, Rawlinson G. 4, fols. 118–123v (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48342/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\">Rome, Biblioteca Casanatense, 6 (olim G.VI.1) (16th cent.)</p>",
@@ -177,10 +218,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca del Seminario Patriarcale, 196, fols. 18<sup>v</sup>–30<sup>v</sup> (16th cent.)</p>",
-      "line_text": "Venice, Biblioteca del Seminario Patriarcale, 196, fols. 18v–30v (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Venice, Biblioteca del Seminario Patriarcale, 196, fols. 18<sup>v</sup>–30<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69471/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Venice, Biblioteca del Seminario Patriarcale, 196, fols. 18v–30v (16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/69471/"
+      ]
     },
     {
       "line_html": "<p>Unclassified Manuscripts</p>",
@@ -189,20 +233,26 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Ann Arbor, University of Michigan Library, MS 41, fols. 199–205<sup>v</sup> (15th cent)</p>",
-      "line_text": "Ann Arbor, University of Michigan Library, MS 41, fols. 199–205v (15th cent)",
+      "line_html": "<p style=\"padding-left: 30px;\">Ann Arbor, University of Michigan Library, MS 41, fols. 199–205<sup>v</sup> (15th cent) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/898/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ann Arbor, University of Michigan Library, MS 41, fols. 199–205v (15th cent) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/898/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Bibliothêke tês Boules, 46, fol. 116 (17th cent.)</p>",
-      "line_text": "Athens, Bibliothêke tês Boules, 46, fol. 116 (17th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Bibliothēkē tēs Boules, 46, fol. 116 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/1142/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Bibliothēkē tēs Boules, 46, fol. 116 (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/1142/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-metochion-tou-panagiou-taphou-594/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikê Bibliothêkê tês Hellados, Mentochion tou Panagioi Taphou 594, pp. 27–59 (15/16th cent.)</p>",
-      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, Mentochion tou Panagioi Taphou 594, pp. 27–59 (15/16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-metochion-tou-panagiou-taphou-594/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Athens, Ethnikē Bibliothēkē tēs Hellados, Mentochion tou Panagioi Taphou 594, pp. 27–59 (15/16th cent.)</p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, Mentochion tou Panagioi Taphou 594, pp. 27–59 (15/16th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -210,22 +260,31 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikê Bibliothêkê tês Hellados, gr. 2011 (17th cent.)</p>",
-      "line_text": "Athens, Ethnikê Bibliothêkê tês Hellados, gr. 2011 (17th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2011 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/4043/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, gr. 2011 (17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/4043/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Bologna, Biblioteca Universitaria, 3642, fol. 39<sup>v</sup>–64<sup>v</sup> (1598)</p>",
-      "line_text": "Bologna, Biblioteca Universitaria, 3642, fol. 39v–64v (1598)",
+      "line_html": "<p style=\"padding-left: 30px;\">Bologna, Biblioteca Universitaria, 3642, fol. 39<sup>v</sup>–64<sup>v</sup> (1598) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9769/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Bologna, Biblioteca Universitaria, 3642, fol. 39v–64v (1598) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9769/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Budapest, Országos Széchényi Könyvtár, 8<sup>o</sup> Gr. 8 (Kubinyi 31), fols. 1–15 (1648)</p>",
-      "line_text": "Budapest, Országos Széchényi Könyvtár, 8o Gr. 8 (Kubinyi 31), fols. 1–15 (1648)",
+      "line_html": "<p style=\"padding-left: 30px;\">Budapest, Országos Széchényi Könyvtár, 8<sup>o</sup> Gr. 8 (Kubinyi 31), fols. 1–15 (1648) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/73418/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Budapest, Országos Széchényi Könyvtár, 8o Gr. 8 (Kubinyi 31), fols. 1–15 (1648) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/73418/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\">Bucharest, Biblioteca Academiei Române, gr. 990, fols. 206–212 (1735)</p>",
@@ -234,38 +293,42 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 97, fols. 5–6<sup>v</sup>, 8–17 (16th cent.)</p>",
-      "line_text": "Jerusalem, Patriarchikê bibliothêkê, Panaghiou Taphou 97, fols. 5–6v, 8–17 (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 97, fols. 5–6<sup>v</sup>, 8–17 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/35334/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271070706-jo\" target=\"_blank\" rel=\"noopener\">Jerusalem</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 97, fols. 5–6v, 8–17 (16th cent.) ~ Pinakes; Jerusalem",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/35334/",
+        "https://www.loc.gov/item/00271070706-jo"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monē Hagiou Stephanou, 119, fol. 95 (1771) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41376/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Hagiou Stephanou, 119, fol. 95 (1771) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41376/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Hagiou Panteleēmonos, 266, fols. 171–77 (16th cent.)</p>",
+      "line_text": "Mount Athos, Monē Hagiou Panteleēmonos, 266, fols. 171–77 (16th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Meteora, Monê Hagiou Stephanou, 119, fol. 95 (1771)</p>",
-      "line_text": "Meteora, Monê Hagiou Stephanou, 119, fol. 95 (1771)",
+      "line_html": "<p style=\"padding-left: 30px;\">Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” III.B.25, fol. 73 (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48894/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” III.B.25, fol. 73 (15th/16th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48894/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monê Hagiou Panteleêmonos, 266, fols. 171–77 (16th cent.)</p>",
-      "line_text": "Mount Athos, Monê Hagiou Panteleêmonos, 266, fols. 171–77 (16th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\">Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” III.B.25, fol. 73 (15th/16th cent.)</p>",
-      "line_text": "Palermo, Biblioteca centrale della Regione siciliana “Alberto Bombace,” III.B.25, fol. 73 (15th/16th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\">Paris, Bibliothèque nationale de France, gr. 1631 (13th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, gr. 1631 (13th cent.)",
-      "language": "Greek",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-1697/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Sinai, Monê tês Hagias Aikaterinês, gr. 1697, fols. 217<sup>r</sup>–232<sup>v</sup> (17th cent.)</p>",
-      "line_text": "Sinai, Monê tês Hagias Aikaterinês, gr. 1697, fols. 217r–232v (17th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-1697/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Sinai, Monē tēs Hagias Aikaterinēs, gr. 1697, fols. 217<sup>r</sup>–232<sup>v</sup> (17th cent.)</p>",
+      "line_text": "Sinai, Monē tēs Hagias Aikaterinēs, gr. 1697, fols. 217r–232v (17th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -282,16 +345,22 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2557, fols. 153–168 (15th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2557, fols. 153–168 (15th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2557, fols. 153–168 (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/69188/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2557, fols. 153–168 (15th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/69188/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Zabordas, Monê tou hagiou Nikaneros, 117, fols. 111–121 (14th cent.)</p>",
-      "line_text": "Zabordas, Monê tou hagiou Nikaneros, 117, fols. 111–121 (14th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Zabordas, Monē tou hagiou Nikaneros, 117, fols. 111–121 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72399/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Zabordas, Monē tou hagiou Nikaneros, 117, fols. 111–121 (14th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/72399/"
+      ]
     },
     {
       "line_html": "<p><em>Apokalypsis tes hagias Theotokou</em>. Cyprus, 1898 (pamphlet in Bodleian Library with modern Greek version of the text).</p>",
@@ -368,13 +437,13 @@
     {
       "line_html": "<p>Hasdeu, Bogdan Petriceicu. <em>Cuvente den b</em><em>ă</em><em>tr</em><em>â</em><em>ni: limba rom</em><em>â</em><em>n</em><em>ă</em><em> vorbit</em><em>ă</em> <em>î</em><em>ntre 1550–1600 : studiu paleografico-linguistic</em>. 3 vols. Directiunea Generală a Archivelor Statului. Publicatiuni istorico-filologice. Bucharest: Societatii Academice Romane, 1878–1881 (synopsis of Romanian, Slavonic, and Greek versions).</p>",
       "line_text": "Hasdeu, Bogdan Petriceicu. Cuvente den bătrâni: limba română vorbită între 1550–1600 : studiu paleografico-linguistic. 3 vols. Directiunea Generală a Archivelor Statului. Publicatiuni istorico-filologice. Bucharest: Societatii Academice Romane, 1878–1881 (synopsis of Romanian, Slavonic, and Greek versions).",
-      "language": "Church Slavonic",
+      "language": "Church Slavic",
       "entry_type": "Edition"
     },
     {
       "line_html": "<p>Santos Otero, Aurelio de. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978 and 1981 (vol. 1, pp. 188–95).</p>",
       "line_text": "Santos Otero, Aurelio de. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978 and 1981 (vol. 1, pp. 188–95).",
-      "language": "Church Slavonic",
+      "language": "Church Slavic",
       "entry_type": "Edition"
     },
     {
@@ -384,10 +453,19 @@
       "entry_type": "Translations"
     },
     {
-      "line_html": "<p>James, Montague Rhodes. <em>The Apocryphal New Testament</em>. Oxford: Clarendon, 1924; 2nd ed. 1953 (summary, pp. 563-64).</p>",
-      "line_text": "James, Montague Rhodes. The Apocryphal New Testament. Oxford: Clarendon, 1924; 2nd ed. 1953 (summary, pp. 563-64).",
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (summary, pp. 686–87).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (summary, pp. 686–87).",
       "language": "English",
       "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n587/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, pp. 563–64).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, pp. 563–64).",
+      "language": "English",
+      "entry_type": "Translations",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n587/mode/2up"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/antenicenefather09robe\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rutherford, Andrew, trans. “The Apocalypse of the Virgin.” Pages 167–74 in <em>The Ante-Nicene Fathers</em>, Vol. 9: <em>Additional Material</em>. Edited by Allan Menzies. New York: The Christian Literature Company, 1896 (translation of James’s edition).</p>",
@@ -441,8 +519,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 686–87).</p>",
-      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 686–87).",
+      "line_html": "<p>Dima, Cristina-Iona. “L’Apocalypse de la Vierge Marie. Versions roumains du XVI<sup>e</sup> au XIX<sup>e</sup> siècle.” Pages 219–48 in<em> Biblical Apocrypha</em><br/><em>in South-Eastern Europe and Related Areas: Proceedings of the Session held at the 12th</em><br/><em>International Congress of South-East European Studies (Bucharest, 2–6 September 2019).</em> Edited by Maria Ciota, Anissava Miltenova, and Emanuela Timotin. Bibliothèque de l’Institut d’études sud-est européennes 16. Brăila: Editura Istros a Muzeului Brăilei “Carol I”, 2021.</p>",
+      "line_text": "Dima, Cristina-Iona. “L’Apocalypse de la Vierge Marie. Versions roumains du XVIe au XIXe siècle.” Pages 219–48 in Biblical Apocryphain South-Eastern Europe and Related Areas: Proceedings of the Session held at the 12thInternational Congress of South-East European Studies (Bucharest, 2–6 September 2019). Edited by Maria Ciota, Anissava Miltenova, and Emanuela Timotin. Bibliothèque de l’Institut d’études sud-est européennes 16. Brăila: Editura Istros a Muzeului Brăilei “Carol I”, 2021.",
       "language": "English",
       "entry_type": "Other"
     },

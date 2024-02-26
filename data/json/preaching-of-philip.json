@@ -10,7 +10,7 @@
   ],
   "clavis_number": 511,
   "category": "Apocryphal Acts",
-  "compiler": "Tony Burke, York University",
+  "compiler": "Tony Burke, York University, and Ivan Miroshnikov, Swedish Collegium for Advanced Study and Centre for Egyptological Studies, Russian Academy of Sciences",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 1426 (1855)  ~ contents unconfirmed</p>",
@@ -343,8 +343,8 @@
       ]
     },
     {
-      "line_html": "<p>Lemm, Oscar von. “Kleine koptische Studien I–IX.” <em>Bulletin de l’Académie impériale des sciences de St.-Pétersbourg</em> ser. 5, 10 (1899): 403–34. (Partial edition of MONB.DM 71–72 and partial re-edition of CLM 2880, fol. 5r, pp. 433–34.)</p>",
-      "line_text": "Lemm, Oscar von. “Kleine koptische Studien I–IX.” Bulletin de l’Académie impériale des sciences de St.-Pétersbourg ser. 5, 10 (1899): 403–34. (Partial edition of MONB.DM 71–72 and partial re-edition of CLM 2880, fol. 5r, pp. 433–34.)",
+      "line_html": "<p>__________. “Kleine koptische Studien I–IX.” <em>Bulletin de l’Académie impériale des sciences de St.-Pétersbourg</em> ser. 5, 10 (1899): 403–34. (Partial edition of MONB.DM 71–72 and partial re-edition of CLM 2880, fol. 5r, pp. 433–34.)</p>",
+      "line_text": "__________. “Kleine koptische Studien I–IX.” Bulletin de l’Académie impériale des sciences de St.-Pétersbourg ser. 5, 10 (1899): 403–34. (Partial edition of MONB.DM 71–72 and partial re-edition of CLM 2880, fol. 5r, pp. 433–34.)",
       "language": ".2 Fayyūmic",
       "entry_type": "Edition"
     },
@@ -392,6 +392,12 @@
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/london-and-oslo-schoyen-collection-ms-2007-leiden-universiteit-leiden-or-14-331-montserrat-biblioteca-de-monsterrat-roca-323/"
       ]
+    },
+    {
+      "line_html": "<p>Miroshnikov, Ivan. “The Preaching of Philip: A New Edition of the Sahidic Fragments with an Introduction, Translation, and Notes.” Pages 53–101 in <em>Parabiblica Coptica</em>. Edited by Ivan Miroshnikov. Parabiblica 3. Tübingen: Mohr Siebeck, 2023.</p>",
+      "line_text": "Miroshnikov, Ivan. “The Preaching of Philip: A New Edition of the Sahidic Fragments with an Introduction, Translation, and Notes.” Pages 53–101 in Parabiblica Coptica. Edited by Ivan Miroshnikov. Parabiblica 3. Tübingen: Mohr Siebeck, 2023.",
+      "language": ".3 Sahidic",
+      "entry_type": "Edition"
     },
     {
       "line_html": "<p>The Copto-Arabic Synaxarion includes a summary of section 1 of <em>Pre. Phil</em>. for Nov. 14.</p>",
@@ -522,6 +528,12 @@
     {
       "line_html": "<p>Miroshnikov, Ivan, trans. “The Preaching of Philip: A New Translation and Introduction.” Pages 479–505 in vol. 3 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (translation based on all available Coptic manuscripts).</p>",
       "line_text": "Miroshnikov, Ivan, trans. “The Preaching of Philip: A New Translation and Introduction.” Pages 479–505 in vol. 3 of New Testament Apocrypha: More Noncanonical Scriptures. 3 vols. Edited by Tony Burke with Brent Landau. Grand Rapids, MI: Eerdmans, 2016–2023 (translation based on all available Coptic manuscripts).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________. “The Preaching of Philip: A New Edition of the Sahidic Fragments with an Introduction, Translation, and Notes.” Pages 53–101 in <em>Parabiblica Coptica</em>. Edited by Ivan Miroshnikov. Parabiblica 3. Tübingen: Mohr Siebeck, 2023.</p>",
+      "line_text": "__________. “The Preaching of Philip: A New Edition of the Sahidic Fragments with an Introduction, Translation, and Notes.” Pages 53–101 in Parabiblica Coptica. Edited by Ivan Miroshnikov. Parabiblica 3. Tübingen: Mohr Siebeck, 2023.",
       "language": "English",
       "entry_type": "Translation"
     },

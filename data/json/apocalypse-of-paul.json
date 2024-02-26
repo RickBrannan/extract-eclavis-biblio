@@ -8,10 +8,19 @@
   ],
   "clavis_number": 818,
   "category": "Revelatory Dialogues",
-  "compiler": "[not available]",
+  "compiler": ": Stephen C. E. Hopkins, University of Virginia",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-702/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 702 (Graf 729; Macomber CMB 12-8), fols. 197f. (17th cent.)</p>",
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n85/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (editions of four text forms, pp. 62–109).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (editions of four text forms, pp. 62–109).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n85/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-702/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 702 (Graf 729; Macomber CMB 12-8), fols. 197f. (17th cent.)</p>",
       "line_text": "Cairo, Coptic Museum, 702 (Graf 729; Macomber CMB 12-8), fols. 197f. (17th cent.)",
       "language": "Arabic",
       "entry_type": "Manuscript",
@@ -20,13 +29,34 @@
       ]
     },
     {
-      "line_html": "<p> </p>",
-      "line_text": " ",
-      "language": "Arabic",
+      "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1, pp. 170–87).</p>",
+      "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscripts listed, vol. 1, pp. 170–87).",
+      "language": "Church Slavic",
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syriac-Orthodox Archdiocese, 52 K, <span class=\"\">fols. 246<sup>v</sup><strong>–</strong>274<sup>r</sup></span>(17th cent.)</p>",
+      "line_html": "<p>Turdeanu, Émile. “La vision de saint Paul.” <em>Die Welt der Slaven</em> 1 (1956): 406–30.</p>",
+      "line_text": "Turdeanu, Émile. “La vision de saint Paul.” Die Welt der Slaven 1 (1956): 406–30.",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 7022, fols. 8<span class=\"\"><sup>r</sup></span>–37<span class=\"\"><sup>v</sup></span> (10th cent.)</p>",
+      "line_text": "London, British Library, Or. 7022, fols. 8r–37v (10th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/miscellaneous-coptic-texts-in-the-dialect-of-upper-egypt/page/534/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wallis Budge, E. A. <em>Miscellaneous Coptic Texts in the Dialect of Upper Egypt</em>. London: British Museum, 1915 (text from BL O. 7022, pp. 534–74).</p>",
+      "line_text": "Wallis Budge, E. A. Miscellaneous Coptic Texts in the Dialect of Upper Egypt. London: British Museum, 1915 (text from BL O. 7022, pp. 534–74).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/miscellaneous-coptic-texts-in-the-dialect-of-upper-egypt/page/534/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syriac-Orthodox Archdiocese, 52 K, <span class=\"\">fols. 246<sup>v</sup><strong>–</strong>274<sup>r</sup></span>(17th cent.)</p>",
       "line_text": "Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 246v–274r(17th cent.)",
       "language": "Garšūnī",
       "entry_type": "Manuscript",
@@ -35,7 +65,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 332, fols. 196<sup>r</sup>–205<sup>v </sup>(17th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-232/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 332, fols. 196<sup>r</sup>–205<sup>v </sup>(17th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, syr. 332, fols. 196r–205v (17th cent.)",
       "language": "Garšūnī",
       "entry_type": "Manuscript",
@@ -44,7 +74,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 26<sup>v</sup>–37<sup>r</sup> (1440)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-sbath-125-edgbaston-university-of-birmingham-mingana-syr-88/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 26<sup>v</sup>–37<sup>r</sup> (1440)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Sbath 125 + Edgbaston, University of Birmingham, Mingana Syr. 88, fols. 26v–37r (1440)",
       "language": "Garšūnī",
       "entry_type": "Manuscript",
@@ -53,7 +83,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-202/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. <span class=\"l11\">202, <span class=\"l9\"><span class=\"l8\"><span class=\"l10\">fols. 236<span class=\"l6\"><sup>r</sup>–146</span></span></span></span><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span> <span class=\"l9\">(1672–1676<span class=\"l8\">) </span></span></span></span></p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-202/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. <span class=\"l11\">202, <span class=\"l9\"><span class=\"l8\"><span class=\"l10\">fols. 236<span class=\"l6\"><sup>r</sup>–146</span></span></span></span><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span> <span class=\"l9\">(1672–1676<span class=\"l8\">) </span></span></span></span></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 202, fols. 236r–146v (1672–1676) ",
       "language": "Garšūnī",
       "entry_type": "Manuscript",
@@ -62,18 +92,169 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-20/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College, 20, fols. 66<span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span>–67<span class=\"\"><span class=\"Syriac\"><sup>v </sup></span></span>(1330–1339) ~ illustrations accompanying Anglo-Norman verse, fols. 61<span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span>–66<span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span></p>",
-      "line_text": "Cambridge, Corpus Christi College, 20, fols. 66r–67v (1330–1339) ~ illustrations accompanying Anglo-Norman verse, fols. 61r–66r",
-      "language": "Latin",
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, C 255 inf., fols. 218<span class=\"a\"><span class=\"l11\"><span class=\"l9\"><span class=\"l8\"><span class=\"l10\"><span class=\"l6\"><sup>r</sup></span></span></span></span></span></span>–228<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42494/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:32105\" target=\"_blank\" rel=\"noopener\">IMAGES</a>; copy of Munich Cod. graec. 276</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, C 255 inf., fols. 218r–228v (16th cent.) ~ Pinakes; IMAGES; copy of Munich Cod. graec. 276",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42494/",
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:32105"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Cod. graec. 276, fols. 132<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span>–148<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/44723/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://daten.digitale-sammlungen.de/~db/0004/bsb00049962/images/index.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Cod. graec. 276, fols. 132v–148v (14th cent.) ~ Pinakes; IMAGES",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/44723/",
+        "http://daten.digitale-sammlungen.de/~db/0004/bsb00049962/images/index.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocalypsesapoc01perkgoog/page/34/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Apocalypses apocryphae Mosis, Esdrae, Pauli, Johannis, item Mariae dormito: additis evangeliorum et actuum apocryphorum supplementis. Maiximam partem nunc primum</em>. Leipzig: H. Mendelssohn, 1866 (introduction, pp. xiv–xviii; text based on both manuscripts, pp. 34–69).</p>",
+      "line_text": "Tischendorf, Constantin. Apocalypses apocryphae Mosis, Esdrae, Pauli, Johannis, item Mariae dormito: additis evangeliorum et actuum apocryphorum supplementis. Maiximam partem nunc primum. Leipzig: H. Mendelssohn, 1866 (introduction, pp. xiv–xviii; text based on both manuscripts, pp. 34–69).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocalypsesapoc01perkgoog/page/34/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, nouv. acq. lat. 1631, fols. 2<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span>–25<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span> (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10033625z.r=lat.%201631?rk=343349;2\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"http://www.leges.uni-koeln.de/en/mss/codices/paris-bn-nouv-acq-lat-1631/\" target=\"_blank\" rel=\"noopener\">Bibliotheca legum</a></p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, nouv. acq. lat. 1631, fols. 2v–25v (10th cent.) ~ Gallica; Bibliotheca legum",
+      "language": ".1 L1",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10033625z.r=lat.%201631?rk=343349;2",
+        "http://www.leges.uni-koeln.de/en/mss/codices/paris-bn-nouv-acq-lat-1631/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>StG </strong> St. Gall, Stadtbibliothek (Bibliotheca Vadiana), 317, fols. 56–68 (9th/10th cent.)</p>",
+      "line_text": "StG  St. Gall, Stadtbibliothek (Bibliotheca Vadiana), 317, fols. 56–68 (9th/10th cent.)",
+      "language": ".1 L1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">El Escorial, Real Biblioteca, a. II. 3, fols. 154–? (10th/11th cent.)</p>",
+      "line_text": "El Escorial, Real Biblioteca, a. II. 3, fols. 154–? (10th/11th cent.)",
+      "language": ".1 L1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Arnhem, Openbare bibliotheek, 6, fols. 104<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span></span></span>–114<span class=\"a\"><span class=\"l11\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span> (14th cent.) ~ <a href=\"https://www.mmdc.nl/static/site/search/detail.html?searchMode=advanced&amp;recordId=14006&amp;selectedRecordId=14010&amp;maximumRecords=15&amp;recordDisplayLevel=1&amp;startRecord=76&amp;showMap=1&amp;freetextsearch=pauli&amp;shelfmark=Type+in+query...+%28autocompleted%29&amp;author=Type+in+query...+%28autocompleted%29&amp;title=Type+in+query...+%28autocompleted%29&amp;startyear=Type+in+query&amp;endyear=Type+in+query&amp;alt-title=Type+in+query...+%28autocompleted%29&amp;incipit=Type+in+query&amp;annotation_contents=Type+in+query&amp;contains=null&amp;language=null&amp;language_original=null&amp;translator=Type+in+query...+%28autocompleted%29&amp;type=null&amp;keyword=Type+in+query&amp;person=Type+in+query...+%28autocompleted%29&amp;medium=null&amp;script=Type+in+query&amp;scribe=Type+in+query...+%28autocompleted%29&amp;binding=null&amp;binder=Type+in+query...+%28autocompleted%29&amp;region=null&amp;place=Type+in+query&amp;patron=Type+in+query...+%28autocompleted%29&amp;collection=Type+in+query...+%28autocompleted%29#r14010\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Arnhem, Openbare bibliotheek, 6, fols. 104r–114v (14th cent.) ~ IMAGES",
+      "language": ".1 L1",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.mmdc.nl/static/site/search/detail.html?searchMode=advanced&recordId=14006&selectedRecordId=14010&maximumRecords=15&recordDisplayLevel=1&startRecord=76&showMap=1&freetextsearch=pauli&shelfmark=Type+in+query...+%28autocompleted%29&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29#r14010"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revistadearchivo2019unse/page/60/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Antolín, Guillermo. “Opúsculos desconocidos de San Jerónimo.” <em>Revista de archivos, bibliotecas y museos</em> II, 12, 2 (<a href=\"https://archive.org/details/revistadearchivo1919unse/page/n239/mode/2up\" target=\"_blank\" rel=\"noopener\">1908</a>): 207–26; 20 (1909): 60–80 (text of El Escorial pp. 75–80).</p>",
+      "line_text": "Antolín, Guillermo. “Opúsculos desconocidos de San Jerónimo.” Revista de archivos, bibliotecas y museos II, 12, 2 (1908): 207–26; 20 (1909): 60–80 (text of El Escorial pp. 75–80).",
+      "language": ".1 L1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/revistadearchivo2019unse/page/60/mode/2up",
+        "https://archive.org/details/revistadearchivo1919unse/page/n239/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphaanecdot00jame/page/n17/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments Now First Edited from Manuscripts</em>. TS 2.3. Cambridge: The University Press, 1893 (edition of BNF NAL 1631, pp. 11–42).</p>",
+      "line_text": "James, Montague Rhodes. Apocrypha Anecdota: A Collection of Thirteen Apocryphal Books and Fragments Now First Edited from Manuscripts. TS 2.3. Cambridge: The University Press, 1893 (edition of BNF NAL 1631, pp. 11–42).",
+      "language": ".1 L1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocryphaanecdot00jame/page/n17/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Jirousková, Lenka. <em>Die Visio Pauli: Wege und Wandlungen einer orientalischen Apokryphe im lateinischen Mittelalter unter Einschluß der alttsechischen und deutschsprachigen Textzeugen.</em> Mittellateinische Studien und Texte, 34. Leiden: Brill, 2006.</p>",
+      "line_text": "Jirousková, Lenka. Die Visio Pauli: Wege und Wandlungen einer orientalischen Apokryphe im lateinischen Mittelalter unter Einschluß der alttsechischen und deutschsprachigen Textzeugen. Mittellateinische Studien und Texte, 34. Leiden: Brill, 2006.",
+      "language": ".1 L1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Kappler, Claude-Claire. “L’Apocalypse latine de Paul.” Pages 237–66 in <em>Apocalypses et voyages dans l’au-delà</em>. Paris: 1987.</p>",
+      "line_text": "Kappler, Claude-Claire. “L’Apocalypse latine de Paul.” Pages 237–66 in Apocalypses et voyages dans l’au-delà. Paris: 1987.",
+      "language": ".1 L1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/visiosanctipauli0000silv/page/n1/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Silverstein, Theodore. <em>Visio Sancti Pauli: The History of the Apocalypse in Latin together with Nine Texts</em>. Studies and Documents 4. London: Christophers, 1935 (text of StG, pp. 141–47).</p>",
+      "line_text": "Silverstein, Theodore. Visio Sancti Pauli: The History of the Apocalypse in Latin together with Nine Texts. Studies and Documents 4. London: Christophers, 1935 (text of StG, pp. 141–47).",
+      "language": ".1 L1",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/visiosanctipauli0000silv/page/n1/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Vienna, Österreichische Nationalbibliothek, Cod. 362, fols. 7v–8v (14th cent.)</p>",
+      "line_text": "F  Vienna, Österreichische Nationalbibliothek, Cod. 362, fols. 7v–8v (14th cent.)",
+      "language": ".2 L2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Gz</strong>  Graz, Universitätsbibliothek, 856, fols. 1r–6v (15th cent.) ~ <a href=\"https://manuscripta.at/hs_detail.php?ID=4772\" target=\"_blank\" rel=\"noopener\">manuscripta.at</a>; <a href=\"https://unipub.uni-graz.at/urn/urn:nbn:at:at-ubg:2-30641\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Gz  Graz, Universitätsbibliothek, 856, fols. 1r–6v (15th cent.) ~ manuscripta.at; IMAGES",
+      "language": ".2 L2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://manuscripta.at/hs_detail.php?ID=4772",
+        "https://unipub.uni-graz.at/urn/urn:nbn:at:at-ubg:2-30641"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  Zürich, Zentralbibliothek, C 101, fols. 70r–74v (15th cent.) ~ <a href=\"https://iiif.biblissima.fr/collections/manifest/14fb91d005c1957847a915c72aa270d75bbda884?tify={%22panX%22:0.349,%22panY%22:0.523,%22view%22:%22scan%22,%22zoom%22:0.634}\" target=\"_blank\" rel=\"noopener\">Biblissima</a>; <a href=\"https://www.e-codices.ch/en/list/one/zbz/C0101\" target=\"_blank\" rel=\"noopener\">e-codices</a>; <a href=\"https://www.mirabileweb.it/manuscript/z%C3%BCrich-zentralbibliothek-c-101-(olim-467-cat-130)-manuscript/1204\" target=\"_blank\" rel=\"noopener\">mirabile</a></p>",
+      "line_text": "Z  Zürich, Zentralbibliothek, C 101, fols. 70r–74v (15th cent.) ~ Biblissima; e-codices; mirabile",
+      "language": ".2 L2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://iiif.biblissima.fr/collections/manifest/14fb91d005c1957847a915c72aa270d75bbda884?tify={%22panX%22:0.349,%22panY%22:0.523,%22view%22:%22scan%22,%22zoom%22:0.634}",
+        "https://www.e-codices.ch/en/list/one/zbz/C0101",
+        "https://www.mirabileweb.it/manuscript/z%C3%BCrich-zentralbibliothek-c-101-(olim-467-cat-130)-manuscript/1204"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/visiospaulieinb00brangoog\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Brandes, Herman. <em>Visio S. Pauli: Ein Beitrag zur Visionslitteratur</em>. Halle: Max Niemeyer, 1885 (text of F, pp. 68–71 and 95–96).</p>",
+      "line_text": "Brandes, Herman. Visio S. Pauli: Ein Beitrag zur Visionslitteratur. Halle: Max Niemeyer, 1885 (text of F, pp. 68–71 and 95–96).",
+      "language": ".2 L2",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/visiospaulieinb00brangoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/visiosanctipauli0000silv/page/n1/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Silverstein, Theodore. <em>Visio Sancti Pauli: The History of the Apocalypse in Latin together with Nine Texts</em>. Studies and Documents 4. London: Christophers, 1935 (text of F, pp. 149–52).</p>",
+      "line_text": "Silverstein, Theodore. Visio Sancti Pauli: The History of the Apocalypse in Latin together with Nine Texts. Studies and Documents 4. London: Christophers, 1935 (text of F, pp. 149–52).",
+      "language": ".2 L2",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/visiosanctipauli0000silv/page/n1/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-20/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College, 20, fols. 66<span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span>–67<span class=\"\"><span class=\"Syriac\"><sup>v </sup></span></span>(1330–1339) =Rec. III ~ illustrations accompanying Anglo-Norman verse, fols. 61<span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span>–66<span class=\"\"><span class=\"Syriac\"><sup>r</sup></span></span></p>",
+      "line_text": "Cambridge, Corpus Christi College, 20, fols. 66r–67v (1330–1339) =Rec. III ~ illustrations accompanying Anglo-Norman verse, fols. 61r–66r",
+      "language": ".3 Medieval Recensions",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-20/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/st-gall-stiftsbibliothek-682/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>St. Gall, Stiftsbibliothek 682, pp. 193–204 (9th cent.)</p>",
-      "line_text": "St. Gall, Stiftsbibliothek 682, pp. 193–204 (9th cent.)",
-      "language": "Latin",
+      "line_html": "<p style=\"padding-left: 40px;\">London, St. Paul’s Cathedral Library, Ms. 8, fols. 188r–189r, (ca. 1400)</p>",
+      "line_text": "London, St. Paul’s Cathedral Library, Ms. 8, fols. 188r–189r, (ca. 1400)",
+      "language": ".3 Medieval Recensions",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/st-gall-stiftsbibliothek-682/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>St. Gall, Stiftsbibliothek 682, pp. 193–204 (9th cent.) (=Rec. VI)</p>",
+      "line_text": "St. Gall, Stiftsbibliothek 682, pp. 193–204 (9th cent.) (=Rec. VI)",
+      "language": ".3 Medieval Recensions",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/st-gall-stiftsbibliothek-682/"
@@ -82,15 +263,90 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-220/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 220, fols. 56<sup>r</sup>–60<sup>r</sup> (9th cent.)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. lat. 220, fols. 56r–60r (9th cent.)",
-      "language": "Latin",
+      "language": ".3 Medieval Recensions",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-220/"
       ]
     },
     {
-      "line_html": "<p><a href=\"http://www.vsnrweb-publications.org.uk/Pals%20leizla.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bullita, Dario.<em> Páls leizla: The Vision of St Paul.</em> London: Viking Society for Northern Research, 2017 (synoptic edition alongside text of L12).<em><br/></em></p>",
-      "line_text": "Bullita, Dario. Páls leizla: The Vision of St Paul. London: Viking Society for Northern Research, 2017 (synoptic edition alongside text of L12).",
+      "line_html": "<p><a href=\"https://archive.org/details/visiospaulieinb00brangoog\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Brandes, Herman. <em>Visio S. Pauli: Ein Beitrag zur Visionslitteratur</em>. Halle: Max Niemeyer, 1885 (text of Rec. IV, pp. 75–80).</p>",
+      "line_text": "Brandes, Herman. Visio S. Pauli: Ein Beitrag zur Visionslitteratur. Halle: Max Niemeyer, 1885 (text of Rec. IV, pp. 75–80).",
+      "language": ".3 Medieval Recensions",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/visiospaulieinb00brangoog"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/visiosanctipauli0000silv/page/n1/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Silverstein, Theodore. <em>Visio Sancti Pauli: The History of the Apocalypse in Latin together with Nine Texts</em>. Studies and Documents 4. London: Christophers, 1935 (texts of each recension; list of manuscripts, pp. 220–22).</p>",
+      "line_text": "Silverstein, Theodore. Visio Sancti Pauli: The History of the Apocalypse in Latin together with Nine Texts. Studies and Documents 4. London: Christophers, 1935 (texts of each recension; list of manuscripts, pp. 220–22).",
+      "language": ".3 Medieval Recensions",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/visiosanctipauli0000silv/page/n1/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Silverstein, Theodore and Anthony Hilhorst, eds. <em>Apocalypse of Paul: A New Critical Edition of Three Long Latin Versions</em>. Cahiers d’Orientalisme 21. Geneva: Patrick Cramer, 1997.</p>",
+      "line_text": "Silverstein, Theodore and Anthony Hilhorst, eds. Apocalypse of Paul: A New Critical Edition of Three Long Latin Versions. Cahiers d’Orientalisme 21. Geneva: Patrick Cramer, 1997.",
+      "language": ".3 Medieval Recensions",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, MSS Junius 85–86, fols. 3<sup>r</sup>–11<sup>v</sup> (11th cent.) ~ <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6316\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Oxford, Bodleian Library, MSS Junius 85–86, fols. 3r–11v (11th cent.) ~ catalog",
+      "language": "Old English",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6316"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/oldenglishvision0000unse\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>di Paolo Healy, Antonia, ed. and trans. <em>The Old English Vision of St. Paul</em>. Cambridge, MA: Medieval Academy of America, 1978.</p>",
+      "line_text": "di Paolo Healy, Antonia, ed. and trans. The Old English Vision of St. Paul. Cambridge, MA: Medieval Academy of America, 1978.",
+      "language": "Old English",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/oldenglishvision0000unse"
+      ]
+    },
+    {
+      "line_html": "<p>Breatnach, Caoimhín, ed. and trans. “Aisling Phóil.” Pages 391–413 in <em>Apocrypha Hiberniae II, Apocalyptica 2</em>. Edited by Martin McNamara. CCSA 21. Turnhout: Brepols, 2019.</p>",
+      "line_text": "Breatnach, Caoimhín, ed. and trans. “Aisling Phóil.” Pages 391–413 in Apocrypha Hiberniae II, Apocalyptica 2. Edited by Martin McNamara. CCSA 21. Turnhout: Brepols, 2019.",
+      "language": "Old Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Herbert, M. and M. McNamara. <em>Irish Biblical Apocrypha</em>. Edinburgh: 1989 (pp. 132–36).</p>",
+      "line_text": "Herbert, M. and M. McNamara. Irish Biblical Apocrypha. Edinburgh: 1989 (pp. 132–36).",
+      "language": "Old Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Seymour, St. John D. “Irish Versions of the Vision of St. Paul.” <em>JTS </em>24 (1922–1923): 54–59.</p>",
+      "line_text": "Seymour, St. John D. “Irish Versions of the Vision of St. Paul.” JTS 24 (1922–1923): 54–59.",
+      "language": "Old Irish",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">AM 681c 4to, 1 leaf (15th cent.)</p>",
+      "line_text": "AM 681c 4to, 1 leaf (15th cent.)",
+      "language": "Old Norse",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">AMC 624 4to, fols. 147r–149r (16th cent.) ~ <a href=\"https://handrit.is/manuscript/view/is/AM04-0624/0?iabr=on#mode/2up\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "AMC 624 4to, fols. 147r–149r (16th cent.) ~ IMAGES",
+      "language": "Old Norse",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://handrit.is/manuscript/view/is/AM04-0624/0?iabr=on#mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"http://www.vsnrweb-publications.org.uk/Pals%20leizla.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bullita, Dario.<em> Páls leizla: The Vision of St Paul.</em> London: Viking Society for Northern Research, 2017 (synoptic edition alongside the Latin text of St. Paul’s Cathedral Ms. 8).<em><br/></em></p>",
+      "line_text": "Bullita, Dario. Páls leizla: The Vision of St Paul. London: Viking Society for Northern Research, 2017 (synoptic edition alongside the Latin text of St. Paul’s Cathedral Ms. 8).",
       "language": "Old Norse",
       "entry_type": "Edition",
       "other_urls": [
@@ -98,7 +354,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-59/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge (Mass.), Harvard Houghton Library, Syr. 59, fols. 117<sup>r</sup>–159<sup>r</sup> (1856)</p>",
+      "line_html": "<p>Silverstein, Theodore. “The Source of a Provençal Version of the Vision of St Paul.” <em>Speculum</em> 8.3 (1933): 353–58.</p>",
+      "line_text": "Silverstein, Theodore. “The Source of a Provençal Version of the Vision of St Paul.” Speculum 8.3 (1933): 353–58.",
+      "language": "Provençal",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-59/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge (Mass.), Harvard Houghton Library, Syr. 59, fols. 117<sup>r</sup>–159<sup>r</sup> (1856)</p>",
       "line_text": "Cambridge (Mass.), Harvard Houghton Library, Syr. 59, fols. 117r–159r (1856)",
       "language": "Syriac",
       "entry_type": "Manuscript",
@@ -107,7 +369,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-monastery-of-saint-mark-201/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, Monastery of Saint Mark, 201, <span class=\"\">fols. </span><span class=\"\">8<span class=\"Syriac\"><sup>v</sup></span>–33<span class=\"Syriac\"><sup>v</sup></span></span> (1903)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/jerusalem-monastery-of-saint-mark-201/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Jerusalem, Monastery of Saint Mark, 201, <span class=\"\">fols. </span><span class=\"\">8<span class=\"Syriac\"><sup>v</sup></span>–33<span class=\"Syriac\"><sup>v</sup></span></span> (1903)</p>",
       "line_text": "Jerusalem, Monastery of Saint Mark, 201, fols. 8v–33v (1903)",
       "language": "Syriac",
       "entry_type": "Manuscript",
@@ -116,7 +378,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-377/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 377, fols. 89<sup>r</sup>–123<sup>r</sup> (1854/1855)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-377/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, syr. 377, fols. 89<sup>r</sup>–123<sup>r</sup> (1854/1855)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, syr. 377, fols. 89r–123r (1854/1855)",
       "language": "Syriac",
       "entry_type": "Manuscript",
@@ -152,6 +414,21 @@
       ]
     },
     {
+      "line_html": "<p>Ricciotti, G. “Apocalypsis Pauli Syriace iuxta codices vaticanos.” <em>Orientalia </em>ii. 1, 2 (1933): 1–24, 120–49.</p>",
+      "line_text": "Ricciotti, G. “Apocalypsis Pauli Syriace iuxta codices vaticanos.” Orientalia ii. 1, 2 (1933): 1–24, 120–49.",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/journalofamerica08ameruoft/page/182/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Perkins, Justin. “The Revelation of the Blessed Apostle Paul. Translated from an Ancient Syriac Manuscript.” <em>JAOS</em> 8 (1864): 183–212.</p>",
+      "line_text": "Perkins, Justin. “The Revelation of the Blessed Apostle Paul. Translated from an Ancient Syriac Manuscript.” JAOS 8 (1864): 183–212.",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/journalofamerica08ameruoft/page/182/mode/2up"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-15/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystwyth, National Library of Wales, Peniarth 15, pp. 7–11 (ca. 1375–1425)</p>",
       "line_text": "Aberystwyth, National Library of Wales, Peniarth 15, pp. 7–11 (ca. 1375–1425)",
       "language": "Middle Welsh",
@@ -179,14 +456,314 @@
       ]
     },
     {
+      "line_html": "<p>Duensing, Hugo. “Apocalypse of Paul.” Pages 755–98 in <em>New Testament Apocrypha</em>, vol. 2: <em>Writings Related to the Apostles, Apocalypses and Related Subjects.</em> Edited by Edgar Hennecke and Wilhelm Schneemelcher. Translated by Robert McL. Wilson. English translation of the 3rd German edition. London: Luttersworth Press, 1963.</p>",
+      "line_text": "Duensing, Hugo. “Apocalypse of Paul.” Pages 755–98 in New Testament Apocrypha, vol. 2: Writings Related to the Apostles, Apocalypses and Related Subjects. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Translated by Robert McL. Wilson. English translation of the 3rd German edition. London: Luttersworth Press, 1963.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Duensing, Hugo, and Aurelio de Santos Otero. “Apocalypse of Paul.” Pages 712–48 in <em>New Testament Apocrypha</em>. vol. 2: <em>Writings Related to the Apostles, Apocalypses and Related Subjects. </em>Edited by Wilhelm Schneemelcher. Translated by Robert McL. Wilson. English translation of the 5th German edition, revised. Louisville: Westminster/John Knox, 1991.</p>",
+      "line_text": "Duensing, Hugo, and Aurelio de Santos Otero. “Apocalypse of Paul.” Pages 712–48 in New Testament Apocrypha. vol. 2: Writings Related to the Apostles, Apocalypses and Related Subjects. Edited by Wilhelm Schneemelcher. Translated by Robert McL. Wilson. English translation of the 5th German edition, revised. Louisville: Westminster/John Knox, 1991.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in English Translation</em>. Oxford: Clarendon, 1993 (pp. 616-44).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in English Translation. Oxford: Clarendon, 1993 (pp. 616-44).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/visionsofheavenh0000unse\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gardner, Eileen, ed. <em>Visions of Heaven &amp; Hell Before Dante</em>. New York: Ialica Press, 1989 (reprint of translation by James, pp. 13–46).</p>",
+      "line_text": "Gardner, Eileen, ed. Visions of Heaven &amp; Hell Before Dante. New York: Ialica Press, 1989 (reprint of translation by James, pp. 13–46).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/visionsofheavenh0000unse"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n549/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (pp. 525–55).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (pp. 525–55).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n549/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Reddish, Mitchell Glenn. <em>Apocalyptic Literature: A Reader. </em>Peabody, MA: Hendrickson, 1995 (reprint of translation by Duensing and de Sanots Otero).</p>",
+      "line_text": "Reddish, Mitchell Glenn. Apocalyptic Literature: A Reader. Peabody, MA: Hendrickson, 1995 (reprint of translation by Duensing and de Sanots Otero).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/476/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (pp. 477–92).</p>",
+      "line_text": "Walker, Alexander. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (pp. 477–92).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/476/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/miscellaneous-coptic-texts-in-the-dialect-of-upper-egypt/page/1042/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wallis Budge, E. A. <em>Miscellaneous Coptic Texts in the Dialect of Upper Egypt</em>. London: British Museum, 1915 (English trans., pp. 1043–84).</p>",
+      "line_text": "Wallis Budge, E. A. Miscellaneous Coptic Texts in the Dialect of Upper Egypt. London: British Museum, 1915 (English trans., pp. 1043–84).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/miscellaneous-coptic-texts-in-the-dialect-of-upper-egypt/page/1042/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Amiot, François. “Apocalypse de Paul.” Pages 295–331 in <em>La Bible Apocryphe 2: Évangiles Apocryphes. </em>Textes pour l’histoire sacrée 5. Paris: Fayard, 1952.</p>",
+      "line_text": "Amiot, François. “Apocalypse de Paul.” Pages 295–331 in La Bible Apocryphe 2: Évangiles Apocryphes. Textes pour l’histoire sacrée 5. Paris: Fayard, 1952.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits apocryphes sur les apôtres.</em> CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (French translation of Armenian texts, vol. 1, pp. 87–172).</p>",
+      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres. CCSA 3–4. 2 vols. Turnhout: Brepols, 1986–1992 (French translation of Armenian texts, vol. 1, pp. 87–172).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Kappler, Claude-Claire, and René Kappler. “Apocalypse de Paul.” Pages 777–826 in <em>Écrits apocryphes chrétiens </em>1<em>. </em>Edited by François Bovon, Pierre Géoltrain, and Sever Voicu. Paris: Gallimard, 1997.</p>",
+      "line_text": "Kappler, Claude-Claire, and René Kappler. “Apocalypse de Paul.” Pages 777–826 in Écrits apocryphes chrétiens 1. Edited by François Bovon, Pierre Géoltrain, and Sever Voicu. Paris: Gallimard, 1997.",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Duensing, Hugo. and Aurelio de Santos Otero. “Die Paulusapokalypse.” Pages 644–75 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung. </em>Vol 2:<em> Apostolisches, Apokalypsen und Verwandtes. E. Hennecke</em>. Edited by Wilhelm Schneemelcher. 5th German edition. Tübingen: Mohr Siebeck, 1989.</p>",
+      "line_text": "Duensing, Hugo. and Aurelio de Santos Otero. “Die Paulusapokalypse.” Pages 644–75 in Neutestamentliche Apokryphen in deutscher Übersetzung. Vol 2: Apostolisches, Apokalypsen und Verwandtes. E. Hennecke. Edited by Wilhelm Schneemelcher. 5th German edition. Tübingen: Mohr Siebeck, 1989.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Duensing, Hugo. “Die Paulusapokalypse.” Pages 536–67 in <em>Neutestamentliche Apokryphen in deutscher Übersetzung. </em>Vol 2:<em> Apostolisches, Apokalypsen und Verwandtes. E. Hennecke</em>. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1964.</p>",
+      "line_text": "Duensing, Hugo. “Die Paulusapokalypse.” Pages 536–67 in Neutestamentliche Apokryphen in deutscher Übersetzung. Vol 2: Apostolisches, Apokalypsen und Verwandtes. E. Hennecke. Edited by Edgar Hennecke and Wilhelm Schneemelcher. Tübingen: Mohr Siebeck, 1964.",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Vetter, Paul. “Die armenische Paulusapokalypse.” <em>TQ </em>88 (1906): 508–95; 89 (1907): 58–75 (German translation of the Armenian texts).</p>",
+      "line_text": "Vetter, Paul. “Die armenische Paulusapokalypse.” TQ 88 (1906): 508–95; 89 (1907): 58–75 (German translation of the Armenian texts).",
+      "language": "German",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bauckham, Richard. “The Conflict of Justice and Mercy: Attitudes to the Damned in Apocalyptic Literature.” <em>Apocrypha</em> 1 (1990): 181–96.</p>",
+      "line_text": "Bauckham, Richard. “The Conflict of Justice and Mercy: Attitudes to the Damned in Apocalyptic Literature.” Apocrypha 1 (1990): 181–96.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. “Early Jewish Visions of Hell.” <em>JTS </em>41 (1990): 355–85.</p>",
+      "line_text": "_______. “Early Jewish Visions of Hell.” JTS 41 (1990): 355–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Bernstein, Alan E. <em>The Formation of Hell: Death and Retribution in the Ancient and Early Christian Worlds</em>. Ithaca, NY: Cornell University Press, 1993 (pp. 292–313).</p>",
+      "line_text": "Bernstein, Alan E. The Formation of Hell: Death and Retribution in the Ancient and Early Christian Worlds. Ithaca, NY: Cornell University Press, 1993 (pp. 292–313).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>_______. Hell and Its Rivals: Death and Retribution Among Christians, Jews, and Muslims in the Early Middle Ages</em>. Ithaca, NY: Cornell University Press, 2017.</p>",
+      "line_text": "_______. Hell and Its Rivals: Death and Retribution Among Christians, Jews, and Muslims in the Early Middle Ages. Ithaca, NY: Cornell University Press, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Bremmer, Jan. “Apocalypse of Paul.” Pages 427–45 in <em>Early New Testament Apocrypha</em>. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.</p>",
       "line_text": "Bremmer, Jan. “Apocalypse of Paul.” Pages 427–45 in Early New Testament Apocrypha. Edited by J. Christopher Edwards. Ancient Literature for New Testament Studies 9. Grand Rapids: Zondervan, 2022.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p> </p>",
-      "line_text": " ",
+      "line_html": "<p>Bremmer, Jan N., and István Czachesz, eds. <em>The Visio Pauli and the Gnostic Apocalypse of Paul</em>. Leuven: Peeters, 2007.</p>",
+      "line_text": "Bremmer, Jan N., and István Czachesz, eds. The Visio Pauli and the Gnostic Apocalypse of Paul. Leuven: Peeters, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Casey, R. P. “The Apocalypse of Paul.” <em>JTS</em> 34 (1933): 1–32.</p>",
+      "line_text": "Casey, R. P. “The Apocalypse of Paul.” JTS 34 (1933): 1–32.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Czachesz, Istvan. “Torture in Hell and Reality.” Pages 130–43 in <em>The Visio Pauli and the Gnostic Apocalypse of Paul</em>. Edited by J. N. Bremmer and István Czachesz. Leuven: Peeters, 2007.</p>",
+      "line_text": "Czachesz, Istvan. “Torture in Hell and Reality.” Pages 130–43 in The Visio Pauli and the Gnostic Apocalypse of Paul. Edited by J. N. Bremmer and István Czachesz. Leuven: Peeters, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ehrman, Bart. <em>Heaven and Hell: A History of the Afterlife</em>. New York: Simon &amp; Schuster, 2020.</p>",
+      "line_text": "Ehrman, Bart. Heaven and Hell: A History of the Afterlife. New York: Simon &amp; Schuster, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. <em>Journeys to Heaven and Hell: Tours of the Afterlife in the Early Christian Tradition</em>. New Haven, CT: Yale University Press, 2023.</p>",
+      "line_text": "_______. Journeys to Heaven and Hell: Tours of the Afterlife in the Early Christian Tradition. New Haven, CT: Yale University Press, 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hasenfratz, Robert. “<em>Eisegan stefne</em> (<em>Christ and Satan</em> 36a), the<em> Visio Pauli, </em>and ‘ferrea vox’ (<em>Aeneid </em>6, 626).”<em> Modern Philology </em>86 (1989): 398–410.</p>",
+      "line_text": "Hasenfratz, Robert. “Eisegan stefne (Christ and Satan 36a), the Visio Pauli, and ‘ferrea vox’ (Aeneid 6, 626).” Modern Philology 86 (1989): 398–410.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Henning, Meghan R. <em>Educating Early Christians through the Rhetoric of Hell</em>. Mohr Siebeck, 2014.</p>",
+      "line_text": "Henning, Meghan R. Educating Early Christians through the Rhetoric of Hell. Mohr Siebeck, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. <em>Hell Hath No Fury: Gender, Disability, and the Invention of Damned Bodies in Early Christian Literature</em>. New Haven, CT: Yale University Press, 2021.</p>",
+      "line_text": "_______. Hell Hath No Fury: Gender, Disability, and the Invention of Damned Bodies in Early Christian Literature. New Haven, CT: Yale University Press, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hillhorst, Anthony. “<em>The Apocalypse of Paul</em>: Previous History and Afterlife.” Pages 1–22 in <em>The Visio Pauli and the Gnostic Apocalypse of Paul</em>. Edited by J. N. Bremmer and István Czachesz. Leuven: Peeters, 2007.</p>",
+      "line_text": "Hillhorst, Anthony. “The Apocalypse of Paul: Previous History and Afterlife.” Pages 1–22 in The Visio Pauli and the Gnostic Apocalypse of Paul. Edited by J. N. Bremmer and István Czachesz. Leuven: Peeters, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Himmelfarb, Martha. <em>Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature</em>. Philadelphia: 1983.</p>",
+      "line_text": "Himmelfarb, Martha. Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature. Philadelphia: 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. “The Experience of the Visionary and Genre in the Ascension of Isaiah 6–11 and the Apocalypse of Paul.” <em>Semeia </em>26 (1986): 97–111.</p>",
+      "line_text": "_______. “The Experience of the Visionary and Genre in the Ascension of Isaiah 6–11 and the Apocalypse of Paul.” Semeia 26 (1986): 97–111.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hogeterp, A. L. A. “The Relation between Body and Soul in the <em>Apocalypse of Paul</em>.” Pages 105–29 in <em>The Visio Pauli and the Gnostic Apocalypse of Paul</em>. Edited by J. N. Bremmer and István Czachesz. Leuven: Peeters, 2007.</p>",
+      "line_text": "Hogeterp, A. L. A. “The Relation between Body and Soul in the Apocalypse of Paul.” Pages 105–29 in The Visio Pauli and the Gnostic Apocalypse of Paul. Edited by J. N. Bremmer and István Czachesz. Leuven: Peeters, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hopkins, Stephen C. E. <em>Translating Hell: Vernacular Theology and Apocrypha in the Medieval North Sea</em>. Manchester: Manchester University Press, (forthcoming).</p>",
+      "line_text": "Hopkins, Stephen C. E. Translating Hell: Vernacular Theology and Apocrypha in the Medieval North Sea. Manchester: Manchester University Press, (forthcoming).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jirousková, Lenka. <em>Die Visio Pauli: Wege und Wandlungen einer orientalischen Apokryphe im lateinischen Mittelalter unter Einschluß der alttsechischen und deutschsprachigen Textzeugen</em>. Mittellateinische Studien und Texte 34. Leiden: Brill, 2006.</p>",
+      "line_text": "Jirousková, Lenka. Die Visio Pauli: Wege und Wandlungen einer orientalischen Apokryphe im lateinischen Mittelalter unter Einschluß der alttsechischen und deutschsprachigen Textzeugen. Mittellateinische Studien und Texte 34. Leiden: Brill, 2006.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Kraeling, C. “The <em>Apocalypse of Paul</em> and the “Iranische Erlösungsmysterium.” <em>HTR</em> 24 (1931): 209–44.</p>",
+      "line_text": "Kraeling, C. “The Apocalypse of Paul and the “Iranische Erlösungsmysterium.” HTR 24 (1931): 209–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McNamara, Martin. <em>The Apocrypha in the Irish Church</em>. Dublin: Institute for Advanced Study, 1975 (pp. 105–108).</p>",
+      "line_text": "McNamara, Martin. The Apocrypha in the Irish Church. Dublin: Institute for Advanced Study, 1975 (pp. 105–108).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Owen, D. D. R. “The Vision of St. Paul.” <em>Romance Philology</em> 12 (1958): 33–51.</p>",
+      "line_text": "Owen, D. D. R. “The Vision of St. Paul.” Romance Philology 12 (1958): 33–51.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. <em>The Vision of Hell</em>. Edinburgh and London: 1970.</p>",
+      "line_text": "_______. The Vision of Hell. Edinburgh and London: 1970.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>O’Sullivan, Tomás. “The Vision of Saint Paul, Redaction XI.” Pages 397–416 in vol. 1 of <em>The End and Beyond: Medieval Irish Eschatology</em>. Edited by John Carey, Emma Nic Cárthaigh, and Caitríona Ó Dochartaigh. Aberystwyth: Celtic Studies Publications, 2014.</p>",
+      "line_text": "O’Sullivan, Tomás. “The Vision of Saint Paul, Redaction XI.” Pages 397–416 in vol. 1 of The End and Beyond: Medieval Irish Eschatology. Edited by John Carey, Emma Nic Cárthaigh, and Caitríona Ó Dochartaigh. Aberystwyth: Celtic Studies Publications, 2014.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Piovanelli, Pierluigi. “The Miraculous Discovery of the Hidden Manuscript, or The Paratextual Function of the Prologue to the <em>Apocalypse of Paul</em>.” Pages 23–49 in <em>The Visio Pauli and the Gnostic Apocalypse of Paul.</em> Edited by Jan N. Bremmer and Istvan Czachesz. Studies on Early Christian Apocrypha 9. Leuven: Peeters, 2007.</p>",
+      "line_text": "Piovanelli, Pierluigi. “The Miraculous Discovery of the Hidden Manuscript, or The Paratextual Function of the Prologue to the Apocalypse of Paul.” Pages 23–49 in The Visio Pauli and the Gnostic Apocalypse of Paul. Edited by Jan N. Bremmer and Istvan Czachesz. Studies on Early Christian Apocrypha 9. Leuven: Peeters, 2007.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Ruiten, J. T. A. G. M. van. “The Four Rivers of Eden in the <em>Apocalypse of Paul</em> (<em>Visio Pauli</em>): The Intertextual Relationship of Genesis 2:10–4 and the <em>Apocalypse of Paul</em> 23:4.” Pages 263–84 in <em>Jerusalem, Alexandria, Rome: Studies in Ancient Cultural Interaction in Honour of A. Hilhorst</em>. Edited by F. García Martínez and G. P. Luttikhuizen. Leiden: Brill, 2003.</p>",
+      "line_text": "Ruiten, J. T. A. G. M. van. “The Four Rivers of Eden in the Apocalypse of Paul (Visio Pauli): The Intertextual Relationship of Genesis 2:10–4 and the Apocalypse of Paul 23:4.” Pages 263–84 in Jerusalem, Alexandria, Rome: Studies in Ancient Cultural Interaction in Honour of A. Hilhorst. Edited by F. García Martínez and G. P. Luttikhuizen. Leiden: Brill, 2003.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Seymour, St. John D. “Irish Versions of the Vision of St. Paul.” <em>JTS</em> 24 (1922): 54–59.</p>",
+      "line_text": "Seymour, St. John D. “Irish Versions of the Vision of St. Paul.” JTS 24 (1922): 54–59.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. <em>Irish Visions of the Other-World: A Contribution to the Study of Mediæval Visions</em>. London: SPCK, 1930.</p>",
+      "line_text": "_______. Irish Visions of the Other-World: A Contribution to the Study of Mediæval Visions. London: SPCK, 1930.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Silverstein, Theodore. “Dante and the <em>Visio Pauli</em>.” <em>Modern Language Notes</em> 47.6 (1932): 397–99.</p>",
+      "line_text": "Silverstein, Theodore. “Dante and the Visio Pauli.” Modern Language Notes 47.6 (1932): 397–99.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. “The Date of the ‘Apocalypse of Paul.’” <em>Mediaeval Studies </em>24 (1962): 335–48.</p>",
+      "line_text": "_______. “The Date of the ‘Apocalypse of Paul.’” Mediaeval Studies 24 (1962): 335–48.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. “The Graz and Zürich <em>Apocalypse of St. Paul</em>: an Independent Medieval Witness to the Greek.” Pages 166–80 in <em>Medieval Learning and Literature: Essays Presented to Richard William Hunt</em>. Edited by J. J. G. Alexander and C. S. Gibson. Oxford: Oxford University Press, 1976.</p>",
+      "line_text": "_______. “The Graz and Zürich Apocalypse of St. Paul: an Independent Medieval Witness to the Greek.” Pages 166–80 in Medieval Learning and Literature: Essays Presented to Richard William Hunt. Edited by J. J. G. Alexander and C. S. Gibson. Oxford: Oxford University Press, 1976.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. “The Vision of St. Paul: New Links and Patterns in the Western Tradition.” <em>Archives d’histoire doctrinale et littéraire du moyen âge </em>26 (1959): 199–248.</p>",
+      "line_text": "_______. “The Vision of St. Paul: New Links and Patterns in the Western Tradition.” Archives d’histoire doctrinale et littéraire du moyen âge 26 (1959): 199–248.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. <em>Visiones et revelationes S. Pauli. Una nuova tradizione di testi latini del Medio Evo</em>. Problemi attuali di scienza e di cultura, fasc. 188. Rome: Accad. Naz. Lincei, 1974.</p>",
+      "line_text": "_______. Visiones et revelationes S. Pauli. Una nuova tradizione di testi latini del Medio Evo. Problemi attuali di scienza e di cultura, fasc. 188. Rome: Accad. Naz. Lincei, 1974.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tabor, James D. <em>Things Unutterable: Paul’s Ascent to Paradise. </em>Lanham, MD: University Press of America, 1986.</p>",
+      "line_text": "Tabor, James D. Things Unutterable: Paul’s Ascent to Paradise. Lanham, MD: University Press of America, 1986.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wright, Charles D. “<em>Beowulf</em>, <em>Blickling Homily</em> and the <em>Visio Pauli</em>.” <em>Old English Newsletter</em> 22.2 (1989): Appendix 29–39.</p>",
+      "line_text": "Wright, Charles D. “Beowulf, Blickling Homily and the Visio Pauli.” Old English Newsletter 22.2 (1989): Appendix 29–39.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>_______. “Some Evidence for an Irish Origin of Redaction XI of the <em>Visio Pauli</em>.” <em>Manuscripta</em> 34 (1990): 34–44.</p>",
+      "line_text": "_______. “Some Evidence for an Irish Origin of Redaction XI of the Visio Pauli.” Manuscripta 34 (1990): 34–44.",
       "language": "English",
       "entry_type": "Other"
     },

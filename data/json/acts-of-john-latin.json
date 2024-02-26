@@ -3,9 +3,10 @@
   "nasscal_title": "Acts of John (Latin)",
   "filename": "acts-of-john-latin",
   "latin_title": "Virtutes Iohannis",
-  "clavis_number": 718,
+  "abbrev": "Acts John (Lat.)",
+  "clavis_number": 716,
   "category": "Apocryphal Acts",
-  "compiler": "[not available]",
+  "compiler": "Tony Burke, York University",
   "bibliography_entries": [
     {
       "line_html": "<p>Manuscripts used by Junod and Kaestli:</p>",
@@ -20,7 +21,7 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  Dublin, Trinity College, 737 (olim G.04.16), fols. 59<sup>r</sup>–79<sup>r</sup> (9th and 12th/13th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-trinity-college-737/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>D</strong>  Dublin, Trinity College, 737 (olim G.04.16), fols. 59<sup>r</sup>–79<sup>r</sup> (9th and 12th/13th cent.)</p>",
       "line_text": "D  Dublin, Trinity College, 737 (olim G.04.16), fols. 59r–79r (9th and 12th/13th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -29,7 +30,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64<span class=\"s1\"><sup>v</sup></span>–84<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>W</strong>  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64<span class=\"s1\"><sup>v</sup></span>–84<span class=\"s1\"><sup>r</sup></span> (9th cent.)</p>",
       "line_text": "W  Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 64v–84r (9th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -62,7 +63,7 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q</strong> Paris, Bibliothèque nationale de France, 12604, fols. 38<sup>r</sup>–49<sup>v</sup> (12th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Q</strong> Paris, Bibliothèque nationale de France, 12604, fols. 38<sup>r</sup>–49<sup>v</sup> (12th cent.)</p>",
       "line_text": "Q Paris, Bibliothèque nationale de France, 12604, fols. 38r–49v (12th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -83,7 +84,7 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99<sup>v</sup>–115<sup>v</sup> (11th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/angers-bibliotheque-municipale-281/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>A</strong>  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99<sup>v</sup>–115<sup>v</sup> (11th cent.)</p>",
       "line_text": "A  Angers, Bibliothèque municipale, 281 (olim 272), fols. 99v–115v (11th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -170,12 +171,12 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n489/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, p. 404).</p>",
-      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary, p. 404).",
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n281/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (chs. 14–21 only, pp. 257–64).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (chs. 14–21 only, pp. 257–64).",
       "language": "English",
       "entry_type": "Translation",
       "other_urls": [
-        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n489/mode/2up"
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n281/mode/2up"
       ]
     },
     {
@@ -215,8 +216,14 @@
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>Culpepper, R. Alan. <em>John, the Son of Zebedee: The Life of a Legend.</em> University of South Carolina Press, 1994 (pp. 176–.</p>",
-      "line_text": "Culpepper, R. Alan. John, the Son of Zebedee: The Life of a Legend. University of South Carolina Press, 1994 (pp. 176–.",
+      "line_html": "<p>Bremmer, Rolf H. “The Reception of the Acts of John in Anglo Saxon England.” Pages 183–96 in <em>The Apocryphal Acts of John. </em>Edited by Jan. N. Bremmer. SAAA 1. Kampen: Kok Pharos, 1995 (with discussion of the use of the text in the homiliary of Pembroke 25 item 10).</p>",
+      "line_text": "Bremmer, Rolf H. “The Reception of the Acts of John in Anglo Saxon England.” Pages 183–96 in The Apocryphal Acts of John. Edited by Jan. N. Bremmer. SAAA 1. Kampen: Kok Pharos, 1995 (with discussion of the use of the text in the homiliary of Pembroke 25 item 10).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Culpepper, R. Alan. <em>John, the Son of Zebedee: The Life of a Legend.</em> University of South Carolina Press, 1994 (pp. 202–204).</p>",
+      "line_text": "Culpepper, R. Alan. John, the Son of Zebedee: The Life of a Legend. University of South Carolina Press, 1994 (pp. 202–204).",
       "language": "English",
       "entry_type": "Other"
     },
@@ -233,8 +240,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n427/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:408–22).</p>",
-      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 2.2:408–22).",
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n427/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden. </em>2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 1:408–31).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden. 2 vols. in 3 parts. Braunschweig, 1883–1890 (see vol. 1:408–31).",
       "language": "English",
       "entry_type": "Other",
       "other_urls": [

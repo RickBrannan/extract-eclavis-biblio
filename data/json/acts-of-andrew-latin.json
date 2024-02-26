@@ -30,10 +30,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Bamberg, Staatsbibliothek, Msc. Hist. 139 (12th cent.)</p>",
-      "line_text": "Bamberg, Staatsbibliothek, Msc. Hist. 139 (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Bamberg, Staatsbibliothek, Msc. Hist. 139 (12th cent.) ~ <a href=\"https://nbn-resolving.org/urn:nbn:de:bvb:22-dtl-0000003978\">IMAGES</a></p>",
+      "line_text": "Bamberg, Staatsbibliothek, Msc. Hist. 139 (12th cent.) ~ IMAGES",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://nbn-resolving.org/urn:nbn:de:bvb:22-dtl-0000003978"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque Royale, 9290 (3223), fols. 13<sup>v</sup>–14<sup>v</sup>; 14<sup>v</sup>–22<sup>v</sup> (13th cent.)</p>",
@@ -63,10 +66,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5563 (11th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, lat. 5563 (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5563 (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b9078408d\">IMAGES</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5563 (11th cent.) ~ IMAGES",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b9078408d"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 19<sup>r</sup>–34<sup>v</sup> (12th cent.)</p>",
@@ -78,10 +84,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 13760, fols. 46<sup>r</sup>–55<sup>v</sup> (12th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, lat. 13760, fols. 46r–55v (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 13760, fols. 46<sup>r</sup>–55<sup>v</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b90767846\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 13760, fols. 46r–55v (12th cent.) ~ Gallica",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b90767846"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Rome,  Biblioteca Vallicelliana, XI 1 (12th cent.)</p>",
@@ -90,22 +99,31 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 6<sup>v</sup>–8<sup>v</sup> (9th/10th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 6v–8v (9th/10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 6<sup>v</sup>–8<sup>v</sup> (9th/10th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.5771\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 5771, fols. 6v–8v (9th/10th cent.) ~ BAV",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.5771"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat lat. 8565, fols. 241–266; 266–269 (11th/12th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat lat. 8565, fols. 241–266; 266–269 (11th/12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat lat. 8565, fols. 241–266; 266–269 (11th/12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.8565\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat lat. 8565, fols. 241–266; 266–269 (11th/12th cent.) ~ BAV",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.8565"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 175<sup>r</sup>–176<sup>r</sup> (14th/15th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 175r–176r (14th/15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 175<sup>r</sup>–176<sup>r</sup> (14th/15th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.9499\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 9499, fols. 175r–176r (14th/15th cent.) ~ BAV",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.9499"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, lat. 455 (9th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC1395198\">CATALOG</a></p>",
@@ -135,22 +153,31 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, lat. 534 (9th–11th cent.)</p>",
-      "line_text": "Vienna, Österreichische Nationalbibliothek, lat. 534 (9th–11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, lat. 534 (9th–11th cent.) ~ <a href=\"http://data.onb.ac.at/rec/AC13951443\">CATALOG</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, lat. 534 (9th–11th cent.) ~ CATALOG",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://data.onb.ac.at/rec/AC13951443"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48 (10th cent.)</p>",
-      "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48 (10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36<sup>v</sup>–57<sup>v</sup>, 57<sup>v</sup>–60<sup>r</sup>) (10th cent.)</p>",
+      "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36v–57v, 57v–60r) (10th cent.)",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Wolfenbüttel, Universitätsbibliothek Helmstedt, 497 (11th cent.)</p>",
-      "line_text": "Wolfenbüttel, Universitätsbibliothek Helmstedt, 497 (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Wolfenbüttel, Universitätsbibliothek Helmstedt, 497 (11th cent.) ~ <a href=\"http://diglib.hab.de/?db=mss&amp;list=ms&amp;id=497-helmst&amp;lang=en\">IMAGES</a></p>",
+      "line_text": "Wolfenbüttel, Universitätsbibliothek Helmstedt, 497 (11th cent.) ~ IMAGES",
       "language": ".1 Mir. Andr. and Pass. Andr.",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://diglib.hab.de/?db=mss&list=ms&id=497-helmst&lang=en"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-22020/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 22020, fols. 17<sup>v</sup>–24<sup>r</sup> (12th cent.)</p>",

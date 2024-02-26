@@ -3,9 +3,10 @@
   "nasscal_title": "Acts of Peter and Paul (Coptic)",
   "filename": "acts-of-peter-and-paul-coptic",
   "latin_title": "Acta Petri et Pauli",
+  "abbrev": "Acts Pet. Paul (Copt.)",
   "clavis_number": 242,
   "category": "Apocryphal Acts",
-  "compiler": "[not available]",
+  "compiler": "Tony Burke, York University",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 8802 (10th cent.) ~ <a href=\"https://atlas.paths-erc.eu/manuscripts/3928\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a></p>",
@@ -17,65 +18,75 @@
       ]
     },
     {
-      "line_html": "<p>Vienna 2941 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1034\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a>)</p>",
-      "line_text": "Vienna 2941 (PAThs)",
-      "language": "Coptic",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://atlas.paths-erc.eu/manuscripts/1034"
-      ]
-    },
-    {
-      "line_html": "<p>Strasbourg Bibl. Nat. Univ. cop. 7a, 8, 9 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1999\" target=\"_blank\" rel=\"noopener noreferrer\">Paths</a>) 10, 11, 12, 13, 14</p>",
-      "line_text": "Strasbourg Bibl. Nat. Univ. cop. 7a, 8, 9 (Paths) 10, 11, 12, 13, 14",
-      "language": "Coptic",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://atlas.paths-erc.eu/manuscripts/1999"
-      ]
-    },
-    {
-      "line_html": "<p>Strasbourg 532 (<a href=\"https://atlas.paths-erc.eu/manuscripts/2000\" target=\"_blank\" rel=\"noopener noreferrer\">PAths</a>)</p>",
-      "line_text": "Strasbourg 532 (PAths)",
-      "language": "Coptic",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://atlas.paths-erc.eu/manuscripts/2000"
-      ]
-    },
-    {
-      "line_html": "<p>Paris 131(7) fol. 7</p>",
-      "line_text": "Paris 131(7) fol. 7",
+      "line_html": "<p>Uncertain witnesses:</p>",
+      "line_text": "Uncertain witnesses:",
       "language": "Coptic",
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Munich 152</p>",
-      "line_text": "Munich 152",
+      "line_html": "<p style=\"padding-left: 40px;\">Heidelberg, Papyrussammlung der Universität Heidelberg, Kopt. 286 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1997\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs</a>)</p>",
+      "line_text": "Heidelberg, Papyrussammlung der Universität Heidelberg, Kopt. 286 (PAThs)",
       "language": "Coptic",
-      "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p>Heidelberg Kopt 286 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1997\" target=\"_blank\" rel=\"noopener noreferrer\">PAths</a>) ~ not in Cherix</p>",
-      "line_text": "Heidelberg Kopt 286 (PAths) ~ not in Cherix",
-      "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/1997"
       ]
     },
     {
-      "line_html": "<p>BL Or. 7561 (111-113, 128) – martydom (<a href=\"https://atlas.paths-erc.eu/manuscripts/812\" target=\"_blank\" rel=\"noopener noreferrer\">PATHs</a>)</p>",
-      "line_text": "BL Or. 7561 (111-113, 128) – martydom (PATHs)",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 7561, pp. 111–113, 128 (<a href=\"https://atlas.paths-erc.eu/manuscripts/812\" target=\"_blank\" rel=\"noopener noreferrer\">PATHs</a>)</p>",
+      "line_text": "London, British Library, Or. 7561, pp. 111–113, 128 (PATHs)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
         "https://atlas.paths-erc.eu/manuscripts/812"
       ]
     },
     {
-      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lantschoot, A. van. “Les textes palimpsestes de B. M. Or. 8802.” <em>Mus</em> 41 (1928): 225–47 (text, pp. 230–32, and translation, pp. 242–44, of BL Or. 8802).</p>",
-      "line_text": "Lantschoot, A. van. “Les textes palimpsestes de B. M. Or. 8802.” Mus 41 (1928): 225–47 (text, pp. 230–32, and translation, pp. 242–44, of BL Or. 8802).",
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, P. Monac. Kopt. 152</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, P. Monac. Kopt. 152",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte 131<sup>7</sup>,  fol. 7 ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10091582w/f16.item.r=copte%20131\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Copte 1317,  fol. 7 ~ Gallica",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10091582w/f16.item.r=copte%20131"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Strasbourg, Bibliothèque nationale et universitaire, Copte 7a, 8, 9 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1999\" target=\"_blank\" rel=\"noopener noreferrer\">Paths</a>) 10, 11, 12, 13, 14 (Cherix)</p>",
+      "line_text": "Strasbourg, Bibliothèque nationale et universitaire, Copte 7a, 8, 9 (Paths) 10, 11, 12, 13, 14 (Cherix)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1999"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Strasbourg, Bibliothèque nationale et universitaire, Copte 532 (<a href=\"https://atlas.paths-erc.eu/manuscripts/2000\" target=\"_blank\" rel=\"noopener noreferrer\">PAths</a>)</p>",
+      "line_text": "Strasbourg, Bibliothèque nationale et universitaire, Copte 532 (PAths)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/2000"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. Borg. copt. 109, cass. xxvi, fasc. 130, pp. 101–108 (<a href=\"https://atlas.paths-erc.eu/manuscripts/1998\" target=\"_blank\" rel=\"noopener\">PAThs</a>) ~ <a href=\"https://digi.vatlib.it/view/MSS_Borg.copt.109.cass.XXVI.fasc.130\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. Borg. copt. 109, cass. xxvi, fasc. 130, pp. 101–108 (PAThs) ~ BAV",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/1998",
+        "https://digi.vatlib.it/view/MSS_Borg.copt.109.cass.XXVI.fasc.130"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lantschoot, Arnold van. “Les textes palimpsestes de B. M. Or. 8802.” <em>Mus</em> 41 (1928): 225–47 (text, pp. 230–35, and translation, pp. 242–44, of BL Or. 8802).</p>",
+      "line_text": "Lantschoot, Arnold van. “Les textes palimpsestes de B. M. Or. 8802.” Mus 41 (1928): 225–47 (text, pp. 230–35, and translation, pp. 242–44, of BL Or. 8802).",
       "language": "Coptic",
       "entry_type": "Edition",
       "other_urls": [
@@ -83,10 +94,19 @@
       ]
     },
     {
-      "line_html": "<p>Layton 1987, 215 (catalog)</p>",
-      "line_text": "Layton 1987, 215 (catalog)",
-      "language": "English",
-      "entry_type": "Other"
+      "line_html": "<p>Layton, Bentley. <em>Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906.</em> London: British Library, 1987 (description of BL Or. 8802, 215–16).</p>",
+      "line_text": "Layton, Bentley. Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906. London: British Library, 1987 (description of BL Or. 8802, 215–16).",
+      "language": "Coptic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lantschoot, Arnold van. “Les textes palimpsestes de B. M. Or. 8802.” <em>Mus</em> 41 (1928): 225–47 (text, pp. 230–35, and translation, pp. 242–44, of BL Or. 8802).</p>",
+      "line_text": "Lantschoot, Arnold van. “Les textes palimpsestes de B. M. Or. 8802.” Mus 41 (1928): 225–47 (text, pp. 230–35, and translation, pp. 242–44, of BL Or. 8802).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://suciualin.files.wordpress.com/2011/06/lantschoot-cotation-du-fonds-copte-de-naples-texts-palimpsestes-du-8802.pdf"
+      ]
     },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",

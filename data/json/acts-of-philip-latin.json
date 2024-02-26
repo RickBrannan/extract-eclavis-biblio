@@ -54,10 +54,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Graz, Universitätsbibliothek, 412 (9th cent.)</p>",
-      "line_text": "Graz, Universitätsbibliothek, 412 (9th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Graz, Universitätsbibliothek, 412 (9th cent.) ~ <a href=\"https://unipub.uni-graz.at/urn:nbn:at:at-ubg:2-26623\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Graz, Universitätsbibliothek, 412 (9th cent.) ~ IMAGES",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://unipub.uni-graz.at/urn:nbn:at:at-ubg:2-26623"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span id=\"page18R_mcid496\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/geneve-cologny-bibliotheque-bodmer-ms-bodmer-127/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Genève-Cologny, Bibliothèque Bodmer, MS Bodmer 127, fols. 52<sup>r</sup>–53<sup>r</sup> (12th cent.) </span></span></p>",

@@ -14,7 +14,7 @@
   "compiler": "Steven Su",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7025/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 7025 (981) (=MERC.AU)</p>",
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7025/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Or. 7025 (981) (=MERC.AU)</p>",
       "line_text": "London, British Library, Or. 7025 (981) (=MERC.AU)",
       "language": "Coptic",
       "entry_type": "Manuscript",
@@ -83,14 +83,56 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Saweros, Ibrahim. “How Does the Copt Die? A Study of the Angel of Death in the Coptic Tradition together with a Critical Edition of the Ninth Chapter of <em>Kitāb al-īḍāḥ</em> attributed to Severus ibn al-Muqaffa‘.” In <em>Proceedings of the First International Conference on Christian Egypt: Thought and Culture in Egypt 284–641 A.D. Cairo 1st-3rd April 2014. </em>Edited by Tarek M. Muhammad (forthcoming).</p>",
-      "line_text": "Saweros, Ibrahim. “How Does the Copt Die? A Study of the Angel of Death in the Coptic Tradition together with a Critical Edition of the Ninth Chapter of Kitāb al-īḍāḥ attributed to Severus ibn al-Muqaffa‘.” In Proceedings of the First International Conference on Christian Egypt: Thought and Culture in Egypt 284–641 A.D. Cairo 1st-3rd April 2014. Edited by Tarek M. Muhammad (forthcoming).",
+      "line_html": "<p><a href=\"https://journals.sagepub.com/doi/pdf/10.1177/09518207231152828\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lundhaug, Hugo. “Fictional Books in Coptic Apocrypha.” <em>JSP</em> 32 (2023): 323–41 (see p. 330).</p>",
+      "line_text": "Lundhaug, Hugo. “Fictional Books in Coptic Apocrypha.” JSP 32 (2023): 323–41 (see p. 330).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://journals.sagepub.com/doi/pdf/10.1177/09518207231152828"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.tf.uio.no/english/research/projects/apocrypha/publications/lundhaug-fluid-transmission-of-apocrypha-in-egyptian-monasteries---2020.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “The Fluid Transmission of Apocrypha in Egyptian Monasteries.” Pages 213–27 in Coptic Literature in Context (<em>4th–13th cent.): Cultural Landscape, Literary Production, and Manuscript Archaeology.</em> Edited by Paola Buzi. Rome: Quasar, 2020 (see pp. 214–15).</p>",
+      "line_text": "__________. “The Fluid Transmission of Apocrypha in Egyptian Monasteries.” Pages 213–27 in Coptic Literature in Context (4th–13th cent.): Cultural Landscape, Literary Production, and Manuscript Archaeology. Edited by Paola Buzi. Rome: Quasar, 2020 (see pp. 214–15).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.tf.uio.no/english/research/projects/apocrypha/publications/lundhaug-fluid-transmission-of-apocrypha-in-egyptian-monasteries---2020.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>__________. “Sitting on the Mount of Olives: Revelation Dialogues in Coptic Apocrypha from Nag Hammadi to Edfu.” Pages 57–80 in <em>Dialogues and Disputes in Biblical Disguise from Late Antiquity to the Middle Ages.</em> Edited by Peter Tóth. London: Routledge, 2022.</p>",
+      "line_text": "__________. “Sitting on the Mount of Olives: Revelation Dialogues in Coptic Apocrypha from Nag Hammadi to Edfu.” Pages 57–80 in Dialogues and Disputes in Biblical Disguise from Late Antiquity to the Middle Ages. Edited by Peter Tóth. London: Routledge, 2022.",
       "language": "English",
       "entry_type": "Other"
     },
     {
+      "line_html": "<p><a href=\"https://shedet.journals.ekb.eg/article_88281_62ab7a7903064aba18aa3bb60eb816e2.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Saweros, Ibrahim. “Angels in Coptic Tradition.” <em>Shedet</em> 6 (2019): 74–91.</p>",
+      "line_text": "Saweros, Ibrahim. “Angels in Coptic Tradition.” Shedet 6 (2019): 74–91.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://shedet.journals.ekb.eg/article_88281_62ab7a7903064aba18aa3bb60eb816e2.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.researchgate.net/publication/360939160_HOW_DOES_THE_COPT_DIE_A_STUDY_OF_THE_ANGEL_OF_DEATH_IN_THE_COPTIC_TRADITION_TOGETHER_WITH_A_CRITICAL_EDITION_OF_THE_NINTH_CHAPTER_OF_KITAB_AL-IDA_H_ATTRIBUTED_TO_SAWIRUS_IBN_AL-MUQAFFA'_kyf_ymwt_alqbt\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. “How Does the Copt Die? A Study of the Angel of Death in the Coptic Tradition together with a Critical Edition of the Ninth Chapter of <em>Kitāb al-īḍāḥ</em> attributed to Severus ibn al-Muqaffa‘.” <em>Bulletin la Société d’Archéologie Copte </em>56 (2017): 277–303.</p>",
+      "line_text": "__________. “How Does the Copt Die? A Study of the Angel of Death in the Coptic Tradition together with a Critical Edition of the Ninth Chapter of Kitāb al-īḍāḥ attributed to Severus ibn al-Muqaffa‘.” Bulletin la Société d’Archéologie Copte 56 (2017): 277–303.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.researchgate.net/publication/360939160_HOW_DOES_THE_COPT_DIE_A_STUDY_OF_THE_ANGEL_OF_DEATH_IN_THE_COPTIC_TRADITION_TOGETHER_WITH_A_CRITICAL_EDITION_OF_THE_NINTH_CHAPTER_OF_KITAB_AL-IDA_H_ATTRIBUTED_TO_SAWIRUS_IBN_AL-MUQAFFA'_kyf_ymwt_alqbt"
+      ]
+    },
+    {
       "line_html": "<p>Suciu, Alin. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (see particularly, pp. 91–92, 126–28).</p>",
       "line_text": "Suciu, Alin. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (see particularly, pp. 91–92, 126–28).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Tripaldi, Daniele. “Apostles, Long Dead ‘Heretics,’ and Monks: Noncanonical Traditions on Angels and Protoplasts in Two Late Antique Coptic Apocalypses (7th–8th century CE).” Pages 179–205 in <i>Apocryphal and Esoteric Sources in the Development of Christianity and Judaism</i>. Edited by Igor Dorfmann-Lazarev. Texts and Studies in Eastern Christianity 21. Leiden: Brill, 2021.</p>",
+      "line_text": "Tripaldi, Daniele. “Apostles, Long Dead ‘Heretics,’ and Monks: Noncanonical Traditions on Angels and Protoplasts in Two Late Antique Coptic Apocalypses (7th–8th century CE).” Pages 179–205 in Apocryphal and Esoteric Sources in the Development of Christianity and Judaism. Edited by Igor Dorfmann-Lazarev. Texts and Studies in Eastern Christianity 21. Leiden: Brill, 2021.",
       "language": "English",
       "entry_type": "Other"
     },

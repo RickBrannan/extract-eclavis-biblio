@@ -108,8 +108,8 @@
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>Kraus, Thomas J. “Der Papyrus Oxyrhynchus X 1224.” Pages 370–373 in <em>Antike christliche Apokryphen in deutscher Übersetzung.</em> Edited by Christoph Markschies and Jens Schröter. Band 1: <em>Evangelien und Verwandtes.</em> 12. Auflage, Mohr Siebeck, Tübingen 2012.</p>",
-      "line_text": "Kraus, Thomas J. “Der Papyrus Oxyrhynchus X 1224.” Pages 370–373 in Antike christliche Apokryphen in deutscher Übersetzung. Edited by Christoph Markschies and Jens Schröter. Band 1: Evangelien und Verwandtes. 12. Auflage, Mohr Siebeck, Tübingen 2012.",
+      "line_html": "<p>Kraus, Thomas J. “Der Papyrus Oxyrhynchus X 1224.” Pages 370–73 in <em>Antike christliche Apokryphen in deutscher Übersetzung.</em> Edited by Christoph Markschies and Jens Schröter. Band 1: <em>Evangelien und Verwandtes.</em> 12. Auflage, Mohr Siebeck, Tübingen 2012.</p>",
+      "line_text": "Kraus, Thomas J. “Der Papyrus Oxyrhynchus X 1224.” Pages 370–73 in Antike christliche Apokryphen in deutscher Übersetzung. Edited by Christoph Markschies and Jens Schröter. Band 1: Evangelien und Verwandtes. 12. Auflage, Mohr Siebeck, Tübingen 2012.",
       "language": "German",
       "entry_type": "Translation"
     },
@@ -176,6 +176,18 @@
     {
       "line_html": "<p>Foster, Paul. “Papyrus Oxyrhynchus X 1224.” Pages 59–96 in <em>Early Christian Manuscripts: Examples of Applied Method and Approach</em>. Edited by Thomas J. Kraus and Tobias Nicklas. TENTS 5. Leiden: Brill, 2010.</p>",
       "line_text": "Foster, Paul. “Papyrus Oxyrhynchus X 1224.” Pages 59–96 in Early Christian Manuscripts: Examples of Applied Method and Approach. Edited by Thomas J. Kraus and Tobias Nicklas. TENTS 5. Leiden: Brill, 2010.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Gagné, André. “The Gospel of Thomas in a Monastic Context: Reading the Text as a Spiritual Exercise.” Pages 121–34 in <i>The Nag Hammadi Codices as Monastic Books</i>. Edited by Hugo Lundhaug and Christian H. Bull. STAC 134. Tübingen: Mohr Siebeck, 2023.</p>",
+      "line_text": "Gagné, André. “The Gospel of Thomas in a Monastic Context: Reading the Text as a Spiritual Exercise.” Pages 121–34 in The Nag Hammadi Codices as Monastic Books. Edited by Hugo Lundhaug and Christian H. Bull. STAC 134. Tübingen: Mohr Siebeck, 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Glenn, W. Edward, and Darian Lockett, eds., <i>Canon Formation: Tracing the Role of Sub-Collections in the Biblical Canon</i>. T&amp;T Clark: Edinburgh, 2023 (p. 231).</p>",
+      "line_text": "Glenn, W. Edward, and Darian Lockett, eds., Canon Formation: Tracing the Role of Sub-Collections in the Biblical Canon. T&amp;T Clark: Edinburgh, 2023 (p. 231).",
       "language": "English",
       "entry_type": "Other"
     },

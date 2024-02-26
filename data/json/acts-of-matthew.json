@@ -189,12 +189,6 @@
       ]
     },
     {
-      "line_html": "<p>García Lázaro, Concepción, and Gonzalo Aranda Pérez, eds. <em>Hechos de Andrés y Mateo en la ciudad de los anthropófagos.</em> Martiro del apóstol Mateo. Apócrifos cristianos 4. Instituto de Filologia Clásica y Oriental San Justino. Madrid: Editorial Ciudad Nueva, 2001 (pp. 81–104 and 189–250).</p>",
-      "line_text": "García Lázaro, Concepción, and Gonzalo Aranda Pérez, eds. Hechos de Andrés y Mateo en la ciudad de los anthropófagos. Martiro del apóstol Mateo. Apócrifos cristianos 4. Instituto de Filologia Clásica y Oriental San Justino. Madrid: Editorial Ciudad Nueva, 2001 (pp. 81–104 and 189–250).",
-      "language": ".2 Recension 2",
-      "entry_type": "Edition"
-    },
-    {
       "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Bonnet with facing Spanish translation, vol. 3, pp. 323–61).</span></p>",
       "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Bonnet with facing Spanish translation, vol. 3, pp. 323–61).",
       "language": ".2 Recension 2",
@@ -400,6 +394,12 @@
     {
       "line_html": "<p><span class=\"aCOpRe\">Piñero</span>, Antonio, and Gonzalo del Cerro. <span class=\"aCOpRe\"><em>Hechos apócrifos</em> <em>de los Apóstoles</em>. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Bonnet with facing Spanish translation, vol. 3, pp. 323–61).</span></p>",
       "line_text": "Piñero, Antonio, and Gonzalo del Cerro. Hechos apócrifos de los Apóstoles. 3 vols. Madrid: Biblioteca de Autores Cristianos, 2011 (Greek edition based on Bonnet with facing Spanish translation, vol. 3, pp. 323–61).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>García Lázaro, Concepción, and Gonzalo Aranda Pérez, eds. <em>Hechos de Andrés y Mateo en la ciudad de los anthropófagos.</em> Martiro del apóstol Mateo. Apócrifos cristianos 4. Instituto de Filologia Clásica y Oriental San Justino. Madrid: Editorial Ciudad Nueva, 2001 (introduction, pp. 81–104, 189–202; translation, pp. 203–50).</p>",
+      "line_text": "García Lázaro, Concepción, and Gonzalo Aranda Pérez, eds. Hechos de Andrés y Mateo en la ciudad de los anthropófagos. Martiro del apóstol Mateo. Apócrifos cristianos 4. Instituto de Filologia Clásica y Oriental San Justino. Madrid: Editorial Ciudad Nueva, 2001 (introduction, pp. 81–104, 189–202; translation, pp. 203–50).",
       "language": "Spanish",
       "entry_type": "Translation"
     },

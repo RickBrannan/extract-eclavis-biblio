@@ -10,15 +10,16 @@
   ],
   "clavis_number": 403,
   "category": "Apocryphal Acts",
-  "compiler": ": Tony Burke",
+  "compiler": ": Tony Burke , York University, and Brandon W. Hawk, Rhode Island College.",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 615, pp. 300–44 (1677) ~ <a href=\"https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">CATALOG</a></p>",
-      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 615, pp. 300–44 (1677) ~ CATALOG",
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 615, pp. 300–44 (1677) ~ <a href=\"https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">CATALOG</a>; <a href=\"https://w3id.org/vhmml/readingRoom/view/505005\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 615, pp. 300–44 (1677) ~ CATALOG; HMML",
       "language": "Arabic",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf"
+        "https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf",
+        "https://w3id.org/vhmml/readingRoom/view/505005"
       ]
     },
     {
@@ -40,7 +41,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 42<sup>r</sup>–57<sup>r</sup> (12th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mone-tes-hagias-aikaterines-ar-539/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 42<sup>r</sup>–57<sup>r</sup> (12th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 539, fols. 42r–57r (12th cent.)",
       "language": "Arabic",
       "entry_type": "Manuscript",
@@ -49,7 +50,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-405/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 213<sup>r</sup>–223<sup>r</sup> (1334/1335)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-405/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 213<sup>r</sup>–223<sup>r</sup> (1334/1335)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 405, fols. 213r–223r (1334/1335)",
       "language": "Arabic",
       "entry_type": "Manuscript",

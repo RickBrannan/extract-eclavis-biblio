@@ -9,7 +9,7 @@
   ],
   "clavis_number": 702,
   "category": "Apocryphal Acts",
-  "compiler": "Julia Snyder, Westcott House, Cambridge",
+  "compiler": "[not available]",
   "bibliography_entries": [
     {
       "line_html": "<p>Menology 1 (the earliest recension), represented by two manuscripts:</p>",
@@ -123,8 +123,20 @@
       ]
     },
     {
+      "line_html": "<p>Krauter, Stefan. “Cretan Memories: Crete in the Letter to Titus and the Acts of Titus.” <i>Early Christianity</i> 13 (2022): 455–67.</p>",
+      "line_text": "Krauter, Stefan. “Cretan Memories: Crete in the Letter to Titus and the Acts of Titus.” Early Christianity 13 (2022): 455–67.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Lips, Hermann von. “Die Timotheus- und Titusakten und die Leidensthematik in den Pastoralbriefen: Aspekte zur Entstehungszeit und Intention der Pastoralbriefe.” <em>Early Christianity </em>2 (2011): 219–41.</p>",
       "line_text": "Lips, Hermann von. “Die Timotheus- und Titusakten und die Leidensthematik in den Pastoralbriefen: Aspekte zur Entstehungszeit und Intention der Pastoralbriefe.” Early Christianity 2 (2011): 219–41.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">__________. </span></span><i>Timotheus und Titus: Unterwegs für Paulus</i>. Biblische Gestalten 19. Leipzig: Evangelische Verlagsanstalt, 2017.</p>",
+      "line_text": "__________. Timotheus und Titus: Unterwegs für Paulus. Biblische Gestalten 19. Leipzig: Evangelische Verlagsanstalt, 2017.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -140,6 +152,18 @@
     {
       "line_html": "<p>Nicklas, Tobias. “Die Akten des Titus: Rezeption ‘apostolischer’ Schriften und Entwicklung antik-christlicher ‘Erinnerungslandschaften.’” <em>Early Christianity</em> 8 (2017): 458–80.</p>",
       "line_text": "Nicklas, Tobias. “Die Akten des Titus: Rezeption ‘apostolischer’ Schriften und Entwicklung antik-christlicher ‘Erinnerungslandschaften.’” Early Christianity 8 (2017): 458–80.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><span class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">__________. </span></span>“Neutestamentlicher Kanon, christliche Apokryphen und antik-christliche ‘Erinnerungskulturen.’<span class=\"auteur\">” <em>New Testament Studies </em>62 (2016): 588–609.</span></p>",
+      "line_text": "__________. “Neutestamentlicher Kanon, christliche Apokryphen und antik-christliche ‘Erinnerungskulturen.’” New Testament Studies 62 (2016): 588–609.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Robertson, Michael Scott. <span class=\"auteur\">“</span>The Problem of Cretan Myths in the Reception of the Letter to Titus in Jerome, Chrysostom, and the Acts of Titus.<span class=\"auteur\">”</span> <em>Apocrypha</em> 33 (2022): 247–63.</p>",
+      "line_text": "Robertson, Michael Scott. “The Problem of Cretan Myths in the Reception of the Letter to Titus in Jerome, Chrysostom, and the Acts of Titus.” Apocrypha 33 (2022): 247–63.",
       "language": "English",
       "entry_type": "Other"
     },

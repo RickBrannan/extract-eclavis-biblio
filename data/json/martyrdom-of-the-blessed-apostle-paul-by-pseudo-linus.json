@@ -21,28 +21,40 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, lat. 12602, fols. 12<sup>r</sup>–17<sup>r</sup> (12th cent.)</p>",
-      "line_text": "B  Paris, Bibliothèque nationale de France, lat. 12602, fols. 12r–17r (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, lat. 12602, fols. 12<sup>r</sup>–17<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100391093\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, lat. 12602, fols. 12r–17r (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100391093"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Paris, Bibliothèque nationale de France, lat. 12611, fols. 151<sup>v</sup>–156<sup>r</sup> (12th cent.)</p>",
-      "line_text": "C  Paris, Bibliothèque nationale de France, lat. 12611, fols. 151v–156r (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C </strong> Paris, Bibliothèque nationale de France, lat. 12611, fols. 151<sup>v</sup>–156<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b52513580w\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, lat. 12611, fols. 151v–156r (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b52513580w"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Paris, Bibliothèque nationale de France, lat. 3778, fols. 32<sup>v</sup>–41<sup>v</sup> (11th cent.)</p>",
-      "line_text": "D  Paris, Bibliothèque nationale de France, lat. 3778, fols. 32v–41v (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Paris, Bibliothèque nationale de France, lat. 3778, fols. 32<sup>v</sup>–41<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100325185\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "D  Paris, Bibliothèque nationale de France, lat. 3778, fols. 32v–41v (11th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100325185"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Paris, Bibliothèque nationale de France, lat. 5273, fols. 16<sup>r</sup>–21<sup>v</sup> (13th cent.)</p>",
-      "line_text": "E  Paris, Bibliothèque nationale de France, lat. 5273, fols. 16r–21v (13th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Paris, Bibliothèque nationale de France, lat. 5273, fols. 16<sup>r</sup>–21<sup>v</sup> (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10035407z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "E  Paris, Bibliothèque nationale de France, lat. 5273, fols. 16r–21v (13th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10035407z"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Paris, Bibliothèque nationale de France, lat. 15437, fols. 47<sup>v</sup>–51<sup>v</sup> (11th cent.)</p>",
@@ -51,16 +63,22 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>G </strong> Paris, Bibliothèque nationale de France, lat. 11750, fols. 66<sup>v</sup>–72<sup>v</sup> (12th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11750/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>G </strong> Paris, Bibliothèque nationale de France, lat. 11750, fols. 66<sup>v</sup>–72<sup>v</sup> (12th cent.)</p>",
       "line_text": "G  Paris, Bibliothèque nationale de France, lat. 11750, fols. 66v–72v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11750/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Paris, Bibliothèque nationale de France, lat. 5274, fols. 2<sup>r</sup>–7<sup>v</sup> (12th cent.)</p>",
-      "line_text": "H  Paris, Bibliothèque nationale de France, lat. 5274, fols. 2r–7v (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Paris, Bibliothèque nationale de France, lat. 5274, fols. 2<sup>r</sup>–7<sup>v</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10038614t\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "H  Paris, Bibliothèque nationale de France, lat. 5274, fols. 2r–7v (12th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10038614t"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>I</strong>  Paris, Bibliothèque nationale de France, lat. 12615, fols. 17<sup>v</sup>–24<sup>v</sup> (14th cent.)</p>",
@@ -90,8 +108,8 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Casanat. B. I. 4, fols. 14<sup>r</sup>–? (10th/11th cent.)</p>",
-      "line_text": "N  Casanat. B. I. 4, fols. 14r–? (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>N</strong>  Rome, Biblioteca Casanatense, B. I. 4, fols. 14<sup>r</sup>–? (10th/11th cent.)</p>",
+      "line_text": "N  Rome, Biblioteca Casanatense, B. I. 4, fols. 14r–? (10th/11th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
@@ -135,8 +153,8 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>T </strong>Vatican, Biblioteca apostolica Vaticana, Barb. lat. XII 29, fols. 187<sup>r</sup>–? (11th cent.)</p>",
-      "line_text": "T Vatican, Biblioteca apostolica Vaticana, Barb. lat. XII 29, fols. 187r–? (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>T  </strong>Vatican, Biblioteca apostolica Vaticana, Barb. lat. XII 29, fols. 187<sup>r</sup>–? (11th cent.)</p>",
+      "line_text": "T  Vatican, Biblioteca apostolica Vaticana, Barb. lat. XII 29, fols. 187r–? (11th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
@@ -162,26 +180,26 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Florence, Laurent. Plut. XX 1. 2, fols. 167<sup>r</sup>–? (11th cent.)</p>",
-      "line_text": "X  Florence, Laurent. Plut. XX 1. 2, fols. 167r–? (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Florence, Biblioteca Medicea Laurenziana, Plut. XX 1. 2, fols. 167<sup>r</sup>–? (11th cent.)</p>",
+      "line_text": "X  Florence, Biblioteca Medicea Laurenziana, Plut. XX 1. 2, fols. 167r–? (11th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong>  Florence, Laurent. conu. suppressi 298, fols. 112<sup>r</sup>–? (13th cent.)</p>",
-      "line_text": "Y  Florence, Laurent. conu. suppressi 298, fols. 112r–? (13th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Y</strong> Florence, Biblioteca Medicea Laurenziana, conu. suppressi 298, fols. 112<sup>r</sup>–? (13th cent.)</p>",
+      "line_text": "Y Florence, Biblioteca Medicea Laurenziana, conu. suppressi 298, fols. 112r–? (13th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  London, Add. 9959, fols. 31<sup>r</sup>–? (12th cent.)</p>",
-      "line_text": "Z  London, Add. 9959, fols. 31r–? (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Z</strong>  London, British Library, Add. 9959, fols. 31<sup>r</sup>–? (12th cent.)</p>",
+      "line_text": "Z  London, British Library, Add. 9959, fols. 31r–? (12th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>Γ</strong>  London, Cotton. Nero E. I, fols. 242<sup>r</sup>–? (10th cent.)</p>",
-      "line_text": "Γ  London, Cotton. Nero E. I, fols. 242r–? (10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Γ</strong>  London, British Library, Cotton Nero E. I, fols. 242<sup>r</sup>–? (10th cent.)</p>",
+      "line_text": "Γ  London, British Library, Cotton Nero E. I, fols. 242r–? (10th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript"
     },
@@ -858,8 +876,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Tajra, Harry W. <em>The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends</em>. WUNT 2/67. Tübingen: Mohr Siebeck, 1994.</p>",
-      "line_text": "Tajra, Harry W. The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends. WUNT 2/67. Tübingen: Mohr Siebeck, 1994.",
+      "line_html": "<p>Tajra, Harry W. <em>The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends</em>. WUNT 2/67. Tübingen: Mohr Siebeck, 1994 (pp. 138–42).</p>",
+      "line_text": "Tajra, Harry W. The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends. WUNT 2/67. Tübingen: Mohr Siebeck, 1994 (pp. 138–42).",
       "language": "English",
       "entry_type": "Other"
     },

@@ -806,6 +806,16 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 30px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2044, fols. 53<sup>v</sup>–63<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68673/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.2044\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2044, fols. 53v–63v (11th cent.) ~ Pinakes; BAV",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68673/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.2044"
+      ]
+    },
+    {
       "line_html": "<p>See also the entries for <em><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/gospel-of-pseudo-matthew/\">Gospel of Pseudo-Matthew</a></em>, the <em><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/book-about-the-birth-of-the-savior-latin-infancy-gospel/\">Book about the Birth of the Savior</a></em>, and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/nativity-of-mary/\"><em>Nativity of Mary</em></a>.<em><br/></em></p>",
       "line_text": "See also the entries for Gospel of Pseudo-Matthew, the Book about the Birth of the Savior, and the Nativity of Mary.",
       "language": "Latin",

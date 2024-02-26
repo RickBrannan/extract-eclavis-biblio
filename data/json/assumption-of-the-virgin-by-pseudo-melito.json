@@ -265,10 +265,13 @@
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>James, M. R. <em>The Apocryphal New Testament</em>. 1924. Repr., Oxford: Clarendon Press, 1953 (translation of B<sup>1</sup>, pp. 209–16).</p>",
-      "line_text": "James, M. R. The Apocryphal New Testament. 1924. Repr., Oxford: Clarendon Press, 1953 (translation of B1, pp. 209–16).",
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n233/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (translation of B<sup>1</sup>, pp. 209–16).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (translation of B1, pp. 209–16).",
       "language": "English",
-      "entry_type": "Translation"
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n233/mode/2up"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873 (translation of B<sup>1</sup>, pp. 522–30). Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883.</p>",

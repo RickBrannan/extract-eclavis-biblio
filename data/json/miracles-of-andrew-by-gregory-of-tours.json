@@ -24,10 +24,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5339, fols. 32<sup>r</sup>–54<sup>r</sup> (10th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, lat. 5339, fols. 32r–54r (10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 5339, fols. 32<sup>r</sup>–54<sup>r</sup> (10th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10541999s.r=lat.%205339?rk=42918;4\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5339, fols. 32r–54r (10th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10541999s.r=lat.%205339?rk=42918;4"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12603, fols. 10<sup>r</sup>–11<sup>r</sup> (12th cent.)</p>",
@@ -36,16 +39,22 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 12604, fols. 19<sup>r</sup>–34<sup>v</sup> (12th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 19<sup>r</sup>–34<sup>v</sup> (12th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 19r–34v (12th cent.)",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 18104, fols. 102<sup>r</sup>–113<sup>v</sup> (14th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, lat. 18104, fols. 102r–113v (14th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, lat. 18104, fols. 102<sup>r</sup>–113<sup>v</sup> (14th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10033742t\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 18104, fols. 102r–113v (14th cent.) ~ Gallica",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10033742t"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Montpellier, Bibliothèque de la Faculté de médecine, 1, vol. 1, fols. 179<sup>r</sup>–188<sup>r</sup> (12th cent.)</p>",
@@ -75,10 +84,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1274, fols. 78–119 (11th cent.)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1274, fols. 78–119 (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1274, fols. 78–119 (11th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.1274\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 1274, fols. 78–119 (11th cent.) ~ BAV",
       "language": "Latin",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.1274"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36<span class=\"s1\"><sup>v</sup></span>–57<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
@@ -171,6 +183,18 @@
       "line_html": "<p>Prieur, Jean-Marc. “Vie d’André de Grégroire de Tours.” Pages 934–72 in vol. 1 of <em>Écrits apocryphes chr</em><em>é</em><em>tiens. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (reproduction of translation from CCSA 6).</p>",
       "line_text": "Prieur, Jean-Marc. “Vie d’André de Grégroire de Tours.” Pages 934–72 in vol. 1 of Écrits apocryphes chrétiens. Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (reproduction of translation from CCSA 6).",
       "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (pp. 408–29).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (pp. 408–29).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi, ed. and trans. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 2:1351–694 with <em>Mir. Andr.</em>, pp. 1363–95; Martyrdom, pp. 1396–1423; Coptic, pp. 1424–27).</p>",
+      "line_text": "Moraldi, Luigi, ed. and trans. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 2, pp. 2:1351–694 with Mir. Andr., pp. 1363–95; Martyrdom, pp. 1396–1423; Coptic, pp. 1424–27).",
+      "language": "Italian",
       "entry_type": "Translation"
     },
     {

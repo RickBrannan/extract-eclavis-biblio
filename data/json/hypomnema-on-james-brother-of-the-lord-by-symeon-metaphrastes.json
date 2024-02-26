@@ -21,7 +21,17 @@
       ]
     },
     {
-      "line_html": "<p><a href=\"https://books.google.ca/books?id=sWBoZmcgbX0C&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Combefis, François. <em>Bibliothecae graecorum patrum auctarium novissimum</em>. 2 vols. Paris: Aegidii Hotot, 1672 (Greek text and Latin translation from unidentified source, vol. 1, pp. 519–27; commentary, pp. 540–44).</p>",
+      "line_html": "<p><a href=\"http://www.documentacatholicaomnia.eu/20vs/202_Acta_Sanctorum/1643-1925,_Societe_des_Bollandistes,_Acta_Sanctorum_05_Maii_Tomus_01_1680,_LT.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Maii</em>. Vol. 1. Antwerp: P. Jacobs, 1680 (edition based on a manuscript from Paris, pp. 735–38). <a href=\"https://archive.org/details/actasanctorum14unse/page/n881/mode/2up\">3rd ed.</a> Paris: V. Palmé, 1866 (Greek text, pp. xiii–xvi; Latin translation, pp. 31–35).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Maii. Vol. 1. Antwerp: P. Jacobs, 1680 (edition based on a manuscript from Paris, pp. 735–38). 3rd ed. Paris: V. Palmé, 1866 (Greek text, pp. xiii–xvi; Latin translation, pp. 31–35).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.documentacatholicaomnia.eu/20vs/202_Acta_Sanctorum/1643-1925,_Societe_des_Bollandistes,_Acta_Sanctorum_05_Maii_Tomus_01_1680,_LT.pdf",
+        "https://archive.org/details/actasanctorum14unse/page/n881/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=sWBoZmcgbX0C&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Combefis, François. <em>Bibliothecae graecorum patrum auctarium novissimum</em>. 2 vols. Paris: Aegidii Hotot, 1672 (Greek text and Latin translation from unidentified source, vol. 1, pp. 519–27; commentary, pp. 540–44).</p>",
       "line_text": "Combefis, François. Bibliothecae graecorum patrum auctarium novissimum. 2 vols. Paris: Aegidii Hotot, 1672 (Greek text and Latin translation from unidentified source, vol. 1, pp. 519–27; commentary, pp. 540–44).",
       "language": "Greek",
       "entry_type": "Edition",
@@ -36,16 +46,6 @@
       "entry_type": "Edition",
       "other_urls": [
         "https://archive.org/details/patrologiaecurs49migngoog/page/n102/mode/2up"
-      ]
-    },
-    {
-      "line_html": "<p><a href=\"http://www.documentacatholicaomnia.eu/20vs/202_Acta_Sanctorum/1643-1925,_Societe_des_Bollandistes,_Acta_Sanctorum_05_Maii_Tomus_01_1680,_LT.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Maii</em>. Vol. 1. Antwerp: P. Jacobs, 1680 (edition based on a manuscript from Paris, pp. 735–38). <a href=\"https://archive.org/details/actasanctorum14unse/page/n881/mode/2up\">3rd ed.</a> Paris: V. Palmé, 1866 (Greek text, pp. xiii–xvi; Latin translation, pp. 31–35).</p>",
-      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Maii. Vol. 1. Antwerp: P. Jacobs, 1680 (edition based on a manuscript from Paris, pp. 735–38). 3rd ed. Paris: V. Palmé, 1866 (Greek text, pp. xiii–xvi; Latin translation, pp. 31–35).",
-      "language": "Greek",
-      "entry_type": "Edition",
-      "other_urls": [
-        "http://www.documentacatholicaomnia.eu/20vs/202_Acta_Sanctorum/1643-1925,_Societe_des_Bollandistes,_Acta_Sanctorum_05_Maii_Tomus_01_1680,_LT.pdf",
-        "https://archive.org/details/actasanctorum14unse/page/n881/mode/2up"
       ]
     },
     {
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "line_html": "<p>Noret, Jacques. <em>Un éloge de Jacques le frère du Seigneur</em>. Studies and Texts 44. Toronto: Pontifical Institute of Medieval Studies, 1978 (pp. 103–5)</p>",
-      "line_text": "Noret, Jacques. Un éloge de Jacques le frère du Seigneur. Studies and Texts 44. Toronto: Pontifical Institute of Medieval Studies, 1978 (pp. 103–5)",
+      "line_html": "<p>Noret, Jacques. <em>Un éloge de Jacques le frère du Seigneur</em>. Studies and Texts 44. Toronto: Pontifical Institute of Medieval Studies, 1978 (pp. 103–105)</p>",
+      "line_text": "Noret, Jacques. Un éloge de Jacques le frère du Seigneur. Studies and Texts 44. Toronto: Pontifical Institute of Medieval Studies, 1978 (pp. 103–105)",
       "language": "English",
       "entry_type": "Other"
     },
