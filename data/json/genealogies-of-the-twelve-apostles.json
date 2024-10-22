@@ -1,0 +1,53 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/genealogies-of-the-twelve-apostles/",
+  "nasscal_title": "Genealogies of the Twelve Apostles",
+  "filename": "genealogies-of-the-twelve-apostles",
+  "latin_title": "Genealogiis duodecim apostolos",
+  "abbrev": "Gene. Apos.",
+  "clavis_number": 523,
+  "category": "Lists of Apostles and Disciples",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 678, fols. 17<sup>v</sup><strong>–</strong>18<sup>r</sup> (15th cent.) (=Budge A)</p>",
+      "line_text": "London, British Library, Or. 678, fols. 17v–18r (15th cent.) (=Budge A)",
+      "language": "English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 683, fols. 254<sup>v</sup> (17th cent.) (=Budge B)</p>",
+      "line_text": "London, British Library, Or. 683, fols. 254v (17th cent.) (=Budge B)",
+      "language": "English",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo00budg/page/48/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 1. London: Henry Frowde, 1899 (Ethiopic text based on British Library, Or. 678 and 683, pp. 49–50).</p>",
+      "line_text": "Budge, Ernest A. W. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 1. London: Henry Frowde, 1899 (Ethiopic text based on British Library, Or. 678 and 683, pp. 49–50).",
+      "language": "English",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo00budg/page/48/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo02budguoft/page/48/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, E. Wallis. <em>Gadla Ḥawâryât: The </em><em>Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 2 (English translations). London: Henry Frowde, 1901 (English translation, pp. 59–60).</p>",
+      "line_text": "Budge, E. Wallis. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 2 (English translations). London: Henry Frowde, 1901 (English translation, pp. 59–60).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/contendingsofapo02budguoft/page/48/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

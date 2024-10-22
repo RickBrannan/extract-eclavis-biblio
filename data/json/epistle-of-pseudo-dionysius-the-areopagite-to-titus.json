@@ -1,0 +1,110 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pseudo-dionysius-the-areopagite-to-titus/",
+  "nasscal_title": "Epistle of Pseudo-Dionysius the Areopagite to Titus",
+  "filename": "epistle-of-pseudo-dionysius-the-areopagite-to-titus",
+  "latin_title": "Epistula Pseudo-Dionysii ad Titam",
+  "abbrev": "Ep. Titus Dion.",
+  "alt_titles": [
+    "Epistle of Pseudo-Dionysius the Areopagite to Titus "
+  ],
+  "clavis_number": 204,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 110, fol. 477 (1194)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 110, fol. 477 (1194)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 2, fols. 168<sup>v</sup>–169<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 2, fols. 168v–169r (15th cent.)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 353, fol. 81 (14th cent.)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 353, fol. 81 (14th cent.)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993, fols. 583<sup>v</sup>–584<sup>r</sup> (1456)</p>",
+      "line_text": "Yerevan, Matenadaran, 993, fols. 583v–584r (1456)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 7729, fol. 271 (1200–1202)</p>",
+      "line_text": "Yerevan, Matenadaran, 7729, fol. 271 (1200–1202)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Sruandzteantsʿ, Garegin. <i>Hnocʿ ew norocʿ patmowtʿiwn vans Dawtʿi ew Movsei Xorenacwoy</i> (History of the Old and New concerning David and Moses Khorenatsi. Constantinople: Tpagrutʽiwn E.M. Tntesean, 1874 (edition from inaccessible manuscript, pp. 110–15).</p>",
+      "line_text": "Sruandzteantsʿ, Garegin. Hnocʿ ew norocʿ patmowtʿiwn vans Dawtʿi ew Movsei Xorenacwoy (History of the Old and New concerning David and Moses Khorenatsi. Constantinople: Tpagrutʽiwn E.M. Tntesean, 1874 (edition from inaccessible manuscript, pp. 110–15).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.de/books?id=WuRp-Jed6nEC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. Pages 11–17 in <em><span class=\"ddata\">Haykakan ashkhat[a]sirutʻiwnkʻ hayagēt P. Fētʻtʻēri</span>.</em> Edited by Hakovbos Tashean. Azgayin Matenadaran 17. Vienna: Mkhit‘arean tparan, 1895 (edition of the Paris MS).</p>",
+      "line_text": "Vetter, Paul. Pages 11–17 in Haykakan ashkhat[a]sirutʻiwnkʻ hayagēt P. Fētʻtʻēri. Edited by Hakovbos Tashean. Azgayin Matenadaran 17. Vienna: Mkhit‘arean tparan, 1895 (edition of the Paris MS).",
+      "language": "Armenian",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.de/books?id=WuRp-Jed6nEC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. “Ps.-Ps.-Dionysius on the Dormition of the Virgin Mary: The Armenian Letter of Dionysius to Titus.” Pages 325–36 in <em>Jewish Roots of Eastern Christian Mysticism: Studies in Honor of Alexander Golitzin</em>. Edited by Andrei A. Orlov. VC Supp. 160. Leiden: Brill, 2020 (translation of edition by Sruandzteantsʿ, pp. 335–36).</p>",
+      "line_text": "Shoemaker, Stephen J. “Ps.-Ps.-Dionysius on the Dormition of the Virgin Mary: The Armenian Letter of Dionysius to Titus.” Pages 325–36 in Jewish Roots of Eastern Christian Mysticism: Studies in Honor of Alexander Golitzin. Edited by Andrei A. Orlov. VC Supp. 160. Leiden: Brill, 2020 (translation of edition by Sruandzteantsʿ, pp. 335–36).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Meistermann, Barnabé. <em>Le tombeau de la Sainte Vierge à Jérusalem</em>.<br/>\nJerusalem: P. P. Franciscains, 1903 (French translation of Vetter’s German translation, pp. 120–25).</p>",
+      "line_text": "Meistermann, Barnabé. Le tombeau de la Sainte Vierge à Jérusalem. Jerusalem: P. P. Franciscains, 1903 (French translation of Vetter’s German translation, pp. 120–25).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.deutsche-digitale-bibliothek.de/item/PHTQYCXU65SUCD6QFSLJQTWHMAF3DUZJ\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. “Das apokryphe Schreiben des Areopagiten an Titus über die Aufnahme Mariä aus dem Armenischen übersetzt.” <i>Theologische Quartalschrift </i>69 (1887): 133–38.</p>",
+      "line_text": "Vetter, Paul. “Das apokryphe Schreiben des Areopagiten an Titus über die Aufnahme Mariä aus dem Armenischen übersetzt.” Theologische Quartalschrift 69 (1887): 133–38.",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.deutsche-digitale-bibliothek.de/item/PHTQYCXU65SUCD6QFSLJQTWHMAF3DUZJ"
+      ]
+    },
+    {
+      "line_html": "<p>Mimouni, Simon C. <em>Dormition et Assumption de Marie. Histoire des traditions anciennes</em>. Théologie Historique 98. Paris: Beauchesne, 1995 (pp. 337–38, n. 77).</p>",
+      "line_text": "Mimouni, Simon C. Dormition et Assumption de Marie. Histoire des traditions anciennes. Théologie Historique 98. Paris: Beauchesne, 1995 (pp. 337–38, n. 77).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (see esp. pp. 204–205).</p>",
+      "line_text": "__________. Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (see esp. pp. 204–205).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. “Ps.-Ps.-Dionysius on the Dormition of the Virgin Mary: The Armenian Letter of Dionysius to Titus.” Pages 325–36 in <em>Jewish Roots of Eastern Christian Mysticism: Studies in Honor of Alexander Golitzin</em>. Edited by Andrei A. Orlov. VC Supp. 160. Leiden: Brill, 2020.</p>",
+      "line_text": "Shoemaker, Stephen J. “Ps.-Ps.-Dionysius on the Dormition of the Virgin Mary: The Armenian Letter of Dionysius to Titus.” Pages 325–36 in Jewish Roots of Eastern Christian Mysticism: Studies in Honor of Alexander Golitzin. Edited by Andrei A. Orlov. VC Supp. 160. Leiden: Brill, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

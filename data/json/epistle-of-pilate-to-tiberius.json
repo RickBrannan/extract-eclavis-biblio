@@ -2,18 +2,191 @@
   "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/epistle-of-pilate-to-tiberius/",
   "nasscal_title": "Epistle of Pilate to Tiberius",
   "filename": "epistle-of-pilate-to-tiberius",
-  "latin_title": "1. SUMMARY",
+  "latin_title": "Epistula ad Tiberium",
+  "abbrev": "Ep. Pil. Tib.",
   "clavis_number": 585,
-  "compiler": "[not available]",
+  "category": "Pilate Cycle",
+  "compiler": "Stephen E. Hopkins, University of Virginia",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-bibliotheke-tes-boules-45/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Athens, Bibliothēke tēs Boulēs, 45, fols. 189<sup>r</sup>–193<sup>r</sup> (16th cent.)</p>",
-      "line_text": "Athens, Bibliothēke tēs Boulēs, 45, fols. 189r–193r (16th cent.)",
-      "language": "English",
+      "line_html": "<p>The edition of Tischendof is based on two earlier editions and two manuscripts assigned the sigla:</p>",
+      "line_text": "The edition of Tischendof is based on two earlier editions and two manuscripts assigned the sigla:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Chas.</strong>  the text printed by Chassanaeus in part 4 of his <em>catalogi gloriae mundi</em>, 1571</p>",
+      "line_text": "Chas.  the text printed by Chassanaeus in part 4 of his catalogi gloriae mundi, 1571",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Flor.</strong>  the text printed by Florentinius in <em>Martyrolog. vet. Hieronymi</em>, p. 113 (and reprinted by Fabricius)</p>",
+      "line_text": "Flor.  the text printed by Florentinius in Martyrolog. vet. Hieronymi, p. 113 (and reprinted by Fabricius)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Bodl. </strong> Oxford, Bodleian Library, Auct. F. 2. 24, p. 343 (1463) ~ <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_619\" target=\"_blank\" rel=\"noopener\">Catalog</a></p>",
+      "line_text": "Bodl.  Oxford, Bodleian Library, Auct. F. 2. 24, p. 343 (1463) ~ Catalog",
+      "language": "Latin",
       "entry_type": "Manuscript",
-      "manuscripta_apocryphorum_urls": [
-        "https://www.nasscal.com/manuscripta-apocryphorum/athens-bibliotheke-tes-boules-45/"
+      "other_urls": [
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_619"
       ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Ven.</strong>  Venice, Biblioteca Nazionale Marciana, class. X. num. CXXXIV (16th cent.)</p>",
+      "line_text": "Ven.  Venice, Biblioteca Nazionale Marciana, class. X. num. CXXXIV (16th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Additional witnesses:</p>",
+      "line_text": "Additional witnesses:",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca del Museo Correr, 1036, fols. 90<sup>r</sup>–90<sup>v</sup> (1376–1437) ~ <a href=\"https://nbm.regione.veneto.it/Generale/ricerca/AnteprimaManoscritto.html?codiceMan=11411&amp;tipoRicerca=AN&amp;urlSearch=pagCorrente%3D163.5%26totElementi%3D18718\" target=\"_blank\" rel=\"noopener\">catalog</a></p>",
+      "line_text": "Venice, Biblioteca del Museo Correr, 1036, fols. 90r–90v (1376–1437) ~ catalog",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://nbm.regione.veneto.it/Generale/ricerca/AnteprimaManoscritto.html?codiceMan=11411&tipoRicerca=AN&urlSearch=pagCorrente%3D163.5%26totElementi%3D18718"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.digitale-sammlungen.de/de/view/bsb11116194?page=322\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricius, Johann Albert. <em>Codex Apocryphus Novi Testamenti</em>. 2 vols. Hamburg: Schiller, 1703 (Latin text, vol. 1, pp. 300–301).</p>",
+      "line_text": "Fabricius, Johann Albert. Codex Apocryphus Novi Testamenti. 2 vols. Hamburg: Schiller, 1703 (Latin text, vol. 1, pp. 300–301).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/de/view/bsb11116194?page=322"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphus00gilegoog\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Giles, J. A. <em>Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings</em>. 2 vols. London: D. Nutt, 1852 (republication of Thilo’s Latin text, vol. 2, pp. 464–65).</p>",
+      "line_text": "Giles, J. A. Codex Apocryphus Novi Testamenti: The Uncanonical Gospels and Other Writings. 2 vols. London: D. Nutt, 1852 (republication of Thilo’s Latin text, vol. 2, pp. 464–65).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphus00gilegoog"
+      ]
+    },
+    {
+      "line_html": "<p>Gronovius, Abraham. <em>C. Cornelii Taciti Opera quae exstant.</em> Utrecht: Apud Jacobum à Poolsum et Johannem Visch, 1721 (the preface to his edition includes the text of Bodl.).</p>",
+      "line_text": "Gronovius, Abraham. C. Cornelii Taciti Opera quae exstant. Utrecht: Apud Jacobum à Poolsum et Johannem Visch, 1721 (the preface to his edition includes the text of Bodl.).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/codexapocryphusn00thil/page/800/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Thilo, Ioannis Caroli. <em>Codex Apocryphus Novi Testamenti</em>. Lipsius: Vogel, 1832 (Latin text, pp. 801–802).</p>",
+      "line_text": "Thilo, Ioannis Caroli. Codex Apocryphus Novi Testamenti. Lipsius: Vogel, 1832 (Latin text, pp. 801–802).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/codexapocryphusn00thil/page/800/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/evangeliaapocry03tiscgoog/page/410/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin von, ed. <em>Evangelia Apocrypha</em>. Leipzig: Mendelssohn, 1853; 2nd ed. 1876 (description of sources, p. lxxvii; Latin text, pp. 4“`11–12).</p>",
+      "line_text": "Tischendorf, Constantin von, ed. Evangelia Apocrypha. Leipzig: Mendelssohn, 1853; 2nd ed. 1876 (description of sources, p. lxxvii; Latin text, pp. 4“`11–12).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/evangeliaapocry03tiscgoog/page/410/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Hiernoymus. <em>De infantia Salvatoris.</em> Turin: Johannes Fabri Lingonensis, 1476. Copy in Oxford, Bodleian Library, Douce 79. <a href=\"https://data.cerl.org/mei/00205565\" target=\"_blank\" rel=\"noopener\">CERL</a> entry.</p>",
+      "line_text": "Hiernoymus. De infantia Salvatoris. Turin: Johannes Fabri Lingonensis, 1476. Copy in Oxford, Bodleian Library, Douce 79. CERL entry.",
+      "language": "English",
+      "entry_type": "Incunables",
+      "other_urls": [
+        "https://data.cerl.org/mei/00205565"
+      ]
+    },
+    {
+      "line_html": "<p>Rabbi, Samuel. <em>Epistola contra Judaeorum errores</em>. Sant’Orso: Johannes de Reno, 1475. <a href=\"https://data.cerl.org/istc/is00104000\" target=\"_blank\" rel=\"noopener\">CERL</a> entry.</p>",
+      "line_text": "Rabbi, Samuel. Epistola contra Judaeorum errores. Sant’Orso: Johannes de Reno, 1475. CERL entry.",
+      "language": "English",
+      "entry_type": "Incunables",
+      "other_urls": [
+        "https://data.cerl.org/istc/is00104000"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospel00cowp/page/398/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cowper, B. Harris. <em>The Apocryphal Gospels and Other Documents Relating to the History of Christ</em>. 4th ed. 1867. London: Frederic Norgate, 1874 (translation of Tischendorf’s Latin text, pp. 398–99).</p>",
+      "line_text": "Cowper, B. Harris. The Apocryphal Gospels and Other Documents Relating to the History of Christ. 4th ed. 1867. London: Frederic Norgate, 1874 (translation of Tischendorf’s Latin text, pp. 398–99).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospel00cowp/page/398/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 206–208).</p>",
+      "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (pp. 206–208).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n181/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (English translation of Tischendorf’s Latin text, p. 153).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (English translation of Tischendorf’s Latin text, p. 153).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n181/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/222/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, A. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translations of Tischendorf’s Latin text, p. 223).</p>",
+      "line_text": "Walker, A. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translations of Tischendorf’s Latin text, p. 223).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/222/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Craveri, Marcello. <em>I Vangeli Apocrifi</em>. Torino: Giulio Einardi, 1969 (p. 397).</p>",
+      "line_text": "Craveri, Marcello. I Vangeli Apocrifi. Torino: Giulio Einardi, 1969 (p. 397).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (vol. 2, p. 130).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (vol. 2, p. 130).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n121\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, p. 739).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (vol. 1, p. 739).",
+      "language": "Italian",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/ApocrifiDelNuovoTestamentoACuraDiLuigiMoraldiUTETPdf/page/n121"
+      ]
+    },
+    {
+      "line_html": "<p>de Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1988<sup> </sup>(pp. 472–73).</p>",
+      "line_text": "de Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 1988 (pp. 472–73).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Hall, Thomas N. “The <em>Evangelium Nicodemi </em>and <em>Vindicta Salvatoris </em>in Anglo-Saxon England.” Pages 36–81 in <em>Two Old English Apocrypha and their Manuscript Source</em>. Edited by James E. Cross.  Cambridge: Cambridge University Press, 1996 (p. 51).</p>",
+      "line_text": "Hall, Thomas N. “The Evangelium Nicodemi and Vindicta Salvatoris in Anglo-Saxon England.” Pages 36–81 in Two Old English Apocrypha and their Manuscript Source. Edited by James E. Cross.  Cambridge: Cambridge University Press, 1996 (p. 51).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Winter, Paul. “A Letter from Pontius Pilate.” <em>NovT</em> 7 (1964): 37–43.</p>",
+      "line_text": "Winter, Paul. “A Letter from Pontius Pilate.” NovT 7 (1964): 37–43.",
+      "language": "English",
+      "entry_type": "Other"
     },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",

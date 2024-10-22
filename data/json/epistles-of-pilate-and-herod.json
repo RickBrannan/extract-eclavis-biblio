@@ -6,7 +6,7 @@
   "abbrev": "Ep. Pil. Herod",
   "clavis_number": 785,
   "category": "Pilate Cycle",
-  "compiler": "[not available]",
+  "compiler": "Tony Burke, York University.",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 929, pp. 63–71 (15th cent.)</p>",
@@ -117,19 +117,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/apocryphihypomne0000igna/page/n72\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rahmani, Ignatius E., ed. S<em>tudia Syriaca, seu collectio documentorum hactenus ineditorum ex codicibus Syriacis: Apocryphi hypomnemata Domini Nostri, seu, Acta Pilati</em>. 5 vols. Charfeh: Charfeh Patriarchal Seminary, 1908</p>",
-      "line_text": "Rahmani, Ignatius E., ed. Studia Syriaca, seu collectio documentorum hactenus ineditorum ex codicibus Syriacis: Apocryphi hypomnemata Domini Nostri, seu, Acta Pilati. 5 vols. Charfeh: Charfeh Patriarchal Seminary, 1908",
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphihypomne0000igna/page/n72\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Rahmani, Ignatius E., ed. S<em>tudia Syriaca, seu collectio documentorum hactenus ineditorum ex codicibus Syriacis: Apocryphi hypomnemata Domini Nostri, seu, Acta Pilati</em>. 5 vols. Charfeh: Charfeh Patriarchal Seminary, 1908 (text from A in vol. 2, p. 21; Latin translation vol. 2, p. 38).</p>",
+      "line_text": "Rahmani, Ignatius E., ed. Studia Syriaca, seu collectio documentorum hactenus ineditorum ex codicibus Syriacis: Apocryphi hypomnemata Domini Nostri, seu, Acta Pilati. 5 vols. Charfeh: Charfeh Patriarchal Seminary, 1908 (text from A in vol. 2, p. 21; Latin translation vol. 2, p. 38).",
       "language": "Syriac",
       "entry_type": "Edition",
       "other_urls": [
         "https://archive.org/details/apocryphihypomne0000igna/page/n72"
       ]
-    },
-    {
-      "line_html": "<p>(text from R<sup>a</sup> vol. 2:21; Latin translation vol. 2:38).</p>",
-      "line_text": "(text from Ra vol. 2:21; Latin translation vol. 2:38).",
-      "language": "Syriac",
-      "entry_type": "Edition"
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/cu31924029295636/page/n9\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wright, William. <em>Contributions to the Apocryphal Literature of the New Testament</em>. London: Williams &amp; Norgate, 1865 (edition based on London, BL Add. 14609, pp. 19–24, with English translation, pp. 12–17).</p>",
@@ -141,8 +135,8 @@
       ]
     },
     {
-      "line_html": "<p>Ehrman, Bart D. and Zlatko Pleše, <em>The Apocryphal Gospels: Texts and Translations</em>. Oxford and New York: Oxford University Press, 2011 ((reproduction of James’s edition with facing English translation, pp. 517–27), pp. 517–27).</p>",
-      "line_text": "Ehrman, Bart D. and Zlatko Pleše, The Apocryphal Gospels: Texts and Translations. Oxford and New York: Oxford University Press, 2011 ((reproduction of James’s edition with facing English translation, pp. 517–27), pp. 517–27).",
+      "line_html": "<p>Ehrman, Bart D. and Zlatko Pleše, <em>The Apocryphal Gospels: Texts and Translations</em>. Oxford and New York: Oxford University Press, 2011 (reproduction of James’s edition with facing English translation, pp. 517–27).</p>",
+      "line_text": "Ehrman, Bart D. and Zlatko Pleše, The Apocryphal Gospels: Texts and Translations. Oxford and New York: Oxford University Press, 2011 (reproduction of James’s edition with facing English translation, pp. 517–27).",
       "language": "English",
       "entry_type": "Translation"
     },
@@ -186,8 +180,8 @@
       ]
     },
     {
-      "line_html": "<p>De Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956<sup>1</sup>, 1988<sup>6</sup> (edition and translation of Paris, BnF, gr. 929, pp. 479–83).</p>",
-      "line_text": "De Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 19561, 19886 (edition and translation of Paris, BnF, gr. 929, pp. 479–83).",
+      "line_html": "<p>de Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956<sup>1</sup>, 1988<sup>6</sup> (edition and translation of Paris, BnF, gr. 929, pp. 479–83).</p>",
+      "line_text": "de Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 19561, 19886 (edition and translation of Paris, BnF, gr. 929, pp. 479–83).",
       "language": "Spanish",
       "entry_type": "Translation"
     },

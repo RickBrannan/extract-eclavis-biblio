@@ -1,0 +1,50 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/papyrus-oxyrhynchus-5576/",
+  "nasscal_title": "Papyrus Oxyrhynchus 5576",
+  "filename": "papyrus-oxyrhynchus-5576",
+  "latin_title": "Papyrus Oxyrhynchus 5576",
+  "abbrev": "P. Oxy. 5576",
+  "clavis_number": 497,
+  "category": "Agrapha and Fragments",
+  "compiler": "[not available]",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Oxford, Art, Archaeology and Ancient World Library, P. Oxy. 5576 (3rd cent.)</p>",
+      "line_text": "Oxford, Art, Archaeology and Ancient World Library, P. Oxy. 5576 (3rd cent.)",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “5576. Gnostic Text” Pages 15–22in vol. 87 of <em>The Oxyrhynchus Papyri</em>. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 17–18; English translation, p. 18; image pl. II).</p>",
+      "line_text": "Chapa, Juan. “5576. Gnostic Text” Pages 15–22in vol. 87 of The Oxyrhynchus Papyri. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 17–18; English translation, p. 18; image pl. II).",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Chapa, Juan. “5576. Gnostic Text” Pages 15–22in vol. 87 of <em>The Oxyrhynchus Papyri</em>. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 17–18; English translation, p. 18; image pl. II).</p>",
+      "line_text": "Chapa, Juan. “5576. Gnostic Text” Pages 15–22in vol. 87 of The Oxyrhynchus Papyri. Edited by Peter J. Parsons and Nikolaos Gonis. London: Egypt Exploration Society, 2023 (transcription, pp. 17–18; English translation, p. 18; image pl. II).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.christiancentury.org/features/early-christianity-fragment-fragment\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Schrader Polczer, Elizabeth. “Early Christianity, fragment by fragment.” <em>Christian Century</em>. Posted 9 April 2024. Online: https://www.christiancentury.org/features/early-christianity-fragment-fragment.</p>",
+      "line_text": "Schrader Polczer, Elizabeth. “Early Christianity, fragment by fragment.” Christian Century. Posted 9 April 2024. Online: https://www.christiancentury.org/features/early-christianity-fragment-fragment.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.christiancentury.org/features/early-christianity-fragment-fragment"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -6,8 +6,29 @@
   "abbrev": "Dorm. Vir. Jos.",
   "clavis_number": 119,
   "category": "Dormition Accounts",
-  "compiler": "[not available]",
+  "compiler": "Tony Burke, York University.",
   "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 4363 (13th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.4363\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "A  Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 4363 (13th cent.) ~ BAV",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.4363"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Milan, Biblioteca Ambrosiana, O 35 sup., fols. 99<sup>r</sup>–103<sup>r</sup> (14th cent.)</p>",
+      "line_text": "B  Milan, Biblioteca Ambrosiana, O 35 sup., fols. 99r–103r (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Florence, Biblioteca Medicea, Laurenziana, Gaddi 208 (14th cent.)</p>",
+      "line_text": "C  Florence, Biblioteca Medicea, Laurenziana, Gaddi 208 (14th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-19105/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 45<sup>r</sup>–51<sup>v</sup> (7th/8th cent.)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 19105, fols. 45r–51v (7th/8th cent.)",
@@ -18,8 +39,8 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Bibliothèque nationale de France, lat. 5327, fols. 73<sup>r</sup>–80<sup>r</sup> (10th cent.)</p>",
-      "line_text": "Bibliothèque nationale de France, lat. 5327, fols. 73r–80r (10th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Paris, Bibliothèque nationale de France, lat. 5327, fols. 73<sup>r</sup>–80<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, lat. 5327, fols. 73r–80r (10th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -27,14 +48,107 @@
       ]
     },
     {
+      "line_html": "<p>de Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956<sup>1</sup>, 1979<sup>3</sup>, 1988<sup>6</sup> (Greek text with Spanish translation, 1st ed., pp. 687–700; 2nd ed., pp. 647–59; 6th ed., pp. 641–53).</p>",
+      "line_text": "de Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 19561, 19793, 19886 (Greek text with Spanish translation, 1st ed., pp. 687–700; 2nd ed., pp. 647–59; 6th ed., pp. 641–53).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocalypsesapocr02tiscuoft/page/112/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tischendorf, Constantin. <em>Apocalypses Apocryphae</em>. Leipzig, 1866; Repr., Hildesheim: Georg Olms, 1966 (<em>editio princeps</em> based on ABC, pp. 113–23).</p>",
+      "line_text": "Tischendorf, Constantin. Apocalypses Apocryphae. Leipzig, 1866; Repr., Hildesheim: Georg Olms, 1966 (editio princeps based on ABC, pp. 113–23).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/apocalypsesapocr02tiscuoft/page/112/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n241/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary of Tischendorf’s edition, pp. 216–18).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary of Tischendorf’s edition, pp. 216–18).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n241/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphalgospe00walkgoog/page/514/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Walker, Alexander. <em>Apocryphal Gospels, Acts and Revelations</em>. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of <em>The</em> <em>Ante-Nicene Christian Library</em>. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s A text, pp. 515–21).</p>",
+      "line_text": "Walker, Alexander. Apocryphal Gospels, Acts and Revelations. Edinburgh: T. &amp; T. Clark, 1873. Repr. as vol. 16 of The Ante-Nicene Christian Library. Edited by Alexander Roberts and James Donaldson. 24 vols. Edinburgh: T. &amp; T. Clark, 1867–1883 (translation of Tischendorf’s A text, pp. 515–21).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphalgospe00walkgoog/page/514/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (pp. 529–33).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (pp. 529–33).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>de Santos Otero, Aurelio. <em>Los Evangelios Apócrifos</em>. Madrid: Biblioteca de Autores Christianos, 1956<sup>1</sup>, 1979<sup>3</sup>, 1988<sup>6</sup> (1st ed., pp. 687–700; 2nd ed., pp. 647–59; 6th ed., pp. 641–53).</p>",
+      "line_text": "de Santos Otero, Aurelio. Los Evangelios Apócrifos. Madrid: Biblioteca de Autores Christianos, 19561, 19793, 19886 (1st ed., pp. 687–700; 2nd ed., pp. 647–59; 6th ed., pp. 641–53).",
+      "language": "Spanish",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les textes litteraires sur l’Assomption avant le X<sup>e  </sup>siècle.” Pages 265–85 in <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.</p>",
+      "line_text": "Esbroeck, Michel van. “Les textes litteraires sur l’Assomption avant le Xe  siècle.” Pages 265–85 in Les actes apocryphes des apôtres. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McNamara, Martin. “Transitus Mariae: General Introduction.” Pages 225–44 in <em>Apocrypha Hiberniae II. Apocalyptica 2.</em> Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019.</p>",
+      "line_text": "McNamara, Martin. “Transitus Mariae: General Introduction.” Pages 225–44 in Apocrypha Hiberniae II. Apocalyptica 2. Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=iPiR0YOnWFkC&amp;pg=PA214&amp;lpg=PA214&amp;dq=Le+Saint-Macaire+488+(Hag.+75)&amp;source=bl&amp;ots=tCbqKUbyqv&amp;sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&amp;q=Le%20Saint-Macaire%20488%20(Hag.%2075)&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mimouni, Simon. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995.</p>",
+      "line_text": "Mimouni, Simon. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (pp. 166–67).</p>",
+      "line_text": "__________. Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (pp. 166–67).",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YuQTDAAAQBAJ&amp;pg=PA36&amp;lpg=PA36&amp;dq=assumption+melito&amp;source=bl&amp;ots=LG3w97lJwh&amp;sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&amp;q=assumption%20melito&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=YuQTDAAAQBAJ&pg=PA36&lpg=PA36&dq=assumption+melito&source=bl&ots=LG3w97lJwh&sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&hl=en&sa=X&ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&q=assumption%20melito&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. <em>Mary in Early Christian Faith and Devotion.</em> New Haven: Yale University Press, 2016.</p>",
+      "line_text": "__________. Mary in Early Christian Faith and Devotion. New Haven: Yale University Press, 2016.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955.</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
       "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
-      "language": "English",
+      "language": "Dormition Narratives",
       "entry_type": "Other"
     },
     {
       "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
-      "language": "English",
+      "language": "Dormition Narratives",
       "entry_type": "Other"
     }
   ]

@@ -3,17 +3,18 @@
   "nasscal_title": "Acts and Miracles of Mark",
   "filename": "acts-and-miracles-of-mark",
   "latin_title": "Acta et miracula Marci evangelistae",
-  "abbrev": "Acts Mark",
+  "abbrev": "Acts Mir. Mark",
   "clavis_number": 874,
   "category": "Apocryphal Acts",
   "compiler": "Tony Burke, York University",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Stauronikēta, 18, fols. 179<sup>v</sup>–189<sup>r</sup> (13th cent.) ~ <a href=\"https://repository.mountathos.org/jspui/handle/20.500.11957/129326\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
-      "line_text": "Mount Athos, Monē Stauronikēta, 18, fols. 179v–189r (13th cent.) ~ IMAGES",
+      "line_html": "<p style=\"padding-left: 30px;\">Mount Athos, Monē Stauronikēta, 18, fols. 175<sup>v</sup>–189<sup>r</sup> (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/30079/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://repository.mountathos.org/jspui/handle/20.500.11957/129326\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Mount Athos, Monē Stauronikēta, 18, fols. 175v–189r (13th cent.) ~ Pinakes; IMAGES",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/30079/",
         "https://repository.mountathos.org/jspui/handle/20.500.11957/129326"
       ]
     },
@@ -22,6 +23,12 @@
       "line_text": "Halkin, François. “Actes inédits de saint Marc.” AnBoll 87 (1969): 343–71. Reprinted in Études d’épigraphie grecque et d’hagiographie byzantine. London: Variorum, 1973.",
       "language": "Greek",
       "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (chaps. 1–8, pp. 199–204).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (chaps. 1–8, pp. 199–204).",
+      "language": "English",
+      "entry_type": "Translation"
     },
     {
       "line_html": "<p><a href=\"http://www.mythicistpapers.com/2012/10/02/translation/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>House, Mark A. “The Acts of Mark: Translation, Chps. 1–5.” <em>Mythicist Papers: Resources for the Study of Christian Origins.</em> Posted October 2012. Online: http://www.mythicistpapers.com/2012/10/02/translation/.</p>",
@@ -35,6 +42,12 @@
     {
       "line_html": "<p>Deun, Peter van, and Jacques Noret, eds. <em>Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho.</em> CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993 (discussion p. 76).</p>",
       "line_text": "Deun, Peter van, and Jacques Noret, eds. Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993 (discussion p. 76).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 69–84).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 69–84).",
       "language": "English",
       "entry_type": "Other"
     },

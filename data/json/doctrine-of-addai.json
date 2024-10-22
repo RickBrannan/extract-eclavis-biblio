@@ -256,6 +256,15 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-universite-saint-joseph-bibliotheque-orientale-2-164/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Université Saint-Joseph, Bibliothèque orientale, 2/164, fols. 9<sup>r</sup>–14<sup>v</sup> (20th cent.)</p>",
+      "line_text": "Beirut, Université Saint-Joseph, Bibliothèque orientale, 2/164, fols. 9r–14v (20th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-universite-saint-joseph-bibliotheque-orientale-2-164/"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-93/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge Mass., Harvard Houghton Library, Syr. 93, fol. 58<sup>r</sup> (ca. 700) ~ fragment</p>",
       "line_text": "Cambridge Mass., Harvard Houghton Library, Syr. 93, fol. 58r (ca. 700) ~ fragment",
       "language": "Syriac",
@@ -283,8 +292,8 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Monastery of Saint Mark, 247, fols. 185r–18v (17th cent.) ~ Garshuni; <a href=\"https://w3id.org/vhmml/readingRoom/view/126862\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
-      "line_text": "Jerusalem, Monastery of Saint Mark, 247, fols. 185r–18v (17th cent.) ~ Garshuni; HMML",
+      "line_html": "<p style=\"padding-left: 30px;\">Jerusalem, Monastery of Saint Mark, 247, fols. 185<sup>v</sup>–18<sup>v</sup> (17th cent.) ~ Garshuni; <a href=\"https://w3id.org/vhmml/readingRoom/view/126862\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Jerusalem, Monastery of Saint Mark, 247, fols. 185v–18v (17th cent.) ~ Garshuni; HMML",
       "language": "Syriac",
       "entry_type": "Manuscript",
       "other_urls": [
@@ -319,8 +328,8 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Midyat, Dayro d-Mor Gabriel, 17 (somewhere between fols. 81r-88r) (20th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/122827\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
-      "line_text": "Midyat, Dayro d-Mor Gabriel, 17 (somewhere between fols. 81r-88r) (20th cent.) ~ HMML",
+      "line_html": "<p style=\"padding-left: 30px;\">Midyat, Dayro d-Mor Gabriel, 17 (somewhere between fols. 81<sup>r </sup>–88<sup>r</sup>) (20th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/122827\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Midyat, Dayro d-Mor Gabriel, 17 (somewhere between fols. 81r –88r) (20th cent.) ~ HMML",
       "language": "Syriac",
       "entry_type": "Manuscript",
       "other_urls": [
@@ -382,20 +391,20 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14531, fols. 109–116v</p>",
-      "line_text": "London, British Library, Add. 14531, fols. 109–116v",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14531, fols. 109<sup>r</sup>–116<sup>v</sup></p>",
+      "line_text": "London, British Library, Add. 14531, fols. 109r–116v",
       "language": "Syriac",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 12161, f. 1v (fgt)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 12161, f. 1<sup>v</sup> (fgt)</p>",
       "line_text": "London, British Library, Add. 12161, f. 1v (fgt)",
       "language": "Syriac",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14612, f. 165r (fgt)</p>",
-      "line_text": "London, British Library, Add. 14612, f. 165r (fgt)",
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 14612, f. 165<sup>r </sup> (fgt)</p>",
+      "line_text": "London, British Library, Add. 14612, f. 165r  (fgt)",
       "language": "Syriac",
       "entry_type": "Manuscript"
     },
@@ -754,8 +763,8 @@
       "entry_type": "General Studies"
     },
     {
-      "line_html": "<p>Saint-Laurent, Jeanne-Nicole. <em>Missionary Stories and the Formation of the Syriac Churches</em>. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.</p>",
-      "line_text": "Saint-Laurent, Jeanne-Nicole. Missionary Stories and the Formation of the Syriac Churches. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015.",
+      "line_html": "<p>Saint-Laurent, Jeanne-Nicole. <em>Missionary Stories and the Formation of the Syriac Churches</em>. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015 (pp. 36–55).</p>",
+      "line_text": "Saint-Laurent, Jeanne-Nicole. Missionary Stories and the Formation of the Syriac Churches. Transformation of the Classical Heritage 55. Oakland, California: University of California Press, 2015 (pp. 36–55).",
       "language": "English",
       "entry_type": "General Studies"
     },

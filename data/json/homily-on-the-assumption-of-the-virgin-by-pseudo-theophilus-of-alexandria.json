@@ -1,0 +1,72 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-assumption-of-the-virgin-by-pseudo-theophilus-of-alexandria/",
+  "nasscal_title": "Homily on the Assumption of the Virgin, by Pseudo-Theophilus of Alexandria",
+  "filename": "homily-on-the-assumption-of-the-virgin-by-pseudo-theophilus-of-alexandria",
+  "latin_title": "Homilia de assumptione Mariae Virginis Theophilo Alexandrino adscripta",
+  "abbrev": "Hom. Assum. Vir.",
+  "alt_titles": [
+    "Homily on the Assumption of the Virgin"
+  ],
+  "clavis_number": 158,
+  "category": "Dormition Accounts",
+  "compiler": "[not available]",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, 6780 (Freer 2), pp. 60–96 (974) ~ <a href=\"https://atlas.paths-erc.eu/manuscripts/186\" target=\"_blank\" rel=\"noopener\">PAThs</a></p>",
+      "line_text": "London, British Library, 6780 (Freer 2), pp. 60–96 (974) ~ PAThs",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/186"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, M600, fols. 1–64 (ca. 905/906) ~ MICH.AP; <a href=\"https://atlas.paths-erc.eu/manuscripts/216\" target=\"_blank\" rel=\"noopener\">PAThs</a>; <a href=\"https://www.themorgan.org/manuscript/77342\" target=\"_blank\" rel=\"noopener\">Morgan</a></p>",
+      "line_text": "New York, Morgan Library and Museum, M600, fols. 1–64 (ca. 905/906) ~ MICH.AP; PAThs; Morgan",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/216",
+        "https://www.themorgan.org/manuscript/77342"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-nt/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.NT, p. ?? (10/11th cent.)</p>",
+      "line_text": "MONB.NT, p. ?? (10/11th cent.)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-nt/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticmanuscript00coel/page/n303/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Worrell, William H. <i>The Coptic Manuscripts in the Freer Collection.</i> University of Michigan Studies Humanistic Series 10. New York: MacMillan, 1923 (edition, pp. 249–321; English translation, pp. 359–79).</p>",
+      "line_text": "Worrell, William H. The Coptic Manuscripts in the Freer Collection. University of Michigan Studies Humanistic Series 10. New York: MacMillan, 1923 (edition, pp. 249–321; English translation, pp. 359–79).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/copticmanuscript00coel/page/n303/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/copticmanuscript00coel/page/n303/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Worrell, William H. <i>The Coptic Manuscripts in the Freer Collection.</i> University of Michigan Studies Humanistic Series 10. New York: MacMillan, 1923 (edition, pp. 249–321; English translation, pp. 359–79).</p>",
+      "line_text": "Worrell, William H. The Coptic Manuscripts in the Freer Collection. University of Michigan Studies Humanistic Series 10. New York: MacMillan, 1923 (edition, pp. 249–321; English translation, pp. 359–79).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/copticmanuscript00coel/page/n303/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

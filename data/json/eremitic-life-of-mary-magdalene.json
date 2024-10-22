@@ -193,10 +193,13 @@
       ]
     },
     {
-      "line_html": "<p>Lobrichon, Guy. “Le dossier magdalénien aux XIe-XIIe siècles. Édition de trois pièces majeures.” <em>Mélanges de I’École française de Rome. Moyen Âge</em> 104 (1992): 163–80 (edition of Interpolated Version, pp. 177–80).</p>",
+      "line_html": "<p><a href=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lobrichon, Guy. “Le dossier magdalénien aux XIe-XIIe siècles. Édition de trois pièces majeures.” <em>Mélanges de I’École française de Rome. Moyen Âge</em> 104 (1992): 163–80 (edition of Interpolated Version, pp. 177–80).</p>",
       "line_text": "Lobrichon, Guy. “Le dossier magdalénien aux XIe-XIIe siècles. Édition de trois pièces majeures.” Mélanges de I’École française de Rome. Moyen Âge 104 (1992): 163–80 (edition of Interpolated Version, pp. 177–80).",
       "language": ".3 Interpolated Version",
-      "entry_type": "Edition"
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Göttweig, Benediktinerstift, Cod. 214 (175) fol. 69<sup>v</sup> (14th cent., Austria) ~ <a href=\"https://manuscripta.at/hs_detail.php?ID=36917\" target=\"_blank\" rel=\"noopener noreferrer\">Manuscripta</a></p>",
@@ -364,7 +367,7 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 5, fols. 26<sup>r</sup>–28<sup>r</sup> (ca. 1350)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aberystwyth-national-library-of-wales-peniarth-5/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aberystywth, National Library of Wales, Peniarth 5, fols. 26<sup>r</sup>–28<sup>r</sup> (ca. 1350)</p>",
       "line_text": "Aberystywth, National Library of Wales, Peniarth 5, fols. 26r–28r (ca. 1350)",
       "language": "Middle Welsh",
       "entry_type": "Manuscript",

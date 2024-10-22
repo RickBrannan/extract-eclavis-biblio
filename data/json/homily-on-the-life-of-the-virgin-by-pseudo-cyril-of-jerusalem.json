@@ -101,120 +101,12 @@
       ]
     },
     {
-      "line_html": "<p>MONB.DL (<a href=\"https://atlas.paths-erc.eu/manuscripts/341\" target=\"_blank\" rel=\"noopener noreferrer\">PAThs entry</a>):</p>",
-      "line_text": "MONB.DL (PAThs entry):",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-dl/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-10296 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2021/03/Materiae-apocryphorum-bullet.jpg?resize=75%2C25&amp;ssl=1\" alt=\"\" width=\"75\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.DL (10th/11th cent.) ~ see link for editions</p>",
+      "line_text": "MONB.DL (10th/11th cent.) ~ see link for editions",
       "language": "Coptic",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://atlas.paths-erc.eu/manuscripts/341"
-      ]
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 3–4: Oxford, Bodleian Library, Clarend. b 3 item 14, fol. 1</p>",
-      "line_text": "pp. 3–4: Oxford, Bodleian Library, Clarend. b 3 item 14, fol. 1",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 5–12: Vatican, Biblioteca Apostolica Vaticana, Borg. Copt. 109, cass. 25, fasc. 117, fols. 1–4</p>",
-      "line_text": "pp. 5–12: Vatican, Biblioteca Apostolica Vaticana, Borg. Copt. 109, cass. 25, fasc. 117, fols. 1–4",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 13–14: Oxford, Bodleian Library, Clarend. b 3 item 14, fol. 2</p>",
-      "line_text": "pp. 13–14: Oxford, Bodleian Library, Clarend. b 3 item 14, fol. 2",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 21–22: Vienna, Österreichische Nationalbibliothek, K 9781</p>",
-      "line_text": "pp. 21–22: Vienna, Österreichische Nationalbibliothek, K 9781",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 23–24: Cairo, Coptic Museum, 9274</p>",
-      "line_text": "pp. 23–24: Cairo, Coptic Museum, 9274",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 27–28: Paris, Bibliothèque nationale de France, Copte 131<sup>5</sup>, fol. 105</p>",
-      "line_text": "pp. 27–28: Paris, Bibliothèque nationale de France, Copte 1315, fol. 105",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 87–88: Paris, Bibliothèque nationale de France, Copte 129<sup>17</sup>, fol. 67</p>",
-      "line_text": "pp. 87–88: Paris, Bibliothèque nationale de France, Copte 12917, fol. 67",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 89–98: Paris, Bibliothèque nationale de France, Copte 129<sup>17</sup>, fols. 21–25</p>",
-      "line_text": "pp. 89–98: Paris, Bibliothèque nationale de France, Copte 12917, fols. 21–25",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 99–100: Paris, Bibliothèque nationale de France, Copte 131<sup>5</sup>,  fol. 66 + Cairo, IFAO, Copte 166</p>",
-      "line_text": "pp. 99–100: Paris, Bibliothèque nationale de France, Copte 1315,  fol. 66 + Cairo, IFAO, Copte 166",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. 110–111: Paris, Bibliothèque nationale de France, Copte 131<sup>7</sup>, fol. 15</p>",
-      "line_text": "pp. 110–111: Paris, Bibliothèque nationale de France, Copte 1317, fol. 15",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">pp. ?: Moscow, Puskin Museum, I.1.B0272(2)</p>",
-      "line_text": "pp. ?: Moscow, Puskin Museum, I.1.B0272(2)",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">may also contain:</p>",
-      "line_text": "may also contain:",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte 132<sup>1</sup>, fol. 19–21</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, Copte 1321, fol. 19–21",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Leiden, Rijksmuseum van Oudheden, 101</p>",
-      "line_text": "Leiden, Rijksmuseum van Oudheden, 101",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Copte 132<sup>2</sup>, fol. 47</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, Copte 1322, fol. 47",
-      "language": "Coptic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p><a href=\"https://archive.org/stream/apocryphescopte00rvgoog#page/n16/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Revillout, Eugène. A<em>pocryphes coptes du Nouveau Testament.</em> Vol. 1 : <em>Textes.</em> Études Égyptologiques 7. Paris: F. Vieweg, 1876 (e<em>ditio princeps</em> of Vatican, Borg. Copt. 109, cass. 25, fasc. 117, pp. 1–6).</p>",
-      "line_text": "Revillout, Eugène. Apocryphes coptes du Nouveau Testament. Vol. 1 : Textes. Études Égyptologiques 7. Paris: F. Vieweg, 1876 (editio princeps of Vatican, Borg. Copt. 109, cass. 25, fasc. 117, pp. 1–6).",
-      "language": "Coptic",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://archive.org/stream/apocryphescopte00rvgoog#page/n16/mode/2up"
-      ]
-    },
-    {
-      "line_html": "<p><a href=\"https://archive.org/details/copticapocrypha00robigoog/page/n8/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Robinson, Forbes. <em>Coptic Apocryphal Gospels.</em> <em>Translations Together with the Texts of Some of Them</em>. TS 4.2. Cambridge: Cambridge University Press, 1896 (introduction, pp. xxi–xxiii, text and English translation of portions of MONB.DL pp. 1–17).</p>",
-      "line_text": "Robinson, Forbes. Coptic Apocryphal Gospels. Translations Together with the Texts of Some of Them. TS 4.2. Cambridge: Cambridge University Press, 1896 (introduction, pp. xxi–xxiii, text and English translation of portions of MONB.DL pp. 1–17).",
-      "language": "Coptic",
-      "entry_type": "Edition",
-      "other_urls": [
-        "https://archive.org/details/copticapocrypha00robigoog/page/n8/mode/2up"
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-dl/"
       ]
     },
     {
@@ -242,14 +134,26 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Lantschoot, Arnold van. “L’Assumption de la Sainte Vierge chez les Coptes.” <em>Gregorianum</em> 27 (1946): 493–526 (see pp. 499–500).</p>",
+      "line_text": "Lantschoot, Arnold van. “L’Assumption de la Sainte Vierge chez les Coptes.” Gregorianum 27 (1946): 493–526 (see pp. 499–500).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Lucchesi, Enzo. “D’une Vie de Marie à une Homélie sur la Passion.” <em>AnBoll</em> 114 (1996): 269–72.</p>",
       "line_text": "Lucchesi, Enzo. “D’une Vie de Marie à une Homélie sur la Passion.” AnBoll 114 (1996): 269–72.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Lucchesi, Enzo. “Les sept Marie dans une homélie copte et l’origine du mälkɘ’ éthiopien.” <em>AnBoll </em>127 (2009): 9–15.</p>",
-      "line_text": "Lucchesi, Enzo. “Les sept Marie dans une homélie copte et l’origine du mälkɘ’ éthiopien.” AnBoll 127 (2009): 9–15.",
+      "line_html": "<p>__________. “Un Évangile apocryphe imaginaire.” <em>OLP</em> 28 (1997): 166–78 (p. 174).</p>",
+      "line_text": "__________. “Un Évangile apocryphe imaginaire.” OLP 28 (1997): 166–78 (p. 174).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Les sept Marie dans une homélie copte et l’origine du mälkɘ’ éthiopien.” <em>AnBoll </em>127 (2009): 9–15.</p>",
+      "line_text": "__________. “Les sept Marie dans une homélie copte et l’origine du mälkɘ’ éthiopien.” AnBoll 127 (2009): 9–15.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -263,8 +167,8 @@
       ]
     },
     {
-      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strausbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (pp. 71, 79).</p>",
-      "line_text": "Suciu, Alin. The Berlin-Strausbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (pp. 71, 79).",
+      "line_html": "<p>Suciu, Alin. <em>The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir</em>. WUNT 370. Tübingen: Mohr Siebeck, 2017 (pp. 71, 79).</p>",
+      "line_text": "Suciu, Alin. The Berlin-Strasbourg Apocryphon: A Coptic Apostolic Memoir. WUNT 370. Tübingen: Mohr Siebeck, 2017 (pp. 71, 79).",
       "language": "English",
       "entry_type": "Other"
     },

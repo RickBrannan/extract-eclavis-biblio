@@ -37,7 +37,7 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\">Beirut, Université Saint-Joseph, Bib. or. 626, fols. 58<sup>v</sup>–61<sup>v</sup> (19th cent.) ~ unverified (described as “Life of Clement”; <a href=\"https://w3id.org/vhmml/readingRoom/view/505016\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Beirut, Université Saint-Joseph, Bib. or. 626, fols. 58v–61v (19th cent.) ~ unverified (described as “Life of Clement”; IMAGES",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/505016"
@@ -46,13 +46,13 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fols. 188<sup>r</sup>–195<sup>v</sup> (1659)</p>",
       "line_text": "London, British Library, Add. 9965, fols. 188r–195v (1659)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mardin, Church of the Forty Martyrs, 311, fols. 126<sup>r</sup>–129<sup>v</sup> (undated) ~ <em>Epistle of Peter to Clemen</em>t only (<a href=\"https://w3id.org/vhmml/readingRoom/view/503661\" target=\"_blank\" rel=\"noopener\">IMAGES</a>)</p>",
       "line_text": "Mardin, Church of the Forty Martyrs, 311, fols. 126r–129v (undated) ~ Epistle of Peter to Clement only (IMAGES)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/503661"
@@ -61,22 +61,31 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mosul, Dominican Friars of Mosul, 404, fols. 33<sup>r</sup>–111<sup>r</sup> (18th cent.) ~ unevaluated (“theological discourses”) <a href=\"https://w3id.org/vhmml/readingRoom/view/134578\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
       "line_text": "Mosul, Dominican Friars of Mosul, 404, fols. 33r–111r (18th cent.) ~ unevaluated (“theological discourses”) IMAGES",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "other_urls": [
         "https://w3id.org/vhmml/readingRoom/view/134578"
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-397/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 397, fols. 172<sup>r</sup><strong>–</strong>181<sup>r</sup> (1333) ~ Homily III of Peter in Tripoli</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 397, fols. 172r–181r (1333) ~ Homily III of Peter in Tripoli",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-397/"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, pp. 1–35 (10th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, pp. 1–35 (10th cent.)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-150/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, arabe 150, fols. 290<sup>r</sup>–299<sup>v</sup> (1606) ~ <em>Epistle of Peter to Clemen</em>t only</p>",
       "line_text": "Paris, Bibliothèque nationale de France, arabe 150, fols. 290r–299v (1606) ~ Epistle of Peter to Clement only",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-arabe-150/"
@@ -85,7 +94,7 @@
     {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphasinait00gibsgoog\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gibson, Margaret Dunlop. <em>Apocrypha Sinaitica. </em>Studia Sinaitica 5. London: C. J. Clay and Sons, 1896 (Rec. text from Sinai, ar. 508, pp. 15–28 and translation pp. 14–27; from BL Add. 9965, text pp. 31–56, translation pp. 29–43).</p>",
       "line_text": "Gibson, Margaret Dunlop. Apocrypha Sinaitica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1896 (Rec. text from Sinai, ar. 508, pp. 15–28 and translation pp. 14–27; from BL Add. 9965, text pp. 31–56, translation pp. 29–43).",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Edition",
       "other_urls": [
         "https://archive.org/details/apocryphasinait00gibsgoog"
@@ -94,10 +103,19 @@
     {
       "line_html": "<p><a href=\"https://archive.org/details/GGrafGeschichte/graf_gcal.1/page/n323/mode/2up?view=theater\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"online-bullet\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Graf, Georg. <em>Geschichte der christlichen arabischen Literatur</em>. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts discussed, vol. 1, p. 283–92, 302–304).</p>",
       "line_text": "Graf, Georg. Geschichte der christlichen arabischen Literatur. 5 vols. Rome: Biblioteca Apostolica Vaticana, 1944 (manuscripts discussed, vol. 1, p. 283–92, 302–304).",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Edition",
       "other_urls": [
         "https://archive.org/details/GGrafGeschichte/graf_gcal.1/page/n323/mode/2up?view=theater"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 80<sup>r</sup>–90<sup>v</sup> (17th cent.) ~ <span class=\"\">Story of Faustus and his Son Clement</span></p>",
+      "line_text": "Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 80r–90v (17th cent.) ~ Story of Faustus and his Son Clement",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/"
       ]
     },
     {
@@ -138,15 +156,6 @@
       "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handscriftliche Überlieferung der altslavischen Apokryphen, vol. 1. Slavonic and East European Review 58 [1980]: 256–68 at 262–63 (with corrections to de Santos Otero).",
       "language": "Church Slavic",
       "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 80<sup>r</sup>–90<sup>v</sup> (17th cent.) ~ <span class=\"\">Story of Faustus and his Son Clement</span></p>",
-      "line_text": "Aleppo, Syriac-Orthodox Archdiocese, 52 K, fols. 80r–90v (17th cent.) ~ Story of Faustus and his Son Clement",
-      "language": "Garšūnī",
-      "entry_type": "Manuscript",
-      "manuscripta_apocryphorum_urls": [
-        "https://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-52-k/"
-      ]
     },
     {
       "line_html": "<p>Tarchnišvili, Michael. <em>Geschichte der kirchlichen georgischen Literatur</em>. StT 185. Vatican: Biblioteca Apostolica Vaticana, 1955 (pp. 134, 343, 481)</p>",
@@ -1068,19 +1077,19 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p><em>________. </em> “The Role of the Homilistic Disputes with Appion (Hom. 4-6).” <em>VC</em><br/>\n73 (2019): 54-88.</p>",
+      "line_html": "<p><em>________. </em> “The Role of the Homilistic Disputes with Appion (Hom. 4-6).” <em>VC </em>73 (2019): 54-88.</p>",
       "line_text": "________.  “The Role of the Homilistic Disputes with Appion (Hom. 4-6).” VC 73 (2019): 54-88.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p><em>________. </em> “The Disputes Between Appion and Clement in the Pseudo-<br/>\nClementine Homilies: A Narrative and Rhetorical Approach of the Structure of Hom. 6.” <em>AN</em> 16 (2020): 81-109.</p>",
-      "line_text": "________.  “The Disputes Between Appion and Clement in the Pseudo- Clementine Homilies: A Narrative and Rhetorical Approach of the Structure of Hom. 6.” AN 16 (2020): 81-109.",
+      "line_html": "<p><em>________. </em> “The Disputes Between Appion and Clement in the Pseudo-Clementine Homilies: A Narrative and Rhetorical Approach of the Structure of Hom. 6.” <em>AN</em> 16 (2020): 81-109.</p>",
+      "line_text": "________.  “The Disputes Between Appion and Clement in the Pseudo-Clementine Homilies: A Narrative and Rhetorical Approach of the Structure of Hom. 6.” AN 16 (2020): 81-109.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p><em>________. </em> “Achilles as an Allegorical Anti-Adam in the Pseudo-Clementine<br/>\nHomilies.” <em>GRBS</em> 61 (2021): 160-182.</p>",
+      "line_html": "<p><em>________. </em> “Achilles as an Allegorical Anti-Adam in the Pseudo-Clementine Homilies.” <em>GRBS</em> 61 (2021): 160-182.</p>",
       "line_text": "________.  “Achilles as an Allegorical Anti-Adam in the Pseudo-Clementine Homilies.” GRBS 61 (2021): 160-182.",
       "language": "English",
       "entry_type": "Other"
@@ -1146,7 +1155,7 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>________. <em>Novel Hermeneutics in the Greek Pseudo-Clementine Romance</em>. WUNT<br/>\n395. Tübingen: Mohr Siebeck, 2017.</p>",
+      "line_html": "<p>________. <em>Novel Hermeneutics in the Greek Pseudo-Clementine Romance</em>. WUNT 395. Tübingen: Mohr Siebeck, 2017.</p>",
       "line_text": "________. Novel Hermeneutics in the Greek Pseudo-Clementine Romance. WUNT 395. Tübingen: Mohr Siebeck, 2017.",
       "language": "English",
       "entry_type": "Other"

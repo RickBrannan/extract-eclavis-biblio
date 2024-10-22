@@ -739,10 +739,19 @@
       ]
     },
     {
-      "line_html": "<p>Wilmart, A. “L’ancien récit latin de l’Assomption.” Pages 357–62 in <em>Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican.</em> StT 59. Vatican City: Biblioteca Apostolica Vaticana, 1933.</p>",
-      "line_text": "Wilmart, A. “L’ancien récit latin de l’Assomption.” Pages 357–62 in Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican. StT 59. Vatican City: Biblioteca Apostolica Vaticana, 1933.",
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Santa Croce Pl. XV d. 12, fols. 19<sup>r</sup>–20<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Santa Croce Pl. XV d. 12, fols. 19r–20v (14th cent.)",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k1417742b/f363.item\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wilmart, André, ed. <em>Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican.</em> StT 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition, pp. 357–62)</p>",
+      "line_text": "Wilmart, André, ed. Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican. StT 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition, pp. 357–62)",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/bpt6k1417742b/f363.item"
+      ]
     },
     {
       "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (pp. 701–708).</p>",

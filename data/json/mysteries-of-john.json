@@ -60,8 +60,8 @@
       "entry_type": "Translation"
     },
     {
-      "line_html": "<p>Lundhaug, Hugo and Lloyd Abercrombie. “Mysteries of John.” Forthcoming in <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Volume 2. Edited by Tony Burke. Grand Rapids: Eerdmans (English translation based on fresh look at all available sources).</p>",
-      "line_text": "Lundhaug, Hugo and Lloyd Abercrombie. “Mysteries of John.” Forthcoming in New Testament Apocrypha: More Noncanonical Scriptures. Volume 2. Edited by Tony Burke. Grand Rapids: Eerdmans (English translation based on fresh look at all available sources).",
+      "line_html": "<p>Lundhaug, Hugo and Lloyd Abercrombie. “Mysteries of John.” Pages 481–98 in vol. 2 of <em>New Testament Apocrypha: More Noncanonical Scriptures</em>. Edited by Tony Burke. Grand Rapids: Eerdmans, 2020 (English translation based on fresh, autoptic look at manuscript and review of all available sources).</p>",
+      "line_text": "Lundhaug, Hugo and Lloyd Abercrombie. “Mysteries of John.” Pages 481–98 in vol. 2 of New Testament Apocrypha: More Noncanonical Scriptures. Edited by Tony Burke. Grand Rapids: Eerdmans, 2020 (English translation based on fresh, autoptic look at manuscript and review of all available sources).",
       "language": "English",
       "entry_type": "Translation"
     },
@@ -90,6 +90,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Kalchenko, Evgenia S. “‘Mysteries of John, the Apostle and Holy Virgin’: Reflection of Ancient Traditions in the Coptic Narrative.” <i>Vestnik drevney istorii (Journal of Ancient History) </i>81.4 (2021): 914–21.</p>",
+      "line_text": "Kalchenko, Evgenia S. “‘Mysteries of John, the Apostle and Holy Virgin’: Reflection of Ancient Traditions in the Coptic Narrative.” Vestnik drevney istorii (Journal of Ancient History) 81.4 (2021): 914–21.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Orlandi, Tito. “Gli Apocrifi copti.” <em>Augustinianum</em> 23 (1983): 57–71.</p>",
       "line_text": "Orlandi, Tito. “Gli Apocrifi copti.” Augustinianum 23 (1983): 57–71.",
       "language": "English",
@@ -102,8 +108,14 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Tripaldi, Daniele. “Edfu and the Oriens: On Re-discovering Ancient Egyptian Lore in Two Coptic Apocalypses.” <em>ZAC</em> 20.1 (2016): 127–46.</p>",
-      "line_text": "Tripaldi, Daniele. “Edfu and the Oriens: On Re-discovering Ancient Egyptian Lore in Two Coptic Apocalypses.” ZAC 20.1 (2016): 127–46.",
+      "line_html": "<p>Tripaldi, Daniele. “Apostles, Long Dead ‘Heretics,’ and Monks: Noncanonical Traditions on Angels and Protoplasts in Two Late Antique Coptic Apocalypses (7th-8th Century CE).” Pages 179–205 in <i>Apocryphal and Esoteric Sources in the Development of Christianity and Judaism: The Eastern Mediterranean, the Near East and Beyond</i>. Texts and Studies in Eastern Christianity 21. Edited by Igor Dorfmann-Lazarev. Leiden: Brill, 2021.</p>",
+      "line_text": "Tripaldi, Daniele. “Apostles, Long Dead ‘Heretics,’ and Monks: Noncanonical Traditions on Angels and Protoplasts in Two Late Antique Coptic Apocalypses (7th-8th Century CE).” Pages 179–205 in Apocryphal and Esoteric Sources in the Development of Christianity and Judaism: The Eastern Mediterranean, the Near East and Beyond. Texts and Studies in Eastern Christianity 21. Edited by Igor Dorfmann-Lazarev. Leiden: Brill, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Edfu and the Oriens: On Re-discovering Ancient Egyptian Lore in Two Coptic Apocalypses.” <em>ZAC</em> 20.1 (2016): 127–46.</p>",
+      "line_text": "__________. “Edfu and the Oriens: On Re-discovering Ancient Egyptian Lore in Two Coptic Apocalypses.” ZAC 20.1 (2016): 127–46.",
       "language": "English",
       "entry_type": "Other"
     },

@@ -32,12 +32,12 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, pp. 133–60 (1658) ~ <a href=\"https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">CATALOG</a></p>",
-      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, pp. 133–60 (1658) ~ CATALOG",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-624/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, fols. 67<sup>r</sup>–80<sup>v</sup> (1658)</p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, fols. 67r–80v (1658)",
       "language": "Arabic",
       "entry_type": "Manuscript",
-      "other_urls": [
-        "https://bo.usj.edu.lb/pdf/cheikho/Hagiologie.pdf"
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-624/"
       ]
     },
     {

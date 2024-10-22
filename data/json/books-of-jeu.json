@@ -9,10 +9,13 @@
   "compiler": ": Eric Crégheur, Université Laval",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, MS. Bruce 96, pp. 1–94 (4th/5th cent.)</p>",
-      "line_text": "Oxford, Bodleian Library, MS. Bruce 96, pp. 1–94 (4th/5th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, MS. Bruce 96, pp. 1–94 (4th/5th cent.) ~ <a href=\"https://digital.bodleian.ox.ac.uk/objects/32770258-9c24-4b1c-9b9d-79a66f8914cf/\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Oxford, Bodleian Library, MS. Bruce 96, pp. 1–94 (4th/5th cent.) ~ IMAGES",
       "language": "Coptic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digital.bodleian.ox.ac.uk/objects/32770258-9c24-4b1c-9b9d-79a66f8914cf/"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k56521172.texteImage\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Amélineau, Émile. “Notice sur le papyrus gnostique Bruce.” <em>Notice et extraits des manuscrits de la Bibliothèque Nationale</em> 29/1 (1891): 82–305.</p>",

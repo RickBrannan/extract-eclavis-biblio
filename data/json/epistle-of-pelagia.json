@@ -21,10 +21,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><strong>B </strong> Eritrea, Eritrea Parish Church, EMML 1479, fols. 94<sup>r</sup>–95<sup>v</sup> (1459/1460)</p>",
-      "line_text": "B  Eritrea, Eritrea Parish Church, EMML 1479, fols. 94r–95v (1459/1460)",
+      "line_html": "<p style=\"padding-left: 30px;\"><strong>B </strong> Ānsabā Region (Eritrea), Ṣa’edā Embā Śellāsē Monastery, EMML 1479, fols. 55<sup>v</sup>–59<sup>v</sup> (15th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/203311\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "B  Ānsabā Region (Eritrea), Ṣa’edā Embā Śellāsē Monastery, EMML 1479, fols. 55v–59v (15th cent.) ~ HMML",
       "language": "Ethiopic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/203311"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>C </strong> Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 97<sup>r</sup>–99<sup>v</sup> (14th/15th cent.)</p>",

@@ -90,6 +90,15 @@
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Goğğām Province, Dimā Giyorgis Monastery, G2-IV-25, fols. 133<sup>r</sup>–139<sup>r</sup> (14th/15th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/501904\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Goğğām Province, Dimā Giyorgis Monastery, G2-IV-25, fols. 133r–139r (14th/15th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/501904"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">Gubālāfto, Library of Qēs Haddis, EMML 1433, fols.  5<sup>r</sup>–12<sup>v</sup> (18th cent.)</p>",
       "line_text": "Gubālāfto, Library of Qēs Haddis, EMML 1433, fols.  5r–12v (18th cent.)",
       "language": "Ethiopic",

@@ -1,0 +1,329 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-galbius-and-candidus/",
+  "nasscal_title": "Legend of Galbius and Candidus",
+  "filename": "legend-of-galbius-and-candidus",
+  "latin_title": "Narratio de Galbio et Candido",
+  "abbrev": "Leg. Galb. Cand.",
+  "clavis_number": 945,
+  "category": "Dormition Accounts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1447, fols. 255-258 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51064/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723089k\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1447, fols. 255-258 (11th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51064/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723089k"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 402, fols. 73v-76r (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65645/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 402, fols. 73v-76r (11th/12th cent.) ~ Pinakes",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65645/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 317, fols. 36v-39r (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/66049/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Pal.gr.317\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Pal. gr. 317, fols. 36v-39r (11th cent.) ~ Pinakes; BAV",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/66049/",
+        "https://digi.vatlib.it/view/MSS_Pal.gr.317"
+      ]
+    },
+    {
+      "line_html": "<p>Loparev, Crisanf. “Staroe Svidetelstvo o Polozhenii rizy Bogorodnitsy vo Vlakherniakh.” <em>VizVrem</em> 2 (1895): 592–612 (edition with Russian translation).</p>",
+      "line_text": "Loparev, Crisanf. “Staroe Svidetelstvo o Polozhenii rizy Bogorodnitsy vo Vlakherniakh.” VizVrem 2 (1895): 592–612 (edition with Russian translation).",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p> </p>",
+      "line_text": " ",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p> </p>",
+      "line_text": " ",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>and Menoloion A</p>",
+      "line_text": "and Menoloion A",
+      "language": ".1 Long Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 491, fols. 252-258 (8th/9th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58866/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279382341-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 491, fols. 252-258 (8th/9th cent.) ~ Pinakes; LOC",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/58866/",
+        "https://www.loc.gov/item/00279382341-ms"
+      ]
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. “Note inédites sur les empereurs Théodose I, Arcadius, Théodose II, Léon I.” <i>Revue des études byzantines</i> 10 (1952): 47–59 (excerpts).</p>",
+      "line_text": "Wenger, Antoine. “Note inédites sur les empereurs Théodose I, Arcadius, Théodose II, Léon I.” Revue des études byzantines 10 (1952): 47–59 (excerpts).",
+      "language": ".2 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (long recension, pp. 294–302; short recension, pp. 306–10).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (long recension, pp. 294–302; short recension, pp. 306–10).",
+      "language": ".2 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Jerusalem, Patirar. 6 (9th/10th cent.)</p>",
+      "line_text": "Jerusalem, Patirar. 6 (9th/10th cent.)",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Paris, 1177 (10th cent.)</p>",
+      "line_text": "Paris, 1177 (10th cent.)",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Paris 1453</p>",
+      "line_text": "Paris 1453",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Marcian gr. 360</p>",
+      "line_text": "Marcian gr. 360",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bodl. Barroc. 199</p>",
+      "line_text": "Bodl. Barroc. 199",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Meteores Barlaam 137</p>",
+      "line_text": "Meteores Barlaam 137",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Laurent IX 17</p>",
+      "line_text": "Laurent IX 17",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Genes 35</p>",
+      "line_text": "Genes 35",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Athos, Laura 438 and 33</p>",
+      "line_text": "Athos, Laura 438 and 33",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Naples C 25</p>",
+      "line_text": "Naples C 25",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Berlin grec 277</p>",
+      "line_text": "Berlin grec 277",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>BAV gr. 1572</p>",
+      "line_text": "BAV gr. 1572",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Ottob gr. 12</p>",
+      "line_text": "Ottob gr. 12",
+      "language": ".1.1 Anonymous",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>MOnac gr. 146</p>",
+      "line_text": "MOnac gr. 146",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Vat gr. 829</p>",
+      "line_text": "Vat gr. 829",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Athos, Laura 455</p>",
+      "line_text": "Athos, Laura 455",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Athos, Dionysiou 169</p>",
+      "line_text": "Athos, Dionysiou 169",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Gregroious 7</p>",
+      "line_text": "Gregroious 7",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Xeropotamu 236</p>",
+      "line_text": "Xeropotamu 236",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Turin LXX c. III 13</p>",
+      "line_text": "Turin LXX c. III 13",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.de/books?id=ZExQAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Combefis, François. <em>Historia Haeresis Monothelitarum</em>. Bibliotheca Patrum Novum Auctuarium. Paris: Antonius Bertier, 1648 (text based on Paris, BNF 1177 with facing Latin translation, pp. 751–88).</p>",
+      "line_text": "Combefis, François. Historia Haeresis Monothelitarum. Bibliotheca Patrum Novum Auctuarium. Paris: Antonius Bertier, 1648 (text based on Paris, BNF 1177 with facing Latin translation, pp. 751–88).",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.de/books?id=ZExQAAAAcAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>two versions in Symeon Metaphrastes Life of the Virgin</p>",
+      "line_text": "two versions in Symeon Metaphrastes Life of the Virgin",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/latysev.-menologii-2/page/345/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Latyšev, Vasilij V. <em>Menologii anonymi byzantini saeculi X quae supersunt.</em> 2 vols. St. Petersburg: Tipografija Imperatorskoj Akademii Nauk, 1911–1912 (edition based on Moscow, Sinod. gr. 9, with readings from Sinod. gr. 160, and Sinod gr. 161, in vol. 2, pp. 345–82).</p>",
+      "line_text": "Latyšev, Vasilij V. Menologii anonymi byzantini saeculi X quae supersunt. 2 vols. St. Petersburg: Tipografija Imperatorskoj Akademii Nauk, 1911–1912 (edition based on Moscow, Sinod. gr. 9, with readings from Sinod. gr. 160, and Sinod gr. 161, in vol. 2, pp. 345–82).",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/latysev.-menologii-2/page/345/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Menologion A in Latsyev 2: 127-32</p>",
+      "line_text": "Menologion A in Latsyev 2: 127-32",
+      "language": ".1.2 Attributed to Theodore Syncellus",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.jstor.org/stable/44172674\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Cameron, Averil. “The Virgin’s Robe: An Episode in the History of Early Seventh-Century Constantinople.” <em>Byzantion</em> 49 (1979): 42–56 (translation of Loparev’s edition, pp. 48–56).</p>",
+      "line_text": "Cameron, Averil. “The Virgin’s Robe: An Episode in the History of Early Seventh-Century Constantinople.” Byzantion 49 (1979): 42–56 (translation of Loparev’s edition, pp. 48–56).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.jstor.org/stable/44172674"
+      ]
+    },
+    {
+      "line_html": "<p>Whitby, Michael. <em>Theodore Syncellus: The Homilies ‘On the Robe’ and ‘On the Siege.’</em> Translated Texts for Historians 86. Liverpool: Liverpool University Press, 2024 (annotated translation).</p>",
+      "line_text": "Whitby, Michael. Theodore Syncellus: The Homilies ‘On the Robe’ and ‘On the Siege.’ Translated Texts for Historians 86. Liverpool: Liverpool University Press, 2024 (annotated translation).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Baynes, Norman H. “The Finding of the Virgin’s Robe.” <em>Melanges Grégoire</em> (1949): 87–95.</p>",
+      "line_text": "Baynes, Norman H. “The Finding of the Virgin’s Robe.” Melanges Grégoire (1949): 87–95.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Cameron, Averil. “The Theotokos in Sixth-Century Constantinople: A City Finds Its Symbol.” <em>JTS</em> 29 (1978): 79–108.</p>",
+      "line_text": "Cameron, Averil. “The Theotokos in Sixth-Century Constantinople: A City Finds Its Symbol.” JTS 29 (1978): 79–108.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mango, Cyril A. “Constantinople as Theotokoupolis.” Pages 17–25 in <em>The Mother of God: Representations of the Virgin in Byzantine Art</em>. Edited by M. Vassilaki. Milan: Skira Editore, 2000.</p>",
+      "line_text": "Mango, Cyril A. “Constantinople as Theotokoupolis.” Pages 17–25 in The Mother of God: Representations of the Virgin in Byzantine Art. Edited by M. Vassilaki. Milan: Skira Editore, 2000.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><em>__________.</em> “The Origins of the Blachernae Shrine at Constantinople.” Pages in 61–76 in <em>Acta XIII Congressus Internationalis Archaeologicae Christianae II.</em> Edited by N. Cambi and E. Marin. Rome: Istituto di Archeologia Cristiana, 1998.</p>",
+      "line_text": "__________. “The Origins of the Blachernae Shrine at Constantinople.” Pages in 61–76 in Acta XIII Congressus Internationalis Archaeologicae Christianae II. Edited by N. Cambi and E. Marin. Rome: Istituto di Archeologia Cristiana, 1998.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simon C. <em>Dormition et assomption de Marie: Histoire des traditions anciennes.</em> Théologie Historique 98. Paris: Beauchesne, 1995 (pp. 604–17).</p>",
+      "line_text": "Mimouni, Simon C. Dormition et assomption de Marie: Histoire des traditions anciennes. Théologie Historique 98. Paris: Beauchesne, 1995 (pp. 604–17).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (pp. 71–74).</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002 (pp. 71–74).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/DOP62_03_Shoemaker\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a><em>__________.</em> “The Cult of Fashion: The Earliest ‘Life of the Virgin’ and Constantinople’s Marian Relics.” <em>DOP</em> 62 (2008): 53–74.</p>",
+      "line_text": "__________. “The Cult of Fashion: The Earliest ‘Life of the Virgin’ and Constantinople’s Marian Relics.” DOP 62 (2008): 53–74.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/DOP62_03_Shoemaker"
+      ]
+    },
+    {
+      "line_html": "<p>Viermann, Nadine. “Holy Objects on the Move. Relics in Constantinople between City Centre and Urban Periphery.” Pages 148–68 in <em>Lived Spaces in Late Antiquity.</em> Edited by Carlos Machado, Rowan Munnery, and Rebecca Sweetman. New York, NY: Routledge 2023.</p>",
+      "line_text": "Viermann, Nadine. “Holy Objects on the Move. Relics in Constantinople between City Centre and Urban Periphery.” Pages 148–68 in Lived Spaces in Late Antiquity. Edited by Carlos Machado, Rowan Munnery, and Rebecca Sweetman. New York, NY: Routledge 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (pp. 111–39).</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955 (pp. 111–39).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://grbs.library.duke.edu/index.php/grbs/article/download/271/351/1131\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wortley, John. “The Marian Relics at Constantinople.” <em>Greek, Roman and Byzantine Studies</em> 45 (2005): 171–87.</p>",
+      "line_text": "Wortley, John. “The Marian Relics at Constantinople.” Greek, Roman and Byzantine Studies 45 (2005): 171–87.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://grbs.library.duke.edu/index.php/grbs/article/download/271/351/1131"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

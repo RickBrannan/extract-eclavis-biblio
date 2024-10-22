@@ -1,0 +1,71 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-life-of-mary-irish/",
+  "nasscal_title": "Homily on the Life of Mary (Irish)",
+  "filename": "homily-on-the-life-of-mary-irish",
+  "latin_title": "Oratio de Vita Mariae (hibernica)",
+  "abbrev": "Hom. Life Mary",
+  "clavis_number": 858,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>K</strong>  Dublin, King’s Inns, 10, fols. 51–54 (15th cent.) ~ <a href=\"https://www.isos.dias.ie/KINGS/KINGS_MS_10.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "K  Dublin, King’s Inns, 10, fols. 51–54 (15th cent.) ~ IMAGES",
+      "language": ".1 Version A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.isos.dias.ie/KINGS/KINGS_MS_10.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>YBL </strong> Dublin, Trinity College, 1318 (olim H.2.16) (Yellow Book of Lecan), cols. 839.19–843.52 (14th cent.) ~ 1–11 only; <a href=\"https://www.isos.dias.ie/TCD/TCD_MS_1318.html\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "YBL  Dublin, Trinity College, 1318 (olim H.2.16) (Yellow Book of Lecan), cols. 839.19–843.52 (14th cent.) ~ 1–11 only; IMAGES",
+      "language": ".1 Version A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.isos.dias.ie/TCD/TCD_MS_1318.html"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Eg. </strong> London, British Library, Egerton 136, fol. 73 (1630) ~ 18–20 only</p>",
+      "line_text": "Eg.  London, British Library, Egerton 136, fol. 73 (1630) ~ 18–20 only",
+      "language": ".2 Version B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  Maynooth, National University of Ireland, R 73 (b), 276–284, 258 (18th cent.)</p>",
+      "line_text": "R  Maynooth, National University of Ireland, R 73 (b), 276–284, 258 (18th cent.)",
+      "language": ".2 Version B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Breatnach, Caoimhín. “An Irish Homily on the Life of the Virgin Mary.” <em>Ériu</em> 51 (2000): 23–58 (text and facing translation of K, pp. 28–49, text of version R, pp. 50–53; text of YBL, pp. 54–57; text of Eg., p. 58).</p>",
+      "line_text": "Breatnach, Caoimhín. “An Irish Homily on the Life of the Virgin Mary.” Ériu 51 (2000): 23–58 (text and facing translation of K, pp. 28–49, text of version R, pp. 50–53; text of YBL, pp. 54–57; text of Eg., p. 58).",
+      "language": ".2 Version B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Breatnach, Caoimhín. “An Irish Homily on the Life of the Virgin Mary.” <em>Ériu</em> 51 (2000): 23–58 (text and facing translation of K, pp. 28–49).</p>",
+      "line_text": "Breatnach, Caoimhín. “An Irish Homily on the Life of the Virgin Mary.” Ériu 51 (2000): 23–58 (text and facing translation of K, pp. 28–49).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Breatnach, Caoimhín. “Udhacht Mhuire: Introduction, Edition, Translation, and Commentary.” Pages 247–53 in <em>Apocrypha Hiberniae II. Apocalyptica 2.</em> Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019 (pp. 252–62).</p>",
+      "line_text": "Breatnach, Caoimhín. “Udhacht Mhuire: Introduction, Edition, Translation, and Commentary.” Pages 247–53 in Apocrypha Hiberniae II. Apocalyptica 2. Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019 (pp. 252–62).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-heracleides/",
+  "nasscal_title": "Acts of Heracleides",
+  "filename": "acts-of-heracleides",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Acts Herac.",
+  "clavis_number": 102,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 769, fols. 184, 176<sup>v</sup>, 170<sup>r</sup>–175, 185<sup>r</sup>–192<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50353/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723790m\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 769, fols. 184, 176v, 170r–175, 185r–192v (13th/14th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50353/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723790m"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 979, fols. 371, 375<sup>r</sup>–378<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50570/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10721751q\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 979, fols. 371, 375r–378v (13th/14th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50570/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10721751q"
+      ]
+    },
+    {
+      "line_html": "<p>Halkin, François. “Les actes apocryphes de saint Héraclide de Chypre, disciple de l’apôtre Barnabé.” <em>AnBoll</em> 82 (1964): 133–69 (Greek text from the Paris manuscripts, pp. 139–68).</p>",
+      "line_text": "Halkin, François. “Les actes apocryphes de saint Héraclide de Chypre, disciple de l’apôtre Barnabé.” AnBoll 82 (1964): 133–69 (Greek text from the Paris manuscripts, pp. 139–68).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Arm. 117 (1307)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Arm. 117 (1307)",
+      "language": "Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les Actes arméniens de saint Héraclide de Chypre.” <em>AnBoll </em>103 (1985): 115–62 (edition with facing French translation, pp. 128–62).</p>",
+      "line_text": "Esbroeck, Michel van. “Les Actes arméniens de saint Héraclide de Chypre.” AnBoll 103 (1985): 115–62 (edition with facing French translation, pp. 128–62).",
+      "language": "Armenian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pohlsander, Hans A., ed. <em>Sources for the History of Cyprus.</em> Vol. 7: <em>Greek Texts of the Fourth to Fifteenth Centuries.</em> Altamont, NY: Greece and Cyprus Research Center, 1999 (partial, pp. 35–38).</p>",
+      "line_text": "Pohlsander, Hans A., ed. Sources for the History of Cyprus. Vol. 7: Greek Texts of the Fourth to Fifteenth Centuries. Altamont, NY: Greece and Cyprus Research Center, 1999 (partial, pp. 35–38).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les Actes arméniens de saint Héraclide de Chypre.” <em>AnBoll </em>103 (1985): 115–62 (Armenian edition with facing French translation, pp. 128–62).</p>",
+      "line_text": "Esbroeck, Michel van. “Les Actes arméniens de saint Héraclide de Chypre.” AnBoll 103 (1985): 115–62 (Armenian edition with facing French translation, pp. 128–62).",
+      "language": "French",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_analecta-bollandiana_1907_26/page/n157/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delahaye, “Saints de Chypre.” <em> AnBoll</em> 26 (1907): 161–301 (see pp. 238–39).</p>",
+      "line_text": "Delahaye, “Saints de Chypre.”  AnBoll 26 (1907): 161–301 (see pp. 238–39).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_analecta-bollandiana_1907_26/page/n157/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (Life of Auxibius discussed, pp. 62–63).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (Life of Auxibius discussed, pp. 62–63).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Maraval, Pierre. <em>Lieux saints et pèlerinages d’Orient</em>. 2004. Repr. Paris: Cerf, 2011 (p. 360).</p>",
+      "line_text": "Maraval, Pierre. Lieux saints et pèlerinages d’Orient. 2004. Repr. Paris: Cerf, 2011 (p. 360).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch121907pari/page/124/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François. “La légende des saints évêques Héraclide, Mnason et Rhodon ou l’apostolicité de l’Église de Chypre.” <em>Revue de l’Orient Chrétien</em> 12 (1907): 125–38 (includes summary of the Greek text and edition of the letter from ch. 7, pp. 136–38).</p>",
+      "line_text": "Nau, François. “La légende des saints évêques Héraclide, Mnason et Rhodon ou l’apostolicité de l’Église de Chypre.” Revue de l’Orient Chrétien 12 (1907): 125–38 (includes summary of the Greek text and edition of the letter from ch. 7, pp. 136–38).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch121907pari/page/124/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias, with Mari Mamyan. “Paul and Barnabas to Herakleides (and Mnason): An Unknown Apocryphal Letter in the <em>Acts of Herakleides</em>.” Forthcoming.</p>",
+      "line_text": "Nicklas, Tobias, with Mari Mamyan. “Paul and Barnabas to Herakleides (and Mnason): An Unknown Apocryphal Letter in the Acts of Herakleides.” Forthcoming.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Noret, Jacques, ed. “Vita Sancti Auxibii.” Pages 139–202 in<em> Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho</em>. Edited by Peter Van Deun and Jaques Noret. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993 (see pp. 160–61 for parallels with <em>Acts Herac.</em>).</p>",
+      "line_text": "Noret, Jacques, ed. “Vita Sancti Auxibii.” Pages 139–202 in Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho. Edited by Peter Van Deun and Jaques Noret. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993 (see pp. 160–61 for parallels with Acts Herac.).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

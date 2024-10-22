@@ -1,0 +1,104 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-stephen-by-theodosius-of-jerusalem/",
+  "nasscal_title": "Homily on Stephen by Theodosius of Jerusalem",
+  "filename": "homily-on-stephen-by-theodosius-of-jerusalem",
+  "latin_title": "Encomium in sanctum Stephanum",
+  "abbrev": "Hom. Steph.",
+  "alt_titles": [
+    "Homily on Stephen"
+  ],
+  "clavis_number": 494,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/siud-aa/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>SIUD.AA, pp. 1–98 (?), 989/990 (see entry for editions)</p>",
+      "line_text": "SIUD.AA, pp. 1–98 (?), 989/990 (see entry for editions)",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/siud-aa/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 7029 (olim Or. 6806B), fragments A1–17 (10th cent.) ~ papyrus fragments from the binding that are now lost; may represent more than one text on Stephen</p>",
+      "line_text": "London, British Library, Or. 7029 (olim Or. 6806B), fragments A1–17 (10th cent.) ~ papyrus fragments from the binding that are now lost; may represent more than one text on Stephen",
+      "language": "Coptic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/catalogueofcopti0000brit/page/196/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Layton, Bentley. <em>Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906.</em> London: British Library, 1987 (description of British Library, Or. 7029, pp. 196–99).</p>",
+      "line_text": "Layton, Bentley. Catalogue of Coptic Literary Manuscripts in the British Library Acquired Since the Year 1906. London: British Library, 1987 (description of British Library, Or. 7029, pp. 196–99).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/catalogueofcopti0000brit/page/196/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.academia.edu/37528941/Thompson_Coptic_papers_I_Acts_of_Stephen_JCoptS_17_2015_pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Uljas, Sami. “Lost Coptic Texts from Herbert Thompson Papers I: The ‘Acts of Stephen.’” <em>JCoptS</em> 17 (2015): 165–213 (British Library Or. 7029 fragments from transcription by Herbert Thompson with English translations, pp. 176–206).</p>",
+      "line_text": "Uljas, Sami. “Lost Coptic Texts from Herbert Thompson Papers I: The ‘Acts of Stephen.’” JCoptS 17 (2015): 165–213 (British Library Or. 7029 fragments from transcription by Herbert Thompson with English translations, pp. 176–206).",
+      "language": "Coptic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.academia.edu/37528941/Thompson_Coptic_papers_I_Acts_of_Stephen_JCoptS_17_2015_pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.academia.edu/37528941/Thompson_Coptic_papers_I_Acts_of_Stephen_JCoptS_17_2015_pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Uljas, Sami. “Lost Coptic Texts from Herbert Thompson Papers I: The ‘Acts of Stephen.’” <em>JCoptS</em> 17 (2015): 165–213 (British Library Or. 7029 fragments from transcription by Herbert Thompson with English translations, pp. 176–206).</p>",
+      "line_text": "Uljas, Sami. “Lost Coptic Texts from Herbert Thompson Papers I: The ‘Acts of Stephen.’” JCoptS 17 (2015): 165–213 (British Library Or. 7029 fragments from transcription by Herbert Thompson with English translations, pp. 176–206).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.academia.edu/37528941/Thompson_Coptic_papers_I_Acts_of_Stephen_JCoptS_17_2015_pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Bovon, François. “The Dossier on Stephen, the First Martyr.” <em>HTR</em> 96.3 (2003): 279–315 (pp. 307–308).</p>",
+      "line_text": "Bovon, François. “The Dossier on Stephen, the First Martyr.” HTR 96.3 (2003): 279–315 (pp. 307–308).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Horn, Jürgen. “Der erste Märtyrer: Zu einem Topos der koptischen Märtyrerliteratur (mit zwei Anhängen).” Pages 31–55 in <em>Studen zur spätantiken und frühchristlichen Kunst und Kultur des Orients.</em> Edited by Guntram Koch. Wiesbaden: Harrassowitz, 1982.</p>",
+      "line_text": "Horn, Jürgen. “Der erste Märtyrer: Zu einem Topos der koptischen Märtyrerliteratur (mit zwei Anhängen).” Pages 31–55 in Studen zur spätantiken und frühchristlichen Kunst und Kultur des Orients. Edited by Guntram Koch. Wiesbaden: Harrassowitz, 1982.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 210–25, 290, 498–99).</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 210–25, 290, 498–99).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://alinsuciu.com/wp-content/uploads/2018/12/Suciu-2016f-The-Question-of-the-Authorship-of-the-Historia-Stephani.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “The Question of the Authoship of the <em>Historia Stephani Protomartyris</em> (BHO 1093; CANT 302; Clavis Coptica 0491): Theodosius of Jerusalem, Abba Isaiah, the Monk Romanus and Peter the Iberian.” <em>AnBoll</em> 134 (2016): 279–92.</p>",
+      "line_text": "Suciu, Alin. “The Question of the Authoship of the Historia Stephani Protomartyris (BHO 1093; CANT 302; Clavis Coptica 0491): Theodosius of Jerusalem, Abba Isaiah, the Monk Romanus and Peter the Iberian.” AnBoll 134 (2016): 279–92.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://alinsuciu.com/wp-content/uploads/2018/12/Suciu-2016f-The-Question-of-the-Authorship-of-the-Historia-Stephani.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.academia.edu/37528941/Thompson_Coptic_papers_I_Acts_of_Stephen_JCoptS_17_2015_pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Uljas, Sami. “Lost Coptic Texts from Herbert Thompson Papers I: The ‘Acts of Stephen.’” <em>JCoptS</em> 17 (2015): 165–213.</p>",
+      "line_text": "Uljas, Sami. “Lost Coptic Texts from Herbert Thompson Papers I: The ‘Acts of Stephen.’” JCoptS 17 (2015): 165–213.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.academia.edu/37528941/Thompson_Coptic_papers_I_Acts_of_Stephen_JCoptS_17_2015_pdf"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

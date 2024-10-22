@@ -1,0 +1,37 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/story-of-the-image-of-the-mother-of-god-in-romania/",
+  "nasscal_title": "Story of the Image of the Mother of God in Romania",
+  "filename": "story-of-the-image-of-the-mother-of-god-in-romania",
+  "latin_title": "Narratio de imagine Deiparae Romana",
+  "clavis_number": 989,
+  "compiler": "[not available]",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, grec 1474, fols. 237<sup>v</sup>–247<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51091/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107234965\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, grec 1474, fols. 237v–247r (11th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51091/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107234965"
+      ]
+    },
+    {
+      "line_html": "<p><u>E. von Dobschütz</u> in <i>Byzantinische Zeitschrift</i> 12 (1903), 193-206</p>",
+      "line_text": "E. von Dobschütz in Byzantinische Zeitschrift 12 (1903), 193-206",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

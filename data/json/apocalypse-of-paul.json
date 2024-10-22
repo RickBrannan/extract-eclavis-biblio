@@ -360,6 +360,15 @@
       "entry_type": "Edition"
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Baghdad, Chaldean Catholic Church, 291, pp. 91–238 (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/139317\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Baghdad, Chaldean Catholic Church, 291, pp. 91–238 (18th cent.) ~ HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/139317"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-59/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge (Mass.), Harvard Houghton Library, Syr. 59, fols. 117<sup>r</sup>–159<sup>r</sup> (1856)</p>",
       "line_text": "Cambridge (Mass.), Harvard Houghton Library, Syr. 59, fols. 117r–159r (1856)",
       "language": "Syriac",

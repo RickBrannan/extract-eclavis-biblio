@@ -7,6 +7,66 @@
   "compiler": "[not available]",
   "bibliography_entries": [
     {
+      "line_html": "<p> </p>",
+      "line_text": " ",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Although Tischendorf knew the text of the letter in two separate manuscripts (Vindobon.-Nessel 246 and Paris 1771)</p>",
+      "line_text": "Although Tischendorf knew the text of the letter in two separate manuscripts (Vindobon.-Nessel 246 and Paris 1771)",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>M.R. James in <em>Texts and Studies</em> 5 (1893), <a href=\"https://archive.org/stream/textsandstudies05unknuoft#page/n187/mode/1up\">78</a>-81, with an introduction on p.<a href=\"https://archive.org/stream/textsandstudies05unknuoft#page/n56/mode/1up\">xl</a>-l; these were reprinted with the same page numbers as <a href=\"https://books.google.co.uk/books?id=bTFLAwAAQBAJ&amp;pg=PR49&amp;lpg=PR49&amp;dq=%22letter+of+tiberius+to+pilate%22&amp;source=bl&amp;ots=ShX95ENEIk&amp;sig=4J4Rt7sir5tU-OudH6erkwMGtiQ&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiK-e7L-LzPAhWlBcAKHbrkAEEQ6AEIHjAH#v=onepage&amp;q=%22letter%20of%20tiberius%20to%20pilate%22&amp;f=false\"><em>Apocrypha Anecdota</em></a>.</p>",
+      "line_text": "M.R. James in Texts and Studies 5 (1893), 78-81, with an introduction on p.xl-l; these were reprinted with the same page numbers as Apocrypha Anecdota.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/textsandstudies05unknuoft#page/n187/mode/1up",
+        "https://archive.org/stream/textsandstudies05unknuoft#page/n56/mode/1up",
+        "https://books.google.co.uk/books?id=bTFLAwAAQBAJ&pg=PR49&lpg=PR49&dq=%22letter+of+tiberius+to+pilate%22&source=bl&ots=ShX95ENEIk&sig=4J4Rt7sir5tU-OudH6erkwMGtiQ&hl=en&sa=X&ved=0ahUKEwiK-e7L-LzPAhWlBcAKHbrkAEEQ6AEIHjAH#v=onepage&q=%22letter%20of%20tiberius%20to%20pilate%22&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>“Birch” is A. Birch, <em>Auctarium Codicis Apocryphi N. T. Fabricani</em>, Fasc. i, Havniae (1804), p.172; and the text is printed from Codex Vindobonensis 246.  “Fleck” is F.F. Fleck, <em>Wissenschaftliche Reise</em>, Band ii, Abth. ii, Leipzig (1837), p.145; and he prints the text from Codex Taurinensis Regius Graecus C. ii. 5 (no. cccii).</p>",
+      "line_text": "“Birch” is A. Birch, Auctarium Codicis Apocryphi N. T. Fabricani, Fasc. i, Havniae (1804), p.172; and the text is printed from Codex Vindobonensis 246.  “Fleck” is F.F. Fleck, Wissenschaftliche Reise, Band ii, Abth. ii, Leipzig (1837), p.145; and he prints the text from Codex Taurinensis Regius Graecus C. ii. 5 (no. cccii).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Andreas Birch, Auctarium Codicis Apocryphi N. T. Fabriciani<br/><a href=\"https://books.google.com/books?id=kZpDAAAAcAAJ\" rel=\"nofollow ugc\">https://books.google.com/books?id=kZpDAAAAcAAJ</a><br/>\nFerdinand Florens Fleck, Wissenschaftliche Reise, Band II, Abtheilung III<br/><a href=\"https://books.google.com/books?id=31UvAAAAYAAJ&amp;pg=PA141\" rel=\"nofollow ugc\">https://books.google.com/books?id=31UvAAAAYAAJ&amp;pg=PA141</a></p>",
+      "line_text": "Andreas Birch, Auctarium Codicis Apocryphi N. T. Fabricianihttps://books.google.com/books?id=kZpDAAAAcAAJ Ferdinand Florens Fleck, Wissenschaftliche Reise, Band II, Abtheilung IIIhttps://books.google.com/books?id=31UvAAAAYAAJ&amp;pg=PA141",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.com/books?id=kZpDAAAAcAAJ",
+        "https://books.google.com/books?id=31UvAAAAYAAJ&pg=PA141"
+      ]
+    },
+    {
+      "line_html": "<p>About the Turin manuscript I can confirm it was lost in the 1904 fire.</p>",
+      "line_text": "About the Turin manuscript I can confirm it was lost in the 1904 fire.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>M.R. James in his <em>Apocryphal New Testament</em> (1924), p.156-7.</p>",
+      "line_text": "M.R. James in his Apocryphal New Testament (1924), p.156-7.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bart Ehrman and Zlatko Plese,  <em>Apocryphal Gospels: Texts and Translations</em>, 2011, p.<a href=\"https://books.google.co.uk/books?id=QzxpAgAAQBAJ&amp;lpg=PA529&amp;dq=%22letter%20of%20tiberius%20to%20pilate%22&amp;pg=PA529#v=onepage&amp;q&amp;f=false\">529</a>.</p>",
+      "line_text": "Bart Ehrman and Zlatko Plese,  Apocryphal Gospels: Texts and Translations, 2011, p.529.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://books.google.co.uk/books?id=QzxpAgAAQBAJ&lpg=PA529&dq=%22letter%20of%20tiberius%20to%20pilate%22&pg=PA529#v=onepage&q&f=false"
+      ]
+    },
+    {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
       "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
       "language": "English",

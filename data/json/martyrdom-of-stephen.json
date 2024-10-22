@@ -1,0 +1,672 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-stephen/",
+  "nasscal_title": "Martyrdom of Stephen",
+  "filename": "martyrdom-of-stephen",
+  "latin_title": "Passio Stephani",
+  "abbrev": " Mart. Steph.",
+  "clavis_number": 735,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>Descriptions based on Labadie, <em>L’invention du protomartyr Étienne</em>, 495–504.</p>",
+      "line_text": "Descriptions based on Labadie, L’invention du protomartyr Étienne, 495–504.",
+      "language": "English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Iviron, 11 (10th cent.)</p>",
+      "line_text": "Mount Athos, Iviron, 11 (10th cent.)",
+      "language": ".1 Georgian A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, georg. 32, 57, 33 and N89 (=the <em>Sinai mravaltavi</em>) (864)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, georg. 32, 57, 33 and N89 (=the Sinai mravaltavi) (864)",
+      "language": ".1 Georgian A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tblisi, National Center of Manuscripts, A-19 (Tbeti <em>mravaltavi</em>) (10th cent.)</p>",
+      "line_text": "Tblisi, National Center of Manuscripts, A-19 (Tbeti mravaltavi) (10th cent.)",
+      "language": ".1 Georgian A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Imnaishvili, Ivane. <em>K‘art‘uli enis istoriuli k‘resomat‘ia</em>, 1. Tblisi: Gamomc’emloba “Ganat’leba,” 1970 (edition based on Tblisi A-19, pp. 244–47).</p>",
+      "line_text": "Imnaishvili, Ivane. K‘art‘uli enis istoriuli k‘resomat‘ia, 1. Tblisi: Gamomc’emloba “Ganat’leba,” 1970 (edition based on Tblisi A-19, pp. 244–47).",
+      "language": ".1 Georgian A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient19pariuoft/page/n673/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Marr, Nicholas. “Le synaxaire géorgien: <span class=\"aCOpRe\">Redaction ancienne de l’Union arméno-géorgienne<em>.</em></span>” <em>PO</em> 19 (1926): 629–742 (edition based on Iviron 11 with French translation, p. 657 [ending only]).</p>",
+      "line_text": "Marr, Nicholas. “Le synaxaire géorgien: Redaction ancienne de l’Union arméno-géorgienne.” PO 19 (1926): 629–742 (edition based on Iviron 11 with French translation, p. 657 [ending only]).",
+      "language": ".1 Georgian A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient19pariuoft/page/n673/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Shanidze, Akaki. <em>Sinuri Mravalthavi 864 clisa</em>. Tblisi: Tblisi Stalinis saxelobis saxelmcipo universitetis gamomcemlob, 1959 (edition based on the Sinai mravaltavi, pp. 58–62).</p>",
+      "line_text": "Shanidze, Akaki. Sinuri Mravalthavi 864 clisa. Tblisi: Tblisi Stalinis saxelobis saxelmcipo universitetis gamomcemlob, 1959 (edition based on the Sinai mravaltavi, pp. 58–62).",
+      "language": ".1 Georgian A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient19pariuoft/page/688/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Marr, Nicholas. “Le synaxaire géorgien: <span class=\"aCOpRe\">Redaction ancienne de l’Union arméno-géorgienne<em>.</em></span>” <em>PO</em> 19 (1926): 689–99 (edition and French translation).</p>",
+      "line_text": "Marr, Nicholas. “Le synaxaire géorgien: Redaction ancienne de l’Union arméno-géorgienne.” PO 19 (1926): 689–99 (edition and French translation).",
+      "language": ".2 Georgian B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient19pariuoft/page/688/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 171<sup>v</sup>–177<span class=\"a\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> </span> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3323/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 1027, fols. 171v–177r  (12th cent.) ~ Pinakes",
+      "language": ". Greek D",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/3323/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">El Escorial, Real Biblioteca, y. II. 6 (Andrés 314), fols. 275<sup>r</sup>–280<span class=\"a\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> </span> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15527/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "El Escorial, Real Biblioteca, y. II. 6 (Andrés 314), fols. 275r–280r  (12th cent.) ~ Pinakes",
+      "language": ". Greek D",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15527/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 18, fols. 397<sup>r</sup>–406<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34275/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279393612-jo\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 18, fols. 397r–406v (10th cent.) ~ Pinakes; LOC",
+      "language": ". Greek D",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/34275/",
+        "https://www.loc.gov/item/00279393612-jo"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofija, Cărkovno-istoričeski i archiven institut, 825, fols. 132<sup>r</sup>–143<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/61996/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Sofija, Cărkovno-istoričeski i archiven institut, 825, fols. 132r–143v (16th cent.) ~ Pinakes",
+      "language": ". Greek D",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/61996/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofija, Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev», D. gr. 60, folios not specified (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/62314/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Sofija, Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev», D. gr. 60, folios not specified (12th cent.) ~ Pinakes",
+      "language": ". Greek D",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/62314/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 387, fols. 164<sup>v</sup>–170<span class=\"a\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> </span> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65630/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 387, fols. 164v–170r  (11th/12th cent.) ~ Pinakes",
+      "language": ". Greek D",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65630/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Kosinitza, Theotokos Eikosiphoinissa Monastery, 28 (12th cent.) (see Ehrhard 2:88)</p>",
+      "line_text": "Kosinitza, Theotokos Eikosiphoinissa Monastery, 28 (12th cent.) (see Ehrhard 2:88)",
+      "language": ". Greek D",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Dolgov, S. “Revelatio Stephani.” <em>Trudy XV. Arheologiceskogo zjezda</em> 2 (1916): 22–53 (synoptic edition based on El Escorial, Real Biblioteca, y. II. 6 and Slavic A based on three sources, pp. 35–45).</p>",
+      "line_text": "Dolgov, S. “Revelatio Stephani.” Trudy XV. Arheologiceskogo zjezda 2 (1916): 22–53 (synoptic edition based on El Escorial, Real Biblioteca, y. II. 6 and Slavic A based on three sources, pp. 35–45).",
+      "language": ". Greek D",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Strus, Andrzej. “La Passione di santo Stefano in due manoscritti greci.” <em>Salesianum</em> 58 (1996): 21–61 (edition based on El Escorial, Real Biblioteca, y. II. 6 with facing translation, pp. 42–61).</p>",
+      "line_text": "Strus, Andrzej. “La Passione di santo Stefano in due manoscritti greci.” Salesianum 58 (1996): 21–61 (edition based on El Escorial, Real Biblioteca, y. II. 6 with facing translation, pp. 42–61).",
+      "language": ". Greek D",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteōra, Monē Metamorphōseōs, 563, fols. 90<sup>r</sup>–95<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41973/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteōra, Monē Metamorphōseōs, 563, fols. 90r–95v (11th cent.) ~ Pinakes",
+      "language": ".2 Greek E",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41973/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 132<sup>v</sup>–138<span class=\"a\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> </span> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42578/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 132v–138r  (14th cent.) ~ Pinakes",
+      "language": ".2 Greek E",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42578/"
+      ]
+    },
+    {
+      "line_html": "<p>Strus, Andrzej. “La Passione di santo Stefano in due manoscritti greci.” <em>Salesianum</em> 58 (1996): 21–61 (edition based on Milan D 107 sup. with facing translation, pp. 26–41).</p>",
+      "line_text": "Strus, Andrzej. “La Passione di santo Stefano in due manoscritti greci.” Salesianum 58 (1996): 21–61 (edition based on Milan D 107 sup. with facing translation, pp. 26–41).",
+      "language": ".2 Greek E",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Berger, Michel. “Un inédit italo-grec de la passion légendaire de Saint-Etienne: les peintures murales de l’église Santo Stefano a Spoleto, en Terre d’Otrante.” Pages  1377–88 in <em>La Chiesa greca in Italia dall’VIII al XVI secolo: </em><span class=\"subtitle\"><span dir=\"ltr\"><em>atti del Convegno storico interecclesiale (Bari, 30 apr.–4 magg. 1969).</em> 3 vols. Antenore, 1972–1973 </span></span>(discusses the Milan manuscript, pp. 1379–80).</p>",
+      "line_text": "Berger, Michel. “Un inédit italo-grec de la passion légendaire de Saint-Etienne: les peintures murales de l’église Santo Stefano a Spoleto, en Terre d’Otrante.” Pages  1377–88 in La Chiesa greca in Italia dall’VIII al XVI secolo: atti del Convegno storico interecclesiale (Bari, 30 apr.–4 magg. 1969). 3 vols. Antenore, 1972–1973 (discusses the Milan manuscript, pp. 1379–80).",
+      "language": ".2 Greek E",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">El Escorial, Real Biblioteca, Φ. III. 20 (Andrés 239), fols. 114<sup>r</sup>–132<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15193/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "El Escorial, Real Biblioteca, Φ. III. 20 (Andrés 239), fols. 114r–132v (11th cent.) ~ Pinakes",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15193/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 224, fols. 172<sup>v</sup>–183<span class=\"a\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span> </span> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/34480/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Hagiou Saba 224, fols. 172v–183r  (14th cent.) ~ Pinakes",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/34480/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Dionusiou, 169 (Lambros 3703), folios not specified (1599) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20137/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271050306-ma/\" target=\"_blank\" rel=\"noopener\">Athos</a></p>",
+      "line_text": "Mount Athos, Monē Dionusiou, 169 (Lambros 3703), folios not specified (1599) ~ Pinakes; Athos",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20137/",
+        "https://www.loc.gov/item/00271050306-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Grēgoriou, 7 (Lambros 554), fols. 470-? (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/21957/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://hdl.handle.net/20.500.11957/128675\" target=\"_blank\" rel=\"noopener\">Athos</a></p>",
+      "line_text": "Mount Athos, Monē Grēgoriou, 7 (Lambros 554), fols. 470-? (17th cent.) ~ Pinakes; Athos",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/21957/",
+        "http://hdl.handle.net/20.500.11957/128675"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Paris, Bibliothèque nationale de France, gr. 881, fols. 213<sup>r</sup>–222<sup>r</sup> (10th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 881, fols. 213r–222r (10th cent.)",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Paris, Bibliothèque nationale de France, gr. 1176, fols. 278<sup>r</sup>–285<sup>r</sup> (13th cent.)</p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1176, fols. 278r–285r (13th cent.)",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1451, fols. 127<sup>r</sup>–132<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51068/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100840657?rk=21459;2\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1451, fols. 127r–132v (11th cent.) ~ Pinakes; Gallica",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51068/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b100840657?rk=21459;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sinai, Mone tes Hagias Aikaterines, gr. 508, fols. 210<sup>v</sup>–227<sup>r</sup> (10th-12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58883/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279382365-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Sinai, Mone tes Hagias Aikaterines, gr. 508, fols. 210v–227r (10th-12th cent.) ~ Pinakes; LOC",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/58883/",
+        "https://www.loc.gov/item/00279382365-ms"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, hist. gr. 96, fols. 142<sup>r</sup>–147<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70973/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 96, fols. 142r–147v (14th cent.) ~ Pinakes",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70973/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wroclaw, Biblioteka Uniwersytecke we Wroclawiu, Rehdiger 26, folios not specified (13th/14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72188/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.bibliotekacyfrowa.pl/dlibra/publication/28451/edition/34782\" target=\"_blank\" rel=\"noopener\">images</a></p>",
+      "line_text": "Wroclaw, Biblioteka Uniwersytecke we Wroclawiu, Rehdiger 26, folios not specified (13th/14th cent.) ~ Pinakes; images",
+      "language": ".1 Greek A",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/72188/",
+        "https://www.bibliotekacyfrowa.pl/dlibra/publication/28451/edition/34782"
+      ]
+    },
+    {
+      "line_html": "<p>Doukakis, Konstantinos. <em>Μέγας</em> συναξαριστὴς. 12 vols. Athens: Kollaraki et Triantaphyllou, 1889–1896 (2nd ed. Athens: Orthodoxoi Xristianikai, 1948–1966) (edition based on unidentified sources, vol. 8, pp. 28–45).</p>",
+      "line_text": "Doukakis, Konstantinos. Μέγας συναξαριστὴς. 12 vols. Athens: Kollaraki et Triantaphyllou, 1889–1896 (2nd ed. Athens: Orthodoxoi Xristianikai, 1948–1966) (edition based on unidentified sources, vol. 8, pp. 28–45).",
+      "language": ".1 Greek A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnalektaHierosolymitiksStachiologiasHSyllogAnekdotnKaSpanin/page/n39/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Papadopoulos-Kerameus, Athanasios. Ἀνάλεκτα Ἱεροσολυμιτικῆς σταχυολογίας. 5 vols. St. Petersburg, 1891–1898 (edition based on Saba 224, vol. 5, pp. 28–53).</p>",
+      "line_text": "Papadopoulos-Kerameus, Athanasios. Ἀνάλεκτα Ἱεροσολυμιτικῆς σταχυολογίας. 5 vols. St. Petersburg, 1891–1898 (edition based on Saba 224, vol. 5, pp. 28–53).",
+      "language": ".1 Greek A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/AnalektaHierosolymitiksStachiologiasHSyllogAnekdotnKaSpanin/page/n39/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2048, fols. 54<sup>r</sup>–55<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68677/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2048\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2048, fols. 54r–55v (11th cent.) ~ Pinakes; BAV",
+      "language": ".2 Greek B",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68677/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.2048"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 111<sup>v</sup>–114<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68262/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1631, fols. 111v–114r (12th cent.) ~ Pinakes",
+      "language": ".2 Greek B",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68262/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fol. 190<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68702/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.2072\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2072, fol. 190v (11th cent.) ~ Pinakes; BAV",
+      "language": ".2 Greek B",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68702/",
+        "http://digi.vatlib.it/view/MSS_Vat.gr.2072"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1986, fols. 9<sup>r</sup>–12<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68615/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1986\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1986, fols. 9r–12v (10th cent.) ~ Pinakes; BAV",
+      "language": ".2 Greek B",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68615/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1986"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosana, D 92 sup. (Martini-Bassi 259, fols. 94<sup>v</sup>–96<sup>r</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42573/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosana, D 92 sup. (Martini-Bassi 259, fols. 94v–96r (10th/11th cent.) ~ Pinakes",
+      "language": ".2 Greek B",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42573/"
+      ]
+    },
+    {
+      "line_html": "<p>Strus, Andrzej. “Una haggada familiare sulla passione e morte di S. Stefano Protomartire.” <em>Salesianum</em> 60 (1998): 81–96 (edition and facing translation based on Vat. gr. 2048 and Vat. gr. 1631).</p>",
+      "line_text": "Strus, Andrzej. “Una haggada familiare sulla passione e morte di S. Stefano Protomartire.” Salesianum 60 (1998): 81–96 (edition and facing translation based on Vat. gr. 2048 and Vat. gr. 1631).",
+      "language": ".2 Greek B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Δ 83 (Eustratiades 459), fols. 190<sup>r</sup>–198<sup>r</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27394/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Δ 83 (Eustratiades 459), fols. 190r–198r (12th/13th cent.) ~ Pinakes",
+      "language": ".3 Greek C",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27394/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Λ 70 (Eustratiades 1560), fols. 166<sup>r</sup>–173<sup>r</sup> (1656) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/28581/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Λ 70 (Eustratiades 1560), fols. 166r–173r (1656) ~ Pinakes",
+      "language": ".3 Greek C",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/28581/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 679, fols. 187<sup>v</sup>–191<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67310/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 679, fols. 187v–191v (11th cent.) ~ Pinakes",
+      "language": ".3 Greek C",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/67310/"
+      ]
+    },
+    {
+      "line_html": "<p>Bovon, François, and Bertrand Bouvier. “Étienne le premier martyr: du livre canonique au récit apocryphe.” Pages 309–31 in <em>Die Apostelgeschichte und die hellenistische Geschichtsschreibung. Festschrift E. Plümacher. </em>Edited by Cilliers Breytenbach and Jens Schröter. Leiden: Brill, 2004 (edition and facing translation based on Vat. gr. 679, pp. 317–31).</p>",
+      "line_text": "Bovon, François, and Bertrand Bouvier. “Étienne le premier martyr: du livre canonique au récit apocryphe.” Pages 309–31 in Die Apostelgeschichte und die hellenistische Geschichtsschreibung. Festschrift E. Plümacher. Edited by Cilliers Breytenbach and Jens Schröter. Leiden: Brill, 2004 (edition and facing translation based on Vat. gr. 679, pp. 317–31).",
+      "language": ".3 Greek C",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 261<sup>r</sup>–264<sup>v</sup> (11th/12th cent.)</p>",
+      "line_text": "Rome, Biblioteca Angelica, gr. 108 (B 2.2), fols. 261r–264v (11th/12th cent.)",
+      "language": ".5 BHG 1649e",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Thessalonikē, Monē Blatadōn, 7 (44), fols. 76<sup>r</sup>–80<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/63142/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Thessalonikē, Monē Blatadōn, 7 (44), fols. 76r–80v (12th cent.) ~ Pinakes",
+      "language": ".6 BHG 1649f",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/63142/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Γ 87 (Eustratiades 327), fols. 7<sup>r</sup>–11<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27259/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Γ 87 (Eustratiades 327), fols. 7r–11v (11th cent.) ~ Pinakes",
+      "language": ".6 BHG 1649f",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27259/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Gjirokastër, Bibliothēkē tēs Mētropoleōs, 6, fols. 88<sup>r</sup>–90<sup>v</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/17276/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Gjirokastër, Bibliothēkē tēs Mētropoleōs, 6, fols. 88r–90v (17th cent.) ~ Pinakes",
+      "language": ".6 BHG 1649f",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/17276/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1179, fols. 106<sup>v</sup>–109<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50781/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1179, fols. 106v–109v (11th cent.) ~ Pinakes",
+      "language": ".7 BHG 1649g",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50781/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge, University Library, Dd.4.42, folios not specified (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/12155/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://cudl.lib.cam.ac.uk/view/MS-DD-00004-00042/1\" target=\"_blank\" rel=\"noopener\">images</a></p>",
+      "line_text": "Cambridge, University Library, Dd.4.42, folios not specified (13th cent.) ~ Pinakes; images",
+      "language": ".9 BHG 1649s",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/12155/",
+        "https://cudl.lib.cam.ac.uk/view/MS-DD-00004-00042/1"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 577, fols. 520–521 (15th/16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58952/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://beta.nli.org.il/en/manuscripts/NNL_ALEPH003871548/NLI\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 577, fols. 520–521 (15th/16th cent.) ~ Pinakes; LOC",
+      "language": ".9 BHG 1649s",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/58952/",
+        "http://beta.nli.org.il/en/manuscripts/NNL_ALEPH003871548/NLI"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 593, fols. 143–144 (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58968/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://beta.nli.org.il/en/manuscripts/NNL_ALEPH003871553/NLI\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 593, fols. 143–144 (14th cent.) ~ Pinakes; LOC",
+      "language": ".9 BHG 1649s",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/58968/",
+        "http://beta.nli.org.il/en/manuscripts/NNL_ALEPH003871553/NLI"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1571, fols. 130<sup>r</sup>–130<sup>v</sup> (1253) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51191/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10722753z\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1571, fols. 130r–130v (1253) ~ Pinakes; Gallica",
+      "language": ".9 BHG 1649s",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51191/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10722753z"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1592, fols. 116<sup>v</sup>–118<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51212/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1592, fols. 116v–118r (12th cent.) ~ Pinakes",
+      "language": ".9 BHG 1649s",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51212/"
+      ]
+    },
+    {
+      "line_html": "<p><em><a href=\"https://www.digitale-sammlungen.de/en/view/bsb11204488?page=292\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Menaea graecae ecclesiae</em>. Vol. 3.4: <em>December</em>. Venice: Spinellus, 1541 (Greek edition; unpaginated).</p>",
+      "line_text": "Menaea graecae ecclesiae. Vol. 3.4: December. Venice: Spinellus, 1541 (Greek edition; unpaginated).",
+      "language": ".10 Greek F",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.digitale-sammlungen.de/en/view/bsb11204488?page=292"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n111/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delehaye, Hippolyte. <em>Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis</em>. Brussels: Société des Bollandistes, 1902 (cols. 349–50).</p>",
+      "line_text": "Delehaye, Hippolyte. Synaxarium Ecclesiae Constantinopolitanae e códice Sirmondiano, nunc Berolinensi adiectis synaxariis selectis. Brussels: Société des Bollandistes, 1902 (cols. 349–50).",
+      "language": ".10 Greek F",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/DelehayeSynaxariumConstantinopolitanum/page/n111/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, 272, fols. 187<sup>r</sup>–187<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54516/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, 272, fols. 187r–187v (10th/11th cent.) ~ Pinakes",
+      "language": ".11 BHG 1649x",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/54516/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Lviv (16th/17th cent.)</p>",
+      "line_text": "Lviv (16th/17th cent.)",
+      "language": ".1 Slavic A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\"><span class=\"x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u\" dir=\"auto\">Zamość</span></span> (17th cent.)</p>",
+      "line_text": "Zamość (17th cent.)",
+      "language": ".1 Slavic A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sy. Petersberg, Imperial Public Library, ΙΕ 46, fols. 80–83 (12th cent.)</p>",
+      "line_text": "Sy. Petersberg, Imperial Public Library, ΙΕ 46, fols. 80–83 (12th cent.)",
+      "language": ".1 Slavic A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, State Historical Museum, A. I. Chludov 105, fols. 25–32 (15th cent.)</p>",
+      "line_text": "Moscow, State Historical Museum, A. I. Chludov 105, fols. 25–32 (15th cent.)",
+      "language": ".1 Slavic A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><span class=\"s1\">C</span>ommission impériale archéologique. <span class=\"s2\">Великія Минеи Четіи. Декабрь, </span>дни 25–31. Moscow: Синодальная Типография, 1912 (text identical to Lviv and Moscow manuscripts, pp. 2390–2400).</p>",
+      "line_text": "Commission impériale archéologique. Великія Минеи Четіи. Декабрь, дни 25–31. Moscow: Синодальная Типография, 1912 (text identical to Lviv and Moscow manuscripts, pp. 2390–2400).",
+      "language": ".1 Slavic A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Dolgov, S. “Revelatio Stephani.” <em>Trudy XV. Arheologiceskogo zjezda</em> 2 (1916): 22–53 (synoptic edition of Greek D and Slavic A based on St. Petersberg ΙΕ 46 with readings from Moscow Chludov 105 and the Makariev Menaeas, pp. 35–45).</p>",
+      "line_text": "Dolgov, S. “Revelatio Stephani.” Trudy XV. Arheologiceskogo zjezda 2 (1916): 22–53 (synoptic edition of Greek D and Slavic A based on St. Petersberg ΙΕ 46 with readings from Moscow Chludov 105 and the Makariev Menaeas, pp. 35–45).",
+      "language": ".1 Slavic A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://elib.nlu.org.ua/mobile/?fbclid=IwAR1PiMYW7PXarZ4wuBKoyMmoifQ_-3DAeglb1jNsyBEBMgA-75wQDVI3sEU#/view/7675\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Franko, Ivan. <em>Apokrifi î legendy z ukraïnsǐkich rukopisiv</em>. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (text from Zamostj, vol. 3, pp. 28–33; Lviv, pp. 256–59)</p>",
+      "line_text": "Franko, Ivan. Apokrifi î legendy z ukraïnsǐkich rukopisiv. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (text from Zamostj, vol. 3, pp. 28–33; Lviv, pp. 256–59)",
+      "language": ".1 Slavic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://elib.nlu.org.ua/mobile/?fbclid=IwAR1PiMYW7PXarZ4wuBKoyMmoifQ_-3DAeglb1jNsyBEBMgA-75wQDVI3sEU#/view/7675"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/zeitschriftfrdi02preugoog/page/n163/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Franko, Ivan. “Beitrage aus dem Kirchenslavischen zu den neutestamentlichen Apokryphen. III. Revelatio sancti Stephani.” <em>ZNW</em> 7 (1906): 151–71 (German translation of Slavic A, pp. 158–66).</p>",
+      "line_text": "Franko, Ivan. “Beitrage aus dem Kirchenslavischen zu den neutestamentlichen Apokryphen. III. Revelatio sancti Stephani.” ZNW 7 (1906): 151–71 (German translation of Slavic A, pp. 158–66).",
+      "language": ".1 Slavic A",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/zeitschriftfrdi02preugoog/page/n163/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"s1\">C</span>ommission impériale archéologique. <span class=\"s2\">Великія Минеи Четіи. Декабрь, </span>дни 25–31. Moscow: Синодальная Типография, 1912 (cols. 2422–26).</p>",
+      "line_text": "Commission impériale archéologique. Великія Минеи Четіи. Декабрь, дни 25–31. Moscow: Синодальная Типография, 1912 (cols. 2422–26).",
+      "language": ".2 Slavic B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"s1\">C</span>ommission impériale archéologique. <span class=\"s2\">Великія Минеи Четіи. Декабрь, </span>дни 25–31. Moscow: Синодальная Типография, 1912 (cols. 2427–28).</p>",
+      "line_text": "Commission impériale archéologique. Великія Минеи Четіи. Декабрь, дни 25–31. Moscow: Синодальная Типография, 1912 (cols. 2427–28).",
+      "language": ".3 Slavic C",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span class=\"s1\">C</span>ommission impériale archéologique. <span class=\"s2\">Великія Минеи Четіи. Декабрь, </span>дни 25–31. Moscow: Синодальная Типография, 1912 (cols. 2386–87).</p>",
+      "line_text": "Commission impériale archéologique. Великія Минеи Четіи. Декабрь, дни 25–31. Moscow: Синодальная Типография, 1912 (cols. 2386–87).",
+      "language": ".4 Slavic D",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/JAMESApocryphalNewTestament1924/page/n77/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>James, Montague Rhodes. <em>The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses</em>. Oxford: Clarendon, 1924; corrected edition, 1953 (summary of Church Slavic text edited by Franko, pp. 564–68).</p>",
+      "line_text": "James, Montague Rhodes. The Apocryphal New Testament: Being the Apocryphal Gospels, Acts, Epistles, and Apocalypses. Oxford: Clarendon, 1924; corrected edition, 1953 (summary of Church Slavic text edited by Franko, pp. 564–68).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/JAMESApocryphalNewTestament1924/page/n77/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Esbroeck, trans. “Jean II de Jerusalem et les cultes de s. Etienne, de la Sainte-Sion et  de la Croix.” <em>AnBoll</em> 102 (1984): 99–127 (translation of Georgian A, pp. 101–105).</p>",
+      "line_text": "Esbroeck, trans. “Jean II de Jerusalem et les cultes de s. Etienne, de la Sainte-Sion et  de la Croix.” AnBoll 102 (1984): 99–127 (translation of Georgian A, pp. 101–105).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (translations of Georgian A, pp. 463–70; Greek D and Church Slavic A, pp. 471–80).</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (translations of Georgian A, pp. 463–70; Greek D and Church Slavic A, pp. 471–80).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>L<span class=\"s1\">abadie</span>, Damien. “La Passion hagiopolite du protomartyr Étienne.” Pages 117–42 in <em>Culte des saints et littérature hagiographique: accords et désaccords.</em> Edited by Vincent D<span class=\"s1\">éroche</span>, Bryan W<span class=\"s1\">ard</span>-P<span class=\"s1\">erkins and</span> Robert <span class=\"s2\">W</span><span class=\"s3\">iśniewski.</span> Leuven: Peeters, 2020 (French translation based on Slavic B, pp. 138–42).</p>",
+      "line_text": "Labadie, Damien. “La Passion hagiopolite du protomartyr Étienne.” Pages 117–42 in Culte des saints et littérature hagiographique: accords et désaccords. Edited by Vincent Déroche, Bryan Ward-Perkins and Robert Wiśniewski. Leuven: Peeters, 2020 (French translation based on Slavic B, pp. 138–42).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Gordini, G. D., and M. Liverani. “Stefano, protomartire, santo.” Cols. 1378–80 in vol. 11 of <em>Bibliotheca sanctorum</em>. Rome, 1968 (Italian translation of Franko’s Slavic A).</p>",
+      "line_text": "Gordini, G. D., and M. Liverani. “Stefano, protomartire, santo.” Cols. 1378–80 in vol. 11 of Bibliotheca sanctorum. Rome, 1968 (Italian translation of Franko’s Slavic A).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (Italian translation of Franko’s Slavic A, vol. 3, pp. 400–404).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (Italian translation of Franko’s Slavic A, vol. 3, pp. 400–404).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bovon, François. “The Dossier on Stephen, the First Martyr.” <em>HTR</em> 96.3 (2003): 279–315.</p>",
+      "line_text": "Bovon, François. “The Dossier on Stephen, the First Martyr.” HTR 96.3 (2003): 279–315.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Clark, Elizabeth A. “Claims on the Bones of Saint Stephen: The Partisans of Melania and Eudocia.” <em>Church History</em> 51 (1982): 141–56.</p>",
+      "line_text": "Clark, Elizabeth A. “Claims on the Bones of Saint Stephen: The Partisans of Melania and Eudocia.” Church History 51 (1982): 141–56.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Delehaye, Hippolyte. “Les premiers ‘libelli miraculorum.’” <em>AnBoll</em> 29 (1920): 427–34.</p>",
+      "line_text": "Delehaye, Hippolyte. “Les premiers ‘libelli miraculorum.’” AnBoll 29 (1920): 427–34.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>__________. “Les receueils antiques de miracles des saints.” <em>AnBoll</em> 43 (1925): 5–85.</p>",
+      "line_text": "__________. “Les receueils antiques de miracles des saints.” AnBoll 43 (1925): 5–85.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hunt, E. D. “St. Stephen in Minorca: An Episode in Jewish-Christian Relations in the Early 5th Century A. D.” <em>JTS</em> n.s. 22 (1982): 106–23.</p>",
+      "line_text": "Hunt, E. D. “St. Stephen in Minorca: An Episode in Jewish-Christian Relations in the Early 5th Century A. D.” JTS n.s. 22 (1982): 106–23.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021.</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Leclercq, Henri. “Étienne (Martyre et sépulture de saint.” Pages 624–71 in <em>Dictionnaire d’archéologie chrétienne et de liturgie</em> 5.1. Paris: Letouzey &amp; Ané, 1922.</p>",
+      "line_text": "Leclercq, Henri. “Étienne (Martyre et sépulture de saint.” Pages 624–71 in Dictionnaire d’archéologie chrétienne et de liturgie 5.1. Paris: Letouzey &amp; Ané, 1922.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Méndez, Hugo. <em>The Cult of Stephen in Jerusalem: Inventing a Patron Martyr.</em> OECS. Oxford: Oxford University Press, 2022.</p>",
+      "line_text": "Méndez, Hugo. The Cult of Stephen in Jerusalem: Inventing a Patron Martyr. OECS. Oxford: Oxford University Press, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/revuedelorientch111906pari/page/198/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Nau, François-Nicolas. “Notes sur les mots politikos et politeuomenos et sur plusieurs textes grecs rélatifs à saint-Etienne.” <i>Revue de l’Orient chrétien</i> 11 (1906): 198–216.</p>",
+      "line_text": "Nau, François-Nicolas. “Notes sur les mots politikos et politeuomenos et sur plusieurs textes grecs rélatifs à saint-Etienne.” Revue de l’Orient chrétien 11 (1906): 198–216.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/revuedelorientch111906pari/page/198/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Strus, Andrzej. “L’origine de l’apocryphe grec de la passion de s. Étienne: A propos d’un texte de deux maniscrits récemment publiés.” <em>Ephemerides Liturgicae</em> 112 (1998): 18–57 (esp. 24–31)</p>",
+      "line_text": "Strus, Andrzej. “L’origine de l’apocryphe grec de la passion de s. Étienne: A propos d’un texte de deux maniscrits récemment publiés.” Ephemerides Liturgicae 112 (1998): 18–57 (esp. 24–31)",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

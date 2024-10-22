@@ -49,7 +49,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1179a/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>G</strong>  Paris, Bibliothèque nationale de France, gr. 1179A, fols. 2<sup>r</sup>–9<sup>v</sup> (11th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1179a/\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>G</strong>  Paris, Bibliothèque nationale de France, gr. 1179A, fols. 2<sup>r</sup>–9<sup>v</sup> (11th cent.)</p>",
       "line_text": "G  Paris, Bibliothèque nationale de France, gr. 1179A, fols. 2r–9v (11th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>H</strong>  Paris, Bibliothèque nationale de France, gr. 1219, fols. 11<sup>r</sup>–31<sup>v </sup>(11th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a><strong>H</strong>  Paris, Bibliothèque nationale de France, gr. 1219, fols. 11<sup>r</sup>–31<sup>v </sup>(11th cent.)</p>",
       "line_text": "H  Paris, Bibliothèque nationale de France, gr. 1219, fols. 11r–31v (11th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript",
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-ms-251/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 387–426 (1584–1585)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-ms-251/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 387–426 (1584–1585)</p>",
       "line_text": "New Haven, Beinecke Rare Book and Manuscript Library, MS 251, pp. 387–426 (1584–1585)",
       "language": "Greek",
       "entry_type": "Manuscript",
@@ -294,6 +294,18 @@
       "entry_type": "Edition"
     },
     {
+      "line_html": "<p>Cosby, Michael R. <em>Creation of History. The Transformation of Barnabas from Peacemaker to Warrior Saint</em>. 2nd ed. Eugene, OR: Cascade Books, 2021 (pp. 182–97).</p>",
+      "line_text": "Cosby, Michael R. Creation of History. The Transformation of Barnabas from Peacemaker to Warrior Saint. 2nd ed. Eugene, OR: Cascade Books, 2021 (pp. 182–97).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p>Pohlsander, Hans A., ed. <em>Sources for the History of Cyprus.</em> Vol. 7: <em>Greek Texts of the Fourth to Fifteenth Centuries.</em> Altamont, NY: Greece and Cyprus Research Center, 1999 (partial, pp. 51–53).</p>",
+      "line_text": "Pohlsander, Hans A., ed. Sources for the History of Cyprus. Vol. 7: Greek Texts of the Fourth to Fifteenth Centuries. Altamont, NY: Greece and Cyprus Research Center, 1999 (partial, pp. 51–53).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
       "line_html": "<p>Kollmann, Bernd, and Werner Deuse. <em>Laudatio Barnabae. Lobrede auf Barnabas</em>. Turnhout: Brepols, 2007 (reprint of van Deun’s edition with facing German translation, pp. 62–129).</p>",
       "line_text": "Kollmann, Bernd, and Werner Deuse. Laudatio Barnabae. Lobrede auf Barnabas. Turnhout: Brepols, 2007 (reprint of van Deun’s edition with facing German translation, pp. 62–129).",
       "language": "German",
@@ -309,14 +321,26 @@
       ]
     },
     {
+      "line_html": "<p>Cosby, M. R. <em>Creation of History. The Transformation of Barnabas from Peacemaker to Warrior Saint</em>. 2nd ed. Eugene, OR: Cascade Books, 2021 (pp. 87–100).</p>",
+      "line_text": "Cosby, M. R. Creation of History. The Transformation of Barnabas from Peacemaker to Warrior Saint. 2nd ed. Eugene, OR: Cascade Books, 2021 (pp. 87–100).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Delahaye, Hippolyte. “Sants de Chypre.” <em>AnBoll</em> 26 (1907): 161–301.</p>",
       "line_text": "Delahaye, Hippolyte. “Sants de Chypre.” AnBoll 26 (1907): 161–301.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Huffman, Joseph P. “The Donation of Zeno: St. Barnabas and the Origins of the Cypriot Archbishop’s Regalia Privileges.” <em>JEH</em> 66.2 (2015): 235–06 (esp. 238–39, 246–47).</p>",
-      "line_text": "Huffman, Joseph P. “The Donation of Zeno: St. Barnabas and the Origins of the Cypriot Archbishop’s Regalia Privileges.” JEH 66.2 (2015): 235–06 (esp. 238–39, 246–47).",
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 59–62).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 59–62).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Huffman, Joseph P. “The Donation of Zeno: St. Barnabas and the Origins of the Cypriot Archbishop’s Regalia Privileges.” <em>CH </em>84.4 (2015): 713–45.</p>",
+      "line_text": "Huffman, Joseph P. “The Donation of Zeno: St. Barnabas and the Origins of the Cypriot Archbishop’s Regalia Privileges.” CH 84.4 (2015): 713–45.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -361,6 +385,12 @@
       "other_urls": [
         "https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?ssl=1"
       ]
+    },
+    {
+      "line_html": "<p>Nicklas, Tobias. “Barnabas Remembered. Apokryphe Barnabastexte und die Kirche Zyperns.” Pages 167–88 in <em>Religion als Imagination. Phänomene des Menschseines in den Horizonten theologischer Lebensdeutung</em>. Edited by Lena Seehausen, Paulus Enke, and Jens Herzer. Leipzig: Evangelische Verlagsanstalt, 2020.</p>",
+      "line_text": "Nicklas, Tobias. “Barnabas Remembered. Apokryphe Barnabastexte und die Kirche Zyperns.” Pages 167–88 in Religion als Imagination. Phänomene des Menschseines in den Horizonten theologischer Lebensdeutung. Edited by Lena Seehausen, Paulus Enke, and Jens Herzer. Leipzig: Evangelische Verlagsanstalt, 2020.",
+      "language": "English",
+      "entry_type": "Other"
     },
     {
       "line_html": "<p>Norelli, Enrico. “Actes de Barnabé.” Pages 617–42 in volume 2 of <em>Écrits apocryphes chrétiens. </em>Edited by Pierre Geoltrain and Jean-Daniel Kaestli. Bibliothèque de la Pléiade 516. Paris: Gallimard, 2005 (pp. 625–26).</p>",

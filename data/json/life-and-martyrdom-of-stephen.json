@@ -1,0 +1,230 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-and-martyrdom-of-stephen/",
+  "nasscal_title": "Life and Martyrdom of Stephen",
+  "filename": "life-and-martyrdom-of-stephen",
+  "latin_title": "Vita et martyrium Stephani",
+  "abbrev": "Life Mart. Steph.",
+  "clavis_number": 734,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Florence, Biblioteca Medicea Laurenziana, Ashburnham 870 (14th/15th cent.)</p>",
+      "line_text": "Florence, Biblioteca Medicea Laurenziana, Ashburnham 870 (14th/15th cent.)",
+      "language": ".1 Latin A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Kraków, Biblioteca Jagiellionska, 1389, fols. 172<sup>v</sup>–174<sup>v</sup> (1432)</p>",
+      "line_text": "Kraków, Biblioteca Jagiellionska, 1389, fols. 172v–174v (1432)",
+      "language": ".1 Latin A",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><span class=\"s1\">K</span><span class=\"s2\">aftal</span>, George. “The Fabulous Life of a Saint.” <em><span dir=\"auto\">Mitteilungen des Kunsthistorischen Institutes in Florenz</span></em> 17 (1973): 295–300 (edition based on Florence 870, pp. 299–300).</p>",
+      "line_text": "Kaftal, George. “The Fabulous Life of a Saint.” Mitteilungen des Kunsthistorischen Institutes in Florenz 17 (1973): 295–300 (edition based on Florence 870, pp. 299–300).",
+      "language": ".1 Latin A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Marciana, VI.51 (158), fols. 327<sup>r</sup>–328<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Venice, Biblioteca Marciana, VI.51 (158), fols. 327r–328v (14th/15th cent.)",
+      "language": ".2 Latin B",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p class=\"p1\"><a href=\"https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH43_DeGaiffier-Hagiologia/page/n165/mode/1up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>G<span class=\"s1\">aiffier</span>, Baudouin de, and Guy de Tervarent. “Le diable voleur d’enfants. À propos de la naissance des saints Étienne, Laurent et Barthélemy.” Pages 169–93 in Baudouin <span class=\"s1\">de </span>G<span class=\"s1\">aiffier</span>, <em>Études critiques d’hagiographie et d’iconologie</em>. Subsidia Hagiographica 43. Bruxelles, Société des Bollandistes, 1967 (Repr. from <em>Analecta sacra tarraconensia</em> 12 [1936]) (edition, pp. 181–84).</p>",
+      "line_text": "Gaiffier, Baudouin de, and Guy de Tervarent. “Le diable voleur d’enfants. À propos de la naissance des saints Étienne, Laurent et Barthélemy.” Pages 169–93 in Baudouin de Gaiffier, Études critiques d’hagiographie et d’iconologie. Subsidia Hagiographica 43. Bruxelles, Société des Bollandistes, 1967 (Repr. from Analecta sacra tarraconensia 12 [1936]) (edition, pp. 181–84).",
+      "language": ".2 Latin B",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH43_DeGaiffier-Hagiologia/page/n165/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023 (Latin text of Venice VI.51 reproduced from Gaiffier with English translation by Charles Roe, pp. 204–209).</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023 (Latin text of Venice VI.51 reproduced from Gaiffier with English translation by Charles Roe, pp. 204–209).",
+      "language": ".2 Latin B",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 049 inf., fols. 26<sup>r</sup>–26<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, B 049 inf., fols. 26r–26v (12th cent.)",
+      "language": ".3 Latin C",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Spoleto, Archivio Capitolare del Duomo di San Lorenzo, Leggendario di San Felice di Narco, t. 1, fols. 59<sup>v</sup>–60<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Spoleto, Archivio Capitolare del Duomo di San Lorenzo, Leggendario di San Felice di Narco, t. 1, fols. 59v–60v (12th cent.)",
+      "language": ".3 Latin C",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Montecassino, Archivio di Montecassino, 117, pp. 126–130 (10th/11th cent.)</p>",
+      "line_text": "Montecassino, Archivio di Montecassino, 117, pp. 126–130 (10th/11th cent.)",
+      "language": ".3 Latin C",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/BibliothecaCasinensisVol3/page/n498/mode/1up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>M<span class=\"s1\">onachorum ordinis </span>S. B<span class=\"s1\">enediciti. </span><em>Bibliotheca Casinensis seu codicum manuscriptorum qui in tabulario Casinensi asservantur series, III, Florilegium.</em> Abbaye du mont Cassin: Ex typographia Casinensi, 1877 (edition based on Montecassino 117, pp. 36–38).</p>",
+      "line_text": "Monachorum ordinis S. Benediciti. Bibliotheca Casinensis seu codicum manuscriptorum qui in tabulario Casinensi asservantur series, III, Florilegium. Abbaye du mont Cassin: Ex typographia Casinensi, 1877 (edition based on Montecassino 117, pp. 36–38).",
+      "language": ".3 Latin C",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/BibliothecaCasinensisVol3/page/n498/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023 (Latin text of Montecassino 117 reproduced from <em>Bibliotheca Casinensis</em> with English translation by Charles Roe, pp. 198–203).</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023 (Latin text of Montecassino 117 reproduced from Bibliotheca Casinensis with English translation by Charles Roe, pp. 198–203).",
+      "language": ".3 Latin C",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p class=\"p1\" style=\"padding-left: 40px;\">Wolfenbüttel, Herzog August Bibliothek Weissenburg, Cod. Guelf. 116.4 Extrav., fols. 17<sup>r</sup>–<span class=\"s1\">17<sup>v</sup> (15th cent.) ~ <a href=\"https://handschriftenportal.de/search?hspobjectid=HSP-dd520aef-dc09-3106-92b9-3f8171696982\" target=\"_blank\" rel=\"noopener\">description</a><br/></span></p>",
+      "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, Cod. Guelf. 116.4 Extrav., fols. 17r–17v (15th cent.) ~ description",
+      "language": ".4 Unedited",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://handschriftenportal.de/search?hspobjectid=HSP-dd520aef-dc09-3106-92b9-3f8171696982"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, H 82 suss., fols. 84<sup>r</sup>–85<sup>r</sup> (1389–1393) ~ <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:4563\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, H 82 suss., fols. 84r–85r (1389–1393) ~ IMAGES",
+      "language": ".5 BHL 7856m",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:4563"
+      ]
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023 (Latin text of Milan H 82 suss. with English translation by Charles Roe, pp. 212–15).</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023 (Latin text of Milan H 82 suss. with English translation by Charles Roe, pp. 212–15).",
+      "language": ".5 BHL 7856m",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Bianchi, Marcella. “<span data-v-ea4c3fae=\"\">Proposte iconografiche per il ciclo pittorico di Santo Stefano nell’oratorio di Leniate sul Seveso.</span>” <i>Arte Lombarda</i> 17.36 (1972): 27–32, 45–49, 65–70 (excerpts, pp. 65–70).</p>",
+      "line_text": "Bianchi, Marcella. “Proposte iconografiche per il ciclo pittorico di Santo Stefano nell’oratorio di Leniate sul Seveso.” Arte Lombarda 17.36 (1972): 27–32, 45–49, 65–70 (excerpts, pp. 65–70).",
+      "language": ".5 BHL 7856m",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca Marciana, IX 16, fols. 332–336 (14th cent.)</p>",
+      "line_text": "Venice, Biblioteca Marciana, IX 16, fols. 332–336 (14th cent.)",
+      "language": ".6 Legendarium of Peter Calo",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://www.documentatiburtinaomnia.it/Atti/AMST_41_1968.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gaiffier, Baudouin de. “La nativité de Saint Etienne: à propos des fresques de Tivoli.” <em>Atti e memorie della Società Tiburtina di Storia d’Arte</em> 41 (1968): 105–12 (text of Venice IX 16, pp. 111–12).</p>",
+      "line_text": "Gaiffier, Baudouin de. “La nativité de Saint Etienne: à propos des fresques de Tivoli.” Atti e memorie della Società Tiburtina di Storia d’Arte 41 (1968): 105–12 (text of Venice IX 16, pp. 111–12).",
+      "language": ".6 Legendarium of Peter Calo",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://www.documentatiburtinaomnia.it/Atti/AMST_41_1968.pdf"
+      ]
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023 (Latin text of Venice IX 16 reproduced from de Gaiffier with English translation by Rose A. Sawyer, pp. 210–11).</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023 (Latin text of Venice IX 16 reproduced from de Gaiffier with English translation by Rose A. Sawyer, pp. 210–11).",
+      "language": ".6 Legendarium of Peter Calo",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Copenhagen, Det Kongelige Bibliotek, Inc. Hafn. 2510 (Inc. haun. 2179), fols. 7<sup>r</sup>–8<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Copenhagen, Det Kongelige Bibliotek, Inc. Hafn. 2510 (Inc. haun. 2179), fols. 7r–8r (15th cent.)",
+      "language": ".7 Unidentified",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a>Engelberg, Stiftsbibliothek, 2, fols. 23<sup>r</sup>–26<sup>v</sup> (12th cent.)</p>",
+      "line_text": "Engelberg, Stiftsbibliothek, 2, fols. 23r–26v (12th cent.)",
+      "language": ".7 Unidentified",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Perugia, Biblioteca Comunale Augusta, D25, fols 1<sup>r</sup>–1<sup>v</sup></p>",
+      "line_text": "Perugia, Biblioteca Comunale Augusta, D25, fols 1r–1v",
+      "language": ".7 Unidentified",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Munich, Bayerische Staatsbibliothek, Clm 28495, fols. 15<sup>v</sup>–16<sup>r</sup> (1389–1393) ~ Holy Men Variant</p>",
+      "line_text": "Munich, Bayerische Staatsbibliothek, Clm 28495, fols. 15v–16r (1389–1393) ~ Holy Men Variant",
+      "language": ".7 Unidentified",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Dublin, Royal Irish Academy, 23 P 16 (the <em>Leabhar Breac</em>), pp. 34a–34b (1408–1411)</p>",
+      "line_text": "Dublin, Royal Irish Academy, 23 P 16 (the Leabhar Breac), pp. 34a–34b (1408–1411)",
+      "language": "Middle Irish",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/PassionsHomiliesLeabharBreac/page/81/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Atkinson, Robert, ed. and trans. <em>The Passions and the Homilies from Leabhar Breac</em>. Dublin: Royal Irish Academy, 1887 (text, pp. 81–82; English translation, pp. 324–25).</p>",
+      "line_text": "Atkinson, Robert, ed. and trans. The Passions and the Homilies from Leabhar Breac. Dublin: Royal Irish Academy, 1887 (text, pp. 81–82; English translation, pp. 324–25).",
+      "language": "Middle Irish",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/PassionsHomiliesLeabharBreac/page/81/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p class=\"p1\">R<span class=\"s1\">auer</span>, Christine. <em>The Old English Martyrology. Edition, Translation and Commentary.</em> Anglo-Saxon Texts 10. Cambridge: D. S. Brewer, 2013 (text and facing translation, pp. 38–39).</p>",
+      "line_text": "Rauer, Christine. The Old English Martyrology. Edition, Translation and Commentary. Anglo-Saxon Texts 10. Cambridge: D. S. Brewer, 2013 (text and facing translation, pp. 38–39).",
+      "language": ".5 Old English",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p class=\"p1\"><a href=\"https://archive.org/details/herzfeld_An_Old_English_Martyrology/page/n184/mode/1up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>H<span class=\"s1\">erzfeld</span>, George. <em>An Old English Martyrology.</em> London: P. Kegan, Trench, Trübner &amp; Co., 1900 (text and facing translation, pp. 136–37).</p>",
+      "line_text": "Herzfeld, George. An Old English Martyrology. London: P. Kegan, Trench, Trübner &amp; Co., 1900 (text and facing translation, pp. 136–37).",
+      "language": ".5 Old English",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/herzfeld_An_Old_English_Martyrology/page/n184/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p>See the information for the editions for each text above.</p>",
+      "line_text": "See the information for the editions for each text above.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bovon, François. “The Dossier on Stephen, the First Martyr.” <em>HTR</em> 96.3 (2003): 302–304.</p>",
+      "line_text": "Bovon, François. “The Dossier on Stephen, the First Martyr.” HTR 96.3 (2003): 302–304.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 290, 497–98).</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 290, 497–98).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023.</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

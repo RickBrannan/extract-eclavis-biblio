@@ -15,22 +15,28 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Beirut 620 (18th cent.) pp. 85–113</p>",
-      "line_text": "Beirut 620 (18th cent.) pp. 85–113",
+      "line_html": "<p style=\"padding-left: 40px;\">Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 620, pp. 85–113 (17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/505010\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 620, pp. 85–113 (17th cent.) ~ HMML",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/505010"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Charfeh, Syrian-Catholic Patriarchate, ar. 2/34 (17th cent.) fols. unknown</p>",
+      "line_text": "Charfeh, Syrian-Catholic Patriarchate, ar. 2/34 (17th cent.) fols. unknown",
       "language": "Arabic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Sharfe ar. 2/34 (17th cent.) fols. unknown</p>",
-      "line_text": "Sharfe ar. 2/34 (17th cent.) fols. unknown",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticama, Sbath 438 (1748) fols. unknown; <a href=\"https://digi.vatlib.it/view/MSS_Sbath.438\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticama, Sbath 438 (1748) fols. unknown; BAV",
       "language": "Arabic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Paul Sbath ms 438 (1748) fols. unknown</p>",
-      "line_text": "Paul Sbath ms 438 (1748) fols. unknown",
-      "language": "Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Sbath.438"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/ancientsyriacdo00wriggoog/page/n174/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a> Cureton, William. <em>Ancient Syriac Documents: Relative to the Earliest Establishment of Christianity in Edessa and the Neighboring Countries</em>. London: Williams and Norgate, 1864 (mentions British Library, Add. 9965, p. 153).</p>",
@@ -60,10 +66,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, D’Abbadie 214, fols. 81<sup>r</sup>–86<sup>v</sup> (19th cent.)</p>",
-      "line_text": "Paris, Bibliothèque nationale de France, D’Abbadie 214, fols. 81r–86v (19th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Éthiopen d’Abbadie 214, fols. 81<sup>r</sup>–86<sup>v</sup> (19th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b52521470q?rk=64378;0\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Éthiopen d’Abbadie 214, fols. 81r–86v (19th cent.) ~ Gallica",
       "language": "Ethiopic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b52521470q?rk=64378;0"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/orientalistische0102hommuoft/page/244/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Haffner, August. “Eine äthiopische Darstellung der Abgar-Legende.” Pages 245–51 in vol. 2 of <em>Orientalische Studien Fritz Hommel zum sechzigsten Geburtstag am 31. Juli 1941 gewidmet von Freunden, Kollegen und Schüler</em>n. 2 vols. Leipzig: Hinrichs, 1917–1918 (edition based on BNF D’Abbadie 214).</p>",
@@ -132,12 +141,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Paris, Bibliothèque nationale de France, gr. 1474, fols. 212<sup>r</sup>–227<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107234965\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
-      "line_text": "X  Paris, Bibliothèque nationale de France, gr. 1474, fols. 212r–227v (11th cent.) ~ Gallica",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>X</strong>  Paris, Bibliothèque nationale de France, gr. 1474, fols. 212<sup>r</sup>–227<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107234965\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51091/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "X  Paris, Bibliothèque nationale de France, gr. 1474, fols. 212r–227v (11th cent.) ~ Gallica; Pinakes",
       "language": ".2.1 Text B1",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://gallica.bnf.fr/ark:/12148/btv1b107234965"
+        "https://gallica.bnf.fr/ark:/12148/btv1b107234965",
+        "https://pinakes.irht.cnrs.fr/notices/cote/51091/"
       ]
     },
     {
@@ -147,40 +157,51 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">A: Paris, Bibliothèque nationale de France, gr. 1475, fols, 122<sup>v</sup>–136<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107235434\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
-      "line_text": "A: Paris, Bibliothèque nationale de France, gr. 1475, fols, 122v–136v (11th cent.) ~ Gallica",
+      "line_html": "<p style=\"padding-left: 40px;\">A: Paris, Bibliothèque nationale de France, gr. 1475, fols, 122<sup>v</sup>–136<sup>v</sup> (11th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b107235434\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51092/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A: Paris, Bibliothèque nationale de France, gr. 1475, fols, 122v–136v (11th cent.) ~ Gallica; Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://gallica.bnf.fr/ark:/12148/btv1b107235434"
+        "https://gallica.bnf.fr/ark:/12148/btv1b107235434",
+        "https://pinakes.irht.cnrs.fr/notices/cote/51092/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">B: Vatican, Biblioteca Apostolica Vaticana, gr. 2043, fols. 200<sup>r</sup>–220<sup>v</sup> (11th/12th cent.)</p>",
-      "line_text": "B: Vatican, Biblioteca Apostolica Vaticana, gr. 2043, fols. 200r–220v (11th/12th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">C: Moscow, State Historical Museum, Synod. gr. 9, fols, 192<sup>v</sup>–209<sup>v</sup> (11th cent.)</p>",
-      "line_text": "C: Moscow, State Historical Museum, Synod. gr. 9, fols, 192v–209v (11th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">D: Vatican, Biblioteca Apostolica Vaticana, gr. 822, fols. 208<sup>r</sup>–225<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.822\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
-      "line_text": "D: Vatican, Biblioteca Apostolica Vaticana, gr. 822, fols. 208r–225r (12th cent.) ~ DigiVatLib",
+      "line_html": "<p style=\"padding-left: 40px;\">B: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2043, fols. 200<sup>r</sup>–220<sup>v</sup> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68672/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "B: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 2043, fols. 200r–220v (11th/12th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://digi.vatlib.it/view/MSS_Vat.gr.822"
+        "https://pinakes.irht.cnrs.fr/notices/cote/68672/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">E: Paris, Bibliothèque nationale de France, gr. 1548, fols. 134<sup>v</sup>–146<sup>v</sup> (12th cent.)</p>",
-      "line_text": "E: Paris, Bibliothèque nationale de France, gr. 1548, fols. 134v–146v (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">C: Moscow, State Historical Museum, Synod. gr. 9, fols, 192<sup>v</sup>–209<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43634/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "C: Moscow, State Historical Museum, Synod. gr. 9, fols, 192v–209v (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43634/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">D: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 822, fols. 208<sup>r</sup>–225<sup>r</sup> (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.822\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67453/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "D: Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 822, fols. 208r–225r (12th cent.) ~ DigiVatLib; Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.gr.822",
+        "https://pinakes.irht.cnrs.fr/notices/cote/67453/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">E: Paris, Bibliothèque nationale de France, gr. 1548, fols. 134<sup>v</sup>–146<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51166/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "E: Paris, Bibliothèque nationale de France, gr. 1548, fols. 134v–146v (12th cent.) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51166/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-vallicelliana-b-14/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>F:  Rome, Biblioteca Vallicelliana, B 14, fols. 235<sup>v</sup>–245<sup>r</sup> (11th cent.)</p>",
@@ -192,12 +213,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">G: Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 87, fols. 147<sup>v</sup>–152<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Ott.gr.87\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
-      "line_text": "G: Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 87, fols. 147v–152v (13th/14th cent.) ~ DigiVatLib",
+      "line_html": "<p style=\"padding-left: 40px;\">G: Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 87, fols. 147<sup>v</sup>–152<sup>v</sup> (13th/14th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Ott.gr.87\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65328/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "G: Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 87, fols. 147v–152v (13th/14th cent.) ~ DigiVatLib; Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://digi.vatlib.it/view/MSS_Ott.gr.87"
+        "https://digi.vatlib.it/view/MSS_Ott.gr.87",
+        "https://pinakes.irht.cnrs.fr/notices/cote/65328/"
       ]
     },
     {
@@ -207,24 +229,32 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">H: Napoli, Biblioteca Nazionale Centrale Vittorio Emanuele III, II C 25, fols. 100<sup>v</sup>–107<sup>v</sup> (14th cent.)</p>",
-      "line_text": "H: Napoli, Biblioteca Nazionale Centrale Vittorio Emanuele III, II C 25, fols. 100v–107v (14th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">I: Florence, Biblioteca Medicea Laurenziana, gr. IX.33, fols, 384<sup>r</sup>–397<sup>v</sup> (14th cent.)</p>",
-      "line_text": "I: Florence, Biblioteca Medicea Laurenziana, gr. IX.33, fols, 384r–397v (14th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">K: Paris, Bibliothèque nationale de France, Coislin 307, fols. 525<sup>r</sup>–535<sup>r</sup> (16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10037935w\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
-      "line_text": "K: Paris, Bibliothèque nationale de France, Coislin 307, fols. 525r–535r (16th cent.) ~ Gallica",
+      "line_html": "<p style=\"padding-left: 40px;\">H: Naples, Biblioteca Nazionale Centrale Vittorio Emanuele III, II C 25, fols. 100<sup>v</sup>–107<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/46071/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "H: Naples, Biblioteca Nazionale Centrale Vittorio Emanuele III, II C 25, fols. 100v–107v (14th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://gallica.bnf.fr/ark:/12148/btv1b10037935w"
+        "https://pinakes.irht.cnrs.fr/notices/cote/46071/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">I: Florence, Biblioteca Medicea Laurenziana, gr. IX.33, fols, 384<sup>r</sup>–397<sup>v</sup> (14th cent.) ~ <a href=\"http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.9.33\" target=\"_blank\" rel=\"noopener\">IMAGES</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/16121/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "I: Florence, Biblioteca Medicea Laurenziana, gr. IX.33, fols, 384r–397v (14th cent.) ~ IMAGES; Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.9.33",
+        "https://pinakes.irht.cnrs.fr/notices/cote/16121/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">K: Paris, Bibliothèque nationale de France, Coislin 307, fols. 525<sup>r</sup>–535<sup>r</sup> (16th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10037935w\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49448/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "K: Paris, Bibliothèque nationale de France, Coislin 307, fols. 525r–535r (16th cent.) ~ Gallica; Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10037935w",
+        "https://pinakes.irht.cnrs.fr/notices/cote/49448/"
       ]
     },
     {
@@ -234,16 +264,22 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">R: Vatican, Biblioteca Apostolica Vaticana, Chig. R VII 50 (gr. 41), fols. 162<sup>r</sup>–176<sup>r</sup> (11th cent.)</p>",
-      "line_text": "R: Vatican, Biblioteca Apostolica Vaticana, Chig. R VII 50 (gr. 41), fols. 162r–176r (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">R: Vatican, Biblioteca Apostolica Vaticana, Chig. R VII 50 (gr. 41), fols. 162<sup>r</sup>–176<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65229/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "R: Vatican, Biblioteca Apostolica Vaticana, Chig. R VII 50 (gr. 41), fols. 162r–176r (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65229/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">S: Turin, Biblioteca Nazionale Universitaria, B II 24 (Passini 104), fols. 154<sup>r</sup>–166<sup>r</sup> (11th cent.)</p>",
-      "line_text": "S: Turin, Biblioteca Nazionale Universitaria, B II 24 (Passini 104), fols. 154r–166r (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">S: Turin, Biblioteca Nazionale Universitaria, B II 24 (Passini 104), fols. 154<sup>r</sup>–166<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/63881/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "S: Turin, Biblioteca Nazionale Universitaria, B II 24 (Passini 104), fols. 154r–166r (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/63881/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">T: Turin, Biblioteca Nazionale Universitaria, B IV 8 (Passini 209), fols. 115<sup>r</sup>–129<sup>r</sup> (11th cent.)</p>",
@@ -252,10 +288,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">U: Paris, Bibliothèque nationale de France, gr. 1527, fols. 165<sup>r</sup>–179<sup>v</sup> (12th cent.)</p>",
-      "line_text": "U: Paris, Bibliothèque nationale de France, gr. 1527, fols. 165r–179v (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">U: Paris, Bibliothèque nationale de France, gr. 1527, fols. 165<sup>r</sup>–179<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51145/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "U: Paris, Bibliothèque nationale de France, gr. 1527, fols. 165r–179v (12th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51145/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">W: <a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1528/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-wp-editing=\"1\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, gr. 1528, fols. 182<sup>r</sup>–197<sup>r </sup>(12th cent.)</p>",
@@ -267,19 +306,23 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Y: Paris, Bibliothèque nationale de France, gr. 1176, fols. 252<sup>v</sup>–262<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10722833h\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
-      "line_text": "Y: Paris, Bibliothèque nationale de France, gr. 1176, fols. 252v–262r (12th cent.) ~ Gallica",
+      "line_html": "<p style=\"padding-left: 40px;\">Y: Paris, Bibliothèque nationale de France, gr. 1176, fols. 252<sup>v</sup>–262<sup>r</sup> (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10722833h\" target=\"_blank\" rel=\"noopener\">Gallica</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50778/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Y: Paris, Bibliothèque nationale de France, gr. 1176, fols. 252v–262r (12th cent.) ~ Gallica; Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://gallica.bnf.fr/ark:/12148/btv1b10722833h"
+        "https://gallica.bnf.fr/ark:/12148/btv1b10722833h",
+        "https://pinakes.irht.cnrs.fr/notices/cote/50778/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><em>Ath</em><sup>1</sup>: Mount Athos, Monē Dionysiou, 54, fols. 197<sup>r</sup>–214<sup>r</sup> (12th–13th cent.)</p>",
-      "line_text": "Ath1: Mount Athos, Monē Dionysiou, 54, fols. 197r–214r (12th–13th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><em>Ath</em><sup>1</sup>: Mount Athos, Monē Dionysiou, 54, fols. 197<sup>r</sup>–214<sup>r</sup> (12th–13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20022/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ath1: Mount Athos, Monē Dionysiou, 54, fols. 197r–214r (12th–13th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20022/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><em>Ath</em><sup>2</sup>: Mount Athos, Monē Karyes (Protaton), 36, fols. 222<sup>r</sup>–238<sup>r</sup> (12th cent.) ~ <a href=\"https://repository.mountathos.org/jspui/handle/20.500.11957/164550\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
@@ -291,10 +334,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><em>Patm.</em>: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 258, fols. 108<sup>v</sup>–123<sup>v</sup> (11th cent.)</p>",
-      "line_text": "Patm.: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 258, fols. 108v–123v (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\"><em>Patm.</em>: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 258, fols. 108<sup>v</sup>–123<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54502/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Patm.: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 258, fols. 108v–123v (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/54502/"
+      ]
     },
     {
       "line_html": "<p>Additions and changes made to von Dobschütz’s list by Mark Guscin in 2009 and then in 2015 (<a href=\"#_ftn4\" name=\"_ftnref4\"/>note, the manuscripts have not been assigned to families):</p>",
@@ -306,10 +352,13 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Be: Athens, Benaki Museum, 141, fols. 128<sup>r</sup>–138<sup>r</sup> (12th cent.)</p>",
-      "line_text": "Be: Athens, Benaki Museum, 141, fols. 128r–138r (12th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Be: Athens, Benaki Museum, 141, fols. 128<sup>r</sup>–138<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/8251/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Be: Athens, Benaki Museum, 141, fols. 128r–138r (12th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/8251/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Di1= von Dobschütz <em>Ath</em><sup>1</sup></p>",
@@ -318,16 +367,22 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Di2: Mount Athos, Monē Dionysiou, 145, fols. 524<sup>r</sup>–538<sup>r</sup> (16th cent.)</p>",
-      "line_text": "Di2: Mount Athos, Monē Dionysiou, 145, fols. 524r–538r (16th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Di2: Mount Athos, Monē Dionysiou, 145, fols. 524<sup>r</sup>–538<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20113/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Di2: Mount Athos, Monē Dionysiou, 145, fols. 524r–538r (16th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20113/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Iv: Mount Athos, Monē Ibērōn, 595 (Lambros 4715), 3 (16th cent.) ~ includes Liturgical Tractate</p>",
-      "line_text": "Iv: Mount Athos, Monē Ibērōn, 595 (Lambros 4715), 3 (16th cent.) ~ includes Liturgical Tractate",
+      "line_html": "<p style=\"padding-left: 40px;\">Iv: Mount Athos, Monē Ibērōn, 595 (Lambros 4715), 3 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/24192/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; includes Liturgical Tractate</p>",
+      "line_text": "Iv: Mount Athos, Monē Ibērōn, 595 (Lambros 4715), 3 (16th cent.) ~ Pinakes; includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/24192/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Ka: Kalymnos, Kalymnos Municipal Library, 3, fols. 252<sup>r</sup>–304<sup>v</sup>, missing 259<sup>r</sup>–300<sup>v</sup> (13th cent.)<a href=\"#_ftn5\" name=\"_ftnref5\"/></p>",
@@ -339,22 +394,31 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">L1: Mount Athos, Monē Megistēs Lauras, Δ 53 (Eustastriades 429), fols. 240<sup>r</sup>–255<sup>r</sup> (11th cent.) (=Guscin, 2009 ML1)</p>",
-      "line_text": "L1: Mount Athos, Monē Megistēs Lauras, Δ 53 (Eustastriades 429), fols. 240r–255r (11th cent.) (=Guscin, 2009 ML1)",
+      "line_html": "<p style=\"padding-left: 40px;\">L1: Mount Athos, Monē Megistēs Lauras, Δ 53 (Eustastriades 429), fols. 240<sup>r</sup>–255<sup>r</sup> (11th cent.) (=Guscin, 2009 ML1) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27364/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "L1: Mount Athos, Monē Megistēs Lauras, Δ 53 (Eustastriades 429), fols. 240r–255r (11th cent.) (=Guscin, 2009 ML1) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27364/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">L2: Mount Athos, Monē Megistēs Lauras, Ε 182 (Eustastriades 644), fols. 287<sup>r</sup>–308<sup>r</sup> (12th cent.) (=Guscin, 2009 ML2) ~ includes Liturgical Tractate</p>",
-      "line_text": "L2: Mount Athos, Monē Megistēs Lauras, Ε 182 (Eustastriades 644), fols. 287r–308r (12th cent.) (=Guscin, 2009 ML2) ~ includes Liturgical Tractate",
+      "line_html": "<p style=\"padding-left: 40px;\">L2: Mount Athos, Monē Megistēs Lauras, Ε 182 (Eustastriades 644), fols. 287<sup>r</sup>–308<sup>r</sup> (12th cent.) (=Guscin, 2009 ML2) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27582/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; includes Liturgical Tractate</p>",
+      "line_text": "L2: Mount Athos, Monē Megistēs Lauras, Ε 182 (Eustastriades 644), fols. 287r–308r (12th cent.) (=Guscin, 2009 ML2) ~ Pinakes; includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27582/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">L3: Mount Athos, Monē Megistēs Lauras, Ω 154 (Eustastriades 1966), fols. 39<sup>v</sup>–55<sup>r</sup> (17th cent., 1668) (=Guscin, 2009 ML3) ~ includes Liturgical Tractate</p>",
-      "line_text": "L3: Mount Athos, Monē Megistēs Lauras, Ω 154 (Eustastriades 1966), fols. 39v–55r (17th cent., 1668) (=Guscin, 2009 ML3) ~ includes Liturgical Tractate",
+      "line_html": "<p style=\"padding-left: 40px;\">L3: Mount Athos, Monē Megistēs Lauras, Ω 154 (Eustastriades 1966), fols. 39<sup>v</sup>–55<sup>r</sup> (17th cent., 1668) (=Guscin, 2009 ML3) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29018/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; includes Liturgical Tractate</p>",
+      "line_text": "L3: Mount Athos, Monē Megistēs Lauras, Ω 154 (Eustastriades 1966), fols. 39v–55r (17th cent., 1668) (=Guscin, 2009 ML3) ~ Pinakes; includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29018/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">La= von Dobschütz I</p>",
@@ -363,28 +427,40 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Me: Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 49, fols. 225<sup>r</sup>–244<sup>v</sup> (12th. cent.)</p>",
-      "line_text": "Me: Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 49, fols. 225r–244v (12th. cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Me: Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 49, fols. 225<sup>r</sup>–244<sup>v</sup> (12th. cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/40710/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Me: Messina, Biblioteca Regionale Universitaria ‘Giacomo Longo,’ S. Salv. gr. 49, fols. 225r–244v (12th. cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/40710/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mi1: Milan, Biblioteca Ambrosiana, C 186 inf. (Martini-Bassi 878), fols. 143<sup>v</sup>–158<sup>v</sup> (11th cent.)</p>",
-      "line_text": "Mi1: Milan, Biblioteca Ambrosiana, C 186 inf. (Martini-Bassi 878), fols. 143v–158v (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Mi1: Milan, Biblioteca Ambrosiana, C 186 inf. (Martini-Bassi 878), fols. 143<sup>v</sup>–158<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42477/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mi1: Milan, Biblioteca Ambrosiana, C 186 inf. (Martini-Bassi 878), fols. 143v–158v (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42477/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mi2: Milan, Biblioteca Ambrosiana, D 52 sup. (Martini-Bassi 236), fols. 81<sup>v</sup>–103<sup>v</sup> (11th cent.) ~ includes Liturgical Tractate</p>",
-      "line_text": "Mi2: Milan, Biblioteca Ambrosiana, D 52 sup. (Martini-Bassi 236), fols. 81v–103v (11th cent.) ~ includes Liturgical Tractate",
+      "line_html": "<p style=\"padding-left: 40px;\">Mi2: Milan, Biblioteca Ambrosiana, D 52 sup. (Martini-Bassi 236), fols. 81<sup>v</sup>–103<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42544/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; includes Liturgical Tractate</p>",
+      "line_text": "Mi2: Milan, Biblioteca Ambrosiana, D 52 sup. (Martini-Bassi 236), fols. 81v–103v (11th cent.) ~ Pinakes; includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42544/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mi3: Milan Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 208<sup>v</sup>–223<sup>v</sup> (14th cent.)</p>",
-      "line_text": "Mi3: Milan Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 208v–223v (14th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Mi3: Milan Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 208<sup>v</sup>–223<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42578/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mi3: Milan Biblioteca Ambrosiana, D 107 sup. (Martini-Bassi 262), fols. 208v–223v (14th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42578/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">P1= von Dobschütz <em>Patm.</em></p>",
@@ -393,10 +469,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">P2: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 252, fols. 201<sup>v</sup>–214<sup>v</sup> (12th cent.) ~ von Dobschütz reports that this text belongs to the Σ group</p>",
-      "line_text": "P2: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 252, fols. 201v–214v (12th cent.) ~ von Dobschütz reports that this text belongs to the Σ group",
+      "line_html": "<p style=\"padding-left: 40px;\">P2: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 252, fols. 201<sup>v</sup>–214<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54496/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; von Dobschütz reports that this text belongs to the Σ group</p>",
+      "line_text": "P2: Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 252, fols. 201v–214v (12th cent.) ~ Pinakes; von Dobschütz reports that this text belongs to the Σ group",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/54496/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Pa: Mount Athos, Monē Pantokratoros, 99, fols. 193<sup>v</sup>–223<sup>v</sup> (16th cent.)</p>",
@@ -405,10 +484,13 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Ph: Mount Athos, Monē Philotheou, 80, fols. 22<sup>v</sup>–39<sup>r</sup> (14th cent.)</p>",
-      "line_text": "Ph: Mount Athos, Monē Philotheou, 80, fols. 22v–39r (14th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Ph: Mount Athos, Monē Philotheou, 80, fols. 22<sup>v</sup>–39<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29452/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Ph: Mount Athos, Monē Philotheou, 80, fols. 22v–39r (14th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29452/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Pr= von Dobschütz <em>Ath</em><sup>2</sup></p>",
@@ -417,22 +499,31 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Sc: El Escorial, Real Biblioteca Biblioteca del Real Monasterio de San Lorenzo, y-II-11 (Andrés 319), fols. 123<sup>r</sup>–134<sup>v</sup> (13th cent.) (=Guscin 2009 Es)</p>",
-      "line_text": "Sc: El Escorial, Real Biblioteca Biblioteca del Real Monasterio de San Lorenzo, y-II-11 (Andrés 319), fols. 123r–134v (13th cent.) (=Guscin 2009 Es)",
+      "line_html": "<p style=\"padding-left: 40px;\">Sc: El Escorial, Real Biblioteca Biblioteca del Real Monasterio de San Lorenzo, y-II-11 (Andrés 319), fols. 123<sup>r</sup>–134<sup>v</sup> (13th cent.) (=Guscin 2009 Es) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/15532/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Sc: El Escorial, Real Biblioteca Biblioteca del Real Monasterio de San Lorenzo, y-II-11 (Andrés 319), fols. 123r–134v (13th cent.) (=Guscin 2009 Es) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/15532/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">St: Mount Athos, Monē Stauronikēta 18 (Lambros 883), fols. 328<sup>r</sup>–340<sup>r</sup> (11th cent.)</p>",
-      "line_text": "St: Mount Athos, Monē Stauronikēta 18 (Lambros 883), fols. 328r–340r (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">St: Mount Athos, Monē Stauronikēta 18 (Lambros 883), fols. 328<sup>r</sup>–340<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/30079/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "St: Mount Athos, Monē Stauronikēta 18 (Lambros 883), fols. 328r–340r (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/30079/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Va: Mount Athos, Monē Batopediou, 635, fols. 455<sup>r</sup>–476<sup>r</sup> (1422)</p>",
-      "line_text": "Va: Mount Athos, Monē Batopediou, 635, fols. 455r–476r (1422)",
+      "line_html": "<p style=\"padding-left: 40px;\">Va: Mount Athos, Monē Batopediou, 635, fols. 455<sup>r</sup>–476<sup>r</sup> (1422) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/18779/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Va: Mount Athos, Monē Batopediou, 635, fols. 455r–476r (1422) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/18779/"
+      ]
     },
     {
       "line_html": "<p>An additional 20 manuscripts are listed on Pinakes, the online manuscript database of the IRHT (Institut de recherce et d’histoire des textes):</p>",
@@ -447,61 +538,95 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 998, fols. 178<sup>r</sup>–193<sup>r</sup> (16th cent.)</p>",
-      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 998, fols. 178r–193r (16th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Bruxelles, Bibliothèque des Bollandistes, 192 (284), fols. 150<sup>r</sup>–156<sup>v</sup> (17th/18th cent.)</p>",
-      "line_text": "Bruxelles, Bibliothèque des Bollandistes, 192 (284), fols. 150r–156v (17th/18th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē, 40, fols. unlisted (16th? cent.) ~ includes Liturgical Tractate</p>",
-      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē, 40, fols. unlisted (16th? cent.) ~ includes Liturgical Tractate",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 134, fols, 284<sup>v</sup>–303<sup>v</sup> (16th cent., 1582) ~ <a href=\"https://www.loc.gov/item/00279391469-jo/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
-      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 134, fols, 284v–303v (16th cent., 1582) ~ LOC",
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 998, fols. 178<sup>r</sup>–193<sup>r</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/3294/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 998, fols. 178r–193r (16th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://www.loc.gov/item/00279391469-jo/"
+        "https://pinakes.irht.cnrs.fr/notices/cote/3294/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Metamorphōseōs, 552, fols. 173<sup>v</sup>–188<sup>v</sup> (11th cent.)</p>",
-      "line_text": "Meteora, Monē Metamorphōseōs, 552, fols. 173v–188v (11th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Bruxelles, Bibliothèque des Bollandistes, 192 (284), fols. 150<sup>r</sup>–156<sup>v</sup> (17th/18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9862/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Bruxelles, Bibliothèque des Bollandistes, 192 (284), fols. 150r–156v (17th/18th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9862/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, A 218 inf. (Martini-Bassi 824), fols. 40<sup>v</sup>–50<sup>v</sup> (15th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, A 218 inf. (Martini-Bassi 824), fols. 40v–50v (15th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Deskatē, Monē tou hagiou Nikanoros, 117, fols. 200<sup>r</sup>–200<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72399/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Deskatē, Monē tou hagiou Nikanoros, 117, fols. 200r–200v (14th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/72399/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 1 inf. (Martini-Bassi 834), fols. 40<sup>v</sup>–50<sup>v</sup> (“with lacuna”) (1239–1240)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, B 1 inf. (Martini-Bassi 834), fols. 40v–50v (“with lacuna”) (1239–1240)",
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē, 40, fols. unlisted (16th? cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33884/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; includes Liturgical Tractate</p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē, 40, fols. unlisted (16th? cent.) ~ Pinakes; includes Liturgical Tractate",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33884/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, F 130 sup. (Martini-Bassi 371), fols. unlisted (13th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ambrosiana, F 130 sup. (Martini-Bassi 371), fols. unlisted (13th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 134, fols, 284<sup>v</sup>–303<sup>v</sup> (16th cent., 1582) ~ <a href=\"https://www.loc.gov/item/00279391469-jo/\" target=\"_blank\" rel=\"noopener\">LOC</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/35371/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Jerusalem, Patriarchikē bibliothēkē, Panaghiou Taphou 134, fols, 284v–303v (16th cent., 1582) ~ LOC; Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279391469-jo/",
+        "https://pinakes.irht.cnrs.fr/notices/cote/35371/"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Ibērōn, 16 (Lambros 4136), fols. 238<sup>r</sup>–259<sup>r</sup> (1042)</p>",
-      "line_text": "Mount Athos, Monē Ibērōn, 16 (Lambros 4136), fols. 238r–259r (1042)",
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Metamorphōseōs, 552, fols. 173<sup>v</sup>–188<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41962/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Metamorphōseōs, 552, fols. 173v–188v (11th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41962/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, A 218 inf. (Martini-Bassi 824), fols. 40<sup>v</sup>–50<sup>v</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42284/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, A 218 inf. (Martini-Bassi 824), fols. 40v–50v (15th cent.) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42284/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 1 inf. (Martini-Bassi 834), fols. 40<sup>v</sup>–50<sup>v</sup> (“with lacuna”) (1239–1240) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42294/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, B 1 inf. (Martini-Bassi 834), fols. 40v–50v (“with lacuna”) (1239–1240) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42294/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, F 130 sup. (Martini-Bassi 371), fols. unlisted (13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42784/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 130 sup. (Martini-Bassi 371), fols. unlisted (13th cent.) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42784/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Ibērōn, 16 (Lambros 4136), fols. 238<sup>r</sup>–259<sup>r</sup> (1042) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/23613/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Ibērōn, 16 (Lambros 4136), fols. 238r–259r (1042) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/23613/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Koutloumousiou, 206 (Lambros 3279), fols. 276<sup>r</sup>–279<sup>v</sup> (16th cent.) ~ Liturgical Tractate only</p>",
@@ -510,75 +635,88 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Κ 068 (Eustratiades 1355), fols. 255<sup>r</sup>–271<sup>r</sup> (14th cent.)</p>",
-      "line_text": "Mount Athos, Monē Megistēs Lauras, Κ 068 (Eustratiades 1355), fols. 255r–271r (14th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Κ 069 (Eustratiades 1356), fols. unlisted (14th cent.)</p>",
-      "line_text": "Mount Athos, Monē Megistēs Lauras, Κ 069 (Eustratiades 1356), fols. unlisted (14th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Philotheou, 87 (Lambros 1851), fols. 386<sup>v</sup>–403<sup>v</sup> (1340)</p>",
-      "line_text": "Mount Athos, Monē Philotheou, 87 (Lambros 1851), fols. 386v–403v (1340)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 179, fols. 3<sup>r</sup>–3<sup>v</sup> (12th/13th cent.)</p>",
-      "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 179, fols. 3r–3v (12th/13th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 376, fols. 175<sup>r</sup>–189<sup>r</sup> (10th/11th cent.) ~ includes Liturgical Tractate (<a href=\"https://www.loc.gov/item/00279380228-ms\" target=\"_blank\" rel=\"noopener\">LOC</a>)</p>",
-      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 376, fols. 175r–189r (10th/11th cent.) ~ includes Liturgical Tractate (LOC)",
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Κ 068 (Eustratiades 1355), fols. 255<sup>r</sup>–271<sup>r</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/28376/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Κ 068 (Eustratiades 1355), fols. 255r–271r (14th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://www.loc.gov/item/00279380228-ms"
+        "https://pinakes.irht.cnrs.fr/notices/cote/28376/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 517, fols. 113<sup>v</sup>–123<sup>v</sup> (12th cent.) ~ <a href=\"https://www.loc.gov/item/00279380551-ms\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
-      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 517, fols. 113v–123v (12th cent.) ~ LOC",
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistēs Lauras, Κ 069 (Eustratiades 1356), fols. unlisted (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/28377/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistēs Lauras, Κ 069 (Eustratiades 1356), fols. unlisted (14th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://www.loc.gov/item/00279380551-ms"
+        "https://pinakes.irht.cnrs.fr/notices/cote/28377/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Sofia, Centăr za slavjano-vizantijski proučvanija “Ivan Dujčev,” D gr. 209, fols. unlisted (11th cent.)</p>",
-      "line_text": "Sofia, Centăr za slavjano-vizantijski proučvanija “Ivan Dujčev,” D gr. 209, fols. unlisted (11th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Turin, Biblioteca Nazionale Universitaria, C IV.19 (Pasini 138), fols. unlisted (12th/13th, 16th cent.)</p>",
-      "line_text": "Turin, Biblioteca Nazionale Universitaria, C IV.19 (Pasini 138), fols. unlisted (12th/13th, 16th cent.)",
-      "language": ".2.2 Text B2",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 820, fols. 260<sup>r</sup>–270<sup>v</sup> (14th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.820\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a></p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 820, fols. 260r–270v (14th cent.) ~ DigiVatLib",
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Philotheou, 87 (Lambros 1851), fols. 386<sup>v</sup>–403<sup>v</sup> (1340) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29452/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Philotheou, 87 (Lambros 1851), fols. 386v–403v (1340) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://digi.vatlib.it/view/MSS_Vat.gr.820"
+        "https://pinakes.irht.cnrs.fr/notices/cote/29452/"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Zaborda, Monē tou hagiou Nikanoros, 117, fols. 200<sup>r</sup>–200<sup>v</sup> (14th cent.)<a href=\"#_ftnref1\" name=\"_ftn1\"/></p>",
-      "line_text": "Zaborda, Monē tou hagiou Nikanoros, 117, fols. 200r–200v (14th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 179, fols. 3<sup>r</sup>–3<sup>v</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/54423/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Patmos, Monē tou Hagiou Iōannou tou Theologou, gr. 179, fols. 3r–3v (12th/13th cent.) ~ Pinakes",
       "language": ".2.2 Text B2",
       "entry_type": "Manuscript",
       "other_urls": [
-        "#_ftnref1"
+        "https://pinakes.irht.cnrs.fr/notices/cote/54423/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 376, fols. 175<sup>r</sup>–189<sup>r</sup> (10th/11th cent.) ~ includes Liturgical Tractate (<a href=\"https://www.loc.gov/item/00279380228-ms\" target=\"_blank\" rel=\"noopener\">LOC</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58751/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 376, fols. 175r–189r (10th/11th cent.) ~ includes Liturgical Tractate (LOC; Pinakes)",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279380228-ms",
+        "https://pinakes.irht.cnrs.fr/notices/cote/58751/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 517, fols. 113<sup>v</sup>–123<sup>v</sup> (12th cent.) ~ <a href=\"https://www.loc.gov/item/00279380551-ms\" target=\"_blank\" rel=\"noopener\">LOC</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58892/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 517, fols. 113v–123v (12th cent.) ~ LOC; Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279380551-ms",
+        "https://pinakes.irht.cnrs.fr/notices/cote/58892/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Sofia, Centăr za slavjano-vizantijski proučvanija “Ivan Dujčev,” D gr. 209, fols. unlisted (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/62463/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Sofia, Centăr za slavjano-vizantijski proučvanija “Ivan Dujčev,” D gr. 209, fols. unlisted (11th cent.) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/62463/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Turin, Biblioteca Nazionale Universitaria, C IV.19 (Pasini 138), fols. unlisted (12th/13th, 16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/63881/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Turin, Biblioteca Nazionale Universitaria, C IV.19 (Pasini 138), fols. unlisted (12th/13th, 16th cent.) ~ Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/63881/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 820, fols. 260<sup>r</sup>–270<sup>v</sup> (14th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.820\" target=\"_blank\" rel=\"noopener\">DigiVatLib</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/67451/\" target=\"_blank\" rel=\"noopener\">Pinakes</a><a href=\"https://pinakes.irht.cnrs.fr/notices/cote/72399/\" target=\"_blank\" rel=\"noopener\" name=\"_ftn1\"/></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 820, fols. 260r–270v (14th cent.) ~ DigiVatLib; Pinakes",
+      "language": ".2.2 Text B2",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.gr.820",
+        "https://pinakes.irht.cnrs.fr/notices/cote/67451/",
+        "https://pinakes.irht.cnrs.fr/notices/cote/72399/"
       ]
     },
     {

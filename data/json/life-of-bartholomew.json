@@ -1,0 +1,158 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-bartholomew/",
+  "nasscal_title": "Life of Bartholomew",
+  "filename": "life-of-bartholomew",
+  "latin_title": "De nativitate sancti Bartholomei apostoli",
+  "abbrev": "Life Bart.",
+  "clavis_number": 360,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Ber 2</strong>  Berlin, Staatsbibliotek Preußischer Kulturbesitz, Theol. lat. qu. 331, fols. 292<sup>r</sup>–292<sup>v</sup> (1492)</p>",
+      "line_text": "Ber 2  Berlin, Staatsbibliotek Preußischer Kulturbesitz, Theol. lat. qu. 331, fols. 292r–292v (1492)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>D</strong>  Dresden, Sächsische Landesbibliothek – Staats- und Universitätsbibliothek, Ms. App. 2306, fols. 183<sup>v</sup>–184<sup>v</sup> (15th cent.)</p>",
+      "line_text": "D  Dresden, Sächsische Landesbibliothek – Staats- und Universitätsbibliothek, Ms. App. 2306, fols. 183v–184v (15th cent.)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Erlangen, Universitätsbibliothek Erlangen-Nürnbergm 487/1, fols. 5<sup>r</sup>–7<sup>r</sup> and 7<sup>v</sup>–8<sup>v</sup> (15th cent.)</p>",
+      "line_text": "E  Erlangen, Universitätsbibliothek Erlangen-Nürnbergm 487/1, fols. 5r–7r and 7v–8v (15th cent.)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>G</strong>  Griefswald, Bibliothek des Geistlichen Ministeriums, XXXII.E.26, fols. 105<sup>r</sup>–160<sup>r</sup> (1489)</p>",
+      "line_text": "G  Griefswald, Bibliothek des Geistlichen Ministeriums, XXXII.E.26, fols. 105r–160r (1489)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>H</strong>  Haarlem, Bibliothèque du Musée épiscopal, 89, fols 5<sup>r</sup>–7<sup>r</sup> (16th cent.)</p>",
+      "line_text": "H  Haarlem, Bibliothèque du Musée épiscopal, 89, fols 5r–7r (16th cent.)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>J</strong>  Jena, Theologische, Landes- und Universitätsbibliothek, El. f. 50a, fols. 147<sup>r</sup>–148<sup>r</sup> and 148<sup>r</sup>–148<sup>v</sup> (15th cent.)</p>",
+      "line_text": "J  Jena, Theologische, Landes- und Universitätsbibliothek, El. f. 50a, fols. 147r–148r and 148r–148v (15th cent.)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong>  Leipzig, Universitätsbibliothek, 184, fols. 44<sup>r</sup>–45<sup>r</sup> (15th cent.) ~ <a href=\"https://handschriftenportal.de/search?hspobjectid=HSP-02015a19-3a02-358a-bebc-c7ee16f91e1c\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "L  Leipzig, Universitätsbibliothek, 184, fols. 44r–45r (15th cent.) ~ IMAGES",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://handschriftenportal.de/search?hspobjectid=HSP-02015a19-3a02-358a-bebc-c7ee16f91e1c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>M</strong>  Munich, Bayerische Staatsbibliothek, Clm 3661, fols. 72<sup>v</sup>–73<sup>v</sup> (15th cent.)</p>",
+      "line_text": "M  Munich, Bayerische Staatsbibliothek, Clm 3661, fols. 72v–73v (15th cent.)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>W</strong>  Würzburg, Universitätsbibliothek, M. cg. q. 81, fols. 203<sup>r</sup>–206<sup>v</sup> and 207<sup>r</sup>–208<sup>v</sup> (1479)</p>",
+      "line_text": "W  Würzburg, Universitätsbibliothek, M. cg. q. 81, fols. 203r–206v and 207r–208v (1479)",
+      "language": ".1 Version 1",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” <em>AnBoll</em> 128 (2010): 87–162 (editions of EJLW, pp. 129–32; EJW and Ber2, pp. 136–43; GHLM, pp. 144–50; D, pp. 159–61).</p>",
+      "line_text": "Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” AnBoll 128 (2010): 87–162 (editions of EJLW, pp. 129–32; EJW and Ber2, pp. 136–43; GHLM, pp. 144–50; D, pp. 159–61).",
+      "language": ".1 Version 1",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Be</strong>  Benevento, Biblioteca Capitolare, Codex 50bis, fols. 1<sup>r</sup>–4<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Be  Benevento, Biblioteca Capitolare, Codex 50bis, fols. 1r–4r (15th cent.)",
+      "language": ".2 Version 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>Ber 1</strong>  Berlin, Staatsbibliotek Preußischer Kulturbesitz, Theol. lat. fol. 617, fols. 379<sup>r</sup>–380<sup>r</sup> (1460)</p>",
+      "line_text": "Ber 1  Berlin, Staatsbibliotek Preußischer Kulturbesitz, Theol. lat. fol. 617, fols. 379r–380r (1460)",
+      "language": ".2 Version 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>F</strong>  Fritzlar, Dombibliothek, 79, fol. 24<sup>v</sup> (1449)</p>",
+      "line_text": "F  Fritzlar, Dombibliothek, 79, fol. 24v (1449)",
+      "language": ".2 Version 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Padua, Biblioteca Universitaria, 1622, fols. 308<sup>r</sup>–309<sup>r</sup> (15th cent.)</p>",
+      "line_text": "P  Padua, Biblioteca Universitaria, 1622, fols. 308r–309r (15th cent.)",
+      "language": ".2 Version 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Stuttgart, Württembergische Landesbibliothek, Cod. theol. et phil. 4° 81, fols. 220<sup>r</sup>–222<sup>r</sup> (1480)</p>",
+      "line_text": "S  Stuttgart, Württembergische Landesbibliothek, Cod. theol. et phil. 4° 81, fols. 220r–222r (1480)",
+      "language": ".2 Version 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vienna, Biblioteca Marciana, Lat. Z. 158, fols. 328<sup>v</sup>–329<sup>v</sup> (15th cent.)</p>",
+      "line_text": "V  Vienna, Biblioteca Marciana, Lat. Z. 158, fols. 328v–329v (15th cent.)",
+      "language": ".2 Version 2",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” <em>AnBoll</em> 128 (2010): 87–162 (editions of Ber 1, pp. 133–35; F, pp. 151–54; Be and V, pp. 155–58).</p>",
+      "line_text": "Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” AnBoll 128 (2010): 87–162 (editions of Ber 1, pp. 133–35; F, pp. 151–54; Be and V, pp. 155–58).",
+      "language": ".2 Version 2",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Biblioteca Marciana, Ms. lat. Cl. 9 Nr. 15–20, fols. 77<sup>v</sup>–80<sup>v</sup> (14th cent.)</p>",
+      "line_text": "Vienna, Biblioteca Marciana, Ms. lat. Cl. 9 Nr. 15–20, fols. 77v–80v (14th cent.)",
+      "language": ".3 Legendarium of Peter Calo",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">York, Cathedral ms. XVI G 23, fols. 23<sup>v</sup>–24<sup>r</sup> (15th cent.)</p>",
+      "line_text": "York, Cathedral ms. XVI G 23, fols. 23v–24r (15th cent.)",
+      "language": ".3 Legendarium of Peter Calo",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Barb. lat. 713 and 714, fols. 130<sup>v</sup>–135<sup>r</sup> (1340)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Barb. lat. 713 and 714, fols. 130v–135r (1340)",
+      "language": ".3 Legendarium of Peter Calo",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” <em>AnBoll</em> 128 (2010): 87–162 (edition, pp. 126–28).</p>",
+      "line_text": "Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” AnBoll 128 (2010): 87–162 (edition, pp. 126–28).",
+      "language": ".3 Legendarium of Peter Calo",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” <em>AnBoll</em> 128 (2010): 87–162.</p>",
+      "line_text": "Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” AnBoll 128 (2010): 87–162.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

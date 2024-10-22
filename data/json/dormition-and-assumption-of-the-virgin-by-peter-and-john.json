@@ -1,0 +1,72 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-and-assumption-of-the-virgin-by-peter-and-john/",
+  "nasscal_title": "Dormition and Assumption of the Virgin by Peter and John",
+  "filename": "dormition-and-assumption-of-the-virgin-by-peter-and-john",
+  "latin_title": " Dormitio et assumptio virginis a Petro et Johanne",
+  "abbrev": "Dorm. Vir. Pet. John.",
+  "clavis_number": 126,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p>MACA.EK (10th cent.; <a href=\"https://atlas.paths-erc.eu/manuscripts/168\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry):</p>",
+      "line_text": "MACA.EK (10th cent.; PAThs entry):",
+      "language": "Bohairic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/168"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Frag. 1: Leipzig, Universtätsbibliothek, 1086 (olim Tischendorf XXIV), fol. 49<br/>\nFrags. 2–5; Leipzig, Universtätsbibliothek, 1087 (olim Tischendorf XXIV), fols. 22, 31, 30, 23<br/>\nFrag. 6: Cairo, Coptic Museum, Abu Maqar 48, i<br/>\nFrag. 7: Cairo, Coptic Museum, Abu Maqar 48, ii</p>",
+      "line_text": "Frag. 1: Leipzig, Universtätsbibliothek, 1086 (olim Tischendorf XXIV), fol. 49 Frags. 2–5; Leipzig, Universtätsbibliothek, 1087 (olim Tischendorf XXIV), fols. 22, 31, 30, 23 Frag. 6: Cairo, Coptic Museum, Abu Maqar 48, i Frag. 7: Cairo, Coptic Museum, Abu Maqar 48, ii",
+      "language": "Bohairic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>New Haven, Beinecke Rare Book and Manuscript Library, P.CtYBR inv. 1788 (8th/9th cent.); <a href=\"https://atlas.paths-erc.eu/manuscripts/880\" target=\"_blank\" rel=\"noopener\">PAThs</a>; <a href=\"https://findit.library.yale.edu/catalog/digcoll:2759455\" target=\"_blank\" rel=\"noopener\">Yale</a></p>",
+      "line_text": "New Haven, Beinecke Rare Book and Manuscript Library, P.CtYBR inv. 1788 (8th/9th cent.); PAThs; Yale",
+      "language": "Bohairic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/880",
+        "https://findit.library.yale.edu/catalog/digcoll:2759455"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/monasteriesofwdi01evel/page/54/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Evelyn White, Hugh G. <em>The Monasteries of the Wadi ‘n Natrûn</em>. Part 1:<em> New Coptic Texts from the Monastery of Saint Macarius</em>. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation of MACA.EK, pp. 54–58).</p>",
+      "line_text": "Evelyn White, Hugh G. The Monasteries of the Wadi ‘n Natrûn. Part 1: New Coptic Texts from the Monastery of Saint Macarius. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation of MACA.EK, pp. 54–58).",
+      "language": "Bohairic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/monasteriesofwdi01evel/page/54/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/monasteriesofwdi01evel/page/54/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Evelyn White, Hugh G. <em>The Monasteries of the Wadi ‘n Natrûn</em>. Part 1:<em> New Coptic Texts from the Monastery of Saint Macarius</em>. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation, pp. 54–58).</p>",
+      "line_text": "Evelyn White, Hugh G. The Monasteries of the Wadi ‘n Natrûn. Part 1: New Coptic Texts from the Monastery of Saint Macarius. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926 (text and English translation, pp. 54–58).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/monasteriesofwdi01evel/page/54/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Lantschoot, Arnold van. “L’Assomption de la Sainte Vierge chez les Coptes.” <i>Gregorianum</i> 27 (1946): 493–526 (pp. 498–99).</p>",
+      "line_text": "Lantschoot, Arnold van. “L’Assomption de la Sainte Vierge chez les Coptes.” Gregorianum 27 (1946): 493–526 (pp. 498–99).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

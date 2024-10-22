@@ -1,0 +1,77 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/nativity-of-bartholomew/",
+  "nasscal_title": "Nativity of Bartholomew",
+  "filename": "nativity-of-bartholomew",
+  "latin_title": "De nativitate sancti Bartholomei apostoli",
+  "abbrev": "Nat. Bart.",
+  "clavis_number": 359,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Fritzlar, Dombibliothek, 122, fol. 334 (15th cent.)</p>",
+      "line_text": "Fritzlar, Dombibliothek, 122, fol. 334 (15th cent.)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque royale de Belgique, MS 1116, fols. 166<sup>v</sup>–168<sup>r </sup>(1499)</p>",
+      "line_text": "Brussels, Bibliothèque royale de Belgique, MS 1116, fols. 166v–168r (1499)",
+      "language": "Latin",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p class=\"p1\"><a href=\"https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH43_DeGaiffier-Hagiologia/page/185/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>G<span class=\"s1\">aiffier</span>, Baudouin de, and Guy de Tervarent. “Le diable voleur d’enfants. À propos de la naissance des saints Étienne, Laurent et Barthélemy.” Pages 169–93 in Baudouin <span class=\"s1\">de </span>G<span class=\"s1\">aiffier</span>, <em>Études critiques d’hagiographie et d’iconologie</em>. Subsidia Hagiographica 43. Bruxelles, Société des Bollandistes, 1967 (Repr. from <em>Analecta sacra tarraconensia</em> 12 [1936]: 33–58) (Middle Dutch text of Brussels 1116, pp. 185–88).</p>",
+      "line_text": "Gaiffier, Baudouin de, and Guy de Tervarent. “Le diable voleur d’enfants. À propos de la naissance des saints Étienne, Laurent et Barthélemy.” Pages 169–93 in Baudouin de Gaiffier, Études critiques d’hagiographie et d’iconologie. Subsidia Hagiographica 43. Bruxelles, Société des Bollandistes, 1967 (Repr. from Analecta sacra tarraconensia 12 [1936]: 33–58) (Middle Dutch text of Brussels 1116, pp. 185–88).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sh-19-halkin-sancti-pachomii-vitae-grecae/SH43_DeGaiffier-Hagiologia/page/185/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023 (Middle Dutch text of Brussels 1116 reproduced from Gaiffier with English translation by David F. Johnson and Geert H. M. Claassens, pp. 216–23).</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023 (Middle Dutch text of Brussels 1116 reproduced from Gaiffier with English translation by David F. Johnson and Geert H. M. Claassens, pp. 216–23).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Sawyer, Rose A. <em>The Medieval Changeling: Health, Childcare, and the Family Unit.</em> Cambridge: D. S. Brewer, 2023 (Middle Dutch text of Brussels 1116 reproduced from Gaiffier with English translation by David F. Johnson and Geert H. M. Claassens, pp. 216–23).</p>",
+      "line_text": "Sawyer, Rose A. The Medieval Changeling: Health, Childcare, and the Family Unit. Cambridge: D. S. Brewer, 2023 (Middle Dutch text of Brussels 1116 reproduced from Gaiffier with English translation by David F. Johnson and Geert H. M. Claassens, pp. 216–23).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Beresford, Andrew M. <em>Sacred Skin: The Legend of St. Bartholomew in Spanish Art and Literature.</em> Medieval and Early Modern Iberian World 72. Leiden: Brill, 2020 (pp. 45–90).</p>",
+      "line_text": "Beresford, Andrew M. Sacred Skin: The Legend of St. Bartholomew in Spanish Art and Literature. Medieval and Early Modern Iberian World 72. Leiden: Brill, 2020 (pp. 45–90).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/1260/1252\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Buttà, Licia. “Peregrinus et exorcista: el nacimiento legendario de san Bartolomé en la hagiografía y la cultura visual de la Edad Media.” <em>Anuario de estudios medievales</em> 51 (2021): 563–600.</p>",
+      "line_text": "Buttà, Licia. “Peregrinus et exorcista: el nacimiento legendario de san Bartolomé en la hagiografía y la cultura visual de la Edad Media.” Anuario de estudios medievales 51 (2021): 563–600.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://estudiosmedievales.revistas.csic.es/index.php/estudiosmedievales/article/view/1260/1252"
+      ]
+    },
+    {
+      "line_html": "<p>Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” <em>AnBoll</em> 128 (2010): 87–162 (pp. 104–105).</p>",
+      "line_text": "Krüger, Astrid. “De ortu sancti Bartholomei. Legenden über Herkunft und Bekehrung des heiligen Bartholomäus.” AnBoll 128 (2010): 87–162 (pp. 104–105).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -9,16 +9,67 @@
   "compiler": "[not available]",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 170<sup>v</sup>–175<sup>r</sup> (1233)</p>",
-      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 170v–175r (1233)",
+      "line_html": "<p style=\"padding-left: 40px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, 343, fols. 15<sup>r</sup>–156<sup>v</sup> (19th cent.) ~ longer text; <a href=\"https://www.vhmml.org/readingRoom/view/507403\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, 343, fols. 15r–156v (19th cent.) ~ longer text; HMML",
       "language": "Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.vhmml.org/readingRoom/view/507403"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, fols.  ()</p>",
-      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, fols.  ()",
+      "line_html": "<p style=\"padding-left: 40px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 76, page before p. 1 (19th cent.) ~ longer text; <a href=\"https://w3id.org/vhmml/readingRoom/view/120639\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 76, page before p. 1 (19th cent.) ~ longer text; HMML",
       "language": "Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/120639"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 691 (19th cent.) ~ longer text; <a href=\"https://w3id.org/vhmml/readingRoom/view/121069\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 691 (19th cent.) ~ longer text; HMML",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/121069"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, 456, fol. 82<sup>v</sup> (19th cent.) ~ abbreviated text; <a href=\"https://w3id.org/vhmml/readingRoom/view/507206\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, 456, fol. 82v (19th cent.) ~ abbreviated text; HMML",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/507206"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, 569, fols. 232<sup>r</sup>–233<sup>r</sup> (15th–18th cent.) ~ abbreviated text; <a href=\"https://w3id.org/vhmml/readingRoom/view/507352\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, 569, fols. 232r–233r (15th–18th cent.) ~ abbreviated text; HMML",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/507352"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 170<sup>v</sup>–175<sup>r</sup> (1233) ~ <a href=\"https://www.loc.gov/item/00279391019-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 170v–175r (1233) ~ LOC",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279391019-ms/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, fols.  ? (900) ~ <a href=\"https://www.loc.gov/item/00279390167-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 508, fols.  ? (900) ~ LOC",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279390167-ms/"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphasinait01gibsgoog/page/n172/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gibson, Margaret Dunlop. <em>Apocrypha Siniatica.</em> Studia Sinaitica 5. London: C. J. Clay and Sons, 1896 (text from Sinai ar. 445 and 508, pp. 1–11 [Arabic numbering]).</p>",
@@ -34,6 +85,15 @@
       "line_text": "Monferrer-Sala, J. P. “The Anaphora Pilati According to the ‘Sinaitic Arabic 445’: A New Edition, with Translation and a First Analysis.” Journal of Eastern Christian Studies 61.3–4 (2009): 167–98 (text based on Sinai, ar. 455, pp. 88–92, translation, pp. 93–98).",
       "language": "Arabic",
       "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/athens-bibliotheke-tes-boules-45/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Athens, Bibliothēke tēs Boulēs, 45, fols. 189<sup>r</sup>–193<sup>r</sup> (16th cent.)</p>",
+      "line_text": "Athens, Bibliothēke tēs Boulēs, 45, fols. 189r–193r (16th cent.)",
+      "language": ".1 Anaphora and Response",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/athens-bibliotheke-tes-boules-45/"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-5636/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>London, British Library, Harley 5636, fols. 26<sup>r</sup>–30<sup>r</sup> (14th cent.)</p>",
@@ -115,12 +175,6 @@
       "other_urls": [
         "https://archive.org/details/apocryphasinait01gibsgoog/page/n190/mode/2up"
       ]
-    },
-    {
-      "line_html": "<p> </p>",
-      "line_text": " ",
-      "language": "Syriac",
-      "entry_type": "Edition"
     },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",

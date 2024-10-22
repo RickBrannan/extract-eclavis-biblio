@@ -14,6 +14,15 @@
   "compiler": "Jonathan Holste, University of Virginia",
   "bibliography_entries": [
     {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-624/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, fols. 1<sup>r</sup>–26<sup>v</sup> (1658) ~ perhaps also incorporating the Martyrdom of Thomas</p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, fols. 1r–26v (1658) ~ perhaps also incorporating the Martyrdom of Thomas",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-624/"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-625/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 625, pp. 224–237 (17th cent.)</p>",
       "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 625, pp. 224–237 (17th cent.)",
       "language": ".1 Arabic Script",
@@ -419,14 +428,20 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Lviv, Ivan Franko University of Lviv, I F.15, fols. 269–73 (16th cent.), published by Ivan Franko.</p>",
-      "line_text": "Lviv, Ivan Franko University of Lviv, I F.15, fols. 269–73 (16th cent.), published by Ivan Franko.",
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, V. I. Grigorovič, Pergamentsbornik 22, fols. 1–4 (14th cent.), published by Vatroslav Jagić.</p>",
+      "line_text": "Moscow, Russian State Library, V. I. Grigorovič, Pergamentsbornik 22, fols. 1–4 (14th cent.), published by Vatroslav Jagić.",
       "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Russian State Library, V. I. Grigorovič, Pergamentsbornik 22, fols. 1–4 (14th cent.), published by Vatroslav Jagič.</p>",
-      "line_text": "Moscow, Russian State Library, V. I. Grigorovič, Pergamentsbornik 22, fols. 1–4 (14th cent.), published by Vatroslav Jagič.",
+      "line_html": "<p style=\"padding-left: 40px;\">Warsaw, National Library of Poland, 12185 III, fols. 209–225 (16th cent.), published by Ivan Franko.</p>",
+      "line_text": "Warsaw, National Library of Poland, 12185 III, fols. 209–225 (16th cent.), published by Ivan Franko.",
+      "language": "Church Slavic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zagreb, Jugoslavenska Akademija, Codex N.r IV. .a 24 (Kukuljevié N.r 542), Zbornik (Altdruck) .a 1520 aus Dubrovnik, fol. 28v–32, Serbian abbreviated adaptation, published by Vatroslav Jagić.</p>",
+      "line_text": "Zagreb, Jugoslavenska Akademija, Codex N.r IV. .a 24 (Kukuljevié N.r 542), Zbornik (Altdruck) .a 1520 aus Dubrovnik, fol. 28v–32, Serbian abbreviated adaptation, published by Vatroslav Jagić.",
       "language": "Church Slavic",
       "entry_type": "Manuscript"
     },
@@ -449,8 +464,32 @@
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p>Franko, Ivan. <em>Apokrifi î legendy z ukra</em><em>ï</em><em>nsǐkich rukopisiv</em>. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (<em>Acts Thom. Skin</em> in vol. 3; introduction pp. xxxvii–xli; text pp. 101–111). Online: <a href=\"https://elib.nlu.org.ua/view.html?id=7675\">https://elib.nlu.org.ua/view.html?id=7675.</a></p>",
+      "line_text": "Franko, Ivan. Apokrifi î legendy z ukraïnsǐkich rukopisiv. 5 vols. Lviv: Nakladom Naukovoho Tovaristva îmeni Ševčenka, 1896–1910 (Acts Thom. Skin in vol. 3; introduction pp. xxxvii–xli; text pp. 101–111). Online: https://elib.nlu.org.ua/view.html?id=7675.",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://elib.nlu.org.ua/view.html?id=7675"
+      ]
+    },
+    {
+      "line_html": "<p>Jagić, Vatroslav. “Opisi i izvodi iz nekoliko južnoslovinskih rukopisa.” <em>Starine </em>V (1873): 1–108 (introduction and text, pp. 95–108). Online <a href=\"https://archive.org/details/starine_knjiga_5_1873-jazu/page/n101\">https://archive.org/details/starine_knjiga_5_1873-jazu/page/n101</a>.</p>",
+      "line_text": "Jagić, Vatroslav. “Opisi i izvodi iz nekoliko južnoslovinskih rukopisa.” Starine V (1873): 1–108 (introduction and text, pp. 95–108). Online https://archive.org/details/starine_knjiga_5_1873-jazu/page/n101.",
+      "language": "Church Slavic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/starine_knjiga_5_1873-jazu/page/n101"
+      ]
+    },
+    {
       "line_html": "<p>Otero, Aurelio de Santos. <em>Die handschriftliche Überlieferung der altslavischen Apokryphen.</em> 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscript listings, vol. 1 pp. 84–96).</p>",
       "line_text": "Otero, Aurelio de Santos. Die handschriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: De Gruyter, 1978–1981 (manuscript listings, vol. 1 pp. 84–96).",
+      "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Thomson, Francis J. Review of Aurelio de Santos Otero,<em> Die handscriftliche Überlieferung der altslavischen Apokryphen</em>, vol. 1. Slavonic and East European Review 58 (1980): 256–68.</p>",
+      "line_text": "Thomson, Francis J. Review of Aurelio de Santos Otero, Die handscriftliche Überlieferung der altslavischen Apokryphen, vol. 1. Slavonic and East European Review 58 (1980): 256–68.",
       "language": "Church Slavic",
       "entry_type": "Edition"
     },
@@ -486,6 +525,15 @@
       "line_text": "Poirier, Paul-Hubert. La version copte de la Prédication et du Martyre de Thomas. Subsidia Hagiographica 67. Brussels: Société des Bollandistes, 1984 (Coptic edition from all three Sahidic manuscripts with French translation).",
       "language": ".1 Acts Thom. Skin",
       "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Zoëga, Georgio. <em>Catalogus codicum Copticorum manu scriptorum</em>. Rome: Sacra Congregatio de Propaganda Fide, 1810: 228 (Catalog description of CXXVII = Vatican, Biblioteca Apostolica Vaticana, Vat. Borg. copt. 109, cass. xxv, fasc. 127, fragment of reconstructed MONB.DM). Online: <a href=\"https://archive.org/details/bub_gb_8EAcFCioIQEC/page/228/mode/1up?view=theater\">https://archive.org/details/bub_gb_8EAcFCioIQEC/page/228.</a></p>",
+      "line_text": "Zoëga, Georgio. Catalogus codicum Copticorum manu scriptorum. Rome: Sacra Congregatio de Propaganda Fide, 1810: 228 (Catalog description of CXXVII = Vatican, Biblioteca Apostolica Vaticana, Vat. Borg. copt. 109, cass. xxv, fasc. 127, fragment of reconstructed MONB.DM). Online: https://archive.org/details/bub_gb_8EAcFCioIQEC/page/228.",
+      "language": ".1 Acts Thom. Skin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_8EAcFCioIQEC/page/228/mode/1up?view=theater"
+      ]
     },
     {
       "line_html": "<p>The Copto-Arabic Synaxarion includes a summary of the text in the entry on Thomas for May 21 (26 Bashans).</p>",
@@ -623,8 +671,8 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-144-sup/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ammancinibrosiana, F 144 sup., fols. 25<sup>v</sup>–30<sup>v</sup> (10th/11th cent.)</p>",
-      "line_text": "Milan, Biblioteca Ammancinibrosiana, F 144 sup., fols. 25v–30v (10th/11th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-f-144-sup/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Milan, Biblioteca Ambrosiana, F 144 sup., fols. 25<sup>v</sup>–30<sup>v</sup> (10th/11th cent.)</p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, F 144 sup., fols. 25v–30v (10th/11th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -636,6 +684,15 @@
       "line_text": "Tyrnavos, Dēmotikē Bibliothēkē, 19, fols. 93r–107v (15/16th cent.)",
       "language": "Greek",
       "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Fabricius, Johann. <em>Bibliotheca Graeca </em>9. Hamburg: Liebezeit and Felginer, 1719 (see p. 150).  Online: <a href=\"https://archive.org/details/bibliothecagrae12fabrgoog/page/150/mode/2up\">https://archive.org/details/bibliothecagrae12fabrgoog/page/150</a>.</p>",
+      "line_text": "Fabricius, Johann. Bibliotheca Graeca 9. Hamburg: Liebezeit and Felginer, 1719 (see p. 150).  Online: https://archive.org/details/bibliothecagrae12fabrgoog/page/150.",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bibliothecagrae12fabrgoog/page/150/mode/2up"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/apocryphaanecdot05jame/page/n139/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>James, Montague Rhodes. <em>Apocrypha A</em><em>necdota</em><em> 2</em>. TS 5.1. Cambridge: Cambridge University Press, 1897. (Introduction, pp. xxxii–xliv; Greek text from M, pp. 28–45; reprint of Malan’s translation of the Ethiopic, pp. 46–63.)</p>",
@@ -659,12 +716,12 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo02budguoft\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 2. London: Henry Frowde, 1901 (English translation of the Ethiopic text based on British Library, Or. 678 and 683, pp. 319–45).</p>",
+      "line_html": "<p><a href=\"https://archive.org/details/contendingsofapo02budguoft/page/318/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists</em>. Vol. 2. London: Henry Frowde, 1901 (English translation of the Ethiopic text based on British Library, Or. 678 and 683, pp. 319–45).</p>",
       "line_text": "Budge, Ernest A. W. Gadla Ḥawâryât: The Contendings of the Apostles, Being the Lives and Martyrdoms and Deaths of the Twelve Apostles and Evangelists. Vol. 2. London: Henry Frowde, 1901 (English translation of the Ethiopic text based on British Library, Or. 678 and 683, pp. 319–45).",
       "language": "English",
       "entry_type": "Translation",
       "other_urls": [
-        "https://archive.org/details/contendingsofapo02budguoft"
+        "https://archive.org/details/contendingsofapo02budguoft/page/318/mode/2up"
       ]
     },
     {
@@ -698,6 +755,12 @@
       "entry_type": "Translation"
     },
     {
+      "line_html": "<p>Berglund, Carl Johan. “The Ascetic Subculture of the <em>Acts of Thomas and His Wonderworking Skin</em>.” <em>VC</em> 78 (2024): 8–31.</p>",
+      "line_text": "Berglund, Carl Johan. “The Ascetic Subculture of the Acts of Thomas and His Wonderworking Skin.” VC 78 (2024): 8–31.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Bonnet, Maximilien. “Acta Thomae.”  Pages xv–xxvii and 99–291 in vol. 2:2 of <em>Acta apostolorum apocrypha</em>. 2 vols. in 3. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: H. Mendelssohn, 1889–1903; repr, Hildesheim: Olms, 1959, 1972.</p>",
       "line_text": "Bonnet, Maximilien. “Acta Thomae.”  Pages xv–xxvii and 99–291 in vol. 2:2 of Acta apostolorum apocrypha. 2 vols. in 3. Edited by Richard A. Lipsius and Maximilien Bonnet. Leipzig: H. Mendelssohn, 1889–1903; repr, Hildesheim: Olms, 1959, 1972.",
       "language": "English",
@@ -716,8 +779,32 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Holst, Jonathan D. “Another Tale of Thomas: The Acts of Thomas and His Wonderworking Skin.” <em>Ancient Jew Review.</em> Posted 21 April 2021. Online: https://www.ancientjewreview.com/read/2021/3/20/another-tale-of-thomas-the-acts-of-thomas-and-his-wonderworking-skin.</p>",
-      "line_text": "Holst, Jonathan D. “Another Tale of Thomas: The Acts of Thomas and His Wonderworking Skin.” Ancient Jew Review. Posted 21 April 2021. Online: https://www.ancientjewreview.com/read/2021/3/20/another-tale-of-thomas-the-acts-of-thomas-and-his-wonderworking-skin.",
+      "line_html": "<p><a href=\"https://www.ancientjewreview.com/read/2021/3/20/another-tale-of-thomas-the-acts-of-thomas-and-his-wonderworking-skin\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Holste, Jonathan D. “Another Tale of Thomas: The Acts of Thomas and His Wonderworking Skin.” <em>Ancient Jew Review.</em> Posted 21 April 2021. Online: https://www.ancientjewreview.com/read/2021/3/20/another-tale-of-thomas-the-acts-of-thomas-and-his-wonderworking-skin.</p>",
+      "line_text": "Holste, Jonathan D. “Another Tale of Thomas: The Acts of Thomas and His Wonderworking Skin.” Ancient Jew Review. Posted 21 April 2021. Online: https://www.ancientjewreview.com/read/2021/3/20/another-tale-of-thomas-the-acts-of-thomas-and-his-wonderworking-skin.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.ancientjewreview.com/read/2021/3/20/another-tale-of-thomas-the-acts-of-thomas-and-his-wonderworking-skin"
+      ]
+    },
+    {
+      "line_html": "<p>Khalil, Sheikh. “On A.F.J. Klijn, <em>The Acts of Thomas</em>.” <em>Bulletin d’Arab Chrétien</em> II:2–3 (1978): 26–28.</p>",
+      "line_text": "Khalil, Sheikh. “On A.F.J. Klijn, The Acts of Thomas.” Bulletin d’Arab Chrétien II:2–3 (1978): 26–28.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/dieapokryphenap02lipsgoog/page/n267/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die Apokryphen Apostelgeschichten und Apostellegenden</em>. <em>Ein Beitrag zur altchristlichen Literaturgeschichte</em>. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 1, pp. 248–49, 273–76).</p>",
+      "line_text": "Lipsius, Richard A. Die Apokryphen Apostelgeschichten und Apostellegenden. Ein Beitrag zur altchristlichen Literaturgeschichte. 2 vols. Braunschweig: Schwetschke, 1883–1887 (vol. 1, pp. 248–49, 273–76).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/dieapokryphenap02lipsgoog/page/n267/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Monferrer Sala, Juan Pedro. “Rewriting and Modulation Techniques in Text Type ‘Arabic 1’ of the <em>Acts of Thomas</em>: A survey of Evaluation.” Pages 131–52 in <em>New Trends in the Research of the Apocryphal Acts of Thomas</em>. Edited by Israel Muñoz Gallarte and Lautaro Roig Lanzillota. SECA 20. Leuven: Peeters, 2024.</p>",
+      "line_text": "Monferrer Sala, Juan Pedro. “Rewriting and Modulation Techniques in Text Type ‘Arabic 1’ of the Acts of Thomas: A survey of Evaluation.” Pages 131–52 in New Trends in the Research of the Apocryphal Acts of Thomas. Edited by Israel Muñoz Gallarte and Lautaro Roig Lanzillota. SECA 20. Leuven: Peeters, 2024.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -728,8 +815,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Spittler, Janet E. “Suffering Thomas: Doubt, Pain, and Punishment int he Acts of Thomas and His Wonderworking Skin.” Pages 211–28 in <em>The Narrative Self in Early Christianity: Essays in Honor of Judith Perkins.</em> Edited by Janet E. Spittler. WGRWSup 15. Atlanta: SBL Press, 2019.</p>",
-      "line_text": "Spittler, Janet E. “Suffering Thomas: Doubt, Pain, and Punishment int he Acts of Thomas and His Wonderworking Skin.” Pages 211–28 in The Narrative Self in Early Christianity: Essays in Honor of Judith Perkins. Edited by Janet E. Spittler. WGRWSup 15. Atlanta: SBL Press, 2019.",
+      "line_html": "<p>Spittler, Janet E. “Suffering Thomas: Doubt, Pain, and Punishment in the Acts of Thomas and His Wonderworking Skin.” Pages 211–28 in <em>The Narrative Self in Early Christianity: Essays in Honor of Judith Perkins.</em> Edited by Janet E. Spittler. WGRWSup 15. Atlanta: SBL Press, 2019.</p>",
+      "line_text": "Spittler, Janet E. “Suffering Thomas: Doubt, Pain, and Punishment in the Acts of Thomas and His Wonderworking Skin.” Pages 211–28 in The Narrative Self in Early Christianity: Essays in Honor of Judith Perkins. Edited by Janet E. Spittler. WGRWSup 15. Atlanta: SBL Press, 2019.",
       "language": "English",
       "entry_type": "Other"
     },

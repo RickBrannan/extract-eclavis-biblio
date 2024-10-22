@@ -69,6 +69,21 @@
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p>Unevaluated</p>",
+      "line_text": "Unevaluated",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-624/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, fols. 152<sup>v</sup>–155<sup>v </sup>(1658)</p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 624, fols. 152v–155v (1658)",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-624/"
+      ]
+    },
+    {
       "line_html": "<p>No sigla currently assigned</p>",
       "line_text": "No sigla currently assigned",
       "language": "Ethiopic",

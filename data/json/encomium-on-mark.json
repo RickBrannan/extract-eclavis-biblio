@@ -1,23 +1,16 @@
 {
   "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-mark/",
-  "nasscal_title": "Encomium on Mark",
+  "nasscal_title": "Encomium on Mark, by John of Shmun",
   "filename": "encomium-on-mark",
   "latin_title": "Encomia in Marcum Euangelistam",
   "abbrev": "Encom. Mark",
+  "alt_titles": [
+    "Encomium on Mark"
+  ],
   "clavis_number": 277,
   "category": "Apocryphal Acts",
-  "compiler": "[not available]",
+  "compiler": ": Tony Burke, York University",
   "bibliography_entries": [
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">New York, Morgan Library and Museum, Amh. Copt. Pap. 15 ~ <a href=\"https://www.themorgan.org/manuscript/77262\" target=\"_blank\" rel=\"noopener\">MML</a>; <a href=\"https://atlas.paths-erc.eu/manuscripts/888\" target=\"_blank\" rel=\"noopener\">PATHs</a> (=Acts Mark)</p>",
-      "line_text": "New York, Morgan Library and Museum, Amh. Copt. Pap. 15 ~ MML; PATHs (=Acts Mark)",
-      "language": "Coptic",
-      "entry_type": "Manuscript",
-      "other_urls": [
-        "https://www.themorgan.org/manuscript/77262",
-        "https://atlas.paths-erc.eu/manuscripts/888"
-      ]
-    },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-gq/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.GQ, pp. 137–138, 155–156 (ca. 10th cent.)</p>",
       "line_text": "MONB.GQ, pp. 137–138, 155–156 (ca. 10th cent.)",
@@ -28,59 +21,49 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-ny/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.NY (<a href=\"https://atlas.paths-erc.eu/manuscripts/560\" target=\"_blank\" rel=\"noopener\">PAThs</a>)</p>",
-      "line_text": "MONB.NY (PAThs)",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-ny/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.NY (=Orlandi N)</p>",
+      "line_text": "MONB.NY (=Orlandi N)",
       "language": "Coptic",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/monb-ny/"
-      ],
-      "other_urls": [
-        "https://atlas.paths-erc.eu/manuscripts/560"
       ]
     },
     {
-      "line_html": "<p> </p>",
-      "line_text": " ",
+      "line_html": "<p style=\"padding-left: 40px;\">MONB.AY (<a href=\"https://atlas.paths-erc.eu/manuscripts/285\" target=\"_blank\" rel=\"noopener\">PAThs</a>) [see Orlandi’s <em>Mus</em> article, pp. 354–55] (=Orlandi A)</p>",
+      "line_text": "MONB.AY (PAThs) [see Orlandi’s Mus article, pp. 354–55] (=Orlandi A)",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/285"
+      ]
     },
     {
-      "line_html": "<p>Also MONB.AY (<a href=\"https://atlas.paths-erc.eu/manuscripts/285\" target=\"_blank\" rel=\"noopener\">PAThs</a>) [see Orlandi’s Mus article, pp. 354-55] and SIUD.AB (<a href=\"https://atlas.paths-erc.eu/manuscripts/6377\" target=\"_blank\" rel=\"noopener\">PAThs</a>)</p>",
-      "line_text": "Also MONB.AY (PAThs) [see Orlandi’s Mus article, pp. 354-55] and SIUD.AB (PAThs)",
+      "line_html": "<p style=\"padding-left: 40px;\">SIUD.AB (<a href=\"https://atlas.paths-erc.eu/manuscripts/6377\" target=\"_blank\" rel=\"noopener\">PAThs</a>) (=Orlandi C)</p>",
+      "line_text": "SIUD.AB (PAThs) (=Orlandi C)",
       "language": "Coptic",
-      "entry_type": "Edition",
+      "entry_type": "Manuscript",
       "other_urls": [
-        "https://atlas.paths-erc.eu/manuscripts/285",
         "https://atlas.paths-erc.eu/manuscripts/6377"
       ]
     },
     {
-      "line_html": "<p>Orlandi, Tito. <em>Studi copti. 1. Un encomio di Marco Evangelista. 2. Le fonti copte della Storia dei Patriarchi di Alessandria. 3. La leggenda di S. Mercurio.</em> Testi e documenti per lo studio dell’Antichità 22. Milan: <span aria-labelledby=\"publisher-216237121\"><span data-testid=\"publisher-216237121\">Instituto editoriale cisalpino</span></span>, 1968 (text from Paris MSS with Latin trans., pp. 7–52).</p>",
-      "line_text": "Orlandi, Tito. Studi copti. 1. Un encomio di Marco Evangelista. 2. Le fonti copte della Storia dei Patriarchi di Alessandria. 3. La leggenda di S. Mercurio. Testi e documenti per lo studio dell’Antichità 22. Milan: Instituto editoriale cisalpino, 1968 (text from Paris MSS with Latin trans., pp. 7–52).",
-      "language": "Coptic",
-      "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p>Orlandi, “<em>Un Codice copte</em> del Monastero Bianco.” Mus 81 (1968): 351-405.</p>",
-      "line_text": "Orlandi, “Un Codice copte del Monastero Bianco.” Mus 81 (1968): 351-405.",
-      "language": "Coptic",
-      "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p><a href=\"https://archive.org/details/cu31924029634262/page/n79/mode/2up?view=theater\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Crum, Walter E. <i>Theological Texts from Coptic Papyri</i>. Anecdota Oxoniensia, Semitic Series, 12. Oxford; Clarendon Press, 1913 (n. 15 , p. 65-68)</p>",
-      "line_text": "Crum, Walter E. Theological Texts from Coptic Papyri. Anecdota Oxoniensia, Semitic Series, 12. Oxford; Clarendon Press, 1913 (n. 15 , p. 65-68)",
+      "line_html": "<p><a href=\"http://www.cmcl.it/~orlandi/pubbli/stucop.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Orlandi, Tito. <em>Studi copti. 1. Un encomio di Marco Evangelista. 2. Le fonti copte della Storia dei Patriarchi di Alessandria. 3. La leggenda di S. Mercurio.</em> Testi e documenti per lo studio dell’Antichità 22. Milan: <span aria-labelledby=\"publisher-216237121\"><span data-testid=\"publisher-216237121\">Instituto editoriale cisalpino</span></span>, 1968 (text from portions of each extant MS with Latin trans., pp. 7–52).</p>",
+      "line_text": "Orlandi, Tito. Studi copti. 1. Un encomio di Marco Evangelista. 2. Le fonti copte della Storia dei Patriarchi di Alessandria. 3. La leggenda di S. Mercurio. Testi e documenti per lo studio dell’Antichità 22. Milan: Instituto editoriale cisalpino, 1968 (text from portions of each extant MS with Latin trans., pp. 7–52).",
       "language": "Coptic",
       "entry_type": "Edition",
       "other_urls": [
-        "https://archive.org/details/cu31924029634262/page/n79/mode/2up?view=theater"
+        "http://www.cmcl.it/~orlandi/pubbli/stucop.pdf"
       ]
     },
     {
-      "line_html": "<p>– this is MM 15</p>",
-      "line_text": "– this is MM 15",
+      "line_html": "<p><a href=\"http://www.cmcl.it/~orlandi/pubbli/pubbli13.pdf\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Orlandi, Tito. “Un Codice copte del Monastero Bianco.” <em>Mus</em> 81 (1968): 351–405 (Coptic text from MONB.AY, pp. 374–81; Latin trans., pp. 397–98; discussion of text, pp. 402–405)</p>",
+      "line_text": "Orlandi, Tito. “Un Codice copte del Monastero Bianco.” Mus 81 (1968): 351–405 (Coptic text from MONB.AY, pp. 374–81; Latin trans., pp. 397–98; discussion of text, pp. 402–405)",
       "language": "Coptic",
-      "entry_type": "Edition"
+      "entry_type": "Edition",
+      "other_urls": [
+        "http://www.cmcl.it/~orlandi/pubbli/pubbli13.pdf"
+      ]
     },
     {
       "line_html": "<p><a href=\"https://archive.org/details/catalogueofcopti00brituoft/page/132/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Crum, Walter E. <em>Catalogue of the Coptic Manuscripts in the British Museum</em>. London: British Museum, 1905 (p. 132).</p>",
@@ -92,28 +75,19 @@
       ]
     },
     {
-      "line_html": "<p>pp. ?–?: London, British Library, Or. 3581 B(14) [PAThs says this is Jos. Carp.]; prob. same cod. as BM 315 (MONB.MQ) 3581 B(29) [=Acts Simon]</p>",
-      "line_text": "pp. ?–?: London, British Library, Or. 3581 B(14) [PAThs says this is Jos. Carp.]; prob. same cod. as BM 315 (MONB.MQ) 3581 B(29) [=Acts Simon]",
-      "language": "Coptic",
-      "entry_type": "Edition"
+      "line_html": "<p>Sheridan, Mark. “The Encomium in the Coptic Literature of the Late Sixth Century.” Pages 443–64 in <em>Christianity in Egypt: Literary Production and Intellectual Trends. Studies in Honor of Tito Orlandi</em>. Edited by Paolo Buzi and Alberto Camplani. SEAug 125. Rome: Institutum Patristicum Augustinianum, 2011 (excerpts, pp. 451–54).</p>",
+      "line_text": "Sheridan, Mark. “The Encomium in the Coptic Literature of the Late Sixth Century.” Pages 443–64 in Christianity in Egypt: Literary Production and Intellectual Trends. Studies in Honor of Tito Orlandi. Edited by Paolo Buzi and Alberto Camplani. SEAug 125. Rome: Institutum Patristicum Augustinianum, 2011 (excerpts, pp. 451–54).",
+      "language": "English",
+      "entry_type": "Translation"
     },
     {
-      "line_html": "<p>pp. 29–30: London, British Library, Or. 3581 B(15)</p>",
-      "line_text": "pp. 29–30: London, British Library, Or. 3581 B(15)",
-      "language": "Coptic",
-      "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p>and 3581 B(15) (Crum 132-33)- =MONB.QY</p>",
-      "line_text": "and 3581 B(15) (Crum 132-33)- =MONB.QY",
-      "language": "Coptic",
-      "entry_type": "Edition"
-    },
-    {
-      "line_html": "<p>Crum 300 is Encom Mark; also IB.13 63-64 (prev. identified as Passio Petri Alexandrini (CC 0527)</p>",
-      "line_text": "Crum 300 is Encom Mark; also IB.13 63-64 (prev. identified as Passio Petri Alexandrini (CC 0527)",
-      "language": "Coptic",
-      "entry_type": "Edition"
+      "line_html": "<p><a href=\"http://www.cmcl.it/~orlandi/pubbli/stucop.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Orlandi, Tito. <em>Studi copti. 1. Un encomio di Marco Evangelista. 2. Le fonti copte della Storia dei Patriarchi di Alessandria. 3. La leggenda di S. Mercurio.</em> Testi e documenti per lo studio dell’Antichità 22. Milan: <span aria-labelledby=\"publisher-216237121\"><span data-testid=\"publisher-216237121\">Instituto editoriale cisalpino</span></span>, 1968 (text from portions of each extant MS with Latin trans., pp. 7–52).</p>",
+      "line_text": "Orlandi, Tito. Studi copti. 1. Un encomio di Marco Evangelista. 2. Le fonti copte della Storia dei Patriarchi di Alessandria. 3. La leggenda di S. Mercurio. Testi e documenti per lo studio dell’Antichità 22. Milan: Instituto editoriale cisalpino, 1968 (text from portions of each extant MS with Latin trans., pp. 7–52).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "http://www.cmcl.it/~orlandi/pubbli/stucop.pdf"
+      ]
     },
     {
       "line_html": "<p>Sheridan, Mark. “The Encomium in the Coptic Literature of the Late Sixth Century.” Pages 443–64 in <em>Christianity in Egypt: Literary Production and Intellectual Trends. Studies in Honor of Tito Orlandi</em>. Edited by Paolo Buzi and Alberto Camplani. SEAug 125. Rome: Institutum Patristicum Augustinianum, 2011 (see pp. 451–54).</p>",
@@ -122,8 +96,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 41–44). some trans of the text, note also he covers Encom Pet and Paul pp. 43-44 and Severus’ Homily on Mark pp. 44-50</p>",
-      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 41–44). some trans of the text, note also he covers Encom Pet and Paul pp. 43-44 and Severus’ Homily on Mark pp. 44-50",
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 41–42).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 41–42).",
       "language": "English",
       "entry_type": "Other"
     },

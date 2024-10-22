@@ -1,0 +1,143 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/passion-of-hermagora-and-fortunatus/",
+  "nasscal_title": "Passion of Hermagoras and Fortunatus",
+  "filename": "passion-of-hermagora-and-fortunatus",
+  "latin_title": "Passio Hermachorae et Fortunati",
+  "abbrev": "Pass. Herm. Fort.",
+  "clavis_number": 165,
+  "category": "Apocryphal Acts",
+  "compiler": ": Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Gottwig, Benedictine monastery, cod. 52 (olim F 10), fols. 44<sup>v</sup>–48<sup>r</sup> (12th/13th cent.) ~ BHL 3838; <a href=\"https://manuscripta.at/hs_detail.php?ID=36523\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Gottwig, Benedictine monastery, cod. 52 (olim F 10), fols. 44v–48r (12th/13th cent.) ~ BHL 3838; IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://manuscripta.at/hs_detail.php?ID=36523"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Klosterneuberg, Augustiner-Chorherrenstift, cod. 72, fol. 385 (1452) ~ <a href=\"https://manuscripta.at/hs_detail.php?ID=928\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Klosterneuberg, Augustiner-Chorherrenstift, cod. 72, fol. 385 (1452) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://manuscripta.at/hs_detail.php?ID=928"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Klosterneuberg, Augustiner-Chorherrenstift, cod. 76, fol. 197<sup>v</sup> (15th cent.) ~ <a href=\"https://manuscripta.at/hs_detail.php?ID=979\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Klosterneuberg, Augustiner-Chorherrenstift, cod. 76, fol. 197v (15th cent.) ~ IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://manuscripta.at/hs_detail.php?ID=979"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 5322 (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10721296q\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 5322 (13th cent.) ~ GALLICA",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10721296q"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Lat. 5323 (13th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10509004x\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Lat. 5323 (13th cent.) ~ GALLICA",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10509004x"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum30unse/page/n283/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean, et al., eds. <em>Acta Sanctorum, Julii.</em> Vol. 3. 3rd ed. Paris: V. Palmé, 1868 (pp. 238–46; Latin text from Mombritius, pp. 240–44).</p>",
+      "line_text": "Bolland, Jean, et al., eds. Acta Sanctorum, Julii. Vol. 3. 3rd ed. Paris: V. Palmé, 1868 (pp. 238–46; Latin text from Mombritius, pp. 240–44).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum30unse/page/n283/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sanctuariumseuvi02momb/page/6/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mombritius, Boninus. <em>Sanctuarium seu Vitae Sanctorum.</em> Milan: Tip. epónima, 1477–1478; repr. Paris: Fonetmoing et Socii, 1910 (Latin text, vol. 2, pp. 7–11).</p>",
+      "line_text": "Mombritius, Boninus. Sanctuarium seu Vitae Sanctorum. Milan: Tip. epónima, 1477–1478; repr. Paris: Fonetmoing et Socii, 1910 (Latin text, vol. 2, pp. 7–11).",
+      "language": "Latin",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sanctuariumseuvi02momb/page/6/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span id=\"page37R_mcid1703\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">Chiesa, Paolo, ed. “</span></span><span id=\"page21R_mcid1108\" class=\"markedContent\"/><span id=\"page37R_mcid1702\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">Passio Hermachorae et Fortunati.” Pages 133–99 in volume 1 of</span></span><em><span id=\"page37R_mcid1704\" class=\"markedContent\"> <span dir=\"ltr\" role=\"presentation\">Le passioni</span></span><span id=\"page37R_mcid1705\" class=\"markedContent\"> <span dir=\"ltr\" role=\"presentation\">dei martiri <span class=\"highlight appended\">aquil</span>eiesi e istriani</span></span></em><span id=\"page37R_mcid1706\" class=\"markedContent\">. 2 vols. Edited by<span id=\"page37R_mcid1703\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"> Emanuela Colombi. </span></span><span dir=\"ltr\" role=\"presentation\">Rome: Istituto storico italiano per il Medio Evo, 2008–2013 (text, pp. 172<span id=\"page37R_mcid1702\" class=\"markedContent\">–</span>88).</span></span></p>",
+      "line_text": "Chiesa, Paolo, ed. “Passio Hermachorae et Fortunati.” Pages 133–99 in volume 1 of Le passioni dei martiri aquileiesi e istriani. 2 vols. Edited by Emanuela Colombi. Rome: Istituto storico italiano per il Medio Evo, 2008–2013 (text, pp. 172–88).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Veronese, Maria, Ada Gonzato, and Massimiliano Poncina, eds. <em>Passioni</em><i> e Atti dei martiri. </i>Scrittori della Chiesa di Aquileia 2. Rome, 2002 (text from Acta Sanctorum, pp. 40<span id=\"page37R_mcid1706\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><span id=\"page37R_mcid1702\" class=\"markedContent\">–</span></span></span>54).</p>",
+      "line_text": "Veronese, Maria, Ada Gonzato, and Massimiliano Poncina, eds. Passioni e Atti dei martiri. Scrittori della Chiesa di Aquileia 2. Rome, 2002 (text from Acta Sanctorum, pp. 40–54).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><span id=\"page37R_mcid1703\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">Chiesa, Paolo, ed. “</span></span><span id=\"page21R_mcid1108\" class=\"markedContent\"/><span id=\"page37R_mcid1702\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\">Passio Hermachorae et Fortunati.” Pages 133–99 in volume 1 of</span></span><em><span id=\"page37R_mcid1704\" class=\"markedContent\"> <span dir=\"ltr\" role=\"presentation\">Le passioni</span></span><span id=\"page37R_mcid1705\" class=\"markedContent\"> <span dir=\"ltr\" role=\"presentation\">dei martiri <span class=\"highlight appended\">aquil</span>eiesi e istriani</span></span></em><span id=\"page37R_mcid1706\" class=\"markedContent\">. 2 vols. Edited by<span id=\"page37R_mcid1703\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"> Emanuela Colombi. </span></span><span dir=\"ltr\" role=\"presentation\">Rome: Istituto storico italiano per il Medio Evo, 2008–2013 (pp. 189<span id=\"page37R_mcid1702\" class=\"markedContent\">–99</span>).</span></span></p>",
+      "line_text": "Chiesa, Paolo, ed. “Passio Hermachorae et Fortunati.” Pages 133–99 in volume 1 of Le passioni dei martiri aquileiesi e istriani. 2 vols. Edited by Emanuela Colombi. Rome: Istituto storico italiano per il Medio Evo, 2008–2013 (pp. 189–99).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Veronese, Maria, Ada Gonzato, and Massimiliano Poncina, eds. <em>Passioni</em><i> e Atti dei martiri. </i>Scrittori della Chiesa di Aquileia 2. Rome, 2002 (pp. 41<span id=\"page37R_mcid1706\" class=\"markedContent\"><span dir=\"ltr\" role=\"presentation\"><span id=\"page37R_mcid1702\" class=\"markedContent\">–</span></span></span>55).</p>",
+      "line_text": "Veronese, Maria, Ada Gonzato, and Massimiliano Poncina, eds. Passioni e Atti dei martiri. Scrittori della Chiesa di Aquileia 2. Rome, 2002 (pp. 41–55).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Cerno, Mariana. “L’officina agriografica di Aquileia: Strategie del reimpego nella contesa con Grado per il titolo patriarcale.” <em>Rivista di cultura classica e medioevale</em> 55.2 (2014): 361–403 (pp. 364–73).</p>",
+      "line_text": "Cerno, Mariana. “L’officina agriografica di Aquileia: Strategie del reimpego nella contesa con Grado per il titolo patriarcale.” Rivista di cultura classica e medioevale 55.2 (2014): 361–403 (pp. 364–73).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n351/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lipsius, Richard A. <em>Die apokryphen Apostelgeschichten und Apostellegenden, </em>2 vols. in 3 parts. Braunschweig: C. A. Schwetschke und Sohn, 1883–1890 (see vol. 2.2, pp. 346–51).</p>",
+      "line_text": "Lipsius, Richard A. Die apokryphen Apostelgeschichten und Apostellegenden, 2 vols. in 3 parts. Braunschweig: C. A. Schwetschke und Sohn, 1883–1890 (see vol. 2.2, pp. 346–51).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_7v9PxLLVmt8C/page/n351/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><i><a href=\"https://archive.org/details/ButlersLivesOfTheSaintsCompleteEdition/page/n1565/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></i>Thurston, Herbert, and Donald Attwater, eds.<i> Butler’s Lives of the Saints</i>. 4 vols. New York: P. J. Kennedy and Sons, 1963 (vol. 3, p. 84).</p>",
+      "line_text": "Thurston, Herbert, and Donald Attwater, eds. Butler’s Lives of the Saints. 4 vols. New York: P. J. Kennedy and Sons, 1963 (vol. 3, p. 84).",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/ButlersLivesOfTheSaintsCompleteEdition/page/n1565/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.medievalworlds.net/0xc1aa5576%200x003c9cd4.pdf\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Veronese, Francesco, and Gieulia Zornetta. “Holiness on the Move: Relic Translations and the Affirmation of Authority on the Italian Edge of the Carolingian World.” <em>Medieval Worlds</em> 13 (2021): 54–75.</p>",
+      "line_text": "Veronese, Francesco, and Gieulia Zornetta. “Holiness on the Move: Relic Translations and the Affirmation of Authority on the Italian Edge of the Carolingian World.” Medieval Worlds 13 (2021): 54–75.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://www.medievalworlds.net/0xc1aa5576%200x003c9cd4.pdf"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

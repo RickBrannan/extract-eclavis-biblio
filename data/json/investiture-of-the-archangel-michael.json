@@ -6,7 +6,7 @@
   "abbrev": "Invest. Mich.",
   "clavis_number": 406,
   "category": "Pseudo-Apostolic Memoirs",
-  "compiler": "Hugo Lundhaug, University of Oslo",
+  "compiler": "Hugo Lundhaug, University of Oslo.",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m593/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>New York, Pierpont Morgan Library, M593, fols. 1<sup>r</sup>–30<sup>v</sup> (892/893) ~ complete text in Sahidic</p>",
@@ -177,6 +177,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Lundhaug, Hugo. “Textual Fluidity and Monastic Fanfiction: The Case of the Investiture of the Archangel Michael in Coptic Egypt.” Pages 59–73 in <i>The Archangel Michael in Africa: History, Cult and Persona</i>. Edited by Ingvild Sælid Gilhus, Alexandros Tsakos, and Marta Camilla Wright. London: Bloomsbury, 2019.</p>",
+      "line_text": "Lundhaug, Hugo. “Textual Fluidity and Monastic Fanfiction: The Case of the Investiture of the Archangel Michael in Coptic Egypt.” Pages 59–73 in The Archangel Michael in Africa: History, Cult and Persona. Edited by Ingvild Sælid Gilhus, Alexandros Tsakos, and Marta Camilla Wright. London: Bloomsbury, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Müller, C. Detlef G. <em>Die Engellehre der koptischen Kirche: Untersuchungen zur Geschichte der christlichen Frömmigkeit in Ägypten</em>. Wiesbaden: Otto Harrassowitz, 1959.</p>",
       "line_text": "Müller, C. Detlef G. Die Engellehre der koptischen Kirche: Untersuchungen zur Geschichte der christlichen Frömmigkeit in Ägypten. Wiesbaden: Otto Harrassowitz, 1959.",
       "language": "English",
@@ -185,6 +191,12 @@
     {
       "line_html": "<p>__________.   “Die alte koptische Predigt (Versuch eines Überblicks).” PhD Diss. Ruprecht-Karl-Universität, Heidelberg, 1954.</p>",
       "line_text": "__________.   “Die alte koptische Predigt (Versuch eines Überblicks).” PhD Diss. Ruprecht-Karl-Universität, Heidelberg, 1954.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Salsano, Anna. “The Archangel Michael in Coptic Homilies.” Pages 383–401 in <i> Inventer les anges de l’Antiquité à Byzance: conception, représentation, perception</i>. Edited by Delphine Lauritzen. Travaux et Mémoires 25/2. Paris: Association des Amis du Centre d’Histoire et Civilisation de Byzance, 2021.</p>",
+      "line_text": "Salsano, Anna. “The Archangel Michael in Coptic Homilies.” Pages 383–401 in  Inventer les anges de l’Antiquité à Byzance: conception, représentation, perception. Edited by Delphine Lauritzen. Travaux et Mémoires 25/2. Paris: Association des Amis du Centre d’Histoire et Civilisation de Byzance, 2021.",
       "language": "English",
       "entry_type": "Other"
     },

@@ -46,7 +46,22 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-59/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 59, fols. 126<sup>r</sup>–138<sup>r</sup> (19th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\">\n</p>",
+      "line_text": " ",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-christ-arab-94add-arab-130add-arab-148add-arab-149bryn-mawr-bryn-mawr-college-library-bv-69-leiden-universitatsbibliothek-or-14-238/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Bryn Mawr, Bryn Mawr College Library, BV 69 (ca. 830–880), fols. no longer extant</p>",
+      "line_text": "Bryn Mawr, Bryn Mawr College Library, BV 69 (ca. 830–880), fols. no longer extant",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-christ-arab-94add-arab-130add-arab-148add-arab-149bryn-mawr-bryn-mawr-college-library-bv-69-leiden-universitatsbibliothek-or-14-238/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-59/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cairo, Coptic Museum, 59, fols. 126<sup>r</sup>–138<sup>r</sup> (19th cent.)</p>",
       "line_text": "Cairo, Coptic Museum, 59, fols. 126r–138r (19th cent.)",
       "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
@@ -70,12 +85,12 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-christ-arab-94add-arab-130add-arab-148add-arab-149bryn-mawr-bryn-mawr-college-library-bv-69-leiden-universitatsbibliothek-or-14-238/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Bryn Mawr, Bryn Mawr College Library, BV 69 (ca. 830–880), fols. no longer extant</p>",
-      "line_text": "Bryn Mawr, Bryn Mawr College Library, BV 69 (ca. 830–880), fols. no longer extant",
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-bodl-ar-541/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\"/></a></strong>Oxford, Bodleian Library, Bodl. Ar. 541 (Nicoll 49), fols. 90<sup>v</sup>–99<sup>r</sup> (18th cent.)</p>",
+      "line_text": "Oxford, Bodleian Library, Bodl. Ar. 541 (Nicoll 49), fols. 90v–99r (18th cent.)",
       "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
-        "https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-christ-arab-94add-arab-130add-arab-148add-arab-149bryn-mawr-bryn-mawr-college-library-bv-69-leiden-universitatsbibliothek-or-14-238/"
+        "https://www.nasscal.com/manuscripta-apocryphorum/oxford-bodleian-library-bodl-ar-541/"
       ]
     },
     {
@@ -100,7 +115,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-199/\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 199, fols. 194<sup>r</sup>–201<sup>v</sup> (1545)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-sir-199/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 199, fols. 194<sup>r</sup>–201<sup>v</sup> (1545)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. sir. 199, fols. 194r–201v (1545)",
       "language": ".2 Garšūnī Script",
       "entry_type": "Manuscript",

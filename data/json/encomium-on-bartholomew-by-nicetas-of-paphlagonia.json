@@ -21,7 +21,7 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē 41, fols. 351v–355v (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33885/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē 41, fols. 351<sup>v</sup>–355<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33885/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
       "line_text": "Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē 41, fols. 351v–355v (16th cent.) ~ Pinakes",
       "language": "Greek",
       "entry_type": "Manuscript",
@@ -166,21 +166,23 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 755, fols. 151<sup>v</sup>–159<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50338/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
-      "line_text": "Paris, Bibliothèque nationale de France, gr. 755, fols. 151v–159v (11th cent.) ~ Pinakes",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 755, fols. 151<sup>v</sup>–159<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50338/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10509299n\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 755, fols. 151v–159v (11th cent.) ~ Pinakes; Gallica",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://pinakes.irht.cnrs.fr/notices/cote/50338/"
+        "https://pinakes.irht.cnrs.fr/notices/cote/50338/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10509299n"
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1180, fols. 219<sup>r</sup>–224<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50783/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
-      "line_text": "Paris, Bibliothèque nationale de France, gr. 1180, fols. 219r–224v (10th cent.) ~ Pinakes",
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1180, fols. 219<sup>r</sup>–224<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50783/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10086092t?rk=193134;0\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1180, fols. 219r–224v (10th cent.) ~ Pinakes; Gallica",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://pinakes.irht.cnrs.fr/notices/cote/50783/"
+        "https://pinakes.irht.cnrs.fr/notices/cote/50783/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10086092t?rk=193134;0"
       ]
     },
     {

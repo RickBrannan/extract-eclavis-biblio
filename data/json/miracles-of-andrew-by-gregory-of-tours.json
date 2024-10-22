@@ -39,7 +39,7 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 19<sup>r</sup>–34<sup>v</sup> (12th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-12604/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Paris, Bibliothèque nationale de France, lat. 12604, fols. 19<sup>r</sup>–34<sup>v</sup> (12th cent.)</p>",
       "line_text": "Paris, Bibliothèque nationale de France, lat. 12604, fols. 19r–34v (12th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -69,7 +69,7 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 28<sup>v</sup>–52<sup>r</sup>; illustrations fol. 27<sup>v</sup>, 28<sup>r</sup> (1175)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-13074/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 28<sup>v</sup>–52<sup>r</sup>; illustrations fol. 27<sup>v</sup>, 28<sup>r</sup> (1175)</p>",
       "line_text": "Munich, Bayerische Staatsbibliothek, Clm 13074, fols. 28v–52r; illustrations fol. 27v, 28r (1175)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -93,7 +93,16 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36<span class=\"s1\"><sup>v</sup></span>–57<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 8565, pp. 241–266 (12th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.lat.8565\" target=\"_blank\" rel=\"noopener\">BAV</a>; not known to Bonnet</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 8565, pp. 241–266 (12th cent.) ~ BAV; not known to Bonnet",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.lat.8565"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/wolfenbuttel-herzog-august-bibliothek-weissenburg-48/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36<span class=\"s1\"><sup>v</sup></span>–57<span class=\"s1\"><sup>v</sup></span> (9th cent.)</p>",
       "line_text": "Wolfenbüttel, Herzog August Bibliothek Weissenburg, 48, fols. 36v–57v (9th cent.)",
       "language": "Latin",
       "entry_type": "Manuscript",
@@ -131,6 +140,12 @@
     {
       "line_html": "<p>Prieur, Jean-Marc. <em>Acta Andreae.</em> 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (reproduction of Bonnet’s introduction, vol. 2, pp. 556–63, and edition with Prieur’s facing French translation, 564–651; introductory notes, pp. 553–54).</p>",
       "line_text": "Prieur, Jean-Marc. Acta Andreae. 2 vols. CCSA 5–6. Turnhout: Brepols, 1989 (reproduction of Bonnet’s introduction, vol. 2, pp. 556–63, and edition with Prieur’s facing French translation, 564–651; introductory notes, pp. 553–54).",
+      "language": "Latin",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Reynolds, Burnam W., Randy R. Richardson, and Raymond van Dam, eds. and trans. <em>Gregory of Tours: The Book of the Miracles of the Blessed Andrew the Apostle</em>. Dallas Medieval Texts and Translations 29. Leuven: Peeters, 2022 (Bonnet’s Latin text with English translation).</p>",
+      "line_text": "Reynolds, Burnam W., Randy R. Richardson, and Raymond van Dam, eds. and trans. Gregory of Tours: The Book of the Miracles of the Blessed Andrew the Apostle. Dallas Medieval Texts and Translations 29. Leuven: Peeters, 2022 (Bonnet’s Latin text with English translation).",
       "language": "Latin",
       "entry_type": "Edition"
     },
@@ -176,6 +191,12 @@
     {
       "line_html": "<p>Prieur, Jean-Marc, and Wilhelm Schneemelcher. “The Acts of Andrew.” Pages 101–51  in <em>New Testament Apocrypha</em>. Vol. 2:  <em>Writings Relating to the Apostles; Apocalypses and Related Subjects</em>. Edited by Wilhem Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (summary, pp. 118–23).</p>",
       "line_text": "Prieur, Jean-Marc, and Wilhelm Schneemelcher. “The Acts of Andrew.” Pages 101–51  in New Testament Apocrypha. Vol. 2:  Writings Relating to the Apostles; Apocalypses and Related Subjects. Edited by Wilhem Schneemelcher. Translated by R. McLachlan Wilson.  Louisville, KY: Westminster John Knox, 1992 (summary, pp. 118–23).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Reynolds, Burnam W., Randy R. Richardson, and Raymond van Dam, eds. and trans. <em>Gregory of Tours: The Book of the Miracles of the Blessed Andrew the Apostle</em>. Dallas Medieval Texts and Translations 29. Leuven: Peeters, 2022 (Bonnet’s Latin text with English translation).</p>",
+      "line_text": "Reynolds, Burnam W., Randy R. Richardson, and Raymond van Dam, eds. and trans. Gregory of Tours: The Book of the Miracles of the Blessed Andrew the Apostle. Dallas Medieval Texts and Translations 29. Leuven: Peeters, 2022 (Bonnet’s Latin text with English translation).",
       "language": "English",
       "entry_type": "Translation"
     },

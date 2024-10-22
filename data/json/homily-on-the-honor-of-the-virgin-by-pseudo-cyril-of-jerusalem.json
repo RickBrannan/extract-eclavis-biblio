@@ -1,0 +1,59 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-honor-of-the-virgin-by-pseudo-cyril-of-jerusalem/",
+  "nasscal_title": "Homily on the Honor of the Virgin by Pseudo-Cyril of Jerusalem",
+  "filename": "homily-on-the-honor-of-the-virgin-by-pseudo-cyril-of-jerusalem",
+  "latin_title": "Oratio de honore Mariae, auctore Pseudo-Cyrillo Hieroslymitano",
+  "abbrev": "Hom. Honor Vir.",
+  "alt_titles": [
+    "Homily on the Honor of the Virgin"
+  ],
+  "clavis_number": 145,
+  "category": "Pseudo-Apostolic Memoirs; Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/monb-dl/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-10296 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2021/03/Materiae-apocryphorum-bullet.jpg?resize=75%2C25&amp;ssl=1\" alt=\"\" width=\"75\" height=\"25\" data-recalc-dims=\"1\"/></a>MONB.DL (10th/11th cent.) ~ see link for editions</p>",
+      "line_text": "MONB.DL (10th/11th cent.) ~ see link for editions",
+      "language": "Coptic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/monb-dl/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesapocryphescop0000unse/page/58/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Revillout, Eugène. <em>Les apocryphes coptes.</em> <em>Première partie: Les Évangiles des douze apôtres et de saint Barthélemy</em>. PO 2/2. Paris: Firmin Didot, 1904 (edition and translation of portions of MONB.DL, pp. 58–67).</p>",
+      "line_text": "Revillout, Eugène. Les apocryphes coptes. Première partie: Les Évangiles des douze apôtres et de saint Barthélemy. PO 2/2. Paris: Firmin Didot, 1904 (edition and translation of portions of MONB.DL, pp. 58–67).",
+      "language": "French",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/lesapocryphescop0000unse/page/58/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Moraldi, Luigi. <em>Apocrifi del Nuovo Testamento</em>. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translation of edition by Revillout, vol. 1, pp. 896–900).</p>",
+      "line_text": "Moraldi, Luigi. Apocrifi del Nuovo Testamento. 2 vols. Classici delle religioni, Sezione quarta, La religione cattolica 24. Turin: Unione Tipografico-Editrice Torinese, 1971 (translation of edition by Revillout, vol. 1, pp. 896–900).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/monasteriesofwdi01evel/page/54/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Evelyn White, Hugh G. <em>The Monasteries of the Wadi ‘n Natrûn</em>. Part 1:<em> New Coptic Texts from the Monastery of Saint Macarius</em>. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926.</p>",
+      "line_text": "Evelyn White, Hugh G. The Monasteries of the Wadi ‘n Natrûn. Part 1: New Coptic Texts from the Monastery of Saint Macarius. The Metropolitan Museum of Art Egyptian Expedition. New York: Metropolitan Museum of Art, 1926.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/monasteriesofwdi01evel/page/54/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

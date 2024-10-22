@@ -1,0 +1,150 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/homily-on-the-dormition-of-the-virgin-by-john-of-birtha/",
+  "nasscal_title": "Homily on the Dormition of the Virgin, by John of Birtha",
+  "filename": "homily-on-the-dormition-of-the-virgin-by-john-of-birtha",
+  "latin_title": "Oratio metrica de dormitione B. V. Mariae, auctore Iohanne ep. Birthensi",
+  "abbrev": "Hom. Dorm. Vir.",
+  "alt_titles": [
+    "Homily on the Dormition of the Virgin"
+  ],
+  "clavis_number": 157,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Saint Mark’s Monastery, 346, fols. 65<sup>r</sup>–67<sup>v</sup> (1894) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/136518\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Jerusalem, Saint Mark’s Monastery, 346, fols. 65r–67v (1894) ~ HMML",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/136518"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Saint Mark’s Monastery (?), 43, fols. 24<sup>r</sup>–26<sup>r</sup> (12th/13th cent.)</p>",
+      "line_text": "Jerusalem, Saint Mark’s Monastery (?), 43, fols. 24r–26r (12th/13th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Biblothèque nationale de France, syr. 177, fols. 101<sup>v</sup>–110<sup>r</sup> (1521/1522) ~ attributed to Timothy of Birtha; <a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k2299742/f132.item\" target=\"_blank\" rel=\"noopener\">CATALOG</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100875566\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "Paris, Biblothèque nationale de France, syr. 177, fols. 101v–110r (1521/1522) ~ attributed to Timothy of Birtha; CATALOG; GALLICA",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/bpt6k2299742/f132.item",
+        "https://gallica.bnf.fr/ark:/12148/btv1b100875566"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-sir-128/\"><img decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"ma-bullet\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Borg. sir. 128 (1720) ~ cited by Mimouni (perhaps erroneous)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Borg. sir. 128 (1720) ~ cited by Mimouni (perhaps erroneous)",
+      "language": "Syriac",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-borg-sir-128/"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/orienschristian02grgoog/page/100/mode/1up?view=theater\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Baumstark, Anton.  “Zwei syrische Dichtungen auf das Entschlafen der allerseligsten Jungfrau.” <em>Oriens Christianus</em> 5 (1905): 82–125 (Syriac text based on Jerusalem 43 with facing Latin translation, pp. 100–25).</p>",
+      "line_text": "Baumstark, Anton.  “Zwei syrische Dichtungen auf das Entschlafen der allerseligsten Jungfrau.” Oriens Christianus 5 (1905): 82–125 (Syriac text based on Jerusalem 43 with facing Latin translation, pp. 100–25).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/orienschristian02grgoog/page/100/mode/1up?view=theater"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/orienschristian02grgoog/page/100/mode/1up?view=theater\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Baumstark, Anton.  “Zwei syrische Dichtungen auf das Entschlafen der allerseligsten Jungfrau.” <em>Oriens Christianus</em> 5 (1905): 82–125 (Syriac text based on Jerusalem 43 with facing Latin translation, pp. 100–25).</p>",
+      "line_text": "Baumstark, Anton.  “Zwei syrische Dichtungen auf das Entschlafen der allerseligsten Jungfrau.” Oriens Christianus 5 (1905): 82–125 (Syriac text based on Jerusalem 43 with facing Latin translation, pp. 100–25).",
+      "language": "Latin",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/orienschristian02grgoog/page/100/mode/1up?view=theater"
+      ]
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les textes litteraires sur l’Assomption avant le X<sup>e  </sup>siècle.” Pages 265–85 in <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.</p>",
+      "line_text": "Esbroeck, Michel van. “Les textes litteraires sur l’Assomption avant le Xe  siècle.” Pages 265–85 in Les actes apocryphes des apôtres. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McNamara, Martin. “Transitus Mariae: General Introduction.” Pages 225–44 in <em>Apocrypha Hiberniae II. Apocalyptica 2.</em> Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019.</p>",
+      "line_text": "McNamara, Martin. “Transitus Mariae: General Introduction.” Pages 225–44 in Apocrypha Hiberniae II. Apocalyptica 2. Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=iPiR0YOnWFkC&amp;pg=PA214&amp;lpg=PA214&amp;dq=Le+Saint-Macaire+488+(Hag.+75)&amp;source=bl&amp;ots=tCbqKUbyqv&amp;sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&amp;q=Le%20Saint-Macaire%20488%20(Hag.%2075)&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mimouni, Simon. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995.</p>",
+      "line_text": "Mimouni, Simon. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011.</p>",
+      "line_text": "__________. Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YuQTDAAAQBAJ&amp;pg=PA36&amp;lpg=PA36&amp;dq=assumption+melito&amp;source=bl&amp;ots=LG3w97lJwh&amp;sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&amp;q=assumption%20melito&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=YuQTDAAAQBAJ&pg=PA36&lpg=PA36&dq=assumption+melito&source=bl&ots=LG3w97lJwh&sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&hl=en&sa=X&ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&q=assumption%20melito&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. <em>Mary in Early Christian Faith and Devotion.</em> New Haven: Yale University Press, 2016.</p>",
+      "line_text": "__________. Mary in Early Christian Faith and Devotion. New Haven: Yale University Press, 2016.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955.</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=iPiR0YOnWFkC&amp;pg=PA214&amp;lpg=PA214&amp;dq=Le+Saint-Macaire+488+(Hag.+75)&amp;source=bl&amp;ots=tCbqKUbyqv&amp;sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&amp;q=Le%20Saint-Macaire%20488%20(Hag.%2075)&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mimouni, Simon C. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995 (pp. 110–12).</p>",
+      "line_text": "Mimouni, Simon C. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995 (pp. 110–12).",
+      "language": "Homily on the Dormition of the Virgin, by John of Birtha",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p class=\"p1\">__________. “La fête de la Dormition de Marie en Syrie à l’époque byzantine.” <em>Harp</em> 5 (1992): 157–74. Reprinted as pages 229–46 in <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie. Études littéraires, historiques et doctrinales.</em> VC Supp 104. Leiden: Brill, 2011 (pp. 236–37; see also pp. 166–67).</p>",
+      "line_text": "__________. “La fête de la Dormition de Marie en Syrie à l’époque byzantine.” Harp 5 (1992): 157–74. Reprinted as pages 229–46 in Les traditions anciennes sur la Dormition et l’Assomption de Marie. Études littéraires, historiques et doctrinales. VC Supp 104. Leiden: Brill, 2011 (pp. 236–37; see also pp. 166–67).",
+      "language": "Homily on the Dormition of the Virgin, by John of Birtha",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p class=\"p1\"><a href=\"https://archive.org/details/212605546-martin-jugie-la-mort-et-l-assomption-de-la-sainte-vierge/page/n125/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Jugie, Martin. <em>La mort et l’assomption de la Sainte Vierge. Étude historico-doctrinale.</em> Vatican City: Biblioteca Apostolica Vaticana, 1944 (p. 243).</p>",
+      "line_text": "Jugie, Martin. La mort et l’assomption de la Sainte Vierge. Étude historico-doctrinale. Vatican City: Biblioteca Apostolica Vaticana, 1944 (p. 243).",
+      "language": "Homily on the Dormition of the Virgin, by John of Birtha",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/212605546-martin-jugie-la-mort-et-l-assomption-de-la-sainte-vierge/page/n125/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "Homily on the Dormition of the Virgin, by John of Birtha",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "Homily on the Dormition of the Virgin, by John of Birtha",
+      "entry_type": "Other"
+    }
+  ]
+}

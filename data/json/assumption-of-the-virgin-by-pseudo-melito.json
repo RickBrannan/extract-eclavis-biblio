@@ -259,6 +259,12 @@
       ]
     },
     {
+      "line_html": "<p>Clayton, Mary. <em>The Apocryphal Gospels of Mary in Anglo-Saxon England</em>. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998.</p>",
+      "line_text": "Clayton, Mary. The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26. Cambridge: Cambridge University Press, 1998.",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
       "line_html": "<p>Elliott, J. K. <em>The Apocryphal New Testament</em>. Oxford: Clarendon Press, 1993 (translation of B<sup>1</sup> pp. 691–723, esp. 708–14).</p>",
       "line_text": "Elliott, J. K. The Apocryphal New Testament. Oxford: Clarendon Press, 1993 (translation of B1 pp. 691–723, esp. 708–14).",
       "language": "English",
@@ -312,6 +318,12 @@
     {
       "line_html": "<p>Bagatti, Bellarmino. “Le due redazioni del ‘Transitus Mariae.’” <em>Marianum</em> 32 (1970): 5–13.</p>",
       "line_text": "Bagatti, Bellarmino. “Le due redazioni del ‘Transitus Mariae.’” Marianum 32 (1970): 5–13.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Junod, Eric and Jean-Daniel Kaestli. “Le dossier des ‘Actes de Jean’: état de la question et perspectives nouvelles.” <em>ANRW</em> 25,6 (1988): 4293–4362 (at 4321–26).</p>",
+      "line_text": "Junod, Eric and Jean-Daniel Kaestli. “Le dossier des ‘Actes de Jean’: état de la question et perspectives nouvelles.” ANRW 25,6 (1988): 4293–4362 (at 4321–26).",
       "language": "English",
       "entry_type": "Other"
     },

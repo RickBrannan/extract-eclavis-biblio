@@ -18,6 +18,16 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, Bodleian Library, Laud. Misc. 633 (12th cent.) ~ <a href=\"https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7421\" target=\"_blank\" rel=\"noopener\">CATALOG</a>; <a href=\"https://digital.bodleian.ox.ac.uk/objects/d5550da2-fa4f-46bd-89f6-10c465a5e70c/\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Oxford, Bodleian Library, Laud. Misc. 633 (12th cent.) ~ CATALOG; IMAGES",
+      "language": "Latin",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7421",
+        "https://digital.bodleian.ox.ac.uk/objects/d5550da2-fa4f-46bd-89f6-10c465a5e70c/"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Harley 2277 (ca. 1300) ~ <a href=\"https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7679&amp;CollID=8&amp;NStart=2277\" target=\"_blank\" rel=\"noopener\">CATALOG</a></p>",
       "line_text": "London, British Library, Harley 2277 (ca. 1300) ~ CATALOG",
       "language": "Middle English",

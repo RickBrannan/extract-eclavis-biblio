@@ -147,6 +147,15 @@
       "entry_type": "Manuscript"
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Goğğām Province (Ethiopia), Dabra Abuna Ḥarā Monastery, EMML 8628, fols. 27<sup>r</sup>–49<sup>r</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/201474\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Goğğām Province (Ethiopia), Dabra Abuna Ḥarā Monastery, EMML 8628, fols. 27r–49r (18th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/201474"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 604, fols. 45r–65r (1716–1721)</p>",
       "line_text": "London, British Library, Or. 604, fols. 45r–65r (1716–1721)",
       "language": "Ethiopic",
@@ -207,6 +216,36 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">Berlin, <span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\"><span class=\"x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x3x7a5m x6prxxf xvq8zen xo1l8bm xzsf02u\" dir=\"auto\">Berlin-Brandenburgische Akademie der Wissenschaften</span></span>, E30 (olim C44), fols. 1–2 (10th/11th cent.)</p>",
+      "line_text": "Berlin, Berlin-Brandenburgische Akademie der Wissenschaften, E30 (olim C44), fols. 1–2 (10th/11th cent.)",
+      "language": "Sogdian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Additional fragments: 12600, 20222b, 20223, 20227</p>",
+      "line_text": "Additional fragments: 12600, 20222b, 20223, 20227",
+      "language": "Sogdian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Sims-Williams, Nicholas. <i>Biblical and Other Christian Sogdian Texts from the Turfan Collection</i>. Turnhout: Brepols, 2014 (edition and translation, pp. 125–33).</p>",
+      "line_text": "Sims-Williams, Nicholas. Biblical and Other Christian Sogdian Texts from the Turfan Collection. Turnhout: Brepols, 2014 (edition and translation, pp. 125–33).",
+      "language": "Sogdian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>__________, <em>From Liturgy to Pharmacology. Christian Sogdian Texts from the Turfan Collection</em>. Turnhout: Brepols, 2019 (discussion of the additional fragments, pp. 145–54).</p>",
+      "line_text": "__________, From Liturgy to Pharmacology. Christian Sogdian Texts from the Turfan Collection. Turnhout: Brepols, 2019 (discussion of the additional fragments, pp. 145–54).",
+      "language": "Sogdian",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p class=\"p1\">__________, <em>Mitteliranische Handschriften 4: Iranian Manuscripts in Syriac Script in the Berlin Turfan Collection.</em> Stuttgart: Franz Steiner, 2012 (description of manuscript, pp. 169–71).</p>",
+      "line_text": "__________, Mitteliranische Handschriften 4: Iranian Manuscripts in Syriac Script in the Berlin Turfan Collection. Stuttgart: Franz Steiner, 2012 (description of manuscript, pp. 169–71).",
+      "language": "Sogdian",
+      "entry_type": "Edition"
+    },
+    {
       "line_html": "<p>Incorporated also in the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-mary-west-syriac/\"><em>Life of Mary (West Syriac)</em></a> and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/history-of-the-virgin-east-syriac/\"><em>History of the Virgin (East Syriac)</em></a> (see entries for manuscript listings).</p>",
       "line_text": "Incorporated also in the Life of Mary (West Syriac) and the History of the Virgin (East Syriac) (see entries for manuscript listings).",
       "language": "Syriac",
@@ -235,8 +274,14 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10-mount-sinai-mone-tes-hagias-aikaterines-m26n-sp-78/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"ma-bullet\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fols. 4<sup>v</sup>–37<sup>v</sup> (5th/6th cent.)</p>",
-      "line_text": "Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fols. 4v–37v (5th/6th cent.)",
+      "line_html": "<p style=\"padding-left: 40px;\">Damascus, Syriac Orthodox Patriarchate, 361 (12th cent.)</p>",
+      "line_text": "Damascus, Syriac Orthodox Patriarchate, 361 (12th cent.)",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10-mount-sinai-mone-tes-hagias-aikaterines-m26n-sp-78/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"ma-bullet\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a></strong>Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fols. 4<sup>v</sup>–37<sup>v</sup> (6th cent.)</p>",
+      "line_text": "Göttingen, Universitätsbibliothek, syr. 10 + Mount Sinai, Monē tēs Hagias Aikaterinēs, M26N + Sp. 78, fols. 4v–37v (6th cent.)",
       "language": "Syriac",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
@@ -322,14 +367,14 @@
       ]
     },
     {
-      "line_html": "<p>Hochstedler, Andrew. “The Late Antique Syriac <i>Book of Mary</i> and a New Witness to the <i>Departure of Mary </i>in Six Books from Sinai Arabic 588.” <em>Apocrypha</em> 33 (2022): 91–166.</p>",
-      "line_text": "Hochstedler, Andrew. “The Late Antique Syriac Book of Mary and a New Witness to the Departure of Mary in Six Books from Sinai Arabic 588.” Apocrypha 33 (2022): 91–166.",
+      "line_html": "<p>Hochstedler, Andrew. “The Late Antique Syriac <i>Book of Mary</i> and a New Witness to the <i>Departure of Mary </i>in Six Books from Sinai Arabic 588.” <em>Apocrypha</em> 33 (2022): 91–166 (edition and parallel English translation of the manuscript, pp. 125–66).</p>",
+      "line_text": "Hochstedler, Andrew. “The Late Antique Syriac Book of Mary and a New Witness to the Departure of Mary in Six Books from Sinai Arabic 588.” Apocrypha 33 (2022): 91–166 (edition and parallel English translation of the manuscript, pp. 125–66).",
       "language": "Syriac",
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p><a href=\"https://archive.org/details/apocryphasyriac00goog\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith, ed. <em>Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries</em>. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 and translation, pp. 12–69 [Syriac numbering]; text of Sinai Palimpsest 30, pp. 150–57 [Syriac numbering]).</p>",
-      "line_text": "Lewis, Agnes Smith, ed. Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 and translation, pp. 12–69 [Syriac numbering]; text of Sinai Palimpsest 30, pp. 150–57 [Syriac numbering]).",
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphasyriac00goog\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith, ed. <em>Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries</em>. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 [Syriac numbering] and translation, pp. 12–69; text of Sinai Palimpsest 30, pp. 150–57 [Syriac numbering]).</p>",
+      "line_text": "Lewis, Agnes Smith, ed. Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 [Syriac numbering] and translation, pp. 12–69; text of Sinai Palimpsest 30, pp. 150–57 [Syriac numbering]).",
       "language": "Syriac",
       "entry_type": "Edition",
       "other_urls": [
@@ -367,8 +412,23 @@
       "entry_type": "Translation"
     },
     {
+      "line_html": "<p><a href=\"https://archive.org/details/apocryphasyriac00goog/page/n123/mode/2up\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lewis, Agnes Smith, ed. <em>Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries</em>. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 [Syriac numbering] and translation, pp. 12–69).</p>",
+      "line_text": "Lewis, Agnes Smith, ed. Apocrypha Syriaca. The Protevangelium Jacobi and Transitus Mariae with Texts from the Septuagint, the Corân, the Peshitta, and from a Syriac Hymn in a Syro-Arabic Palimpsest of the Fifth and Other Centuries. Studia Sinaitica 11. London: C. J. Clay, 1902 (text from Cambridge Or. 1287, pp. 2–115 [Syriac numbering] and translation, pp. 12–69).",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://archive.org/details/apocryphasyriac00goog/page/n123/mode/2up"
+      ]
+    },
+    {
       "line_html": "<p>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford: Oxford University Press, 2002 (palimpsest fragments from Sinai ar. 30, pp. 370–74).</p>",
       "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: Oxford University Press, 2002 (palimpsest fragments from Sinai ar. 30, pp. 370–74).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>__________, trans. <em>The Dormition and Assumption of the Virgin Mary</em>. Apocryphes 17. Turnhout: Brepols, 2023 (translation based on Göttingen, Universitätsbibliothek, syr. 10, pp. 175–233).</p>",
+      "line_text": "__________, trans. The Dormition and Assumption of the Virgin Mary. Apocryphes 17. Turnhout: Brepols, 2023 (translation based on Göttingen, Universitätsbibliothek, syr. 10, pp. 175–233).",
       "language": "English",
       "entry_type": "Translation"
     },
@@ -442,6 +502,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>__________. “Dormition Urtext?: Oldest Dormition Wall Painting Combines the Great Angel and Women with Censers.” Pages 185–202 in <em>Rediscovering the Marys: Maria, Mariamne, Miriam</em>. Edited by Mary Ann Beavis and Ally Kateusz. Scriptural Traces: Critical Perspectives on the Reception and Influence of the Bible 22. Library of New Testament Studies 620. London: T &amp; T Clark, 2020.</p>",
+      "line_text": "__________. “Dormition Urtext?: Oldest Dormition Wall Painting Combines the Great Angel and Women with Censers.” Pages 185–202 in Rediscovering the Marys: Maria, Mariamne, Miriam. Edited by Mary Ann Beavis and Ally Kateusz. Scriptural Traces: Critical Perspectives on the Reception and Influence of the Bible 22. Library of New Testament Studies 620. London: T &amp; T Clark, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p><a href=\"https://www.palgrave.com/gp/book/9783030111106\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>__________. <em>Mary and Early Christian Women: Hidden Leadership</em>. New York: Palgrave Macmillan, 2019 (pp. 19–48).</p>",
       "line_text": "__________. Mary and Early Christian Women: Hidden Leadership. New York: Palgrave Macmillan, 2019 (pp. 19–48).",
       "language": "English",
@@ -463,6 +529,15 @@
       "entry_type": "Other",
       "other_urls": [
         "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://austriaca.at/0xc1aa5576%200x003d1e9b.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Pirtea, Adrian C. “The Syrian and Sogdian Prefaces to the Six Books on the Dormition of the Virgin Mary: Marian Traditions between the Eastern Mediterranean and Central Asia.” Pages 279–331 in <em>Iranianate and Syriac Christianity in Late Antiquity and the Early Islamic Period</em>. Edited by Chiara Barbatti and Vittorio Berti. Vienna: Austrian Academy of Science Press, 2021.</p>",
+      "line_text": "Pirtea, Adrian C. “The Syrian and Sogdian Prefaces to the Six Books on the Dormition of the Virgin Mary: Marian Traditions between the Eastern Mediterranean and Central Asia.” Pages 279–331 in Iranianate and Syriac Christianity in Late Antiquity and the Early Islamic Period. Edited by Chiara Barbatti and Vittorio Berti. Vienna: Austrian Academy of Science Press, 2021.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://austriaca.at/0xc1aa5576%200x003d1e9b.pdf"
       ]
     },
     {

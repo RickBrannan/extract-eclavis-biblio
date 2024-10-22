@@ -128,12 +128,12 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 413, pp. 329–362 (13th/14th cent.) ~ <a href=\"https://www.vhmml.org/readingRoom/\" target=\"_blank\" rel=\"noopener noreferrer\">HMML</a></p>",
-      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, 413, pp. 329–362 (13th/14th cent.) ~ HMML",
+      "line_html": "<p style=\"padding-left: 30px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, Hag. 47, pp. 329–362 (13th/14th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/511630\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, Hag. 47, pp. 329–362 (13th/14th cent.) ~ HMML",
       "language": "Arabic",
       "entry_type": "Manuscript",
       "other_urls": [
-        "https://www.vhmml.org/readingRoom/"
+        "https://w3id.org/vhmml/readingRoom/view/511630"
       ]
     },
     {

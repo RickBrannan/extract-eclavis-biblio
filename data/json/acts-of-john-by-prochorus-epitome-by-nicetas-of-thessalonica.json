@@ -1,0 +1,87 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-john-by-prochorus-epitome-by-nicetas-of-thessalonica/",
+  "nasscal_title": "Acts of John by Prochorus (epitome), by Nicetas of Thessalonica",
+  "filename": "acts-of-john-by-prochorus-epitome-by-nicetas-of-thessalonica",
+  "latin_title": "Acta seu peregrinationes Iohannis, auctore Niceta Thessalonicensi",
+  "abbrev": "Acts John (Nicetas)",
+  "alt_titles": [
+    "Acts of John by Prochorus (epitome)"
+  ],
+  "clavis_number": 164,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Oxford, Bodleian Library, Arch. Seld. B 53 (olim Selden 56), fols. 61<sup>r</sup>–95<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/46959/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "O  Oxford, Bodleian Library, Arch. Seld. B 53 (olim Selden 56), fols. 61r–95v (14th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/46959/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>L</strong> St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 95 (Granstrem 234), fol. 2<sup>v</sup>–48<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57165/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "L St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 95 (Granstrem 234), fol. 2v–48r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/57165/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 284, fols. 434<sup>r</sup>–499<sup>v</sup> (1599) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2580/\">Pinakes</a>; <a href=\"http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3627\">Athens</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 284, fols. 434r–499v (1599) ~ Pinakes; Athens",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/2580/",
+        "http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3627"
+      ]
+    },
+    {
+      "line_html": "<p>Not yet examined:</p>",
+      "line_text": "Not yet examined:",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Philotheou, 9, fols. 224<sup>r</sup>–242<sup>v </sup>(12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29373/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Philotheou, 9, fols. 224r–242v (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29373/"
+      ]
+    },
+    {
+      "line_html": "<p>Halkin, François. “Le prologue inédit de Nicétas, archevêque de Thessalonique, aux Actes de l’Apôtre saint Jean.” <em>AnBoll</em> 85 (1967): 16–20 (introduction based on L and O).</p>",
+      "line_text": "Halkin, François. “Le prologue inédit de Nicétas, archevêque de Thessalonique, aux Actes de l’Apôtre saint Jean.” AnBoll 85 (1967): 16–20 (introduction based on L and O).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Poirier, Paul-Hubert. <i>L’Hymne de la Perle des Actes de Thomas</i>. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (pp. 278–81).</p>",
+      "line_text": "Poirier, Paul-Hubert. L’Hymne de la Perle des Actes de Thomas. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (pp. 278–81).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Nicétas de Thessalonique, hagiographe. Bref plaidoyer pour un auteur méconnu.” Pages 455–65 in <em>Philologie, herméneutique et histoire des textes entre Orient et Occident. Mélanges en hommage à Sever J. Voicu</em>. Instrumenta Patristica et mediaevalia 73. Turnhout: Brepols, 2017.</p>",
+      "line_text": "———. “Nicétas de Thessalonique, hagiographe. Bref plaidoyer pour un auteur méconnu.” Pages 455–65 in Philologie, herméneutique et histoire des textes entre Orient et Occident. Mélanges en hommage à Sever J. Voicu. Instrumenta Patristica et mediaevalia 73. Turnhout: Brepols, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

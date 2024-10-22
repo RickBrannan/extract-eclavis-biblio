@@ -5,7 +5,6 @@
   "latin_title": "Proteuangelium Iacobi",
   "abbrev": "Prot. Jas.",
   "alt_titles": [
-    "Protoevangelium of James",
     "Proto-Gospel of James",
     " Infancy Gospel of James",
     " Gospel of James",
@@ -130,6 +129,15 @@
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dabra-tabor-bethlehem-church-no-shelf-number/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Goğğām Province (Ethiopia), Dabra Abuna Ḥarā Monastery, EMML 8628, fols. 1<sup>r</sup>–13<sup>r</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/201474\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Goğğām Province (Ethiopia), Dabra Abuna Ḥarā Monastery, EMML 8628, fols. 1r–13r (18th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/201474"
       ]
     },
     {

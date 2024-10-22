@@ -1,0 +1,145 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala/",
+  "nasscal_title": "Encomium on the Twelve Apostles, by Pseudo-Severian of Gabala",
+  "filename": "encomium-on-the-twelve-apostles-by-pseudo-severian-of-gabala",
+  "latin_title": "Laudatio XII Apostoli",
+  "abbrev": " Encom. Apost.",
+  "alt_titles": [
+    "Encomium on the Apostles"
+  ],
+  "clavis_number": 567,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cairo, Coptic Museum, Hist. 474 (Graf 717; Simaika 95), fols. 115<sup>v</sup>–130<sup>v</sup> (1338)</p>",
+      "line_text": "Cairo, Coptic Museum, Hist. 474 (Graf 717; Simaika 95), fols. 115v–130v (1338)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 536, fols. 1<sup>r</sup><strong>–</strong>32<sup>r</sup> (15th cent.) ~ <a href=\"https://digi.vatlib.it/view/MSS_Vat.ar.536\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 536, fols. 1r–32r (15th cent.) ~ BAV",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://digi.vatlib.it/view/MSS_Vat.ar.536"
+      ]
+    },
+    {
+      "line_html": "<p>Righi, Davide. <em>Severiano di Gabala, In apostolos: Clavis Coptica 0331 (CPG 4281).</em> 2 vols. Rome: C.I.M., 2004 (Arabic text of both manuscripts in parallel and Italian translation, vol. 2, pp. 262–405).</p>",
+      "line_text": "Righi, Davide. Severiano di Gabala, In apostolos: Clavis Coptica 0331 (CPG 4281). 2 vols. Rome: C.I.M., 2004 (Arabic text of both manuscripts in parallel and Italian translation, vol. 2, pp. 262–405).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">CMCL 3682: London, British Library, Add. 14740A, fols. 12-15 (<a href=\"https://atlas.paths-erc.eu/manuscripts/3682\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry)</p>",
+      "line_text": "CMCL 3682: London, British Library, Add. 14740A, fols. 12-15 (PAThs entry)",
+      "language": ".1 Bohairic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/3682"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">MICH.CA: PPM M606, fols. 1–22 + Ann Arbor, Michigan University Library, 158,29 + Cairo, Coptic Musuem, 3812 ~ (<a href=\"https://atlas.paths-erc.eu/manuscripts/252\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry; <a href=\"https://www.themorgan.org/manuscript/214167\" target=\"_blank\" rel=\"noopener\">PPM</a>)</p>",
+      "line_text": "MICH.CA: PPM M606, fols. 1–22 + Ann Arbor, Michigan University Library, 158,29 + Cairo, Coptic Musuem, 3812 ~ (PAThs entry; PPM)",
+      "language": ".2 Sahidic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/252",
+        "https://www.themorgan.org/manuscript/214167"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">CMCL 5613: Vat Borg. 109 cass. xxv, fasc. 124 (pp. 35-36) + BNF Copt. 161.5, fol. 25 + Cairo (ca. 1000) (<a href=\"https://atlas.paths-erc.eu/manuscripts/5613\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry)</p>",
+      "line_text": "CMCL 5613: Vat Borg. 109 cass. xxv, fasc. 124 (pp. 35-36) + BNF Copt. 161.5, fol. 25 + Cairo (ca. 1000) (PAThs entry)",
+      "language": ".2 Sahidic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/5613"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">CMCL 861: London, Victoria and Albert Museum, L 1159/41 S (7th/8th cent.) (<a href=\"https://atlas.paths-erc.eu/manuscripts/861\" target=\"_blank\" rel=\"noopener\">PAThs</a> entry) ~ <a href=\"http://collections.vam.ac.uk/item/O1370799/encomium-on-the-twelve-apostles-manuscript-leaf-of-gabala-severian/\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "CMCL 861: London, Victoria and Albert Museum, L 1159/41 S (7th/8th cent.) (PAThs entry) ~ IMAGES",
+      "language": ".2 Sahidic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://atlas.paths-erc.eu/manuscripts/861",
+        "http://collections.vam.ac.uk/item/O1370799/encomium-on-the-twelve-apostles-manuscript-leaf-of-gabala-severian/"
+      ]
+    },
+    {
+      "line_html": "<p>Foat, Michael E. “Encomium on SS. Peter and Paul Attributed to Severian of Gabala.” Pages 85–130 in vol. 1 of <em>Encomiastica from the Pierpont Morgan Library</em>. Edited by Leo Depuydt. 2 vols. CSCO, 544 &amp; 545. Scriptores coptici, 47 &amp; 48. Leuven: Peeters, 1993 (Coptic text based on MICH.CA).</p>",
+      "line_text": "Foat, Michael E. “Encomium on SS. Peter and Paul Attributed to Severian of Gabala.” Pages 85–130 in vol. 1 of Encomiastica from the Pierpont Morgan Library. Edited by Leo Depuydt. 2 vols. CSCO, 544 &amp; 545. Scriptores coptici, 47 &amp; 48. Leuven: Peeters, 1993 (Coptic text based on MICH.CA).",
+      "language": ".2 Sahidic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_FLw7D7xionYC/page/102/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Georgi, Agostino A. <em>De miraculis Sancti Coluthi et reliquiis actorum Sancti Panesniv martyrum thebaica fragmenta duo, alterum auctius alterum nunc primum editum</em>. Rome: <em>apud</em> Antonium Fulgonium, 1793 (edition of Var. Borg. 109, pp. 102–106).</p>",
+      "line_text": "Georgi, Agostino A. De miraculis Sancti Coluthi et reliquiis actorum Sancti Panesniv martyrum thebaica fragmenta duo, alterum auctius alterum nunc primum editum. Rome: apud Antonium Fulgonium, 1793 (edition of Var. Borg. 109, pp. 102–106).",
+      "language": ".2 Sahidic",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_FLw7D7xionYC/page/102/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Guidi, Ignazio. “Frammenti copti. Nota I<sup>a</sup>.” <em>Rendiconti delle sedute della R. Accademia dei Lincei. Classe di scienze morali, storiche e filologiche</em> vol. 3/sem. 1 (1887): 47–63 (corrections to Georgi, p. 52).</p>",
+      "line_text": "Guidi, Ignazio. “Frammenti copti. Nota Ia.” Rendiconti delle sedute della R. Accademia dei Lincei. Classe di scienze morali, storiche e filologiche vol. 3/sem. 1 (1887): 47–63 (corrections to Georgi, p. 52).",
+      "language": ".2 Sahidic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Righi, Davide. <em>Severiano di Gabala, In apostolos: Clavis Coptica 0331 (CPG 4281).</em> 2 vols. Rome: C.I.M., 2004 (Coptic text and Italian translation of PPM M606, vol. 1, pp. 118–213).</p>",
+      "line_text": "Righi, Davide. Severiano di Gabala, In apostolos: Clavis Coptica 0331 (CPG 4281). 2 vols. Rome: C.I.M., 2004 (Coptic text and Italian translation of PPM M606, vol. 1, pp. 118–213).",
+      "language": ".2 Sahidic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Foat, Michael E. “Encomium on SS. Peter and Paul Attributed to Severian of Gabala.” Pages 65–101 in vol. 2 of n <em>Encomiastica from the Pierpont Morgan Library</em>. Edited by Leo Depuydt. 2 vols. CSCO, 544 &amp; 545. Scriptores coptici, 47 &amp; 48. Leuven: Peeters, 1993 (Coptic text, vol. 1, pp. 85–130; English translation, vol. 2, pp. 65–101).</p>",
+      "line_text": "Foat, Michael E. “Encomium on SS. Peter and Paul Attributed to Severian of Gabala.” Pages 65–101 in vol. 2 of n Encomiastica from the Pierpont Morgan Library. Edited by Leo Depuydt. 2 vols. CSCO, 544 &amp; 545. Scriptores coptici, 47 &amp; 48. Leuven: Peeters, 1993 (Coptic text, vol. 1, pp. 85–130; English translation, vol. 2, pp. 65–101).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Righi, Davide. <em>Severiano di Gabala, In apostolos: Clavis Coptica 0331 (CPG 4281).</em> 2 vols. Rome: C.I.M., 2004 (Coptic and Arabic editions with Italian translations).</p>",
+      "line_text": "Righi, Davide. Severiano di Gabala, In apostolos: Clavis Coptica 0331 (CPG 4281). 2 vols. Rome: C.I.M., 2004 (Coptic and Arabic editions with Italian translations).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 43–44).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (pp. 43–44).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://alinsuciu.com/2011/09/09/an-encomium-on-the-12-apostles-attributed-to-severian-of-gabala-new-sahidic-fragments/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Suciu, Alin. “An Encomium on the 12 Apostles Attributed to Severian of Gabala: New Sahidic Fragments.” <em>Alin Suciu</em>. Posted 9 September 2011. Online: https://alinsuciu.com/2011/09/09/an-encomium-on-the-12-apostles-attributed-to-severian-of-gabala-new-sahidic-fragments/.</p>",
+      "line_text": "Suciu, Alin. “An Encomium on the 12 Apostles Attributed to Severian of Gabala: New Sahidic Fragments.” Alin Suciu. Posted 9 September 2011. Online: https://alinsuciu.com/2011/09/09/an-encomium-on-the-12-apostles-attributed-to-severian-of-gabala-new-sahidic-fragments/.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://alinsuciu.com/2011/09/09/an-encomium-on-the-12-apostles-attributed-to-severian-of-gabala-new-sahidic-fragments/"
+      ]
+    },
+    {
+      "line_html": "<p>Voicu, Sever J. “Pseudo Severiano di Gabala, <em>Encomium in XII Apostolos</em> (CPG 4281): Gli spunti apocrifi.” <em>Apocrypha</em> 19 (2008): 217–66.</p>",
+      "line_text": "Voicu, Sever J. “Pseudo Severiano di Gabala, Encomium in XII Apostolos (CPG 4281): Gli spunti apocrifi.” Apocrypha 19 (2008): 217–66.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

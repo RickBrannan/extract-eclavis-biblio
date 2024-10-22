@@ -10,7 +10,7 @@
   ],
   "clavis_number": 723,
   "category": "Apocalypses",
-  "compiler": "Cambry Pardee, Pepperdine University",
+  "compiler": "Cambry Pardee, Pepperdine University.",
   "bibliography_entries": [
     {
       "line_html": "<p>Charlesworth, James H., and James R. Mueller. <em>The New Testament Apocrypha and Pseudepigrapha: A Guide to Publications, with excurses on Apocalypses. </em>ATLA Bibliography Series 17.  Metuchen, NJ: American Theological Library Association and Scarecrow Press, 1987, 317–21.</p>",
@@ -61,14 +61,38 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>———. “Why Body Matters in the Afterlife: Mind Reading and Body Imagery in Synoptic Tradition and the Apocalypse of Peter.” Pages 391–411 in <em>The Human Body in Death and Resurrection.</em> Edited by Tobias Nicklas, F. V. Reiterer, and Joseph Verheyden. Deuterocanonical and Cognate Literature Yearbook. Berlin: de Gruyter, 2009.</p>",
+      "line_text": "———. “Why Body Matters in the Afterlife: Mind Reading and Body Imagery in Synoptic Tradition and the Apocalypse of Peter.” Pages 391–411 in The Human Body in Death and Resurrection. Edited by Tobias Nicklas, F. V. Reiterer, and Joseph Verheyden. Deuterocanonical and Cognate Literature Yearbook. Berlin: de Gruyter, 2009.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Davies, John Gordon. <em>He Ascended into Heaven: A Study in the History of Doctrine. </em>London: Lutterworth, 1958.</p>",
       "line_text": "Davies, John Gordon. He Ascended into Heaven: A Study in the History of Doctrine. London: Lutterworth, 1958.",
       "language": "English",
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Dochhorn, Jan. “Der Acherusische See als Reinigungsort in christlicher und jüdischer Nachtodmythologie.” Pages 253–298 in <em>The Apocalypse of Peter in Context</em>. Edited by<br/>\nDaniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Dochhorn, Jan. “Der Acherusische See als Reinigungsort in christlicher und jüdischer Nachtodmythologie.” Pages 253–298 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Dods, Marcus. <em>Forerunners of Dante: An Account of Some of the More Important Visions of the Unseen World, From the Earliest Times. </em>Edinburgh: T&amp;T Clark, 1903.</p>",
       "line_text": "Dods, Marcus. Forerunners of Dante: An Account of Some of the More Important Visions of the Unseen World, From the Earliest Times. Edinburgh: T&amp;T Clark, 1903.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Dubois, Jean-Daniel. “What is ‘Gnostic’ within Gnostic Apocalypses?” Pages 385–409 in <em>Dreams, Visions, Imaginations: Jewish, Christian and Gnostic Views of the World to Come</em>. Edited by Jens Schröter, Tobias Nicklas, and Armand Puig i Tàrrech. Berlin: de Gruyter, 2021.</p>",
+      "line_text": "Dubois, Jean-Daniel. “What is ‘Gnostic’ within Gnostic Apocalypses?” Pages 385–409 in Dreams, Visions, Imaginations: Jewish, Christian and Gnostic Views of the World to Come. Edited by Jens Schröter, Tobias Nicklas, and Armand Puig i Tàrrech. Berlin: de Gruyter, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>den Dulk, Matthijs. “Introduction: A Second Look at Second Peter.” Pages 1–6 in <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective</em>. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "den Dulk, Matthijs. “Introduction: A Second Look at Second Peter.” Pages 1–6 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -103,6 +127,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Erho, Ted M., and Daniel C. Maier. “Ṭānāsee/EMML Microfilm Correspondences. An Overview. Pages 401–402 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C.<br/>\nMaier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Erho, Ted M., and Daniel C. Maier. “Ṭānāsee/EMML Microfilm Correspondences. An Overview. Pages 401–402 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p><a href=\"http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb11116194_01056.html\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Fabricio, Johanne Alberto. “Apocalypsis S. Pietri.” Pages 940–942 in <em>Codex Apocryphus Novi Testamenti </em>2. Hamburg: Schiller, 1703.</p>",
       "line_text": "Fabricio, Johanne Alberto. “Apocalypsis S. Pietri.” Pages 940–942 in Codex Apocryphus Novi Testamenti 2. Hamburg: Schiller, 1703.",
       "language": "English",
@@ -124,26 +154,62 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Foster, Paul. “The Open Hell: A Study of the Apocalypse of Peter.” Pages 80–104 in <em>The Open Mind: Essays in Honour of Christopher Rowland.</em> Edited by Jonathan Knight and Kevin Sullivan. LNTS 522. London: Bloomsbury, 2015.</p>",
-      "line_text": "Foster, Paul. “The Open Hell: A Study of the Apocalypse of Peter.” Pages 80–104 in The Open Mind: Essays in Honour of Christopher Rowland. Edited by Jonathan Knight and Kevin Sullivan. LNTS 522. London: Bloomsbury, 2015.",
+      "line_html": "<p>Fiori, Emiliano B. “‘Close and yet so far away’. The Apocalypse of Peter and the Apocalypse of Paul. Pages 233–52 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Fiori, Emiliano B. “‘Close and yet so far away’. The Apocalypse of Peter and the Apocalypse of Paul. Pages 233–52 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Frey, Jörg, Matthijs den Dulk, and Jan van der Watt, eds. <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective</em>. BibInt 174. Boston, MA: Brill, 2019.</p>",
-      "line_text": "Frey, Jörg, Matthijs den Dulk, and Jan van der Watt, eds. 2 Peter and the Apocalypse of Peter: Towards a New Perspective. BibInt 174. Boston, MA: Brill, 2019.",
+      "line_html": "<p>Fogielman, Charles-Antoine. “Tours of Hell in the Judeo-Christian and Zoroastrian Traditions: The Apocalypse of Peter and the Book of Ardā Wīrāz.” <em>Early Christianity</em> 14 (2023): 360–76.</p>",
+      "line_text": "Fogielman, Charles-Antoine. “Tours of Hell in the Judeo-Christian and Zoroastrian Traditions: The Apocalypse of Peter and the Book of Ardā Wīrāz.” Early Christianity 14 (2023): 360–76.",
       "language": "English",
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>———. “Fire and Water? Apocalyptic Imagination and Hellenistic Worldview in 2 Peter.” Pages 451–71 in vol. 1 of Sibyls, Scriptures, and Scrolls. John Collins at Seventy. Edited by Joel Baden, Hindy Najman, and Eibert Tigchelaar.  2 vols. Leiden-Boston: Brill 2016 (esp. pp. 457–63).</p>",
-      "line_text": "———. “Fire and Water? Apocalyptic Imagination and Hellenistic Worldview in 2 Peter.” Pages 451–71 in vol. 1 of Sibyls, Scriptures, and Scrolls. John Collins at Seventy. Edited by Joel Baden, Hindy Najman, and Eibert Tigchelaar.  2 vols. Leiden-Boston: Brill 2016 (esp. pp. 457–63).",
+      "line_html": "<p>Foster, Paul. “Does the Apocalypse of Peter Help to Determine the Date of 2 Peter?” Pages 217–60 in <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective.</em> Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "Foster, Paul. “Does the Apocalypse of Peter Help to Determine the Date of 2 Peter?” Pages 217–60 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Open Hell: A Study of the Apocalypse of Peter.” Pages 80–104 in <em>The Open Mind: Essays in Honour of Christopher Rowland.</em> Edited by Jonathan Knight and Kevin Sullivan. LNTS 522. London: Bloomsbury, 2015.</p>",
+      "line_text": "———. “The Open Hell: A Study of the Apocalypse of Peter.” Pages 80–104 in The Open Mind: Essays in Honour of Christopher Rowland. Edited by Jonathan Knight and Kevin Sullivan. LNTS 522. London: Bloomsbury, 2015.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frey, Jörg. “2 Peter and the Apocalypse of Peter: Concluding Reflections.” Pages 282–305 in <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective</em>. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "Frey, Jörg. “2 Peter and the Apocalypse of Peter: Concluding Reflections.” Pages 282–305 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
       "language": "English",
       "entry_type": "Other"
     },
     {
       "line_html": "<p>———. <em>Der Brief des Judas und der zweite Brief des Petrus</em>. THKNT  15/II. Leipzig: Evangelische Verlagsanstalt 2015 (esp. pp. 170–73).</p>",
       "line_text": "———. Der Brief des Judas und der zweite Brief des Petrus. THKNT  15/II. Leipzig: Evangelische Verlagsanstalt 2015 (esp. pp. 170–73).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Fire and Water? Apocalyptic Imagination and Hellenistic Worldview in 2 Peter.” Pages 451–71 in vol. 1 of <em>Sibyls, Scriptures, and Scrolls. John Collins at Seventy.</em> Edited by Joel Baden, Hindy Najman, and Eibert Tigchelaar.  2 vols. Leiden-Boston: Brill 2016 (esp. pp. 457–63).</p>",
+      "line_text": "———. “Fire and Water? Apocalyptic Imagination and Hellenistic Worldview in 2 Peter.” Pages 451–71 in vol. 1 of Sibyls, Scriptures, and Scrolls. John Collins at Seventy. Edited by Joel Baden, Hindy Najman, and Eibert Tigchelaar.  2 vols. Leiden-Boston: Brill 2016 (esp. pp. 457–63).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Petrine Traditions and Petrine Authorship Constuctions in Early Christianity.” Pages 1–33 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "———. “Petrine Traditions and Petrine Authorship Constuctions in Early Christianity.” Pages 1–33 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Second Peter in New Perspective.” Pages 7–74 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "———. “Second Peter in New Perspective.” Pages 7–74 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Frey, Jörg, Matthijs den Dulk, and Jan van der Watt, eds. <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective</em>. BibInt 174. Boston, MA: Brill, 2019.</p>",
+      "line_text": "Frey, Jörg, Matthijs den Dulk, and Jan van der Watt, eds. 2 Peter and the Apocalypse of Peter: Towards a New Perspective. BibInt 174. Boston, MA: Brill, 2019.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -178,8 +244,26 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Wolfgang Grünstäudl. <em>Petrus Alexandrinus. Studien zum historischen und theologischen Ort des zweiten Petrusbriefes</em>. WUNT II/353. Tübingen: Mohr Siebeck, 2013 (on the relationship between 2 Peter and <em>Apoc. Pet.</em>, see pp. 97–144).</p>",
-      "line_text": "Wolfgang Grünstäudl. Petrus Alexandrinus. Studien zum historischen und theologischen Ort des zweiten Petrusbriefes. WUNT II/353. Tübingen: Mohr Siebeck, 2013 (on the relationship between 2 Peter and Apoc. Pet., see pp. 97–144).",
+      "line_html": "<p>Grypeou, Emmanouela. “‘I Have Given You the Keys of Heaven and Earth.’ The Arabic <em>Apocalypse of Peter</em> and the History of Christian Apocalyptic Literature.” Pages 214–232 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Grypeou, Emmanouela. “‘I Have Given You the Keys of Heaven and Earth.’ The Arabic Apocalypse of Peter and the History of Christian Apocalyptic Literature.” Pages 214–232 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Grünstäudl, Wolfgang. “Ein apokryphes Petrusbild im Neuen Testament. Zur Konstuktion apostolischer Autorität in OffbPetr und 2 Petr.” Pages 289–308 in <em>Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting, and Interpretation in Early Judaism and Early Christianity.</em> Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2019.</p>",
+      "line_text": "Grünstäudl, Wolfgang. “Ein apokryphes Petrusbild im Neuen Testament. Zur Konstuktion apostolischer Autorität in OffbPetr und 2 Petr.” Pages 289–308 in Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting, and Interpretation in Early Judaism and Early Christianity. Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Enthüllung im Fragment—Notizen zo Überlieferungsgestalt und Figureninventar der Offenbarung des Petrus.” Pages 109–32 in <em>Shadowy Characters and Fragmentary Evidence: The Search for Early Groups and Movements</em>. Edited by Joseph Verheyden, Tobias Nicklas, and Elisabeth Hernitscheck. WUNT 388. Tübingen: Mohr Siebeck, 2017.</p>",
+      "line_text": "———. “Enthüllung im Fragment—Notizen zo Überlieferungsgestalt und Figureninventar der Offenbarung des Petrus.” Pages 109–32 in Shadowy Characters and Fragmentary Evidence: The Search for Early Groups and Movements. Edited by Joseph Verheyden, Tobias Nicklas, and Elisabeth Hernitscheck. WUNT 388. Tübingen: Mohr Siebeck, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Petrus Alexandrinus. Studien zum historischen und theologischen Ort des zweiten Petrusbriefes</em>. WUNT II/353. Tübingen: Mohr Siebeck, 2013 (on the relationship between 2 Peter and <em>Apoc. Pet.</em>, see pp. 97–144).</p>",
+      "line_text": "———. Petrus Alexandrinus. Studien zum historischen und theologischen Ort des zweiten Petrusbriefes. WUNT II/353. Tübingen: Mohr Siebeck, 2013 (on the relationship between 2 Peter and Apoc. Pet., see pp. 97–144).",
       "language": "English",
       "entry_type": "Other"
     },
@@ -250,6 +334,18 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>———. “Hell as ‘Heterotopia’: Edification and Interpretation from Enoch to the Apocalypses of Peter and Paul.” Pages 309–32 in Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting, and Interpretation in Early Judaism and Early Christianity. Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2019.</p>",
+      "line_text": "———. “Hell as ‘Heterotopia’: Edification and Interpretation from Enoch to the Apocalypses of Peter and Paul.” Pages 309–32 in Between Canonical and Apocryphal Texts: Processes of Reception, Rewriting, and Interpretation in Early Judaism and Early Christianity. Edited by Jörg Frey, Claire Clivaz, and Tobias Nicklas. WUNT 419. Tübingen: Mohr Siebeck, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Socio-Economic Status among the Damned? Reading the Carceral Bodies of the <em>Apocalypse of Peter</em> in their Ancient Context.” Pages 72–92 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "———. “Socio-Economic Status among the Damned? Reading the Carceral Bodies of the Apocalypse of Peter in their Ancient Context.” Pages 72–92 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p><a href=\"https://catalog.hathitrust.org/Record/008413902\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hilgenfeld, Adolphus. <em>Evangeliorum secundum Hebraeos, secundum Petrum, secundum Aegyptios, Matthiae traditionum, Petri et Pauli praedicationis et actuum, Petri apocalypseos, didascaliae apostolorum antiquioris quae supersunt. </em>Second edition. Leipzig: Weigel, 1884, esp. 71–74.</p>",
       "line_text": "Hilgenfeld, Adolphus. Evangeliorum secundum Hebraeos, secundum Petrum, secundum Aegyptios, Matthiae traditionum, Petri et Pauli praedicationis et actuum, Petri apocalypseos, didascaliae apostolorum antiquioris quae supersunt. Second edition. Leipzig: Weigel, 1884, esp. 71–74.",
       "language": "English",
@@ -267,6 +363,18 @@
     {
       "line_html": "<p>Himmelfarb, Martha. <em>Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature. </em>Philadelphia: Fortress, 1983.</p>",
       "line_text": "Himmelfarb, Martha. Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature. Philadelphia: Fortress, 1983.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hoppe, Rudolf. “Spuren der synoptischen  Verklärungserzählungen in 2 Peter 1,16–18 und in die<br/>\nOffenbarung des Petrus: Beobachtungen zur ‘Wirkungsgeschichte’ der Szene am Berge.” <em>ETL</em> 99 (2023): 587–608.</p>",
+      "line_text": "Hoppe, Rudolf. “Spuren der synoptischen  Verklärungserzählungen in 2 Peter 1,16–18 und in die Offenbarung des Petrus: Beobachtungen zur ‘Wirkungsgeschichte’ der Szene am Berge.” ETL 99 (2023): 587–608.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Hultin, Jeremy. “Reading 2 Peter 3 in the Light of the Apocalypse of Peter and the Sibylline Oracles.” Pages 160–195 in <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective.</em> Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "Hultin, Jeremy. “Reading 2 Peter 3 in the Light of the Apocalypse of Peter and the Sibylline Oracles.” Pages 160–195 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -289,6 +397,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Jost, Michael R. “Judgment, Punishment, and Hell in the Dead Sea Scrolls and the Apocalypse of Peter.” Pages 132–52 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Jost, Michael R. “Judgment, Punishment, and Hell in the Dead Sea Scrolls and the Apocalypse of Peter.” Pages 132–52 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Kaufmann, K. M. “Die Paradiesvision der Sog. Petrusapocalypse von Achmim-Panopolis und die urchristlichen Monumente.” Pages 100–12 in <em>Congrès Scientifique des Catholiques </em>10. Fribourg, 1898.</p>",
       "line_text": "Kaufmann, K. M. “Die Paradiesvision der Sog. Petrusapocalypse von Achmim-Panopolis und die urchristlichen Monumente.” Pages 100–12 in Congrès Scientifique des Catholiques 10. Fribourg, 1898.",
       "language": "English",
@@ -303,6 +417,18 @@
     {
       "line_html": "<p>———. “Die Griechische Petrus-Apokalypse und ihre Relation zu ausgewählten Überlieferungsträgern apokalyptischer Stoffe.” <em>Apocrypha </em>14 (2003): 73–98.</p>",
       "line_text": "———. “Die Griechische Petrus-Apokalypse und ihre Relation zu ausgewählten Überlieferungsträgern apokalyptischer Stoffe.” Apocrypha 14 (2003): 73–98.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Die ‘Hölle’ als Ort der Strafe in den Apokalypsen des Petrus und Paulus.” <em>Jahrbuch für biblische Theologie</em> 36 (2021): 105–38.</p>",
+      "line_text": "———. “Die ‘Hölle’ als Ort der Strafe in den Apokalypsen des Petrus und Paulus.” Jahrbuch für biblische Theologie 36 (2021): 105–38.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———.“Manuscripts of the Apocalypse of Peter. Some Crucial Questions.” Pages 34–52 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "———.“Manuscripts of the Apocalypse of Peter. Some Crucial Questions.” Pages 34–52 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -391,6 +517,18 @@
       ]
     },
     {
+      "line_html": "<p>Maier, Daniel C. “The Ethiopic Pseudo-Clementine Framework of the Apocalypse of Peter. Chances and Challenges in the African Transmission Context. Pages 178–213 in <em>The Apocalypse of Peter in Context.</em> Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Maier, Daniel C. “The Ethiopic Pseudo-Clementine Framework of the Apocalypse of Peter. Chances and Challenges in the African Transmission Context. Pages 178–213 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Maier, Daniel C., Jörg Frey, and Thomas J. Kraus, eds. <em>The Apocalypse of Peter in Context.</em> Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Maier, Daniel C., Jörg Frey, and Thomas J. Kraus, eds. The Apocalypse of Peter in Context. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Markley, John R. <em>Peter – Apocalyptic Seer: The Influence of the Apocalypse Genre on Matthew’s Portrayal of Peter</em>. WUNT 1/348. Tübingen: Mohr Siebeck, 2013, 15–17.</p>",
       "line_text": "Markley, John R. Peter – Apocalyptic Seer: The Influence of the Apocalypse Genre on Matthew’s Portrayal of Peter. WUNT 1/348. Tübingen: Mohr Siebeck, 2013, 15–17.",
       "language": "English",
@@ -399,6 +537,36 @@
     {
       "line_html": "<p>Marmorstein, A. “Jüdische Parallelen zur Petrusapokalypse.” <em>ZNW </em>10 (1909): 297–300.</p>",
       "line_text": "Marmorstein, A. “Jüdische Parallelen zur Petrusapokalypse.” ZNW 10 (1909): 297–300.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Marrassini, P. “Scoperta e rescoperta dell’Apocalisse di Piertro fra Greco, arabo ed etiopico.” Pages 147–60 in <em>I papyri letterari Cristiani atti del Cconvegno  internazionale di studi in memoria di Mario Naldini, Firenze, 100–11 giugno 2010.</em> Edited by G. Bastianini and A. Casanova. Studi e testi di papirologica 13. Florence: Istituto papirologico Girolamo Vitelli, 2011.</p>",
+      "line_text": "Marrassini, P. “Scoperta e rescoperta dell’Apocalisse di Piertro fra Greco, arabo ed etiopico.” Pages 147–60 in I papyri letterari Cristiani atti del Cconvegno  internazionale di studi in memoria di Mario Naldini, Firenze, 100–11 giugno 2010. Edited by G. Bastianini and A. Casanova. Studi e testi di papirologica 13. Florence: Istituto papirologico Girolamo Vitelli, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mattos, Carlos Eduardo de Araújo de. “O impacto dos Apocalipses apócrifos de descrição do alémmundo na cultura occidental: o caso do Apocalipse de Pedro.” <em>Estudos teológicos</em> 62 (2022): 32–54.</p>",
+      "line_text": "Mattos, Carlos Eduardo de Araújo de. “O impacto dos Apocalipses apócrifos de descrição do alémmundo na cultura occidental: o caso do Apocalipse de Pedro.” Estudos teológicos 62 (2022): 32–54.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Textos Apocalípticos e modos fantásticos de narrar: um exercício no Apocalipse de Pedro.” Caminhando 26 (2021): 1–18.</p>",
+      "line_text": "———. “Textos Apocalípticos e modos fantásticos de narrar: um exercício no Apocalipse de Pedro.” Caminhando 26 (2021): 1–18.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Um inferno para ser visto: o Apocalipse de Pedro e os sofrimentos físicos dos condenados.” <em>Caminhando</em> 25 (2020): 87–100.</p>",
+      "line_text": "———. “Um inferno para ser visto: o Apocalipse de Pedro e os sofrimentos físicos dos condenados.” Caminhando 25 (2020): 87–100.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mattos, Carlos Eduardo de Araújo de, and P. A. de Souza Nogueira. “Un Apocalipsis fuera de lugar: Un relato de viaje al más allá en los Hechos de Felipe, en comparación con los Apocalipsis de Pedro y de Pablo.” <em>Revista de interpretación bíblica latinoamericana</em> 73 (2016): 93–112.</p>",
+      "line_text": "Mattos, Carlos Eduardo de Araújo de, and P. A. de Souza Nogueira. “Un Apocalipsis fuera de lugar: Un relato de viaje al más allá en los Hechos de Felipe, en comparación con los Apocalipsis de Pedro y de Pablo.” Revista de interpretación bíblica latinoamericana 73 (2016): 93–112.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -417,6 +585,12 @@
     {
       "line_html": "<p>Müller, Jac J. “Die Openbaring van Petrus.” Pages 128–31 in <em>Nuwe-Testamentiese Apokriewe. </em>Kaapstad: Nasionale Boekh, 1959.</p>",
       "line_text": "Müller, Jac J. “Die Openbaring van Petrus.” Pages 128–31 in Nuwe-Testamentiese Apokriewe. Kaapstad: Nasionale Boekh, 1959.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mulryan, John. “Dantesque Visions of the Afterlife in the ‘Uncanonized’ Texts of Scripture.” <em>Cithara</em> 53 (2014): 3–10.</p>",
+      "line_text": "Mulryan, John. “Dantesque Visions of the Afterlife in the ‘Uncanonized’ Texts of Scripture.” Cithara 53 (2014): 3–10.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -445,8 +619,32 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Nicklas, Tobias. “Christliche Apokryphen als Spiegel der Vielfalt frühchristlichen Lebens: Schlaglichter, Beispiele und methodische Probleme.” <em>ASE</em> 23 (2006): 27–44.</p>",
-      "line_text": "Nicklas, Tobias. “Christliche Apokryphen als Spiegel der Vielfalt frühchristlichen Lebens: Schlaglichter, Beispiele und methodische Probleme.” ASE 23 (2006): 27–44.",
+      "line_html": "<p>Nicklas, Tobias. “‘And I saw another place…’ (<em>ApcPet</em> 21): The Greek Apocalypse of Peter and its Otherworldly Landscape of Memories.” Pages 251–66 in <em>Social Memory Theory and Conceptions of Afterlife in Early Judaism and Christianity.</em> Edited by T. Hatina and J. Lukeš. Studies in Cultural Contexts of the Bible 8. Leiden: Brill, 2022.</p>",
+      "line_text": "Nicklas, Tobias. “‘And I saw another place…’ (ApcPet 21): The Greek Apocalypse of Peter and its Otherworldly Landscape of Memories.” Pages 251–66 in Social Memory Theory and Conceptions of Afterlife in Early Judaism and Christianity. Edited by T. Hatina and J. Lukeš. Studies in Cultural Contexts of the Bible 8. Leiden: Brill, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Apocalypse of Peter.” Pages 331–40 in <em>The Reception of Jesus in the First Three Centuries</em>. Volume 2: <em>From Thomas to Tatian: Christian Literary Receptions of Jesus in the Second and Third Centuries CE</em>. Edited by Jens Schröter and Christine Jacobi. London: Bloomsbury, 2020.</p>",
+      "line_text": "———. “Apocalypse of Peter.” Pages 331–40 in The Reception of Jesus in the First Three Centuries. Volume 2: From Thomas to Tatian: Christian Literary Receptions of Jesus in the Second and Third Centuries CE. Edited by Jens Schröter and Christine Jacobi. London: Bloomsbury, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Christliche Apokryphen als Spiegel der Vielfalt frühchristlichen Lebens: Schlaglichter, Beispiele und methodische Probleme.” <em>ASE</em> 23 (2006): 27–44.</p>",
+      "line_text": "———. “Christliche Apokryphen als Spiegel der Vielfalt frühchristlichen Lebens: Schlaglichter, Beispiele und methodische Probleme.” ASE 23 (2006): 27–44.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Die griechische Petrusapocalypse und paulinische Literatur. Beobachtuungen am Text des Akhmîm-Codex.” Pages 53–71 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "———. “Die griechische Petrusapocalypse und paulinische Literatur. Beobachtuungen am Text des Akhmîm-Codex.” Pages 53–71 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “El hijo de Dios regio: sovre la cristología del Apocalipsis del Pedro.” Pages 275–88 in <em>Filiación. Cultura pagana, religion de Israel, orígenes del cristianismo V</em>. Madrid: Trotta, 2014.</p>",
+      "line_text": "———. “El hijo de Dios regio: sovre la cristología del Apocalipsis del Pedro.” Pages 275–88 in Filiación. Cultura pagana, religion de Israel, orígenes del cristianismo V. Madrid: Trotta, 2014.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -469,6 +667,24 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Nicklas, Tobias. “Petrus-Diskurse in Alexandria: Eine Fortführung der Gedanken von Jörg Frey.” Pages 99–127 in <em>2 Peter and the Apocalypse of Peter: Towards a New</em><br/><em>Perspective.</em> Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "Nicklas, Tobias. “Petrus-Diskurse in Alexandria: Eine Fortführung der Gedanken von Jörg Frey.” Pages 99–127 in 2 Peter and the Apocalypse of Peter: Towards a NewPerspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Petrusoffenbarung, Christusoffenbarung und ihre Funktion. Autoritätskonstruktion in der Petrusapokalypse.” Pages 319–35 in <em>Autorschaft und</em><br/><em>Autorisierungsstrategien in apokalyptischen Texten.</em> Edited by Jörg Frey, Franz Tóth, and Michael R. Jost. WUNT 426. Tübingen: Mohr Siebeck, 2019.</p>",
+      "line_text": "———. “Petrusoffenbarung, Christusoffenbarung und ihre Funktion. Autoritätskonstruktion in der Petrusapokalypse.” Pages 319–35 in Autorschaft undAutorisierungsstrategien in apokalyptischen Texten. Edited by Jörg Frey, Franz Tóth, and Michael R. Jost. WUNT 426. Tübingen: Mohr Siebeck, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Resurrection – Judgement – Punishment: Apocalypse of Peter 4.” Pages 461–74 in <em>Resurrection of the Dead: Biblical Traditions in Dialogue</em>. Edited by Geert<br/>\nvan Oyen and Tom Shepherd. Bibliotheca Ephemerides Theologicarum Lovaniensium 249. Leuven: Peeters, 2012.</p>",
+      "line_text": "———. “Resurrection – Judgement – Punishment: Apocalypse of Peter 4.” Pages 461–74 in Resurrection of the Dead: Biblical Traditions in Dialogue. Edited by Geert van Oyen and Tom Shepherd. Bibliotheca Ephemerides Theologicarum Lovaniensium 249. Leuven: Peeters, 2012.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>———. “‘Trink den Kelch, den ich dir verheißen habe!’ (Offenbarung des Petrus 14,4). Der Tod des Petrus und das Ende der Zeiten.” In <em>Bringing the Underground to the Foreground. New Perspectives on Jewish and Christian Apocryphal Texts and Traditions. </em>Edited by Pierluigi Piovanelli. Turnhout: Brepols, 2010.</p>",
       "line_text": "———. “‘Trink den Kelch, den ich dir verheißen habe!’ (Offenbarung des Petrus 14,4). Der Tod des Petrus und das Ende der Zeiten.” In Bringing the Underground to the Foreground. New Perspectives on Jewish and Christian Apocryphal Texts and Traditions. Edited by Pierluigi Piovanelli. Turnhout: Brepols, 2010.",
       "language": "English",
@@ -487,8 +703,20 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Norelli, Enrico. “Pertinence théologique et canonicité: les premières apocalypses chrétiennes.” <em>Apocrypha </em>8 (1997): 147–64.</p>",
-      "line_text": "Norelli, Enrico. “Pertinence théologique et canonicité: les premières apocalypses chrétiennes.” Apocrypha 8 (1997): 147–64.",
+      "line_html": "<p>Norelli, Enrico. “L’adversaire eschatologique dans l’Apocalypse de Pierre.” Pages 291–317 in<em> Les forces du bien et du mal dans les premiers siècles de l’èglise.</em> Edited by Yves-Marie Blanchard, Bernard Pouderon, and Maddalena Scopello. Théologie historique 118. Paris:<br/>\nBeauchesne, 2011.</p>",
+      "line_text": "Norelli, Enrico. “L’adversaire eschatologique dans l’Apocalypse de Pierre.” Pages 291–317 in Les forces du bien et du mal dans les premiers siècles de l’èglise. Edited by Yves-Marie Blanchard, Bernard Pouderon, and Maddalena Scopello. Théologie historique 118. Paris: Beauchesne, 2011.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “L’ ‘apocalisse di Pietro’ come apocalisse christiana.” <em>Rivista di storia del cristianesimo</em> 17 (2020): 111–83.</p>",
+      "line_text": "———. “L’ ‘apocalisse di Pietro’ come apocalisse christiana.” Rivista di storia del cristianesimo 17 (2020): 111–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Pertinence théologique et canonicité: les premières apocalypses chrétiennes.” <em>Apocrypha </em>8 (1997): 147–64.</p>",
+      "line_text": "———. “Pertinence théologique et canonicité: les premières apocalypses chrétiennes.” Apocrypha 8 (1997): 147–64.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -501,6 +729,12 @@
     {
       "line_html": "<p>———. “Situation des apocryphes pétriniens.” <em>Apocrypha </em>2 (1991): 31–83.</p>",
       "line_text": "———. “Situation des apocryphes pétriniens.” Apocrypha 2 (1991): 31–83.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Olivares, Carlos. “Contrasting Places of Joy and Punishment in the Akhmîm Text of the Apocalypse of Peter through Sensory Experience Textual Lens.” Pages 112–31 in <em>The Apocalypse of Peter in Context</em>. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "Olivares, Carlos. “Contrasting Places of Joy and Punishment in the Akhmîm Text of the Apocalypse of Peter through Sensory Experience Textual Lens.” Pages 112–31 in The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -541,6 +775,18 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Piovanelli, Pierluigi. “Les origins et la fortune de l’Apocalypse de Pierr reconsidérées.” Pages 311–30 in <em>Peter in the Early Church: Apostle, Missionary, Church Leader.</em> Edited by Judith M. Lieu. Bibliotheca Ephemerides Theologicarum Lovaniensium 325. Leuven: Peeters, 2021.</p>",
+      "line_text": "Piovanelli, Pierluigi. “Les origins et la fortune de l’Apocalypse de Pierr reconsidérées.” Pages 311–30 in Peter in the Early Church: Apostle, Missionary, Church Leader. Edited by Judith M. Lieu. Bibliotheca Ephemerides Theologicarum Lovaniensium 325. Leuven: Peeters, 2021.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Perceptions de la violence humaine et representations de la justice divine dans les textes apocalyptiques des origins chrétiennes.” <em>Judaïsme Ancien</em> 9 (2021): 173–96.</p>",
+      "line_text": "———. “Perceptions de la violence humaine et representations de la justice divine dans les textes apocalyptiques des origins chrétiennes.” Judaïsme Ancien 9 (2021): 173–96.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Porter, Stanley E. “Early Apocryphal Non-gospel Literature and the New Testament Text.” <em>JGRChJ </em>8 (2011): 192–98.</p>",
       "line_text": "Porter, Stanley E. “Early Apocryphal Non-gospel Literature and the New Testament Text.” JGRChJ 8 (2011): 192–98.",
       "language": "English",
@@ -577,6 +823,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Ruf, Martin G. “‘In Aegyptum, ut denuo disseratur de me.’” Pages 196–216 in <em>2 Peter and the Apocalypse of Peter: Towards a New Perspective</em>. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.</p>",
+      "line_text": "Ruf, Martin G. “‘In Aegyptum, ut denuo disseratur de me.’” Pages 196–216 in 2 Peter and the Apocalypse of Peter: Towards a New Perspective. Edited by Jörg Frey, Matthijs den Dulk, and Jan G. van der Watt. BibInt 174. Leiden: Brill, 2019.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Ruiten, Jacques van. “The Old Testament Quotations in the Apocalypse of Peter.” Pages 158–73 in <em>The Apocalypse of Peter</em>. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.</p>",
       "line_text": "Ruiten, Jacques van. “The Old Testament Quotations in the Apocalypse of Peter.” Pages 158–73 in The Apocalypse of Peter. Edited by Jan N. Bremmer and István Czachesz. Studies on Early Christian Apocrypha 7. Leuven: Peeters, 2003.",
       "language": "English",
@@ -595,6 +847,12 @@
       "entry_type": "Other"
     },
     {
+      "line_html": "<p>Schröter, Jens. “Evengelientraditionen in der Offenbarung des Petrus.” Pages 453–77 in <em>The Gospels and Their Receptions: Festschrift Joseph Verheyden</em>. Edited by H. J. de Jonge, Mark Grundeken, John Kloppenborg, and Christopher Tuckett. BETL 330. Leuven: Peeters, 2022.</p>",
+      "line_text": "Schröter, Jens. “Evengelientraditionen in der Offenbarung des Petrus.” Pages 453–77 in The Gospels and Their Receptions: Festschrift Joseph Verheyden. Edited by H. J. de Jonge, Mark Grundeken, John Kloppenborg, and Christopher Tuckett. BETL 330. Leuven: Peeters, 2022.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
       "line_html": "<p>Simms, A. E. “Second Peter and the Apocalypse of Peter.” <em>The Expositor </em>5 (1898): 460–71.</p>",
       "line_text": "Simms, A. E. “Second Peter and the Apocalypse of Peter.” The Expositor 5 (1898): 460–71.",
       "language": "English",
@@ -603,6 +861,24 @@
     {
       "line_html": "<p>Smith, Terence V. <em>Petrine Controversies in Early Christianity: Attitudes towards Peter in Christian Writings of the Frist Two Centuries. </em>WUNT 15. Tübingen: Mohr Siebeck, 1985, esp. 43–45.</p>",
       "line_text": "Smith, Terence V. Petrine Controversies in Early Christianity: Attitudes towards Peter in Christian Writings of the Frist Two Centuries. WUNT 15. Tübingen: Mohr Siebeck, 1985, esp. 43–45.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Sommer, Michael. “How Jewish is the (Ethiopic) Apocalypse of Peter?” Pages 451–60 in <em>From</em><br/><em>Jesus to Christian Origins: Second Annual Meeting of Bertinoro (1–4 October, 2015).</em> Edited by Adriana Destro and Mauro Pesce. JAOC 16. Turnhout: Brepols, 2020.</p>",
+      "line_text": "Sommer, Michael. “How Jewish is the (Ethiopic) Apocalypse of Peter?” Pages 451–60 in FromJesus to Christian Origins: Second Annual Meeting of Bertinoro (1–4 October, 2015). Edited by Adriana Destro and Mauro Pesce. JAOC 16. Turnhout: Brepols, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Reading the Apocalypse of Peter Politically: Depictions of Christ and Trajan.” Pages 257–76 in<em> Reading the Political in Jewish and Christian Texts.</em> Edited by Julia A. Snyder, Korinna Zamfir, and Spencer Healey. Biblical Tools and Studies 38. Leuven: Peeters, 2020.</p>",
+      "line_text": "———. “Reading the Apocalypse of Peter Politically: Depictions of Christ and Trajan.” Pages 257–76 in Reading the Political in Jewish and Christian Texts. Edited by Julia A. Snyder, Korinna Zamfir, and Spencer Healey. Biblical Tools and Studies 38. Leuven: Peeters, 2020.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Ethics of Hell. Righteousness in the Apocalypse of Peter and Early Christian Discourses About Ethics.” Pages 93–111 in <em>The Apocalypse of Peter in</em><br/><em>Context.</em> Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.</p>",
+      "line_text": "———. “The Ethics of Hell. Righteousness in the Apocalypse of Peter and Early Christian Discourses About Ethics.” Pages 93–111 in The Apocalypse of Peter inContext. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus. Studies on Early Christian Apocrypha 21. Leuven: Peeters, 2024.",
       "language": "English",
       "entry_type": "Other"
     },

@@ -147,9 +147,36 @@
       "entry_type": "Acts of John (CANT 215.I)"
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 19228 (Arm. 99), fols. 1–173 (1307)</p>",
+      "line_text": "London, British Library, Add. 19228 (Arm. 99), fols. 1–173 (1307)",
+      "language": ".3.4.1 Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 222 (olim 239), item 92 (1335)</p>",
+      "line_text": "Venice, Biblioteca dei Padri Mechitaristi San Lazzaro degli Armeni, 222 (olim 239), item 92 (1335)",
+      "language": ".3.4.1 Armenian",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n243/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Tchérakian, Chérubin. <em>Ankanon girkh arakhelakankh</em>: <em>Thankgaran haykakan hin ew nor deprutheankh</em>. Venice: Òazar, 1904 (edition based BL Arm. 99 and V 222, pp. 219–21).</p>",
+      "line_text": "Tchérakian, Chérubin. Ankanon girkh arakhelakankh: Thankgaran haykakan hin ew nor deprutheankh. Venice: Òazar, 1904 (edition based BL Arm. 99 and V 222, pp. 219–21).",
+      "language": ".3.4.1 Armenian",
+      "entry_type": "Acts of John (CANT 215.I)",
+      "other_urls": [
+        "https://archive.org/details/AnkanonGirkArhakelakankuncanonicalBooksOfTheGospels/page/n243/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Leloir, Louis. <em>Écrits Apocryphes sur les apôtres: Traduction de l’édition Arménienne de Venise. I. Pierre, Paul, André, Jacques, Jean.</em> Turnhout: Brepols, 1986 (French translation of Tchérakian’s edition, pp. 323–25).</p>",
+      "line_text": "Leloir, Louis. Écrits Apocryphes sur les apôtres: Traduction de l’édition Arménienne de Venise. I. Pierre, Paul, André, Jacques, Jean. Turnhout: Brepols, 1986 (French translation of Tchérakian’s edition, pp. 323–25).",
+      "language": ".3.4.1 Armenian",
+      "entry_type": "Acts of John (CANT 215.I)"
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\"><strong><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>L</strong>  Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 100–114 (1039) ~ <em>Acts of John by Prochorus</em> with chs. 56–57 at fols. 113–114</p>",
       "line_text": "L  Mount Athos, M. Megistes Lavras, Δ 50 (Eustratiades 0426), fols. 100–114 (1039) ~ Acts of John by Prochorus with chs. 56–57 at fols. 113–114",
-      "language": ".3.4 Chapters 56–57",
+      "language": ".3.4.2 Greek",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-athos-mone-megistes-lavras-%ce%b4-50/"
@@ -158,7 +185,7 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25\" alt=\"\" width=\"72\" height=\"25\"/></a><strong>S  </strong>Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 497, fols. 94<sup>r</sup>–107<sup>v</sup> (10th/11th cent.) ~ <em>Acts of John by Prochorus</em> with chs. 56–57 at fols. 107<sup>r</sup>–107<sup>v</sup></p>",
       "line_text": "S  Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 497, fols. 94r–107v (10th/11th cent.) ~ Acts of John by Prochorus with chs. 56–57 at fols. 107r–107v",
-      "language": ".3.4 Chapters 56–57",
+      "language": ".3.4.2 Greek",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-gr-497/"
@@ -435,16 +462,13 @@
       ]
     },
     {
-      "line_html": "<p>Catergian, J. <em>Ecclesiae Ephesinae de obitu Joannis apostoli narratio ex versione armeniaca saeculi V.</em> Vienna 1877 (pp. 32–51).</p>",
-      "line_text": "Catergian, J. Ecclesiae Ephesinae de obitu Joannis apostoli narratio ex versione armeniaca saeculi V. Vienna 1877 (pp. 32–51).",
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=1rkOAAAAQAAJ&amp;pg=PA2&amp;lpg=PA2&amp;dq=Catergian,+J.+Ecclesiae+Ephesinae&amp;source=bl&amp;ots=RxwYv2V8FZ&amp;sig=ACfU3U3go-weIHAqA3X_cO8SGuDzU713XA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjK8L3d6c6EAxVQLFkFHYFrC6MQ6AF6BAgbEAM#v=onepage&amp;q=Catergian%2C%20J.%20Ecclesiae%20Ephesinae&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Catergian, Joseph. <em>Ecclesiae Ephesinae de obitu Joannis apostoli narratio ex versione armeniaca saeculi V.</em> Vienna: W. Heinrich, 1877 (edition based on previously published editions and three biblical manuscripts, pp. 32–51).</p>",
+      "line_text": "Catergian, Joseph. Ecclesiae Ephesinae de obitu Joannis apostoli narratio ex versione armeniaca saeculi V. Vienna: W. Heinrich, 1877 (edition based on previously published editions and three biblical manuscripts, pp. 32–51).",
       "language": "Armenian",
-      "entry_type": "Dormition/Metastasis of John (CANT 215.II)"
-    },
-    {
-      "line_html": "<p>Leloir, Louis. <em>Écrits apocryphes </em>sur <em>les apôtres: Traduction de l’edition armenienne de Venise. </em>Vol. 1. CCSA 3 Turnhout: Brepols, 1986.</p>",
-      "line_text": "Leloir, Louis. Écrits apocryphes sur les apôtres: Traduction de l’edition armenienne de Venise. Vol. 1. CCSA 3 Turnhout: Brepols, 1986.",
-      "language": "Armenian",
-      "entry_type": "Dormition/Metastasis of John (CANT 215.II)"
+      "entry_type": "Dormition/Metastasis of John (CANT 215.II)",
+      "other_urls": [
+        "https://books.google.ca/books?id=1rkOAAAAQAAJ&pg=PA2&lpg=PA2&dq=Catergian,+J.+Ecclesiae+Ephesinae&source=bl&ots=RxwYv2V8FZ&sig=ACfU3U3go-weIHAqA3X_cO8SGuDzU713XA&hl=en&sa=X&ved=2ahUKEwjK8L3d6c6EAxVQLFkFHYFrC6MQ6AF6BAgbEAM#v=onepage&q=Catergian%2C%20J.%20Ecclesiae%20Ephesinae&f=false"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/clm-2879/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>CLM 2879, pp. 353–358, 371–372, 377–378 (13th cent.)</p>",
@@ -950,6 +974,12 @@
       "line_html": "<p>Schäferdiek, Knut. “The Acts of John.” Pages 152–212 in vol. 2 of  <em>New Testament Apocrypha.</em> Edited by Wilhelm Schneemelcher. Translated by Robert McLachlan Wilson. Louisville, KY: Westminster/John Knox Press, 1992.</p>",
       "line_text": "Schäferdiek, Knut. “The Acts of John.” Pages 152–212 in vol. 2 of  New Testament Apocrypha. Edited by Wilhelm Schneemelcher. Translated by Robert McLachlan Wilson. Louisville, KY: Westminster/John Knox Press, 1992.",
       "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Festugière, André-Jean. <em>Les actes apocryphes de Jean et de Thomas</em>. Cahiers d’Orientalisme 6. Genève: Patrick Cramer, 1983 (translation of the texts from Lipsius-Bonnet).</p>",
+      "line_text": "Festugière, André-Jean. Les actes apocryphes de Jean et de Thomas. Cahiers d’Orientalisme 6. Genève: Patrick Cramer, 1983 (translation of the texts from Lipsius-Bonnet).",
+      "language": "French",
       "entry_type": "Translation"
     },
     {
@@ -1739,8 +1769,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Bowe, Barbara E. “Dancing into the Divine: The Hymn of the Dance in the Acts of John.” <em>JECS </em>7 (1999): 83–84.</p>",
-      "line_text": "Bowe, Barbara E. “Dancing into the Divine: The Hymn of the Dance in the Acts of John.” JECS 7 (1999): 83–84.",
+      "line_html": "<p>Bowe, Barbara E. “Dancing into the Divine: The Hymn of the Dance in the Acts of John.” <em>JECS </em>7 (1999): 83–104.</p>",
+      "line_text": "Bowe, Barbara E. “Dancing into the Divine: The Hymn of the Dance in the Acts of John.” JECS 7 (1999): 83–104.",
       "language": "Acts of John",
       "entry_type": "Other"
     },

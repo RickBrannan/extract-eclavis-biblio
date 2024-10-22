@@ -9,57 +9,48 @@
   "compiler": "[not available]",
   "bibliography_entries": [
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Beirut 563, pp. 119–120 (Garshuni; 1897)</p>",
-      "line_text": "Beirut 563, pp. 119–120 (Garshuni; 1897)",
-      "language": "Arabic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Cambridge Add. ms. 2881, fols. 158v–160r (Garshuni; 1484)</p>",
-      "line_text": "Cambridge Add. ms. 2881, fols. 158v–160r (Garshuni; 1484)",
-      "language": "Arabic",
-      "entry_type": "Manuscript"
-    },
-    {
-      "line_html": "<p style=\"padding-left: 40px;\">Cambridge Add. ms. 2885, fols. 72v–73v (Garshuni; 1771)</p>",
-      "line_text": "Cambridge Add. ms. 2885, fols. 72v–73v (Garshuni; 1771)",
-      "language": "Arabic",
-      "entry_type": "Manuscript"
-    },
-    {
       "line_html": "<p style=\"padding-left: 40px;\">Chicago, Columbia College Library (no further information provided)</p>",
       "line_text": "Chicago, Columbia College Library (no further information provided)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Dublin, Trin. Col. Nr. 1514 (16th cent.) fols. unknown</p>",
       "line_text": "Dublin, Trin. Col. Nr. 1514 (16th cent.) fols. unknown",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 127, fols. 282<sup>v</sup><strong>–</strong>283<sup>v</sup> (1916) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/120690\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 127, fols. 282v–283v (1916) ~ HMML",
+      "language": ".1 Arabic Script",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/120690"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Add. 9965, fol. 33v</p>",
       "line_text": "London, British Library, Add. 9965, fol. 33v",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 408 (1258), fols. unknown</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 408 (1258), fols. unknown",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 409 (1534), fols. unknown</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 409 (1534), fols. unknown",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-445/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 150<sup>r</sup>–162<sup>r</sup> (1233)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 445, fols. 150r–162r (1233)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-445/"
@@ -68,7 +59,7 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-485/\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 485, fols. 53<sup>v</sup><strong>–</strong>69<sup>r</sup> (13th cent.)</p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 485, fols. 53v–69r (13th cent.)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-485/"
@@ -77,19 +68,19 @@
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57<sup>r</sup>–58<sup>v</sup> (17th cent.)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 51, fols. 57r–58v (17th cent.)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24r–29r (1541)</p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 174, fols. 24r–29r (1541)",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Manuscript"
     },
     {
       "line_html": "<p><a href=\"https://www.jstor.org/stable/527236\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Gottheil, R. J. H. “An Arabic Version of the Abgar-Legend.” <em>Hebraica</em> 7.4 (1891): 268–77 (text and English translation of the Columbia College Library manuscript).</p>",
       "line_text": "Gottheil, R. J. H. “An Arabic Version of the Abgar-Legend.” Hebraica 7.4 (1891): 268–77 (text and English translation of the Columbia College Library manuscript).",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Edition",
       "other_urls": [
         "https://www.jstor.org/stable/527236"
@@ -98,13 +89,13 @@
     {
       "line_html": "<p>Graf, Georg. <i>Geschichte der Christlichen Arabischen</i> Literatur. 5 vols. Rome: Vatican Apostolic Library, 1944–1953 (manuscripts listed, vol. 1, pp. 237–38).</p>",
       "line_text": "Graf, Georg. Geschichte der Christlichen Arabischen Literatur. 5 vols. Rome: Vatican Apostolic Library, 1944–1953 (manuscripts listed, vol. 1, pp. 237–38).",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Edition"
     },
     {
       "line_html": "<p><a href=\"http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” <em>Collectanea Christiana Orientalia</em> 5 (2008): 147–181 (edition of Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).</p>",
       "line_text": "Monferrer-Sala, Juan Pedro, and Amalia Zomeño. “Abgari regis fabulæ versio iuxta narrationem magnæ ecclesiæ Edessæ aedificationis (secundum Sinaiticum arabicum CDXLV, qui in Cœnobio Sanctæ Catalinæ asservatur).” Collectanea Christiana Orientalia 5 (2008): 147–181 (edition of Sinai ar. 455, pp. 165–72, with English translation, pp. 172–81).",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Edition",
       "other_urls": [
         "http://www.uco.es/investiga/grupos/hum380/collectanea/sites/default/files/15_0.pdf"
@@ -113,11 +104,32 @@
     {
       "line_html": "<p><a href=\"https://archive.org/details/lesoriginesdel00tixeuoft/page/196/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tixeront, Louis-Joseph. <em>Les origines de l’église d’Édesse et la légende d’Abgar</em>. Paris: Maisonneuve, 1888 (edition of Vat. ar. 51, pp. 197–99, and French translation, pp. 200–201).</p>",
       "line_text": "Tixeront, Louis-Joseph. Les origines de l’église d’Édesse et la légende d’Abgar. Paris: Maisonneuve, 1888 (edition of Vat. ar. 51, pp. 197–99, and French translation, pp. 200–201).",
-      "language": "Arabic",
+      "language": ".1 Arabic Script",
       "entry_type": "Edition",
       "other_urls": [
         "https://archive.org/details/lesoriginesdel00tixeuoft/page/196/mode/2up"
       ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-563/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 563, fols. 63<sup>r</sup>–63<sup>v</sup> (1897)</p>",
+      "line_text": "Beirut, Bibliothèque Orientale de l’Université Saint Joseph, 563, fols. 63r–63v (1897)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/beirut-bibliotheque-orientale-de-luniversite-saint-joseph-563/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge Add. ms. 2881, fols. 158v–160r (1484)</p>",
+      "line_text": "Cambridge Add. ms. 2881, fols. 158v–160r (1484)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge Add. ms. 2885, fols. 72v–73v (1771)</p>",
+      "line_text": "Cambridge Add. ms. 2885, fols. 72v–73v (1771)",
+      "language": ".2 Garšūnī Script",
+      "entry_type": "Manuscript"
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 3854, fols. 80<sup>v</sup>–88<sup>v</sup> (1471) ~ combination of traditions about the Epistles, Addai, and the <a href=\"https://www.nasscal.com/e-clavis-christian-apocrypha/legend-of-the-thirty-pieces-of-silver/\" target=\"_blank\" rel=\"noopener\"><em>Legend of the Thirty Pieces of Silver</em></a></p>",
@@ -247,8 +259,8 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Casson, Lionel, and Ernest L. Hettich, eds. <em>Excavations at Nessana</em>, vol. 2: <em>Literary Papyri.</em> Princeton: Princeton University Press, 1950. (143–47)</p>",
-      "line_text": "Casson, Lionel, and Ernest L. Hettich, eds. Excavations at Nessana, vol. 2: Literary Papyri. Princeton: Princeton University Press, 1950. (143–47)",
+      "line_html": "<p>Casson, Lionel, and Ernest L. Hettich, eds. <em>Excavations at Nessana</em>, vol. 2: <em>Literary Papyri.</em> Princeton: Princeton University Press, 1950 (pp. 143–47).</p>",
+      "line_text": "Casson, Lionel, and Ernest L. Hettich, eds. Excavations at Nessana, vol. 2: Literary Papyri. Princeton: Princeton University Press, 1950 (pp. 143–47).",
       "language": ".1 Papyri",
       "entry_type": "Edition"
     },
@@ -295,6 +307,45 @@
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/dublin-royal-irish-academy-23-p-16/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Cambridge (Mass.), Harvard University, Syr. 151</p>",
+      "line_text": "Cambridge (Mass.), Harvard University, Syr. 151",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, BNF Syr. 56</p>",
+      "line_text": "Paris, BNF Syr. 56",
+      "language": "Syriac",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p><span class=\"biblio-authors\"><a href=\"https://archive.org/stream/ActaMartyrumEtSanctorumvolume2Ed.PaulBedjan/BedjanActaMartyrumEtSanctorumV1#page/n505/mode/1up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bedjan, P. (ed.)</span>, <span class=\"biblio-title\"><em>Acta Martyrum et Sanctorum</em>: Tomus Primus</span>, vol. 1, 7 vol. Leipzig: Otto Harrassowitz, 1890. (p. 47)</p>",
+      "line_text": "Bedjan, P. (ed.), Acta Martyrum et Sanctorum: Tomus Primus, vol. 1, 7 vol. Leipzig: Otto Harrassowitz, 1890. (p. 47)",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/stream/ActaMartyrumEtSanctorumvolume2Ed.PaulBedjan/BedjanActaMartyrumEtSanctorumV1#page/n505/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/jstor-527130\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Hall, I. H. “Syriac Version of the Epistle of King Abgar to Jesus.” <em>Hebraica</em> 1 (1885): 232–35.</p>",
+      "line_text": "Hall, I. H. “Syriac Version of the Epistle of King Abgar to Jesus.” Hebraica 1 (1885): 232–35.",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/jstor-527130"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/lesoriginesdel00tixeuoft\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tixeront, L. J. <em>Les Origines de l’Église d’Édesse et la légende d’Abgar. Étude critique suivie de deux textes orientaux inédits</em>. Paris: Maissonneuve, 1888. (edition of Paris BnF syr. 56).</p>",
+      "line_text": "Tixeront, L. J. Les Origines de l’Église d’Édesse et la légende d’Abgar. Étude critique suivie de deux textes orientaux inédits. Paris: Maissonneuve, 1888. (edition of Paris BnF syr. 56).",
+      "language": "Syriac",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/lesoriginesdel00tixeuoft"
       ]
     },
     {
@@ -432,15 +483,6 @@
       "line_text": "Polański, Tomasz. “Translation, Amplification, Paraphrase: Some Comments on the Syriac, Greek and Coptic Versions of the Abgar Letter.” Collectanea Christiana Orientalia 13 (2016) 159–210.",
       "language": "English",
       "entry_type": "Other"
-    },
-    {
-      "line_html": "<p><a href=\"https://archive.org/details/lesoriginesdel00tixeuoft\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Tixeront, Louis-Joseph. <em>Les origines de l’église d’Édesse et la légende d’Abgar</em>. Paris: Maisonneuve, 1888.</p>",
-      "line_text": "Tixeront, Louis-Joseph. Les origines de l’église d’Édesse et la légende d’Abgar. Paris: Maisonneuve, 1888.",
-      "language": "English",
-      "entry_type": "Other",
-      "other_urls": [
-        "https://archive.org/details/lesoriginesdel00tixeuoft"
-      ]
     },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",

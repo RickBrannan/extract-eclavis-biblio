@@ -24,10 +24,34 @@
       ]
     },
     {
-      "line_html": "<p>Lagrange, M. J. <em>Saint Étienne et son sanctuaire à Jérusalem</em> (Paris: Picard, 1894), p. 43-52 (Latin).</p>",
-      "line_text": "Lagrange, M. J. Saint Étienne et son sanctuaire à Jérusalem (Paris: Picard, 1894), p. 43-52 (Latin).",
-      "language": "Greek",
+      "line_html": "<p>Lagrange, M. J. <em>Saint Étienne et son sanctuaire à Jérusalem</em> (Paris: Picard, 1894), p. 43-52 (Latin A).</p>",
+      "line_text": "Lagrange, M. J. Saint Étienne et son sanctuaire à Jérusalem (Paris: Picard, 1894), p. 43-52 (Latin A).",
+      "language": ".1 Latin A",
       "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 443-52).</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 443-52).",
+      "language": ".1 Latin A",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 453-62).</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 453-62).",
+      "language": "Syriac",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>P. von Winterfeld, “Revelatio sancti Stephani.” ZNW 3 (1902): 358</p>",
+      "line_text": "P. von Winterfeld, “Revelatio sancti Stephani.” ZNW 3 (1902): 358",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>James, ANT 564-68; Erbetta, 3:397-408</p>",
+      "line_text": "James, ANT 564-68; Erbetta, 3:397-408",
+      "language": "English",
+      "entry_type": "Translation"
     },
     {
       "line_html": "<p><a href=\"http://ecclesia.relig-museum.ru/pdf/stephan.pdf\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bovon, François. “The Dossier on Stephen the First Martyr.” <em>HTR</em> 96 (203): 279–315.</p>",

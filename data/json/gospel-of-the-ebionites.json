@@ -6,7 +6,7 @@
   "abbrev": "Gos. Eb.",
   "clavis_number": 198,
   "category": "Agrapha and Fragments",
-  "compiler": ": Michael J. Kok, Morling College Perth Campus",
+  "compiler": ": Michael J. Kok, Morling College Perth Campus.",
   "bibliography_entries": [
     {
       "line_html": "<p><a href=\"https://archive.org/details/epiphanius01epip/page/n7/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Holl, Karl, ed. <em>Epiphanius 1: Ancoratus und Panarion haer. </em>1–33. GCS 25. Leipzig: J. C. Hinrichs, 1915.</p>",
@@ -375,20 +375,32 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p>Kok, Michael J. <em>Tax Collector to Gospel Writer: Patristic Traditions about the Evangelist Matthew</em>. Minneapolis: Fortress, 2023 (forthcoming).</p>",
-      "line_text": "Kok, Michael J. Tax Collector to Gospel Writer: Patristic Traditions about the Evangelist Matthew. Minneapolis: Fortress, 2023 (forthcoming).",
+      "line_html": "<p>Kok, Michael J. “Did Papias of Hierapolis Use the <em>Gospel according to the Hebrews </em>as a Source?” <em>JECS </em>25.1 (2017): 29–53.</p>",
+      "line_text": "Kok, Michael J. “Did Papias of Hierapolis Use the Gospel according to the Hebrews as a Source?” JECS 25.1 (2017): 29–53.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “The Gospel of the Ebionites and the Synoptic Problem.” <i>Catholic Biblical Quarterly </i>86.2 (2024): 300-325 (forthcoming).</p>",
+      "line_text": "———. “The Gospel of the Ebionites and the Synoptic Problem.” Catholic Biblical Quarterly 86.2 (2024): 300-325 (forthcoming).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Rethinking the Date of the <i>Gospel of the Ebionites</i>.” <i>Early Christianity </i>15 (2024): forthcoming.</p>",
+      "line_text": "———. “Rethinking the Date of the Gospel of the Ebionites.” Early Christianity 15 (2024): forthcoming.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. <em>Tax Collector to Gospel Writer: Patristic Traditions about the Evangelist Matthew</em>. Minneapolis: Fortress, 2023 (forthcoming).</p>",
+      "line_text": "———. Tax Collector to Gospel Writer: Patristic Traditions about the Evangelist Matthew. Minneapolis: Fortress, 2023 (forthcoming).",
       "language": "English",
       "entry_type": "Other"
     },
     {
       "line_html": "<p>———. “The Utility of Adoptionism as a Heuristic Category: The Baptism Narrative in the Gospel of the Ebionites as a Test Case.” <em>SJT </em>(forthcoming).</p>",
       "line_text": "———. “The Utility of Adoptionism as a Heuristic Category: The Baptism Narrative in the Gospel of the Ebionites as a Test Case.” SJT (forthcoming).",
-      "language": "English",
-      "entry_type": "Other"
-    },
-    {
-      "line_html": "<p>———. “Did Papias of Hierapolis Use the <em>Gospel according to the Hebrews </em>as a Source?” <em>JECS </em>25.1 (2017): 29–53.</p>",
-      "line_text": "———. “Did Papias of Hierapolis Use the Gospel according to the Hebrews as a Source?” JECS 25.1 (2017): 29–53.",
       "language": "English",
       "entry_type": "Other"
     },
@@ -512,6 +524,12 @@
     {
       "line_html": "<p>———. “Ebionites, Gospel of.” <em>ABD </em>2<em>:</em>261–62.</p>",
       "line_text": "———. “Ebionites, Gospel of.” ABD 2:261–62.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Pouderon, Bernard. “L’ébionisme et sa christologie ‘déviante’ Confrontation des sources hérésiologiques avec le Roman pseudo-clémentin.” <em>Revue des sciences religieuses</em> 96.4 (2022): 359–74.</p>",
+      "line_text": "Pouderon, Bernard. “L’ébionisme et sa christologie ‘déviante’ Confrontation des sources hérésiologiques avec le Roman pseudo-clémentin.” Revue des sciences religieuses 96.4 (2022): 359–74.",
       "language": "English",
       "entry_type": "Other"
     },

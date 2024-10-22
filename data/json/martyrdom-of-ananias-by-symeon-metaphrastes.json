@@ -1,0 +1,204 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/martyrdom-of-ananias-by-symeon-metaphrastes/",
+  "nasscal_title": "Martyrdom of Ananias, by Symeon Metaphrastes",
+  "filename": "martyrdom-of-ananias-by-symeon-metaphrastes",
+  "latin_title": "Martyrium Ananias apostolos",
+  "abbrev": "Mart. Anan.",
+  "alt_titles": [
+    "Martyrdom of Ananias"
+  ],
+  "clavis_number": 484,
+  "category": "Hagiographa",
+  "compiler": "Tony Burke",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-423/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 423, fols. 74<sup>v</sup>–76<sup>v</sup> (1626)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 423, fols. 74v–76v (1626)",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-423/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, Coisl. 145, fols. 1<sup>r</sup>–4<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/49284/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100816607\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, Coisl. 145, fols. 1r–4v (11th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/49284/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b100816607"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 774, fols. 161<sup>r</sup>–165<sup>r</sup> (14th cent.)~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50358/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107239856\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 774, fols. 161r–165r (14th cent.)~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50358/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107239856"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1484, fols. 1<sup>r</sup>–4<sup>r</sup> (11th/12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51101/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107234285\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1484, fols. 1r–4r (11th/12th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51101/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107234285"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1494, fols. 1<sup>r</sup>–2<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51111/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107232341\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1494, fols. 1r–2v (12th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51111/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107232341"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1495, fols. 1<sup>r</sup>–4<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51112/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723492c\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1495, fols. 1r–4r (11th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51112/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723492c"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1503, fols. 1<sup>r</sup>–3<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51121/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1503, fols. 1r–3v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51121/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1512, fols. 1<sup>r</sup>–5<sup>r</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51130/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1512, fols. 1r–5r (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51130/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1514, fols. 147<sup>r</sup>–148<sup>r</sup> (12th/13th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51132/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b11005064w?rk=3776842;4\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1514, fols. 147r–148r (12th/13th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51132/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b11005064w?rk=3776842;4"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1524, fols. 2<sup>r</sup>–5<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51142/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1524, fols. 2r–5v (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51142/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1543, fols. 1<sup>r</sup>–4<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51161/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1543, fols. 1r–4v (12th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51161/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1546, fols. 1<sup>r</sup>–3<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51164/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b10723774k\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1546, fols. 1r–3v (12th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51164/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b10723774k"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1555, fols. 142<sup>v</sup>–143<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51174/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10084061f?rk=472105;2\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1555, fols. 142v–143v (14th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51174/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10084061f?rk=472105;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1558, fols. 201<sup>v</sup>–204<sup>r</sup> (15th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51178/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107236496\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1558, fols. 201v–204r (15th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51178/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107236496"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316<sup>r</sup>–1318<sup>v </sup>(1542)</p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316r–1318v (1542)",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
+      ]
+    },
+    {
+      "line_html": "<p><i><a href=\"https://archive.org/details/patrologiaecurs125migngoog/page/n522/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></i>Migne, Jacques Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 114. Paris: Cerf, 1903 (Greek text from Paris, BNF 1546 with Latin translation from <em>Acta Sanctorum</em>, cols. 1001–1009).</p>",
+      "line_text": "Migne, Jacques Paul. Patrologiae cursus completus: Series graeca. Vol. 114. Paris: Cerf, 1903 (Greek text from Paris, BNF 1546 with Latin translation from Acta Sanctorum, cols. 1001–1009).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaecurs125migngoog/page/n522/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum03unse/page/226/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Ianuarii</em>. Vol. 3. 3rd ed. Paris: V. Palmé, 1863 (Latin translation from unidentified source, pp. 227–29).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Ianuarii. Vol. 3. 3rd ed. Paris: V. Palmé, 1863 (Latin translation from unidentified source, pp. 227–29).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum03unse/page/226/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Milan, Biblioteca Ambrosiana, B 12 inf. (Martini-Bassi 839), fols. 35<sup>r</sup>–35<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/42302/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:27938\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Milan, Biblioteca Ambrosiana, B 12 inf. (Martini-Bassi 839), fols. 35r–35v (12th cent.) ~ Pinakes; IMAGES",
+      "language": ".5 Epitome",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/42302/",
+        "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:27938"
+      ]
+    },
+    {
+      "line_html": "<p>Bovon, François and Evie Zacharides-Holmberg. “The Martyrdom of the Holy Apostle Ananias (BHG 75y).” Pages 309–31 in <em>The Apocryphal Acts of the Apostles</em>. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Harvard Divinity School Studies; Cambridge, MA: Harvard University Press, 1999.</p>",
+      "line_text": "Bovon, François and Evie Zacharides-Holmberg. “The Martyrdom of the Holy Apostle Ananias (BHG 75y).” Pages 309–31 in The Apocryphal Acts of the Apostles. Edited by François Bovon, Ann Graham Brock, and Christopher R. Matthews. Harvard Divinity School Studies; Cambridge, MA: Harvard University Press, 1999.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

@@ -33,22 +33,31 @@
       "entry_type": "Manuscript"
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale)<em>,</em> 510, fols. 232<sup>r</sup>–234<sup>v</sup> (18th cent.)</p>",
-      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 510, fols. 232r–234v (18th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale)<em>,</em> 510, fols. 232<sup>r</sup>–234<sup>v</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/504907\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 510, fols. 232r–234v (18th cent.) ~ HMML",
       "language": ". Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/504907"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale)<em>,</em> 511, fols. 334<sup>v</sup>–341<sup>r</sup> (1867)</p>",
-      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 511, fols. 334v–341r (1867)",
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale)<em>,</em> 511, fols. 334<sup>v</sup>–341<sup>r</sup> (1867) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/504440\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 511, fols. 334v–341r (1867) ~ HMML",
       "language": ". Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/504440"
+      ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale), 512, fols. 152<sup>r</sup>–156<sup>r</sup> (16th cent.)</p>",
-      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 512, fols. 152r–156r (16th cent.)",
+      "line_html": "<p style=\"padding-left: 30px;\">Beirut, Université Saint-Joseph (Bibliothèque Orientale), 512, fols. 152<sup>r</sup>–156<sup>r</sup> (16th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/504441\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Beirut, Université Saint-Joseph (Bibliothèque Orientale), 512, fols. 152r–156r (16th cent.) ~ HMML",
       "language": ". Arabic",
-      "entry_type": "Manuscript"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/504441"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\">Beirut, American University, 1194 (18th cent.)</p>",
@@ -208,6 +217,33 @@
       "line_text": "Jerusalem, Holy Sepulcher, ar. 46, fols. 1r–7v (13th cent.)",
       "language": ". Arabic",
       "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, 589, fols. 137<sup>v</sup>–140<sup>r</sup> (19th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/507332\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, 589, fols. 137v–140r (19th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/507332"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 781, pp. 529–538 (19th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/507353\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, OBC 781, pp. 529–538 (19th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/507353"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 30px;\">Khinshārah (Lebanon), Ordre Basilien Choueirite, 573, fols. 403<sup>v</sup>–408<sup>r</sup> (14th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/507397\">HMML</a></p>",
+      "line_text": "Khinshārah (Lebanon), Ordre Basilien Choueirite, 573, fols. 403v–408r (14th cent.) ~ HMML",
+      "language": ". Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/507397"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 30px;\">Lebanon, Dair as-Suwair, 335 (18th/19th cent.)</p>",

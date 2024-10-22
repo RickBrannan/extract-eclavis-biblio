@@ -163,10 +163,13 @@
       "entry_type": "Edition"
     },
     {
-      "line_html": "<p>Wilmart, André. “L’ancien récit latin de l’Assomption.” Pages 323–62 in <em>Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican</em>. Studi e Testi 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition based on BFGMPRSTV).</p>",
-      "line_text": "Wilmart, André. “L’ancien récit latin de l’Assomption.” Pages 323–62 in Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican. Studi e Testi 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition based on BFGMPRSTV).",
+      "line_html": "<p><a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k1417742b/f329.item\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Wilmart, André. <em>Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican</em>. Studi e Testi 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition based on BFGMPRSTV, pp. 323–57).</p>",
+      "line_text": "Wilmart, André. Analecta Reginensia. Extraits des manuscrits latins de la reine Christine conservés au Vatican. Studi e Testi 59. Vatican City: Biblioteca Apostolica Vaticana, 1933 (edition based on BFGMPRSTV, pp. 323–57).",
       "language": "Latin",
-      "entry_type": "Edition"
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/bpt6k1417742b/f329.item"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-198/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Cambridge, Corpus Christi College 198, pp. 350–59 (9th–11th cent.)</p>",
@@ -212,6 +215,12 @@
       "other_urls": [
         "https://archive.org/details/blicklinghomili01morrgoog/page/n161/mode/2up"
       ]
+    },
+    {
+      "line_html": "<p>Shoemaker, Stephen, trans. <em>The Dormition and Assumption of the Virgin Mary</em>. Apocryphes 17. Turnhout: Brepols, 2023 (pp. 257–68).</p>",
+      "line_text": "Shoemaker, Stephen, trans. The Dormition and Assumption of the Virgin Mary. Apocryphes 17. Turnhout: Brepols, 2023 (pp. 257–68).",
+      "language": "English",
+      "entry_type": "Translation"
     },
     {
       "line_html": "<p>Mimouni, Simon Claude.<em> Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011 (translation of Wilmart’s edition and variants, including the ending with the torments of hell from Wenger’s edition of Paris lat. 3550, pp. 184–96).</p>",

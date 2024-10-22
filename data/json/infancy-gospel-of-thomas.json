@@ -350,8 +350,8 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\">Hamburg, Staats- und Universitätsbibliothek, P. Hamb. graec. 1011 ~ <a href=\"https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf[double]=0&amp;tx_dlf[id]=32201&amp;tx_dlf[page]=1&amp;tx_dlf[pagegrid]=0&amp;cHash=16edc35a4f454afe99b8f012de5304f5&amp;fbclid=IwAR3rC-Evv2IfCdEKY2p1kO7Am5Iovtpiscbg53xgupZmVbCMGeuo8w94SJM\" target=\"_blank\" rel=\"noopener\">IMAGES</a>; reportedly contains portions of ch. 2</p>",
-      "line_text": "Hamburg, Staats- und Universitätsbibliothek, P. Hamb. graec. 1011 ~ IMAGES; reportedly contains portions of ch. 2",
+      "line_html": "<p style=\"padding-left: 30px;\">Hamburg, Staats- und Universitätsbibliothek, P. Hamb. graec. 1011 ~ <a href=\"https://digitalisate.sub.uni-hamburg.de/recherche/detail?tx_dlf[double]=0&amp;tx_dlf[id]=32201&amp;tx_dlf[page]=1&amp;tx_dlf[pagegrid]=0&amp;cHash=16edc35a4f454afe99b8f012de5304f5&amp;fbclid=IwAR3rC-Evv2IfCdEKY2p1kO7Am5Iovtpiscbg53xgupZmVbCMGeuo8w94SJM\" target=\"_blank\" rel=\"noopener\">IMAGES</a>; contains portions of chs. 2 and 3</p>",
+      "line_text": "Hamburg, Staats- und Universitätsbibliothek, P. Hamb. graec. 1011 ~ IMAGES; contains portions of chs. 2 and 3",
       "language": "Greek",
       "entry_type": "Manuscript",
       "other_urls": [
@@ -493,6 +493,12 @@
     {
       "line_html": "<p>Aasgaard, Reidar. <em>The Childhood of Jesus: Decoding the Apocryphal Infancy Gospel of Thomas</em>. Eugene, OR: Cascade Books, 2009 (edition of Greek S, pp. 219–32; with English translation, pp. 233–42).</p>",
       "line_text": "Aasgaard, Reidar. The Childhood of Jesus: Decoding the Apocryphal Infancy Gospel of Thomas. Eugene, OR: Cascade Books, 2009 (edition of Greek S, pp. 219–32; with English translation, pp. 233–42).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Berkes, Lajos, and Gabriel Nocchi Macedo. “The Earliest Manuscript of the So-called <em>Infancy Gospel of Thomas</em>: <em>Editio princeps</em> of P. Ham. Graec. 1011.” <em>ZPE</em> 229 (2024): 68–74.</p>",
+      "line_text": "Berkes, Lajos, and Gabriel Nocchi Macedo. “The Earliest Manuscript of the So-called Infancy Gospel of Thomas: Editio princeps of P. Ham. Graec. 1011.” ZPE 229 (2024): 68–74.",
       "language": "Greek",
       "entry_type": "Edition"
     },
@@ -1541,8 +1547,8 @@
       "entry_type": "Other"
     },
     {
-      "line_html": "<p><em>__________.</em> Review of <em>Gurupujakaumudi: Festgabe, zum 50jährigen Doktorjubiläum A. Weber dargebracht von seinem Freunden und Schülern</em>. <em>Theologische Literaturzeitung</em> 17 (1896): 442–45.</p>",
-      "line_text": "__________. Review of Gurupujakaumudi: Festgabe, zum 50jährigen Doktorjubiläum A. Weber dargebracht von seinem Freunden und Schülern. Theologische Literaturzeitung 17 (1896): 442–45.",
+      "line_html": "<p>Dobschütz, Ernst von. Review of <em>Gurupujakaumudi: Festgabe, zum 50jährigen Doktorjubiläum A. Weber dargebracht von seinem Freunden und Schülern</em>. <em>Theologische Literaturzeitung</em> 17 (1896): 442–45.</p>",
+      "line_text": "Dobschütz, Ernst von. Review of Gurupujakaumudi: Festgabe, zum 50jährigen Doktorjubiläum A. Weber dargebracht von seinem Freunden und Schülern. Theologische Literaturzeitung 17 (1896): 442–45.",
       "language": "English",
       "entry_type": "Other"
     },

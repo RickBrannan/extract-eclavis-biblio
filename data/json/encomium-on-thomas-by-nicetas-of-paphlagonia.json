@@ -9,13 +9,210 @@
   ],
   "clavis_number": 294,
   "category": "Apocryphal Acts",
-  "compiler": "[not available]",
+  "compiler": "Tony Burke, York University",
   "bibliography_entries": [
     {
-      "line_html": "<p>PG 105, 127–146</p>",
-      "line_text": "PG 105, 127–146",
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 217, fols. 139<sup>v</sup>–145<sup>r</sup> (16th/17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2513/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 217, fols. 139v–145r (16th/17th cent.) ~ Pinakes",
       "language": "Greek",
-      "entry_type": "Edition"
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/2513/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Athens, Ethnikē Bibliothēkē tēs Hellados, 260, fols. 67<sup>r</sup>–74<sup>r </sup>(16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/2556/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Athens, Ethnikē Bibliothēkē tēs Hellados, 260, fols. 67r–74r (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/2556/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Panaghias 1, fols. 128<sup>r</sup>–131<sup>v</sup> (14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33646/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Panaghias 1, fols. 128r–131v (14th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33646/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē 33, fols. 141<sup>v</sup>–149<sup>v</sup> (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33877/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Theologikē scholē 33, fols. 141v–149v (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33877/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Dionusiou, 168 (Lambros 3702) (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/20136/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271050318-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Athos, Monē Dionusiou, 168 (Lambros 3702) (17th cent.) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/20136/",
+        "https://www.loc.gov/item/00271050318-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Iberon, 426 (Lambros 4546) (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/24023/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Iberon, 426 (Lambros 4546) (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/24023/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Koutloumousiou, 624 (Polites 84), pp. 352–368 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/26652/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Koutloumousiou, 624 (Polites 84), pp. 352–368 (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/26652/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistes Lauras, Β 112 (Eustratiades 232), fols. 229–232 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27164/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistes Lauras, Β 112 (Eustratiades 232), fols. 229–232 (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27164/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistes Lauras, Δ 78 (Eustratiades 454), fols. 124–129 (13th/14th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27389/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00271051724-ma/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
+      "line_text": "Mount Athos, Monē Megistes Lauras, Δ 78 (Eustratiades 454), fols. 124–129 (13th/14th cent.) ~ Pinakes; LOC",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27389/",
+        "https://www.loc.gov/item/00271051724-ma/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Megistes Lauras, Ε 160 (Eustratiades 622), fols. 138–144 (18th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/27560/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Megistes Lauras, Ε 160 (Eustratiades 622), fols. 138–144 (18th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/27560/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Xēropotamou, 149 (Lambros 2482), fols. 190–200 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/30702/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mount Athos, Monē Xēropotamou, 149 (Lambros 2482), fols. 190–200 (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/30702/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mount Athos, Monē Simōnopetras, 44 (Lambros 1312), pp. 319–334 (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29660/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; destroyed</p>",
+      "line_text": "Mount Athos, Monē Simōnopetras, 44 (Lambros 1312), pp. 319–334 (17th cent.) ~ Pinakes; destroyed",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29660/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Meteora, Monē Barlaam, 136, fols. 91–96 (16th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/41031/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Meteora, Monē Barlaam, 136, fols. 91–96 (16th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/41031/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 176, fols. 288<sup>v</sup>–295<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/43801/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Moscow, Gosudarstvennyj Istoričeskij Musej, Sinod. gr. 176, fols. 288v–295v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/43801/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Moscow, Rossiyskaya Gosudarstvennaya Biblioteka, Φ. 270 (P. I. Sevast’janov) 66 (gr. 128), fols. 109<sup>r</sup>–114<sup>v</sup> (12th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/44346/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://lib-fond.ru/lib-rgb/270/f-270-ia-66/\" target=\"_blank\" rel=\"noopener\">Moscow</a></p>",
+      "line_text": "Moscow, Rossiyskaya Gosudarstvennaya Biblioteka, Φ. 270 (P. I. Sevast’janov) 66 (gr. 128), fols. 109r–114v (12th cent.) ~ Pinakes; Moscow",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/44346/",
+        "https://lib-fond.ru/lib-rgb/270/f-270-ia-66/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Mutilene, Monē Leimōnos, 123, fols. 131<sup>v</sup>–143<sup>v</sup> (17th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/45446/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Mutilene, Monē Leimōnos, 123, fols. 131v–143v (17th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/45446/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Oxford, New College, 149, fols. 40<sup>r</sup>–97<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/48739/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Oxford, New College, 149, fols. 40r–97v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/48739/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 755, fols. 134<sup>r</sup>–143<sup>v</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50338/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10509299n\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 755, fols. 134r–143v (11th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50338/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10509299n"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1180, fols. 27<sup>r</sup>–31<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/50783/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10086092t?rk=193134;0\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1180, fols. 27r–31v (10th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/50783/",
+        "https://gallica.bnf.fr/ark:/12148/btv1b10086092t?rk=193134;0"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=sWBoZmcgbX0C&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23\" alt=\"\" width=\"35\" height=\"23\"/></a>Combefis, François. <em>Bibliothecae graecorum patrum auctarium novissimum</em>. 2 vols. Paris: Aegidii Hotot, 1672 (Greek text from Paris gr. 1180 with Latin translation, vol. 1, pp. 364–86).</p>",
+      "line_text": "Combefis, François. Bibliothecae graecorum patrum auctarium novissimum. 2 vols. Paris: Aegidii Hotot, 1672 (Greek text from Paris gr. 1180 with Latin translation, vol. 1, pp. 364–86).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=sWBoZmcgbX0C&printsec=frontcover&redir_esc=y#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/izviestiiaimpera61011181916impe/page/1504/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Latyšev, Vasilij V. “Ad Nicetae David Paphlagonis laudationes ss. apostolorum.” <em>Bulletin de l’Académie impériale des sciences de St. Pétersbourg</em> Ser. 6 vol. 10 (1916): 1505–1522 (variant readings from Moscow, Sinod. gr. 176, pp. 1514–16).</p>",
+      "line_text": "Latyšev, Vasilij V. “Ad Nicetae David Paphlagonis laudationes ss. apostolorum.” Bulletin de l’Académie impériale des sciences de St. Pétersbourg Ser. 6 vol. 10 (1916): 1505–1522 (variant readings from Moscow, Sinod. gr. 176, pp. 1514–16).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/izviestiiaimpera61011181916impe/page/1504/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=h_MUAAAAQAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 105. Paris: Cerf, 1862 (reproduction of Greek text and Latin translation by Combefis, cols. 127–46).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 105. Paris: Cerf, 1862 (reproduction of Greek text and Latin translation by Combefis, cols. 127–46).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://books.google.ca/books?id=h_MUAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
     },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",

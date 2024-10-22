@@ -34,6 +34,15 @@
       ]
     },
     {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-423/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 423, fols. 144<sup>r</sup>–151<sup>v</sup> (1626)</p>",
+      "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 423, fols. 144r–151v (1626)",
+      "language": "Arabic script",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-mone-tes-hagias-aikaterines-ar-423/"
+      ]
+    },
+    {
       "line_html": "<p style=\"padding-left: 40px;\">Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 457, item 7 (10th cent.) ~ <a href=\"https://sinaimanuscripts.library.ucla.edu/catalog/ark:%2F21198%2Fz12j7g7m\" target=\"_blank\" rel=\"noopener\">Sinai</a>; <a href=\"https://www.loc.gov/item/00279391160-ms/\" target=\"_blank\" rel=\"noopener\">LOC</a></p>",
       "line_text": "Mount Sinai, Monē tēs Hagias Aikaterinēs, ar. 457, item 7 (10th cent.) ~ Sinai; LOC",
       "language": "Arabic script",
@@ -44,10 +53,19 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, <span class=\"a\">Vat. a<span class=\"l12\">r. 171, fols. 136<span class=\"l6\"><span class=\"l10\"><sup>r</sup>–</span></span>146<span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span> <span class=\"l11\">(17</span></span></span><span class=\"a\">th</span><span class=\"a\"> cent.)</span><span class=\"a\"><br/></span></p>",
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, <span class=\"a\">Vat. a<span class=\"l12\">r. 171, fols. 136<span class=\"l6\"><span class=\"l10\"><sup>r</sup>–</span></span>146<span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span> <span class=\"l11\">(17</span></span></span><span class=\"a\">th</span><span class=\"a\"> cent.)</span></p>",
       "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. ar. 171, fols. 136r–146v (17th cent.)",
       "language": "Arabic script",
       "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Zūq Mīkhāʼīl (Lebanon), Dayr Sayyidat al-Bishārah, 33, fols. 317<span class=\"a\"><span class=\"l12\"><span class=\"l6\"><span class=\"l10\"><sup>r</sup></span></span></span></span>–326<span class=\"a\"><span class=\"l12\"><span class=\"l6\"><span class=\"l10\"><sup>v</sup></span></span></span></span> (17th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/537865\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Zūq Mīkhāʼīl (Lebanon), Dayr Sayyidat al-Bishārah, 33, fols. 317r–326v (17th cent.) ~ HMML",
+      "language": "Arabic script",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/537865"
+      ]
     },
     {
       "line_html": "<p style=\"padding-left: 40px;\"><span class=\"a\">Charfeh, <span class=\"l8\">Syriac 11/6, <span class=\"l6\">15 (17</span></span></span><span class=\"a\">th</span><span class=\"a\"> cent.)</span></p>",
@@ -314,6 +332,24 @@
       "entry_type": "Manuscript",
       "manuscripta_apocryphorum_urls": [
         "https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Goğğām Province (Ethiopia), Dabra Abuna Ḥarā Monastery, EMML 8628, fols. 171<sup>v</sup>–178<sup>v</sup> (18th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/201474\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Goğğām Province (Ethiopia), Dabra Abuna Ḥarā Monastery, EMML 8628, fols. 171v–178v (18th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/201474"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ānsabā Region (Eritrea), Ṣa’edā Embā Śellāsē Monastery, EMML 1479, fols. 55<sup>v</sup>–59<sup>v</sup> (15th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/203311\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Ānsabā Region (Eritrea), Ṣa’edā Embā Śellāsē Monastery, EMML 1479, fols. 55v–59v (15th cent.) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/203311"
       ]
     },
     {

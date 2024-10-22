@@ -1,0 +1,118 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-thomas-epitome-by-nicetas-of-thessalonica/",
+  "nasscal_title": "Acts of Thomas (epitome), by Nicetas of Thessalonica",
+  "filename": "acts-of-thomas-epitome-by-nicetas-of-thessalonica",
+  "latin_title": "Acta Thomae, auctore Niceta Thessalonicensi",
+  "abbrev": "Acts Thom. (Nicetas)",
+  "alt_titles": [
+    "Acts of Thomas (epitome)"
+  ],
+  "clavis_number": 297,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Mount Athos, Mone Pantokratoros,  21, fols. 260<sup>r</sup>–302<sup>v </sup>(11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/29040/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "A  Mount Athos, Mone Pantokratoros,  21, fols. 260r–302v (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/29040/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>O</strong>  Oxford, Bodleian Library, New College C.149, fols. 40<sup>r</sup>–96<sup>v</sup> (11th cent.)</p>",
+      "line_text": "O  Oxford, Bodleian Library, New College C.149, fols. 40r–96v (11th cent.)",
+      "language": "Greek",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>P</strong>  Paris, Bibliothèque nationale de France, gr. 1516, fols. 167<sup>r</sup>–207<sup>v </sup>(11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51134/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b107218909\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "P  Paris, Bibliothèque nationale de France, gr. 1516, fols. 167r–207v (11th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51134/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b107218909"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>R</strong>  St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 95 (Granstrem 234), fols. 57<sup>r</sup>–114<sup>r</sup> (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/57165/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "R  St. Petersburg, Russian National Library/Rossijskaja Nacional’naja biblioteka (RNB), Ф. № 906 (Gr.) 95 (Granstrem 234), fols. 57r–114r (11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/57165/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>S</strong>  Sinai, Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 516, fols. 173<sup>r</sup>–211<sup>r</sup> (11th/12th cent.) ~ <a href=\"https://www.loc.gov/item/00279380563-ms\" target=\"_blank\" rel=\"noopener\">LOC</a>; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/58891/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "S  Sinai, Mount Sinai, Monē tēs Hagias Aikaterinēs, gr. 516, fols. 173r–211r (11th/12th cent.) ~ LOC; Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://www.loc.gov/item/00279380563-ms",
+        "https://pinakes.irht.cnrs.fr/notices/cote/58891/"
+      ]
+    },
+    {
+      "line_html": "<p>Beneševic, V. N. <em>Catalogus codicum manuscriptorum graecorum qui in monasterio Sanctae Catharinae in Monte Sina asservantur</em>. 2 vols. 1911–1917. Repr., Hildesheim: Georg Olms, 1965 (text of the prologue from S, vol. 1, pp. 190–91).</p>",
+      "line_text": "Beneševic, V. N. Catalogus codicum manuscriptorum graecorum qui in monasterio Sanctae Catharinae in Monte Sina asservantur. 2 vols. 1911–1917. Repr., Hildesheim: Georg Olms, 1965 (text of the prologue from S, vol. 1, pp. 190–91).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><u><a href=\"https://archive.org/details/sim_analecta-bollandiana_1901_20/page/n156/mode/1up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a></u>Bonnet, Max. “Actes de saint Thomas, apôtre. Le poème de l’âme. Version grecque remaniée par Nicétas de Thessalonique.”<em>AnBoll</em> 20 (1901): 159–64 (edition of the Hymn of the Pearl portion based on P and R).</p>",
+      "line_text": "Bonnet, Max. “Actes de saint Thomas, apôtre. Le poème de l’âme. Version grecque remaniée par Nicétas de Thessalonique.”AnBoll 20 (1901): 159–64 (edition of the Hymn of the Pearl portion based on P and R).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/sim_analecta-bollandiana_1901_20/page/n156/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actathomaegraece00bonn/page/n15/mode/2up\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\"/></a>———. <em>Acta Thomae graece partim cum novis codicibus contulit partim primus edidit, latine recensuit</em>. Supplementum Codicis Apocryphi 1. Lipsiae: Hermann Mendelssohn, 1883 (excerpt from P, p. viii–ix).</p>",
+      "line_text": "———. Acta Thomae graece partim cum novis codicibus contulit partim primus edidit, latine recensuit. Supplementum Codicis Apocryphi 1. Lipsiae: Hermann Mendelssohn, 1883 (excerpt from P, p. viii–ix).",
+      "language": "Greek",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/actathomaegraece00bonn/page/n15/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Poirier, Paul-Hubert. <i>L’Hymne de la Perle des Actes de Thomas</i>. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (excerpts based on AOPS with facing French translation; prologue, pp. 290–91; Hymn of the Pearl, pp. 346–51).</p>",
+      "line_text": "Poirier, Paul-Hubert. L’Hymne de la Perle des Actes de Thomas. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (excerpts based on AOPS with facing French translation; prologue, pp. 290–91; Hymn of the Pearl, pp. 346–51).",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Poirier, Paul-Hubert. <i>L’Hymne de la Perle des Actes de Thomas</i>. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (excerpts based on AOPS with facing French translation; prologue, pp. 290–91; Hymn of the Pearl, pp. 346–51).</p>",
+      "line_text": "Poirier, Paul-Hubert. L’Hymne de la Perle des Actes de Thomas. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (excerpts based on AOPS with facing French translation; prologue, pp. 290–91; Hymn of the Pearl, pp. 346–51).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Poirier, Paul-Hubert. <i>L’Hymne de la Perle des Actes de Thomas</i>. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (pp. 275–85).</p>",
+      "line_text": "Poirier, Paul-Hubert. L’Hymne de la Perle des Actes de Thomas. Homo religiosus 8. Louvain-la-Neuve: Centre d’histoire des religions, 1981. 2nd augmented ed. Turnhout: Brepols, 2021 (pp. 275–85).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>———. “Nicétas de Thessalonique, hagiographe. Bref plaidoyer pour un auteur méconnu.” Pages 455–65 in <em>Philologie, herméneutique et histoire des textes entre Orient et Occident. Mélanges en hommage à Sever J. Voicu</em>. Instrumenta Patristica et mediaevalia 73. Turnhout: Brepols, 2017.</p>",
+      "line_text": "———. “Nicétas de Thessalonique, hagiographe. Bref plaidoyer pour un auteur méconnu.” Pages 455–65 in Philologie, herméneutique et histoire des textes entre Orient et Occident. Mélanges en hommage à Sever J. Voicu. Instrumenta Patristica et mediaevalia 73. Turnhout: Brepols, 2017.",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

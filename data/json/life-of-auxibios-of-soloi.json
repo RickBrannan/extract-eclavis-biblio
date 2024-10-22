@@ -1,0 +1,135 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/life-of-auxibios-of-soloi/",
+  "nasscal_title": "Life of Auxibios of Soloi",
+  "filename": "life-of-auxibios-of-soloi",
+  "latin_title": "1. SUMMARY",
+  "abbrev": "Life Aux.",
+  "clavis_number": 371,
+  "category": "Apocryphal Acts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Brussels, Bibliothèque des Bollandistes, 192 (284), fols. 90–95 (17th cent.) ~ perhaps a copy of BNF gr. 1452; <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/9862/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Brussels, Bibliothèque des Bollandistes, 192 (284), fols. 90–95 (17th cent.) ~ perhaps a copy of BNF gr. 1452; Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/9862/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Istanbul, Patriarchikē Bibliothēkē, Hagia Trias 95, fols. 62r–67<sup>v</sup> (10th/11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/33593/\" target=\"_blank\" rel=\"noopener\">Pinakes</a></p>",
+      "line_text": "Istanbul, Patriarchikē Bibliothēkē, Hagia Trias 95, fols. 62r–67v (10th/11th cent.) ~ Pinakes",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/33593/"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Jerusalem, Patriarchikē Bibliothēkē, Panagiou Taphou 1, fols. 116<sup>v</sup>–123<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/35238/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://www.loc.gov/item/00279389268-jo\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
+      "line_text": "Jerusalem, Patriarchikē Bibliothēkē, Panagiou Taphou 1, fols. 116v–123v (10th cent.) ~ Pinakes; IMAGES",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/35238/",
+        "https://www.loc.gov/item/00279389268-jo"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, gr. 1452, fols. 153<sup>v</sup>–159<sup>v</sup> (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/51069/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://gallica.bnf.fr/ark:/12148/btv1b11000020q\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, gr. 1452, fols. 153v–159v (10th cent.) ~ Pinakes; Gallica",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/51069/",
+        "http://gallica.bnf.fr/ark:/12148/btv1b11000020q"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 92, fols. 203–95 (154–1553) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/65333/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"http://digi.vatlib.it/view/MSS_Ott.gr.92\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Ott. gr. 92, fols. 203–95 (154–1553) ~ Pinakes; BAV",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/65333/",
+        "http://digi.vatlib.it/view/MSS_Ott.gr.92"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Vienna, Österreichische Nationalbibliothek, hist. gr. 3, fols. 177–186 (11th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/70880/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://onb.digital/result/131C97C9\" target=\"_blank\" rel=\"noopener\">ONB</a></p>",
+      "line_text": "Vienna, Österreichische Nationalbibliothek, hist. gr. 3, fols. 177–186 (11th cent.) ~ Pinakes; ONB",
+      "language": "Greek",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/70880/",
+        "https://onb.digital/result/131C97C9"
+      ]
+    },
+    {
+      "line_html": "<p>Noret, Jacques, ed. “Vita Sancti Auxibii.” Pages 139–202 in<em> Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho</em>. Edited by Peter Van Deun and Jaques Noret. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993.</p>",
+      "line_text": "Noret, Jacques, ed. “Vita Sancti Auxibii.” Pages 139–202 in Hagiographica cypria. Sancti Barnabae laudatio auctore Alexandro monacho. Edited by Peter Van Deun and Jaques Noret. CCSG 26. Turnhout: Brepols; Leuven: University Press, 1993.",
+      "language": "Greek",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Pohlsander, Hans A., ed. <em>Sources for the History of Cyprus.</em> Vol. 7: <em>Greek Texts of the Fourth to Fifteenth Centuries.</em> Altamont, NY: Greece and Cyprus Research Center, 1999 (partial, pp. 57–60).</p>",
+      "line_text": "Pohlsander, Hans A., ed. Sources for the History of Cyprus. Vol. 7: Greek Texts of the Fourth to Fifteenth Centuries. Altamont, NY: Greece and Cyprus Research Center, 1999 (partial, pp. 57–60).",
+      "language": "English",
+      "entry_type": "Translations"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/actasanctorum06unse/page/126/mode/2up\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Bolland, Jean et al., eds. <em>Acta Sanctorum, Februarius</em>. Vol. 3. 3rd ed. Paris: V. Palmé, 1863 (Latin translation, vol. 3, pp. 127–30).</p>",
+      "line_text": "Bolland, Jean et al., eds. Acta Sanctorum, Februarius. Vol. 3. 3rd ed. Paris: V. Palmé, 1863 (Latin translation, vol. 3, pp. 127–30).",
+      "language": "Latin",
+      "entry_type": "Translations",
+      "other_urls": [
+        "https://archive.org/details/actasanctorum06unse/page/126/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bub_gb_CNP7E3QFzZ0C/page/n1161/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Lippomano, Luigi (Aloisius Lipomanus). <em>Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta</em>. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei, 1551–1560 (Latin translation, vol. 5, pp. 569–73).</p>",
+      "line_text": "Lippomano, Luigi (Aloisius Lipomanus). Sanctorum priscorum patrum vitae numero centum sexagintatres, per gravissimos et probatissimos auctores conscripta. 8 vols. Rome: ex Officina Salviana and Venice: ad Signum Spei, 1551–1560 (Latin translation, vol. 5, pp. 569–73).",
+      "language": "Latin",
+      "entry_type": "Translations",
+      "other_urls": [
+        "https://archive.org/details/bub_gb_CNP7E3QFzZ0C/page/n1161/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=L4yc7Z5JN90C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Surius, Laurentius. <em>De probatis Sanctorum historiis: partim ex tomis Aloysii Lipomani </em>. . . 6 vols. Cologne: Calenius and Quentel, 1570–1575 (Latin translation, vol. 1, pp. 1018–24).</p>",
+      "line_text": "Surius, Laurentius. De probatis Sanctorum historiis: partim ex tomis Aloysii Lipomani . . . 6 vols. Cologne: Calenius and Quentel, 1570–1575 (Latin translation, vol. 1, pp. 1018–24).",
+      "language": "Latin",
+      "entry_type": "Translations",
+      "other_urls": [
+        "https://books.google.ca/books?id=L4yc7Z5JN90C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/sim_analecta-bollandiana_1907_26/page/n157/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Delahaye, “Saints de Chypre.” <em> AnBoll</em> 26 (1907): 161–301.</p>",
+      "line_text": "Delahaye, “Saints de Chypre.”  AnBoll 26 (1907): 161–301.",
+      "language": "English",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://archive.org/details/sim_analecta-bollandiana_1907_26/page/n157/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Furlong, Dean. <em>The John also Called Mark. Reception and Transformation in Christian Tradition</em>. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (Life of Auxibios discussed, pp. 62–63).</p>",
+      "line_text": "Furlong, Dean. The John also Called Mark. Reception and Transformation in Christian Tradition. WUNT II 518. Tübingen: Mohr Siebeck, 2020 (Life of Auxibios discussed, pp. 62–63).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "English",
+      "entry_type": "Other"
+    }
+  ]
+}

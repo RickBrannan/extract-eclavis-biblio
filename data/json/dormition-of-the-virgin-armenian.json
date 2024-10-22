@@ -1,0 +1,206 @@
+{
+  "nasscal_url": "https://www.nasscal.com/e-clavis-christian-apocrypha/dormition-of-the-virgin-armenian/",
+  "nasscal_title": "Dormition of the Virgin (Armenian)",
+  "filename": "dormition-of-the-virgin-armenian",
+  "latin_title": "Liber de dormitione (armeniace)",
+  "abbrev": "Dorm. Vir. (Arm.)",
+  "alt_titles": [
+    "Transitus"
+  ],
+  "clavis_number": 283,
+  "category": "Dormition Accounts",
+  "compiler": "Tony Burke, York University",
+  "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong> Paris, Bibliothèque nationale de France, Arm. 110, fols. 479–486 (1194)</p>",
+      "line_text": "A Paris, Bibliothèque nationale de France, Arm. 110, fols. 479–486 (1194)",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Paris, Bibliothèque nationale de France, Arm. 117, fol. 151f. (1305) ~ Mimouni lists as 118 ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100882193?rk=21459;2\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "B  Paris, Bibliothèque nationale de France, Arm. 117, fol. 151f. (1305) ~ Mimouni lists as 118 ~ GALLICA",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100882193?rk=21459;2"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>E</strong>  Paris, Bibliothèque nationale de France, Arm. 178, fols. 586–591 (12th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b100874360\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "E  Paris, Bibliothèque nationale de France, Arm. 178, fols. 586–591 (12th cent.) ~ GALLICA",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b100874360"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>b</strong>  Venice, Mekhitarist Monastery of San Lazzaro, 512 (1637)</p>",
+      "line_text": "b  Venice, Mekhitarist Monastery of San Lazzaro, 512 (1637)",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>e</strong>  Venice, Mekhitarist Monastery of San Lazzaro, 271 (1223)</p>",
+      "line_text": "e  Venice, Mekhitarist Monastery of San Lazzaro, 271 (1223)",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>d </strong> Venice, Mekhitarist Monastery of San Lazzaro, 1553 (1215)</p>",
+      "line_text": "d  Venice, Mekhitarist Monastery of San Lazzaro, 1553 (1215)",
+      "language": ".1 Long Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Paris, Bibliothèque nationale de France, Arm. 120, fols. 135–141 (14th cent.) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b52506819w\" target=\"_blank\" rel=\"noopener\">GALLICA</a></p>",
+      "line_text": "C  Paris, Bibliothèque nationale de France, Arm. 120, fols. 135–141 (14th cent.) ~ GALLICA",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b52506819w"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>c</strong>  Venice, Mekhitarist Monastery of San Lazzaro, 653 (1847)</p>",
+      "line_text": "c  Venice, Mekhitarist Monastery of San Lazzaro, 653 (1847)",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>a</strong>  Venice, Mekhitarist Monastery of San Lazzaro, 1014 (12th cent.)</p>",
+      "line_text": "a  Venice, Mekhitarist Monastery of San Lazzaro, 1014 (12th cent.)",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Unassigned:</p>",
+      "line_text": "Unassigned:",
+      "language": ".2 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Mekhitarist Monastery of San Lazzaro, 2, fols. 169<sup>v</sup>–175<sup>v</sup> (15th cent.)</p>",
+      "line_text": "Venice, Mekhitarist Monastery of San Lazzaro, 2, fols. 169v–175v (15th cent.)",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Mekhitarist Monastery of San Lazzaro, 5, fols. 315<sup>r</sup>–333<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Venice, Mekhitarist Monastery of San Lazzaro, 5, fols. 315r–333v (13th cent.)",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Venice, Mekhitarist Monastery of San Lazzaro, 382, fols. 1<sup>r</sup>–23<sup>v</sup> (13th cent.)</p>",
+      "line_text": "Venice, Mekhitarist Monastery of San Lazzaro, 382, fols. 1r–23v (13th cent.)",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Yerevan, Matenadaran, 993 (1456)</p>",
+      "line_text": "Yerevan, Matenadaran, 993 (1456)",
+      "language": ".2 Short Recension",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Tayec‘i, E. <em>Ankanon girk‘ nor ktakaranac‘ </em>(Libri spurii Noui Testamenti). 2 vols. Venice, 1898 (text of short recension based principally on manuscript a with readings from bcde, vol. 2, pp. 451–78).</p>",
+      "line_text": "Tayec‘i, E. Ankanon girk‘ nor ktakaranac‘ (Libri spurii Noui Testamenti). 2 vols. Venice, 1898 (text of short recension based principally on manuscript a with readings from bcde, vol. 2, pp. 451–78).",
+      "language": ".2 Short Recension",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p class=\"p1\"><a href=\"https://opendigi.ub.uni-tuebingen.de/opendigi/thq_1902#p=328\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Vetter, Paul. “Die armenische ‘Dormitio Mariae.’” <em>Theologische Quartalschrift</em> 84 (1902): 321–49 (German translation of the longer recension based on A with readings from BCDE and abcde).</p>",
+      "line_text": "Vetter, Paul. “Die armenische ‘Dormitio Mariae.’” Theologische Quartalschrift 84 (1902): 321–49 (German translation of the longer recension based on A with readings from BCDE and abcde).",
+      "language": "German",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://opendigi.ub.uni-tuebingen.de/opendigi/thq_1902#p=328"
+      ]
+    },
+    {
+      "line_html": "<p>Erbetta, Mario. <em>Gli apocrifi del Nuovo Testamento</em>. 3 vols. Italy: Marietti, 1975–1981 (summary only, vol. 1.2, pp. 524–25).</p>",
+      "line_text": "Erbetta, Mario. Gli apocrifi del Nuovo Testamento. 3 vols. Italy: Marietti, 1975–1981 (summary only, vol. 1.2, pp. 524–25).",
+      "language": "Italian",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Esbroeck, Michel van. “Les textes litteraires sur l’Assomption avant le X<sup>e  </sup>siècle.” Pages 265–85 in <em>Les actes apocryphes des apôtres</em>. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.</p>",
+      "line_text": "Esbroeck, Michel van. “Les textes litteraires sur l’Assomption avant le Xe  siècle.” Pages 265–85 in Les actes apocryphes des apôtres. Edited by François Bovon. Publications de la faculte de theologie de l’Universite de Geneve 4. Geneva: Labor et Fides, 1981.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jugie, Martin. <em>La Mort et l’Assumption de la Sainte Vierge: Étude historico-doctrinale</em>. Studi e Testi 114. Vatican City: Biblioteca Apostolica Vaticana, 1944.</p>",
+      "line_text": "Jugie, Martin. La Mort et l’Assumption de la Sainte Vierge: Étude historico-doctrinale. Studi e Testi 114. Vatican City: Biblioteca Apostolica Vaticana, 1944.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>McNamara, Martin. “Transitus Mariae: General Introduction.” Pages 225–44 in <em>Apocrypha Hiberniae II. Apocalyptica 2.</em> Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019.</p>",
+      "line_text": "McNamara, Martin. “Transitus Mariae: General Introduction.” Pages 225–44 in Apocrypha Hiberniae II. Apocalyptica 2. Edited by Martin McNamara et al. CCSA 21. Turnhout: Brepols, 2019.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=iPiR0YOnWFkC&amp;pg=PA214&amp;lpg=PA214&amp;dq=Le+Saint-Macaire+488+(Hag.+75)&amp;source=bl&amp;ots=tCbqKUbyqv&amp;sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&amp;q=Le%20Saint-Macaire%20488%20(Hag.%2075)&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Mimouni, Simon. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995.</p>",
+      "line_text": "Mimouni, Simon. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=iPiR0YOnWFkC&pg=PA214&lpg=PA214&dq=Le+Saint-Macaire+488+(Hag.+75)&source=bl&ots=tCbqKUbyqv&sig=ACfU3U32mPQRlZUrZ8u3tQJgACfVoCdokA&hl=en&sa=X&ved=2ahUKEwizisb3itXiAhUjq1kKHTDzDvkQ6AEwBnoECAoQAQ#v=onepage&q=Le%20Saint-Macaire%20488%20(Hag.%2075)&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. <em>Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales</em>. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011.</p>",
+      "line_text": "__________. Les traditions anciennes sur la Dormition et l’Assomption de Marie: Études littéraires, historiques et doctrinales. Supplements to Vigiliae Christianae 104. Leiden: Brill, 2011.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><a href=\"https://books.google.ca/books?id=YuQTDAAAQBAJ&amp;pg=PA36&amp;lpg=PA36&amp;dq=assumption+melito&amp;source=bl&amp;ots=LG3w97lJwh&amp;sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&amp;q=assumption%20melito&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\"><img decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Shoemaker, Stephen J. <em>Ancient Traditions of the Virgin Mary’s Dormition and Assumption</em>. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.</p>",
+      "line_text": "Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford Early Christian Studies. Oxford: Oxford University Press, 2002.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other",
+      "other_urls": [
+        "https://books.google.ca/books?id=YuQTDAAAQBAJ&pg=PA36&lpg=PA36&dq=assumption+melito&source=bl&ots=LG3w97lJwh&sig=D7fcfVqGsPLVLsfkx5usqB8IPuo&hl=en&sa=X&ved=0ahUKEwi-1e6FgfbaAhWi7IMKHXsYClcQ6AEIYTAF#v=onepage&q=assumption%20melito&f=false"
+      ]
+    },
+    {
+      "line_html": "<p>__________. <em>Mary in Early Christian Faith and Devotion.</em> New Haven: Yale University Press, 2016.</p>",
+      "line_text": "__________. Mary in Early Christian Faith and Devotion. New Haven: Yale University Press, 2016.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Wenger, Antoine. <em>L’Assomption de la T.S. Vierge dans la tradition byzantine du VI<sup>e</sup> au X<sup>e</sup> siècle. Études et documents</em>. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955.</p>",
+      "line_text": "Wenger, Antoine. L’Assomption de la T.S. Vierge dans la tradition byzantine du VIe au Xe siècle. Études et documents. Archives de l’Orient chrétien 5. Paris: Institut français d’études byzantines, 1955.",
+      "language": "Dormition Narratives",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Jugie, Martin. <em>La Mort et l’Assumption de la Sainte Vierge: Étude historico-doctrinale</em>. Studi e Testi 114. Vatican City: Biblioteca Apostolica Vaticana, 1944 (see pp. 155–56).</p>",
+      "line_text": "Jugie, Martin. La Mort et l’Assumption de la Sainte Vierge: Étude historico-doctrinale. Studi e Testi 114. Vatican City: Biblioteca Apostolica Vaticana, 1944 (see pp. 155–56).",
+      "language": "Dormition of the Virgin",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Mimouni, Simon. <em>Dormition et assumption de Marie: Histoire des traditions anciennnes</em>. Paris: Beauchesne, 1995 (pp. 322–28).</p>",
+      "line_text": "Mimouni, Simon. Dormition et assumption de Marie: Histoire des traditions anciennnes. Paris: Beauchesne, 1995 (pp. 322–28).",
+      "language": "Dormition of the Virgin",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
+      "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
+      "language": "Dormition of the Virgin",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"/>",
+      "language": "Dormition of the Virgin",
+      "entry_type": "Other"
+    }
+  ]
+}

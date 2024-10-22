@@ -203,15 +203,6 @@
       ]
     },
     {
-      "line_html": "<p style=\"padding-left: 30px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-980 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\" data-recalc-dims=\"1\"/></a>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316<sup>r</sup>–1318<sup>v </sup>(1542)</p>",
-      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1190, fols. 1316r–1318v (1542)",
-      "language": ".4 BHG 76",
-      "entry_type": "Manuscript",
-      "manuscripta_apocryphorum_urls": [
-        "https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1190/"
-      ]
-    },
-    {
       "line_html": "<p style=\"padding-left: 30px;\">St. Petersburg, National Library of Russia, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200<sup>v</sup> (16th cent.) = de Santos Otero 1</p>",
       "line_text": "St. Petersburg, National Library of Russia, Peterbugskaja Ducovnaja Akademija (Sofijskaja biblioteka) 1354, fols. 198–200v (16th cent.) = de Santos Otero 1",
       "language": "Church Slavic",
@@ -263,6 +254,37 @@
       "line_html": "<p>Santos Otero, Aurelio de. <em>Die handscriftliche Überlieferung der altslavischen Apokryphen</em>. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977. (Discussion of the Slavonic tradition, vol. 1, pp. 138–39)</p>",
       "line_text": "Santos Otero, Aurelio de. Die handscriftliche Überlieferung der altslavischen Apokryphen. 2 vols. PTS 20 and 23. Berlin: de Gruyter, 1977. (Discussion of the Slavonic tradition, vol. 1, pp. 138–39)",
       "language": "Church Slavic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Preliminary translation: October 1, contending of the holy martyr and apostle Ananias, bishop of Damascus. Ananias, the martyr and apostle of Christ, a disciple of the great apostles Peter and Andrew, was ordained by the same as bishop of the city of Damascus. But when he was in the same city, and having heard that Paul, then a persecutor of the Church of Christ, was coming from Jerusalem to apprehend him, he was preparing to flee. But when the Lord appeared to him, he ordered him to stop and baptize Paul and restore his sight, saying, “I am Jesus Christ; but go to Ananias, and baptize, and receive sight.” Ananias fulfilled the commandment of the Lord, baptizing Saul and changing his name to Paul. Afterwards, being arrested by the idolaters, he was brought before Lucianus the governor, by whom he was killed, first by being cast down from the walls, and finally thrown out of the city, and stoned to death. He was buried in Damascus.</p>",
+      "line_text": "Preliminary translation: October 1, contending of the holy martyr and apostle Ananias, bishop of Damascus. Ananias, the martyr and apostle of Christ, a disciple of the great apostles Peter and Andrew, was ordained by the same as bishop of the city of Damascus. But when he was in the same city, and having heard that Paul, then a persecutor of the Church of Christ, was coming from Jerusalem to apprehend him, he was preparing to flee. But when the Lord appeared to him, he ordered him to stop and baptize Paul and restore his sight, saying, “I am Jesus Christ; but go to Ananias, and baptize, and receive sight.” Ananias fulfilled the commandment of the Lord, baptizing Saul and changing his name to Paul. Afterwards, being arrested by the idolaters, he was brought before Lucianus the governor, by whom he was killed, first by being cast down from the walls, and finally thrown out of the city, and stoned to death. He was buried in Damascus.",
+      "language": "Menologion of Basil II",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 76 (10th cent.) ~ <a href=\"https://pinakes.irht.cnrs.fr/notices/cote/68244/\" target=\"_blank\" rel=\"noopener\">Pinakes</a>; <a href=\"https://digi.vatlib.it/view/MSS_Vat.gr.1613\" target=\"_blank\" rel=\"noopener\">BAV</a></p>",
+      "line_text": "Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1613, p. 76 (10th cent.) ~ Pinakes; BAV",
+      "language": "Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://pinakes.irht.cnrs.fr/notices/cote/68244/",
+        "https://digi.vatlib.it/view/MSS_Vat.gr.1613"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologicursus80migngoog/page/n47/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Migne, Jacques-Paul. <em>Patrologiae cursus completus: Series graeca.</em> Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 29–30).</p>",
+      "line_text": "Migne, Jacques-Paul. Patrologiae cursus completus: Series graeca. Vol. 117. Paris: Cerf, 1903 (Greek text with facing Latin translation, cols. 29–30).",
+      "language": "Menologion of Basil II",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologicursus80migngoog/page/n47/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p>Delahaye, Hippolyte, ed.<em> Propylaeum ad Acta Santorum Novembris. Synaxarium Ecclesiae Constantinopolitanae</em>. 1902. Repr. Brussels: Société des Bollandistes, 1954 (col. 95).</p>",
+      "line_text": "Delahaye, Hippolyte, ed. Propylaeum ad Acta Santorum Novembris. Synaxarium Ecclesiae Constantinopolitanae. 1902. Repr. Brussels: Société des Bollandistes, 1954 (col. 95).",
+      "language": "Constantinople Synaxarion",
       "entry_type": "Edition"
     },
     {

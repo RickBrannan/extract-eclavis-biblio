@@ -6,7 +6,7 @@
   "abbrev": "Life Mir. Thec.",
   "clavis_number": 792,
   "category": "Apocryphal Acts",
-  "compiler": "Andrew Jacobs, Harvard Divinity School",
+  "compiler": "Andrew S. Jacobs, Harvard Divinity School",
   "bibliography_entries": [
     {
       "line_html": "<p style=\"padding-left: 40px;\"><strong>V</strong>  Vatican, Biblioteca Apostolica Vaticana, Vat. gr. 1667, fols. 335–364 (10th cent.) ~ <a href=\"http://digi.vatlib.it/view/MSS_Vat.gr.1667\" target=\"_blank\" rel=\"noopener\">IMAGES</a></p>",
@@ -232,6 +232,15 @@
       "entry_type": "Translation",
       "other_urls": [
         "http://andrewjacobs.org/translations/thecla.html"
+      ]
+    },
+    {
+      "line_html": "<p><a href=\"https://www.nasscal.com/early-christian-apocrypha-series/the-life-of-thecla/\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-984 alignright\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a><em>———. The Life of Thecla: Apocryphal Expansion in Late Antiquity.</em> Early Christian Apocrypha 11. Eugene, OR: Cascade Books, 2024.</p>",
+      "line_text": "———. The Life of Thecla: Apocryphal Expansion in Late Antiquity. Early Christian Apocrypha 11. Eugene, OR: Cascade Books, 2024.",
+      "language": "English",
+      "entry_type": "Translation",
+      "other_urls": [
+        "https://www.nasscal.com/early-christian-apocrypha-series/the-life-of-thecla/"
       ]
     },
     {

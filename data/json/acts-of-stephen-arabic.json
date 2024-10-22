@@ -6,8 +6,197 @@
   "abbrev": "Acts Steph. (Arab.)",
   "clavis_number": 965,
   "category": "Apocryphal Acts",
-  "compiler": "[not available]",
+  "compiler": ": Tony Burke, York University",
   "bibliography_entries": [
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>A</strong>  Cairo, Library of the Church of the All-Holy Virgin in Kasr as-Sam, hist. 15, fols. 234<sup>r</sup>–249<sup>v</sup> (1824)</p>",
+      "line_text": "A  Cairo, Library of the Church of the All-Holy Virgin in Kasr as-Sam, hist. 15, fols. 234r–249v (1824)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>B</strong>  Cairo, Library of the Church of the All-Holy Virgin in the Harat Zuwailah, fols. 25<sup>r</sup>–34<sup>r</sup> (1733-1734).</p>",
+      "line_text": "B  Cairo, Library of the Church of the All-Holy Virgin in the Harat Zuwailah, fols. 25r–34r (1733-1734).",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><strong>C</strong>  Cairo, Church of Saint Barbara in Kasr as-Sam, fols. 198<sup>v</sup>–211<sup>v</sup> (1737)</p>",
+      "line_text": "C  Cairo, Church of Saint Barbara in Kasr as-Sam, fols. 198v–211v (1737)",
+      "language": "Arabic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p>Unevaluated:</p>",
+      "line_text": "Unevaluated:",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, Hag. 47, pp. 422–442 (13th/14th cent.) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/511630\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Wadi El Natrun, Dayr Qiddīs Anbā Maqqār, Hag. 47, pp. 422–442 (13th/14th cent.) ~ HMML",
+      "language": "Arabic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/511630"
+      ]
+    },
+    {
+      "line_html": "<p>‘Abd Al-Masih, Yassa, and Antoine Khater. “An Arabic Apocryphon of Saint Stephen the Archdeacon.” <em>SOCC</em> 13 (1968-1969): 161–98 (edition based on ABC, pp. 165-77; translation, pp. 178–98).</p>",
+      "line_text": "‘Abd Al-Masih, Yassa, and Antoine Khater. “An Arabic Apocryphon of Saint Stephen the Archdeacon.” SOCC 13 (1968-1969): 161–98 (edition based on ABC, pp. 165-77; translation, pp. 178–98).",
+      "language": "Arabic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/patrologiaorient01pari/page/268/mode/1up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Basset, René. “Le Synaxaire arabe jacobite: Mois de Tout et de Babeh.” <em>Patrologia orientalis</em> 1 (1907): 223–379 (text and French translation, pp. 268–70).</p>",
+      "line_text": "Basset, René. “Le Synaxaire arabe jacobite: Mois de Tout et de Babeh.” Patrologia orientalis 1 (1907): 223–379 (text and French translation, pp. 268–70).",
+      "language": "Copto-Arabic Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/patrologiaorient01pari/page/268/mode/1up"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Paris, Bibliothèque nationale de France, d’Abbadie 110, fols. 81<sup>r</sup>–88<sup>r</sup> (1669) ~ <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b10088020q\" target=\"_blank\" rel=\"noopener\">Gallica</a></p>",
+      "line_text": "Paris, Bibliothèque nationale de France, d’Abbadie 110, fols. 81r–88r (1669) ~ Gallica",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://gallica.bnf.fr/ark:/12148/btv1b10088020q"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Ānsabā Region, Ṣa’edā Embā Śellāsē Monastery, EMML 1479, fols. 40<sup>v</sup>–48<sup>r</sup> (1459/1460) ~ <a href=\"https://w3id.org/vhmml/readingRoom/view/203311\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Ānsabā Region, Ṣa’edā Embā Śellāsē Monastery, EMML 1479, fols. 40v–48r (1459/1460) ~ HMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/203311"
+      ]
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 2514, fols. 3<sup>r</sup>–9<sup>v</sup> (1382/1388)</p>",
+      "line_text": "EMML 2514, fols. 3r–9v (1382/1388)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 6965, fols. 16<sup>r</sup>–23<sup>r</sup> (14th cent.)</p>",
+      "line_text": "EMML 6965, fols. 16r–23r (14th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 6903, fols. 20<sup>v</sup>–29<sup>r</sup> (15th cent.)</p>",
+      "line_text": "EMML 6903, fols. 20v–29r (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 6951, fols. 9<sup>r</sup>–16<sup>v</sup> (15th cent.)</p>",
+      "line_text": "EMML 6951, fols. 9r–16v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">EMML 6244, fols. 3<sup>r</sup>–10<sup>r</sup> (19th cent.)</p>",
+      "line_text": "EMML 6244, fols. 3r–10r (19th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 689, fols. 16<sup>r</sup>–24<sup>v</sup> (15th cent.)</p>",
+      "line_text": "London, British Library, Or. 689, fols. 16r–24v (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 686, fols. 27<sup>v</sup>–32<sup>v</sup> (1755/1769)</p>",
+      "line_text": "London, British Library, Or. 686, fols. 27v–32v (1755/1769)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">London, British Library, Or. 687 and 688, fols. 37<sup>r</sup>–43r (18th cent.)</p>",
+      "line_text": "London, British Library, Or. 687 and 688, fols. 37r–43r (18th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Tānāsee 121=Daga Estifanos 10, fols. 20<sup>r</sup>–28<sup>r</sup> (15th cent.)</p>",
+      "line_text": "Tānāsee 121=Daga Estifanos 10, fols. 20r–28r (15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\"><a href=\"https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-980 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/MA-bullet.jpg?resize=72%2C25&amp;ssl=1\" alt=\"\" width=\"72\" height=\"25\"/></a>Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 28<sup>r</sup>–41<sup>v</sup> (14th/15th cent.)</p>",
+      "line_text": "Wallo (Ethiopia), Ḥayq Esṭifanos Monastery, EMML 1766, fols. 28r–41v (14th/15th cent.)",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "manuscripta_apocryphorum_urls": [
+        "https://www.nasscal.com/manuscripta-apocryphorum/ambassal-wallo-%e1%b8%a5ayq-es%e1%b9%adifanos-monastery-emml-1766/"
+      ]
+    },
+    {
+      "line_html": "<p>Unevaluated witnesses:</p>",
+      "line_text": "Unevaluated witnesses:",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p style=\"padding-left: 40px;\">Addis Ababa, Ledatā Māryām Church, EMML 430, fols. 1<sup>r</sup>–46<sup>r</sup> (20th cent.) ~ Life and Martyrdom, fols. 1<sup>r</sup>–46<sup>r</sup>, Glorification, fols. 46<sup>v</sup>–62<sup>v</sup><a href=\"https://w3id.org/vhmml/readingRoom/view/202244\" target=\"_blank\" rel=\"noopener\">HMML</a></p>",
+      "line_text": "Addis Ababa, Ledatā Māryām Church, EMML 430, fols. 1r–46r (20th cent.) ~ Life and Martyrdom, fols. 1r–46r, Glorification, fols. 46v–62vHMML",
+      "language": "Ethiopic",
+      "entry_type": "Manuscript",
+      "other_urls": [
+        "https://w3id.org/vhmml/readingRoom/view/202244"
+      ]
+    },
+    {
+      "line_html": "<p>Labadie, Damien. “Une version éthiopienne des Actes apocryphes du protomartyr Étienne. Édition, traduction et commentaire du manuscrit BnF d’Abbadie 110 (f. 81r–88r).” <em>Mus</em> 128 (2015): 415–72 (edition with facing French translation, pp. 426–69).</p>",
+      "line_text": "Labadie, Damien. “Une version éthiopienne des Actes apocryphes du protomartyr Étienne. Édition, traduction et commentaire du manuscrit BnF d’Abbadie 110 (f. 81r–88r).” Mus 128 (2015): 415–72 (edition with facing French translation, pp. 426–69).",
+      "language": "Ethiopic",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p><a href=\"https://archive.org/details/bookofsaintsofet00yait/page/n81/mode/2up\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-984 size-full\" src=\"https://i0.wp.com/www.nasscal.com/wp-content/uploads/2015/10/ONLINE-bullet.jpg?resize=35%2C23&amp;ssl=1\" alt=\"\" width=\"35\" height=\"23\" data-recalc-dims=\"1\"/></a>Budge, Ernest A. W. <em>The Book of the Saints of the Ethiopian Church.</em> 2 vols. Cambridge: Cambridge University Press, 1928 (English translation of summary of the text from the Ethiopic Synaxarion, vol. 2, pp. 434–35).</p>",
+      "line_text": "Budge, Ernest A. W. The Book of the Saints of the Ethiopian Church. 2 vols. Cambridge: Cambridge University Press, 1928 (English translation of summary of the text from the Ethiopic Synaxarion, vol. 2, pp. 434–35).",
+      "language": ".2 Ethiopic Synaxarion",
+      "entry_type": "Edition",
+      "other_urls": [
+        "https://archive.org/details/bookofsaintsofet00yait/page/n81/mode/2up"
+      ]
+    },
+    {
+      "line_html": "<p><span class=\"s1\">C</span><span class=\"s2\">olin</span><span class=\"s1\">, Gérard. </span><em>Le Synaxaire éthiopien. Mois de Ṭerr.</em><span class=\"s1\"> Turnhout: </span>Brepols, 1990 (text and translation pp. 8–11).</p>",
+      "line_text": "Colin, Gérard. Le Synaxaire éthiopien. Mois de Ṭerr. Turnhout: Brepols, 1990 (text and translation pp. 8–11).",
+      "language": ".2 Ethiopic Synaxarion",
+      "entry_type": "Edition"
+    },
+    {
+      "line_html": "<p>‘Abd Al-Masih, Yassa, and Antoine Khater. “An Arabic Apocryphon of Saint Stephen the Archdeacon.” <em>SOCC</em> 13 (1968-1969): 161–98 (edition based on ABC, pp. 165–77; translation, pp. 178–98).</p>",
+      "line_text": "‘Abd Al-Masih, Yassa, and Antoine Khater. “An Arabic Apocryphon of Saint Stephen the Archdeacon.” SOCC 13 (1968-1969): 161–98 (edition based on ABC, pp. 165–77; translation, pp. 178–98).",
+      "language": "English",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. “Une version éthiopienne des Actes apocryphes du protomartyr Étienne. Édition, traduction et commentaire du manuscrit BnF d’Abbadie 110 (f. 81r–88r).” <em>Mus</em> 128 (2015): 415–72 (edition with facing French translation, pp. 426–69).</p>",
+      "line_text": "Labadie, Damien. “Une version éthiopienne des Actes apocryphes du protomartyr Étienne. Édition, traduction et commentaire du manuscrit BnF d’Abbadie 110 (f. 81r–88r).” Mus 128 (2015): 415–72 (edition with facing French translation, pp. 426–69).",
+      "language": "French",
+      "entry_type": "Translation"
+    },
+    {
+      "line_html": "<p>Bovon, François. “The Dossier on Stephen, the First Martyr.” <em>HTR</em> 96.3 (2003): 279–315 (pp. 306–307).</p>",
+      "line_text": "Bovon, François. “The Dossier on Stephen, the First Martyr.” HTR 96.3 (2003): 279–315 (pp. 306–307).",
+      "language": "English",
+      "entry_type": "Other"
+    },
+    {
+      "line_html": "<p>Labadie, Damien. <em>L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.).</em> Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 290, 498).</p>",
+      "line_text": "Labadie, Damien. L’invention du protomartyr Étienne: sainteté, pouvoir et controverse dans l’antiquité (Ier-VIe s.). Judaïsme ancien et origines du christianisme 21. Turnhout: Brepols, 2021 (pp. 290, 498).",
+      "language": "English",
+      "entry_type": "Other"
+    },
     {
       "line_html": "<p><strong>Suggested edits are welcomed. Please fill in the form below with your suggestions.</strong>\n</p>",
       "line_text": "Suggested edits are welcomed. Please fill in the form below with your suggestions. ",
